@@ -1,0 +1,74 @@
+name: Build data.json
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours, at minute 0
+  workflow_dispatch:          # lets you run it manually too
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Debug - show files
+        run: |
+          pwd
+          ls -la
+          echo "---- scripts ----"
+          ls -la scripts || true
+          echo "---- public ----"
+          ls -la public || true
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build data.json
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: |
+          python scripts/build_data_json.py
+
+      - name: Validate output JSON
+        run: |
+          python - <<'EOF'
+          import json, sys
+          try:
+              with open("public/data.json") as f:
+                  data = json.load(f)
+              required = ["last_updated", "world_org_meetings", "diplomatic_visits", "elections", "global_events"]
+              for key in required:
+                  assert key in data, f"Missing key: {key}"
+              print(f"✅ data.json valid — last_updated: {data['last_updated']}")
+              for k in required[1:]:
+                  print(f"   {k}: {len(data[k])} items")
+          except Exception as e:
+              print(f"❌ Validation failed: {e}")
+              sys.exit(1)
+          EOF
+
+      - name: Copy data.json to docs for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp public/data.json docs/data.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.json docs/data.json
+          git diff --cached --quiet || git commit -m "Update data.json [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+          git pull --rebase origin main
+          git push origin main
