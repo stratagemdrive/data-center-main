@@ -18,12 +18,10 @@ Output: public/data.json
 
 from __future__ import annotations
 
-import hashlib
 import json
 import os
 import re
 import time
-from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -54,7 +52,7 @@ WINDOW_HOURS = 96
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
 
 # ---------------------------------------------------------------------------
-# 40 major English-language RSS feeds
+# RSS feeds
 # ---------------------------------------------------------------------------
 
 RSS_FEEDS: Dict[str, str] = {
@@ -143,15 +141,19 @@ _JUNK_RE = [re.compile(p, re.IGNORECASE) for p in [
     r"\b(crossword|puzzle|sudoku|quiz)\b",
     r"\b(recipe|cooking|restaurant review)\b",
     r"\b(celebrity gossip|kardashian)\b",
-    r"\bnfl (draft|trade|score)\b",
-    r"\bnba (trade|score|roster)\b",
-    r"\b(stock pick|best deal|coupon|discount)\b",
-    r"\btop \d+ (tips|ways|hacks)\b",
-    r"^(weather forecast|today.s weather)\b",
-    r"\b(movie|film|album|book|tv) review\b",
-    r"^\s*(gallery|podcast|subscribe)\b",
-    r"\b(viral|trending|tiktok)\b",
-    r"\b(lottery|jackpot)\b",
+    r"\bnfl\b", r"\bnba\b", r"\bmlb\b", r"\bnhl\b",
+    r"\b(hockey|basketball|baseball|soccer|football|tennis|golf|rugby)\b",
+    r"\b(score|standings|playoff|championship|tournament|league|draft)\b",
+    r"\b(stock pick|best deal|coupon|discount|sale)\b",
+    r"\btop \d+ (tips|ways|hacks|reasons)\b",
+    r"\b(weather forecast|today.s weather)\b",
+    r"\b(movie|film|album|book|tv|podcast) review\b",
+    r"^\s*(gallery|subscribe|newsletter)\b",
+    r"\b(viral|trending|tiktok|instagram|meme)\b",
+    r"\b(lottery|jackpot|casino|betting odds)\b",
+    r"\b(recipe|calories|diet|weight loss|fitness tip)\b",
+    r"\b(property|real estate|housing market|mortgage rate)\b",
+    r"\b(arrested|charged|convicted|sentenced|trial)\b.{0,40}\b(local|county|city|state|police|sheriff|cop)\b",
 ]]
 
 
@@ -160,32 +162,77 @@ def _is_junk(title: str) -> bool:
 
 
 # ---------------------------------------------------------------------------
+# US domestic filter — blocks stories with no international angle
+# ---------------------------------------------------------------------------
+
+_US_DOMESTIC_RE = [re.compile(p, re.IGNORECASE) for p in [
+    r"\b(congress|senate|house of representatives|governor|mayor|supreme court)\b",
+    r"\b(gop|democrat|republican|trump|biden|harris|pelosi)\b(?!.{0,30}\b(foreign|russia|china|ukraine|nato|iran|israel|trade|sanction))",
+    r"\b(2026 midterm|2028 election|presidential race|primary election|caucus)\b",
+    r"\b(wall street|nasdaq|dow jones|s&p 500|federal reserve|fed rate)\b",
+    r"\b(irs|social security|medicare|medicaid|obamacare)\b",
+    r"\b(school shooting|mass shooting|gun control|gun law)\b(?!.{0,30}\b(international|global|worldwide))",
+    r"\bflorida\b|\btexas\b|\bcalifornia\b|\bnew york state\b|\bchicago\b|\blos angeles\b",
+]]
+
+# These override the domestic filter — if present, the story has intl relevance
+_INTL_OVERRIDE = [
+    "russia", "china", "ukraine", "nato", "iran", "israel", "gaza",
+    "taiwan", "north korea", "foreign", "international", "global",
+    "sanctions", "tariff", "trade war", "diplomatic", "united nations",
+    "middle east", "europe", "asia", "africa",
+]
+
+
+def _is_us_domestic(title: str) -> bool:
+    t = title.lower()
+    if any(kw in t for kw in _INTL_OVERRIDE):
+        return False
+    return any(p.search(title) for p in _US_DOMESTIC_RE)
+
+
+# ---------------------------------------------------------------------------
 # Relevance keywords per section
 # ---------------------------------------------------------------------------
 
-_WORLD_ORG_KW = [
+# Must contain BOTH an org name AND an event-type word to pass
+_WORLD_ORG_NAMES = [
     "united nations", " un ", "un general assembly", "un security council",
-    "g7", "g20", "nato", "european union", " eu ", "eu summit", "eu council",
-    "asean", "apec", "african union", " au ", "wto", "imf", "world bank",
-    "world health", " who ", "cop ", "climate summit", "opec", "opec+",
-    "arab league", "brics", "sco ", "shanghai cooperation",
-    "organization of american", " oas ",
+    "g7", "g20", "nato", "european union", " eu summit", "eu council",
+    "asean", "apec", "african union", "wto", "imf", "world bank",
+    "world health organization", " who ", "cop30", "cop ", "climate summit",
+    "opec", "arab league", "brics", "shanghai cooperation", " sco ",
+    "organization of american states", " oas ",
+]
+
+_WORLD_ORG_EVENT_TYPES = [
+    "summit", "meeting", "session", "assembly", "conference",
+    "forum", "talks", "gather", "convene", "negotiate",
 ]
 
 _DIPLOMATIC_KW = [
-    "state visit", "bilateral", "summit", "diplomatic visit",
-    "foreign minister", "secretary of state", "presidential visit",
-    "prime minister visit", "official visit", "talks between",
-    "meeting between", "heads of state", "heads-of-state",
-    "ambassador", "embassy", "diplomatic talks",
+    "state visit", "bilateral", "diplomatic visit",
+    "foreign minister", "secretary of state",
+    "prime minister.*visit", "president.*visit",
+    "official visit", "talks between", "meeting between",
+    "heads of state", "diplomatic talks", "diplomatic meeting",
 ]
 
 _ELECTION_KW = [
     "election", "presidential election", "parliamentary election",
     "general election", "legislative election", "referendum",
     "snap election", "federal election", "national election",
-    "goes to polls", "voters head", "polling day",
+    "goes to polls", "voters head to polls", "polling day",
+    "votes for", "casts ballot",
 ]
+
+# Blocks for elections section specifically
+_ELECTION_DOMESTIC_BLOCK = [
+    r"\b(midterm|2028|trump|gop|democrat|republican|senate race|house race)\b",
+    r"\b(betting market|odds|favorite for|polling average)\b",
+    r"\b(kevin o.leary|fox news poll|rasmussen|gallup)\b",
+]
+_ELECTION_DOMESTIC_RE = [re.compile(p, re.IGNORECASE) for p in _ELECTION_DOMESTIC_BLOCK]
 
 _GLOBAL_KW = [
     "war", "conflict", "attack", "military", "troops", "invasion",
@@ -214,7 +261,7 @@ _STOPWORDS = {
     "they","after","over","into","from","says","said","will","could",
     "would","should","amid","about","new","more","than","their","our",
     "report","update","latest","live","watch","has","have","been","be",
-    "not","but","are","its","also","when","who","what","where","how",
+    "not","but","also","when","who","what","where","how","after","during",
 }
 
 
@@ -248,6 +295,7 @@ def canonicalize_url(url: str) -> str:
         return urlunparse((u.scheme, u.netloc, path, u.params, new_q, ""))
     except Exception:
         return url
+
 
 # ---------------------------------------------------------------------------
 # HTTP helpers
@@ -305,7 +353,8 @@ def _parse_dt(entry: dict) -> Optional[datetime]:
 # RSS feed loader
 # ---------------------------------------------------------------------------
 
-def _load_feed(source: str, url: str, keywords: List[str]) -> List[dict]:
+def _load_feed(source: str, url: str, keywords: List[str],
+               strict_filter_fn=None) -> List[dict]:
     txt = _get(url)
     if not txt:
         return []
@@ -325,6 +374,8 @@ def _load_feed(source: str, url: str, keywords: List[str]) -> List[dict]:
             continue
         t_lower = title.lower()
         if not any(kw in t_lower for kw in keywords):
+            continue
+        if strict_filter_fn and not strict_filter_fn(title):
             continue
         items.append({
             "title": title,
@@ -427,18 +478,16 @@ def _extract_date(text: str) -> str:
     return m.group(0) if m else ""
 
 
-def _parse_calendar_items(
-    raw_text: str,
-    keywords: List[str],
-    extra_context_kw: List[str],
-    limit: int,
-    section_name: str,
-) -> List[dict]:
+def _parse_calendar_items(raw_text: str, keywords: List[str],
+                           extra_context_kw: List[str], limit: int,
+                           extra_filter_fn=None) -> List[dict]:
     items = []
     seen_sigs: set = set()
     lines = [l.strip() for l in raw_text.splitlines() if l.strip()]
     for line in lines:
         if _is_junk(line):
+            continue
+        if _is_us_domestic(line):
             continue
         low = line.lower()
         if not any(kw in low for kw in keywords):
@@ -447,14 +496,15 @@ def _parse_calendar_items(
         has_ctx = any(k in low for k in extra_context_kw)
         if not has_date and not has_ctx:
             continue
+        if extra_filter_fn and not extra_filter_fn(line):
+            continue
         sig = _story_sig(line)
         if sig in seen_sigs:
             continue
         seen_sigs.add(sig)
-        date_str = _extract_date(line)
         items.append({
             "title": clean_headline(line)[:200],
-            "date": date_str,
+            "date": _extract_date(line),
             "description": line[:300],
             "source_url": None,
         })
@@ -464,17 +514,112 @@ def _parse_calendar_items(
 
 
 # ---------------------------------------------------------------------------
-# Section: World Org Meetings
+# Section helpers
 # ---------------------------------------------------------------------------
 
 def _infer_org(title: str) -> str:
     t = title.lower()
-    for org in ["un ", "united nations", "nato", "g7", "g20", "asean", "apec",
-                "african union", "eu ", "european union", "wto", "imf",
-                "world bank", "who ", "opec", "brics"]:
-        if org in t:
-            return org.strip().upper()
+    mapping = {
+        "united nations": "UN", " un ": "UN", "nato": "NATO",
+        "g7": "G7", "g20": "G20", "asean": "ASEAN", "apec": "APEC",
+        "african union": "AU", "european union": "EU", " eu ": "EU",
+        "wto": "WTO", "imf": "IMF", "world bank": "World Bank",
+        " who ": "WHO", "opec": "OPEC", "brics": "BRICS",
+        "shanghai cooperation": "SCO",
+    }
+    for k, v in mapping.items():
+        if k in t:
+            return v
     return ""
+
+
+def _infer_participants(title: str) -> List[str]:
+    words = title.split()
+    caps = [w.strip(".,;:'\"") for w in words if w and w[0].isupper() and len(w) > 2]
+    # Filter out common non-name capitalized words
+    skip = {"The","This","That","After","During","When","While","As","But","And","Or"}
+    return [c for c in dict.fromkeys(caps) if c not in skip][:4]
+
+
+def _infer_election_type(title: str) -> str:
+    t = title.lower()
+    if "presidential" in t: return "Presidential"
+    if "parliamentary" in t or "parliament" in t: return "Parliamentary"
+    if "general election" in t: return "General"
+    if "snap election" in t: return "Snap"
+    if "referendum" in t: return "Referendum"
+    if "legislative" in t: return "Legislative"
+    if "federal election" in t: return "Federal"
+    return "National"
+
+
+def _infer_country(title: str) -> str:
+    countries = [
+        "Germany","France","Italy","Spain","Poland","UK","Britain","Canada",
+        "Australia","Japan","South Korea","India","Pakistan","Brazil","Argentina",
+        "Mexico","Colombia","Venezuela","Iran","Iraq","Turkey","Israel","Egypt",
+        "Nigeria","South Africa","Kenya","Ghana","Ukraine","Russia","Belarus",
+        "Philippines","Indonesia","Thailand","Malaysia","Taiwan","Nepal",
+        "Bangladesh","Sri Lanka","Myanmar","Vietnam","Singapore","New Zealand",
+        "Sweden","Norway","Finland","Denmark","Netherlands","Belgium","Switzerland",
+        "Austria","Portugal","Greece","Hungary","Romania","Czech","Slovakia",
+        "Serbia","Croatia","Bolivia","Peru","Chile","Ecuador","Paraguay","Uruguay",
+    ]
+    for c in countries:
+        if c.lower() in title.lower():
+            return c
+    m = re.search(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b", title)
+    return m.group(1) if m else ""
+
+
+def _infer_category(title: str) -> str:
+    t = title.lower()
+    if any(k in t for k in ["war","conflict","attack","troops","military","missile","bomb","airstrike","ceasefire","siege","invasion"]):
+        return "Conflict"
+    if any(k in t for k in ["election","vote","parliament","coup","protest","uprising","referendum","political"]):
+        return "Politics"
+    if any(k in t for k in ["trade","tariff","economy","inflation","recession","gdp","imf","world bank","market","oil price","sanction"]):
+        return "Economy"
+    if any(k in t for k in ["climate","flood","earthquake","hurricane","wildfire","disaster","drought","tsunami","eruption"]):
+        return "Climate"
+    if any(k in t for k in ["pandemic","outbreak","vaccine","disease","health crisis","who "]):
+        return "Health"
+    if any(k in t for k in ["chip","semiconductor","ai ","technology","cyber","hack","space"]):
+        return "Technology"
+    return "Politics"
+
+
+def _infer_region(title: str) -> str:
+    t = title.lower()
+    if any(k in t for k in ["ukraine","russia","moscow","kyiv","belarus","moldova"]):
+        return "Europe / Russia"
+    if any(k in t for k in ["china","beijing","taiwan","hong kong","xi jinping"]):
+        return "China"
+    if any(k in t for k in ["middle east","israel","gaza","iran","tehran","iraq","syria","yemen","saudi","uae","qatar","strait of hormuz"]):
+        return "Middle East"
+    if any(k in t for k in ["india","pakistan","afghanistan","bangladesh","sri lanka","nepal"]):
+        return "South Asia"
+    if any(k in t for k in ["north korea","south korea","japan","tokyo","seoul","asean","philippines","vietnam","indonesia","myanmar","singapore"]):
+        return "East / Southeast Asia"
+    if any(k in t for k in ["africa","nigeria","ethiopia","kenya","somalia","sudan","congo","sahel","ghana","egypt","libya"]):
+        return "Africa"
+    if any(k in t for k in ["europe","germany","france","italy","spain","poland","eu ","nato","britain","uk ","london","brussels","hungary"]):
+        return "Europe"
+    if any(k in t for k in ["latin america","brazil","argentina","mexico","colombia","venezuela","cuba","haiti","chile","peru"]):
+        return "Latin America"
+    return "Global"
+
+
+# ---------------------------------------------------------------------------
+# Section: World Org Meetings
+# ---------------------------------------------------------------------------
+
+def _is_valid_org_item(title: str) -> bool:
+    """Must contain a real org name AND an event-type word."""
+    t = title.lower()
+    has_org = any(org in t for org in _WORLD_ORG_NAMES)
+    has_event = any(ev in t for ev in _WORLD_ORG_EVENT_TYPES)
+    return has_org and has_event
 
 
 def fetch_org_meetings() -> List[dict]:
@@ -483,26 +628,38 @@ def fetch_org_meetings() -> List[dict]:
         _wiki_extract("Portal:Current_events"),
         _wiki_extract("United_Nations_General_Assembly"),
     ]
+
+    # RSS filtered strictly — must pass _is_valid_org_item
     rss_items = []
     for src, url in RSS_FEEDS.items():
-        rss_items.extend(_load_feed(src, url, _WORLD_ORG_KW))
+        for item in _load_feed(src, url, _WORLD_ORG_NAMES):
+            if _is_valid_org_item(item["title"]) and not _is_us_domestic(item["title"]):
+                rss_items.append(item)
+
     for it in rss_items[:60]:
         raw_parts.append(it["title"])
-    for article in _newsapi("UN summit G7 G20 NATO ASEAN WTO WHO meeting 2025 2026")[:20]:
+    for article in _newsapi("UN G7 G20 NATO ASEAN WTO WHO summit meeting 2025 2026")[:20]:
         raw_parts.append((article.get("title") or "") + " " + (article.get("description") or ""))
 
-    raw_text = "\n".join(raw_parts)
     items = _parse_calendar_items(
-        raw_text, _WORLD_ORG_KW,
-        ["meeting", "summit", "session", "assembly", "conference", "forum", "talks"],
-        limit=5, section_name="world_org_meetings",
+        "\n".join(raw_parts),
+        _WORLD_ORG_NAMES,
+        _WORLD_ORG_EVENT_TYPES,
+        limit=5,
+        extra_filter_fn=_is_valid_org_item,
     )
 
+    # Fallback: only use RSS items that passed the strict org filter
     if len(items) < 5:
         for r in _cluster_and_rank(rss_items, 5 - len(items)):
-            items.append({"title": r["title"], "organization": r["source"],
-                          "date": "", "location": "", "description": r["title"],
-                          "source_url": r["url"]})
+            items.append({
+                "title": r["title"],
+                "organization": _infer_org(r["title"]),
+                "date": "",
+                "location": "",
+                "description": r["title"],
+                "source_url": r["url"],
+            })
 
     return [{
         "title": it.get("title", ""),
@@ -518,34 +675,52 @@ def fetch_org_meetings() -> List[dict]:
 # Section: Diplomatic Visits
 # ---------------------------------------------------------------------------
 
-def _infer_participants(title: str) -> List[str]:
-    words = title.split()
-    caps = [w.strip(".,;:") for w in words if w and w[0].isupper() and len(w) > 2]
-    return list(dict.fromkeys(caps))[:4]
+def _is_valid_diplomatic_item(title: str) -> bool:
+    """Must contain a diplomatic keyword AND reference two distinct entities."""
+    t = title.lower()
+    has_diplo = any(re.search(kw, t) for kw in _DIPLOMATIC_KW)
+    if not has_diplo:
+        return False
+    # Must not be a crime/arrest story dressed up with "embassy"
+    if re.search(r"\b(bomb|attack|shooting|arrested|terror)\b", t):
+        if not re.search(r"\b(diplomatic|state visit|bilateral|talks|summit)\b", t):
+            return False
+    return True
 
 
 def fetch_diplomatic_visits() -> List[dict]:
     print("  → Fetching diplomatic visits...")
     raw_parts = [_wiki_extract("Portal:Current_events")]
+
     rss_items = []
     for src, url in RSS_FEEDS.items():
-        rss_items.extend(_load_feed(src, url, _DIPLOMATIC_KW))
+        for item in _load_feed(src, url, _DIPLOMATIC_KW):
+            if _is_valid_diplomatic_item(item["title"]) and not _is_us_domestic(item["title"]):
+                rss_items.append(item)
+
     for it in rss_items[:60]:
         raw_parts.append(it["title"])
     for article in _newsapi("state visit bilateral summit diplomatic foreign minister 2025 2026")[:20]:
         raw_parts.append((article.get("title") or "") + " " + (article.get("description") or ""))
 
     items = _parse_calendar_items(
-        "\n".join(raw_parts), _DIPLOMATIC_KW,
-        ["visit", "meets", "meeting", "talks", "arrives", "hosts"],
-        limit=5, section_name="diplomatic_visits",
+        "\n".join(raw_parts),
+        _DIPLOMATIC_KW,
+        ["visit", "meets", "meeting", "talks", "arrives", "hosts", "bilateral", "summit"],
+        limit=5,
+        extra_filter_fn=_is_valid_diplomatic_item,
     )
 
     if len(items) < 5:
         for r in _cluster_and_rank(rss_items, 5 - len(items)):
-            items.append({"title": r["title"], "participants": [],
-                          "date": "", "location": "", "description": r["title"],
-                          "source_url": r["url"]})
+            items.append({
+                "title": r["title"],
+                "participants": _infer_participants(r["title"]),
+                "date": "",
+                "location": "",
+                "description": r["title"],
+                "source_url": r["url"],
+            })
 
     return [{
         "title": it.get("title", ""),
@@ -561,30 +736,18 @@ def fetch_diplomatic_visits() -> List[dict]:
 # Section: Elections
 # ---------------------------------------------------------------------------
 
-def _infer_election_type(title: str) -> str:
+def _is_valid_election_item(title: str) -> bool:
+    """Must be a real national election outside the US domestic news cycle."""
     t = title.lower()
-    if "presidential" in t: return "Presidential"
-    if "parliamentary" in t or "parliament" in t: return "Parliamentary"
-    if "general election" in t: return "General"
-    if "snap election" in t: return "Snap"
-    if "referendum" in t: return "Referendum"
-    if "legislative" in t: return "Legislative"
-    return "National"
-
-
-def _infer_country(title: str) -> str:
-    countries = [
-        "Germany","France","Italy","Spain","Poland","UK","Britain","Canada",
-        "Australia","Japan","South Korea","India","Pakistan","Brazil","Argentina",
-        "Mexico","Colombia","Venezuela","Iran","Iraq","Turkey","Israel","Egypt",
-        "Nigeria","South Africa","Kenya","Ghana","Ukraine","Russia","Belarus",
-        "United States","Philippines","Indonesia","Thailand","Malaysia","Taiwan",
-    ]
-    for c in countries:
-        if c.lower() in title.lower():
-            return c
-    m = re.search(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b", title)
-    return m.group(1) if m else ""
+    # Block pure US domestic election commentary
+    if any(p.search(title) for p in _ELECTION_DOMESTIC_RE):
+        return False
+    if _is_us_domestic(title):
+        return False
+    # Must actually be about an election event, not opinion/analysis
+    if not any(kw in t for kw in _ELECTION_KW):
+        return False
+    return True
 
 
 def fetch_elections() -> List[dict]:
@@ -594,26 +757,36 @@ def fetch_elections() -> List[dict]:
         _wiki_extract("List_of_elections_in_2026"),
         _wiki_extract("Portal:Current_events"),
     ]
+
     rss_items = []
     for src, url in RSS_FEEDS.items():
-        rss_items.extend(_load_feed(src, url, _ELECTION_KW))
+        for item in _load_feed(src, url, _ELECTION_KW):
+            if _is_valid_election_item(item["title"]):
+                rss_items.append(item)
+
     for it in rss_items[:60]:
         raw_parts.append(it["title"])
-    for article in _newsapi("election presidential parliamentary vote 2025 2026")[:20]:
+    for article in _newsapi("election presidential parliamentary national vote 2025 2026")[:20]:
         raw_parts.append((article.get("title") or "") + " " + (article.get("description") or ""))
 
     items = _parse_calendar_items(
-        "\n".join(raw_parts), _ELECTION_KW,
-        ["scheduled", "upcoming", "set for", "due", "poll", "voters", "ballot"],
-        limit=5, section_name="elections",
+        "\n".join(raw_parts),
+        _ELECTION_KW,
+        ["scheduled", "upcoming", "set for", "due", "poll", "voters", "ballot", "candidate"],
+        limit=5,
+        extra_filter_fn=_is_valid_election_item,
     )
 
     if len(items) < 5:
         for r in _cluster_and_rank(rss_items, 5 - len(items)):
-            items.append({"title": r["title"], "country": "",
-                          "election_type": _infer_election_type(r["title"]),
-                          "date": "", "description": r["title"],
-                          "source_url": r["url"]})
+            items.append({
+                "title": r["title"],
+                "country": _infer_country(r["title"]),
+                "election_type": _infer_election_type(r["title"]),
+                "date": "",
+                "description": r["title"],
+                "source_url": r["url"],
+            })
 
     return [{
         "title": it.get("title", ""),
@@ -629,44 +802,6 @@ def fetch_elections() -> List[dict]:
 # Section: Global Events
 # ---------------------------------------------------------------------------
 
-def _infer_category(title: str) -> str:
-    t = title.lower()
-    if any(k in t for k in ["war","conflict","attack","troops","military","missile","bomb","airstrike","ceasefire"]):
-        return "Conflict"
-    if any(k in t for k in ["election","vote","parliament","coup","protest","uprising","referendum"]):
-        return "Politics"
-    if any(k in t for k in ["trade","tariff","economy","inflation","recession","gdp","imf","world bank","market"]):
-        return "Economy"
-    if any(k in t for k in ["climate","flood","earthquake","hurricane","wildfire","disaster","drought"]):
-        return "Climate"
-    if any(k in t for k in ["pandemic","outbreak","vaccine","who ","disease","health"]):
-        return "Health"
-    if any(k in t for k in ["chip","semiconductor","ai ","technology","cyber","hack"]):
-        return "Technology"
-    return "Politics"
-
-
-def _infer_region(title: str) -> str:
-    t = title.lower()
-    if any(k in t for k in ["ukraine","russia","moscow","kyiv","belarus","moldova"]):
-        return "Europe / Russia"
-    if any(k in t for k in ["china","beijing","taiwan","hong kong","xi jinping"]):
-        return "China"
-    if any(k in t for k in ["middle east","israel","gaza","iran","tehran","iraq","syria","yemen","saudi","uae","qatar"]):
-        return "Middle East"
-    if any(k in t for k in ["india","pakistan","afghanistan","bangladesh","sri lanka"]):
-        return "South Asia"
-    if any(k in t for k in ["north korea","south korea","japan","tokyo","seoul","asean","philippines","vietnam","indonesia","myanmar"]):
-        return "East / Southeast Asia"
-    if any(k in t for k in ["africa","nigeria","ethiopia","kenya","somalia","sudan","congo","sahel","ghana","egypt"]):
-        return "Africa"
-    if any(k in t for k in ["europe","germany","france","italy","spain","poland","eu ","nato","britain","uk ","london","brussels"]):
-        return "Europe"
-    if any(k in t for k in ["latin america","brazil","argentina","mexico","colombia","venezuela","cuba","haiti"]):
-        return "Latin America"
-    return "Global"
-
-
 def fetch_global_events() -> List[dict]:
     print("  → Fetching global events from RSS feeds...")
     all_items: List[dict] = []
@@ -675,7 +810,7 @@ def fetch_global_events() -> List[dict]:
 
     print(f"     Collected {len(all_items)} relevant items from {len(RSS_FEEDS)} feeds")
 
-    for article in _newsapi("world news conflict diplomacy election climate 2026")[:30]:
+    for article in _newsapi("world news conflict diplomacy election crisis 2026")[:30]:
         title = clean_headline((article.get("title") or "").strip())
         if not title or _is_junk(title):
             continue
