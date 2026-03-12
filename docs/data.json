@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T20:31:14.662808Z",
+  "last_updated": "2026-03-12T20:39:06.526290Z",
   "world_org_meetings": [
     {
       "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
@@ -10,144 +10,95 @@
       "source_url": null
     },
     {
-      "title": "Hockey player who lost family in Rhode Island shooting scores winning goal in OT",
-      "organization": "CBC World",
+      "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
+      "organization": "ASEAN",
       "date": "",
       "location": "",
-      "description": "Hockey player who lost family in Rhode Island shooting scores winning goal in OT",
-      "source_url": "https://www.cbc.ca/sports/hockey/rhode-island-rink-shooting-family-victim-scores-ot-winner-9.7125781?cmp=rss"
-    },
-    {
-      "title": "Florida cop arrested after using police databases to find and pull over a woman he met on Vince Vaughn TV set: ‘I saw a shiny thing’",
-      "organization": "The Independent",
-      "date": "",
-      "location": "",
-      "description": "Florida cop arrested after using police databases to find and pull over a woman he met on Vince Vaughn TV set: ‘I saw a shiny thing’",
-      "source_url": "https://www.independent.co.uk/news/world/americas/crime/police-officer-arrested-vince-vaughn-tv-set-florida-b2937440.html"
-    },
-    {
-      "title": "Full List of Senators Voting Against Housing Affordability",
-      "organization": "Newsweek",
-      "date": "",
-      "location": "",
-      "description": "Full List of Senators Voting Against Housing Affordability",
-      "source_url": "https://www.newsweek.com/full-list-senators-voting-housing-affordability-11668549"
-    },
-    {
-      "title": "Lawmaker who accused Trump of Kennedy Center snub missed invite in spam folder",
-      "organization": "The Hill",
-      "date": "",
-      "location": "",
-      "description": "Lawmaker who accused Trump of Kennedy Center snub missed invite in spam folder",
-      "source_url": "https://thehill.com/regulation/court-battles/5781092-kennedy-center-beatty-trump-lawsuit"
+      "description": "ASEAN Ministers to hold meetings to address West Asia crisis",
+      "source_url": "https://www.thehindu.com/news/international/asean-ministers-to-hold-meetings-to-address-west-asia-crisis/article70734960.ece"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Iraqi official urges Australia to take back alleged IS fighters during meeting with ambassador",
+      "title": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
       "participants": [
-        "Iraqi",
-        "Australia"
+        "Foe",
+        "US-Turkey"
       ],
       "date": "",
       "location": "",
-      "description": "Iraqi official urges Australia to take back alleged IS fighters during meeting with ambassador",
+      "description": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
       "source_url": null
     },
     {
-      "title": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
+      "title": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
       "participants": [
-        "Farooq",
-        "Abdullah",
-        "Iran’s",
-        "Embassy"
+        "Foe",
+        "US-Turkey"
       ],
       "date": "",
       "location": "",
-      "description": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
-      "source_url": null
-    },
-    {
-      "title": "Three brothers arrested after ‘terror bombing’ at US embassy in Norway",
-      "participants": [],
-      "date": "",
-      "location": "",
-      "description": "Three brothers arrested after ‘terror bombing’ at US embassy in Norway",
-      "source_url": "https://www.independent.co.uk/news/world/europe/us-embassy-bomb-norway-oslo-arrests-b2936684.html"
-    },
-    {
-      "title": "South Africa summons new U.S. ambassador to explain criticism as rift deepens",
-      "participants": [],
-      "date": "",
-      "location": "",
-      "description": "South Africa summons new U.S. ambassador to explain criticism as rift deepens",
-      "source_url": "https://www.pbs.org/newshour/world/south-africa-summons-new-u-s-ambassador-to-explain-criticism-as-rift-deepens"
-    },
-    {
-      "title": "Released U.K. files reveal concerns on Mandelson's appointment as U.S. Ambassador",
-      "participants": [],
-      "date": "",
-      "location": "",
-      "description": "Released U.K. files reveal concerns on Mandelson's appointment as U.S. Ambassador",
-      "source_url": "https://www.thehindu.com/news/international/released-uk-files-reveal-concerns-on-mandelsons-appointment-as-us-ambassador/article70732079.ece"
+      "description": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
+      "source_url": "https://www.atlanticcouncil.org/content-series/ac-turkey-defense-journal/foe-or-friend-us-turkey-bilateral-relations-seem-set-to-improve-as-interests-align"
     }
   ],
   "elections": [
     {
       "title": "Former rapper's political party sweeps Nepal election",
-      "country": "",
+      "country": "Nepal",
       "election_type": "National",
       "date": "",
       "description": "Former rapper's political party sweeps Nepal election",
       "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
     },
     {
-      "title": "GOP senators warn Trump that shaky economy could spell election disaster",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "GOP senators warn Trump that shaky economy could spell election disaster",
-      "source_url": "https://thehill.com/homenews/senate/5780103-trump-faces-gop-economic-backlash"
-    },
-    {
       "title": "War in Ukraine spills into Hungarian election campaign",
-      "country": "",
+      "country": "UK",
       "election_type": "National",
       "date": "",
       "description": "War in Ukraine spills into Hungarian election campaign",
       "source_url": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Kevin O’Leary says high oil prices will be ‘granddaddy’ issue in midterm elections",
-      "country": "",
+      "title": "The Major Local Election That France’s Far Right Might Just Win",
+      "country": "France",
       "election_type": "National",
       "date": "",
-      "description": "Kevin O’Leary says high oil prices will be ‘granddaddy’ issue in midterm elections",
-      "source_url": "https://thehill.com/business/5780219-kevin-oleary-oil-prices-midterms"
+      "description": "The Major Local Election That France’s Far Right Might Just Win",
+      "source_url": "https://foreignpolicy.com/2026/03/11/france-far-right-national-rally-marseille-mayoral-election"
     },
     {
-      "title": "Betting markets have a new favorite for the 2028 presidential election",
-      "country": "",
+      "title": "Young people expect little change as Republic of Congo heads to presidential election",
+      "country": "Young",
       "election_type": "Presidential",
       "date": "",
-      "description": "Betting markets have a new favorite for the 2028 presidential election",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/kalshi-bets-next-president-2028-rubio-b2936770.html"
+      "description": "Young people expect little change as Republic of Congo heads to presidential election",
+      "source_url": "https://abcnews.com/International/wireStory/young-people-expect-change-republic-congo-heads-presidential-130963824"
+    },
+    {
+      "title": "Mojtaba’s Selection Is a Sign of Political Exhaustion",
+      "country": "Mojtaba",
+      "election_type": "National",
+      "date": "",
+      "description": "Mojtaba’s Selection Is a Sign of Political Exhaustion",
+      "source_url": "https://foreignpolicy.com/2026/03/11/ayatollah-mojtaba-khamenei-iran-war-supreme-leader"
     }
   ],
   "global_events": [
     {
-      "title": "Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee",
-      "summary": "Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee",
+      "title": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee",
+      "summary": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee",
       "outlets_covering": [
+        "BBC World",
         "CBC World",
         "NYT World",
         "The Guardian World",
         "Al Jazeera"
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/03/12/world/middleeast/israel-detainee-abuse-charges.html"
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "First six days of the Iran war cost more than $11.3B, Pentagon tells Congress in closed-door briefing: report",
@@ -191,7 +142,7 @@
         "CBC World"
       ],
       "coverage_count": 2,
-      "region": "Global",
+      "region": "South Asia",
       "category": "Politics",
       "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
     },
