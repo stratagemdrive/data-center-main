@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-03-12T20:39:06.526290Z",
+  "last_updated": "2026-03-12T20:48:48.351559Z",
   "world_org_meetings": [
-    {
-      "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "ASEAN Ministers to hold meetings to address West Asia crisis",
-      "source_url": null
-    },
     {
       "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
       "organization": "ASEAN",
@@ -20,26 +12,40 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
+      "title": "Iraqi official urges Australia to take back alleged IS fighters during meeting with ambassador",
       "participants": [
-        "Foe",
-        "US-Turkey"
+        "Iraqi",
+        "Australia"
       ],
       "date": "",
       "location": "",
-      "description": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
-      "source_url": null
+      "description": "Iraqi official urges Australia to take back alleged IS fighters during meeting with ambassador",
+      "source_url": "https://www.theguardian.com/australia-news/2026/mar/12/iraqi-official-urges-australia-to-take-back-alleged-is-fighters-during-meeting-with-ambassador-ntwnfb"
     },
     {
-      "title": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
+      "title": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
       "participants": [
-        "Foe",
-        "US-Turkey"
+        "Farooq",
+        "Abdullah",
+        "Iran’s",
+        "Embassy"
       ],
       "date": "",
       "location": "",
-      "description": "Foe or friend? US-Turkey bilateral relations seem set to improve as interests align",
-      "source_url": "https://www.atlanticcouncil.org/content-series/ac-turkey-defense-journal/foe-or-friend-us-turkey-bilateral-relations-seem-set-to-improve-as-interests-align"
+      "description": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
+      "source_url": "https://www.thehindu.com/news/national/farooq-abdullah-meets-irans-deputy-ambassador-offers-condolences-on-khameneis-death/article70726176.ece"
+    },
+    {
+      "title": "BBC visits key Dubai port in Iran's firing line",
+      "participants": [
+        "BBC",
+        "Dubai",
+        "Iran's"
+      ],
+      "date": "",
+      "location": "",
+      "description": "BBC visits key Dubai port in Iran's firing line",
+      "source_url": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "elections": [
@@ -53,7 +59,7 @@
     },
     {
       "title": "War in Ukraine spills into Hungarian election campaign",
-      "country": "UK",
+      "country": "Ukraine",
       "election_type": "National",
       "date": "",
       "description": "War in Ukraine spills into Hungarian election campaign",
@@ -62,26 +68,18 @@
     {
       "title": "The Major Local Election That France’s Far Right Might Just Win",
       "country": "France",
-      "election_type": "National",
+      "election_type": "Local",
       "date": "",
       "description": "The Major Local Election That France’s Far Right Might Just Win",
       "source_url": "https://foreignpolicy.com/2026/03/11/france-far-right-national-rally-marseille-mayoral-election"
     },
     {
       "title": "Young people expect little change as Republic of Congo heads to presidential election",
-      "country": "Young",
+      "country": "Republic of Congo",
       "election_type": "Presidential",
       "date": "",
       "description": "Young people expect little change as Republic of Congo heads to presidential election",
       "source_url": "https://abcnews.com/International/wireStory/young-people-expect-change-republic-congo-heads-presidential-130963824"
-    },
-    {
-      "title": "Mojtaba’s Selection Is a Sign of Political Exhaustion",
-      "country": "Mojtaba",
-      "election_type": "National",
-      "date": "",
-      "description": "Mojtaba’s Selection Is a Sign of Political Exhaustion",
-      "source_url": "https://foreignpolicy.com/2026/03/11/ayatollah-mojtaba-khamenei-iran-war-supreme-leader"
     }
   ],
   "global_events": [
@@ -101,20 +99,6 @@
       "source_url": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "First six days of the Iran war cost more than $11.3B, Pentagon tells Congress in closed-door briefing: report",
-      "summary": "First six days of the Iran war cost more than $11.3B, Pentagon tells Congress in closed-door briefing: report",
-      "outlets_covering": [
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-cost-pentagon-b2936829.html"
-    },
-    {
       "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
       "summary": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
       "outlets_covering": [
@@ -129,10 +113,24 @@
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 15,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "First six days of the Iran war cost more than $11.3B, Pentagon tells Congress in closed-door briefing: report",
+      "summary": "First six days of the Iran war cost more than $11.3B, Pentagon tells Congress in closed-door briefing: report",
+      "outlets_covering": [
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-cost-pentagon-b2936829.html"
     },
     {
       "title": "Former rapper's political party sweeps Nepal election",
