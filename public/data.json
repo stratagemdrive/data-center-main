@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T20:48:48.351559Z",
+  "last_updated": "2026-03-12T21:30:35.207003Z",
   "world_org_meetings": [
     {
       "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
@@ -34,18 +34,6 @@
       "location": "",
       "description": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
       "source_url": "https://www.thehindu.com/news/national/farooq-abdullah-meets-irans-deputy-ambassador-offers-condolences-on-khameneis-death/article70726176.ece"
-    },
-    {
-      "title": "BBC visits key Dubai port in Iran's firing line",
-      "participants": [
-        "BBC",
-        "Dubai",
-        "Iran's"
-      ],
-      "date": "",
-      "location": "",
-      "description": "BBC visits key Dubai port in Iran's firing line",
-      "source_url": "https://www.bbc.com/news/videos/cgrzk874171o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "elections": [
@@ -110,10 +98,10 @@
         "Sky News World",
         "NYT World",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 16,
+      "coverage_count": 14,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
@@ -145,19 +133,22 @@
       "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
     },
     {
-      "title": "Iran's supreme leader gives first statement as oil prices go up, markets down",
-      "summary": "Iran's supreme leader gives first statement as oil prices go up, markets down",
+      "title": "Strait of Hormuz must remain closed, says Iran’s new leader",
+      "summary": "Strait of Hormuz must remain closed, says Iran’s new leader",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Al Jazeera",
-        "France24"
+        "NPR World",
+        "PBS NewsHour",
+        "NYT World",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 10,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-gulf-allies-strait-of-hormuz-attacks-oil-prices-stocks"
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/irans-new-supreme-leader-vows-to-keep-up-attacks-says-hormuz-strait-to-stay-closed/article70735895.ece"
     }
   ]
 }
