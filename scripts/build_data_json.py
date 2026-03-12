@@ -49,6 +49,7 @@ TIMEOUT = 20
 MAX_RETRIES = 2
 RETRY_SLEEP = 1.2
 WINDOW_HOURS = 96
+ORG_WINDOW_HOURS = 168
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
 
 # ---------------------------------------------------------------------------
@@ -224,12 +225,10 @@ _ELECTION_KW = [
     "wins election", "won election",
 ]
 
-# Hard block patterns specific to elections section
 _ELECTION_BLOCK_RE = [re.compile(p, re.IGNORECASE) for p in [
     r"\b(midterm|2028|trump|gop|democrat|republican|senate race|house race)\b",
     r"\b(betting market|odds|favorite for|polling average|kevin o.leary)\b",
     r"\b(selection is a sign|sign of political|political exhaustion)\b",
-    # Block anything that's clearly opinion/analysis about a leader selection, not an election
     r"\b(selection|appointed|named as|chosen as)\b.{0,30}\b(supreme leader|leader|head)\b",
 ]]
 
@@ -297,18 +296,13 @@ def canonicalize_url(url: str) -> str:
 
 
 def _dedup_items(items: List[dict]) -> List[dict]:
-    """
-    Cross-source deduplication by story signature.
-    Keeps the version with a source_url if available, otherwise first seen.
-    """
-    seen_sigs: dict = {}  # sig -> index in out
+    seen_sigs: dict = {}
     out = []
     for it in items:
         sig = _story_sig(it.get("title", ""))
         if not sig:
             continue
         if sig in seen_sigs:
-            # Prefer the version that has a source_url
             existing = out[seen_sigs[sig]]
             if not existing.get("source_url") and it.get("source_url"):
                 out[seen_sigs[sig]] = it
@@ -374,12 +368,12 @@ def _parse_dt(entry: dict) -> Optional[datetime]:
 # RSS feed loader
 # ---------------------------------------------------------------------------
 
-def _load_feed(source: str, url: str, keywords: List[str]) -> List[dict]:
+def _load_feed(source: str, url: str, keywords: List[str], window_hours: int = WINDOW_HOURS) -> List[dict]:
     txt = _get(url)
     if not txt:
         return []
     d = feedparser.parse(txt)
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=window_hours)
     items = []
     for e in getattr(d, "entries", []):
         raw = (e.get("title") or "").strip()
@@ -405,7 +399,7 @@ def _load_feed(source: str, url: str, keywords: List[str]) -> List[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Cluster and rank (for global_events)
+# Cluster and rank
 # ---------------------------------------------------------------------------
 
 def _cluster_and_rank(items: List[dict], limit: int) -> List[dict]:
@@ -518,7 +512,6 @@ def _infer_org(title: str) -> str:
 
 
 def _infer_participants(title: str) -> List[str]:
-    # Extract country/entity names — look for capitalized words that aren't common English
     skip = {
         "The","This","That","After","During","When","While","As","But","And",
         "Or","For","With","From","Into","Over","Under","About","Is","Are",
@@ -544,7 +537,6 @@ def _infer_election_type(title: str) -> str:
     return "National"
 
 
-# Fixed: ordered from longest to shortest to avoid "UK" matching inside "Ukraine"
 _COUNTRY_LIST = [
     "United States", "United Kingdom", "South Korea", "North Korea",
     "South Africa", "New Zealand", "Saudi Arabia", "Sri Lanka",
@@ -570,7 +562,6 @@ _COUNTRY_LIST = [
 def _infer_country(title: str) -> str:
     t_lower = title.lower()
     for c in _COUNTRY_LIST:
-        # Use word-boundary style match to avoid "UK" inside "Ukraine"
         pattern = r'\b' + re.escape(c.lower()) + r'\b'
         if re.search(pattern, t_lower):
             return c
@@ -629,14 +620,12 @@ def _is_valid_org_item(title: str) -> bool:
 def fetch_org_meetings() -> List[dict]:
     print("  → Fetching world org meetings...")
 
-    # Collect all candidates from RSS — strictly filtered
     rss_items = []
     for src, url in RSS_FEEDS.items():
-        for item in _load_feed(src, url, _WORLD_ORG_NAMES):
+        for item in _load_feed(src, url, _WORLD_ORG_NAMES, window_hours=ORG_WINDOW_HOURS):
             if _is_valid_org_item(item["title"]) and not _is_us_domestic(item["title"]):
                 rss_items.append(item)
 
-    # Also try NewsAPI
     for article in _newsapi("UN G7 G20 NATO ASEAN WTO WHO summit meeting 2025 2026")[:20]:
         title = clean_headline((article.get("title") or "").strip())
         if title and _is_valid_org_item(title) and not _is_us_domestic(title):
@@ -647,7 +636,6 @@ def fetch_org_meetings() -> List[dict]:
                 "publishedAt": article.get("publishedAt"),
             })
 
-    # Wikipedia text scan
     wiki_text = _wiki_extract("Portal:Current_events") + "\n" + _wiki_extract("United_Nations_General_Assembly")
     wiki_items = []
     seen_sigs: set = set()
@@ -669,8 +657,6 @@ def fetch_org_meetings() -> List[dict]:
             "source_url": None,
         })
 
-    # Merge: wiki items first (they tend to be calendar-style), then ranked RSS
-    # Cross-dedup everything together
     all_structured = wiki_items.copy()
     for r in _cluster_and_rank(rss_items, 10):
         all_structured.append({
@@ -700,14 +686,16 @@ def fetch_org_meetings() -> List[dict]:
 
 def _is_valid_diplomatic_item(title: str) -> bool:
     t = title.lower()
+    media_orgs = ["bbc", "cnn", "reuters", "ap ", "nyt", "guardian", "al jazeera",
+                  "npr", "pbs", "dw ", "france24", "reporter", "journalist", "correspondent"]
+    if any(m in t for m in media_orgs) and re.search(r"\bvisits?\b", t):
+        return False
     has_diplo = any(re.search(kw, t) for kw in _DIPLOMATIC_KW)
     if not has_diplo:
         return False
-    # Reject pure security/crime stories unless they also have explicit diplomatic language
     if re.search(r"\b(bomb|terror attack|shooting|arrested|indicted)\b", t):
         if not re.search(r"\b(state visit|bilateral|diplomatic meeting|summit|talks between)\b", t):
             return False
-    # Reject pure opinion/analysis pieces
     if re.search(r"\b(seem set to|could|might|may improve|analysis|opinion)\b", t):
         if not re.search(r"\b(visit|arrived|met|hosted|welcomed|signed)\b", t):
             return False
@@ -789,7 +777,6 @@ def _is_valid_election_item(title: str) -> bool:
         return False
     if not any(kw in t for kw in _ELECTION_KW):
         return False
-    # Must reference an actual event, not opinion about political dynamics
     is_opinion = re.search(
         r"\b(sign of|exhaustion|could spell|might win|may win|analysis|what it means)\b", t
     )
