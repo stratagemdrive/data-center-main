@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T05:05:22.837703Z",
+  "last_updated": "2026-03-13T14:28:10.409008Z",
   "world_org_meetings": [
     {
       "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
@@ -12,133 +12,139 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
+      "title": "Middle East crisis: Jaishankar holds fourth call with Iranian FM Araghchi since war began, discusses bilateral ties",
       "participants": [
-        "Farooq",
-        "Abdullah",
-        "Iran’s",
-        "Embassy"
+        "Middle",
+        "East",
+        "Jaishankar",
+        "Iranian"
       ],
       "date": "",
       "location": "",
-      "description": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
-      "source_url": "https://www.thehindu.com/news/national/farooq-abdullah-meets-irans-deputy-ambassador-offers-condolences-on-khameneis-death/article70726176.ece"
+      "description": "Middle East crisis: Jaishankar holds fourth call with Iranian FM Araghchi since war began, discusses bilateral ties",
+      "source_url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-jaishankar-holds-fourth-call-with-iranian-fm-araghchi-since-war-began-discusses-bilateral-ties/articleshow/129547135.cms"
     }
   ],
   "elections": [
     {
-      "title": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
+      "title": "Former rapper's fledgling political party sweeps Nepal’s first post-revolt election",
       "country": "Nepal",
       "election_type": "National",
       "date": "",
-      "description": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
-      "source_url": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss"
+      "description": "Former rapper's fledgling political party sweeps Nepal’s first post-revolt election",
+      "source_url": "https://abcnews.com/International/wireStory/former-rappers-fledgling-political-party-sweeps-nepals-post-131005985"
     },
     {
-      "title": "Record number of political parties register for Haiti's first election in a decade",
+      "title": "A record number of political parties register for Haiti's first election in a decade",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Record number of political parties register for Haiti's first election in a decade",
-      "source_url": "https://abcnews.com/International/wireStory/record-number-political-parties-register-haitis-election-decade-131020336"
+      "description": "A record number of political parties register for Haiti's first election in a decade",
+      "source_url": "https://www.npr.org/2026/03/13/g-s1-113547/a-record-number-of-political-parties-register-for-haitis-first-election-in-a-decade"
     },
     {
-      "title": "The Major Local Election That France’s Far Right Might Just Win",
-      "country": "France",
+      "title": "Housing crisis at heart of local elections: Residents squeezed in Biarritz",
+      "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "The Major Local Election That France’s Far Right Might Just Win",
-      "source_url": "https://foreignpolicy.com/2026/03/11/france-far-right-national-rally-marseille-mayoral-election"
+      "description": "Housing crisis at heart of local elections: Residents squeezed in Biarritz",
+      "source_url": "https://www.france24.com/en/tv-shows/focus/20260313-housing-crisis-at-heart-of-local-elections-residents-squeezed-in-biarritz"
     },
     {
-      "title": "Young people expect little change as Republic of Congo heads to presidential election",
-      "country": "Republic of Congo",
-      "election_type": "Presidential",
+      "title": "CRA leader Junya Ogawa faces host of challenges, one month after election defeat",
+      "country": "",
+      "election_type": "National",
       "date": "",
-      "description": "Young people expect little change as Republic of Congo heads to presidential election",
-      "source_url": "https://abcnews.com/International/wireStory/young-people-expect-change-republic-congo-heads-presidential-130963824"
+      "description": "CRA leader Junya Ogawa faces host of challenges, one month after election defeat",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/13/japan/politics/junya-ogawa-challenges"
+    },
+    {
+      "title": "VK Sasikala announces new party name and symbol ahead of Tamil Nadu elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "VK Sasikala announces new party name and symbol ahead of Tamil Nadu elections",
+      "source_url": "https://timesofindia.indiatimes.com/india/vk-sasikala-announces-new-party-name-and-symbol-ahead-of-tamil-nadu-elections/articleshow/129543009.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Israel drops abuse charges against soldiers",
-      "summary": "Israel drops abuse charges against soldiers",
+      "title": "Four killed in US military plane crash in Iraq",
+      "summary": "Four killed in US military plane crash in Iraq",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Newsweek",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/four-killed-in-us-military-plane-crash-in-iraq?traffic_source=rss"
+    },
+    {
+      "title": "Israeli Military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
+      "summary": "Israeli Military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera"
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/israeli-military-drops-charges-against-soldiers-accused-of-sexually-assaulting-palestinian-detainee/article70738120.ece"
+    },
+    {
+      "title": "Hegseth claims Iran is unable to build more weapons and that new supreme leader is ‘likely disfigured’ – Middle East crisis live",
+      "summary": "Hegseth claims Iran is unable to build more weapons and that new supreme leader is ‘likely disfigured’ – Middle East crisis live",
+      "outlets_covering": [
+        "The Guardian World",
+        "France24",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
       ],
       "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss"
+      "source_url": "https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest"
     },
     {
-      "title": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
-      "summary": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss"
-    },
-    {
-      "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
-      "summary": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 17,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says",
-      "summary": "Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says",
+      "title": "Iran’s new leader warns Strait of Hormuz could be used as strategic leverage",
+      "summary": "Iran’s new leader warns Strait of Hormuz could be used as strategic leverage",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
-        "CBS News World",
         "NYT World",
-        "Wash Post World",
-        "The Independent",
         "The Hindu Intl",
+        "Foreign Policy",
         "The Hill"
       ],
       "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel"
+      "source_url": "https://www.thehindu.com/videos/irans-new-leader-warns-strait-of-hormuz-could-be-used-as-strategic-leverage/article70738288.ece"
     },
     {
-      "title": "China positions itself as force for global stability at its annual Congress",
-      "summary": "China positions itself as force for global stability at its annual Congress",
+      "title": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says",
+      "summary": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says",
       "outlets_covering": [
         "PBS NewsHour",
-        "ABC News Intl",
-        "The Independent"
+        "CBC World",
+        "The Guardian World"
       ],
       "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/china-positions-force-global-stability-annual-congress-130991732"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/canada/windsor/michigan-synagogue-attack-lost-family-members-israeli-airstrike-9.7127297?cmp=rss"
     }
   ]
 }
