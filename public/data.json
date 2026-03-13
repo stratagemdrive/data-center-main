@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T21:30:35.207003Z",
+  "last_updated": "2026-03-13T05:05:22.837703Z",
   "world_org_meetings": [
     {
       "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
@@ -11,17 +11,6 @@
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "Iraqi official urges Australia to take back alleged IS fighters during meeting with ambassador",
-      "participants": [
-        "Iraqi",
-        "Australia"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Iraqi official urges Australia to take back alleged IS fighters during meeting with ambassador",
-      "source_url": "https://www.theguardian.com/australia-news/2026/mar/12/iraqi-official-urges-australia-to-take-back-alleged-is-fighters-during-meeting-with-ambassador-ntwnfb"
-    },
     {
       "title": "Farooq Abdullah visits Iran’s Embassy in New Delhi, signs condolence book",
       "participants": [
@@ -38,20 +27,20 @@
   ],
   "elections": [
     {
-      "title": "Former rapper's political party sweeps Nepal election",
+      "title": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
       "country": "Nepal",
       "election_type": "National",
       "date": "",
-      "description": "Former rapper's political party sweeps Nepal election",
-      "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
+      "description": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
+      "source_url": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss"
     },
     {
-      "title": "War in Ukraine spills into Hungarian election campaign",
-      "country": "Ukraine",
+      "title": "Record number of political parties register for Haiti's first election in a decade",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "War in Ukraine spills into Hungarian election campaign",
-      "source_url": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss"
+      "description": "Record number of political parties register for Haiti's first election in a decade",
+      "source_url": "https://abcnews.com/International/wireStory/record-number-political-parties-register-haitis-election-decade-131020336"
     },
     {
       "title": "The Major Local Election That France’s Far Right Might Just Win",
@@ -72,8 +61,8 @@
   ],
   "global_events": [
     {
-      "title": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee",
-      "summary": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee",
+      "title": "Israel drops abuse charges against soldiers",
+      "summary": "Israel drops abuse charges against soldiers",
       "outlets_covering": [
         "BBC World",
         "CBC World",
@@ -83,8 +72,22 @@
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss"
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss"
+    },
+    {
+      "title": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
+      "summary": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss"
     },
     {
       "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
@@ -97,58 +100,45 @@
         "NBC News World",
         "Sky News World",
         "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP"
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 14,
+      "coverage_count": 17,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "First six days of the Iran war cost more than $11.3B, Pentagon tells Congress in closed-door briefing: report",
-      "summary": "First six days of the Iran war cost more than $11.3B, Pentagon tells Congress in closed-door briefing: report",
+      "title": "Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says",
+      "summary": "Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says",
       "outlets_covering": [
-        "NBC News World",
+        "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
         "NYT World",
+        "Wash Post World",
         "The Independent",
+        "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-cost-pentagon-b2936829.html"
+      "source_url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel"
     },
     {
-      "title": "Former rapper's political party sweeps Nepal election",
-      "summary": "Former rapper's political party sweeps Nepal election",
+      "title": "China positions itself as force for global stability at its annual Congress",
+      "summary": "China positions itself as force for global stability at its annual Congress",
       "outlets_covering": [
-        "BBC World",
-        "CBC World"
-      ],
-      "coverage_count": 2,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
-    },
-    {
-      "title": "Strait of Hormuz must remain closed, says Iran’s new leader",
-      "summary": "Strait of Hormuz must remain closed, says Iran’s new leader",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "PBS NewsHour",
-        "NYT World",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill"
+        "ABC News Intl",
+        "The Independent"
       ],
-      "coverage_count": 10,
-      "region": "Middle East",
+      "coverage_count": 3,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/irans-new-supreme-leader-vows-to-keep-up-attacks-says-hormuz-strait-to-stay-closed/article70735895.ece"
+      "source_url": "https://abcnews.com/International/wireStory/china-positions-force-global-stability-annual-congress-130991732"
     }
   ]
 }
