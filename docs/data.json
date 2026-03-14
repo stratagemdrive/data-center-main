@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T14:28:10.409008Z",
+  "last_updated": "2026-03-14T05:02:31.561986Z",
   "world_org_meetings": [
     {
       "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
@@ -10,45 +10,31 @@
       "source_url": "https://www.thehindu.com/news/international/asean-ministers-to-hold-meetings-to-address-west-asia-crisis/article70734960.ece"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "Middle East crisis: Jaishankar holds fourth call with Iranian FM Araghchi since war began, discusses bilateral ties",
-      "participants": [
-        "Middle",
-        "East",
-        "Jaishankar",
-        "Iranian"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Middle East crisis: Jaishankar holds fourth call with Iranian FM Araghchi since war began, discusses bilateral ties",
-      "source_url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-jaishankar-holds-fourth-call-with-iranian-fm-araghchi-since-war-began-discusses-bilateral-ties/articleshow/129547135.cms"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Former rapper's fledgling political party sweeps Nepal’s first post-revolt election",
+      "title": "Former rapper's political party sweeps Nepal election",
       "country": "Nepal",
       "election_type": "National",
       "date": "",
-      "description": "Former rapper's fledgling political party sweeps Nepal’s first post-revolt election",
-      "source_url": "https://abcnews.com/International/wireStory/former-rappers-fledgling-political-party-sweeps-nepals-post-131005985"
+      "description": "Former rapper's political party sweeps Nepal election",
+      "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
     },
     {
-      "title": "A record number of political parties register for Haiti's first election in a decade",
-      "country": "",
+      "title": "Republic of Congo election: Who is running and what’s at stake?",
+      "country": "Republic of Congo",
       "election_type": "National",
       "date": "",
-      "description": "A record number of political parties register for Haiti's first election in a decade",
-      "source_url": "https://www.npr.org/2026/03/13/g-s1-113547/a-record-number-of-political-parties-register-for-haitis-first-election-in-a-decade"
+      "description": "Republic of Congo election: Who is running and what’s at stake?",
+      "source_url": "https://www.aljazeera.com/news/2026/3/14/republic-of-congo-election-who-is-running-and-whats-at-stake?traffic_source=rss"
     },
     {
-      "title": "Housing crisis at heart of local elections: Residents squeezed in Biarritz",
-      "country": "",
-      "election_type": "Local",
+      "title": "Republic of the Congo elections: A foregone conclusion?",
+      "country": "Congo",
+      "election_type": "National",
       "date": "",
-      "description": "Housing crisis at heart of local elections: Residents squeezed in Biarritz",
-      "source_url": "https://www.france24.com/en/tv-shows/focus/20260313-housing-crisis-at-heart-of-local-elections-residents-squeezed-in-biarritz"
+      "description": "Republic of the Congo elections: A foregone conclusion?",
+      "source_url": "https://www.dw.com/en/republic-of-the-congo-elections-a-foregone-conclusion/a-76347978?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "CRA leader Junya Ogawa faces host of challenges, one month after election defeat",
@@ -59,33 +45,69 @@
       "source_url": "https://www.japantimes.co.jp/news/2026/03/13/japan/politics/junya-ogawa-challenges"
     },
     {
-      "title": "VK Sasikala announces new party name and symbol ahead of Tamil Nadu elections",
+      "title": "A record number of political parties register for Haiti's first election in a decade",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "VK Sasikala announces new party name and symbol ahead of Tamil Nadu elections",
-      "source_url": "https://timesofindia.indiatimes.com/india/vk-sasikala-announces-new-party-name-and-symbol-ahead-of-tamil-nadu-elections/articleshow/129543009.cms"
+      "description": "A record number of political parties register for Haiti's first election in a decade",
+      "source_url": "https://www.npr.org/2026/03/13/g-s1-113547/a-record-number-of-political-parties-register-for-haitis-first-election-in-a-decade"
     }
   ],
   "global_events": [
     {
-      "title": "Four killed in US military plane crash in Iraq",
-      "summary": "Four killed in US military plane crash in Iraq",
+      "title": "Iran-US war latest: Trump says strikes have ‘obliterated’ military targets on vital oil hub island",
+      "summary": "Iran-US war latest: Trump says strikes have ‘obliterated’ military targets on vital oil hub island",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 18,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-israel-oil-iraq-b2937707.html"
+    },
+    {
+      "title": "All six service members killed in plane crash in Iraq, says U.S. military",
+      "summary": "All six service members killed in plane crash in Iraq, says U.S. military",
       "outlets_covering": [
         "PBS NewsHour",
         "CBS News World",
         "NYT World",
-        "The Guardian World",
-        "Newsweek",
         "The Independent",
-        "Al Jazeera",
         "Japan Times",
+        "The Hindu Intl",
+        "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 13,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/four-killed-in-us-military-plane-crash-in-iraq?traffic_source=rss"
+      "source_url": "https://www.thehindu.com/news/international/us-refuelling-tanker-crash-iraq-crew-dead-war-march-13-2026/article70738848.ece"
+    },
+    {
+      "title": "US military refueling plane crashes in Iraq: What to know",
+      "summary": "US military refueling plane crashes in Iraq: What to know",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/defense/5782763-us-military-refueling-plane-crashes-in-iraq-what-to-know"
     },
     {
       "title": "Israeli Military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
@@ -94,57 +116,32 @@
         "BBC World",
         "CBC World",
         "NYT World",
-        "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/israeli-military-drops-charges-against-soldiers-accused-of-sexually-assaulting-palestinian-detainee/article70738120.ece"
     },
     {
-      "title": "Hegseth claims Iran is unable to build more weapons and that new supreme leader is ‘likely disfigured’ – Middle East crisis live",
-      "summary": "Hegseth claims Iran is unable to build more weapons and that new supreme leader is ‘likely disfigured’ – Middle East crisis live",
-      "outlets_covering": [
-        "The Guardian World",
-        "France24",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest"
-    },
-    {
-      "title": "Iran’s new leader warns Strait of Hormuz could be used as strategic leverage",
-      "summary": "Iran’s new leader warns Strait of Hormuz could be used as strategic leverage",
+      "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
+      "summary": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
         "NYT World",
+        "Japan Times",
         "The Hindu Intl",
+        "SCMP",
         "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 11,
+      "coverage_count": 13,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/videos/irans-new-leader-warns-strait-of-hormuz-could-be-used-as-strategic-leverage/article70738288.ece"
-    },
-    {
-      "title": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says",
-      "summary": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "The Guardian World"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/canada/windsor/michigan-synagogue-attack-lost-family-members-israeli-airstrike-9.7127297?cmp=rss"
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
