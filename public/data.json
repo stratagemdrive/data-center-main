@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T05:02:31.561986Z",
+  "last_updated": "2026-03-14T13:57:07.230571Z",
   "world_org_meetings": [
     {
       "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
@@ -10,23 +10,45 @@
       "source_url": "https://www.thehindu.com/news/international/asean-ministers-to-hold-meetings-to-address-west-asia-crisis/article70734960.ece"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "U.S. is begging world, India, to buy Russian oil: Iran’s Foreign Minister Araghchi",
+      "participants": [
+        "U.S",
+        "India",
+        "Russian",
+        "Iran’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "U.S. is begging world, India, to buy Russian oil: Iran’s Foreign Minister Araghchi",
+      "source_url": "https://www.thehindu.com/news/international/us-is-begging-world-india-to-buy-russian-oil-irans-foreign-minister-araghchi/article70742323.ece"
+    }
+  ],
   "elections": [
     {
-      "title": "Former rapper's political party sweeps Nepal election",
-      "country": "Nepal",
+      "title": "Opposition leader flees Uganda to escape military hunt after disputed election",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Former rapper's political party sweeps Nepal election",
-      "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
+      "description": "Opposition leader flees Uganda to escape military hunt after disputed election",
+      "source_url": "https://www.independent.co.uk/news/world/africa/bobi-wine-uganda-election-military-b2938542.html"
     },
     {
-      "title": "Republic of Congo election: Who is running and what’s at stake?",
-      "country": "Republic of Congo",
+      "title": "Democratic lead in Georgia special election signals change in party’s fortunes",
+      "country": "Georgia",
       "election_type": "National",
       "date": "",
-      "description": "Republic of Congo election: Who is running and what’s at stake?",
-      "source_url": "https://www.aljazeera.com/news/2026/3/14/republic-of-congo-election-who-is-running-and-whats-at-stake?traffic_source=rss"
+      "description": "Democratic lead in Georgia special election signals change in party’s fortunes",
+      "source_url": "https://www.theguardian.com/us-news/2026/mar/14/democrats-georgia-election"
+    },
+    {
+      "title": "Russia working to 'tip scale' for Orban in Hungary election",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Russia working to 'tip scale' for Orban in Hungary election",
+      "source_url": "https://www.dw.com/en/russia-working-to-tip-scale-for-orban-in-hungary-election/a-76349043?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Republic of the Congo elections: A foregone conclusion?",
@@ -37,42 +59,56 @@
       "source_url": "https://www.dw.com/en/republic-of-the-congo-elections-a-foregone-conclusion/a-76347978?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "CRA leader Junya Ogawa faces host of challenges, one month after election defeat",
-      "country": "",
+      "title": "Former rapper's political party sweeps Nepal election",
+      "country": "Nepal",
       "election_type": "National",
       "date": "",
-      "description": "CRA leader Junya Ogawa faces host of challenges, one month after election defeat",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/13/japan/politics/junya-ogawa-challenges"
-    },
-    {
-      "title": "A record number of political parties register for Haiti's first election in a decade",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "A record number of political parties register for Haiti's first election in a decade",
-      "source_url": "https://www.npr.org/2026/03/13/g-s1-113547/a-record-number-of-political-parties-register-for-haitis-first-election-in-a-decade"
+      "description": "Former rapper's political party sweeps Nepal election",
+      "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Iran-US war latest: Trump says strikes have ‘obliterated’ military targets on vital oil hub island",
-      "summary": "Iran-US war latest: Trump says strikes have ‘obliterated’ military targets on vital oil hub island",
+      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+      "summary": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
       "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NYT World",
+        "BBC World",
         "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
         "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
+        "DW World"
       ],
-      "coverage_count": 18,
-      "region": "Middle East",
+      "coverage_count": 4,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-israel-oil-iraq-b2937707.html"
+      "source_url": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pete Hegseth claims Iranian supreme leader Mojtaba Khamenei is ‘wounded and likely disfigured’",
+      "summary": "Pete Hegseth claims Iranian supreme leader Mojtaba Khamenei is ‘wounded and likely disfigured’",
+      "outlets_covering": [
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-supreme-leader-disfigured-pete-hegseth-mojtaba-khamenei-b2938441.html"
+    },
+    {
+      "title": "Democratic senators file war powers resolution to check Trump on Cuba",
+      "summary": "Democratic senators file war powers resolution to check Trump on Cuba",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/democratic-senators-file-war-powers-resolution-to-check-trump-on-cuba/article70742354.ece"
     },
     {
       "title": "All six service members killed in plane crash in Iraq, says U.S. military",
@@ -82,66 +118,29 @@
         "CBS News World",
         "NYT World",
         "The Independent",
-        "Japan Times",
         "The Hindu Intl",
         "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 12,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/us-refuelling-tanker-crash-iraq-crew-dead-war-march-13-2026/article70738848.ece"
     },
     {
-      "title": "US military refueling plane crashes in Iraq: What to know",
-      "summary": "US military refueling plane crashes in Iraq: What to know",
+      "title": "Russian strike on Kyiv region kills 4 people and wounds at least 15",
+      "summary": "Russian strike on Kyiv region kills 4 people and wounds at least 15",
       "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/defense/5782763-us-military-refueling-plane-crashes-in-iraq-what-to-know"
-    },
-    {
-      "title": "Israeli Military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
-      "summary": "Israeli Military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/israeli-military-drops-charges-against-soldiers-accused-of-sexually-assaulting-palestinian-detainee/article70738120.ece"
-    },
-    {
-      "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
-      "summary": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "NYT World",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill"
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
+      "coverage_count": 5,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/news/russian-missile-drone-strike-kyiv-region-deaths-injuries"
     }
   ]
 }
