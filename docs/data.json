@@ -1,16 +1,20 @@
 {
-  "last_updated": "2026-03-14T13:57:07.230571Z",
-  "world_org_meetings": [
+  "last_updated": "2026-03-15T05:43:29.329020Z",
+  "world_org_meetings": [],
+  "diplomatic_visits": [
     {
-      "title": "ASEAN Ministers to hold meetings to address West Asia crisis",
-      "organization": "ASEAN",
+      "title": "Iran foreign minister says ‘no problem’ with new Supreme Leader Mojtaba Khamenei after injury reports",
+      "participants": [
+        "Iran",
+        "Supreme",
+        "Leader",
+        "Mojtaba"
+      ],
       "date": "",
       "location": "",
-      "description": "ASEAN Ministers to hold meetings to address West Asia crisis",
-      "source_url": "https://www.thehindu.com/news/international/asean-ministers-to-hold-meetings-to-address-west-asia-crisis/article70734960.ece"
-    }
-  ],
-  "diplomatic_visits": [
+      "description": "Iran foreign minister says ‘no problem’ with new Supreme Leader Mojtaba Khamenei after injury reports",
+      "source_url": "https://www.thehindu.com/news/international/iran-foreign-minister-says-no-problem-with-supreme-leader-after-reported-injuries/article70744516.ece"
+    },
     {
       "title": "U.S. is begging world, India, to buy Russian oil: Iran’s Foreign Minister Araghchi",
       "participants": [
@@ -27,60 +31,109 @@
   ],
   "elections": [
     {
-      "title": "Opposition leader flees Uganda to escape military hunt after disputed election",
+      "title": "French Mayoral elections gauge far-right strength before Presidential ballot",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "French Mayoral elections gauge far-right strength before Presidential ballot",
+      "source_url": "https://www.thehindu.com/news/international/french-mayoral-elections-gauge-far-right-strength-before-presidential-ballot/article70745695.ece"
+    },
+    {
+      "title": "Election Commission likely to announce assembly polls schedule for five states",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Opposition leader flees Uganda to escape military hunt after disputed election",
-      "source_url": "https://www.independent.co.uk/news/world/africa/bobi-wine-uganda-election-military-b2938542.html"
+      "description": "Election Commission likely to announce assembly polls schedule for five states",
+      "source_url": "https://timesofindia.indiatimes.com/india/ec-likely-to-announce-assembly-polls-schedule-for-five-states/articleshow/129584660.cms"
     },
     {
-      "title": "Democratic lead in Georgia special election signals change in party’s fortunes",
-      "country": "Georgia",
-      "election_type": "National",
+      "title": "Polls open as single-party Vietnam holds legislative election",
+      "country": "Vietnam",
+      "election_type": "Legislative",
       "date": "",
-      "description": "Democratic lead in Georgia special election signals change in party’s fortunes",
-      "source_url": "https://www.theguardian.com/us-news/2026/mar/14/democrats-georgia-election"
+      "description": "Polls open as single-party Vietnam holds legislative election",
+      "source_url": "https://www.thehindu.com/news/international/vietnam-single-party-legislative-election/article70745637.ece"
     },
     {
-      "title": "Russia working to 'tip scale' for Orban in Hungary election",
-      "country": "Russia",
-      "election_type": "National",
+      "title": "Anti-war protests in Italy and Spain as high-stakes referendum on Italian judges looms",
+      "country": "Italy",
+      "election_type": "Referendum",
       "date": "",
-      "description": "Russia working to 'tip scale' for Orban in Hungary election",
-      "source_url": "https://www.dw.com/en/russia-working-to-tip-scale-for-orban-in-hungary-election/a-76349043?maca=en-rss-en-world-4025-rdf"
+      "description": "Anti-war protests in Italy and Spain as high-stakes referendum on Italian judges looms",
+      "source_url": "https://abcnews.com/International/wireStory/anti-war-protests-italy-spain-high-stakes-referendum-131074209"
     },
     {
-      "title": "Republic of the Congo elections: A foregone conclusion?",
-      "country": "Congo",
+      "title": "UK faces ‘seismic moment’ as nationalists target election wins, says John Swinney",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Republic of the Congo elections: A foregone conclusion?",
-      "source_url": "https://www.dw.com/en/republic-of-the-congo-elections-a-foregone-conclusion/a-76347978?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Former rapper's political party sweeps Nepal election",
-      "country": "Nepal",
-      "election_type": "National",
-      "date": "",
-      "description": "Former rapper's political party sweeps Nepal election",
-      "source_url": "https://www.cbc.ca/news/world/balendra-shah-nepal-election-9.7126140?cmp=rss"
+      "description": "UK faces ‘seismic moment’ as nationalists target election wins, says John Swinney",
+      "source_url": "https://www.theguardian.com/uk-news/2026/mar/14/uk-faces-seismic-moment-as-nationalists-target-election-wins-says-swinney"
     }
   ],
   "global_events": [
     {
-      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
-      "summary": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+      "title": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
+      "summary": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/russian-missile-drone-strike-kyiv-region-deaths-injuries"
+    },
+    {
+      "title": "Trump urges US allies to send warships to Strait of Hormuz as Iran vows to retaliate",
+      "summary": "Trump urges US allies to send warships to Strait of Hormuz as Iran vows to retaliate",
       "outlets_covering": [
         "BBC World",
+        "NYT World",
         "The Guardian World",
         "The Independent",
-        "DW World"
+        "France24",
+        "Japan Times",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 4,
-      "region": "Global",
+      "coverage_count": 11,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.independent.co.uk/news/world/europe/iran-donald-trump-tehran-strait-of-hormuz-israel-b2938735.html"
+    },
+    {
+      "title": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to conflict in Iran",
+      "summary": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to conflict in Iran",
+      "outlets_covering": [
+        "NBC News World",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/international/5784725-middle-east-conflict-f1-cancellation"
+    },
+    {
+      "title": "North Korea fires missiles in show of force amid U.S. drills",
+      "summary": "North Korea fires missiles in show of force amid U.S. drills",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "Sky News World",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/15/asia-pacific/politics/north-korea-missiles-us-drills"
     },
     {
       "title": "Pete Hegseth claims Iranian supreme leader Mojtaba Khamenei is ‘wounded and likely disfigured’",
@@ -95,52 +148,6 @@
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-supreme-leader-disfigured-pete-hegseth-mojtaba-khamenei-b2938441.html"
-    },
-    {
-      "title": "Democratic senators file war powers resolution to check Trump on Cuba",
-      "summary": "Democratic senators file war powers resolution to check Trump on Cuba",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/democratic-senators-file-war-powers-resolution-to-check-trump-on-cuba/article70742354.ece"
-    },
-    {
-      "title": "All six service members killed in plane crash in Iraq, says U.S. military",
-      "summary": "All six service members killed in plane crash in Iraq, says U.S. military",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-refuelling-tanker-crash-iraq-crew-dead-war-march-13-2026/article70738848.ece"
-    },
-    {
-      "title": "Russian strike on Kyiv region kills 4 people and wounds at least 15",
-      "summary": "Russian strike on Kyiv region kills 4 people and wounds at least 15",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/russian-missile-drone-strike-kyiv-region-deaths-injuries"
     }
   ]
 }
