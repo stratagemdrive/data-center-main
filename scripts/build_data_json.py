@@ -206,14 +206,80 @@ _WORLD_ORG_EVENT_TYPES = [
     "forum", "talks", "gather", "convene", "negotiate",
 ]
 
-_DIPLOMATIC_KW = [
-    "state visit", "bilateral", "diplomatic visit",
-    "foreign minister", "secretary of state",
-    "official visit", "talks between", "meeting between",
-    "heads of state", "diplomatic talks", "diplomatic meeting",
-    "prime minister.*visit", "president.*visit",
-    "visits ", "met with", "meeting with",
+# ---------------------------------------------------------------------------
+# Diplomatic visits — keyword lists and filters
+# ---------------------------------------------------------------------------
+
+# Broad keywords used only for RSS pre-filtering (upstream of _is_valid_diplomatic_item).
+# These cast a wide net; the strong-signal check below does the real gating.
+_DIPLOMATIC_FEED_KW = [
+    "visit", "bilateral", "summit", "state visit", "diplomatic",
+    "foreign minister", "secretary of state", "heads of state",
+    "met with", "meeting with", "talks between", "joint statement",
+    "arrived", "signed agreement", "welcomed", "hosted",
 ]
+
+# Patterns that strongly imply an actual visit/meeting occurred or is scheduled.
+# At least one must match for an item to pass.
+_DIPLOMATIC_VISIT_STRONG = [
+    r"\bstate visit\b",
+    r"\bbilateral (talks|meeting|summit|discussions)\b",
+    r"\bofficial visit\b",
+    r"\bheads of state\b",
+    r"\btalks between\b",
+    r"\bmeeting between\b",
+    r"\bdiplomatic (talks|meeting|summit|discussions)\b",
+    r"\b(arriv(?:es?|ed|ing)|travel(?:s|led|ling)?|flew|flies|heading) to\b.{0,60}\b(meet|talks?|summit|visit)\b",
+    r"\b(meet|met|meets|meeting) with\b.{0,60}\b(president|prime minister|chancellor|foreign minister|secretary of state)\b",
+    r"\b(president|prime minister|chancellor)\b.{0,80}\b(visit(?:s|ed|ing)?|arriv(?:es?|ed|ing))\b",
+    r"\b(host(?:s|ed|ing)?|welcom(?:es?|ed|ing))\b.{0,60}\b(president|prime minister|leader|chancellor|counterpart)\b",
+    r"\b(sign(?:s|ed|ing)?)\b.{0,60}\b(agreement|deal|pact|treaty|accord|memorandum)\b",
+    r"\bjoint (statement|communiqué|press conference|declaration)\b",
+    r"\bsummit (between|with|of)\b",
+]
+
+_DIPLOMATIC_VISIT_STRONG_RE = [re.compile(p, re.IGNORECASE) for p in _DIPLOMATIC_VISIT_STRONG]
+
+# Hard-block patterns — if any match, reject immediately regardless of other signals.
+_DIPLOMATIC_BLOCK_RE = [re.compile(p, re.IGNORECASE) for p in [
+    # Live war/conflict updates
+    r"\b(war live|live update|live blog)\b",
+    r"\blive:\s",
+    r"\b(airstrike|missile strike|drone strike|bombing|shelling|invasion)\b",
+    r"\b(kill(?:s|ed)|wound(?:s|ed)|dead|casualties|death toll)\b",
+    # Pure statements, quotes, accusations — not visits
+    r"\bsays?\b.{0,60}\b(no problem|begging|rejected?|refuses?|no plans?)\b",
+    r"\bno plans? (for|to)\b",
+    r"\brejects? (deal|proposal|offer|talks)\b",
+    r"\bbegging\b",
+    r"'no problem'",
+    r"\baccus(?:es?|ed)\b",
+    r"\bwarn(?:s|ed)\b.{0,40}\b(war|attack|strike|retaliate)\b",
+    r"\bthreaten(?:s|ed)\b",
+    # Opinion / analysis / speculation
+    r"\b(could|might|may|would)\b.{0,20}\b(improve|worsen|change|signal|pave the way)\b",
+    r"\b(sign of|what it means|analysis|opinion|commentary|column|explainer)\b",
+    # Injury / health / succession reports
+    r"\binjury reports?\b",
+    r"\bafter (reported|alleged) injur\b",
+    r"\bsupreme leader\b.{0,40}\b(injur|health|hospital|succession)\b",
+    # Media/reporter visits (not state visits)
+    r"\b(journalist|reporter|correspondent|editor|anchor)\b.{0,30}\bvisit",
+    r"\b(bbc|cnn|reuters|ap |nyt|guardian|al jazeera|npr|pbs|dw |france24)\b.{0,30}\bvisit",
+    # Legal / criminal
+    r"\b(arrested?|indicted?|charged?|sentenced?|extradited?)\b",
+]]
+
+
+def _is_valid_diplomatic_item(title: str) -> bool:
+    # Hard blocks first — reject immediately if any match
+    if any(p.search(title) for p in _DIPLOMATIC_BLOCK_RE):
+        return False
+    # Must have at least one strong signal of an actual visit/meeting
+    if not any(p.search(title) for p in _DIPLOMATIC_VISIT_STRONG_RE):
+        return False
+    return True
+
 
 _ELECTION_KW = [
     "election", "presidential election", "parliamentary election",
@@ -684,30 +750,13 @@ def fetch_org_meetings() -> List[dict]:
 # Section: Diplomatic Visits
 # ---------------------------------------------------------------------------
 
-def _is_valid_diplomatic_item(title: str) -> bool:
-    t = title.lower()
-    media_orgs = ["bbc", "cnn", "reuters", "ap ", "nyt", "guardian", "al jazeera",
-                  "npr", "pbs", "dw ", "france24", "reporter", "journalist", "correspondent"]
-    if any(m in t for m in media_orgs) and re.search(r"\bvisits?\b", t):
-        return False
-    has_diplo = any(re.search(kw, t) for kw in _DIPLOMATIC_KW)
-    if not has_diplo:
-        return False
-    if re.search(r"\b(bomb|terror attack|shooting|arrested|indicted)\b", t):
-        if not re.search(r"\b(state visit|bilateral|diplomatic meeting|summit|talks between)\b", t):
-            return False
-    if re.search(r"\b(seem set to|could|might|may improve|analysis|opinion)\b", t):
-        if not re.search(r"\b(visit|arrived|met|hosted|welcomed|signed)\b", t):
-            return False
-    return True
-
-
 def fetch_diplomatic_visits() -> List[dict]:
     print("  → Fetching diplomatic visits...")
 
     rss_items = []
     for src, url in RSS_FEEDS.items():
-        for item in _load_feed(src, url, _DIPLOMATIC_KW):
+        # Use the broad feed keyword list for pre-filtering, then gate strictly below
+        for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW):
             if _is_valid_diplomatic_item(item["title"]) and not _is_us_domestic(item["title"]):
                 rss_items.append(item)
 
