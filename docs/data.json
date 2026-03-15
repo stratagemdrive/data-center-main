@@ -1,55 +1,23 @@
 {
-  "last_updated": "2026-03-15T13:59:40.562463Z",
+  "last_updated": "2026-03-15T17:00:52.934694Z",
   "world_org_meetings": [],
-  "diplomatic_visits": [
-    {
-      "title": "Iran-Israel war LIVE: Trump rejects deal with Iran on current terms; Israeli Foreign Minister says no plans for talks with Lebanese Government",
-      "participants": [
-        "Iran-Israel",
-        "LIVE",
-        "Trump",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Iran-Israel war LIVE: Trump rejects deal with Iran on current terms; Israeli Foreign Minister says no plans for talks with Lebanese Government",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-15-2026-live-updates/article70745636.ece"
-    },
-    {
-      "title": "Iran foreign minister says ‘no problem’ with new Supreme Leader Mojtaba Khamenei after injury reports",
-      "participants": [
-        "Iran",
-        "Supreme",
-        "Leader",
-        "Mojtaba"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Iran foreign minister says ‘no problem’ with new Supreme Leader Mojtaba Khamenei after injury reports",
-      "source_url": "https://www.thehindu.com/news/international/iran-foreign-minister-says-no-problem-with-supreme-leader-after-reported-injuries/article70744516.ece"
-    },
-    {
-      "title": "U.S. is begging world, India, to buy Russian oil: Iran’s Foreign Minister Araghchi",
-      "participants": [
-        "U.S",
-        "India",
-        "Russian",
-        "Iran’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "U.S. is begging world, India, to buy Russian oil: Iran’s Foreign Minister Araghchi",
-      "source_url": "https://www.thehindu.com/news/international/us-is-begging-world-india-to-buy-russian-oil-irans-foreign-minister-araghchi/article70742323.ece"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Republic of Congo votes in presidential election",
-      "country": "Republic of Congo",
+      "title": "Voter turnout reaches 48.90% in France's first round of local elections",
+      "country": "France",
+      "election_type": "Local",
+      "date": "",
+      "description": "Voter turnout reaches 48.90% in France's first round of local elections",
+      "source_url": "https://www.france24.com/en/voter-turnout-reaches-48-90-in-france-s-first-round-of-local-elections"
+    },
+    {
+      "title": "France votes in local elections seen as crucial indicator for presidential poll",
+      "country": "France",
       "election_type": "Presidential",
       "date": "",
-      "description": "Republic of Congo votes in presidential election",
-      "source_url": "https://www.dw.com/en/republic-of-congo-votes-in-presidential-election/a-76365354?maca=en-rss-en-world-4025-rdf"
+      "description": "France votes in local elections seen as crucial indicator for presidential poll",
+      "source_url": "https://www.theguardian.com/world/2026/mar/15/france-votes-local-elections-presidential-indicator"
     },
     {
       "title": "West Bengal polls: Why EC opted for two-phase assembly elections",
@@ -74,24 +42,16 @@
       "date": "",
       "description": "Orbán and challenger Magyar summon rival rallies in show of strength before Hungary's April election",
       "source_url": "https://abcnews.com/International/wireStory/orbn-challenger-magyar-summon-rival-rallies-show-strength-131082104"
-    },
-    {
-      "title": "Puducherry Election Date 2026: Full schedule, voting date, result and full details",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Puducherry Election Date 2026: Full schedule, voting date, result and full details",
-      "source_url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-election-2026-schedule-date-voting-phase-result-counting-polls-full-details-election-commission/articleshow/129588202.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Trump urges allies to send warships to Strait of Hormuz",
-      "summary": "Trump urges allies to send warships to Strait of Hormuz",
+      "title": "After Trump’s Call to Send Warships to Strait of Hormuz, Nations Respond With Caution",
+      "summary": "After Trump’s Call to Send Warships to Strait of Hormuz, Nations Respond With Caution",
       "outlets_covering": [
         "BBC World",
         "Fox News World",
-        "The Guardian World",
+        "NYT World",
         "The Independent",
         "France24",
         "Japan Times",
@@ -102,7 +62,7 @@
       "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/trump-urges-allies-to-send-warships-to-strait-of-hormuz"
+      "source_url": "https://www.nytimes.com/2026/03/15/world/middleeast/trump-strait-of-hormuz-iran-warships.html"
     },
     {
       "title": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
@@ -118,6 +78,20 @@
       "region": "Europe / Russia",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/russian-missile-drone-strike-kyiv-region-deaths-injuries"
+    },
+    {
+      "title": "Trump’s FCC chair faces backlash after threatening broadcasters over Iran war coverage: ‘Flagrantly anti First Amendment’",
+      "summary": "Trump’s FCC chair faces backlash after threatening broadcasters over Iran war coverage: ‘Flagrantly anti First Amendment’",
+      "outlets_covering": [
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/fcc-brendan-carr-trump-iran-b2938853.html"
     },
     {
       "title": "US-China trade talks open in Paris, paving the way for Trump-Xi summit",
@@ -136,37 +110,18 @@
       "source_url": "https://www.independent.co.uk/news/world/europe/scott-bessent-donald-trump-beijing-xi-jinping-china-b2938820.html"
     },
     {
-      "title": "Iran War Live Updates: Israel Launches New Strikes on Iran",
-      "summary": "Iran War Live Updates: Israel Launches New Strikes on Iran",
+      "title": "Trump says he's not ready to make a deal with Iran as Gulf countries report new attacks",
+      "summary": "Trump says he's not ready to make a deal with Iran as Gulf countries report new attacks",
       "outlets_covering": [
-        "Fox News World",
-        "NYT World",
+        "CBS News World",
         "The Guardian World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
         "The Hindu Intl",
-        "Axios"
+        "The Hill"
       ],
-      "coverage_count": 13,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel"
-    },
-    {
-      "title": "Israeli police kill two young Palestinian boys and their parents in West Bank",
-      "summary": "Israeli police kill two young Palestinian boys and their parents in West Bank",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-kc-135-plane-crash-iraq-us-deaths-strait-of-hormuz-no-end-in-sight"
     }
   ]
 }
