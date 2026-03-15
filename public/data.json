@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-15T05:43:29.329020Z",
+  "last_updated": "2026-03-15T13:59:40.562463Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
+    {
+      "title": "Iran-Israel war LIVE: Trump rejects deal with Iran on current terms; Israeli Foreign Minister says no plans for talks with Lebanese Government",
+      "participants": [
+        "Iran-Israel",
+        "LIVE",
+        "Trump",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Iran-Israel war LIVE: Trump rejects deal with Iran on current terms; Israeli Foreign Minister says no plans for talks with Lebanese Government",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-15-2026-live-updates/article70745636.ece"
+    },
     {
       "title": "Iran foreign minister says ‘no problem’ with new Supreme Leader Mojtaba Khamenei after injury reports",
       "participants": [
@@ -31,123 +44,129 @@
   ],
   "elections": [
     {
-      "title": "French Mayoral elections gauge far-right strength before Presidential ballot",
-      "country": "",
+      "title": "Republic of Congo votes in presidential election",
+      "country": "Republic of Congo",
       "election_type": "Presidential",
       "date": "",
-      "description": "French Mayoral elections gauge far-right strength before Presidential ballot",
-      "source_url": "https://www.thehindu.com/news/international/french-mayoral-elections-gauge-far-right-strength-before-presidential-ballot/article70745695.ece"
+      "description": "Republic of Congo votes in presidential election",
+      "source_url": "https://www.dw.com/en/republic-of-congo-votes-in-presidential-election/a-76365354?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Election Commission likely to announce assembly polls schedule for five states",
+      "title": "West Bengal polls: Why EC opted for two-phase assembly elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Election Commission likely to announce assembly polls schedule for five states",
-      "source_url": "https://timesofindia.indiatimes.com/india/ec-likely-to-announce-assembly-polls-schedule-for-five-states/articleshow/129584660.cms"
+      "description": "West Bengal polls: Why EC opted for two-phase assembly elections",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-why-ec-opted-for-two-phase-assembly-elections/articleshow/129590137.cms"
     },
     {
-      "title": "Polls open as single-party Vietnam holds legislative election",
-      "country": "Vietnam",
-      "election_type": "Legislative",
-      "date": "",
-      "description": "Polls open as single-party Vietnam holds legislative election",
-      "source_url": "https://www.thehindu.com/news/international/vietnam-single-party-legislative-election/article70745637.ece"
-    },
-    {
-      "title": "Anti-war protests in Italy and Spain as high-stakes referendum on Italian judges looms",
-      "country": "Italy",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Anti-war protests in Italy and Spain as high-stakes referendum on Italian judges looms",
-      "source_url": "https://abcnews.com/International/wireStory/anti-war-protests-italy-spain-high-stakes-referendum-131074209"
-    },
-    {
-      "title": "UK faces ‘seismic moment’ as nationalists target election wins, says John Swinney",
+      "title": "Assembly Elections 2026: Assurance on SIR, Model Code of Conduct &amp; more — what EC said on polls for 4 states, 1 UT",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "UK faces ‘seismic moment’ as nationalists target election wins, says John Swinney",
-      "source_url": "https://www.theguardian.com/uk-news/2026/mar/14/uk-faces-seismic-moment-as-nationalists-target-election-wins-says-swinney"
+      "description": "Assembly Elections 2026: Assurance on SIR, Model Code of Conduct &amp; more — what EC said on polls for 4 states, 1 UT",
+      "source_url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-assurance-on-sir-model-code-of-conduct-more-what-ec-said-on-polls-for-4-states-1-ut/articleshow/129589455.cms"
+    },
+    {
+      "title": "Orbán and challenger Magyar summon rival rallies in show of strength before Hungary's April election",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Orbán and challenger Magyar summon rival rallies in show of strength before Hungary's April election",
+      "source_url": "https://abcnews.com/International/wireStory/orbn-challenger-magyar-summon-rival-rallies-show-strength-131082104"
+    },
+    {
+      "title": "Puducherry Election Date 2026: Full schedule, voting date, result and full details",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Puducherry Election Date 2026: Full schedule, voting date, result and full details",
+      "source_url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-election-2026-schedule-date-voting-phase-result-counting-polls-full-details-election-commission/articleshow/129588202.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
-      "summary": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/russian-missile-drone-strike-kyiv-region-deaths-injuries"
-    },
-    {
-      "title": "Trump urges US allies to send warships to Strait of Hormuz as Iran vows to retaliate",
-      "summary": "Trump urges US allies to send warships to Strait of Hormuz as Iran vows to retaliate",
+      "title": "Trump urges allies to send warships to Strait of Hormuz",
+      "summary": "Trump urges allies to send warships to Strait of Hormuz",
       "outlets_covering": [
         "BBC World",
-        "NYT World",
+        "Fox News World",
         "The Guardian World",
         "The Independent",
         "France24",
         "Japan Times",
-        "Foreign Policy",
+        "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
       "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/iran-donald-trump-tehran-strait-of-hormuz-israel-b2938735.html"
+      "source_url": "https://www.france24.com/en/trump-urges-allies-to-send-warships-to-strait-of-hormuz"
     },
     {
-      "title": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to conflict in Iran",
-      "summary": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to conflict in Iran",
+      "title": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
+      "summary": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
       "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "CBS News World",
         "NBC News World",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/5784725-middle-east-conflict-f1-cancellation"
-    },
-    {
-      "title": "North Korea fires missiles in show of force amid U.S. drills",
-      "summary": "North Korea fires missiles in show of force amid U.S. drills",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
-        "Sky News World",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/15/asia-pacific/politics/north-korea-missiles-us-drills"
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/russian-missile-drone-strike-kyiv-region-deaths-injuries"
     },
     {
-      "title": "Pete Hegseth claims Iranian supreme leader Mojtaba Khamenei is ‘wounded and likely disfigured’",
-      "summary": "Pete Hegseth claims Iranian supreme leader Mojtaba Khamenei is ‘wounded and likely disfigured’",
+      "title": "US-China trade talks open in Paris, paving the way for Trump-Xi summit",
+      "summary": "US-China trade talks open in Paris, paving the way for Trump-Xi summit",
       "outlets_covering": [
+        "ABC News Intl",
+        "Bloomberg",
         "The Independent",
+        "Al Jazeera",
+        "Japan Times",
+        "SCMP"
+      ],
+      "coverage_count": 7,
+      "region": "China",
+      "category": "Economy",
+      "source_url": "https://www.independent.co.uk/news/world/europe/scott-bessent-donald-trump-beijing-xi-jinping-china-b2938820.html"
+    },
+    {
+      "title": "Iran War Live Updates: Israel Launches New Strikes on Iran",
+      "summary": "Iran War Live Updates: Israel Launches New Strikes on Iran",
+      "outlets_covering": [
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "The Hill",
         "Axios"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel"
+    },
+    {
+      "title": "Israeli police kill two young Palestinian boys and their parents in West Bank",
+      "summary": "Israeli police kill two young Palestinian boys and their parents in West Bank",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-supreme-leader-disfigured-pete-hegseth-mojtaba-khamenei-b2938441.html"
+      "source_url": "https://www.theguardian.com/world/2026/mar/15/israeli-police-kill-two-young-palestinian-boys-and-their-parents-in-west-bank"
     }
   ]
 }
