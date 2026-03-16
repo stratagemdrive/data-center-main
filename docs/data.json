@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-03-15T17:00:52.934694Z",
+  "last_updated": "2026-03-16T06:00:03.911634Z",
   "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Voter turnout reaches 48.90% in France's first round of local elections",
-      "country": "France",
+      "title": "French far right leads in Nice, nearing key election victory",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "French far right leads in Nice, nearing key election victory",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/16/world/politics/france-far-right-nice-election"
+    },
+    {
+      "title": "First-round of French local elections sees strong showing for National Rally and LFI",
+      "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Voter turnout reaches 48.90% in France's first round of local elections",
-      "source_url": "https://www.france24.com/en/voter-turnout-reaches-48-90-in-france-s-first-round-of-local-elections"
+      "description": "First-round of French local elections sees strong showing for National Rally and LFI",
+      "source_url": "https://www.theguardian.com/world/2026/mar/15/french-local-elections-first-round-results"
+    },
+    {
+      "title": "French far right eyes Marseille upset after strong showing in mayoral elections",
+      "country": "",
+      "election_type": "Mayoral",
+      "date": "",
+      "description": "French far right eyes Marseille upset after strong showing in mayoral elections",
+      "source_url": "https://www.france24.com/en/france/20260315-far-right-polls-strongly-in-french-mayoral-elections-seen-as-launchpad-for-2027-presidential-race"
+    },
+    {
+      "title": "Kosovo faces third legislative election in just over a year",
+      "country": "",
+      "election_type": "Legislative",
+      "date": "",
+      "description": "Kosovo faces third legislative election in just over a year",
+      "source_url": "https://www.dw.com/en/kosovo-faces-third-legislative-election-in-just-over-a-year/a-76362056?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "France votes in local elections seen as crucial indicator for presidential poll",
@@ -18,110 +42,79 @@
       "date": "",
       "description": "France votes in local elections seen as crucial indicator for presidential poll",
       "source_url": "https://www.theguardian.com/world/2026/mar/15/france-votes-local-elections-presidential-indicator"
-    },
-    {
-      "title": "West Bengal polls: Why EC opted for two-phase assembly elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "West Bengal polls: Why EC opted for two-phase assembly elections",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-polls-why-ec-opted-for-two-phase-assembly-elections/articleshow/129590137.cms"
-    },
-    {
-      "title": "Assembly Elections 2026: Assurance on SIR, Model Code of Conduct &amp; more — what EC said on polls for 4 states, 1 UT",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Assembly Elections 2026: Assurance on SIR, Model Code of Conduct &amp; more — what EC said on polls for 4 states, 1 UT",
-      "source_url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-assurance-on-sir-model-code-of-conduct-more-what-ec-said-on-polls-for-4-states-1-ut/articleshow/129589455.cms"
-    },
-    {
-      "title": "Orbán and challenger Magyar summon rival rallies in show of strength before Hungary's April election",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Orbán and challenger Magyar summon rival rallies in show of strength before Hungary's April election",
-      "source_url": "https://abcnews.com/International/wireStory/orbn-challenger-magyar-summon-rival-rallies-show-strength-131082104"
     }
   ],
   "global_events": [
     {
-      "title": "After Trump’s Call to Send Warships to Strait of Hormuz, Nations Respond With Caution",
-      "summary": "After Trump’s Call to Send Warships to Strait of Hormuz, Nations Respond With Caution",
+      "title": "Israel says Michigan synagogue attacker’s brother was Hezbollah commander",
+      "summary": "Israel says Michigan synagogue attacker’s brother was Hezbollah commander",
       "outlets_covering": [
-        "BBC World",
-        "Fox News World",
-        "NYT World",
-        "The Independent",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/03/15/world/middleeast/trump-strait-of-hormuz-iran-warships.html"
-    },
-    {
-      "title": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
-      "summary": "Russian strike on Kyiv region kills at least 6 people and wounds dozens",
-      "outlets_covering": [
-        "NPR World",
         "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/russian-missile-drone-strike-kyiv-region-deaths-injuries"
-    },
-    {
-      "title": "Trump’s FCC chair faces backlash after threatening broadcasters over Iran war coverage: ‘Flagrantly anti First Amendment’",
-      "summary": "Trump’s FCC chair faces backlash after threatening broadcasters over Iran war coverage: ‘Flagrantly anti First Amendment’",
-      "outlets_covering": [
-        "NBC News World",
         "NYT World",
-        "The Independent",
+        "The Hindu Intl",
         "The Hill"
       ],
       "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/fcc-brendan-carr-trump-iran-b2938853.html"
+      "source_url": "https://thehill.com/homenews/state-watch/5785336-israel-hezbollah-linked-synagogue-attack"
     },
     {
-      "title": "US-China trade talks open in Paris, paving the way for Trump-Xi summit",
-      "summary": "US-China trade talks open in Paris, paving the way for Trump-Xi summit",
+      "title": "Russian strike on Kyiv region kills 4, wounds 15",
+      "summary": "Russian strike on Kyiv region kills 4, wounds 15",
       "outlets_covering": [
-        "ABC News Intl",
-        "Bloomberg",
+        "NPR World",
+        "CBC World",
+        "NBC News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/russian-strike-kyiv-energy-infrastructure-9.7128990?cmp=rss"
+    },
+    {
+      "title": "Iran-US war latest: Dubai shuts airport as Trump warns Nato faces ‘bad future’ if allies don’t help open Strait of Hormuz",
+      "summary": "Iran-US war latest: Dubai shuts airport as Trump warns Nato faces ‘bad future’ if allies don’t help open Strait of Hormuz",
+      "outlets_covering": [
         "The Independent",
         "Al Jazeera",
-        "Japan Times",
-        "SCMP"
-      ],
-      "coverage_count": 7,
-      "region": "China",
-      "category": "Economy",
-      "source_url": "https://www.independent.co.uk/news/world/europe/scott-bessent-donald-trump-beijing-xi-jinping-china-b2938820.html"
-    },
-    {
-      "title": "Trump says he's not ready to make a deal with Iran as Gulf countries report new attacks",
-      "summary": "Trump says he's not ready to make a deal with Iran as Gulf countries report new attacks",
-      "outlets_covering": [
-        "CBS News World",
-        "The Guardian World",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-kc-135-plane-crash-iraq-us-deaths-strait-of-hormuz-no-end-in-sight"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-dubai-strait-of-hormuz-b2939098.html"
+    },
+    {
+      "title": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
+      "summary": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "NYT World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html"
+    },
+    {
+      "title": "Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman",
+      "summary": "Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/israeli-strikes-killed-12-in-gaza-including-2-children-and-a-pregnant-woman/article70747774.ece"
     }
   ]
 }
