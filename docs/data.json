@@ -1,50 +1,84 @@
 {
-  "last_updated": "2026-03-16T06:00:03.911634Z",
+  "last_updated": "2026-03-16T15:44:49.707921Z",
   "world_org_meetings": [],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations",
+      "participants": [
+        "Trump’s",
+        "Threat",
+        "Delay",
+        "Summit"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations",
+      "source_url": "https://www.nytimes.com/2026/03/16/world/middleeast/trump-visit-xi-china-iran.html"
+    }
+  ],
   "elections": [
     {
-      "title": "French far right leads in Nice, nearing key election victory",
+      "title": "'Hard to draw conclusions for presidential election' from French municipal vote",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "'Hard to draw conclusions for presidential election' from French municipal vote",
+      "source_url": "https://www.france24.com/en/hard-to-draw-conclusions-for-presidential-election-from-french-municipal-vote"
+    },
+    {
+      "title": "What to know from the first round of France's municipal elections",
+      "country": "France",
+      "election_type": "National",
+      "date": "",
+      "description": "What to know from the first round of France's municipal elections",
+      "source_url": "https://www.france24.com/en/what-to-know-from-the-first-round-of-france-s-municipal-elections"
+    },
+    {
+      "title": "Kerala elections 2026: BJP releases first list of 47 candidates; fields Rajeev Chandrasekhar, K Surendran",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "French far right leads in Nice, nearing key election victory",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/16/world/politics/france-far-right-nice-election"
+      "description": "Kerala elections 2026: BJP releases first list of 47 candidates; fields Rajeev Chandrasekhar, K Surendran",
+      "source_url": "https://timesofindia.indiatimes.com/india/kerala-elections-2026-bjp-releases-first-list-of-47-candidates-fields-rajeev-chandrasekhar-k-surendran/articleshow/129608012.cms"
     },
     {
-      "title": "First-round of French local elections sees strong showing for National Rally and LFI",
-      "country": "",
-      "election_type": "Local",
+      "title": "Republic of Congo votes in an election that's expected to extend incumbent president's 42-year rule",
+      "country": "Republic of Congo",
+      "election_type": "National",
       "date": "",
-      "description": "First-round of French local elections sees strong showing for National Rally and LFI",
-      "source_url": "https://www.theguardian.com/world/2026/mar/15/french-local-elections-first-round-results"
+      "description": "Republic of Congo votes in an election that's expected to extend incumbent president's 42-year rule",
+      "source_url": "https://abcnews.com/International/wireStory/republic-congo-votes-election-expected-extend-incumbent-presidents-131081406"
     },
     {
-      "title": "French far right eyes Marseille upset after strong showing in mayoral elections",
-      "country": "",
-      "election_type": "Mayoral",
+      "title": "Kazakhstan's new constitution cementing president's grip on power approved in a referendum",
+      "country": "Kazakhstan",
+      "election_type": "Referendum",
       "date": "",
-      "description": "French far right eyes Marseille upset after strong showing in mayoral elections",
-      "source_url": "https://www.france24.com/en/france/20260315-far-right-polls-strongly-in-french-mayoral-elections-seen-as-launchpad-for-2027-presidential-race"
-    },
-    {
-      "title": "Kosovo faces third legislative election in just over a year",
-      "country": "",
-      "election_type": "Legislative",
-      "date": "",
-      "description": "Kosovo faces third legislative election in just over a year",
-      "source_url": "https://www.dw.com/en/kosovo-faces-third-legislative-election-in-just-over-a-year/a-76362056?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "France votes in local elections seen as crucial indicator for presidential poll",
-      "country": "France",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "France votes in local elections seen as crucial indicator for presidential poll",
-      "source_url": "https://www.theguardian.com/world/2026/mar/15/france-votes-local-elections-presidential-indicator"
+      "description": "Kazakhstan's new constitution cementing president's grip on power approved in a referendum",
+      "source_url": "https://abcnews.com/International/wireStory/kazakhstans-new-constitution-cementing-presidents-grip-power-approved-131109138"
     }
   ],
   "global_events": [
+    {
+      "title": "'Not our war': U.S. allies balk at Trump's Strait of Hormuz demands",
+      "summary": "'Not our war': U.S. allies balk at Trump's Strait of Hormuz demands",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nbcnews.com/world/iran/us-allies-respond-trump-strait-of-hormuz-demands-nato-iran-war-rcna263650"
+    },
     {
       "title": "Israel says Michigan synagogue attacker’s brother was Hezbollah commander",
       "summary": "Israel says Michigan synagogue attacker’s brother was Hezbollah commander",
@@ -60,61 +94,50 @@
       "source_url": "https://thehill.com/homenews/state-watch/5785336-israel-hezbollah-linked-synagogue-attack"
     },
     {
-      "title": "Russian strike on Kyiv region kills 4, wounds 15",
-      "summary": "Russian strike on Kyiv region kills 4, wounds 15",
+      "title": "Trump backs FCC chair’s threat to pull licenses of news outlets over Iran war coverage",
+      "summary": "Trump backs FCC chair’s threat to pull licenses of news outlets over Iran war coverage",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "NBC News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/russian-strike-kyiv-energy-infrastructure-9.7128990?cmp=rss"
-    },
-    {
-      "title": "Iran-US war latest: Dubai shuts airport as Trump warns Nato faces ‘bad future’ if allies don’t help open Strait of Hormuz",
-      "summary": "Iran-US war latest: Dubai shuts airport as Trump warns Nato faces ‘bad future’ if allies don’t help open Strait of Hormuz",
-      "outlets_covering": [
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
+        "NYT World",
+        "The Guardian World",
         "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-trump-dubai-strait-of-hormuz-b2939098.html"
+      "source_url": "https://www.theguardian.com/us-news/2026/mar/16/trump-fcc-chair-broadcast-license-threat-iran-war"
     },
     {
-      "title": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-      "summary": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html"
-    },
-    {
-      "title": "Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman",
-      "summary": "Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman",
+      "title": "Israeli strikes kill 12 in Gaza, including children and pregnant woman, hospital officials say",
+      "summary": "Israeli strikes kill 12 in Gaza, including children and pregnant woman, hospital officials say",
       "outlets_covering": [
         "PBS NewsHour",
         "The Independent",
-        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/israeli-strikes-killed-12-in-gaza-including-2-children-and-a-pregnant-woman/article70747774.ece"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/gaza-strike-israel-alaqsa-martyrs-b2939150.html"
+    },
+    {
+      "title": "Trump to announce coalition to lead ships through Strait of Hormuz amid Iran War",
+      "summary": "Trump to announce coalition to lead ships through Strait of Hormuz amid Iran War",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 16,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-strait-of-hormuz-coalition-oil-nato-iran-war-b2939159.html"
     }
   ]
 }
