@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T15:44:49.707921Z",
+  "last_updated": "2026-03-17T05:13:47.879284Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
@@ -18,66 +18,106 @@
   ],
   "elections": [
     {
-      "title": "'Hard to draw conclusions for presidential election' from French municipal vote",
+      "title": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
+      "source_url": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide"
+    },
+    {
+      "title": "Israel policy looms large over US elections in Illinois amid Iran war",
+      "country": "Iran",
+      "election_type": "National",
+      "date": "",
+      "description": "Israel policy looms large over US elections in Illinois amid Iran war",
+      "source_url": "https://www.aljazeera.com/news/2026/3/17/israel-policy-looms-large-over-us-elections-in-illinois-amid-iran-war?traffic_source=rss"
+    },
+    {
+      "title": "French mayoral elections: Fractured vote reshapes alliances ahead of runoff",
       "country": "",
-      "election_type": "Presidential",
+      "election_type": "Mayoral",
       "date": "",
-      "description": "'Hard to draw conclusions for presidential election' from French municipal vote",
-      "source_url": "https://www.france24.com/en/hard-to-draw-conclusions-for-presidential-election-from-french-municipal-vote"
+      "description": "French mayoral elections: Fractured vote reshapes alliances ahead of runoff",
+      "source_url": "https://www.france24.com/en/france/20260316-french-mayoral-elections-fractured-vote-reshapes-alliances-ahead-of-runoff"
     },
     {
-      "title": "What to know from the first round of France's municipal elections",
-      "country": "France",
-      "election_type": "National",
+      "title": "French political parties seek alliances before final round of local elections",
+      "country": "",
+      "election_type": "Local",
       "date": "",
-      "description": "What to know from the first round of France's municipal elections",
-      "source_url": "https://www.france24.com/en/what-to-know-from-the-first-round-of-france-s-municipal-elections"
+      "description": "French political parties seek alliances before final round of local elections",
+      "source_url": "https://www.theguardian.com/world/2026/mar/16/french-political-parties-alliances-local-elections"
     },
     {
-      "title": "Kerala elections 2026: BJP releases first list of 47 candidates; fields Rajeev Chandrasekhar, K Surendran",
+      "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Kerala elections 2026: BJP releases first list of 47 candidates; fields Rajeev Chandrasekhar, K Surendran",
-      "source_url": "https://timesofindia.indiatimes.com/india/kerala-elections-2026-bjp-releases-first-list-of-47-candidates-fields-rajeev-chandrasekhar-k-surendran/articleshow/129608012.cms"
-    },
-    {
-      "title": "Republic of Congo votes in an election that's expected to extend incumbent president's 42-year rule",
-      "country": "Republic of Congo",
-      "election_type": "National",
-      "date": "",
-      "description": "Republic of Congo votes in an election that's expected to extend incumbent president's 42-year rule",
-      "source_url": "https://abcnews.com/International/wireStory/republic-congo-votes-election-expected-extend-incumbent-presidents-131081406"
-    },
-    {
-      "title": "Kazakhstan's new constitution cementing president's grip on power approved in a referendum",
-      "country": "Kazakhstan",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Kazakhstan's new constitution cementing president's grip on power approved in a referendum",
-      "source_url": "https://abcnews.com/International/wireStory/kazakhstans-new-constitution-cementing-presidents-grip-power-approved-131109138"
+      "description": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167143"
     }
   ],
   "global_events": [
     {
-      "title": "'Not our war': U.S. allies balk at Trump's Strait of Hormuz demands",
-      "summary": "'Not our war': U.S. allies balk at Trump's Strait of Hormuz demands",
+      "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+      "summary": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 11,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump Says He Asked China to Delay Xi Summit Due to Iran War",
+      "summary": "Trump Says He Asked China to Delay Xi Summit Due to Iran War",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 21,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-03-17/trump-says-he-asked-china-to-delay-xi-summit-video"
+    },
+    {
+      "title": "EU rejects Trump's request to help secure the Strait of Hormuz",
+      "summary": "EU rejects Trump's request to help secure the Strait of Hormuz",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "NBC News World",
         "Fox News World",
         "NYT World",
+        "The Guardian World",
         "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
+        "DW World",
         "SCMP",
         "The Hill"
       ],
-      "coverage_count": 17,
+      "coverage_count": 16,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nbcnews.com/world/iran/us-allies-respond-trump-strait-of-hormuz-demands-nato-iran-war-rcna263650"
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/03/16/nx-s1-5749194/eu-rejects-trumps-request-to-help-secure-the-strait-of-hormuz"
     },
     {
       "title": "Israel says Michigan synagogue attacker’s brother was Hezbollah commander",
@@ -94,50 +134,22 @@
       "source_url": "https://thehill.com/homenews/state-watch/5785336-israel-hezbollah-linked-synagogue-attack"
     },
     {
-      "title": "Trump backs FCC chair’s threat to pull licenses of news outlets over Iran war coverage",
-      "summary": "Trump backs FCC chair’s threat to pull licenses of news outlets over Iran war coverage",
+      "title": "Rashid Khan, Afghanistan cricketers condemn deadly Kabul air strike by Pakistan",
+      "summary": "Rashid Khan, Afghanistan cricketers condemn deadly Kabul air strike by Pakistan",
       "outlets_covering": [
-        "NYT World",
+        "NPR World",
+        "CBC World",
+        "Sky News World",
         "The Guardian World",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/mar/16/trump-fcc-chair-broadcast-license-threat-iran-war"
-    },
-    {
-      "title": "Israeli strikes kill 12 in Gaza, including children and pregnant woman, hospital officials say",
-      "summary": "Israeli strikes kill 12 in Gaza, including children and pregnant woman, hospital officials say",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Middle East",
+      "coverage_count": 8,
+      "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/gaza-strike-israel-alaqsa-martyrs-b2939150.html"
-    },
-    {
-      "title": "Trump to announce coalition to lead ships through Strait of Hormuz amid Iran War",
-      "summary": "Trump to announce coalition to lead ships through Strait of Hormuz amid Iran War",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-strait-of-hormuz-coalition-oil-nato-iran-war-b2939159.html"
+      "source_url": "https://www.thehindu.com/news/international/rashid-khan-afghanistan-cricketers-condemn-deadly-kabul-air-strike-by-pakistan/article70752541.ece"
     }
   ]
 }
