@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-17T05:13:47.879284Z",
-  "world_org_meetings": [],
+  "last_updated": "2026-03-17T15:43:41.330658Z",
+  "world_org_meetings": [
+    {
+      "title": "Ukraine-Russia war latest: Zelensky touches down in UK for talks with Nato chief and Starmer",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Ukraine-Russia war latest: Zelensky touches down in UK for talks with Nato chief and Starmer",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-trump-uk-b2939853.html"
+    },
+    {
+      "title": "At UN General Assembly, India slams Pakistan’s ‘air-bombing campaigns’ during Ramadan",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "At UN General Assembly, India slams Pakistan’s ‘air-bombing campaigns’ during Ramadan",
+      "source_url": "https://www.thehindu.com/shorts/watch-at-un-general-assembly-india-slams-pakistans-air-bombing-campaigns-during-ramadan/article70753308.ece"
+    }
+  ],
   "diplomatic_visits": [
     {
       "title": "Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations",
@@ -18,138 +35,141 @@
   ],
   "elections": [
     {
-      "title": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
-      "source_url": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide"
-    },
-    {
-      "title": "Israel policy looms large over US elections in Illinois amid Iran war",
-      "country": "Iran",
-      "election_type": "National",
-      "date": "",
-      "description": "Israel policy looms large over US elections in Illinois amid Iran war",
-      "source_url": "https://www.aljazeera.com/news/2026/3/17/israel-policy-looms-large-over-us-elections-in-illinois-amid-iran-war?traffic_source=rss"
-    },
-    {
-      "title": "French mayoral elections: Fractured vote reshapes alliances ahead of runoff",
+      "title": "West Bengal assembly elections: Mamata Banerjee vs Suvendu Adhikari once again; stage set in Bhabanipur for Round 2 of political rivalry",
       "country": "",
-      "election_type": "Mayoral",
+      "election_type": "National",
       "date": "",
-      "description": "French mayoral elections: Fractured vote reshapes alliances ahead of runoff",
-      "source_url": "https://www.france24.com/en/france/20260316-french-mayoral-elections-fractured-vote-reshapes-alliances-ahead-of-runoff"
+      "description": "West Bengal assembly elections: Mamata Banerjee vs Suvendu Adhikari once again; stage set in Bhabanipur for Round 2 of political rivalry",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-elections-mamata-banerjee-vs-suvendu-adhikari-once-again-stage-set-in-bhabanipur-for-round-2-of-political-rivalry/articleshow/129633559.cms"
     },
     {
-      "title": "French political parties seek alliances before final round of local elections",
+      "title": "Watch live: The Hill hosts primary night coverage with DDHQ election data experts",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Watch live: The Hill hosts primary night coverage with DDHQ election data experts",
+      "source_url": "https://thehill.com/homenews/5787305-watch-live-the-hill-illinois-primary-coverage"
+    },
+    {
+      "title": "France’s far right makes gains in first-round municipal elections",
+      "country": "France",
+      "election_type": "National",
+      "date": "",
+      "description": "France’s far right makes gains in first-round municipal elections",
+      "source_url": "https://abcnews.com/International/wireStory/frances-makes-gains-round-municipal-elections-major-cities-131143522"
+    },
+    {
+      "title": "French parties scramble to make alliances ahead of local election runoffs",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "French political parties seek alliances before final round of local elections",
-      "source_url": "https://www.theguardian.com/world/2026/mar/16/french-political-parties-alliances-local-elections"
+      "description": "French parties scramble to make alliances ahead of local election runoffs",
+      "source_url": "https://www.france24.com/en/video/20260317-french-parties-scramble-to-make-alliances-ahead-of-local-election-runoffs"
     },
     {
-      "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
+      "title": "'For free and fair polls': Puducherry govt bars 'defacement' of properties during assembly elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167143"
+      "description": "'For free and fair polls': Puducherry govt bars 'defacement' of properties during assembly elections",
+      "source_url": "https://timesofindia.indiatimes.com/india/for-free-and-fair-polls-puducherry-govt-bars-defacement-of-properties-during-assembly-elections/articleshow/129629614.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
-      "summary": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+      "title": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
+      "summary": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 14,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/top-us-counterterrorism-official-resigns-over-iran-war-says-iran-posed-no-imminent-threat/article70755081.ece"
+    },
+    {
+      "title": "What to Know About Ali Larijani, Iran’s Top Security Official",
+      "summary": "What to Know About Ali Larijani, Iran’s Top Security Official",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html"
+    },
+    {
+      "title": "Trump seeks to delay meeting with Xi in China",
+      "summary": "Trump seeks to delay meeting with Xi in China",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 11,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump Says He Asked China to Delay Xi Summit Due to Iran War",
-      "summary": "Trump Says He Asked China to Delay Xi Summit Due to Iran War",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
         "The Independent",
-        "Al Jazeera",
-        "Japan Times"
-      ],
-      "coverage_count": 21,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-03-17/trump-says-he-asked-china-to-delay-xi-summit-video"
-    },
-    {
-      "title": "EU rejects Trump's request to help secure the Strait of Hormuz",
-      "summary": "EU rejects Trump's request to help secure the Strait of Hormuz",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "DW World",
+        "France24",
+        "The Hindu Intl",
         "SCMP",
         "The Hill"
       ],
-      "coverage_count": 16,
-      "region": "Middle East",
+      "coverage_count": 14,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/03/16/nx-s1-5749194/eu-rejects-trumps-request-to-help-secure-the-strait-of-hormuz"
+      "source_url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Israel says Michigan synagogue attacker’s brother was Hezbollah commander",
-      "summary": "Israel says Michigan synagogue attacker’s brother was Hezbollah commander",
+      "title": "Afghanistan says 400 killed in strike by Pakistan on Kabul hospital",
+      "summary": "Afghanistan says 400 killed in strike by Pakistan on Kabul hospital",
       "outlets_covering": [
+        "PBS NewsHour",
         "CBC World",
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
+    },
+    {
+      "title": "US National Counterterrorism Center director Joe Kent resigns over Iran war",
+      "summary": "US National Counterterrorism Center director Joe Kent resigns over Iran war",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
         "NYT World",
+        "Wash Post World",
+        "Al Jazeera",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://thehill.com/homenews/state-watch/5785336-israel-hezbollah-linked-synagogue-attack"
-    },
-    {
-      "title": "Rashid Khan, Afghanistan cricketers condemn deadly Kabul air strike by Pakistan",
-      "summary": "Rashid Khan, Afghanistan cricketers condemn deadly Kabul air strike by Pakistan",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "Sky News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/rashid-khan-afghanistan-cricketers-condemn-deadly-kabul-air-strike-by-pakistan/article70752541.ece"
+      "source_url": "https://www.aljazeera.com/news/2026/3/17/us-national-counterterrorism-center-director-joe-kent-resigns-over-iran-war?traffic_source=rss"
     }
   ]
 }
