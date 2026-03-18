@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-03-17T15:43:41.330658Z",
+  "last_updated": "2026-03-18T05:20:12.850944Z",
   "world_org_meetings": [
-    {
-      "title": "Ukraine-Russia war latest: Zelensky touches down in UK for talks with Nato chief and Starmer",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Ukraine-Russia war latest: Zelensky touches down in UK for talks with Nato chief and Starmer",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-trump-uk-b2939853.html"
-    },
     {
       "title": "At UN General Assembly, India slams Pakistan’s ‘air-bombing campaigns’ during Ramadan",
       "organization": "UN",
@@ -18,29 +10,23 @@
       "source_url": "https://www.thehindu.com/shorts/watch-at-un-general-assembly-india-slams-pakistans-air-bombing-campaigns-during-ramadan/article70753308.ece"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations",
-      "participants": [
-        "Trump’s",
-        "Threat",
-        "Delay",
-        "Summit"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations",
-      "source_url": "https://www.nytimes.com/2026/03/16/world/middleeast/trump-visit-xi-china-iran.html"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "West Bengal assembly elections: Mamata Banerjee vs Suvendu Adhikari once again; stage set in Bhabanipur for Round 2 of political rivalry",
+      "title": "Stratton on track to succeed Durbin: Key takeaways from Illinois primary elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "West Bengal assembly elections: Mamata Banerjee vs Suvendu Adhikari once again; stage set in Bhabanipur for Round 2 of political rivalry",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-elections-mamata-banerjee-vs-suvendu-adhikari-once-again-stage-set-in-bhabanipur-for-round-2-of-political-rivalry/articleshow/129633559.cms"
+      "description": "Stratton on track to succeed Durbin: Key takeaways from Illinois primary elections",
+      "source_url": "https://thehill.com/homenews/campaign/5789031-illinois-primary-election-takeaways-stratton"
+    },
+    {
+      "title": "Congo-Brazzaville’s Sassou Nguesso reaps landslide re-election win, provisional results suggest",
+      "country": "Congo",
+      "election_type": "National",
+      "date": "",
+      "description": "Congo-Brazzaville’s Sassou Nguesso reaps landslide re-election win, provisional results suggest",
+      "source_url": "https://www.france24.com/en/africa/20260317-congo-brazzaville-s-sassou-nguesso-reaps-landslide-re-election-win-provisional-results-suggest"
     },
     {
       "title": "Watch live: The Hill hosts primary night coverage with DDHQ election data experts",
@@ -59,117 +45,104 @@
       "source_url": "https://abcnews.com/International/wireStory/frances-makes-gains-round-municipal-elections-major-cities-131143522"
     },
     {
-      "title": "French parties scramble to make alliances ahead of local election runoffs",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "French parties scramble to make alliances ahead of local election runoffs",
-      "source_url": "https://www.france24.com/en/video/20260317-french-parties-scramble-to-make-alliances-ahead-of-local-election-runoffs"
-    },
-    {
-      "title": "'For free and fair polls': Puducherry govt bars 'defacement' of properties during assembly elections",
-      "country": "",
+      "title": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
+      "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "'For free and fair polls': Puducherry govt bars 'defacement' of properties during assembly elections",
-      "source_url": "https://timesofindia.indiatimes.com/india/for-free-and-fair-polls-puducherry-govt-bars-defacement-of-properties-during-assembly-elections/articleshow/129629614.cms"
+      "description": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
+      "source_url": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide"
     }
   ],
   "global_events": [
     {
-      "title": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
-      "summary": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 14,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/top-us-counterterrorism-official-resigns-over-iran-war-says-iran-posed-no-imminent-threat/article70755081.ece"
-    },
-    {
-      "title": "What to Know About Ali Larijani, Iran’s Top Security Official",
-      "summary": "What to Know About Ali Larijani, Iran’s Top Security Official",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html"
-    },
-    {
-      "title": "Trump seeks to delay meeting with Xi in China",
-      "summary": "Trump seeks to delay meeting with Xi in China",
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "summary": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 14,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Afghanistan says 400 killed in strike by Pakistan on Kabul hospital",
-      "summary": "Afghanistan says 400 killed in strike by Pakistan on Kabul hospital",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
-        "The Guardian World",
-        "DW World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
-    },
-    {
-      "title": "US National Counterterrorism Center director Joe Kent resigns over Iran war",
-      "summary": "US National Counterterrorism Center director Joe Kent resigns over Iran war",
-      "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
+        "Sky News World",
         "NYT World",
-        "Wash Post World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "The Hill"
+        "DW World",
+        "France24"
       ],
-      "coverage_count": 12,
+      "coverage_count": 17,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/3/17/us-national-counterterrorism-center-director-joe-kent-resigns-over-iran-war?traffic_source=rss"
+      "source_url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "400 killed in Pakistan strike on Kabul hospital; India slams 'barbaric act'",
+      "summary": "400 killed in Pakistan strike on Kabul hospital; India slams 'barbaric act'",
+      "outlets_covering": [
+        "CBC World",
+        "The Guardian World",
+        "DW World",
+        "Times of India",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://timesofindia.indiatimes.com/india/400-killed-in-pak-strike-on-kabul-hosp-india-slams-barbaric-act/articleshow/129645335.cms"
+    },
+    {
+      "title": "Why the death of Iran's top security official is significant",
+      "summary": "Why the death of Iran's top security official is significant",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "Wash Post World",
+        "France24",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/ali-larijani-iran-top-security-official-killed-war-strikes-israel"
+    },
+    {
+      "title": "Trump expects Xi summit in ‘five or six weeks’ as Iran war rages",
+      "summary": "Trump expects Xi summit in ‘five or six weeks’ as Iran war rages",
+      "outlets_covering": [
+        "CBC World",
+        "NBC News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP",
+        "Vox"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/18/world/politics/trump-xi-summit-weeks-war"
+    },
+    {
+      "title": "Top Iran security chief Ali Larijani killed after Israel air strikes in major blow to country’s leadership",
+      "summary": "Top Iran security chief Ali Larijani killed after Israel air strikes in major blow to country’s leadership",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 15,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-ali-larijani-death-israel-b2940607.html"
     }
   ]
 }
