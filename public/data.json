@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-18T05:20:12.850944Z",
+  "last_updated": "2026-03-18T15:55:53.254662Z",
   "world_org_meetings": [
+    {
+      "title": "REPLAY: NATO chief Mark Rutte holds press conference",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "REPLAY: NATO chief Mark Rutte holds press conference",
+      "source_url": "https://www.france24.com/en/video/20260318-replay-nato-chief-mark-rutte-holds-press-conference"
+    },
+    {
+      "title": "Chinese military set for EU and Nato talks as Iran war reshapes global security picture",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Chinese military set for EU and Nato talks as Iran war reshapes global security picture",
+      "source_url": "https://www.scmp.com/news/china/military/article/3347063/chinese-military-set-eu-and-nato-talks-iran-war-reshapes-global-security-picture"
+    },
     {
       "title": "At UN General Assembly, India slams Pakistan’s ‘air-bombing campaigns’ during Ramadan",
       "organization": "UN",
@@ -13,28 +29,28 @@
   "diplomatic_visits": [],
   "elections": [
     {
+      "title": "Mike Johnson refuses to name any election fraud SAVE America Act would stop",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Mike Johnson refuses to name any election fraud SAVE America Act would stop",
+      "source_url": "https://www.independent.co.uk/tv/news/mike-johnson-fraud-save-america-act-video-b2940962.html"
+    },
+    {
+      "title": "President Sassou-Nguesso wins Congo-Brazzaville's election",
+      "country": "Congo",
+      "election_type": "National",
+      "date": "",
+      "description": "President Sassou-Nguesso wins Congo-Brazzaville's election",
+      "source_url": "https://www.dw.com/en/president-sassou-nguesso-wins-congo-brazzaville-s-election/a-76347978?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "Stratton on track to succeed Durbin: Key takeaways from Illinois primary elections",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Stratton on track to succeed Durbin: Key takeaways from Illinois primary elections",
       "source_url": "https://thehill.com/homenews/campaign/5789031-illinois-primary-election-takeaways-stratton"
-    },
-    {
-      "title": "Congo-Brazzaville’s Sassou Nguesso reaps landslide re-election win, provisional results suggest",
-      "country": "Congo",
-      "election_type": "National",
-      "date": "",
-      "description": "Congo-Brazzaville’s Sassou Nguesso reaps landslide re-election win, provisional results suggest",
-      "source_url": "https://www.france24.com/en/africa/20260317-congo-brazzaville-s-sassou-nguesso-reaps-landslide-re-election-win-provisional-results-suggest"
-    },
-    {
-      "title": "Watch live: The Hill hosts primary night coverage with DDHQ election data experts",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Watch live: The Hill hosts primary night coverage with DDHQ election data experts",
-      "source_url": "https://thehill.com/homenews/5787305-watch-live-the-hill-illinois-primary-coverage"
     },
     {
       "title": "France’s far right makes gains in first-round municipal elections",
@@ -45,104 +61,100 @@
       "source_url": "https://abcnews.com/International/wireStory/frances-makes-gains-round-municipal-elections-major-cities-131143522"
     },
     {
-      "title": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
-      "country": "Hungary",
+      "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
-      "source_url": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide"
+      "description": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167143"
     }
   ],
   "global_events": [
     {
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "summary": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "title": "Top Trump counterterrorism official resigns over Iran war",
+      "summary": "Top Trump counterterrorism official resigns over Iran war",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
-        "DW World",
-        "France24"
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 17,
+      "coverage_count": 29,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/news/top-trump-counterterrorism-official-resigns-over-iran"
     },
     {
-      "title": "400 killed in Pakistan strike on Kabul hospital; India slams 'barbaric act'",
-      "summary": "400 killed in Pakistan strike on Kabul hospital; India slams 'barbaric act'",
+      "title": "Iran confirms death of intelligence minister after Israel says he was ‘eliminated’",
+      "summary": "Iran confirms death of intelligence minister after Israel says he was ‘eliminated’",
       "outlets_covering": [
-        "CBC World",
-        "The Guardian World",
-        "DW World",
-        "Times of India",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://timesofindia.indiatimes.com/india/400-killed-in-pak-strike-on-kabul-hosp-india-slams-barbaric-act/articleshow/129645335.cms"
-    },
-    {
-      "title": "Why the death of Iran's top security official is significant",
-      "summary": "Why the death of Iran's top security official is significant",
-      "outlets_covering": [
-        "CBS News World",
+        "NPR World",
         "NYT World",
+        "The Guardian World",
         "Wash Post World",
-        "France24",
-        "Japan Times",
+        "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/ali-larijani-iran-top-security-official-killed-war-strikes-israel"
+      "source_url": "https://www.theguardian.com/world/2026/mar/18/iran-intelligence-minister-esmail-khatib-killed-israel-claims"
     },
     {
-      "title": "Trump expects Xi summit in ‘five or six weeks’ as Iran war rages",
-      "summary": "Trump expects Xi summit in ‘five or six weeks’ as Iran war rages",
+      "title": "China dismisses U.S. Hormuz request as Trump's Beijing trip is delayed and Iran war deepens",
+      "summary": "China dismisses U.S. Hormuz request as Trump's Beijing trip is delayed and Iran war deepens",
       "outlets_covering": [
-        "CBC World",
+        "PBS NewsHour",
+        "CBS News World",
         "NBC News World",
         "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
-        "Japan Times",
+        "Wash Post World",
         "The Hindu Intl",
-        "SCMP",
-        "Vox"
+        "SCMP"
       ],
       "coverage_count": 9,
-      "region": "Middle East",
+      "region": "China",
       "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/18/world/politics/trump-xi-summit-weeks-war"
+      "source_url": "https://www.pbs.org/newshour/world/china-dismisses-u-s-hormuz-request-as-trumps-beijing-trip-is-delayed-and-iran-war-deepens"
     },
     {
-      "title": "Top Iran security chief Ali Larijani killed after Israel air strikes in major blow to country’s leadership",
-      "summary": "Top Iran security chief Ali Larijani killed after Israel air strikes in major blow to country’s leadership",
+      "title": "New Israeli strikes on central Beirut kill 12",
+      "summary": "New Israeli strikes on central Beirut kill 12",
+      "outlets_covering": [
+        "CBC World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260318-new-israeli-strikes-on-central-beirut-kill-12"
+    },
+    {
+      "title": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
+      "summary": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
-        "NBC News World",
+        "CBC World",
+        "CBS News World",
+        "Sky News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
         "The Independent",
-        "France24",
+        "DW World",
         "The Hindu Intl",
-        "Axios"
+        "The Hill"
       ],
-      "coverage_count": 15,
+      "coverage_count": 12,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-ali-larijani-death-israel-b2940607.html"
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/top-us-counterterrorism-official-resigns-over-iran-war-says-iran-posed-no-imminent-threat/article70755081.ece"
     }
   ]
 }
