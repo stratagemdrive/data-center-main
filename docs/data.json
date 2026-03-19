@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-19T05:15:15.343033Z",
+  "last_updated": "2026-03-19T14:38:37.065240Z",
   "world_org_meetings": [
     {
-      "title": "Hungary’s Orbán to face pressure over Ukraine loan veto at EU summit",
+      "title": "EU summit to focus on wars in the Middle East and Ukraine",
       "organization": "EU",
       "date": "",
       "location": "",
-      "description": "Hungary’s Orbán to face pressure over Ukraine loan veto at EU summit",
-      "source_url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe"
+      "description": "EU summit to focus on wars in the Middle East and Ukraine",
+      "source_url": "https://www.france24.com/en/video/20260319-eu-summit-to-focus-on-wars-in-the-middle-east-and-ukraine"
     },
     {
       "title": "Farm labourer who once earned Rs 5 a day to now speak at Oxford university conference on AI",
@@ -24,17 +24,33 @@
       "location": "",
       "description": "Chinese military set for EU and Nato talks as Iran war reshapes global security picture",
       "source_url": "https://www.scmp.com/news/china/military/article/3347063/chinese-military-set-eu-and-nato-talks-iran-war-reshapes-global-security-picture"
-    },
-    {
-      "title": "At UN General Assembly, India slams Pakistan’s ‘air-bombing campaigns’ during Ramadan",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "At UN General Assembly, India slams Pakistan’s ‘air-bombing campaigns’ during Ramadan",
-      "source_url": "https://www.thehindu.com/shorts/watch-at-un-general-assembly-india-slams-pakistans-air-bombing-campaigns-during-ramadan/article70753308.ece"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Starmer urged to tackle human rights abuses with Nigerian president on state visit",
+      "participants": [
+        "Starmer",
+        "Nigerian"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Starmer urged to tackle human rights abuses with Nigerian president on state visit",
+      "source_url": "https://www.independent.co.uk/news/uk/politics/starmer-nigeria-state-visit-president-tinubu-king-charles-b2941688.html"
+    },
+    {
+      "title": "Japan's prime minister visits the White House under shadow of Iran war",
+      "participants": [
+        "Japan's",
+        "White",
+        "House",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Japan's prime minister visits the White House under shadow of Iran war",
+      "source_url": "https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house"
+    },
     {
       "title": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit",
       "participants": [
@@ -60,60 +76,48 @@
       "location": "",
       "description": "Nigeria’s President Begins a Historic U.K. Visit",
       "source_url": "https://foreignpolicy.com/2026/03/18/tinubu-historic-visit-uk-nigeria-bilateral-relations"
-    },
-    {
-      "title": "Nigeria’s President Tinubu meets royals in UK state visit",
-      "participants": [
-        "Nigeria’s",
-        "President",
-        "Tinubu"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Nigeria’s President Tinubu meets royals in UK state visit",
-      "source_url": "https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss"
     }
   ],
   "elections": [
     {
-      "title": "Ban corporate donations to UK political parties to protect elections, says thinktank",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Ban corporate donations to UK political parties to protect elections, says thinktank",
-      "source_url": "https://www.theguardian.com/politics/2026/mar/19/corporate-donations-uk-political-parties-foreign-interference-bill-loopholes-centax"
-    },
-    {
-      "title": "Sadiq Khan urges Labour to campaign on rejoining EU at next election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Sadiq Khan urges Labour to campaign on rejoining EU at next election",
-      "source_url": "https://www.theguardian.com/politics/2026/mar/18/sadiq-khan-urges-labour-to-campaign-on-rejoining-eu-at-next-election"
-    },
-    {
-      "title": "Why Hungary's Viktor Orban is vilifying Ukraine before crucial elections",
+      "title": "EU leaders slam Orbán over Ukraine loan veto, accuse election games",
       "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Why Hungary's Viktor Orban is vilifying Ukraine before crucial elections",
-      "source_url": "https://www.france24.com/en/europe/20260318-why-viktor-orban-is-vilifying-ukraine-before-crucial-parliamentary-elections"
+      "description": "EU leaders slam Orbán over Ukraine loan veto, accuse election games",
+      "source_url": "https://abcnews.com/International/wireStory/eu-leaders-blast-viktor-orbn-ukraine-loan-veto-131210459"
     },
     {
-      "title": "Gabbard fends off questions about Fulton County election raid",
+      "title": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
+      "country": "Ukraine",
+      "election_type": "National",
+      "date": "",
+      "description": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
+      "source_url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html"
+    },
+    {
+      "title": "Nepal’s election marks a rare democratic defeat of communism",
+      "country": "Nepal",
+      "election_type": "National",
+      "date": "",
+      "description": "Nepal’s election marks a rare democratic defeat of communism",
+      "source_url": "https://thehill.com/opinion/international/5781267-nepal-just-revolted-against-communism-at-the-ballot-box"
+    },
+    {
+      "title": "West Bengal elections 2026: How the state voted in 2021 — the year BJP surged",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Gabbard fends off questions about Fulton County election raid",
-      "source_url": "https://thehill.com/homenews/senate/5790176-tulsi-gabbard-fbi-raid-georgia"
+      "description": "West Bengal elections 2026: How the state voted in 2021 — the year BJP surged",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-2026-how-the-state-voted-in-2021-the-year-bjp-surged/articleshow/129676480.cms"
     },
     {
-      "title": "Mike Johnson refuses to name any election fraud SAVE America Act would stop",
-      "country": "",
+      "title": "Hating Ukraine Is Viktor Orban’s Reelection Strategy",
+      "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Mike Johnson refuses to name any election fraud SAVE America Act would stop",
-      "source_url": "https://www.independent.co.uk/tv/news/mike-johnson-fraud-save-america-act-video-b2940962.html"
+      "description": "Hating Ukraine Is Viktor Orban’s Reelection Strategy",
+      "source_url": "https://foreignpolicy.com/2026/03/19/viktor-orban-peter-magyar-hungary-election-ukraine-zelensky"
     }
   ],
   "global_events": [
@@ -121,6 +125,7 @@
       "title": "Top Trump counterterrorism official resigns over Iran war",
       "summary": "Top Trump counterterrorism official resigns over Iran war",
       "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
@@ -128,76 +133,76 @@
         "Sky News World",
         "Wash Post World",
         "The Independent",
-        "DW World",
-        "Japan Times",
-        "The Hindu Intl"
+        "Al Jazeera",
+        "DW World"
       ],
-      "coverage_count": 28,
+      "coverage_count": 23,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/news/top-trump-counterterrorism-official-resigns-over-iran"
     },
     {
-      "title": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
-      "summary": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
+      "title": "Trump threatens to ‘massively blow up’ huge gas field if Iran attacks Qatar again",
+      "summary": "Trump threatens to ‘massively blow up’ huge gas field if Iran attacks Qatar again",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "CBS News World",
         "NYT World",
         "The Guardian World",
-        "The Hindu Intl",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/international/5791107-trump-iran-qatar-attacks-conflict-middle-east"
+    },
+    {
+      "title": "First Thing: Trump threatens to ‘blow up’ all of Iran’s South Pars gasfield if Tehran strikes Qatar",
+      "summary": "First Thing: Trump threatens to ‘blow up’ all of Iran’s South Pars gasfield if Tehran strikes Qatar",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
         "The Hill"
       ],
       "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
+      "source_url": "https://www.theguardian.com/us-news/2026/mar/19/first-thing-trump-threatens-to-blow-up-all-of-irans-south-pars-gasfield-if-tehran-strikes-qatar"
     },
     {
-      "title": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
-      "summary": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
+      "title": "Tehran intensifies attacks on Gulf energy facilities after Israel hits Iranian gas field",
+      "summary": "Tehran intensifies attacks on Gulf energy facilities after Israel hits Iranian gas field",
       "outlets_covering": [
         "CBC World",
-        "NYT World",
-        "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy"
+        "The Independent",
+        "The Hindu Intl"
       ],
       "coverage_count": 5,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/19/asia-pacific/pakistan-afghanistan-eid-pause"
-    },
-    {
-      "title": "Cuban president warns of ‘impregnable resistance’ after Trump threats",
-      "summary": "Cuban president warns of ‘impregnable resistance’ after Trump threats",
-      "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Latin America",
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/cuba-president-miguel-diaz-canel-trump-b2941361.html"
+      "source_url": "https://www.thehindu.com/news/international/iran-attacks-uae-qatar-energy-facilities-and-ships-after-israeli-strikes-updates/article70760831.ece"
     },
     {
-      "title": "Trump-Xi summit delay may suit China amid Iran war",
-      "summary": "Trump-Xi summit delay may suit China amid Iran war",
+      "title": "War escalates, energy prices spike after Israeli strike on Iran gas field",
+      "summary": "War escalates, energy prices spike after Israeli strike on Iran gas field",
       "outlets_covering": [
-        "PBS NewsHour",
+        "BBC World",
         "CBS News World",
         "NBC News World",
+        "NYT World",
         "The Independent",
-        "DW World",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy",
-        "Axios"
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 16,
-      "region": "China",
+      "coverage_count": 8,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3346883/trump-xi-summit-delay-may-suit-china-amid-iran-war"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-israel-strike-south-pars-gas-field-trump-threat-oil-gas-prices"
     }
   ]
 }
