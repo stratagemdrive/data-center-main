@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-03-18T15:55:53.254662Z",
+  "last_updated": "2026-03-19T05:15:15.343033Z",
   "world_org_meetings": [
     {
-      "title": "REPLAY: NATO chief Mark Rutte holds press conference",
-      "organization": "NATO",
+      "title": "Hungary’s Orbán to face pressure over Ukraine loan veto at EU summit",
+      "organization": "EU",
       "date": "",
       "location": "",
-      "description": "REPLAY: NATO chief Mark Rutte holds press conference",
-      "source_url": "https://www.france24.com/en/video/20260318-replay-nato-chief-mark-rutte-holds-press-conference"
+      "description": "Hungary’s Orbán to face pressure over Ukraine loan veto at EU summit",
+      "source_url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe"
+    },
+    {
+      "title": "Farm labourer who once earned Rs 5 a day to now speak at Oxford university conference on AI",
+      "organization": "WHO",
+      "date": "",
+      "location": "",
+      "description": "Farm labourer who once earned Rs 5 a day to now speak at Oxford university conference on AI",
+      "source_url": "https://timesofindia.indiatimes.com/india/farm-labourer-who-once-earned-rs-5-a-day-to-now-speak-at-oxford-university-conference-on-ai/articleshow/129668756.cms"
     },
     {
       "title": "Chinese military set for EU and Nato talks as Iran war reshapes global security picture",
@@ -26,8 +34,79 @@
       "source_url": "https://www.thehindu.com/shorts/watch-at-un-general-assembly-india-slams-pakistans-air-bombing-campaigns-during-ramadan/article70753308.ece"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit",
+      "participants": [
+        "UK's",
+        "King",
+        "Charles",
+        "UK‑Nigeria"
+      ],
+      "date": "",
+      "location": "",
+      "description": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit",
+      "source_url": "https://www.dw.com/en/uk-s-king-charles-praises-uk‑nigeria-partnership-of-equals-on-tinubu-state-visit/a-76422435?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Nigeria’s President Begins a Historic U.K. Visit",
+      "participants": [
+        "Nigeria’s",
+        "President",
+        "Begins",
+        "Historic"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Nigeria’s President Begins a Historic U.K. Visit",
+      "source_url": "https://foreignpolicy.com/2026/03/18/tinubu-historic-visit-uk-nigeria-bilateral-relations"
+    },
+    {
+      "title": "Nigeria’s President Tinubu meets royals in UK state visit",
+      "participants": [
+        "Nigeria’s",
+        "President",
+        "Tinubu"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Nigeria’s President Tinubu meets royals in UK state visit",
+      "source_url": "https://www.aljazeera.com/news/2026/3/18/nigerias-president-tinubu-meets-royals-in-historic-uk-state-visit?traffic_source=rss"
+    }
+  ],
   "elections": [
+    {
+      "title": "Ban corporate donations to UK political parties to protect elections, says thinktank",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Ban corporate donations to UK political parties to protect elections, says thinktank",
+      "source_url": "https://www.theguardian.com/politics/2026/mar/19/corporate-donations-uk-political-parties-foreign-interference-bill-loopholes-centax"
+    },
+    {
+      "title": "Sadiq Khan urges Labour to campaign on rejoining EU at next election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Sadiq Khan urges Labour to campaign on rejoining EU at next election",
+      "source_url": "https://www.theguardian.com/politics/2026/mar/18/sadiq-khan-urges-labour-to-campaign-on-rejoining-eu-at-next-election"
+    },
+    {
+      "title": "Why Hungary's Viktor Orban is vilifying Ukraine before crucial elections",
+      "country": "Ukraine",
+      "election_type": "National",
+      "date": "",
+      "description": "Why Hungary's Viktor Orban is vilifying Ukraine before crucial elections",
+      "source_url": "https://www.france24.com/en/europe/20260318-why-viktor-orban-is-vilifying-ukraine-before-crucial-parliamentary-elections"
+    },
+    {
+      "title": "Gabbard fends off questions about Fulton County election raid",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Gabbard fends off questions about Fulton County election raid",
+      "source_url": "https://thehill.com/homenews/senate/5790176-tulsi-gabbard-fbi-raid-georgia"
+    },
     {
       "title": "Mike Johnson refuses to name any election fraud SAVE America Act would stop",
       "country": "",
@@ -35,38 +114,6 @@
       "date": "",
       "description": "Mike Johnson refuses to name any election fraud SAVE America Act would stop",
       "source_url": "https://www.independent.co.uk/tv/news/mike-johnson-fraud-save-america-act-video-b2940962.html"
-    },
-    {
-      "title": "President Sassou-Nguesso wins Congo-Brazzaville's election",
-      "country": "Congo",
-      "election_type": "National",
-      "date": "",
-      "description": "President Sassou-Nguesso wins Congo-Brazzaville's election",
-      "source_url": "https://www.dw.com/en/president-sassou-nguesso-wins-congo-brazzaville-s-election/a-76347978?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Stratton on track to succeed Durbin: Key takeaways from Illinois primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Stratton on track to succeed Durbin: Key takeaways from Illinois primary elections",
-      "source_url": "https://thehill.com/homenews/campaign/5789031-illinois-primary-election-takeaways-stratton"
-    },
-    {
-      "title": "France’s far right makes gains in first-round municipal elections",
-      "country": "France",
-      "election_type": "National",
-      "date": "",
-      "description": "France’s far right makes gains in first-round municipal elections",
-      "source_url": "https://abcnews.com/International/wireStory/frances-makes-gains-round-municipal-elections-major-cities-131143522"
-    },
-    {
-      "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167143"
     }
   ],
   "global_events": [
@@ -74,87 +121,83 @@
       "title": "Top Trump counterterrorism official resigns over Iran war",
       "summary": "Top Trump counterterrorism official resigns over Iran war",
       "outlets_covering": [
-        "BBC World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "Sky News World",
-        "NYT World",
         "Wash Post World",
         "The Independent",
-        "Al Jazeera"
+        "DW World",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 29,
+      "coverage_count": 28,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/news/top-trump-counterterrorism-official-resigns-over-iran"
     },
     {
-      "title": "Iran confirms death of intelligence minister after Israel says he was ‘eliminated’",
-      "summary": "Iran confirms death of intelligence minister after Israel says he was ‘eliminated’",
+      "title": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
+      "summary": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
       "outlets_covering": [
-        "NPR World",
+        "BBC World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/mar/18/iran-intelligence-minister-esmail-khatib-killed-israel-claims"
+      "source_url": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
     },
     {
-      "title": "China dismisses U.S. Hormuz request as Trump's Beijing trip is delayed and Iran war deepens",
-      "summary": "China dismisses U.S. Hormuz request as Trump's Beijing trip is delayed and Iran war deepens",
+      "title": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
+      "summary": "Pakistan and Afghanistan announce Eid 'pause' in hostilities",
+      "outlets_covering": [
+        "CBC World",
+        "NYT World",
+        "Japan Times",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 5,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/19/asia-pacific/pakistan-afghanistan-eid-pause"
+    },
+    {
+      "title": "Cuban president warns of ‘impregnable resistance’ after Trump threats",
+      "summary": "Cuban president warns of ‘impregnable resistance’ after Trump threats",
+      "outlets_covering": [
+        "CBS News World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/cuba-president-miguel-diaz-canel-trump-b2941361.html"
+    },
+    {
+      "title": "Trump-Xi summit delay may suit China amid Iran war",
+      "summary": "Trump-Xi summit delay may suit China amid Iran war",
       "outlets_covering": [
         "PBS NewsHour",
         "CBS News World",
         "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 9,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/china-dismisses-u-s-hormuz-request-as-trumps-beijing-trip-is-delayed-and-iran-war-deepens"
-    },
-    {
-      "title": "New Israeli strikes on central Beirut kill 12",
-      "summary": "New Israeli strikes on central Beirut kill 12",
-      "outlets_covering": [
-        "CBC World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260318-new-israeli-strikes-on-central-beirut-kill-12"
-    },
-    {
-      "title": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
-      "summary": "Top U.S. counterterrorism official resigns over Iran war, says Iran posed no imminent threat",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
         "The Independent",
         "DW World",
         "The Hindu Intl",
-        "The Hill"
+        "SCMP",
+        "Foreign Policy",
+        "Axios"
       ],
-      "coverage_count": 12,
-      "region": "Middle East",
+      "coverage_count": 16,
+      "region": "China",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/top-us-counterterrorism-official-resigns-over-iran-war-says-iran-posed-no-imminent-threat/article70755081.ece"
+      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3346883/trump-xi-summit-delay-may-suit-china-amid-iran-war"
     }
   ]
 }
