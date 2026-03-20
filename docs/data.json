@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-03-19T14:38:37.065240Z",
+  "last_updated": "2026-03-20T05:07:49.336983Z",
   "world_org_meetings": [
-    {
-      "title": "EU summit to focus on wars in the Middle East and Ukraine",
-      "organization": "EU",
-      "date": "",
-      "location": "",
-      "description": "EU summit to focus on wars in the Middle East and Ukraine",
-      "source_url": "https://www.france24.com/en/video/20260319-eu-summit-to-focus-on-wars-in-the-middle-east-and-ukraine"
-    },
-    {
-      "title": "Farm labourer who once earned Rs 5 a day to now speak at Oxford university conference on AI",
-      "organization": "WHO",
-      "date": "",
-      "location": "",
-      "description": "Farm labourer who once earned Rs 5 a day to now speak at Oxford university conference on AI",
-      "source_url": "https://timesofindia.indiatimes.com/india/farm-labourer-who-once-earned-rs-5-a-day-to-now-speak-at-oxford-university-conference-on-ai/articleshow/129668756.cms"
-    },
     {
       "title": "Chinese military set for EU and Nato talks as Iran war reshapes global security picture",
       "organization": "NATO",
@@ -27,6 +11,32 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
+      "participants": [
+        "Trump",
+        "Jokes",
+        "Pearl",
+        "Harbor"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
+      "source_url": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
+    },
+    {
+      "title": "Joint statement on Strait of Hormuz by European nations, Japan, Canada",
+      "participants": [
+        "Joint",
+        "Strait",
+        "Hormuz",
+        "European"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Joint statement on Strait of Hormuz by European nations, Japan, Canada",
+      "source_url": "https://www.thehindu.com/news/international/strait-of-hormuz-west-asia-conflict-joint-statement/article70764136.ece"
+    },
     {
       "title": "Starmer urged to tackle human rights abuses with Nigerian president on state visit",
       "participants": [
@@ -63,19 +73,6 @@
       "location": "",
       "description": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit",
       "source_url": "https://www.dw.com/en/uk-s-king-charles-praises-uk‑nigeria-partnership-of-equals-on-tinubu-state-visit/a-76422435?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Nigeria’s President Begins a Historic U.K. Visit",
-      "participants": [
-        "Nigeria’s",
-        "President",
-        "Begins",
-        "Historic"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Nigeria’s President Begins a Historic U.K. Visit",
-      "source_url": "https://foreignpolicy.com/2026/03/18/tinubu-historic-visit-uk-nigeria-bilateral-relations"
     }
   ],
   "elections": [
@@ -86,6 +83,22 @@
       "date": "",
       "description": "EU leaders slam Orbán over Ukraine loan veto, accuse election games",
       "source_url": "https://abcnews.com/International/wireStory/eu-leaders-blast-viktor-orbn-ukraine-loan-veto-131210459"
+    },
+    {
+      "title": "French tycoon Bolloré to face corruption trial over elections in Togo and Guinea",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "French tycoon Bolloré to face corruption trial over elections in Togo and Guinea",
+      "source_url": "https://www.france24.com/en/france/20260319-french-tycoon-bollor%C3%A9-to-face-corruption-trial-over-elections-in-togo-and-guinea"
+    },
+    {
+      "title": "Mace hits Mullin over Paul spat, calls selection as DHS secretary ‘unreal’",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Mace hits Mullin over Paul spat, calls selection as DHS secretary ‘unreal’",
+      "source_url": "https://thehill.com/homenews/house/5791899-mace-calls-out-mullin-violence"
     },
     {
       "title": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
@@ -102,107 +115,87 @@
       "date": "",
       "description": "Nepal’s election marks a rare democratic defeat of communism",
       "source_url": "https://thehill.com/opinion/international/5781267-nepal-just-revolted-against-communism-at-the-ballot-box"
-    },
-    {
-      "title": "West Bengal elections 2026: How the state voted in 2021 — the year BJP surged",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "West Bengal elections 2026: How the state voted in 2021 — the year BJP surged",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-2026-how-the-state-voted-in-2021-the-year-bjp-surged/articleshow/129676480.cms"
-    },
-    {
-      "title": "Hating Ukraine Is Viktor Orban’s Reelection Strategy",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "Hating Ukraine Is Viktor Orban’s Reelection Strategy",
-      "source_url": "https://foreignpolicy.com/2026/03/19/viktor-orban-peter-magyar-hungary-election-ukraine-zelensky"
     }
   ],
   "global_events": [
     {
-      "title": "Top Trump counterterrorism official resigns over Iran war",
-      "summary": "Top Trump counterterrorism official resigns over Iran war",
+      "title": "Japanese Prime Minister says she and Trump are ‘best buddies’ in remarks following his Pearl Harbor joke",
+      "summary": "Japanese Prime Minister says she and Trump are ‘best buddies’ in remarks following his Pearl Harbor joke",
       "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
         "CBS News World",
         "NBC News World",
-        "Sky News World",
-        "Wash Post World",
+        "NYT World",
+        "The Guardian World",
         "The Independent",
-        "Al Jazeera",
-        "DW World"
-      ],
-      "coverage_count": 23,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/top-trump-counterterrorism-official-resigns-over-iran"
-    },
-    {
-      "title": "Trump threatens to ‘massively blow up’ huge gas field if Iran attacks Qatar again",
-      "summary": "Trump threatens to ‘massively blow up’ huge gas field if Iran attacks Qatar again",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "France24",
+        "Japan Times",
         "The Hill"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/5791107-trump-iran-qatar-attacks-conflict-middle-east"
-    },
-    {
-      "title": "First Thing: Trump threatens to ‘blow up’ all of Iran’s South Pars gasfield if Tehran strikes Qatar",
-      "summary": "First Thing: Trump threatens to ‘blow up’ all of Iran’s South Pars gasfield if Tehran strikes Qatar",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
+      "coverage_count": 10,
+      "region": "East / Southeast Asia",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/mar/19/first-thing-trump-threatens-to-blow-up-all-of-irans-south-pars-gasfield-if-tehran-strikes-qatar"
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/japan-pm-trump-buddies-pearl-harbor-joke-b2942288.html"
     },
     {
-      "title": "Tehran intensifies attacks on Gulf energy facilities after Israel hits Iranian gas field",
-      "summary": "Tehran intensifies attacks on Gulf energy facilities after Israel hits Iranian gas field",
+      "title": "Ukraine-Russia war latest: Kremlin delivers update on peace talks as war rages in Middle East",
+      "summary": "Ukraine-Russia war latest: Kremlin delivers update on peace talks as war rages in Middle East",
       "outlets_covering": [
-        "CBC World",
+        "Fox News World",
         "The Independent",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 4,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-attacks-uae-qatar-energy-facilities-and-ships-after-israeli-strikes-updates/article70760831.ece"
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-peace-deal-b2941523.html"
     },
     {
-      "title": "War escalates, energy prices spike after Israeli strike on Iran gas field",
-      "summary": "War escalates, energy prices spike after Israeli strike on Iran gas field",
+      "title": "Trump compares Iran strikes with Japanese attack on Pearl Harbor",
+      "summary": "Trump compares Iran strikes with Japanese attack on Pearl Harbor",
       "outlets_covering": [
-        "BBC World",
+        "PBS NewsHour",
         "CBS News World",
         "NBC News World",
-        "NYT World",
+        "The Guardian World",
         "The Independent",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 13,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-israel-strike-south-pars-gas-field-trump-threat-oil-gas-prices"
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/20/japan/politics/donald-trump-pearl-harbor-remarks"
+    },
+    {
+      "title": "US may remove sanctions on Iranian oil stranded in tankers, treasury secretary says",
+      "summary": "US may remove sanctions on Iranian oil stranded in tankers, treasury secretary says",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.theguardian.com/us-news/2026/mar/19/us-sanctions-iranian-oil-hormuz"
+    },
+    {
+      "title": "Pentagon poised to ask Congress for up to $200 billion to fund Iran war",
+      "summary": "Pentagon poised to ask Congress for up to $200 billion to fund Iran war",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "NYT World",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/show/pentagon-poised-to-ask-congress-for-additional-200-billion-to-fund-iran-war"
     }
   ]
 }
