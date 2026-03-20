@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-20T05:07:49.336983Z",
+  "last_updated": "2026-03-20T14:30:21.870073Z",
   "world_org_meetings": [
     {
-      "title": "Chinese military set for EU and Nato talks as Iran war reshapes global security picture",
+      "title": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Chinese military set for EU and Nato talks as Iran war reshapes global security picture",
-      "source_url": "https://www.scmp.com/news/china/military/article/3347063/chinese-military-set-eu-and-nato-talks-iran-war-reshapes-global-security-picture"
+      "description": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
+      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3347287/trump-praise-japan-china-xi-summit-delayed-pla-nato-talks"
     }
   ],
   "diplomatic_visits": [
@@ -38,59 +38,51 @@
       "source_url": "https://www.thehindu.com/news/international/strait-of-hormuz-west-asia-conflict-joint-statement/article70764136.ece"
     },
     {
-      "title": "Starmer urged to tackle human rights abuses with Nigerian president on state visit",
+      "title": "Nigeria’s President Begins a Historic U.K. Visit",
       "participants": [
-        "Starmer",
-        "Nigerian"
+        "Nigeria’s",
+        "President",
+        "Begins",
+        "Historic"
       ],
       "date": "",
       "location": "",
-      "description": "Starmer urged to tackle human rights abuses with Nigerian president on state visit",
-      "source_url": "https://www.independent.co.uk/news/uk/politics/starmer-nigeria-state-visit-president-tinubu-king-charles-b2941688.html"
-    },
-    {
-      "title": "Japan's prime minister visits the White House under shadow of Iran war",
-      "participants": [
-        "Japan's",
-        "White",
-        "House",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Japan's prime minister visits the White House under shadow of Iran war",
-      "source_url": "https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house"
-    },
-    {
-      "title": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit",
-      "participants": [
-        "UK's",
-        "King",
-        "Charles",
-        "UK‑Nigeria"
-      ],
-      "date": "",
-      "location": "",
-      "description": "UK's King Charles praises UK‑Nigeria 'partnership of equals' on Tinubu state visit",
-      "source_url": "https://www.dw.com/en/uk-s-king-charles-praises-uk‑nigeria-partnership-of-equals-on-tinubu-state-visit/a-76422435?maca=en-rss-en-world-4025-rdf"
+      "description": "Nigeria’s President Begins a Historic U.K. Visit",
+      "source_url": "https://foreignpolicy.com/2026/03/18/tinubu-historic-visit-uk-nigeria-bilateral-relations"
     }
   ],
   "elections": [
     {
-      "title": "EU leaders slam Orbán over Ukraine loan veto, accuse election games",
-      "country": "Ukraine",
-      "election_type": "National",
+      "title": "Italy’s Referendum Could Be Meloni’s Biggest Test Yet",
+      "country": "Italy",
+      "election_type": "Referendum",
       "date": "",
-      "description": "EU leaders slam Orbán over Ukraine loan veto, accuse election games",
-      "source_url": "https://abcnews.com/International/wireStory/eu-leaders-blast-viktor-orbn-ukraine-loan-veto-131210459"
+      "description": "Italy’s Referendum Could Be Meloni’s Biggest Test Yet",
+      "source_url": "https://foreignpolicy.com/2026/03/20/italy-referendum-meloni-constitution-judicial-reform-trump-iran"
     },
     {
-      "title": "French tycoon Bolloré to face corruption trial over elections in Togo and Guinea",
+      "title": "French billionaire Bolloré to face corruption trial linked to African elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "French tycoon Bolloré to face corruption trial over elections in Togo and Guinea",
-      "source_url": "https://www.france24.com/en/france/20260319-french-tycoon-bollor%C3%A9-to-face-corruption-trial-over-elections-in-togo-and-guinea"
+      "description": "French billionaire Bolloré to face corruption trial linked to African elections",
+      "source_url": "https://www.france24.com/en/video/20260320-french-billionaire-bollor%C3%A9-to-face-corruption-trial-linked-to-african-elections"
+    },
+    {
+      "title": "Slovenia election: a battle for the soul of the country?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Slovenia election: a battle for the soul of the country?",
+      "source_url": "https://www.dw.com/en/slovenia-election-a-battle-for-the-soul-of-the-country/a-76445254?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "What to know about Denmark's election that follows standoff with US over Greenland",
+      "country": "Denmark",
+      "election_type": "National",
+      "date": "",
+      "description": "What to know about Denmark's election that follows standoff with US over Greenland",
+      "source_url": "https://abcnews.com/International/wireStory/denmarks-election-standoff-us-greenland-131243717"
     },
     {
       "title": "Mace hits Mullin over Paul spat, calls selection as DHS secretary ‘unreal’",
@@ -99,103 +91,82 @@
       "date": "",
       "description": "Mace hits Mullin over Paul spat, calls selection as DHS secretary ‘unreal’",
       "source_url": "https://thehill.com/homenews/house/5791899-mace-calls-out-mullin-violence"
-    },
-    {
-      "title": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
-      "source_url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html"
-    },
-    {
-      "title": "Nepal’s election marks a rare democratic defeat of communism",
-      "country": "Nepal",
-      "election_type": "National",
-      "date": "",
-      "description": "Nepal’s election marks a rare democratic defeat of communism",
-      "source_url": "https://thehill.com/opinion/international/5781267-nepal-just-revolted-against-communism-at-the-ballot-box"
     }
   ],
   "global_events": [
     {
-      "title": "Japanese Prime Minister says she and Trump are ‘best buddies’ in remarks following his Pearl Harbor joke",
-      "summary": "Japanese Prime Minister says she and Trump are ‘best buddies’ in remarks following his Pearl Harbor joke",
+      "title": "Trump compares US strikes on Iran to WWII Pearl Harbor attack",
+      "summary": "Trump compares US strikes on Iran to WWII Pearl Harbor attack",
       "outlets_covering": [
+        "BBC World",
         "CBS News World",
-        "NBC News World",
-        "NYT World",
         "The Guardian World",
         "The Independent",
-        "Japan Times",
-        "The Hill"
-      ],
-      "coverage_count": 10,
-      "region": "East / Southeast Asia",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/japan-pm-trump-buddies-pearl-harbor-joke-b2942288.html"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Kremlin delivers update on peace talks as war rages in Middle East",
-      "summary": "Ukraine-Russia war latest: Kremlin delivers update on peace talks as war rages in Middle East",
-      "outlets_covering": [
-        "Fox News World",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-peace-deal-b2941523.html"
-    },
-    {
-      "title": "Trump compares Iran strikes with Japanese attack on Pearl Harbor",
-      "summary": "Trump compares Iran strikes with Japanese attack on Pearl Harbor",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
+        "France24",
         "Japan Times",
         "The Hindu Intl",
         "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/20/japan/politics/donald-trump-pearl-harbor-remarks"
-    },
-    {
-      "title": "US may remove sanctions on Iranian oil stranded in tankers, treasury secretary says",
-      "summary": "US may remove sanctions on Iranian oil stranded in tankers, treasury secretary says",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.theguardian.com/us-news/2026/mar/19/us-sanctions-iranian-oil-hormuz"
-    },
-    {
-      "title": "Pentagon poised to ask Congress for up to $200 billion to fund Iran war",
-      "summary": "Pentagon poised to ask Congress for up to $200 billion to fund Iran war",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "NYT World",
-        "The Hindu Intl",
+        "The Hill",
         "Axios"
       ],
-      "coverage_count": 4,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/show/pentagon-poised-to-ask-congress-for-additional-200-billion-to-fund-iran-war"
+      "source_url": "https://www.france24.com/en/video/20260320-trump-compares-us-strikes-on-iran-to-pearl-harbor-attack-during-world-war-ii"
+    },
+    {
+      "title": "Father of killed US military member disputes Hegseth’s claim he said to ‘finish’ the job in Iran",
+      "summary": "Father of killed US military member disputes Hegseth’s claim he said to ‘finish’ the job in Iran",
+      "outlets_covering": [
+        "NBC News World",
+        "The Guardian World",
+        "The Independent"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
+    },
+    {
+      "title": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
+      "summary": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/5792896-netanyahu-israel-energy-infrastructure-strike-iran"
+    },
+    {
+      "title": "Iran hits Kuwaiti oil refinery as attacks on oil infrastructure continue",
+      "summary": "Iran hits Kuwaiti oil refinery as attacks on oil infrastructure continue",
+      "outlets_covering": [
+        "The Independent",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260320-iran-hits-kuwaiti-oil-refinery-as-attacks-on-oil-infrastructure-continue"
+    },
+    {
+      "title": "North Korean leader Kim and his daughter ride a tank together during army training",
+      "summary": "North Korean leader Kim and his daughter ride a tank together during army training",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NBC News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "East / Southeast Asia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-daughter-ride-tank-army-131237099"
     }
   ]
 }
