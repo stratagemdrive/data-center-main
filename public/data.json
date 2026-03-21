@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T14:30:21.870073Z",
+  "last_updated": "2026-03-21T04:53:43.786147Z",
   "world_org_meetings": [
     {
       "title": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
@@ -53,107 +53,115 @@
   ],
   "elections": [
     {
+      "title": "Socialists battle to hold Paris in key mayoral elections across France",
+      "country": "France",
+      "election_type": "Mayoral",
+      "date": "",
+      "description": "Socialists battle to hold Paris in key mayoral elections across France",
+      "source_url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "One Nation dumps South Australian election candidate after reports claiming warrant for his arrest in UK",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "One Nation dumps South Australian election candidate after reports claiming warrant for his arrest in UK",
+      "source_url": "https://www.theguardian.com/australia-news/2026/mar/21/one-nation-dumps-south-australian-election-candidate-after-reports-claiming-warrant-for-his-arrest-in-uk-ntwnfb"
+    },
+    {
+      "title": "Your primer on Denmark’s snap parliamentary elections",
+      "country": "Denmark",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Your primer on Denmark’s snap parliamentary elections",
+      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/your-primer-on-denmarks-snap-parliamentary-elections"
+    },
+    {
+      "title": "Vance to visit Hungary days before Orbán's election challenge, foreign minister says",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Vance to visit Hungary days before Orbán's election challenge, foreign minister says",
+      "source_url": "https://abcnews.com/International/wireStory/vance-visit-hungary-days-orbns-election-challenge-foreign-131260479"
+    },
+    {
       "title": "Italy’s Referendum Could Be Meloni’s Biggest Test Yet",
       "country": "Italy",
       "election_type": "Referendum",
       "date": "",
       "description": "Italy’s Referendum Could Be Meloni’s Biggest Test Yet",
       "source_url": "https://foreignpolicy.com/2026/03/20/italy-referendum-meloni-constitution-judicial-reform-trump-iran"
-    },
-    {
-      "title": "French billionaire Bolloré to face corruption trial linked to African elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "French billionaire Bolloré to face corruption trial linked to African elections",
-      "source_url": "https://www.france24.com/en/video/20260320-french-billionaire-bollor%C3%A9-to-face-corruption-trial-linked-to-african-elections"
-    },
-    {
-      "title": "Slovenia election: a battle for the soul of the country?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Slovenia election: a battle for the soul of the country?",
-      "source_url": "https://www.dw.com/en/slovenia-election-a-battle-for-the-soul-of-the-country/a-76445254?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "What to know about Denmark's election that follows standoff with US over Greenland",
-      "country": "Denmark",
-      "election_type": "National",
-      "date": "",
-      "description": "What to know about Denmark's election that follows standoff with US over Greenland",
-      "source_url": "https://abcnews.com/International/wireStory/denmarks-election-standoff-us-greenland-131243717"
-    },
-    {
-      "title": "Mace hits Mullin over Paul spat, calls selection as DHS secretary ‘unreal’",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Mace hits Mullin over Paul spat, calls selection as DHS secretary ‘unreal’",
-      "source_url": "https://thehill.com/homenews/house/5791899-mace-calls-out-mullin-violence"
     }
   ],
   "global_events": [
     {
-      "title": "Trump compares US strikes on Iran to WWII Pearl Harbor attack",
-      "summary": "Trump compares US strikes on Iran to WWII Pearl Harbor attack",
+      "title": "Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War",
+      "summary": "Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War",
+      "outlets_covering": [
+        "NPR World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "Atlantic Council",
+        "The Hill"
+      ],
+      "coverage_count": 21,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
+    },
+    {
+      "title": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
+      "summary": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
+        "NYT World",
         "The Guardian World",
+        "Wash Post World",
+        "Newsweek",
         "The Independent",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
+        "The Hill"
       ],
-      "coverage_count": 10,
+      "coverage_count": 8,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260320-trump-compares-us-strikes-on-iran-to-pearl-harbor-attack-during-world-war-ii"
+      "category": "Economy",
+      "source_url": "https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump"
     },
     {
-      "title": "Father of killed US military member disputes Hegseth’s claim he said to ‘finish’ the job in Iran",
-      "summary": "Father of killed US military member disputes Hegseth’s claim he said to ‘finish’ the job in Iran",
-      "outlets_covering": [
-        "NBC News World",
-        "The Guardian World",
-        "The Independent"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/mar/20/iran-war-military-father-pete-hegseth"
-    },
-    {
-      "title": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
-      "summary": "Netanyahu: Israel ‘acted alone’ against Iran gas compound",
+      "title": "U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market",
+      "summary": "U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market",
       "outlets_covering": [
         "BBC World",
-        "Al Jazeera",
-        "The Hindu Intl",
+        "CBS News World",
+        "NYT World",
+        "Wash Post World",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/5792896-netanyahu-israel-energy-infrastructure-strike-iran"
+      "category": "Economy",
+      "source_url": "https://www.nytimes.com/2026/03/20/world/middleeast/us-sanctions-iran-oil.html"
     },
     {
-      "title": "Iran hits Kuwaiti oil refinery as attacks on oil infrastructure continue",
-      "summary": "Iran hits Kuwaiti oil refinery as attacks on oil infrastructure continue",
+      "title": "U.S. sending thousands more Marines to Middle East",
+      "summary": "U.S. sending thousands more Marines to Middle East",
       "outlets_covering": [
-        "The Independent",
-        "Al Jazeera",
-        "France24"
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Japan Times",
+        "The Hill"
       ],
-      "coverage_count": 3,
+      "coverage_count": 7,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260320-iran-hits-kuwaiti-oil-refinery-as-attacks-on-oil-infrastructure-continue"
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/us-sending-thousands-more-marines-to-middle-east"
     },
     {
       "title": "North Korean leader Kim and his daughter ride a tank together during army training",
