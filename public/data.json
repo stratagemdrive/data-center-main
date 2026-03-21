@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:53:43.786147Z",
+  "last_updated": "2026-03-21T13:54:26.243180Z",
   "world_org_meetings": [
     {
       "title": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
@@ -12,19 +12,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
-      "participants": [
-        "Trump",
-        "Jokes",
-        "Pearl",
-        "Harbor"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
-      "source_url": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
-    },
-    {
       "title": "Joint statement on Strait of Hormuz by European nations, Japan, Canada",
       "participants": [
         "Joint",
@@ -36,6 +23,19 @@
       "location": "",
       "description": "Joint statement on Strait of Hormuz by European nations, Japan, Canada",
       "source_url": "https://www.thehindu.com/news/international/strait-of-hormuz-west-asia-conflict-joint-statement/article70764136.ece"
+    },
+    {
+      "title": "Trump brings up Pearl Harbor while meeting with Japan's prime minister",
+      "participants": [
+        "Trump",
+        "Pearl",
+        "Harbor",
+        "Japan's"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump brings up Pearl Harbor while meeting with Japan's prime minister",
+      "source_url": "https://www.cbsnews.com/news/trump-pearl-harbor-meeting-japanese-prime-minister"
     },
     {
       "title": "Nigeria’s President Begins a Historic U.K. Visit",
@@ -53,128 +53,123 @@
   ],
   "elections": [
     {
+      "title": "SA state election 2026: Peter Malinauskas makes passionate call for unity after thumping South Australia win marked by One Nation advance",
+      "country": "Australia",
+      "election_type": "National",
+      "date": "",
+      "description": "SA state election 2026: Peter Malinauskas makes passionate call for unity after thumping South Australia win marked by One Nation advance",
+      "source_url": "https://www.theguardian.com/australia-news/2026/mar/21/sa-state-election-2026-results-labor-confident-but-all-eyes-on-one-nation-vote-as-polls-close-in-south-australia"
+    },
+    {
+      "title": "Assam assembly elections 2026: From eviction drives to NRC debate, issues set to dominate state poll campaign",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Assam assembly elections 2026: From eviction drives to NRC debate, issues set to dominate state poll campaign",
+      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-from-eviction-drives-to-nrc-debate-issues-set-to-dominate-state-poll-campaign/articleshow/129718014.cms"
+    },
+    {
+      "title": "To tilt Hungarian election, Russians proposed staging assassination attempt",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "To tilt Hungarian election, Russians proposed staging assassination attempt",
+      "source_url": "https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban"
+    },
+    {
+      "title": "Will the far right's gains in France’s local elections pave the way to the presidency?",
+      "country": "France",
+      "election_type": "Local",
+      "date": "",
+      "description": "Will the far right's gains in France’s local elections pave the way to the presidency?",
+      "source_url": "https://www.cbc.ca/news/world/france-elections-far-right-9.7135943?cmp=rss"
+    },
+    {
       "title": "Socialists battle to hold Paris in key mayoral elections across France",
       "country": "France",
       "election_type": "Mayoral",
       "date": "",
       "description": "Socialists battle to hold Paris in key mayoral elections across France",
       "source_url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "One Nation dumps South Australian election candidate after reports claiming warrant for his arrest in UK",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "One Nation dumps South Australian election candidate after reports claiming warrant for his arrest in UK",
-      "source_url": "https://www.theguardian.com/australia-news/2026/mar/21/one-nation-dumps-south-australian-election-candidate-after-reports-claiming-warrant-for-his-arrest-in-uk-ntwnfb"
-    },
-    {
-      "title": "Your primer on Denmark’s snap parliamentary elections",
-      "country": "Denmark",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Your primer on Denmark’s snap parliamentary elections",
-      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/your-primer-on-denmarks-snap-parliamentary-elections"
-    },
-    {
-      "title": "Vance to visit Hungary days before Orbán's election challenge, foreign minister says",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Vance to visit Hungary days before Orbán's election challenge, foreign minister says",
-      "source_url": "https://abcnews.com/International/wireStory/vance-visit-hungary-days-orbns-election-challenge-foreign-131260479"
-    },
-    {
-      "title": "Italy’s Referendum Could Be Meloni’s Biggest Test Yet",
-      "country": "Italy",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Italy’s Referendum Could Be Meloni’s Biggest Test Yet",
-      "source_url": "https://foreignpolicy.com/2026/03/20/italy-referendum-meloni-constitution-judicial-reform-trump-iran"
     }
   ],
   "global_events": [
     {
-      "title": "Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War",
-      "summary": "Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War",
+      "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+      "summary": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+      "outlets_covering": [
+        "NYT World",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss"
+    },
+    {
+      "title": "US lifts sanctions on Iranian oil at sea as prices soar",
+      "summary": "US lifts sanctions on Iranian oil at sea as prices soar",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "The Independent",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-trump-oil-sanctions-hormuz-b2943076.html"
+    },
+    {
+      "title": "Iran says nuclear facility hit by airstrike",
+      "summary": "Iran says nuclear facility hit by airstrike",
+      "outlets_covering": [
+        "CBS News World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/iran-says-nuclear-facility-hit-by-airstrike"
+    },
+    {
+      "title": "Iranian Man Arrested After Trying to Enter U.K. Naval Base, Police Say",
+      "summary": "Iranian Man Arrested After Trying to Enter U.K. Naval Base, Police Say",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Fox News World",
+        "NYT World"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/03/21/world/europe/iran-scotland-naval-base-clyde.html"
+    },
+    {
+      "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
+      "summary": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
       "outlets_covering": [
         "NPR World",
-        "NYT World",
+        "CBS News World",
         "The Guardian World",
         "Bloomberg",
         "The Independent",
         "Al Jazeera",
-        "The Hindu Intl",
+        "France24",
         "Foreign Policy",
-        "Atlantic Council",
-        "The Hill"
-      ],
-      "coverage_count": 21,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
-    },
-    {
-      "title": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
-      "summary": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Newsweek",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump"
-    },
-    {
-      "title": "U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market",
-      "summary": "U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NYT World",
-        "Wash Post World",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 6,
+      "coverage_count": 13,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.nytimes.com/2026/03/20/world/middleeast/us-sanctions-iran-oil.html"
-    },
-    {
-      "title": "U.S. sending thousands more Marines to Middle East",
-      "summary": "U.S. sending thousands more Marines to Middle East",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Japan Times",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/us-sending-thousands-more-marines-to-middle-east"
-    },
-    {
-      "title": "North Korean leader Kim and his daughter ride a tank together during army training",
-      "summary": "North Korean leader Kim and his daughter ride a tank together during army training",
-      "outlets_covering": [
-        "ABC News Intl",
-        "NBC News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "East / Southeast Asia",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-daughter-ride-tank-army-131237099"
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss"
     }
   ]
 }
