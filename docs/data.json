@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T05:11:51.394321Z",
+  "last_updated": "2026-03-22T13:55:15.064459Z",
   "world_org_meetings": [
     {
       "title": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
@@ -27,53 +27,104 @@
   ],
   "elections": [
     {
-      "title": "Election in Slovenia Will Test Europe’s Political Mood",
+      "title": "Italians vote in high-stakes justice referendum in key test for Meloni",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Italians vote in high-stakes justice referendum in key test for Meloni",
+      "source_url": "https://www.aljazeera.com/news/2026/3/22/italians-vote-in-high-stakes-justice-referendum-in-key-test-for-meloni?traffic_source=rss"
+    },
+    {
+      "title": "Slovenia’s governing liberals face right-wing populists in tight election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Election in Slovenia Will Test Europe’s Political Mood",
-      "source_url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html"
+      "description": "Slovenia’s governing liberals face right-wing populists in tight election",
+      "source_url": "https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election?traffic_source=rss"
     },
     {
-      "title": "Mueller, who led 2016 election interference probe tied to Russia, dies at 81",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Mueller, who led 2016 election interference probe tied to Russia, dies at 81",
-      "source_url": "https://thehill.com/blogs/in-the-know/5794757-robert-mueller-dead-81"
-    },
-    {
-      "title": "SA state election 2026: Peter Malinauskas makes passionate call for unity after thumping South Australia win marked by One Nation advance",
-      "country": "Australia",
-      "election_type": "National",
-      "date": "",
-      "description": "SA state election 2026: Peter Malinauskas makes passionate call for unity after thumping South Australia win marked by One Nation advance",
-      "source_url": "https://www.theguardian.com/australia-news/2026/mar/21/sa-state-election-2026-results-labor-confident-but-all-eyes-on-one-nation-vote-as-polls-close-in-south-australia"
-    },
-    {
-      "title": "To tilt Hungarian election, Russians proposed staging assassination attempt",
+      "title": "French voters head to the polls in second round of local elections",
       "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "To tilt Hungarian election, Russians proposed staging assassination attempt",
-      "source_url": "https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban"
-    },
-    {
-      "title": "Will the far right's gains in France’s local elections pave the way to the presidency?",
-      "country": "France",
       "election_type": "Local",
       "date": "",
-      "description": "Will the far right's gains in France’s local elections pave the way to the presidency?",
-      "source_url": "https://www.cbc.ca/news/world/france-elections-far-right-9.7135943?cmp=rss"
+      "description": "French voters head to the polls in second round of local elections",
+      "source_url": "https://www.france24.com/en/french-head-to-the-polls-in-second-round-of-local-elections"
+    },
+    {
+      "title": "French voters head to the polls in municipal runoffs with Paris, Marseille and Lyon in focus",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "French voters head to the polls in municipal runoffs with Paris, Marseille and Lyon in focus",
+      "source_url": "https://abcnews.com/International/wireStory/french-voters-head-polls-municipal-runoffs-paris-marseille-131299978"
+    },
+    {
+      "title": "Slovenia goes to polls in election marked by claims of anti-Romany rhetoric",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Slovenia goes to polls in election marked by claims of anti-Romany rhetoric",
+      "source_url": "https://www.theguardian.com/world/2026/mar/22/slovenia-election-voting-campaign-claims-anti-romany-rhetoric"
     }
   ],
   "global_events": [
     {
-      "title": "Over 100 wounded in strikes on Israel; Trump threatens to \"obliterate\" Iran's power plants",
-      "summary": "Over 100 wounded in strikes on Israel; Trump threatens to \"obliterate\" Iran's power plants",
+      "title": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants",
+      "summary": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants",
       "outlets_covering": [
+        "NPR World",
+        "NYT World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "Axios"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump"
+    },
+    {
+      "title": "Ex-FBI director Robert Mueller, who investigated Russia-Trump campaign ties, dies aged 81",
+      "summary": "Ex-FBI director Robert Mueller, who investigated Russia-Trump campaign ties, dies aged 81",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/ex-fbi-director-robert-mueller-who-investigated-russia-trump-campaign-ties-dies-aged-81"
+    },
+    {
+      "title": "Iranian strikes on towns near Israel's main nuclear research center injure over 100",
+      "summary": "Iranian strikes on towns near Israel's main nuclear research center injure over 100",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
         "CBS News World",
+        "NYT World",
         "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/iranian-strikes-southern-israel-arad-dimona"
+    },
+    {
+      "title": "Trump to Iran: Open Hormuz in 48 hours or U.S. bombs power plants",
+      "summary": "Trump to Iran: Open Hormuz in 48 hours or U.S. bombs power plants",
+      "outlets_covering": [
+        "NPR World",
+        "NYT World",
         "Wash Post World",
         "Bloomberg",
         "The Independent",
@@ -83,72 +134,23 @@
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 13,
+      "coverage_count": 12,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-gas-and-oil-prices-trump-netanyahu-strait-hormuz"
+      "category": "Conflict",
+      "source_url": "https://www.axios.com/2026/03/22/trump-iran-48-hour-ultimatum-strait-of-hormuz"
     },
     {
-      "title": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
-      "summary": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
+      "title": "Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say",
+      "summary": "Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say",
       "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump"
-    },
-    {
-      "title": "Iranian strikes on towns near Israel's main nuclear research center injure over 100",
-      "summary": "Iranian strikes on towns near Israel's main nuclear research center injure over 100",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/iranian-strikes-southern-israel-arad-dimona"
-    },
-    {
-      "title": "Trump threatens Iran with power plant strikes over Hormuz blockade",
-      "summary": "Trump threatens Iran with power plant strikes over Hormuz blockade",
-      "outlets_covering": [
-        "CBS News World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/trump-threatens-iran-with-power-plant-strikes-over-hormuz-blockade/article70771376.ece"
-    },
-    {
-      "title": "Robert Mueller, former FBI chief who led Trump-Russia probe, dies at 81",
-      "summary": "Robert Mueller, former FBI chief who led Trump-Russia probe, dies at 81",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Japan Times",
-        "The Hill"
+        "ABC News Intl",
+        "Fox News World",
+        "NYT World"
       ],
       "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/22/world/robert-mueller-dies"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.foxnews.com/world/iranian-man-romanian-woman-charged-allegedly-trying-enter-uk-nuclear-missile-base-officials-say"
     }
   ]
 }
