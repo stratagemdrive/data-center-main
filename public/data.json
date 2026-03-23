@@ -1,138 +1,146 @@
 {
-  "last_updated": "2026-03-23T05:47:09.647482Z",
-  "world_org_meetings": [
+  "last_updated": "2026-03-23T15:40:02.088809Z",
+  "world_org_meetings": [],
+  "diplomatic_visits": [
     {
-      "title": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
-      "organization": "NATO",
+      "title": "North Korea says summit with Japan is off unless Tokyo drops 'its anachronistic' ways",
+      "participants": [
+        "North",
+        "Korea",
+        "Japan",
+        "Tokyo"
+      ],
       "date": "",
       "location": "",
-      "description": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
-      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3347287/trump-praise-japan-china-xi-summit-delayed-pla-nato-talks"
+      "description": "North Korea says summit with Japan is off unless Tokyo drops 'its anachronistic' ways",
+      "source_url": "https://abcnews.com/International/wireStory/north-korea-summit-japan-off-tokyo-drops-anachronistic-131319373"
     }
   ],
-  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Italy votes in judicial reform referendum seen as key test for PM Meloni",
+      "title": "Polls point to Meloni narrowly losing referendum on flagship judicial reforms – Europe live",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Polls point to Meloni narrowly losing referendum on flagship judicial reforms – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news"
+    },
+    {
+      "title": "Italy divided over Meloni government, referendum exit polls show",
       "country": "Italy",
       "election_type": "Referendum",
       "date": "",
-      "description": "Italy votes in judicial reform referendum seen as key test for PM Meloni",
-      "source_url": "https://www.france24.com/en/italy-votes-in-judicial-reform-referendum-seen-as-key-test-for-pm-meloni"
+      "description": "Italy divided over Meloni government, referendum exit polls show",
+      "source_url": "https://www.france24.com/en/italy-divided-over-meloni-government-referendum-exit-polls-show"
     },
     {
-      "title": "Italy’s justice referendum becomes key test for PM Meloni’s leadership",
-      "country": "Italy",
+      "title": "French local election results give unexpected lift to centrist parties",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "French local election results give unexpected lift to centrist parties",
+      "source_url": "https://www.theguardian.com/world/2026/mar/23/france-local-election-results-unexpected-lift-centrist-parties"
+    },
+    {
+      "title": "Polls Predict Close Finish in Italian Referendum Seen as Test of Meloni",
+      "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "Italy’s justice referendum becomes key test for PM Meloni’s leadership",
-      "source_url": "https://www.france24.com/en/europe/20260322-italy-s-justice-referendum-becomes-key-test-for-pm-meloni-s-leadership"
+      "description": "Polls Predict Close Finish in Italian Referendum Seen as Test of Meloni",
+      "source_url": "https://www.nytimes.com/2026/03/23/world/europe/italy-referendum-judiciary-meloni.html"
     },
     {
-      "title": "TVK goes solo in Puducherry elections, fields candidates in all constituencies",
+      "title": "European far-right leaders gather in Budapest ahead of Hungarian elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "TVK goes solo in Puducherry elections, fields candidates in all constituencies",
-      "source_url": "https://timesofindia.indiatimes.com/india/tvk-goes-solo-in-puducherry-polls-names-candidates-for-30-seats/articleshow/129742348.cms"
-    },
-    {
-      "title": "New Zealand PM’s ratings dip as fragile economy fails to impress before November election, poll shows",
-      "country": "New Zealand",
-      "election_type": "National",
-      "date": "",
-      "description": "New Zealand PM’s ratings dip as fragile economy fails to impress before November election, poll shows",
-      "source_url": "https://www.theguardian.com/world/2026/mar/23/new-zealand-pm-luxon-ratings-dip-fragile-economy-november-election-poll"
-    },
-    {
-      "title": "Slovenia election too close to call as PM claims victory in neck-and-neck race",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Slovenia election too close to call as PM claims victory in neck-and-neck race",
-      "source_url": "https://www.france24.com/en/europe/20260323-slovenia-election-too-close-to-call-liberals-conservatives-neck-and-neck"
+      "description": "European far-right leaders gather in Budapest ahead of Hungarian elections",
+      "source_url": "https://www.france24.com/en/video/20260323-european-far-right-leaders-gather-in-budapest-ahead-of-hungarian-elections"
     }
   ],
   "global_events": [
     {
-      "title": "Iran-US war latest: Tehran threatens to ‘completely close’ Strait of Hormuz after Trump issues 48-hour ultimatum",
-      "summary": "Iran-US war latest: Tehran threatens to ‘completely close’ Strait of Hormuz after Trump issues 48-hour ultimatum",
+      "title": "Trump says Strait of Hormuz deadline delayed amid talks with Iran",
+      "summary": "Trump says Strait of Hormuz deadline delayed amid talks with Iran",
       "outlets_covering": [
         "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-oil-trump-deadline-israel-strait-of-hormuz-b2943544.html"
-    },
-    {
-      "title": "Iranian strikes on towns near Israel's main nuclear research center injure over 100",
-      "summary": "Iranian strikes on towns near Israel's main nuclear research center injure over 100",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "France24",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 18,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/iranian-strikes-southern-israel-arad-dimona"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz"
     },
     {
-      "title": "Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants",
-      "summary": "Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants",
+      "title": "Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewish charity’s ambulances – latest updates",
+      "summary": "Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewish charity’s ambulances – latest updates",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NBC News World",
+        "The Guardian World",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/uk-news/live/2026/mar/23/jewish-community-ambulances-arson-fire-attack-antisemitism-north-london-latest-news-updates"
+    },
+    {
+      "title": "U.S. won't strike Iran's power plants for 5 days, Trump says in turnaround on Strait of Hormuz deadline",
+      "summary": "U.S. won't strike Iran's power plants for 5 days, Trump says in turnaround on Strait of Hormuz deadline",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NYT World",
+        "The Guardian World",
         "Wash Post World",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl"
+      ],
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/world/u-s-wont-strike-irans-power-plants-for-5-days-trump-says-in-turnaround-on-strait-of-hormuz-deadline"
+    },
+    {
+      "title": "Trump postpones military strikes on Iranian power plants after ‘very good’ talks",
+      "summary": "Trump postpones military strikes on Iranian power plants after ‘very good’ talks",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
       ],
       "coverage_count": 9,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-strikes-near-israeli-nuclear-research-center-as-trump-threatens-attacks-on-iranian-power-plants/article70771544.ece"
+      "source_url": "https://www.thehindu.com/news/international/trump-postpones-military-strikes-on-iranian-power-plants/article70775387.ece"
     },
     {
-      "title": "Israeli settlers attack Palestinians in the West Bank, setting fires and smashing cars",
-      "summary": "Israeli settlers attack Palestinians in the West Bank, setting fires and smashing cars",
+      "title": "Former French prime minister and architect of 35-hour week dies",
+      "summary": "Former French prime minister and architect of 35-hour week dies",
       "outlets_covering": [
-        "CBC World",
-        "Al Jazeera",
-        "DW World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/israeli-settler-rampage-west-bank-9.7137994?cmp=rss"
-    },
-    {
-      "title": "Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say",
-      "summary": "Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say",
-      "outlets_covering": [
+        "BBC World",
         "ABC News Intl",
-        "Fox News World",
-        "NYT World"
+        "The Independent"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/iranian-man-romanian-woman-charged-allegedly-trying-enter-uk-nuclear-missile-base-officials-say"
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/lionel-jospin-death-france-socialist-party-b2943772.html"
     }
   ]
 }
