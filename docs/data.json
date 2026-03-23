@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T13:55:15.064459Z",
+  "last_updated": "2026-03-23T05:47:09.647482Z",
   "world_org_meetings": [
     {
       "title": "Trump to praise Japan in China, Xi summit delayed, PLA-Nato talks",
@@ -10,96 +10,69 @@
       "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3347287/trump-praise-japan-china-xi-summit-delayed-pla-nato-talks"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "Nigeria’s President Begins a Historic U.K. Visit",
-      "participants": [
-        "Nigeria’s",
-        "President",
-        "Begins",
-        "Historic"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Nigeria’s President Begins a Historic U.K. Visit",
-      "source_url": "https://foreignpolicy.com/2026/03/18/tinubu-historic-visit-uk-nigeria-bilateral-relations"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Italians vote in high-stakes justice referendum in key test for Meloni",
-      "country": "",
+      "title": "Italy votes in judicial reform referendum seen as key test for PM Meloni",
+      "country": "Italy",
       "election_type": "Referendum",
       "date": "",
-      "description": "Italians vote in high-stakes justice referendum in key test for Meloni",
-      "source_url": "https://www.aljazeera.com/news/2026/3/22/italians-vote-in-high-stakes-justice-referendum-in-key-test-for-meloni?traffic_source=rss"
+      "description": "Italy votes in judicial reform referendum seen as key test for PM Meloni",
+      "source_url": "https://www.france24.com/en/italy-votes-in-judicial-reform-referendum-seen-as-key-test-for-pm-meloni"
     },
     {
-      "title": "Slovenia’s governing liberals face right-wing populists in tight election",
+      "title": "Italy’s justice referendum becomes key test for PM Meloni’s leadership",
+      "country": "Italy",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Italy’s justice referendum becomes key test for PM Meloni’s leadership",
+      "source_url": "https://www.france24.com/en/europe/20260322-italy-s-justice-referendum-becomes-key-test-for-pm-meloni-s-leadership"
+    },
+    {
+      "title": "TVK goes solo in Puducherry elections, fields candidates in all constituencies",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Slovenia’s governing liberals face right-wing populists in tight election",
-      "source_url": "https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election?traffic_source=rss"
+      "description": "TVK goes solo in Puducherry elections, fields candidates in all constituencies",
+      "source_url": "https://timesofindia.indiatimes.com/india/tvk-goes-solo-in-puducherry-polls-names-candidates-for-30-seats/articleshow/129742348.cms"
     },
     {
-      "title": "French voters head to the polls in second round of local elections",
-      "country": "",
-      "election_type": "Local",
+      "title": "New Zealand PM’s ratings dip as fragile economy fails to impress before November election, poll shows",
+      "country": "New Zealand",
+      "election_type": "National",
       "date": "",
-      "description": "French voters head to the polls in second round of local elections",
-      "source_url": "https://www.france24.com/en/french-head-to-the-polls-in-second-round-of-local-elections"
+      "description": "New Zealand PM’s ratings dip as fragile economy fails to impress before November election, poll shows",
+      "source_url": "https://www.theguardian.com/world/2026/mar/23/new-zealand-pm-luxon-ratings-dip-fragile-economy-november-election-poll"
     },
     {
-      "title": "French voters head to the polls in municipal runoffs with Paris, Marseille and Lyon in focus",
+      "title": "Slovenia election too close to call as PM claims victory in neck-and-neck race",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "French voters head to the polls in municipal runoffs with Paris, Marseille and Lyon in focus",
-      "source_url": "https://abcnews.com/International/wireStory/french-voters-head-polls-municipal-runoffs-paris-marseille-131299978"
-    },
-    {
-      "title": "Slovenia goes to polls in election marked by claims of anti-Romany rhetoric",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Slovenia goes to polls in election marked by claims of anti-Romany rhetoric",
-      "source_url": "https://www.theguardian.com/world/2026/mar/22/slovenia-election-voting-campaign-claims-anti-romany-rhetoric"
+      "description": "Slovenia election too close to call as PM claims victory in neck-and-neck race",
+      "source_url": "https://www.france24.com/en/europe/20260323-slovenia-election-too-close-to-call-liberals-conservatives-neck-and-neck"
     }
   ],
   "global_events": [
     {
-      "title": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants",
-      "summary": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants",
+      "title": "Iran-US war latest: Tehran threatens to ‘completely close’ Strait of Hormuz after Trump issues 48-hour ultimatum",
+      "summary": "Iran-US war latest: Tehran threatens to ‘completely close’ Strait of Hormuz after Trump issues 48-hour ultimatum",
       "outlets_covering": [
-        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
         "NYT World",
         "Wash Post World",
-        "Bloomberg",
         "The Independent",
         "Al Jazeera",
+        "France24",
+        "Japan Times",
         "The Hindu Intl",
-        "Foreign Policy",
         "Axios"
       ],
-      "coverage_count": 13,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump"
-    },
-    {
-      "title": "Ex-FBI director Robert Mueller, who investigated Russia-Trump campaign ties, dies aged 81",
-      "summary": "Ex-FBI director Robert Mueller, who investigated Russia-Trump campaign ties, dies aged 81",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/ex-fbi-director-robert-mueller-who-investigated-russia-trump-campaign-ties-dies-aged-81"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-oil-trump-deadline-israel-strait-of-hormuz-b2943544.html"
     },
     {
       "title": "Iranian strikes on towns near Israel's main nuclear research center injure over 100",
@@ -110,34 +83,43 @@
         "CBS News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/iranian-strikes-southern-israel-arad-dimona"
     },
     {
-      "title": "Trump to Iran: Open Hormuz in 48 hours or U.S. bombs power plants",
-      "summary": "Trump to Iran: Open Hormuz in 48 hours or U.S. bombs power plants",
+      "title": "Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants",
+      "summary": "Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants",
       "outlets_covering": [
         "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
         "NYT World",
         "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 12,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.axios.com/2026/03/22/trump-iran-48-hour-ultimatum-strait-of-hormuz"
+      "source_url": "https://www.thehindu.com/news/international/iran-strikes-near-israeli-nuclear-research-center-as-trump-threatens-attacks-on-iranian-power-plants/article70771544.ece"
+    },
+    {
+      "title": "Israeli settlers attack Palestinians in the West Bank, setting fires and smashing cars",
+      "summary": "Israeli settlers attack Palestinians in the West Bank, setting fires and smashing cars",
+      "outlets_covering": [
+        "CBC World",
+        "Al Jazeera",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/world/israeli-settler-rampage-west-bank-9.7137994?cmp=rss"
     },
     {
       "title": "Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say",
