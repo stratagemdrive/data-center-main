@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-23T15:40:02.088809Z",
-  "world_org_meetings": [],
+  "last_updated": "2026-03-24T05:15:19.007595Z",
+  "world_org_meetings": [
+    {
+      "title": "EU blocks US vote to define gender as biological men and women at UN women’s forum",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "EU blocks US vote to define gender as biological men and women at UN women’s forum",
+      "source_url": "https://www.foxnews.com/world/eu-blocks-us-vote-define-gender-biological-men-women-un-womens-forum"
+    }
+  ],
   "diplomatic_visits": [
+    {
+      "title": "Kim’s sister rules out Pyongyang summit with Takaichi",
+      "participants": [
+        "Kim’s",
+        "Pyongyang",
+        "Takaichi"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Kim’s sister rules out Pyongyang summit with Takaichi",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/24/japan/politics/kim-sister-denies-summit"
+    },
+    {
+      "title": "Moment missile strikes shortly after Israeli president’s visit",
+      "participants": [
+        "Moment",
+        "Israeli"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Moment missile strikes shortly after Israeli president’s visit",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss"
+    },
     {
       "title": "North Korea says summit with Japan is off unless Tokyo drops 'its anachronistic' ways",
       "participants": [
@@ -18,129 +50,126 @@
   ],
   "elections": [
     {
-      "title": "Polls point to Meloni narrowly losing referendum on flagship judicial reforms – Europe live",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Polls point to Meloni narrowly losing referendum on flagship judicial reforms – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news"
-    },
-    {
-      "title": "Italy divided over Meloni government, referendum exit polls show",
+      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
       "country": "Italy",
       "election_type": "Referendum",
       "date": "",
-      "description": "Italy divided over Meloni government, referendum exit polls show",
-      "source_url": "https://www.france24.com/en/italy-divided-over-meloni-government-referendum-exit-polls-show"
+      "description": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+      "source_url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "French local election results give unexpected lift to centrist parties",
-      "country": "",
-      "election_type": "Local",
+      "title": "Europe's far right backs Orbán as Hungary's coming election puts his brand to the test",
+      "country": "Hungary",
+      "election_type": "National",
       "date": "",
-      "description": "French local election results give unexpected lift to centrist parties",
-      "source_url": "https://www.theguardian.com/world/2026/mar/23/france-local-election-results-unexpected-lift-centrist-parties"
+      "description": "Europe's far right backs Orbán as Hungary's coming election puts his brand to the test",
+      "source_url": "https://abcnews.com/International/wireStory/europes-backs-orbn-hungarys-coming-election-puts-brand-131332741"
     },
     {
-      "title": "Polls Predict Close Finish in Italian Referendum Seen as Test of Meloni",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Polls Predict Close Finish in Italian Referendum Seen as Test of Meloni",
-      "source_url": "https://www.nytimes.com/2026/03/23/world/europe/italy-referendum-judiciary-meloni.html"
-    },
-    {
-      "title": "European far-right leaders gather in Budapest ahead of Hungarian elections",
+      "title": "Slovenia‚Äôs President urges talks on future government after tight election outcome",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "European far-right leaders gather in Budapest ahead of Hungarian elections",
-      "source_url": "https://www.france24.com/en/video/20260323-european-far-right-leaders-gather-in-budapest-ahead-of-hungarian-elections"
+      "description": "Slovenia‚Äôs President urges talks on future government after tight election outcome",
+      "source_url": "https://www.thehindu.com/news/international/slovenias-president-urges-talks-on-future-government-after-tight-election-outcome/article70777030.ece"
+    },
+    {
+      "title": "Giorgia Meloni concedes defeat in Italy’s judiciary reform referendum – as it happened",
+      "country": "Italy",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Giorgia Meloni concedes defeat in Italy’s judiciary reform referendum – as it happened",
+      "source_url": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news"
+    },
+    {
+      "title": "Denmark election: far right has slowed under Frederiksen – but at what cost?",
+      "country": "Denmark",
+      "election_type": "National",
+      "date": "",
+      "description": "Denmark election: far right has slowed under Frederiksen – but at what cost?",
+      "source_url": "https://www.theguardian.com/world/2026/mar/24/how-the-danish-mainstream-embraced-far-right-immigration-politics"
     }
   ],
   "global_events": [
     {
-      "title": "Trump says Strait of Hormuz deadline delayed amid talks with Iran",
-      "summary": "Trump says Strait of Hormuz deadline delayed amid talks with Iran",
+      "title": "Military plane crash in Colombia kills at least 66 people and injures dozens",
+      "summary": "Military plane crash in Colombia kills at least 66 people and injures dozens",
       "outlets_covering": [
-        "PBS NewsHour",
+        "BBC World",
         "CBC World",
+        "ABC News Intl",
         "CBS News World",
+        "Sky News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
+        "Al Jazeera",
         "France24",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz"
+      "coverage_count": 9,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/colombia-military-plane-crash"
     },
     {
-      "title": "Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewish charity’s ambulances – latest updates",
-      "summary": "Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewish charity’s ambulances – latest updates",
+      "title": "At least 66 dead after Colombian military plane crashes shortly after takeoff",
+      "summary": "At least 66 dead after Colombian military plane crashes shortly after takeoff",
       "outlets_covering": [
+        "BBC World",
+        "CBC World",
         "ABC News Intl",
-        "NBC News World",
+        "Sky News World",
+        "NYT World",
         "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 12,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/colombia-military-plane-crash-deaths-cause-b2944262.html"
+    },
+    {
+      "title": "Giorgia Meloni suffers blow as Italian voters reject key reforms",
+      "summary": "Giorgia Meloni suffers blow as Italian voters reject key reforms",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "The Independent",
         "France24"
       ],
       "coverage_count": 4,
       "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/uk-news/live/2026/mar/23/jewish-community-ambulances-arson-fire-attack-antisemitism-north-london-latest-news-updates"
-    },
-    {
-      "title": "U.S. won't strike Iran's power plants for 5 days, Trump says in turnaround on Strait of Hormuz deadline",
-      "summary": "U.S. won't strike Iran's power plants for 5 days, Trump says in turnaround on Strait of Hormuz deadline",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/u-s-wont-strike-irans-power-plants-for-5-days-trump-says-in-turnaround-on-strait-of-hormuz-deadline"
+      "source_url": "https://www.independent.co.uk/news/world/europe/giorgia-meloni-italy-judical-reforms-referendum-b2944083.html"
     },
     {
-      "title": "Trump postpones military strikes on Iranian power plants after ‘very good’ talks",
-      "summary": "Trump postpones military strikes on Iranian power plants after ‘very good’ talks",
+      "title": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
+      "summary": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
       "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "Al Jazeera",
+        "NYT World",
         "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/trump-postpones-military-strikes-on-iranian-power-plants/article70775387.ece"
-    },
-    {
-      "title": "Former French prime minister and architect of 35-hour week dies",
-      "summary": "Former French prime minister and architect of 35-hour week dies",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "The Independent"
+        "Japan Times"
       ],
       "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html"
+    },
+    {
+      "title": "EU, Australia seal landmark free trade deal amid global tensions",
+      "summary": "EU, Australia seal landmark free trade deal amid global tensions",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "DW World",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
       "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/lionel-jospin-death-france-socialist-party-b2943772.html"
+      "category": "Economy",
+      "source_url": "https://www.france24.com/en/europe/20260324-eu-australia-landmark-free-trade-deal-global-tensions"
     }
   ]
 }
