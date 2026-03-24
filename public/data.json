@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T05:15:19.007595Z",
+  "last_updated": "2026-03-24T15:45:49.306589Z",
   "world_org_meetings": [
     {
       "title": "EU blocks US vote to define gender as biological men and women at UN women’s forum",
@@ -11,29 +11,6 @@
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "Kim’s sister rules out Pyongyang summit with Takaichi",
-      "participants": [
-        "Kim’s",
-        "Pyongyang",
-        "Takaichi"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Kim’s sister rules out Pyongyang summit with Takaichi",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/24/japan/politics/kim-sister-denies-summit"
-    },
-    {
-      "title": "Moment missile strikes shortly after Israeli president’s visit",
-      "participants": [
-        "Moment",
-        "Israeli"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Moment missile strikes shortly after Israeli president’s visit",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss"
-    },
     {
       "title": "North Korea says summit with Japan is off unless Tokyo drops 'its anachronistic' ways",
       "participants": [
@@ -50,85 +27,106 @@
   ],
   "elections": [
     {
-      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-      "country": "Italy",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-      "source_url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Europe's far right backs Orbán as Hungary's coming election puts his brand to the test",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Europe's far right backs Orbán as Hungary's coming election puts his brand to the test",
-      "source_url": "https://abcnews.com/International/wireStory/europes-backs-orbn-hungarys-coming-election-puts-brand-131332741"
-    },
-    {
-      "title": "Slovenia‚Äôs President urges talks on future government after tight election outcome",
+      "title": "Slovenia’s President urges talks on future government after tight election outcome",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Slovenia‚Äôs President urges talks on future government after tight election outcome",
+      "description": "Slovenia’s President urges talks on future government after tight election outcome",
       "source_url": "https://www.thehindu.com/news/international/slovenias-president-urges-talks-on-future-government-after-tight-election-outcome/article70777030.ece"
     },
     {
-      "title": "Giorgia Meloni concedes defeat in Italy’s judiciary reform referendum – as it happened",
-      "country": "Italy",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Giorgia Meloni concedes defeat in Italy’s judiciary reform referendum – as it happened",
-      "source_url": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news"
-    },
-    {
-      "title": "Denmark election: far right has slowed under Frederiksen – but at what cost?",
+      "title": "Voting under way in Denmark as Greenland PM says election is most important in territory’s history – Europe live",
       "country": "Denmark",
       "election_type": "National",
       "date": "",
-      "description": "Denmark election: far right has slowed under Frederiksen – but at what cost?",
-      "source_url": "https://www.theguardian.com/world/2026/mar/24/how-the-danish-mainstream-embraced-far-right-immigration-politics"
+      "description": "Voting under way in Denmark as Greenland PM says election is most important in territory’s history – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/mar/24/denmark-election-mette-frederiksen-europe-latest-news-updates"
+    },
+    {
+      "title": "Danish PM seeking third term as election underway",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Danish PM seeking third term as election underway",
+      "source_url": "https://www.france24.com/en/danish-pm-seeking-third-term-as-election-underway"
+    },
+    {
+      "title": "Denmark election dominated by domestic issues followed by Greenland crisis",
+      "country": "Denmark",
+      "election_type": "National",
+      "date": "",
+      "description": "Denmark election dominated by domestic issues followed by Greenland crisis",
+      "source_url": "https://www.france24.com/en/denmark-election-dominated-by-domestic-issues-although-greenland-crisis-weighed-in"
+    },
+    {
+      "title": "Tamil Nadu assembly elections: AIADMK releases manifesto, Palaniswami rolls out 297 promises",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Tamil Nadu assembly elections: AIADMK releases manifesto, Palaniswami rolls out 297 promises",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-elections-aiadmk-releases-manifesto-palaniswami-rolls-out-297-promises/articleshow/129777557.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Military plane crash in Colombia kills at least 66 people and injures dozens",
-      "summary": "Military plane crash in Colombia kills at least 66 people and injures dozens",
+      "title": "Colombian military plane crash kills at least 66, head of armed forces says",
+      "summary": "Colombian military plane crash kills at least 66, head of armed forces says",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "Sky News World",
+        "Fox News World",
         "NYT World",
-        "Al Jazeera",
-        "France24",
+        "The Guardian World",
+        "The Independent",
         "The Hindu Intl"
       ],
       "coverage_count": 9,
       "region": "Latin America",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/colombia-military-plane-crash"
+      "source_url": "https://www.foxnews.com/world/colombian-military-plane-crash-kills-head-armed-forces-says"
     },
     {
-      "title": "At least 66 dead after Colombian military plane crashes shortly after takeoff",
-      "summary": "At least 66 dead after Colombian military plane crashes shortly after takeoff",
+      "title": "Strikes hit Iran while Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
+      "summary": "Strikes hit Iran while Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
       "outlets_covering": [
-        "BBC World",
-        "CBC World",
+        "PBS NewsHour",
         "ABC News Intl",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
         "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "France24"
+        "The Hill"
       ],
-      "coverage_count": 12,
-      "region": "Latin America",
+      "coverage_count": 5,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/colombia-military-plane-crash-deaths-cause-b2944262.html"
+      "source_url": "https://www.pbs.org/newshour/world/strikes-hit-iran-while-tehran-targets-israel-and-gulf-states-amid-mixed-signals-over-talks-to-end-war"
+    },
+    {
+      "title": "China protests to Japan over alleged break-in at its embassy in Tokyo",
+      "summary": "China protests to Japan over alleged break-in at its embassy in Tokyo",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/china-protests-japan-alleged-break-embassy-tokyo-131355285"
+    },
+    {
+      "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status",
+      "summary": "Kim vows to 'irreversibly' cement North Korea's nuclear status",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "NYT World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "East / Southeast Asia",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status"
     },
     {
       "title": "Giorgia Meloni suffers blow as Italian voters reject key reforms",
@@ -136,40 +134,12 @@
       "outlets_covering": [
         "PBS NewsHour",
         "ABC News Intl",
-        "The Independent",
-        "France24"
+        "The Independent"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.independent.co.uk/news/world/europe/giorgia-meloni-italy-judical-reforms-referendum-b2944083.html"
-    },
-    {
-      "title": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
-      "summary": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
-      "outlets_covering": [
-        "NYT World",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html"
-    },
-    {
-      "title": "EU, Australia seal landmark free trade deal amid global tensions",
-      "summary": "EU, Australia seal landmark free trade deal amid global tensions",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "DW World",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.france24.com/en/europe/20260324-eu-australia-landmark-free-trade-deal-global-tensions"
     }
   ]
 }
