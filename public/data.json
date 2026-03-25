@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T15:45:49.306589Z",
+  "last_updated": "2026-03-25T05:16:30.708085Z",
   "world_org_meetings": [
     {
       "title": "EU blocks US vote to define gender as biological men and women at UN women’s forum",
@@ -12,134 +12,149 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "North Korea says summit with Japan is off unless Tokyo drops 'its anachronistic' ways",
+      "title": "Pakistan Offers to Host Talks Between Iran and the United States",
       "participants": [
-        "North",
-        "Korea",
-        "Japan",
-        "Tokyo"
+        "Pakistan",
+        "Offers",
+        "Host",
+        "Talks"
       ],
       "date": "",
       "location": "",
-      "description": "North Korea says summit with Japan is off unless Tokyo drops 'its anachronistic' ways",
-      "source_url": "https://abcnews.com/International/wireStory/north-korea-summit-japan-off-tokyo-drops-anachronistic-131319373"
+      "description": "Pakistan Offers to Host Talks Between Iran and the United States",
+      "source_url": "https://www.nytimes.com/2026/03/24/world/middleeast/pakistan-iran-us-mediation.html"
+    },
+    {
+      "title": "Melania Trump opens two-day summit with emotional plea to world counterparts",
+      "participants": [
+        "Melania",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Melania Trump opens two-day summit with emotional plea to world counterparts",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/melania-trump-fostering-the-future-summit-first-lady-b2944806.html"
     }
   ],
   "elections": [
     {
-      "title": "Slovenia’s President urges talks on future government after tight election outcome",
+      "title": "Mette Frederiksen’s leftwing bloc fails to win majority in Danish election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Slovenia’s President urges talks on future government after tight election outcome",
-      "source_url": "https://www.thehindu.com/news/international/slovenias-president-urges-talks-on-future-government-after-tight-election-outcome/article70777030.ece"
+      "description": "Mette Frederiksen’s leftwing bloc fails to win majority in Danish election",
+      "source_url": "https://www.theguardian.com/world/2026/mar/24/mette-frederiksen-leftwing-bloc-fails-win-majority-denmark-election-exit-poll"
     },
     {
-      "title": "Voting under way in Denmark as Greenland PM says election is most important in territory’s history – Europe live",
+      "title": "Italy's Meloni faces risky choices after referendum defeat shakes government",
+      "country": "Italy",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Italy's Meloni faces risky choices after referendum defeat shakes government",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/25/world/politics/italy-meloni-referendum-government"
+    },
+    {
+      "title": "Denmark's Frederiksen weakened by election setback, coalition talks loom",
       "country": "Denmark",
       "election_type": "National",
       "date": "",
-      "description": "Voting under way in Denmark as Greenland PM says election is most important in territory’s history – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/mar/24/denmark-election-mette-frederiksen-europe-latest-news-updates"
+      "description": "Denmark's Frederiksen weakened by election setback, coalition talks loom",
+      "source_url": "https://www.france24.com/en/video/20260325-denmark-s-frederiksen-weakened-by-election-setback-coalition-talks-loom"
     },
     {
-      "title": "Danish PM seeking third term as election underway",
+      "title": "Danish PM faces fight to stay in post after election losses",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Danish PM seeking third term as election underway",
-      "source_url": "https://www.france24.com/en/danish-pm-seeking-third-term-as-election-underway"
+      "description": "Danish PM faces fight to stay in post after election losses",
+      "source_url": "https://news.sky.com/story/denmark-election-pm-frederiksen-faces-fight-to-stay-in-post-after-losses-13524098"
     },
     {
-      "title": "Denmark election dominated by domestic issues followed by Greenland crisis",
-      "country": "Denmark",
-      "election_type": "National",
-      "date": "",
-      "description": "Denmark election dominated by domestic issues followed by Greenland crisis",
-      "source_url": "https://www.france24.com/en/denmark-election-dominated-by-domestic-issues-although-greenland-crisis-weighed-in"
-    },
-    {
-      "title": "Tamil Nadu assembly elections: AIADMK releases manifesto, Palaniswami rolls out 297 promises",
+      "title": "Danish prime minister's future unclear after election results show indecisive outcome",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Tamil Nadu assembly elections: AIADMK releases manifesto, Palaniswami rolls out 297 promises",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-elections-aiadmk-releases-manifesto-palaniswami-rolls-out-297-promises/articleshow/129777557.cms"
+      "description": "Danish prime minister's future unclear after election results show indecisive outcome",
+      "source_url": "https://www.pbs.org/newshour/world/danish-prime-ministers-future-unclear-after-election-results-show-indecisive-outcome"
     }
   ],
   "global_events": [
     {
-      "title": "Colombian military plane crash kills at least 66, head of armed forces says",
-      "summary": "Colombian military plane crash kills at least 66, head of armed forces says",
+      "title": "Trump says Iran gave U.S. \"a very big present\" related to oil and gas",
+      "summary": "Trump says Iran gave U.S. \"a very big present\" related to oil and gas",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/trump-says-iran-gave-us-a-very-big-present-related-to-oil-and-gas"
+    },
+    {
+      "title": "Russia fires 400 drones at Ukraine, signaling its spring offensive has started",
+      "summary": "Russia fires 400 drones at Ukraine, signaling its spring offensive has started",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "Fox News World",
+        "The Guardian World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/world/russia-fires-400-drones-at-ukraine-signaling-its-spring-offensive-has-started"
+    },
+    {
+      "title": "Strikes hit Iran, Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
+      "summary": "Strikes hit Iran, Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/strikes-hit-iran-tehran-targets-israel-and-gulf-states-amid-mixed-signals-over-talks-to-end-war/article70781087.ece"
+    },
+    {
+      "title": "Plane Crash Kills 66 From Military and Police in Colombia",
+      "summary": "Plane Crash Kills 66 From Military and Police in Colombia",
+      "outlets_covering": [
+        "BBC World",
         "CBS News World",
         "Sky News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
-        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 6,
       "region": "Latin America",
       "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/colombian-military-plane-crash-kills-head-armed-forces-says"
+      "source_url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html"
     },
     {
-      "title": "Strikes hit Iran while Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
-      "summary": "Strikes hit Iran while Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
+      "title": "Ukraine-Russia war latest: Moscow launches 948 drones in 24 hours in largest aerial attack since war began",
+      "summary": "Ukraine-Russia war latest: Moscow launches 948 drones in 24 hours in largest aerial attack since war began",
       "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/strikes-hit-iran-while-tehran-targets-israel-and-gulf-states-amid-mixed-signals-over-talks-to-end-war"
-    },
-    {
-      "title": "China protests to Japan over alleged break-in at its embassy in Tokyo",
-      "summary": "China protests to Japan over alleged break-in at its embassy in Tokyo",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/china-protests-japan-alleged-break-embassy-tokyo-131355285"
-    },
-    {
-      "title": "Kim vows to 'irreversibly' cement North Korea's nuclear status",
-      "summary": "Kim vows to 'irreversibly' cement North Korea's nuclear status",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
+        "BBC World",
         "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "East / Southeast Asia",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status"
-    },
-    {
-      "title": "Giorgia Meloni suffers blow as Italian voters reject key reforms",
-      "summary": "Giorgia Meloni suffers blow as Italian voters reject key reforms",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
+        "The Guardian World",
         "The Independent"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/giorgia-meloni-italy-judical-reforms-referendum-b2944083.html"
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-strikes-putin-zelensky-b2945082.html"
     }
   ]
 }
