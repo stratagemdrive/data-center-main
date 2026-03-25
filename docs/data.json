@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-25T05:16:30.708085Z",
+  "last_updated": "2026-03-25T15:49:28.974709Z",
   "world_org_meetings": [
+    {
+      "title": "Putin ally receives white horse welcome in North Korea for Kim Jong Un talks",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Putin ally receives white horse welcome in North Korea for Kim Jong Un talks",
+      "source_url": "https://www.independent.co.uk/news/world/europe/north-korea-kim-jong-un-lukashenko-putin-b2945280.html"
+    },
+    {
+      "title": "The Iranian former commander who could be Trump's pick to negotiate with",
+      "organization": "WHO",
+      "date": "",
+      "location": "",
+      "description": "The Iranian former commander who could be Trump's pick to negotiate with",
+      "source_url": "https://news.sky.com/story/the-iranian-former-commander-who-could-be-trumps-pick-to-negotiate-with-13524167"
+    },
     {
       "title": "EU blocks US vote to define gender as biological men and women at UN women’s forum",
       "organization": "UN",
@@ -38,44 +54,44 @@
   ],
   "elections": [
     {
-      "title": "Mette Frederiksen’s leftwing bloc fails to win majority in Danish election",
+      "title": "Danish prime minister’s future in question following inconclusive election result",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Mette Frederiksen’s leftwing bloc fails to win majority in Danish election",
-      "source_url": "https://www.theguardian.com/world/2026/mar/24/mette-frederiksen-leftwing-bloc-fails-win-majority-denmark-election-exit-poll"
+      "description": "Danish prime minister’s future in question following inconclusive election result",
+      "source_url": "https://www.independent.co.uk/news/world/europe/denmark-election-mette-frederiksen-trump-greenland-b2945175.html"
     },
     {
-      "title": "Italy's Meloni faces risky choices after referendum defeat shakes government",
-      "country": "Italy",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Italy's Meloni faces risky choices after referendum defeat shakes government",
-      "source_url": "https://www.japantimes.co.jp/news/2026/03/25/world/politics/italy-meloni-referendum-government"
-    },
-    {
-      "title": "Denmark's Frederiksen weakened by election setback, coalition talks loom",
-      "country": "Denmark",
-      "election_type": "National",
-      "date": "",
-      "description": "Denmark's Frederiksen weakened by election setback, coalition talks loom",
-      "source_url": "https://www.france24.com/en/video/20260325-denmark-s-frederiksen-weakened-by-election-setback-coalition-talks-loom"
-    },
-    {
-      "title": "Danish PM faces fight to stay in post after election losses",
+      "title": "Danish PM Frederiksen resigns and coalition talks begin following close election – Europe live",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Danish PM faces fight to stay in post after election losses",
-      "source_url": "https://news.sky.com/story/denmark-election-pm-frederiksen-faces-fight-to-stay-in-post-after-losses-13524098"
+      "description": "Danish PM Frederiksen resigns and coalition talks begin following close election – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates"
     },
     {
-      "title": "Danish prime minister's future unclear after election results show indecisive outcome",
+      "title": "Danish election signals shift toward Dutch and Belgian-style of coalition building",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Danish prime minister's future unclear after election results show indecisive outcome",
-      "source_url": "https://www.pbs.org/newshour/world/danish-prime-ministers-future-unclear-after-election-results-show-indecisive-outcome"
+      "description": "Danish election signals shift toward Dutch and Belgian-style of coalition building",
+      "source_url": "https://www.france24.com/en/danish-election-signals-shift-toward-dutch-and-belgian-style-of-coalition-building"
+    },
+    {
+      "title": "EC hikes remuneration for poll officials ahead of assembly elections in 5 states",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "EC hikes remuneration for poll officials ahead of assembly elections in 5 states",
+      "source_url": "https://timesofindia.indiatimes.com/india/ec-hikes-remuneration-for-poll-officials-ahead-of-assembly-elections-in-5-states/articleshow/129803781.cms"
+    },
+    {
+      "title": "Danish PM hands in government resignation after defeat in general election",
+      "country": "",
+      "election_type": "General",
+      "date": "",
+      "description": "Danish PM hands in government resignation after defeat in general election",
+      "source_url": "https://www.france24.com/en/danish-pm-hands-in-government-resignation-after-defeat-in-general-election"
     }
   ],
   "global_events": [
@@ -101,60 +117,58 @@
         "PBS NewsHour",
         "ABC News Intl",
         "Fox News World",
-        "The Guardian World",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 4,
       "region": "Europe / Russia",
       "category": "Politics",
       "source_url": "https://www.pbs.org/newshour/world/russia-fires-400-drones-at-ukraine-signaling-its-spring-offensive-has-started"
     },
     {
-      "title": "Strikes hit Iran, Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
-      "summary": "Strikes hit Iran, Tehran targets Israel and Gulf states amid mixed signals over talks to end war",
+      "title": "U.S. and Iran Are Talking About Ways to End Their War: What to Know",
+      "summary": "U.S. and Iran Are Talking About Ways to End Their War: What to Know",
       "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/strikes-hit-iran-tehran-targets-israel-and-gulf-states-amid-mixed-signals-over-talks-to-end-war/article70781087.ece"
-    },
-    {
-      "title": "Plane Crash Kills 66 From Military and Police in Colombia",
-      "summary": "Plane Crash Kills 66 From Military and Police in Colombia",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "Sky News World",
-        "Fox News World",
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Latin America",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Moscow launches 948 drones in 24 hours in largest aerial attack since war began",
-      "summary": "Ukraine-Russia war latest: Moscow launches 948 drones in 24 hours in largest aerial attack since war began",
-      "outlets_covering": [
-        "BBC World",
         "NYT World",
         "The Guardian World",
-        "The Independent"
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "Foreign Policy",
+        "Axios"
       ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
+      "coverage_count": 9,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-strikes-putin-zelensky-b2945082.html"
+      "source_url": "https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html"
+    },
+    {
+      "title": "Danish prime minister’s future in question following inconclusive election result",
+      "summary": "Danish prime minister’s future in question following inconclusive election result",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/denmark-election-mette-frederiksen-trump-greenland-b2945175.html"
+    },
+    {
+      "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+      "summary": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+      "outlets_covering": [
+        "NYT World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"
     }
   ]
 }
