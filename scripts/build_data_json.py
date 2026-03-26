@@ -48,8 +48,9 @@ HEADERS = {
 TIMEOUT = 20
 MAX_RETRIES = 2
 RETRY_SLEEP = 1.2
-WINDOW_HOURS = 96
-ORG_WINDOW_HOURS = 168
+WINDOW_HOURS = 96           # default: elections & global events (4 days)
+ORG_WINDOW_HOURS = 336      # world org meetings (2 weeks)
+DIPLOMATIC_WINDOW_HOURS = 336  # diplomatic visits (2 weeks)
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
 
 # ---------------------------------------------------------------------------
@@ -189,66 +190,167 @@ def _is_us_domestic(title: str) -> bool:
 
 
 # ---------------------------------------------------------------------------
-# Relevance keywords per section
+# World Org keyword lists
 # ---------------------------------------------------------------------------
 
-_WORLD_ORG_NAMES = [
-    "united nations", " un ", "un general assembly", "un security council",
-    "g7", "g20", "nato", "european union", "eu summit", "eu council",
-    "asean", "apec", "african union", "wto", "imf", "world bank",
-    "world health organization", " who ", "cop30", "cop ",
+# Each entry is (search_string, canonical_org_label).
+# Longer/more specific strings must come before shorter ones so the first
+# match wins correctly (e.g. "un security council" before " un ").
+_ORG_MAP: List[Tuple[str, str]] = [
+    # UN bodies — most specific first
+    ("un security council",         "UN Security Council"),
+    ("un general assembly",         "UN General Assembly"),
+    ("un human rights council",     "UN Human Rights Council"),
+    ("united nations human rights", "UN Human Rights Council"),
+    ("un climate",                  "UN / COP"),
+    ("un women",                    "UN Women"),
+    ("un peacekeeping",             "UN Peacekeeping"),
+    ("united nations",              "UN"),
+    # Other major orgs
+    ("world health organization",   "WHO"),
+    ("world trade organization",    "WTO"),
+    ("world bank",                  "World Bank"),
+    ("international monetary fund", "IMF"),
+    ("international criminal court","ICC"),
+    ("international court of justice","ICJ"),
+    ("nato",                        "NATO"),
+    ("european union",              "EU"),
+    ("eu summit",                   "EU"),
+    ("eu council",                  "EU"),
+    ("european commission",         "EU"),
+    ("g7",                          "G7"),
+    ("g20",                         "G20"),
+    ("asean",                       "ASEAN"),
+    ("apec",                        "APEC"),
+    ("african union",               "AU"),
+    ("arab league",                 "Arab League"),
+    ("opec",                        "OPEC"),
+    ("brics",                       "BRICS"),
+    ("shanghai cooperation",        "SCO"),
+    ("organization of american states", "OAS"),
+    ("cop30",                       "COP30"),
+    ("cop ",                        "COP"),
+    ("climate summit",              "COP"),
+    ("climate conference",          "COP"),
+    # Abbreviation-only matches — wrapped in word boundaries to avoid false matches
+    # These are checked separately via regex below
+]
+
+# Abbreviation-only patterns needing word-boundary matching to avoid false positives
+# e.g. " who " would match "who knows" — use regex instead
+_ORG_ABBREV_MAP: List[Tuple[re.Pattern, str]] = [
+    (re.compile(r"\bwho\b", re.IGNORECASE),   "WHO"),
+    (re.compile(r"\bwto\b", re.IGNORECASE),   "WTO"),
+    (re.compile(r"\bimf\b", re.IGNORECASE),   "IMF"),
+    (re.compile(r"\bicc\b", re.IGNORECASE),   "ICC"),
+    (re.compile(r"\bicj\b", re.IGNORECASE),   "ICJ"),
+    (re.compile(r"\bsco\b", re.IGNORECASE),   "SCO"),
+    (re.compile(r"\boas\b", re.IGNORECASE),   "OAS"),
+    (re.compile(r"\baу\b",  re.IGNORECASE),   "AU"),   # African Union abbreviation
+    # " un " with surrounding word boundary — avoid matching "union", "under", etc.
+    (re.compile(r"(?<!\w)un(?!\w)", re.IGNORECASE), "UN"),
+]
+
+# Keywords used for RSS pre-filtering (broad net; org inference validates afterward)
+_WORLD_ORG_FEED_KW = [
+    "united nations", "nato", "g7", "g20", "asean", "apec",
+    "african union", "wto", "imf", "world bank",
+    "world health organization", "who", "cop30", "cop ",
     "climate summit", "opec", "arab league", "brics",
-    "shanghai cooperation", " sco ", "organization of american states", " oas ",
+    "shanghai cooperation", "eu summit", "eu council",
+    "european union", "icc", "icj", "un security council",
+    "un general assembly", "summit", "council meeting",
+    "multilateral", "international forum",
 ]
 
 _WORLD_ORG_EVENT_TYPES = [
     "summit", "meeting", "session", "assembly", "conference",
-    "forum", "talks", "gather", "convene", "negotiate",
+    "forum", "talks", "gather", "convene", "negotiate", "council",
+    "vote", "resolution", "sanctions", "approved", "adopted",
 ]
+
+
+def _infer_org(title: str) -> str:
+    """
+    Return the canonical organisation name for a headline.
+    Checks long-form strings first (most specific), then abbreviation regexes.
+    Falls back to "" if nothing matches.
+    """
+    t_lower = title.lower()
+
+    # 1. Long-form / phrase matches (ordered most-specific → least-specific)
+    for phrase, label in _ORG_MAP:
+        if phrase in t_lower:
+            return label
+
+    # 2. Abbreviation-only regex matches (word-boundary safe)
+    for pattern, label in _ORG_ABBREV_MAP:
+        if pattern.search(title):
+            return label
+
+    return ""
+
+
+def _is_valid_org_item(title: str) -> bool:
+    """
+    Accept a headline only when it names a known org AND signals an actual event/action
+    (not just an opinion piece that happens to mention NATO, etc.).
+    """
+    t = title.lower()
+    has_org = bool(_infer_org(title))          # uses the improved lookup above
+    has_event = any(ev in t for ev in _WORLD_ORG_EVENT_TYPES)
+    return has_org and has_event
+
 
 # ---------------------------------------------------------------------------
 # Diplomatic visits — keyword lists and filters
 # ---------------------------------------------------------------------------
 
-# Broad keywords used only for RSS pre-filtering (upstream of _is_valid_diplomatic_item).
-# These cast a wide net; the strong-signal check below does the real gating.
+# RSS pre-filter: broad net
 _DIPLOMATIC_FEED_KW = [
-    "visit", "bilateral", "summit", "state visit", "diplomatic",
+    "ambassador", "diplomatic visit", "state visit", "bilateral",
     "foreign minister", "secretary of state", "heads of state",
-    "met with", "meeting with", "talks between", "joint statement",
-    "arrived", "signed agreement", "welcomed", "hosted",
+    "official visit", "summit", "joint statement", "signed agreement",
+    "signed treaty", "signed pact", "welcomed", "hosted", "arrived",
+    "talks between", "meeting between",
 ]
 
-# Patterns that strongly imply an actual visit/meeting occurred or is scheduled.
-# At least one must match for an item to pass.
-_DIPLOMATIC_VISIT_STRONG = [
+# Strong signals that an actual visit/meeting took place or is firmly scheduled
+_DIPLOMATIC_VISIT_STRONG_RE = [re.compile(p, re.IGNORECASE) for p in [
     r"\bstate visit\b",
     r"\bbilateral (talks|meeting|summit|discussions)\b",
     r"\bofficial visit\b",
+    r"\bdiplomatic visit\b",
     r"\bheads of state\b",
     r"\btalks between\b",
     r"\bmeeting between\b",
     r"\bdiplomatic (talks|meeting|summit|discussions)\b",
+    # Travel + purpose
     r"\b(arriv(?:es?|ed|ing)|travel(?:s|led|ling)?|flew|flies|heading) to\b.{0,60}\b(meet|talks?|summit|visit)\b",
-    r"\b(meet|met|meets|meeting) with\b.{0,60}\b(president|prime minister|chancellor|foreign minister|secretary of state)\b",
-    r"\b(president|prime minister|chancellor)\b.{0,80}\b(visit(?:s|ed|ing)?|arriv(?:es?|ed|ing))\b",
-    r"\b(host(?:s|ed|ing)?|welcom(?:es?|ed|ing))\b.{0,60}\b(president|prime minister|leader|chancellor|counterpart)\b",
+    # A titled leader + met/visited
+    r"\b(president|prime minister|chancellor|foreign minister|secretary of state)\b.{0,60}"
+    r"\b(meet(?:s|ing)?|met|visit(?:s|ed|ing)?|arriv(?:es?|ed|ing)?)\b",
+    # Hosting a titled leader
+    r"\b(host(?:s|ed|ing)?|welcom(?:es?|ed|ing))\b.{0,60}"
+    r"\b(president|prime minister|leader|chancellor|counterpart)\b",
+    # Signed agreements
     r"\b(sign(?:s|ed|ing)?)\b.{0,60}\b(agreement|deal|pact|treaty|accord|memorandum)\b",
     r"\bjoint (statement|communiqué|press conference|declaration)\b",
     r"\bsummit (between|with|of)\b",
-]
+    # Ambassador-related visits
+    r"\bambassador\b.{0,60}\b(present(?:s|ed)?|credentials|arriv(?:es?|ed)|meet(?:s|ing)?|met)\b",
+    r"\bnew ambassador\b",
+    r"\benvoy\b.{0,40}\b(arriv(?:es?|ed)|meet(?:s|ing)?|met|sent)\b",
+]]
 
-_DIPLOMATIC_VISIT_STRONG_RE = [re.compile(p, re.IGNORECASE) for p in _DIPLOMATIC_VISIT_STRONG]
-
-# Hard-block patterns — if any match, reject immediately regardless of other signals.
+# Hard-block patterns — reject regardless of strong signals
 _DIPLOMATIC_BLOCK_RE = [re.compile(p, re.IGNORECASE) for p in [
     # Live war/conflict updates
     r"\b(war live|live update|live blog)\b",
     r"\blive:\s",
     r"\b(airstrike|missile strike|drone strike|bombing|shelling|invasion)\b",
     r"\b(kill(?:s|ed)|wound(?:s|ed)|dead|casualties|death toll)\b",
-    # Pure statements, quotes, accusations — not visits
-    r"\bsays?\b.{0,60}\b(no problem|begging|rejected?|refuses?|no plans?)\b",
+    # Pure statements or accusations — not visits
     r"\bno plans? (for|to)\b",
     r"\brejects? (deal|proposal|offer|talks)\b",
     r"\bbegging\b",
@@ -256,30 +358,97 @@ _DIPLOMATIC_BLOCK_RE = [re.compile(p, re.IGNORECASE) for p in [
     r"\baccus(?:es?|ed)\b",
     r"\bwarn(?:s|ed)\b.{0,40}\b(war|attack|strike|retaliate)\b",
     r"\bthreaten(?:s|ed)\b",
-    # Opinion / analysis / speculation
+    # Opinion / speculation
     r"\b(could|might|may|would)\b.{0,20}\b(improve|worsen|change|signal|pave the way)\b",
     r"\b(sign of|what it means|analysis|opinion|commentary|column|explainer)\b",
-    # Injury / health / succession reports
-    r"\binjury reports?\b",
-    r"\bafter (reported|alleged) injur\b",
-    r"\bsupreme leader\b.{0,40}\b(injur|health|hospital|succession)\b",
-    # Media/reporter visits (not state visits)
+    # "Offers to host" / "proposes" — not yet a real visit
+    r"\b(offer(?:s|ed)?|propos(?:es?|ed)?|seek(?:s|ing)?|call(?:s|ed)? for)\b.{0,40}"
+    r"\b(host|mediat|facilitat|broker|arrang)\b",
+    # Media visits
     r"\b(journalist|reporter|correspondent|editor|anchor)\b.{0,30}\bvisit",
-    r"\b(bbc|cnn|reuters|ap |nyt|guardian|al jazeera|npr|pbs|dw |france24)\b.{0,30}\bvisit",
     # Legal / criminal
     r"\b(arrested?|indicted?|charged?|sentenced?|extradited?)\b",
+    # Health / succession
+    r"\b(injur|health|hospital|succession)\b.{0,40}\b(supreme leader|president|minister)\b",
+    # Vague summits without named leaders (e.g. "Melania opens summit")
+    r"^melania\b",   # first lady summits are not head-of-state diplomatic visits
 ]]
 
 
 def _is_valid_diplomatic_item(title: str) -> bool:
-    # Hard blocks first — reject immediately if any match
     if any(p.search(title) for p in _DIPLOMATIC_BLOCK_RE):
         return False
-    # Must have at least one strong signal of an actual visit/meeting
     if not any(p.search(title) for p in _DIPLOMATIC_VISIT_STRONG_RE):
         return False
     return True
 
+
+# ---------------------------------------------------------------------------
+# Participant name extraction — improved multi-word name handling
+# ---------------------------------------------------------------------------
+
+# Known multi-word titles to strip before extracting names so they don't
+# get split into separate tokens
+_TITLE_STRIP_RE = re.compile(
+    r"\b(Prime Minister|Foreign Minister|Secretary of State|President|Chancellor|"
+    r"King|Queen|Prince|Princess|Emperor|Pope|Sheikh|Emir|Sultan|General|Admiral|"
+    r"Minister|Senator|Governor|Mayor|Ambassador|Deputy|Vice|Sir|Lord|Dame)\b",
+    re.IGNORECASE,
+)
+
+# Pairs of consecutive capitalized words are treated as a full name
+def _infer_participants(title: str) -> List[str]:
+    """
+    Extract person/country names as full tokens (e.g. 'Joe Biden', 'Saudi Arabia').
+    Returns up to 4 unique names, preferring multi-word proper nouns over singles.
+    """
+    skip_words = {
+        "The", "This", "That", "After", "During", "When", "While", "As", "But",
+        "And", "Or", "For", "With", "From", "Into", "Over", "Under", "About",
+        "Is", "Are", "Was", "Were", "Has", "Have", "Had", "Will", "Would",
+        "Could", "Should", "Foe", "Friend", "New", "Old", "First", "Last",
+        "Top", "Key", "Major", "How", "Why", "What", "Where", "Who", "NATO",
+        "UN", "EU", "US", "UK", "G7", "G20", "IMF", "WTO", "WHO",
+    }
+
+    # Tokenise on whitespace, strip punctuation from edges
+    words = [w.strip(".,;:'\"()[]") for w in title.split()]
+
+    names: List[str] = []
+    i = 0
+    while i < len(words):
+        w = words[i]
+        if not w or not w[0].isupper() or w in skip_words:
+            i += 1
+            continue
+
+        # Try to absorb following capitalised words into a multi-word name
+        # Stop if we hit a short connector word (of, the, and, etc.) or lower-case
+        j = i + 1
+        while j < len(words):
+            nw = words[j].strip(".,;:'\"()[]")
+            # Allow "of" in the middle of a name (e.g. "King of Jordan") only once
+            if nw.lower() in ("of", "the") and j + 1 < len(words) and words[j+1][0].isupper():
+                j += 2
+                continue
+            if nw and nw[0].isupper() and nw not in skip_words:
+                j += 1
+            else:
+                break
+
+        chunk = " ".join(w.strip(".,;:'\"()[]") for w in words[i:j])
+        # Only keep if at least 3 chars and not a plain title word
+        if len(chunk) >= 3 and chunk not in skip_words:
+            if chunk not in names:
+                names.append(chunk)
+        i = j
+
+    return names[:4]
+
+
+# ---------------------------------------------------------------------------
+# Election keywords
+# ---------------------------------------------------------------------------
 
 _ELECTION_KW = [
     "election", "presidential election", "parliamentary election",
@@ -559,36 +728,6 @@ def _extract_date(text: str) -> str:
 # Inference helpers
 # ---------------------------------------------------------------------------
 
-def _infer_org(title: str) -> str:
-    t = title.lower()
-    mapping = {
-        "united nations": "UN", " un ": "UN", "un general": "UN",
-        "un security": "UN", "nato": "NATO", "g7": "G7", "g20": "G20",
-        "asean": "ASEAN", "apec": "APEC", "african union": "AU",
-        "european union": "EU", "eu summit": "EU", "eu council": "EU",
-        "wto": "WTO", "imf": "IMF", "world bank": "World Bank",
-        " who ": "WHO", "world health": "WHO", "opec": "OPEC",
-        "brics": "BRICS", "shanghai cooperation": "SCO", " sco ": "SCO",
-        "arab league": "Arab League", "cop ": "COP", "cop30": "COP30",
-    }
-    for k, v in mapping.items():
-        if k in t:
-            return v
-    return ""
-
-
-def _infer_participants(title: str) -> List[str]:
-    skip = {
-        "The","This","That","After","During","When","While","As","But","And",
-        "Or","For","With","From","Into","Over","Under","About","Is","Are",
-        "Was","Were","Has","Have","Had","Will","Would","Could","Should",
-        "Foe","Friend","New","Old","First","Last","Top","Key","Major",
-    }
-    words = title.split()
-    caps = [w.strip(".,;:'\"()") for w in words if w and w[0].isupper() and len(w) > 2]
-    return [c for c in dict.fromkeys(caps) if c not in skip][:4]
-
-
 def _infer_election_type(title: str) -> str:
     t = title.lower()
     if "presidential" in t: return "Presidential"
@@ -676,23 +815,16 @@ def _infer_region(title: str) -> str:
 # Section: World Org Meetings
 # ---------------------------------------------------------------------------
 
-def _is_valid_org_item(title: str) -> bool:
-    t = title.lower()
-    has_org = any(org in t for org in _WORLD_ORG_NAMES)
-    has_event = any(ev in t for ev in _WORLD_ORG_EVENT_TYPES)
-    return has_org and has_event
-
-
 def fetch_org_meetings() -> List[dict]:
     print("  → Fetching world org meetings...")
 
     rss_items = []
     for src, url in RSS_FEEDS.items():
-        for item in _load_feed(src, url, _WORLD_ORG_NAMES, window_hours=ORG_WINDOW_HOURS):
+        for item in _load_feed(src, url, _WORLD_ORG_FEED_KW, window_hours=ORG_WINDOW_HOURS):
             if _is_valid_org_item(item["title"]) and not _is_us_domestic(item["title"]):
                 rss_items.append(item)
 
-    for article in _newsapi("UN G7 G20 NATO ASEAN WTO WHO summit meeting 2025 2026")[:20]:
+    for article in _newsapi("UN NATO G7 G20 ASEAN WTO WHO IMF World Bank summit meeting 2026")[:20]:
         title = clean_headline((article.get("title") or "").strip())
         if title and _is_valid_org_item(title) and not _is_us_domestic(title):
             rss_items.append({
@@ -755,12 +887,13 @@ def fetch_diplomatic_visits() -> List[dict]:
 
     rss_items = []
     for src, url in RSS_FEEDS.items():
-        # Use the broad feed keyword list for pre-filtering, then gate strictly below
-        for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW):
+        for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW, window_hours=DIPLOMATIC_WINDOW_HOURS):
             if _is_valid_diplomatic_item(item["title"]) and not _is_us_domestic(item["title"]):
                 rss_items.append(item)
 
-    for article in _newsapi("state visit bilateral summit heads of state diplomatic 2025 2026")[:20]:
+    for article in _newsapi(
+        "state visit bilateral summit heads of state diplomatic foreign minister ambassador 2026"
+    )[:20]:
         title = clean_headline((article.get("title") or "").strip())
         if title and _is_valid_diplomatic_item(title) and not _is_us_domestic(title):
             rss_items.append({
