@@ -260,6 +260,10 @@ _DIPLOMATIC_BLOCK_RE = [re.compile(p, re.IGNORECASE) for p in [
     # Opinion / analysis / speculation
     r"\b(could|might|may|would)\b.{0,20}\b(improve|worsen|change|signal|pave the way)\b",
     r"\b(sign of|what it means|analysis|opinion|commentary|column|explainer)\b",
+    # Offers/proposals — not actual visits
+    r"\b(offer(?:s|ed)?|propos(?:es?|ed)?|seek(?:s|ing)?|call(?:s|ed)? for)\b.{0,50}\b(host|mediat|facilitat|broker)\b",
+    # First lady summits — not head-of-state diplomatic visits
+    r"^melania\b",
     # Injury / health / succession reports
     r"\binjury reports?\b",
     r"\bafter (reported|alleged) injur\b",
@@ -572,7 +576,7 @@ def _infer_org(title: str) -> str:
         "brics": "BRICS", "shanghai cooperation": "SCO", " sco ": "SCO",
         "arab league": "Arab League", "cop ": "COP", "cop30": "COP30",
     }
-   for k, v in mapping.items():
+    for k, v in mapping.items():
         if re.search(r'(?<!\w)' + re.escape(k.strip()) + r'(?!\w)', t):
             return v
     return ""
@@ -696,7 +700,7 @@ def _infer_region(title: str) -> str:
 
 def _is_valid_org_item(title: str) -> bool:
     t = title.lower()
-    has_org = any(org in t for org in _WORLD_ORG_NAMES)
+    has_org = bool(_infer_org(title))
     has_event = any(ev in t for ev in _WORLD_ORG_EVENT_TYPES)
     return has_org and has_event
 
@@ -705,10 +709,14 @@ def fetch_org_meetings() -> List[dict]:
     print("  → Fetching world org meetings...")
 
     rss_items = []
-    for src, url in RSS_FEEDS.items():
-        for item in _load_feed(src, url, _WORLD_ORG_NAMES, window_hours=ORG_WINDOW_HOURS):
-            if _is_valid_org_item(item["title"]) and not _is_us_domestic(item["title"]):
-                rss_items.append(item)
+    for window in [ORG_WINDOW_HOURS, 672, 1344]:  # 2 weeks, 4 weeks, 8 weeks
+        if len(rss_items) >= 5:
+            break
+        rss_items = []
+        for src, url in RSS_FEEDS.items():
+            for item in _load_feed(src, url, _WORLD_ORG_NAMES, window_hours=window):
+                if _is_valid_org_item(item["title"]) and not _is_us_domestic(item["title"]):
+                    rss_items.append(item)
 
     for article in _newsapi("UN G7 G20 NATO ASEAN WTO WHO summit meeting 2025 2026")[:20]:
         title = clean_headline((article.get("title") or "").strip())
@@ -772,11 +780,15 @@ def fetch_diplomatic_visits() -> List[dict]:
     print("  → Fetching diplomatic visits...")
 
     rss_items = []
-    for src, url in RSS_FEEDS.items():
-        # Use the broad feed keyword list for pre-filtering, then gate strictly below
-        for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW, window_hours=DIPLOMATIC_WINDOW_HOURS):
-            if _is_valid_diplomatic_item(item["title"]) and not _is_us_domestic(item["title"]):
-                rss_items.append(item)
+    for window in [DIPLOMATIC_WINDOW_HOURS, 672, 1344]:  # 2 weeks, 4 weeks, 8 weeks
+        if len(rss_items) >= 5:
+            break
+        rss_items = []
+        for src, url in RSS_FEEDS.items():
+            # Use the broad feed keyword list for pre-filtering, then gate strictly below
+            for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW, window_hours=window):
+                if _is_valid_diplomatic_item(item["title"]) and not _is_us_domestic(item["title"]):
+                    rss_items.append(item)
 
     for article in _newsapi("state visit bilateral summit heads of state diplomatic 2025 2026")[:20]:
         title = clean_headline((article.get("title") or "").strip())
