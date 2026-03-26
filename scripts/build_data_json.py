@@ -576,7 +576,7 @@ def _infer_org(title: str) -> str:
         "brics": "BRICS", "shanghai cooperation": "SCO", " sco ": "SCO",
         "arab league": "Arab League", "cop ": "COP", "cop30": "COP30",
     }
-    for k, v in mapping.items():
+  for k, v in mapping.items():
         if re.search(r'(?<!\w)' + re.escape(k.strip()) + r'(?!\w)', t):
             return v
     return ""
