@@ -49,7 +49,8 @@ TIMEOUT = 20
 MAX_RETRIES = 2
 RETRY_SLEEP = 1.2
 WINDOW_HOURS = 96
-ORG_WINDOW_HOURS = 168
+ORG_WINDOW_HOURS = 336
+DIPLOMATIC_WINDOW_HOURS = 336
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
 
 # ---------------------------------------------------------------------------
@@ -571,8 +572,8 @@ def _infer_org(title: str) -> str:
         "brics": "BRICS", "shanghai cooperation": "SCO", " sco ": "SCO",
         "arab league": "Arab League", "cop ": "COP", "cop30": "COP30",
     }
-    for k, v in mapping.items():
-        if k in t:
+   for k, v in mapping.items():
+        if re.search(r'(?<!\w)' + re.escape(k.strip()) + r'(?!\w)', t):
             return v
     return ""
 
@@ -584,9 +585,26 @@ def _infer_participants(title: str) -> List[str]:
         "Was","Were","Has","Have","Had","Will","Would","Could","Should",
         "Foe","Friend","New","Old","First","Last","Top","Key","Major",
     }
-    words = title.split()
-    caps = [w.strip(".,;:'\"()") for w in words if w and w[0].isupper() and len(w) > 2]
-    return [c for c in dict.fromkeys(caps) if c not in skip][:4]
+    words = [w.strip(".,;:'\"()") for w in title.split()]
+    names = []
+    i = 0
+    while i < len(words):
+        w = words[i]
+        if not w or not w[0].isupper() or w in skip or len(w) < 3:
+            i += 1
+            continue
+        j = i + 1
+        while j < len(words):
+            nw = words[j].strip(".,;:'\"()")
+            if nw and nw[0].isupper() and nw not in skip:
+                j += 1
+            else:
+                break
+        chunk = " ".join(words[i:j])
+        if chunk not in names:
+            names.append(chunk)
+        i = j
+    return names[:4]
 
 
 def _infer_election_type(title: str) -> str:
@@ -756,7 +774,7 @@ def fetch_diplomatic_visits() -> List[dict]:
     rss_items = []
     for src, url in RSS_FEEDS.items():
         # Use the broad feed keyword list for pre-filtering, then gate strictly below
-        for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW):
+        for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW, window_hours=DIPLOMATIC_WINDOW_HOURS):
             if _is_valid_diplomatic_item(item["title"]) and not _is_us_domestic(item["title"]):
                 rss_items.append(item)
 
