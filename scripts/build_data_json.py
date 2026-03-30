@@ -390,7 +390,7 @@ def _dedup_items(items: List[dict]) -> List[dict]:
 def _get(url: str) -> Optional[str]:
     sess = requests.Session()
     sess.headers.update(HEADERS)
-    for attempt in range(1, MAX_RETRIES + 1):
+    for attempt in range(MAX_RETRIES + 1):
         try:
             r = sess.get(url, timeout=TIMEOUT, allow_redirects=True)
             if r.status_code == 200:
@@ -501,10 +501,14 @@ def _cluster_and_rank(items: List[dict], limit: int) -> List[dict]:
     scored: List[Tuple[float, dict]] = []
     for group in clusters:
         unique_sources = len({g["source"] for g in group})
-        rep = max(group, key=lambda x: (
-            dtparser.parse(x["publishedAt"]).timestamp()
-            if x.get("publishedAt") else 0.0
-        ))
+        def _pub_ts(x: dict) -> float:
+            if not x.get("publishedAt"):
+                return 0.0
+            try:
+                return dtparser.parse(x["publishedAt"]).timestamp()
+            except Exception:
+                return 0.0
+        rep = max(group, key=_pub_ts)
         try:
             ts = dtparser.parse(rep["publishedAt"]).timestamp() if rep.get("publishedAt") else 0.0
         except Exception:
@@ -572,11 +576,11 @@ def _infer_org(title: str) -> str:
         "asean": "ASEAN", "apec": "APEC", "african union": "AU",
         "european union": "EU", "eu summit": "EU", "eu council": "EU",
         "wto": "WTO", "imf": "IMF", "world bank": "World Bank",
-        " who ": "WHO", "world health": "WHO", "opec": "OPEC",
+        "world health": "WHO", "opec": "OPEC",
         "brics": "BRICS", "shanghai cooperation": "SCO", " sco ": "SCO",
         "arab league": "Arab League", "cop ": "COP", "cop30": "COP30",
     }
-  for k, v in mapping.items():
+    for k, v in mapping.items():
         if re.search(r'(?<!\w)' + re.escape(k.strip()) + r'(?!\w)', t):
             return v
     return ""
@@ -710,13 +714,15 @@ def fetch_org_meetings() -> List[dict]:
 
     rss_items = []
     for window in [ORG_WINDOW_HOURS, 672, 1344]:  # 2 weeks, 4 weeks, 8 weeks
-        if len(rss_items) >= 5:
-            break
-        rss_items = []
+        window_items = []
         for src, url in RSS_FEEDS.items():
             for item in _load_feed(src, url, _WORLD_ORG_NAMES, window_hours=window):
                 if _is_valid_org_item(item["title"]) and not _is_us_domestic(item["title"]):
-                    rss_items.append(item)
+                    window_items.append(item)
+        if len(window_items) > len(rss_items):
+            rss_items = window_items
+        if len(rss_items) >= 5:
+            break
 
     for article in _newsapi("UN G7 G20 NATO ASEAN WTO WHO summit meeting 2025 2026")[:20]:
         title = clean_headline((article.get("title") or "").strip())
@@ -781,14 +787,16 @@ def fetch_diplomatic_visits() -> List[dict]:
 
     rss_items = []
     for window in [DIPLOMATIC_WINDOW_HOURS, 672, 1344]:  # 2 weeks, 4 weeks, 8 weeks
-        if len(rss_items) >= 5:
-            break
-        rss_items = []
+        window_items = []
         for src, url in RSS_FEEDS.items():
             # Use the broad feed keyword list for pre-filtering, then gate strictly below
             for item in _load_feed(src, url, _DIPLOMATIC_FEED_KW, window_hours=window):
                 if _is_valid_diplomatic_item(item["title"]) and not _is_us_domestic(item["title"]):
-                    rss_items.append(item)
+                    window_items.append(item)
+        if len(window_items) > len(rss_items):
+            rss_items = window_items
+        if len(rss_items) >= 5:
+            break
 
     for article in _newsapi("state visit bilateral summit heads of state diplomatic 2025 2026")[:20]:
         title = clean_headline((article.get("title") or "").strip())
@@ -953,7 +961,9 @@ def fetch_global_events() -> List[dict]:
         src_name = (article.get("source") or {}).get("name", "NewsAPI")
         pub_str = article.get("publishedAt", "")
         try:
-            dt = dtparser.parse(pub_str).replace(tzinfo=timezone.utc) if pub_str else None
+            dt = dtparser.parse(pub_str) if pub_str else None
+            if dt is not None:
+                dt = dt.astimezone(timezone.utc) if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
         except Exception:
             dt = None
         all_items.append({
