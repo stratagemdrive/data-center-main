@@ -1,174 +1,173 @@
 {
-  "last_updated": "2026-03-25T15:49:28.974709Z",
+  "last_updated": "2026-03-31T05:55:57.415358Z",
   "world_org_meetings": [
     {
-      "title": "Putin ally receives white horse welcome in North Korea for Kim Jong Un talks",
-      "organization": "UN",
+      "title": "US trade chief lambasts WTO after failed talks",
+      "organization": "WTO",
       "date": "",
       "location": "",
-      "description": "Putin ally receives white horse welcome in North Korea for Kim Jong Un talks",
-      "source_url": "https://www.independent.co.uk/news/world/europe/north-korea-kim-jong-un-lukashenko-putin-b2945280.html"
+      "description": "US trade chief lambasts WTO after failed talks",
+      "source_url": "https://www.dw.com/en/us-trade-chief-lambasts-wto-after-failed-talks/a-76600658?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "The Iranian former commander who could be Trump's pick to negotiate with",
-      "organization": "WHO",
+      "title": "Scoop: Rubio and EU official had heated exchange on Russia at G7 meeting",
+      "organization": "G7",
       "date": "",
       "location": "",
-      "description": "The Iranian former commander who could be Trump's pick to negotiate with",
-      "source_url": "https://news.sky.com/story/the-iranian-former-commander-who-could-be-trumps-pick-to-negotiate-with-13524167"
-    },
-    {
-      "title": "EU blocks US vote to define gender as biological men and women at UN women’s forum",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "EU blocks US vote to define gender as biological men and women at UN women’s forum",
-      "source_url": "https://www.foxnews.com/world/eu-blocks-us-vote-define-gender-biological-men-women-un-womens-forum"
+      "description": "Scoop: Rubio and EU official had heated exchange on Russia at G7 meeting",
+      "source_url": "https://www.axios.com/2026/03/28/rubio-kallas-ukraine-russia-argument-g7"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Pakistan Offers to Host Talks Between Iran and the United States",
+      "title": "Pakistan will be honoured to facilitate talks between U.S. and Iran: Foreign Minister Ishaq Dar",
       "participants": [
         "Pakistan",
-        "Offers",
-        "Host",
-        "Talks"
+        "U.S",
+        "Iran Foreign Minister Ishaq Dar"
       ],
       "date": "",
       "location": "",
-      "description": "Pakistan Offers to Host Talks Between Iran and the United States",
-      "source_url": "https://www.nytimes.com/2026/03/24/world/middleeast/pakistan-iran-us-mediation.html"
-    },
-    {
-      "title": "Melania Trump opens two-day summit with emotional plea to world counterparts",
-      "participants": [
-        "Melania",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Melania Trump opens two-day summit with emotional plea to world counterparts",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/melania-trump-fostering-the-future-summit-first-lady-b2944806.html"
+      "description": "Pakistan will be honoured to facilitate talks between U.S. and Iran: Foreign Minister Ishaq Dar",
+      "source_url": "https://www.thehindu.com/news/international/pakistan-will-be-honoured-to-facilitate-talks-between-us-and-iran-foreign-minister-ishaq-dar/article70800572.ece"
     }
   ],
   "elections": [
     {
-      "title": "Danish prime minister’s future in question following inconclusive election result",
+      "title": "Tuesday briefing: How to make sense of England’s local elections campaigns",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Tuesday briefing: How to make sense of England’s local elections campaigns",
+      "source_url": "https://www.theguardian.com/world/2026/mar/31/tuesday-briefing-first-edition-local-elections-campaigns-may"
+    },
+    {
+      "title": "Tamil Nadu: TVK chief Vijay booked for violating election rules day after entering polls",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Danish prime minister’s future in question following inconclusive election result",
-      "source_url": "https://www.independent.co.uk/news/world/europe/denmark-election-mette-frederiksen-trump-greenland-b2945175.html"
+      "description": "Tamil Nadu: TVK chief Vijay booked for violating election rules day after entering polls",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-tvk-chief-vijay-booked-for-violating-election-rules-day-after-entering-polls/articleshow/129915104.cms"
     },
     {
-      "title": "Danish PM Frederiksen resigns and coalition talks begin following close election – Europe live",
+      "title": "Central African Republic's president sworn in for a third term after disputed election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Danish PM Frederiksen resigns and coalition talks begin following close election – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates"
+      "description": "Central African Republic's president sworn in for a third term after disputed election",
+      "source_url": "https://abcnews.com/International/wireStory/central-african-republics-president-sworn-term-after-disputed-131548092"
     },
     {
-      "title": "Danish election signals shift toward Dutch and Belgian-style of coalition building",
+      "title": "Israeli Parliament passes budget, allowing Netanyahu to avoid early elections",
       "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Israeli Parliament passes budget, allowing Netanyahu to avoid early elections",
+      "source_url": "https://www.thehindu.com/news/international/israeli-parliament-passes-budget-allowing-netanyahu-to-avoid-early-elections/article70802225.ece"
+    },
+    {
+      "title": "A youth-led push for change threatens Orbán’s 16-year rule in Hungary's elections",
+      "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Danish election signals shift toward Dutch and Belgian-style of coalition building",
-      "source_url": "https://www.france24.com/en/danish-election-signals-shift-toward-dutch-and-belgian-style-of-coalition-building"
-    },
-    {
-      "title": "EC hikes remuneration for poll officials ahead of assembly elections in 5 states",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "EC hikes remuneration for poll officials ahead of assembly elections in 5 states",
-      "source_url": "https://timesofindia.indiatimes.com/india/ec-hikes-remuneration-for-poll-officials-ahead-of-assembly-elections-in-5-states/articleshow/129803781.cms"
-    },
-    {
-      "title": "Danish PM hands in government resignation after defeat in general election",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Danish PM hands in government resignation after defeat in general election",
-      "source_url": "https://www.france24.com/en/danish-pm-hands-in-government-resignation-after-defeat-in-general-election"
+      "description": "A youth-led push for change threatens Orbán’s 16-year rule in Hungary's elections",
+      "source_url": "https://abcnews.com/International/wireStory/youth-led-push-change-threatens-orbns-16-year-131532220"
     }
   ],
   "global_events": [
     {
-      "title": "Trump says Iran gave U.S. \"a very big present\" related to oil and gas",
-      "summary": "Trump says Iran gave U.S. \"a very big present\" related to oil and gas",
+      "title": "U.S. allows Russian oil tanker to reach Cuba, breaking Trump’s effective blockade",
+      "summary": "U.S. allows Russian oil tanker to reach Cuba, breaking Trump’s effective blockade",
       "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/trump-says-iran-gave-us-a-very-big-present-related-to-oil-and-gas"
-    },
-    {
-      "title": "Russia fires 400 drones at Ukraine, signaling its spring offensive has started",
-      "summary": "Russia fires 400 drones at Ukraine, signaling its spring offensive has started",
-      "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
         "ABC News Intl",
+        "CBS News World",
         "Fox News World",
+        "NYT World",
+        "Wash Post World",
+        "The Independent",
+        "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 15,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/russia-fires-400-drones-at-ukraine-signaling-its-spring-offensive-has-started"
+      "source_url": "https://www.washingtonpost.com/world/2026/03/29/russian-tanker-cuba-anatoly-kolodkin"
     },
     {
-      "title": "U.S. and Iran Are Talking About Ways to End Their War: What to Know",
-      "summary": "U.S. and Iran Are Talking About Ways to End Their War: What to Know",
+      "title": "Spain closes airspace to US warplanes involved in war on Iran",
+      "summary": "Spain closes airspace to US warplanes involved in war on Iran",
       "outlets_covering": [
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "Foreign Policy",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html"
-    },
-    {
-      "title": "Danish prime minister’s future in question following inconclusive election result",
-      "summary": "Danish prime minister’s future in question following inconclusive election result",
-      "outlets_covering": [
+        "BBC World",
         "PBS NewsHour",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/denmark-election-mette-frederiksen-trump-greenland-b2945175.html"
-    },
-    {
-      "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
-      "summary": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
-      "outlets_covering": [
-        "NYT World",
+        "ABC News Intl",
+        "The Guardian World",
         "The Independent",
         "Al Jazeera",
-        "DW World",
+        "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 5,
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss"
+    },
+    {
+      "title": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
+      "summary": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "DW World",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 14,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/03/31/world/crime-legal/israel-death-penalty-palestinians"
+    },
+    {
+      "title": "Trump threatens to destroy Iran’s Kharg Island oil hub if no deal reached",
+      "summary": "Trump threatens to destroy Iran’s Kharg Island oil hub if no deal reached",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"
+      "source_url": "https://www.france24.com/en/middle-east/20260330-trump-threatens-to-obliterate-iran-kharg-island-oil-hub-if-no-deal-reached-usa-strait-of-hormuz"
+    },
+    {
+      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "summary": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "UN News"
+      ],
+      "coverage_count": 7,
+      "region": "East / Southeast Asia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
