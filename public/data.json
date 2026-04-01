@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-04-01T06:12:07.344361Z",
+  "last_updated": "2026-04-01T15:58:00.217020Z",
   "world_org_meetings": [
+    {
+      "title": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
+      "source_url": "https://www.scmp.com/news/china/article/3348587/trump-xi-summit-hopes-un-manipulation-stand-comedy-7-us-china-relations-reads"
+    },
+    {
+      "title": "Putin likely to participate in September BRICS summit in Delhi: Russia‚Äôs Deputy Foreign Minister",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Putin likely to participate in September BRICS summit in Delhi: Russia‚Äôs Deputy Foreign Minister",
+      "source_url": "https://www.thehindu.com/news/international/putin-likely-to-participate-in-september-brics-summit-in-delhi-russias-deputy-foreign-minister/article70811100.ece"
+    },
     {
       "title": "UN Security Council meets for emergency session on peacekeepers killed in Lebanon",
       "organization": "UN",
@@ -18,14 +34,6 @@
       "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167232"
     },
     {
-      "title": "US trade chief lambasts WTO after failed talks",
-      "organization": "WTO",
-      "date": "",
-      "location": "",
-      "description": "US trade chief lambasts WTO after failed talks",
-      "source_url": "https://www.dw.com/en/us-trade-chief-lambasts-wto-after-failed-talks/a-76600658?maca=en-rss-en-world-4025-rdf"
-    },
-    {
       "title": "Scoop: Rubio and EU official had heated exchange on Russia at G7 meeting",
       "organization": "G7",
       "date": "",
@@ -36,16 +44,39 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King's state visit to US to go ahead in April, but no Harry meeting",
+      "title": "French President Macron visits Japan to discuss the energy crisis",
       "participants": [
-        "King's",
-        "April",
-        "Harry"
+        "French President Macron",
+        "Japan"
       ],
       "date": "",
       "location": "",
-      "description": "King's state visit to US to go ahead in April, but no Harry meeting",
-      "source_url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss"
+      "description": "French President Macron visits Japan to discuss the energy crisis",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss"
+    },
+    {
+      "title": "King Charles set for state visit to U.S. in late April",
+      "participants": [
+        "King Charles",
+        "U.S",
+        "April"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King Charles set for state visit to U.S. in late April",
+      "source_url": "https://www.cbsnews.com/news/king-charles-us-state-visit-trump-in-april"
+    },
+    {
+      "title": "Voices: ‘An absolutely impossible situation’: Readers clash over King Charles’ US state visit",
+      "participants": [
+        "Voices",
+        "Readers",
+        "King Charles’ US"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Voices: ‘An absolutely impossible situation’: Readers clash over King Charles’ US state visit",
+      "source_url": "https://www.independent.co.uk/life-style/royal-family/news/king-charles-us-state-visit-trump-b2949874.html"
     },
     {
       "title": "King Charles to make a U.S. state visit despite calls to cancel over the Iran war",
@@ -62,6 +93,14 @@
   ],
   "elections": [
     {
+      "title": "The far-right Hungarian party that could make or break Victor Orban’s re-election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "The far-right Hungarian party that could make or break Victor Orban’s re-election",
+      "source_url": "https://www.independent.co.uk/news/world/europe/hungary-election-orban-mi-hazank-b2950133.html"
+    },
+    {
       "title": "USCIS completes H-1B cap selection process for FY 2027",
       "country": "",
       "election_type": "National",
@@ -70,20 +109,12 @@
       "source_url": "https://www.thehindu.com/news/international/uscis-completes-h-1b-visa-cap-selection-process-for-fy-2027/article70809976.ece"
     },
     {
-      "title": "Assam assembly elections: Re-contesting MLAs get 80% richer in 5 years; which party saw the biggest jump?",
+      "title": "Serbian local elections: Is Vucic's party losing its grip?",
       "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Assam assembly elections: Re-contesting MLAs get 80% richer in 5 years; which party saw the biggest jump?",
-      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-re-contesting-mlas-get-80-richer-in-5-years-which-party-saw-the-biggest-jump/articleshow/129940717.cms"
-    },
-    {
-      "title": "Local elections in Serbia: Is Vucic's party losing its grip?",
-      "country": "Serbia",
       "election_type": "Local",
       "date": "",
-      "description": "Local elections in Serbia: Is Vucic's party losing its grip?",
-      "source_url": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-world-4025-rdf"
+      "description": "Serbian local elections: Is Vucic's party losing its grip?",
+      "source_url": "https://www.dw.com/en/serbian-local-elections-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "EU voices concern over reports of violence during Serbia elections, urges action",
@@ -96,100 +127,87 @@
   ],
   "global_events": [
     {
-      "title": "Iran-US war latest: Trump says conflict will end in ‘two to three weeks’ as drone sparks fire at Kuwait airport",
-      "summary": "Iran-US war latest: Trump says conflict will end in ‘two to three weeks’ as drone sparks fire at Kuwait airport",
+      "title": "Russian military plane crashes in Crimea, killing 29 people",
+      "summary": "Russian military plane crashes in Crimea, killing 29 people",
       "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "The Independent",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/russia-military-plane-crash-crimea-29-killed"
+    },
+    {
+      "title": "Middle East crisis live: Iran says Trump’s claim of ceasefire request ‘baseless’",
+      "summary": "Middle East crisis live: Iran says Trump’s claim of ceasefire request ‘baseless’",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "The Guardian World",
+        "Al Jazeera",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship"
+    },
+    {
+      "title": "Oil price falls and markets rally after Trump says Iran war over in ‘two to three weeks’",
+      "summary": "Oil price falls and markets rally after Trump says Iran war over in ‘two to three weeks’",
+      "outlets_covering": [
+        "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
         "Bloomberg",
         "The Independent",
-        "Al Jazeera",
-        "France24",
         "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-oil-israel-strait-of-hormuz-b2949695.html"
-    },
-    {
-      "title": "Russian oil tanker docks in Cuba despite US blockade",
-      "summary": "Russian oil tanker docks in Cuba despite US blockade",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "Al Jazeera",
-        "DW World",
-        "SCMP",
+        "Foreign Policy",
         "The Hill"
       ],
       "coverage_count": 10,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/5808714-russian-oil-tanker-cuba"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east"
     },
     {
-      "title": "Global protests condemning Israel’s new death penalty law for Palestinians",
-      "summary": "Global protests condemning Israel’s new death penalty law for Palestinians",
+      "title": "Trump threatens to walk away from Iran war and pull U.S. out of NATO",
+      "summary": "Trump threatens to walk away from Iran war and pull U.S. out of NATO",
       "outlets_covering": [
         "PBS NewsHour",
-        "Sky News World",
-        "Wash Post World",
+        "CBS News World",
+        "Time",
         "The Independent",
         "Al Jazeera",
-        "DW World",
-        "Japan Times",
-        "The Hindu Intl"
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
       ],
       "coverage_count": 9,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss"
-    },
-    {
-      "title": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
-      "summary": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 17,
-      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-nato-tehran-threatens-us-tech-companies-strait-of-hormuz"
     },
     {
-      "title": "Pope Leo urges Trump to end war on Iran",
-      "summary": "Pope Leo urges Trump to end war on Iran",
+      "title": "Trump becomes first sitting president to attend supreme court as justices hear arguments on birthright citizenship - live",
+      "summary": "Trump becomes first sitting president to attend supreme court as justices hear arguments on birthright citizenship - live",
       "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Bloomberg",
+        "The Guardian World",
         "The Independent",
-        "Al Jazeera",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 23,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss"
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates"
     }
   ]
 }
