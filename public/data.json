@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-03-31T15:52:52.354476Z",
+  "last_updated": "2026-04-01T06:12:07.344361Z",
   "world_org_meetings": [
     {
-      "title": "WATCH LIVE: UN Security Council meets for emergency session on peacekeepers killed in Lebanon",
+      "title": "UN Security Council meets for emergency session on peacekeepers killed in Lebanon",
       "organization": "UN",
       "date": "",
       "location": "",
-      "description": "WATCH LIVE: UN Security Council meets for emergency session on peacekeepers killed in Lebanon",
+      "description": "UN Security Council meets for emergency session on peacekeepers killed in Lebanon",
       "source_url": "https://www.pbs.org/newshour/world/watch-live-un-security-council-meets-for-emergency-session-on-peacekeepers-killed-in-lebanon"
+    },
+    {
+      "title": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167232"
     },
     {
       "title": "US trade chief lambasts WTO after failed talks",
@@ -28,43 +36,47 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King’s state visit to US will take place in April despite calls to delay amid Iran war – UK politics live",
+      "title": "King's state visit to US to go ahead in April, but no Harry meeting",
       "participants": [
-        "King’s",
+        "King's",
         "April",
-        "Iran"
+        "Harry"
       ],
       "date": "",
       "location": "",
-      "description": "King’s state visit to US will take place in April despite calls to delay amid Iran war – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates"
-    },
-    {
-      "title": "King Charles and Queen Camilla's state visit to US to go ahead in April",
-      "participants": [
-        "King Charles",
-        "Queen Camilla's",
-        "April"
-      ],
-      "date": "",
-      "location": "",
-      "description": "King Charles and Queen Camilla's state visit to US to go ahead in April",
+      "description": "King's state visit to US to go ahead in April, but no Harry meeting",
       "source_url": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Former national security adviser discusses the ongoing talks between the U.S. and Iran",
+      "title": "King Charles to make a U.S. state visit despite calls to cancel over the Iran war",
       "participants": [
-        "Former",
+        "King Charles",
         "U.S",
         "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "Former national security adviser discusses the ongoing talks between the U.S. and Iran",
-      "source_url": "https://www.npr.org/2026/03/30/nx-s1-5763780/former-national-security-advisor-discusses-the-ongoing-talks-between-the-us-and-iran"
+      "description": "King Charles to make a U.S. state visit despite calls to cancel over the Iran war",
+      "source_url": "https://www.pbs.org/newshour/world/king-charles-to-make-a-u-s-state-visit-despite-calls-to-cancel-over-the-iran-war"
     }
   ],
   "elections": [
+    {
+      "title": "USCIS completes H-1B cap selection process for FY 2027",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "USCIS completes H-1B cap selection process for FY 2027",
+      "source_url": "https://www.thehindu.com/news/international/uscis-completes-h-1b-visa-cap-selection-process-for-fy-2027/article70809976.ece"
+    },
+    {
+      "title": "Assam assembly elections: Re-contesting MLAs get 80% richer in 5 years; which party saw the biggest jump?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Assam assembly elections: Re-contesting MLAs get 80% richer in 5 years; which party saw the biggest jump?",
+      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-re-contesting-mlas-get-80-richer-in-5-years-which-party-saw-the-biggest-jump/articleshow/129940717.cms"
+    },
     {
       "title": "Local elections in Serbia: Is Vucic's party losing its grip?",
       "country": "Serbia",
@@ -80,123 +92,104 @@
       "date": "",
       "description": "EU voices concern over reports of violence during Serbia elections, urges action",
       "source_url": "https://abcnews.com/International/wireStory/eu-voices-concern-reports-violence-serbia-elections-urges-131573623"
-    },
-    {
-      "title": "Tamil Nadu elections: Cases filed against Vijay, party workers over campaign violations",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Tamil Nadu elections: Cases filed against Vijay, party workers over campaign violations",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-2026-cases-filed-against-vijay-party-workers-over-campaign-violations/articleshow/129924959.cms"
-    },
-    {
-      "title": "Kerala elections: BJP releases manifesto with Rs 3,000 pension, AIIMS and big Sabarimala promise",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Kerala elections: BJP releases manifesto with Rs 3,000 pension, AIIMS and big Sabarimala promise",
-      "source_url": "https://timesofindia.indiatimes.com/india/kerala-elections-bjp-releases-manifesto-with-rs-3000-pension-aiims-and-big-sabarimala-promise/articleshow/129922591.cms"
-    },
-    {
-      "title": "Central African Republic's president sworn in for a third term after disputed election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Central African Republic's president sworn in for a third term after disputed election",
-      "source_url": "https://abcnews.com/International/wireStory/central-african-republics-president-sworn-term-after-disputed-131548092"
     }
   ],
   "global_events": [
+    {
+      "title": "Iran-US war latest: Trump says conflict will end in ‘two to three weeks’ as drone sparks fire at Kuwait airport",
+      "summary": "Iran-US war latest: Trump says conflict will end in ‘two to three weeks’ as drone sparks fire at Kuwait airport",
+      "outlets_covering": [
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-oil-israel-strait-of-hormuz-b2949695.html"
+    },
     {
       "title": "Russian oil tanker docks in Cuba despite US blockade",
       "summary": "Russian oil tanker docks in Cuba despite US blockade",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "CBS News World",
         "Fox News World",
         "NYT World",
         "Wash Post World",
-        "Bloomberg",
-        "The Hindu Intl",
-        "SCMP"
+        "Al Jazeera",
+        "DW World",
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 14,
+      "coverage_count": 10,
       "region": "Europe / Russia",
       "category": "Politics",
       "source_url": "https://thehill.com/policy/international/5808714-russian-oil-tanker-cuba"
     },
     {
-      "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
-      "summary": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
+      "title": "Global protests condemning Israel’s new death penalty law for Palestinians",
+      "summary": "Global protests condemning Israel’s new death penalty law for Palestinians",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "Sky News World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss"
+    },
+    {
+      "title": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
+      "summary": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss"
+    },
+    {
+      "title": "Pope Leo urges Trump to end war on Iran",
+      "summary": "Pope Leo urges Trump to end war on Iran",
       "outlets_covering": [
         "BBC World",
-        "PBS NewsHour",
-        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
         "NYT World",
-        "The Guardian World",
+        "Bloomberg",
         "The Independent",
         "Al Jazeera",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 23,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "What’s Israel’s death penalty law that only applies to Palestinians?",
-      "summary": "What’s Israel’s death penalty law that only applies to Palestinians?",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/3/31/whats-israels-death-penalty-law-that-only-applies-to-palestinians?traffic_source=rss"
-    },
-    {
-      "title": "News Wrap: Russian oil tanker arrives in Cuba",
-      "summary": "News Wrap: Russian oil tanker arrives in Cuba",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/show/news-wrap-russian-oil-tanker-arrives-in-cuba"
-    },
-    {
-      "title": "Next days in Iran war will be ‘decisive’, claims Pentagon chief Hegseth",
-      "summary": "Next days in Iran war will be ‘decisive’, claims Pentagon chief Hegseth",
-      "outlets_covering": [
-        "CBS News World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/next-days-in-iran-war-will-be-decisive-claims-pentagon-chief-hegseth/article70808166.ece"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss"
     }
   ]
 }
