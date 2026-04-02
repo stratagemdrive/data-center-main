@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T05:49:57.017897Z",
+  "last_updated": "2026-04-02T15:37:47.532827Z",
   "world_org_meetings": [
     {
       "title": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
@@ -46,36 +46,24 @@
       "location": "",
       "description": "King Charles set for state visit to U.S. in late April",
       "source_url": "https://www.cbsnews.com/news/king-charles-us-state-visit-trump-in-april"
-    },
-    {
-      "title": "Voices: ‘An absolutely impossible situation’: Readers clash over King Charles’ US state visit",
-      "participants": [
-        "Voices",
-        "Readers",
-        "King Charles’ US"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Voices: ‘An absolutely impossible situation’: Readers clash over King Charles’ US state visit",
-      "source_url": "https://www.independent.co.uk/life-style/royal-family/news/king-charles-us-state-visit-trump-b2949874.html"
     }
   ],
   "elections": [
     {
-      "title": "Your Party to focus local election efforts on backing independent candidates",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Your Party to focus local election efforts on backing independent candidates",
-      "source_url": "https://www.theguardian.com/politics/2026/apr/02/your-party-to-focus-local-election-efforts-on-backing-independent-candidates"
-    },
-    {
-      "title": "The far-right Hungarian party that could make or break Victor Orban’s re-election",
+      "title": "Puducherry assembly elections: A Johnkumar and V Vaithilingam among dynasty candidates in fray",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "The far-right Hungarian party that could make or break Victor Orban’s re-election",
-      "source_url": "https://www.independent.co.uk/news/world/europe/hungary-election-orban-mi-hazank-b2950133.html"
+      "description": "Puducherry assembly elections: A Johnkumar and V Vaithilingam among dynasty candidates in fray",
+      "source_url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-elections-a-johnkumar-and-v-vaithilingam-among-dynasty-candidates-in-fray/articleshow/129973321.cms"
+    },
+    {
+      "title": "Hungary's government accused of spying on opposition as key election nears",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary's government accused of spying on opposition as key election nears",
+      "source_url": "https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "USCIS completes H-1B cap selection process for FY 2027",
@@ -84,98 +72,96 @@
       "date": "",
       "description": "USCIS completes H-1B cap selection process for FY 2027",
       "source_url": "https://www.thehindu.com/news/international/uscis-completes-h-1b-visa-cap-selection-process-for-fy-2027/article70809976.ece"
-    },
-    {
-      "title": "Serbian local elections: Is Vucic's party losing its grip?",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Serbian local elections: Is Vucic's party losing its grip?",
-      "source_url": "https://www.dw.com/en/serbian-local-elections-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
+      "title": "Trump administration lifts sanctions on acting Venezuela president",
+      "summary": "Trump administration lifts sanctions on acting Venezuela president",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "DW World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Latin America",
+      "category": "Economy",
+      "source_url": "https://thehill.com/policy/international/5812863-rodriguez-sanctions-trump-venezuela"
+    },
+    {
       "title": "Russian military plane crashes in Crimea, killing 29 people",
       "summary": "Russian military plane crashes in Crimea, killing 29 people",
       "outlets_covering": [
-        "ABC News Intl",
         "CBS News World",
         "Fox News World",
         "NYT World",
-        "The Independent",
         "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 5,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/news/russia-military-plane-crash-crimea-29-killed"
     },
     {
-      "title": "U.S. lifts sanctions on Venezuela’s acting President Delcy Rodríguez",
-      "summary": "U.S. lifts sanctions on Venezuela’s acting President Delcy Rodríguez",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Al Jazeera",
-        "DW World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "Latin America",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-venezuelas-acting-president-delcy-rodriguez/article70814090.ece"
-    },
-    {
-      "title": "Iran-Israel war updates: Trump claims Iran President has asked for a ceasefire; Tehran calls it 'false, baseless'",
-      "summary": "Iran-Israel war updates: Trump claims Iran President has asked for a ceasefire; Tehran calls it 'false, baseless'",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-israel-iran-war-updates-live-april-1-2026/article70809746.ece"
-    },
-    {
-      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
-      "summary": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+      "title": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
+      "summary": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
       "outlets_covering": [
         "BBC World",
+        "CBC World",
         "CBS News World",
         "The Guardian World",
-        "DW World",
-        "Japan Times"
+        "The Hindu Intl"
       ],
       "coverage_count": 5,
       "region": "East / Southeast Asia",
       "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert"
+      "source_url": "https://www.cbc.ca/news/world/earthquake-indonesia-9.7151044?cmp=rss"
     },
     {
-      "title": "Trump threatens to bring Iran ‘back to the Stone Ages’",
-      "summary": "Trump threatens to bring Iran ‘back to the Stone Ages’",
+      "title": "Trump Promises Iran War Is ‘Nearing Completion’",
+      "summary": "Trump Promises Iran War Is ‘Nearing Completion’",
       "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
+        "The Guardian World",
+        "Wash Post World",
         "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "The Hill",
-        "Axios"
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 11,
+      "coverage_count": 38,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss"
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/04/02/trump-speech-white-house-iran-war-update-end"
+    },
+    {
+      "title": "4 takeaways from Trump's address on the Iran war",
+      "summary": "4 takeaways from Trump's address on the Iran war",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg"
+      ],
+      "coverage_count": 61,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/politics/4-takeaways-from-trumps-address-on-the-iran-war"
     }
   ]
 }
