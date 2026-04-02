@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T15:58:00.217020Z",
+  "last_updated": "2026-04-02T05:49:57.017897Z",
   "world_org_meetings": [
     {
       "title": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
@@ -10,20 +10,12 @@
       "source_url": "https://www.scmp.com/news/china/article/3348587/trump-xi-summit-hopes-un-manipulation-stand-comedy-7-us-china-relations-reads"
     },
     {
-      "title": "Putin likely to participate in September BRICS summit in Delhi: Russia‚Äôs Deputy Foreign Minister",
+      "title": "Putin likely to participate in September BRICS summit in Delhi: Russia’s Deputy Foreign Minister",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Putin likely to participate in September BRICS summit in Delhi: Russia‚Äôs Deputy Foreign Minister",
+      "description": "Putin likely to participate in September BRICS summit in Delhi: Russia’s Deputy Foreign Minister",
       "source_url": "https://www.thehindu.com/news/international/putin-likely-to-participate-in-september-brics-summit-in-delhi-russias-deputy-foreign-minister/article70811100.ece"
-    },
-    {
-      "title": "UN Security Council meets for emergency session on peacekeepers killed in Lebanon",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "UN Security Council meets for emergency session on peacekeepers killed in Lebanon",
-      "source_url": "https://www.pbs.org/newshour/world/watch-live-un-security-council-meets-for-emergency-session-on-peacekeepers-killed-in-lebanon"
     },
     {
       "title": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
@@ -43,17 +35,6 @@
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "French President Macron visits Japan to discuss the energy crisis",
-      "participants": [
-        "French President Macron",
-        "Japan"
-      ],
-      "date": "",
-      "location": "",
-      "description": "French President Macron visits Japan to discuss the energy crisis",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss"
-    },
     {
       "title": "King Charles set for state visit to U.S. in late April",
       "participants": [
@@ -77,21 +58,17 @@
       "location": "",
       "description": "Voices: ‘An absolutely impossible situation’: Readers clash over King Charles’ US state visit",
       "source_url": "https://www.independent.co.uk/life-style/royal-family/news/king-charles-us-state-visit-trump-b2949874.html"
-    },
-    {
-      "title": "King Charles to make a U.S. state visit despite calls to cancel over the Iran war",
-      "participants": [
-        "King Charles",
-        "U.S",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "King Charles to make a U.S. state visit despite calls to cancel over the Iran war",
-      "source_url": "https://www.pbs.org/newshour/world/king-charles-to-make-a-u-s-state-visit-despite-calls-to-cancel-over-the-iran-war"
     }
   ],
   "elections": [
+    {
+      "title": "Your Party to focus local election efforts on backing independent candidates",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Your Party to focus local election efforts on backing independent candidates",
+      "source_url": "https://www.theguardian.com/politics/2026/apr/02/your-party-to-focus-local-election-efforts-on-backing-independent-candidates"
+    },
     {
       "title": "The far-right Hungarian party that could make or break Victor Orban’s re-election",
       "country": "",
@@ -115,14 +92,6 @@
       "date": "",
       "description": "Serbian local elections: Is Vucic's party losing its grip?",
       "source_url": "https://www.dw.com/en/serbian-local-elections-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "EU voices concern over reports of violence during Serbia elections, urges action",
-      "country": "Serbia",
-      "election_type": "National",
-      "date": "",
-      "description": "EU voices concern over reports of violence during Serbia elections, urges action",
-      "source_url": "https://abcnews.com/International/wireStory/eu-voices-concern-reports-violence-serbia-elections-urges-131573623"
     }
   ],
   "global_events": [
@@ -130,7 +99,7 @@
       "title": "Russian military plane crashes in Crimea, killing 29 people",
       "summary": "Russian military plane crashes in Crimea, killing 29 people",
       "outlets_covering": [
-        "BBC World",
+        "ABC News Intl",
         "CBS News World",
         "Fox News World",
         "NYT World",
@@ -144,70 +113,69 @@
       "source_url": "https://www.cbsnews.com/news/russia-military-plane-crash-crimea-29-killed"
     },
     {
-      "title": "Middle East crisis live: Iran says Trump’s claim of ceasefire request ‘baseless’",
-      "summary": "Middle East crisis live: Iran says Trump’s claim of ceasefire request ‘baseless’",
+      "title": "U.S. lifts sanctions on Venezuela’s acting President Delcy Rodríguez",
+      "summary": "U.S. lifts sanctions on Venezuela’s acting President Delcy Rodríguez",
       "outlets_covering": [
         "PBS NewsHour",
-        "CBC World",
-        "The Guardian World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
         "Al Jazeera",
-        "Foreign Policy",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Latin America",
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-venezuelas-acting-president-delcy-rodriguez/article70814090.ece"
+    },
+    {
+      "title": "Iran-Israel war updates: Trump claims Iran President has asked for a ceasefire; Tehran calls it 'false, baseless'",
+      "summary": "Iran-Israel war updates: Trump claims Iran President has asked for a ceasefire; Tehran calls it 'false, baseless'",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "France24",
+        "The Hindu Intl",
         "The Hill"
       ],
       "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship"
+      "source_url": "https://www.thehindu.com/news/international/us-israel-iran-war-updates-live-april-1-2026/article70809746.ece"
     },
     {
-      "title": "Oil price falls and markets rally after Trump says Iran war over in ‘two to three weeks’",
-      "summary": "Oil price falls and markets rally after Trump says Iran war over in ‘two to three weeks’",
+      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+      "summary": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "The Guardian World",
+        "DW World",
+        "Japan Times"
+      ],
+      "coverage_count": 5,
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert"
+    },
+    {
+      "title": "Trump threatens to bring Iran ‘back to the Stone Ages’",
+      "summary": "Trump threatens to bring Iran ‘back to the Stone Ages’",
       "outlets_covering": [
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
         "Bloomberg",
         "The Independent",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east"
-    },
-    {
-      "title": "Trump threatens to walk away from Iran war and pull U.S. out of NATO",
-      "summary": "Trump threatens to walk away from Iran war and pull U.S. out of NATO",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "Time",
-        "The Independent",
         "Al Jazeera",
-        "Foreign Policy",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 9,
+      "coverage_count": 11,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-nato-tehran-threatens-us-tech-companies-strait-of-hormuz"
-    },
-    {
-      "title": "Trump becomes first sitting president to attend supreme court as justices hear arguments on birthright citizenship - live",
-      "summary": "Trump becomes first sitting president to attend supreme court as justices hear arguments on birthright citizenship - live",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss"
     }
   ]
 }
