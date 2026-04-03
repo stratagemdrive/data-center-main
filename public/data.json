@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-03T05:50:30.944033Z",
+  "last_updated": "2026-04-03T14:27:47.816356Z",
   "world_org_meetings": [
+    {
+      "title": "Former U.S. ambassador talks about Trump's rhetoric on NATO",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Former U.S. ambassador talks about Trump's rhetoric on NATO",
+      "source_url": "https://www.npr.org/2026/04/03/nx-s1-5771558/former-u-s-ambassador-talks-about-trumps-rhetoric-on-nato"
+    },
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
       "organization": "IMF",
@@ -16,14 +24,6 @@
       "location": "",
       "description": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
       "source_url": "https://www.scmp.com/news/china/article/3348587/trump-xi-summit-hopes-un-manipulation-stand-comedy-7-us-china-relations-reads"
-    },
-    {
-      "title": "Putin likely to participate in September BRICS summit in Delhi: Russia’s Deputy Foreign Minister",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Putin likely to participate in September BRICS summit in Delhi: Russia’s Deputy Foreign Minister",
-      "source_url": "https://www.thehindu.com/news/international/putin-likely-to-participate-in-september-brics-summit-in-delhi-russias-deputy-foreign-minister/article70811100.ece"
     },
     {
       "title": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
@@ -44,26 +44,54 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King Charles set for state visit to U.S. in late April",
+      "title": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
       "participants": [
-        "King Charles",
-        "U.S",
-        "April"
+        "Everything We Know So Far",
+        "King Charles Upcoming State Visit",
+        "U.S"
       ],
       "date": "",
       "location": "",
-      "description": "King Charles set for state visit to U.S. in late April",
-      "source_url": "https://www.cbsnews.com/news/king-charles-us-state-visit-trump-in-april"
+      "description": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
+      "source_url": "https://time.com/article/2026/04/01/king-charles-camilla-royal-state-visit-washington-america-trump"
+    },
+    {
+      "title": "China says peace talks between Afghanistan and Pakistan are advancing",
+      "participants": [
+        "China",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China says peace talks between Afghanistan and Pakistan are advancing",
+      "source_url": "https://abcnews.com/International/wireStory/china-peace-talks-afghanistan-pakistan-advancing-131680013"
     }
   ],
   "elections": [
     {
-      "title": "US court orders resentencing for Colorado clerk involved in election scheme",
+      "title": "Tamil Nadu elections: Why Annamalai missed BJP candidate list - alliance over leader?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "US court orders resentencing for Colorado clerk involved in election scheme",
-      "source_url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss"
+      "description": "Tamil Nadu elections: Why Annamalai missed BJP candidate list - alliance over leader?",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-why-annamalai-missed-bjp-candidate-list-alliance-over-leader/articleshow/130000992.cms"
+    },
+    {
+      "title": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
+      "country": "Myanmar",
+      "election_type": "National",
+      "date": "",
+      "description": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
+      "source_url": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile"
+    },
+    {
+      "title": "Viktor Orbán courts voters in neighboring Romania as Hungary’s election tightens",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Viktor Orbán courts voters in neighboring Romania as Hungary’s election tightens",
+      "source_url": "https://www.france24.com/en/video/20260403-viktor-orb%C3%A1n-courts-voters-in-neighboring-romania-as-hungary-s-election-tightens"
     },
     {
       "title": "Hungary's government accused of spying on opposition as key election nears",
@@ -79,7 +107,6 @@
       "title": "Trump administration lifts sanctions on acting Venezuela president",
       "summary": "Trump administration lifts sanctions on acting Venezuela president",
       "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
         "CBS News World",
         "NYT World",
@@ -88,7 +115,7 @@
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Latin America",
       "category": "Economy",
       "source_url": "https://thehill.com/policy/international/5812863-rodriguez-sanctions-trump-venezuela"
@@ -97,13 +124,12 @@
       "title": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
       "summary": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
       "outlets_covering": [
-        "BBC World",
         "CBC World",
         "CBS News World",
         "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "East / Southeast Asia",
       "category": "Climate",
       "source_url": "https://www.cbc.ca/news/world/earthquake-indonesia-9.7151044?cmp=rss"
@@ -119,47 +145,40 @@
         "NBC News World",
         "NYT World",
         "Time",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy"
       ],
-      "coverage_count": 42,
+      "coverage_count": 33,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://time.com/article/2026/04/02/trump-speech-white-house-iran-war-update-end"
     },
     {
-      "title": "Russia sending second ship with oil to Cuba amid US blockade",
-      "summary": "Russia sending second ship with oil to Cuba amid US blockade",
+      "title": "Artemis II astronauts rocket toward the moon after spending a day around Earth",
+      "summary": "Artemis II astronauts rocket toward the moon after spending a day around Earth",
       "outlets_covering": [
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss"
-    },
-    {
-      "title": "Trump's shifting deadlines for ending Iran war",
-      "summary": "Trump's shifting deadlines for ending Iran war",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
         "NBC News World",
-        "NYT World",
-        "Time",
-        "The Independent",
-        "Al Jazeera",
+        "DW World",
         "France24"
       ],
-      "coverage_count": 41,
-      "region": "Middle East",
+      "coverage_count": 3,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.france24.com/en/video/20260403-artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth"
+    },
+    {
+      "title": "Burkina Faso military leader Traore says ‘forget democracy’",
+      "summary": "Burkina Faso military leader Traore says ‘forget democracy’",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss"
     }
   ]
 }
