@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-02T15:37:47.532827Z",
+  "last_updated": "2026-04-03T05:50:30.944033Z",
   "world_org_meetings": [
+    {
+      "title": "No IMF and World Bank spring meetings without a global crisis",
+      "organization": "IMF",
+      "date": "",
+      "location": "",
+      "description": "No IMF and World Bank spring meetings without a global crisis",
+      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/no-imf-and-world-bank-spring-meetings-without-a-global-crisis"
+    },
     {
       "title": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
       "organization": "UN",
@@ -50,12 +58,12 @@
   ],
   "elections": [
     {
-      "title": "Puducherry assembly elections: A Johnkumar and V Vaithilingam among dynasty candidates in fray",
+      "title": "US court orders resentencing for Colorado clerk involved in election scheme",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Puducherry assembly elections: A Johnkumar and V Vaithilingam among dynasty candidates in fray",
-      "source_url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-elections-a-johnkumar-and-v-vaithilingam-among-dynasty-candidates-in-fray/articleshow/129973321.cms"
+      "description": "US court orders resentencing for Colorado clerk involved in election scheme",
+      "source_url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss"
     },
     {
       "title": "Hungary's government accused of spying on opposition as key election nears",
@@ -64,14 +72,6 @@
       "date": "",
       "description": "Hungary's government accused of spying on opposition as key election nears",
       "source_url": "https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "USCIS completes H-1B cap selection process for FY 2027",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "USCIS completes H-1B cap selection process for FY 2027",
-      "source_url": "https://www.thehindu.com/news/international/uscis-completes-h-1b-visa-cap-selection-process-for-fy-2027/article70809976.ece"
     }
   ],
   "global_events": [
@@ -94,21 +94,6 @@
       "source_url": "https://thehill.com/policy/international/5812863-rodriguez-sanctions-trump-venezuela"
     },
     {
-      "title": "Russian military plane crashes in Crimea, killing 29 people",
-      "summary": "Russian military plane crashes in Crimea, killing 29 people",
-      "outlets_covering": [
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/russia-military-plane-crash-crimea-29-killed"
-    },
-    {
       "title": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
       "summary": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
       "outlets_covering": [
@@ -127,41 +112,54 @@
       "title": "Trump Promises Iran War Is ‘Nearing Completion’",
       "summary": "Trump Promises Iran War Is ‘Nearing Completion’",
       "outlets_covering": [
+        "BBC World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
         "Time",
-        "The Independent"
+        "The Independent",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 38,
+      "coverage_count": 42,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://time.com/article/2026/04/02/trump-speech-white-house-iran-war-update-end"
     },
     {
-      "title": "4 takeaways from Trump's address on the Iran war",
-      "summary": "4 takeaways from Trump's address on the Iran war",
+      "title": "Russia sending second ship with oil to Cuba amid US blockade",
+      "summary": "Russia sending second ship with oil to Cuba amid US blockade",
+      "outlets_covering": [
+        "NYT World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss"
+    },
+    {
+      "title": "Trump's shifting deadlines for ending Iran war",
+      "summary": "Trump's shifting deadlines for ending Iran war",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "Fox News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg"
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 61,
+      "coverage_count": 41,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/politics/4-takeaways-from-trumps-address-on-the-iran-war"
+      "source_url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
