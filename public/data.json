@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T14:27:47.816356Z",
+  "last_updated": "2026-04-04T05:13:56.918024Z",
   "world_org_meetings": [
     {
       "title": "Former U.S. ambassador talks about Trump's rhetoric on NATO",
@@ -44,6 +44,28 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "China says peace talks between Afghanistan and Pakistan are advancing",
+      "participants": [
+        "China",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China says peace talks between Afghanistan and Pakistan are advancing",
+      "source_url": "https://www.thehindu.com/news/international/china-says-peace-talks-between-afghanistan-and-pakistan-are-advancing/article70820799.ece"
+    },
+    {
+      "title": "As a state visit looms … can the king tame Trump?",
+      "participants": [
+        "Trump?"
+      ],
+      "date": "",
+      "location": "",
+      "description": "As a state visit looms … can the king tame Trump?",
+      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit"
+    },
+    {
       "title": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
       "participants": [
         "Everything We Know So Far",
@@ -54,28 +76,32 @@
       "location": "",
       "description": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
       "source_url": "https://time.com/article/2026/04/01/king-charles-camilla-royal-state-visit-washington-america-trump"
-    },
-    {
-      "title": "China says peace talks between Afghanistan and Pakistan are advancing",
-      "participants": [
-        "China",
-        "Afghanistan",
-        "Pakistan"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China says peace talks between Afghanistan and Pakistan are advancing",
-      "source_url": "https://abcnews.com/International/wireStory/china-peace-talks-afghanistan-pakistan-advancing-131680013"
     }
   ],
   "elections": [
     {
-      "title": "Tamil Nadu elections: Why Annamalai missed BJP candidate list - alliance over leader?",
+      "title": "How millions in taxpayer dollars are helping fund House members' reelection bids",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Tamil Nadu elections: Why Annamalai missed BJP candidate list - alliance over leader?",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-why-annamalai-missed-bjp-candidate-list-alliance-over-leader/articleshow/130000992.cms"
+      "description": "How millions in taxpayer dollars are helping fund House members' reelection bids",
+      "source_url": "https://www.axios.com/2026/04/03/2026-midterm-election-house-franked-ads"
+    },
+    {
+      "title": "Anthropic launches new corporate PAC to ramp up election spending",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Anthropic launches new corporate PAC to ramp up election spending",
+      "source_url": "https://thehill.com/policy/technology/5815439-anthropic-launches-corporate-pac"
+    },
+    {
+      "title": "Exclusive: Orbán challenger Magyar says election is a 'referendum' on Hungary's place in the world",
+      "country": "Hungary",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Exclusive: Orbán challenger Magyar says election is a 'referendum' on Hungary's place in the world",
+      "source_url": "https://abcnews.com/International/wireStory/exclusive-orbn-challenger-magyar-election-referendum-hungarys-place-131682179"
     },
     {
       "title": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
@@ -84,14 +110,6 @@
       "date": "",
       "description": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
       "source_url": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile"
-    },
-    {
-      "title": "Viktor Orbán courts voters in neighboring Romania as Hungary’s election tightens",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Viktor Orbán courts voters in neighboring Romania as Hungary’s election tightens",
-      "source_url": "https://www.france24.com/en/video/20260403-viktor-orb%C3%A1n-courts-voters-in-neighboring-romania-as-hungary-s-election-tightens"
     },
     {
       "title": "Hungary's government accused of spying on opposition as key election nears",
@@ -104,81 +122,83 @@
   ],
   "global_events": [
     {
-      "title": "Trump administration lifts sanctions on acting Venezuela president",
-      "summary": "Trump administration lifts sanctions on acting Venezuela president",
+      "title": "White House seeks $1.5 trillion defense budget as Iran war drives costs",
+      "summary": "White House seeks $1.5 trillion defense budget as Iran war drives costs",
+      "outlets_covering": [
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/04/world/us-defense-budget-iran-war"
+    },
+    {
+      "title": "American fighter jet downed over Iran, 1 crew member rescued",
+      "summary": "American fighter jet downed over Iran, 1 crew member rescued",
       "outlets_covering": [
         "PBS NewsHour",
         "CBS News World",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
-        "DW World",
-        "The Hindu Intl",
-        "The Hill"
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Latin America",
-      "category": "Economy",
-      "source_url": "https://thehill.com/policy/international/5812863-rodriguez-sanctions-trump-venezuela"
+      "coverage_count": 19,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/american-fighter-jet-f15e-downed-over-iran"
     },
     {
-      "title": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
-      "summary": "Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person",
+      "title": "U.S. fighter jet shot down over Iran as strikes on infrastructure expand across Mideast",
+      "summary": "U.S. fighter jet shot down over Iran as strikes on infrastructure expand across Mideast",
       "outlets_covering": [
-        "CBC World",
-        "CBS News World",
+        "PBS NewsHour",
+        "NBC News World",
+        "NYT World",
         "The Guardian World",
+        "Al Jazeera",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/show/2-u-s-aircraft-shot-down-over-iran-as-strikes-on-infrastructure-expand-across-mideast"
+    },
+    {
+      "title": "Three Greek Ministers quit as EU investigates alleged farm subsidy fraud",
+      "summary": "Three Greek Ministers quit as EU investigates alleged farm subsidy fraud",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "DW World",
         "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbc.ca/news/world/earthquake-indonesia-9.7151044?cmp=rss"
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/three-greek-ministers-quit-as-eu-investigates-alleged-farm-subsidy-fraud/article70822394.ece"
     },
     {
-      "title": "Trump Promises Iran War Is ‘Nearing Completion’",
-      "summary": "Trump Promises Iran War Is ‘Nearing Completion’",
+      "title": "5.8 magnitude earthquake hits Afghanistan and Pakistan, killing 8 on outskirts of Kabul",
+      "summary": "5.8 magnitude earthquake hits Afghanistan and Pakistan, killing 8 on outskirts of Kabul",
       "outlets_covering": [
-        "BBC World",
         "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Time",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy"
-      ],
-      "coverage_count": 33,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://time.com/article/2026/04/02/trump-speech-white-house-iran-war-update-end"
-    },
-    {
-      "title": "Artemis II astronauts rocket toward the moon after spending a day around Earth",
-      "summary": "Artemis II astronauts rocket toward the moon after spending a day around Earth",
-      "outlets_covering": [
-        "NBC News World",
-        "DW World",
-        "France24"
+        "ABC News Intl",
+        "Sky News World"
       ],
       "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260403-artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth"
-    },
-    {
-      "title": "Burkina Faso military leader Traore says ‘forget democracy’",
-      "summary": "Burkina Faso military leader Traore says ‘forget democracy’",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss"
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.pbs.org/newshour/world/5-8-magnitude-earthquake-hits-afghanistan-and-pakistan-killing-8-on-outskirts-of-kabul"
     }
   ]
 }
