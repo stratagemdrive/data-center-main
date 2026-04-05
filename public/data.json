@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T05:55:06.324456Z",
+  "last_updated": "2026-04-05T14:04:09.703164Z",
   "world_org_meetings": [
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
@@ -28,16 +28,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "China says peace talks between Afghanistan and Pakistan are advancing",
+      "title": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
       "participants": [
-        "China",
-        "Afghanistan",
-        "Pakistan"
+        "Amid",
+        "King Charles",
+        "U.S"
       ],
       "date": "",
       "location": "",
-      "description": "China says peace talks between Afghanistan and Pakistan are advancing",
-      "source_url": "https://abcnews.com/International/wireStory/china-peace-talks-afghanistan-pakistan-advancing-131680013"
+      "description": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
+      "source_url": "https://www.cbc.ca/news/world/king-charles-state-visit-united-states-prince-william-faith-9.7152957?cmp=rss"
     },
     {
       "title": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
@@ -54,28 +54,12 @@
   ],
   "elections": [
     {
-      "title": "Temple today, mosque tomorrow: It's election season",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Temple today, mosque tomorrow: It's election season",
-      "source_url": "https://timesofindia.indiatimes.com/india/temple-today-mosque-tomorrow-its-election-season/articleshow/130026877.cms"
-    },
-    {
       "title": "Why US and Russia are backing Viktor Orbán in Hungary election",
       "country": "Russia",
       "election_type": "National",
       "date": "",
       "description": "Why US and Russia are backing Viktor Orbán in Hungary election",
       "source_url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia"
-    },
-    {
-      "title": "Benin's main opposition face crisis before presidential elections",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Benin's main opposition face crisis before presidential elections",
-      "source_url": "https://www.france24.com/en/benin-s-main-opposition-face-crisis-before-presidential-elections"
     },
     {
       "title": "How millions in taxpayer dollars are helping fund House members' reelection bids",
@@ -92,27 +76,60 @@
       "date": "",
       "description": "Anthropic launches new corporate PAC to ramp up election spending",
       "source_url": "https://thehill.com/policy/technology/5815439-anthropic-launches-corporate-pac"
+    },
+    {
+      "title": "Exclusive: Orbán challenger Magyar says election is a 'referendum' on Hungary's place in the world",
+      "country": "Hungary",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Exclusive: Orbán challenger Magyar says election is a 'referendum' on Hungary's place in the world",
+      "source_url": "https://abcnews.com/International/wireStory/exclusive-orbn-challenger-magyar-election-referendum-hungarys-place-131682179"
+    },
+    {
+      "title": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
+      "country": "Myanmar",
+      "election_type": "National",
+      "date": "",
+      "description": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
+      "source_url": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile"
     }
   ],
   "global_events": [
     {
-      "title": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
-      "summary": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
+      "title": "US aviator missing after Iran shot down fighter jet has been rescued",
+      "summary": "US aviator missing after Iran shot down fighter jet has been rescued",
       "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
         "CBS News World",
-        "Bloomberg",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
         "The Independent",
-        "Al Jazeera",
         "France24",
-        "The Hindu Intl",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 20,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/iran-calls-public-find-enemy-pilot-us-continues-131720410"
+      "source_url": "https://www.france24.com/en/us-aviator-missing-after-iran-shot-down-fighter-jet-has-been-rescued"
+    },
+    {
+      "title": "On Easter, Pope Leo urges world leaders to end wars, conquest",
+      "summary": "On Easter, Pope Leo urges world leaders to end wars, conquest",
+      "outlets_covering": [
+        "CBC World",
+        "NBC News World",
+        "Wash Post World",
+        "Newsweek",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/world/pope-leo-easter-message-9.7153591?cmp=rss"
     },
     {
       "title": "US rescues second crew member of downed F-15E fighter jet from Iran",
@@ -122,66 +139,48 @@
         "CBS News World",
         "NYT World",
         "The Guardian World",
+        "Bloomberg",
         "Time",
         "The Independent",
+        "Al Jazeera",
         "France24",
-        "Japan Times",
-        "The Hindu Intl",
         "Foreign Policy"
       ],
-      "coverage_count": 17,
+      "coverage_count": 18,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day"
     },
     {
-      "title": "US service member missing after Iran shot down fighter jet has been rescued",
-      "summary": "US service member missing after Iran shot down fighter jet has been rescued",
+      "title": "US President Trump gives Iran 48 hours to open Strait of Hormuz, Iran rejects",
+      "summary": "US President Trump gives Iran 48 hours to open Strait of Hormuz, Iran rejects",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
         "The Independent",
-        "The Hindu Intl"
+        "France24",
+        "The Hindu Intl",
+        "Axios"
       ],
-      "coverage_count": 18,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/donald-trump-iran-strait-of-hormuz-islamabad-washington-b2952013.html"
+      "source_url": "https://www.france24.com/en/us-president-trump-gives-iran-48-hours-to-open-strait-of-hormuz-iran-rejects"
     },
     {
-      "title": "Ukraine-Russia war latest: Moscow launches drone attack on market that kills five",
-      "summary": "Ukraine-Russia war latest: Moscow launches drone attack on market that kills five",
+      "title": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
+      "summary": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
       "outlets_covering": [
-        "BBC World",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-drone-attacks-b2945082.html"
-    },
-    {
-      "title": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
-      "summary": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
-      "outlets_covering": [
-        "CBC World",
         "CBS News World",
-        "Fox News World",
         "NYT World",
         "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
-      "region": "Global",
+      "coverage_count": 4,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html"
+      "source_url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
     }
   ]
 }
