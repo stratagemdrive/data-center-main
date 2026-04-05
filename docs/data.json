@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T14:03:05.280461Z",
+  "last_updated": "2026-04-05T05:55:06.324456Z",
   "world_org_meetings": [
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "No IMF and World Bank spring meetings without a global crisis",
       "source_url": "https://www.atlanticcouncil.org/blogs/econographics/no-imf-and-world-bank-spring-meetings-without-a-global-crisis"
-    },
-    {
-      "title": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
-      "source_url": "https://www.scmp.com/news/china/article/3348587/trump-xi-summit-hopes-un-manipulation-stand-comedy-7-us-china-relations-reads"
     },
     {
       "title": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
@@ -45,7 +37,7 @@
       "date": "",
       "location": "",
       "description": "China says peace talks between Afghanistan and Pakistan are advancing",
-      "source_url": "https://www.thehindu.com/news/international/china-says-peace-talks-between-afghanistan-and-pakistan-are-advancing/article70820799.ece"
+      "source_url": "https://abcnews.com/International/wireStory/china-peace-talks-afghanistan-pakistan-advancing-131680013"
     },
     {
       "title": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
@@ -62,12 +54,20 @@
   ],
   "elections": [
     {
-      "title": "Tamil Nadu election 2026: The big Annamalai question — what BJP gains, what it risks",
+      "title": "Temple today, mosque tomorrow: It's election season",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Tamil Nadu election 2026: The big Annamalai question — what BJP gains, what it risks",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-election-2026-the-big-annamalai-question-what-bjp-gains-what-it-risks/articleshow/130017513.cms"
+      "description": "Temple today, mosque tomorrow: It's election season",
+      "source_url": "https://timesofindia.indiatimes.com/india/temple-today-mosque-tomorrow-its-election-season/articleshow/130026877.cms"
+    },
+    {
+      "title": "Why US and Russia are backing Viktor Orbán in Hungary election",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Why US and Russia are backing Viktor Orbán in Hungary election",
+      "source_url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia"
     },
     {
       "title": "Benin's main opposition face crisis before presidential elections",
@@ -78,109 +78,110 @@
       "source_url": "https://www.france24.com/en/benin-s-main-opposition-face-crisis-before-presidential-elections"
     },
     {
-      "title": "Puducherry elections: 23% of candidates face criminal cases, TVK leads with 10 names",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Puducherry elections: 23% of candidates face criminal cases, TVK leads with 10 names",
-      "source_url": "https://timesofindia.indiatimes.com/india/puducherry-elections-23-of-candidates-face-criminal-cases-tvk-leads-with-10-names/articleshow/130013956.cms"
-    },
-    {
-      "title": "Assam assembly elections 2026: Crorepati candidates including CM in fray but richest name will surprise you",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Assam assembly elections 2026: Crorepati candidates including CM in fray but richest name will surprise you",
-      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-crorepati-candidates-including-cm-in-fray-but-richest-name-will-surprise-you/articleshow/130014157.cms"
-    },
-    {
       "title": "How millions in taxpayer dollars are helping fund House members' reelection bids",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "How millions in taxpayer dollars are helping fund House members' reelection bids",
       "source_url": "https://www.axios.com/2026/04/03/2026-midterm-election-house-franked-ads"
+    },
+    {
+      "title": "Anthropic launches new corporate PAC to ramp up election spending",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Anthropic launches new corporate PAC to ramp up election spending",
+      "source_url": "https://thehill.com/policy/technology/5815439-anthropic-launches-corporate-pac"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. races to find missing crew member as Iran war rages on",
-      "summary": "U.S. races to find missing crew member as Iran war rages on",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "Wash Post World",
-        "DW World",
-        "France24",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz"
-    },
-    {
-      "title": "U.S. fighter jet shot down over Iran as strikes on infrastructure expand across Mideast",
-      "summary": "U.S. fighter jet shot down over Iran as strikes on infrastructure expand across Mideast",
+      "title": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
+      "summary": "Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot",
       "outlets_covering": [
         "PBS NewsHour",
+        "ABC News Intl",
         "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Foreign Policy",
-        "The Hill",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
         "Axios"
       ],
       "coverage_count": 9,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/show/2-u-s-aircraft-shot-down-over-iran-as-strikes-on-infrastructure-expand-across-mideast"
+      "source_url": "https://abcnews.com/International/wireStory/iran-calls-public-find-enemy-pilot-us-continues-131720410"
     },
     {
-      "title": "A projectile hit near Iran’s Bushehr nuclear plant, killing a worker.",
-      "summary": "A projectile hit near Iran’s Bushehr nuclear plant, killing a worker.",
-      "outlets_covering": [
-        "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker"
-    },
-    {
-      "title": "Iran war enters its 6th week as military searches for downed jet crew member",
-      "summary": "Iran war enters its 6th week as military searches for downed jet crew member",
+      "title": "US rescues second crew member of downed F-15E fighter jet from Iran",
+      "summary": "US rescues second crew member of downed F-15E fighter jet from Iran",
       "outlets_covering": [
         "NPR World",
         "CBS News World",
+        "NYT World",
+        "The Guardian World",
         "Time",
+        "The Independent",
         "France24",
+        "Japan Times",
         "The Hindu Intl",
-        "The Hill"
+        "Foreign Policy"
       ],
-      "coverage_count": 9,
+      "coverage_count": 17,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates"
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day"
     },
     {
-      "title": "Forget democracy, says Burkina Faso military leader Traore",
-      "summary": "Forget democracy, says Burkina Faso military leader Traore",
+      "title": "US service member missing after Iran shot down fighter jet has been rescued",
+      "summary": "US service member missing after Iran shot down fighter jet has been rescued",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
         "The Guardian World",
+        "Wash Post World",
+        "The Independent",
         "The Hindu Intl"
       ],
+      "coverage_count": 18,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/donald-trump-iran-strait-of-hormuz-islamabad-washington-b2952013.html"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Moscow launches drone attack on market that kills five",
+      "summary": "Ukraine-Russia war latest: Moscow launches drone attack on market that kills five",
+      "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "France24"
+      ],
       "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-drone-attacks-b2945082.html"
+    },
+    {
+      "title": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
+      "summary": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/forget-democracy-says-burkina-faso-military-leader-traore/article70822564.ece"
+      "source_url": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html"
     }
   ]
 }
