@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T06:17:33.555405Z",
+  "last_updated": "2026-04-06T14:38:01.782962Z",
   "world_org_meetings": [
     {
       "title": "Iran strikes Kuwait’s oil infrastructure before Opec+ supply talks",
@@ -59,18 +59,6 @@
       "source_url": "https://www.cbc.ca/news/world/king-charles-state-visit-united-states-prince-william-faith-9.7152957?cmp=rss"
     },
     {
-      "title": "China says peace talks between Afghanistan and Pakistan are advancing",
-      "participants": [
-        "China",
-        "Afghanistan",
-        "Pakistan"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China says peace talks between Afghanistan and Pakistan are advancing",
-      "source_url": "https://abcnews.com/International/wireStory/china-peace-talks-afghanistan-pakistan-advancing-131680013"
-    },
-    {
       "title": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
       "participants": [
         "Everything We Know So Far",
@@ -84,6 +72,30 @@
     }
   ],
   "elections": [
+    {
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "source_url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "A Hidden Russian Hand in Hungary’s Election? Actually, It’s Quite Open.",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "A Hidden Russian Hand in Hungary’s Election? Actually, It’s Quite Open.",
+      "source_url": "https://www.nytimes.com/2026/04/06/world/europe/viktor-orban-hungary-election-russia.html"
+    },
+    {
+      "title": "Hungarian elections, academia’s greatest chancer, and Easter-inspired satire",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungarian elections, academia’s greatest chancer, and Easter-inspired satire",
+      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260406-hungarian-elections-academia-s-greatest-chancer-and-easter-inspired-satire"
+    },
     {
       "title": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
       "country": "Hungary",
@@ -99,64 +111,45 @@
       "date": "",
       "description": "Hungary's opposition surfs grassroots wave ahead of key election",
       "source_url": "https://www.japantimes.co.jp/news/2026/04/06/world/politics/hungary-opposition-grassroots-election"
-    },
-    {
-      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "source_url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Khanna: Those saying ‘don’t engage’ with personalities like Hasan Piker ‘will cost us future elections’",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Khanna: Those saying ‘don’t engage’ with personalities like Hasan Piker ‘will cost us future elections’",
-      "source_url": "https://thehill.com/homenews/campaign/5817164-khanna-defends-engagement-hasan-piker"
-    },
-    {
-      "title": "How millions in taxpayer dollars are helping fund House members' reelection bids",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "How millions in taxpayer dollars are helping fund House members' reelection bids",
-      "source_url": "https://www.axios.com/2026/04/03/2026-midterm-election-house-franked-ads"
     }
   ],
   "global_events": [
     {
-      "title": "Explosives discovered near gas pipeline to Hungary, says Serbia's president",
-      "summary": "Explosives discovered near gas pipeline to Hungary, says Serbia's president",
+      "title": "Key details on shot down fighter jet rescue mission in Iran",
+      "summary": "Key details on shot down fighter jet rescue mission in Iran",
       "outlets_covering": [
-        "Sky News World",
-        "The Independent",
-        "DW World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/europe/20260405-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-leaders-say"
-    },
-    {
-      "title": "U.S., Iran racing to find missing U.S. airman after war plane shot down",
-      "summary": "U.S., Iran racing to find missing U.S. airman after war plane shot down",
-      "outlets_covering": [
-        "BBC World",
         "NPR World",
+        "PBS NewsHour",
         "CBS News World",
         "NBC News World",
-        "Time",
-        "France24",
-        "The Hill"
+        "NYT World",
+        "Foreign Policy",
+        "Axios"
       ],
       "coverage_count": 11,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/us-iran-racing-find-missing-us-airman-after-war-plane-shot-down"
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/key-details-on-shot-down-fighter-jet-rescue-mission-in-iran"
+    },
+    {
+      "title": "Iran pushes back against Trump's deadline to open the Strait of Hormuz",
+      "summary": "Iran pushes back against Trump's deadline to open the Strait of Hormuz",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Wash Post World",
+        "Time",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates"
     },
     {
       "title": "Inside the daring mission to rescue a U.S. airman downed in Iran",
@@ -166,11 +159,11 @@
         "PBS NewsHour",
         "CBS News World",
         "NBC News World",
-        "France24",
-        "Japan Times",
+        "Wash Post World",
+        "The Independent",
         "SCMP"
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/inside-the-daring-mission-to-rescue-a-u-s-airman-downed-in-iran"
@@ -185,34 +178,26 @@
         "NBC News World",
         "NYT World",
         "Time",
-        "France24",
         "Foreign Policy",
         "Axios"
       ],
-      "coverage_count": 18,
+      "coverage_count": 14,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/video/latest-details-on-daring-mission-to-rescue-us-airman-from-iran-after-fighter-jet-shot-down"
     },
     {
-      "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
-      "summary": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+      "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
+      "summary": "Serbia, Hungary say explosives found at Russian gas pipeline",
       "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
+        "The Independent",
+        "DW World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
+      "coverage_count": 3,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat"
+      "source_url": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-world-4025-rdf"
     }
   ]
 }
