@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-05T14:04:09.703164Z",
+  "last_updated": "2026-04-06T06:17:33.555405Z",
   "world_org_meetings": [
+    {
+      "title": "Iran strikes Kuwait’s oil infrastructure before Opec+ supply talks",
+      "organization": "OPEC",
+      "date": "",
+      "location": "",
+      "description": "Iran strikes Kuwait’s oil infrastructure before Opec+ supply talks",
+      "source_url": "https://www.theguardian.com/business/2026/apr/05/iranian-drone-strikes-hit-kuwait-oil-infrastructure-before-opec-supply-talks"
+    },
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
       "organization": "IMF",
@@ -28,6 +36,17 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Japan arranging summit with Iran, Takaichi says",
+      "participants": [
+        "Japan",
+        "Iran Takaichi"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Japan arranging summit with Iran, Takaichi says",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/06/japan/politics/japan-iran-summit"
+    },
+    {
       "title": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
       "participants": [
         "Amid",
@@ -38,6 +57,18 @@
       "location": "",
       "description": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
       "source_url": "https://www.cbc.ca/news/world/king-charles-state-visit-united-states-prince-william-faith-9.7152957?cmp=rss"
+    },
+    {
+      "title": "China says peace talks between Afghanistan and Pakistan are advancing",
+      "participants": [
+        "China",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China says peace talks between Afghanistan and Pakistan are advancing",
+      "source_url": "https://abcnews.com/International/wireStory/china-peace-talks-afghanistan-pakistan-advancing-131680013"
     },
     {
       "title": "Everything We Know So Far About King Charles' Upcoming State Visit to the U.S.",
@@ -54,12 +85,36 @@
   ],
   "elections": [
     {
-      "title": "Why US and Russia are backing Viktor Orbán in Hungary election",
-      "country": "Russia",
+      "title": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
+      "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Why US and Russia are backing Viktor Orbán in Hungary election",
-      "source_url": "https://www.theguardian.com/world/2026/apr/04/hungary-election-why-orban-is-a-common-cause-for-us-and-russia"
+      "description": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3349109/orban-brink-could-hungarys-election-dent-chinas-influence-europe"
+    },
+    {
+      "title": "Hungary's opposition surfs grassroots wave ahead of key election",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary's opposition surfs grassroots wave ahead of key election",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/06/world/politics/hungary-opposition-grassroots-election"
+    },
+    {
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "source_url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Khanna: Those saying ‘don’t engage’ with personalities like Hasan Piker ‘will cost us future elections’",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Khanna: Those saying ‘don’t engage’ with personalities like Hasan Piker ‘will cost us future elections’",
+      "source_url": "https://thehill.com/homenews/campaign/5817164-khanna-defends-engagement-hasan-piker"
     },
     {
       "title": "How millions in taxpayer dollars are helping fund House members' reelection bids",
@@ -68,119 +123,96 @@
       "date": "",
       "description": "How millions in taxpayer dollars are helping fund House members' reelection bids",
       "source_url": "https://www.axios.com/2026/04/03/2026-midterm-election-house-franked-ads"
-    },
-    {
-      "title": "Anthropic launches new corporate PAC to ramp up election spending",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Anthropic launches new corporate PAC to ramp up election spending",
-      "source_url": "https://thehill.com/policy/technology/5815439-anthropic-launches-corporate-pac"
-    },
-    {
-      "title": "Exclusive: Orbán challenger Magyar says election is a 'referendum' on Hungary's place in the world",
-      "country": "Hungary",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Exclusive: Orbán challenger Magyar says election is a 'referendum' on Hungary's place in the world",
-      "source_url": "https://abcnews.com/International/wireStory/exclusive-orbn-challenger-magyar-election-referendum-hungarys-place-131682179"
-    },
-    {
-      "title": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
-      "country": "Myanmar",
-      "election_type": "National",
-      "date": "",
-      "description": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
-      "source_url": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile"
     }
   ],
   "global_events": [
     {
-      "title": "US aviator missing after Iran shot down fighter jet has been rescued",
-      "summary": "US aviator missing after Iran shot down fighter jet has been rescued",
+      "title": "Explosives discovered near gas pipeline to Hungary, says Serbia's president",
+      "summary": "Explosives discovered near gas pipeline to Hungary, says Serbia's president",
+      "outlets_covering": [
+        "Sky News World",
+        "The Independent",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/europe/20260405-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-leaders-say"
+    },
+    {
+      "title": "U.S., Iran racing to find missing U.S. airman after war plane shot down",
+      "summary": "U.S., Iran racing to find missing U.S. airman after war plane shot down",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/us-iran-racing-find-missing-us-airman-after-war-plane-shot-down"
+    },
+    {
+      "title": "Inside the daring mission to rescue a U.S. airman downed in Iran",
+      "summary": "Inside the daring mission to rescue a U.S. airman downed in Iran",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "France24",
+        "Japan Times",
+        "SCMP"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/inside-the-daring-mission-to-rescue-a-u-s-airman-downed-in-iran"
+    },
+    {
+      "title": "Latest details on daring mission to rescue U.S. airman from Iran after fighter jet shot down",
+      "summary": "Latest details on daring mission to rescue U.S. airman from Iran after fighter jet shot down",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "Wash Post World",
         "Time",
-        "The Independent",
         "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/us-aviator-missing-after-iran-shot-down-fighter-jet-has-been-rescued"
-    },
-    {
-      "title": "On Easter, Pope Leo urges world leaders to end wars, conquest",
-      "summary": "On Easter, Pope Leo urges world leaders to end wars, conquest",
-      "outlets_covering": [
-        "CBC World",
-        "NBC News World",
-        "Wash Post World",
-        "Newsweek",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/pope-leo-easter-message-9.7153591?cmp=rss"
-    },
-    {
-      "title": "US rescues second crew member of downed F-15E fighter jet from Iran",
-      "summary": "US rescues second crew member of downed F-15E fighter jet from Iran",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Bloomberg",
-        "Time",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "Foreign Policy"
+        "Foreign Policy",
+        "Axios"
       ],
       "coverage_count": 18,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day"
+      "source_url": "https://www.cbsnews.com/video/latest-details-on-daring-mission-to-rescue-us-airman-from-iran-after-fighter-jet-shot-down"
     },
     {
-      "title": "US President Trump gives Iran 48 hours to open Strait of Hormuz, Iran rejects",
-      "summary": "US President Trump gives Iran 48 hours to open Strait of Hormuz, Iran rejects",
+      "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+      "summary": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
       "outlets_covering": [
         "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "The Independent",
-        "France24",
+        "The Guardian World",
+        "Wash Post World",
+        "Time",
+        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl",
-        "Axios"
+        "The Hill"
       ],
-      "coverage_count": 10,
+      "coverage_count": 13,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/us-president-trump-gives-iran-48-hours-to-open-strait-of-hormuz-iran-rejects"
-    },
-    {
-      "title": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
-      "summary": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
+      "source_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat"
     }
   ]
 }
