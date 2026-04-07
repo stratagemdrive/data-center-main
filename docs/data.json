@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T05:58:23.735946Z",
+  "last_updated": "2026-04-07T16:14:55.459740Z",
   "world_org_meetings": [
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
@@ -54,137 +54,135 @@
   ],
   "elections": [
     {
-      "title": "Vance to Visit Hungary to Boost Orban Before Election",
+      "title": "Vance Visits Hungary to Boost Orban Before Election",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Vance to Visit Hungary to Boost Orban Before Election",
+      "description": "Vance Visits Hungary to Boost Orban Before Election",
       "source_url": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html"
     },
     {
-      "title": "U.S. Vice President Vance visits Hungary to boost Orban ahead of pivotal election",
+      "title": "Vance visits Hungary to bolster support for prime minister ahead of election",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "U.S. Vice President Vance visits Hungary to boost Orban ahead of pivotal election",
-      "source_url": "https://www.thehindu.com/news/international/us-vice-president-vance-hungary-visit-viktor-orban/article70832986.ece"
+      "description": "Vance visits Hungary to bolster support for prime minister ahead of election",
+      "source_url": "https://www.npr.org/2026/04/07/nx-s1-5775715/vance-visits-hungary-to-bolster-support-for-prime-minister-ahead-of-election"
     },
     {
-      "title": "‘Seismic change’: how election wins for nationalists in Celtic nations could reshape UK",
+      "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "‘Seismic change’: how election wins for nationalists in Celtic nations could reshape UK",
-      "source_url": "https://www.theguardian.com/politics/2026/apr/07/nationalist-wins-uk-celtic-nations-may-elections"
+      "description": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news"
     },
     {
-      "title": "Why Hungary’s Election Could Swing on Roma Votes",
+      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Why Hungary’s Election Could Swing on Roma Votes",
-      "source_url": "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
+      "description": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
+      "source_url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban"
     },
     {
-      "title": "Hungary pipeline false-flag claims swirl as JD Vance makes election intervention",
+      "title": "Why JD Vance is helping right wing populist Viktor Orbán’s failing election campaign in Hungary",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Hungary pipeline false-flag claims swirl as JD Vance makes election intervention",
-      "source_url": "https://www.theguardian.com/world/2026/apr/06/hungary-puts-gas-pipeline-under-military-protection-amid-false-flag-accusations"
+      "description": "Why JD Vance is helping right wing populist Viktor Orbán’s failing election campaign in Hungary",
+      "source_url": "https://www.independent.co.uk/news/world/europe/hungary-viktor-orban-jd-vance-trump-eu-b2952945.html"
     }
   ],
   "global_events": [
     {
-      "title": "Key details on shot down fighter jet rescue mission in Iran",
-      "summary": "Key details on shot down fighter jet rescue mission in Iran",
+      "title": "U.S. strikes Iran’s Kharg Island as Trump warns ‘a whole civilization will die tonight’",
+      "summary": "U.S. strikes Iran’s Kharg Island as Trump warns ‘a whole civilization will die tonight’",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
+        "CBC World",
         "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Foreign Policy",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/key-details-on-shot-down-fighter-jet-rescue-mission-in-iran"
-    },
-    {
-      "title": "Iran rejects latest ceasefire proposal as Trump deadline approaches",
-      "summary": "Iran rejects latest ceasefire proposal as Trump deadline approaches",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "NYT World",
-        "Wash Post World",
-        "Bloomberg",
-        "Time",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-rejects-latest-ceasefire-proposal-as-trump-deadline-approaches/article70831448.ece"
-    },
-    {
-      "title": "Trump Moves Deadline for Iran to Open Strait of Hormuz",
-      "summary": "Trump Moves Deadline for Iran to Open Strait of Hormuz",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
         "The Guardian World",
         "Wash Post World",
         "Bloomberg",
         "Time",
+        "The Independent",
         "Al Jazeera"
       ],
-      "coverage_count": 30,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/04/06/world/middleeast/trump-threat-strait-peace.html"
-    },
-    {
-      "title": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure",
-      "summary": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "ABC News Intl",
-        "NBC News World",
-        "Time",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 11,
+      "coverage_count": 22,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates"
+      "source_url": "https://www.washingtonpost.com/world/2026/04/07/trump-us-iran-war-threat"
     },
     {
-      "title": "Latest details on daring mission to rescue U.S. airman from Iran after fighter jet shot down",
-      "summary": "Latest details on daring mission to rescue U.S. airman from Iran after fighter jet shot down",
+      "title": "Taiwan opposition leader arrives in China on ‘journey of peace’",
+      "summary": "Taiwan opposition leader arrives in China on ‘journey of peace’",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "ABC News Intl",
+        "NBC News World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 9,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260407-taiwan-opposition-leader-arrives-in-china-on-journey-of-peace"
+    },
+    {
+      "title": "Australia charges ex‑soldier with 5 war‑crime murders in Afghanistan",
+      "summary": "Australia charges ex‑soldier with 5 war‑crime murders in Afghanistan",
       "outlets_covering": [
         "NPR World",
-        "PBS NewsHour",
+        "ABC News Intl",
         "CBS News World",
-        "NBC News World",
         "NYT World",
-        "Time",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
+        "The Guardian World",
+        "The Independent",
+        "Japan Times"
       ],
-      "coverage_count": 17,
+      "coverage_count": 7,
+      "region": "South Asia",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/04/07/g-s1-116644/australia-charges-ex-soldier-with-5-war-crime-murders-in-afghanistan"
+    },
+    {
+      "title": "Australia's most decorated veteran charged with war crimes",
+      "summary": "Australia's most decorated veteran charged with war crimes",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://news.sky.com/story/australian-sas-veteran-ben-roberts-smith-charged-with-war-crime-murders-in-afghanistan-13528789"
+    },
+    {
+      "title": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
+      "summary": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/latest-details-on-daring-mission-to-rescue-us-airman-from-iran-after-fighter-jet-shot-down"
+      "source_url": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html"
     }
   ]
 }
