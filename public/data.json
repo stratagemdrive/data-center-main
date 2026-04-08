@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-07T16:14:55.459740Z",
+  "last_updated": "2026-04-08T06:00:30.176012Z",
   "world_org_meetings": [
+    {
+      "title": "Iran’s UN envoy says Tehran open to ‘genuine’ talks, rejects temporary ceasefire",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Iran’s UN envoy says Tehran open to ‘genuine’ talks, rejects temporary ceasefire",
+      "source_url": "https://thehill.com/policy/international/5820282-iran-envoy-un-negotiations"
+    },
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
       "organization": "IMF",
@@ -16,14 +24,6 @@
       "location": "",
       "description": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
       "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167232"
-    },
-    {
-      "title": "Scoop: Rubio and EU official had heated exchange on Russia at G7 meeting",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Scoop: Rubio and EU official had heated exchange on Russia at G7 meeting",
-      "source_url": "https://www.axios.com/2026/03/28/rubio-kallas-ukraine-russia-argument-g7"
     }
   ],
   "diplomatic_visits": [
@@ -54,14 +54,6 @@
   ],
   "elections": [
     {
-      "title": "Vance Visits Hungary to Boost Orban Before Election",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Vance Visits Hungary to Boost Orban Before Election",
-      "source_url": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html"
-    },
-    {
       "title": "Vance visits Hungary to bolster support for prime minister ahead of election",
       "country": "Hungary",
       "election_type": "National",
@@ -70,119 +62,132 @@
       "source_url": "https://www.npr.org/2026/04/07/nx-s1-5775715/vance-visits-hungary-to-bolster-support-for-prime-minister-ahead-of-election"
     },
     {
-      "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
+      "title": "Traders Line Up Wagers on Hungary’s Markets as Election Nears",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Traders Line Up Wagers on Hungary’s Markets as Election Nears",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/traders-line-up-wagers-on-hungary-s-markets-as-election-nears"
+    },
+    {
+      "title": "Democrats build on overperformance streak in Wisconsin, Georgia elections",
+      "country": "Georgia",
+      "election_type": "National",
+      "date": "",
+      "description": "Democrats build on overperformance streak in Wisconsin, Georgia elections",
+      "source_url": "https://thehill.com/homenews/campaign/5820595-democrats-overperformance-wisconsin-georgia-elections"
+    },
+    {
+      "title": "Vietnam's To Lam plans China visit next week after election as president, sources say",
+      "country": "Vietnam",
+      "election_type": "National",
+      "date": "",
+      "description": "Vietnam's To Lam plans China visit next week after election as president, sources say",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/08/asia-pacific/politics/vietnam-to-lam-china-visit"
+    },
+    {
+      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
       "country": "",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news"
-    },
-    {
-      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
-      "source_url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban"
-    },
-    {
-      "title": "Why JD Vance is helping right wing populist Viktor Orbán’s failing election campaign in Hungary",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Why JD Vance is helping right wing populist Viktor Orbán’s failing election campaign in Hungary",
-      "source_url": "https://www.independent.co.uk/news/world/europe/hungary-viktor-orban-jd-vance-trump-eu-b2952945.html"
+      "description": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+      "source_url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. strikes Iran’s Kharg Island as Trump warns ‘a whole civilization will die tonight’",
-      "summary": "U.S. strikes Iran’s Kharg Island as Trump warns ‘a whole civilization will die tonight’",
+      "title": "Trump warns Iran: \"A whole civilization will die tonight\" if no deal",
+      "summary": "Trump warns Iran: \"A whole civilization will die tonight\" if no deal",
       "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
-        "CBC World",
         "CBS News World",
-        "The Guardian World",
+        "NBC News World",
         "Wash Post World",
-        "Bloomberg",
         "Time",
         "The Independent",
-        "Al Jazeera"
+        "France24",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 22,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/07/trump-us-iran-war-threat"
+      "source_url": "https://www.cbsnews.com/news/trump-iran-deal-whole-civilization-will-die"
     },
     {
-      "title": "Taiwan opposition leader arrives in China on ‘journey of peace’",
-      "summary": "Taiwan opposition leader arrives in China on ‘journey of peace’",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "ABC News Intl",
-        "NBC News World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 9,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260407-taiwan-opposition-leader-arrives-in-china-on-journey-of-peace"
-    },
-    {
-      "title": "Australia charges ex‑soldier with 5 war‑crime murders in Afghanistan",
-      "summary": "Australia charges ex‑soldier with 5 war‑crime murders in Afghanistan",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Japan Times"
-      ],
-      "coverage_count": 7,
-      "region": "South Asia",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/04/07/g-s1-116644/australia-charges-ex-soldier-with-5-war-crime-murders-in-afghanistan"
-    },
-    {
-      "title": "Australia's most decorated veteran charged with war crimes",
-      "summary": "Australia's most decorated veteran charged with war crimes",
+      "title": "Australia’s most decorated living soldier charged amid fierce debate over war crimes allegations",
+      "summary": "Australia’s most decorated living soldier charged amid fierce debate over war crimes allegations",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
         "Sky News World",
+        "Fox News World",
         "NYT World",
         "The Independent",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://news.sky.com/story/australian-sas-veteran-ben-roberts-smith-charged-with-war-crime-murders-in-afghanistan-13528789"
+      "source_url": "https://www.foxnews.com/world/australias-decorated-living-soldier-charged-amid-fierce-debate-war-crimes-allegations"
     },
     {
-      "title": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
-      "summary": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
+      "title": "U.S., Iran agree to two-week ceasefire",
+      "summary": "U.S., Iran agree to two-week ceasefire",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "PBS NewsHour",
         "CBC World",
         "CBS News World",
+        "NBC News World",
         "NYT World",
-        "Al Jazeera",
-        "France24"
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent"
       ],
-      "coverage_count": 7,
+      "coverage_count": 34,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/trump-says-he-has-agreed-to-suspend-bombing-and-attack-of-iran-for-two-weeks/article70836115.ece"
+    },
+    {
+      "title": "Dozens of Democrats call for Trump's removal after his Iran threats",
+      "summary": "Dozens of Democrats call for Trump's removal after his Iran threats",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html"
+      "source_url": "https://www.nbcnews.com/politics/congress/democrats-trump-removal-iran-threats-impeachment-25th-amendment-rcna267194"
+    },
+    {
+      "title": "What we know about the two-week ceasefire between the US and Iran",
+      "summary": "What we know about the two-week ceasefire between the US and Iran",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 25,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
