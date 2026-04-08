@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-08T06:00:30.176012Z",
+  "last_updated": "2026-04-08T16:20:16.099289Z",
   "world_org_meetings": [
+    {
+      "title": "India withdraws its offer to host the UN climate summit (COP33) in 2028",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "India withdraws its offer to host the UN climate summit (COP33) in 2028",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-withdraws-its-offer-to-host-the-un-climate-summit-cop33-in-2028/articleshow/130117791.cms"
+    },
     {
       "title": "Iran’s UN envoy says Tehran open to ‘genuine’ talks, rejects temporary ceasefire",
       "organization": "UN",
@@ -28,18 +36,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "U.S. Vice President Vance visits Hungary to boost Orban ahead of pivotal election",
-      "participants": [
-        "U.S Vice President Vance",
-        "Hungary",
-        "Orban"
-      ],
-      "date": "",
-      "location": "",
-      "description": "U.S. Vice President Vance visits Hungary to boost Orban ahead of pivotal election",
-      "source_url": "https://www.thehindu.com/news/international/us-vice-president-vance-hungary-visit-viktor-orban/article70832986.ece"
-    },
-    {
       "title": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
       "participants": [
         "Amid",
@@ -54,87 +50,50 @@
   ],
   "elections": [
     {
-      "title": "Vance visits Hungary to bolster support for prime minister ahead of election",
+      "title": "JD Vance claims US is not interfering in Hungary election",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Vance visits Hungary to bolster support for prime minister ahead of election",
-      "source_url": "https://www.npr.org/2026/04/07/nx-s1-5775715/vance-visits-hungary-to-bolster-support-for-prime-minister-ahead-of-election"
+      "description": "JD Vance claims US is not interfering in Hungary election",
+      "source_url": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban"
     },
     {
-      "title": "Traders Line Up Wagers on Hungary’s Markets as Election Nears",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Traders Line Up Wagers on Hungary’s Markets as Election Nears",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-08/traders-line-up-wagers-on-hungary-s-markets-as-election-nears"
-    },
-    {
-      "title": "Democrats build on overperformance streak in Wisconsin, Georgia elections",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "Democrats build on overperformance streak in Wisconsin, Georgia elections",
-      "source_url": "https://thehill.com/homenews/campaign/5820595-democrats-overperformance-wisconsin-georgia-elections"
-    },
-    {
-      "title": "Vietnam's To Lam plans China visit next week after election as president, sources say",
-      "country": "Vietnam",
-      "election_type": "National",
-      "date": "",
-      "description": "Vietnam's To Lam plans China visit next week after election as president, sources say",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/08/asia-pacific/politics/vietnam-to-lam-china-visit"
-    },
-    {
-      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+      "title": "Assam assembly elections 2026: Full list of candidates as the state heads to high-stakes vote on April 9",
       "country": "",
-      "election_type": "Presidential",
+      "election_type": "National",
       "date": "",
-      "description": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
-      "source_url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss"
+      "description": "Assam assembly elections 2026: Full list of candidates as the state heads to high-stakes vote on April 9",
+      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-full-list-of-candidates-as-the-state-heads-to-high-stakes-vote-on-april-9/articleshow/130115242.cms"
+    },
+    {
+      "title": "Vance praises Hungary's Orbán, accuses EU of influencing election",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Vance praises Hungary's Orbán, accuses EU of influencing election",
+      "source_url": "https://www.cbsnews.com/news/jd-vance-viktor-orban-hungary-support-election"
+    },
+    {
+      "title": "Assam assembly elections 2026: Identity, power &amp; the battle of 'Asomiya Jatiyotabad'",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Assam assembly elections 2026: Identity, power &amp; the battle of 'Asomiya Jatiyotabad'",
+      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-identity-power-the-battle-asomiya-jatiyotabad-raijor-dal-agp-bjp-congress-ajp-cpm-tmc/articleshow/130112670.cms"
+    },
+    {
+      "title": "Zubeen echoes in Assam election campaign, fans say ‘he would never want this’",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zubeen echoes in Assam election campaign, fans say ‘he would never want this’",
+      "source_url": "https://timesofindia.indiatimes.com/india/zubeen-echoes-in-assam-election-campaign-fans-say-he-would-never-want-this/articleshow/130117521.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Trump warns Iran: \"A whole civilization will die tonight\" if no deal",
-      "summary": "Trump warns Iran: \"A whole civilization will die tonight\" if no deal",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "Wash Post World",
-        "Time",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/trump-iran-deal-whole-civilization-will-die"
-    },
-    {
-      "title": "Australia’s most decorated living soldier charged amid fierce debate over war crimes allegations",
-      "summary": "Australia’s most decorated living soldier charged amid fierce debate over war crimes allegations",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "Sky News World",
-        "Fox News World",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/australias-decorated-living-soldier-charged-amid-fierce-debate-war-crimes-allegations"
-    },
-    {
-      "title": "U.S., Iran agree to two-week ceasefire",
-      "summary": "U.S., Iran agree to two-week ceasefire",
+      "title": "How Trump went from threatening Iran's annihilation to agreeing to a two-week ceasefire in a day",
+      "summary": "How Trump went from threatening Iran's annihilation to agreeing to a two-week ceasefire in a day",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -142,32 +101,51 @@
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "NYT World",
+        "Sky News World",
         "The Guardian World",
-        "Bloomberg",
-        "The Independent"
+        "Wash Post World",
+        "Bloomberg"
       ],
-      "coverage_count": 34,
+      "coverage_count": 25,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/trump-says-he-has-agreed-to-suspend-bombing-and-attack-of-iran-for-two-weeks/article70836115.ece"
+      "source_url": "https://www.pbs.org/newshour/world/how-trump-went-from-threatening-irans-annihilation-to-agreeing-to-a-two-week-ceasefire-in-a-day"
     },
     {
-      "title": "Dozens of Democrats call for Trump's removal after his Iran threats",
-      "summary": "Dozens of Democrats call for Trump's removal after his Iran threats",
+      "title": "U.S. says Iran ceasefire doesn't apply to Israeli strikes in Lebanon",
+      "summary": "U.S. says Iran ceasefire doesn't apply to Israeli strikes in Lebanon",
       "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Hindu Intl",
+        "PBS NewsHour",
+        "CBC World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "UN News",
         "The Hill",
         "Axios"
       ],
       "coverage_count": 9,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/politics/congress/democrats-trump-removal-iran-threats-impeachment-25th-amendment-rcna267194"
+      "category": "Conflict",
+      "source_url": "https://www.axios.com/2026/04/08/lebanon-attacks-israel-iran-ceasfire"
+    },
+    {
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "summary": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "Sky News World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "What we know about the two-week ceasefire between the US and Iran",
@@ -178,16 +156,36 @@
         "PBS NewsHour",
         "CBS News World",
         "NBC News World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg"
       ],
       "coverage_count": 25,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pope Leo welcomes Iran war ceasefire after condemning Trump’s ‘unacceptable’ threat",
+      "summary": "Pope Leo welcomes Iran war ceasefire after condemning Trump’s ‘unacceptable’ threat",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "The Independent"
+      ],
+      "coverage_count": 15,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/pope-leo-iran-war-ceasefire-trump-threat-b2953648.html"
     }
   ]
 }
