@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-04-08T16:20:16.099289Z",
+  "last_updated": "2026-04-09T05:59:27.163868Z",
   "world_org_meetings": [
     {
-      "title": "India withdraws its offer to host the UN climate summit (COP33) in 2028",
-      "organization": "UN",
+      "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "India withdraws its offer to host the UN climate summit (COP33) in 2028",
-      "source_url": "https://timesofindia.indiatimes.com/india/india-withdraws-its-offer-to-host-the-un-climate-summit-cop33-in-2028/articleshow/130117791.cms"
+      "description": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "source_url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
     },
     {
-      "title": "Iran’s UN envoy says Tehran open to ‘genuine’ talks, rejects temporary ceasefire",
-      "organization": "UN",
+      "title": "Trump criticizes NATO over Iran in meeting with alliance's boss",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Iran’s UN envoy says Tehran open to ‘genuine’ talks, rejects temporary ceasefire",
-      "source_url": "https://thehill.com/policy/international/5820282-iran-envoy-un-negotiations"
+      "description": "Trump criticizes NATO over Iran in meeting with alliance's boss",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/09/world/politics/trump-nato-rutte-meeting"
+    },
+    {
+      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "source_url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
@@ -34,158 +42,142 @@
       "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167232"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
-      "participants": [
-        "Amid",
-        "King Charles",
-        "U.S"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Amid political tensions, King Charles will be in a 'delicate diplomatic situation' during U.S. state visit",
-      "source_url": "https://www.cbc.ca/news/world/king-charles-state-visit-united-states-prince-william-faith-9.7152957?cmp=rss"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "JD Vance claims US is not interfering in Hungary election",
-      "country": "Hungary",
+      "title": "State elections 2026 top developments: BJP eyes third term in Assam, NDA-INDIA face-off in Puducherry and a three-way contest in Kerala",
+      "country": "India",
       "election_type": "National",
       "date": "",
-      "description": "JD Vance claims US is not interfering in Hungary election",
-      "source_url": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban"
+      "description": "State elections 2026 top developments: BJP eyes third term in Assam, NDA-INDIA face-off in Puducherry and a three-way contest in Kerala",
+      "source_url": "https://timesofindia.indiatimes.com/india/state-elections-2026-top-developments-live-bjp-eyes-third-term-in-assam-nda-india-face-off-in-puducherry-and-a-three-way-contest-in-kerala/articleshow/130130677.cms"
     },
     {
-      "title": "Assam assembly elections 2026: Full list of candidates as the state heads to high-stakes vote on April 9",
+      "title": "Key Indian state elections test Modi party reach in key big opposition strongholds",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Assam assembly elections 2026: Full list of candidates as the state heads to high-stakes vote on April 9",
-      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-full-list-of-candidates-as-the-state-heads-to-high-stakes-vote-on-april-9/articleshow/130115242.cms"
+      "description": "Key Indian state elections test Modi party reach in key big opposition strongholds",
+      "source_url": "https://abcnews.com/International/wireStory/key-indian-states-hold-elections-test-reach-modis-131867357"
     },
     {
-      "title": "Vance praises Hungary's Orbán, accuses EU of influencing election",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Vance praises Hungary's Orbán, accuses EU of influencing election",
-      "source_url": "https://www.cbsnews.com/news/jd-vance-viktor-orban-hungary-support-election"
-    },
-    {
-      "title": "Assam assembly elections 2026: Identity, power &amp; the battle of 'Asomiya Jatiyotabad'",
+      "title": "Puducherry assembly elections 2026: Top thriller seats to watch",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Assam assembly elections 2026: Identity, power &amp; the battle of 'Asomiya Jatiyotabad'",
-      "source_url": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-identity-power-the-battle-asomiya-jatiyotabad-raijor-dal-agp-bjp-congress-ajp-cpm-tmc/articleshow/130112670.cms"
+      "description": "Puducherry assembly elections 2026: Top thriller seats to watch",
+      "source_url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-elections-2026-top-thriller-seats-to-watch/articleshow/130118805.cms"
     },
     {
-      "title": "Zubeen echoes in Assam election campaign, fans say ‘he would never want this’",
+      "title": "Bengal assembly elections: After SIR, number of voters in Mamata Banerjee's seat down 25%",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Zubeen echoes in Assam election campaign, fans say ‘he would never want this’",
-      "source_url": "https://timesofindia.indiatimes.com/india/zubeen-echoes-in-assam-election-campaign-fans-say-he-would-never-want-this/articleshow/130117521.cms"
+      "description": "Bengal assembly elections: After SIR, number of voters in Mamata Banerjee's seat down 25%",
+      "source_url": "https://timesofindia.indiatimes.com/india/after-sir-number-of-voters-in-mamata-banerjees-seat-down-25/articleshow/130125948.cms"
+    },
+    {
+      "title": "Strategic Djibouti to vote in presidential election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Strategic Djibouti to vote in presidential election",
+      "source_url": "https://www.france24.com/en/strategic-djibouti-to-vote-in-presidential-election"
     }
   ],
   "global_events": [
-    {
-      "title": "How Trump went from threatening Iran's annihilation to agreeing to a two-week ceasefire in a day",
-      "summary": "How Trump went from threatening Iran's annihilation to agreeing to a two-week ceasefire in a day",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg"
-      ],
-      "coverage_count": 25,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/how-trump-went-from-threatening-irans-annihilation-to-agreeing-to-a-two-week-ceasefire-in-a-day"
-    },
-    {
-      "title": "U.S. says Iran ceasefire doesn't apply to Israeli strikes in Lebanon",
-      "summary": "U.S. says Iran ceasefire doesn't apply to Israeli strikes in Lebanon",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "UN News",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.axios.com/2026/04/08/lebanon-attacks-israel-iran-ceasfire"
-    },
-    {
-      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "summary": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "Sky News World",
-        "The Guardian World",
-        "Bloomberg",
-        "The Independent",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "What we know about the two-week ceasefire between the US and Iran",
       "summary": "What we know about the two-week ceasefire between the US and Iran",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "PBS NewsHour",
         "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg"
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
-      "coverage_count": 25,
+      "coverage_count": 20,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pope Leo welcomes Iran war ceasefire after condemning Trump’s ‘unacceptable’ threat",
-      "summary": "Pope Leo welcomes Iran war ceasefire after condemning Trump’s ‘unacceptable’ threat",
+      "title": "Iran-US Truce in Doubt as Israel Strikes Lebanon",
+      "summary": "Iran-US Truce in Doubt as Israel Strikes Lebanon",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "CBS News World",
         "NBC News World",
         "NYT World",
         "Wash Post World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "UN News",
+        "Axios"
+      ],
+      "coverage_count": 18,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-04-09/iran-us-truce-in-doubt-as-israel-strikes-lebanon-video"
+    },
+    {
+      "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "summary": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "outlets_covering": [
+        "Al Jazeera",
+        "DW World",
+        "France24",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
+    },
+    {
+      "title": "Iran-Israel war updates: Ceasefire threatened as Israel expands Lebanon strikes, Iran closes strait again",
+      "summary": "Iran-Israel war updates: Ceasefire threatened as Israel expands Lebanon strikes, Iran closes strait again",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "NBC News World",
+        "NYT World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-8-2026/article70836852.ece"
+    },
+    {
+      "title": "Americans question Trump’s instinct on Iran war",
+      "summary": "Americans question Trump’s instinct on Iran war",
+      "outlets_covering": [
+        "NPR World",
+        "NYT World",
+        "Wash Post World",
         "Time",
-        "The Independent"
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
       ],
       "coverage_count": 15,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/pope-leo-iran-war-ceasefire-trump-threat-b2953648.html"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss"
     }
   ]
 }
