@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-09T05:59:27.163868Z",
+  "last_updated": "2026-04-09T16:48:12.105109Z",
   "world_org_meetings": [
     {
-      "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "title": "Watch live: NATO’s Mark Rutte gives remarks after meeting with Trump",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-      "source_url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
+      "description": "Watch live: NATO’s Mark Rutte gives remarks after meeting with Trump",
+      "source_url": "https://thehill.com/video-clips/5823549-watch-live-mark-rutte-nato-threats-trump-meeting-iran"
     },
     {
       "title": "Trump criticizes NATO over Iran in meeting with alliance's boss",
@@ -26,63 +26,63 @@
       "source_url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Trump complains NATO 'wasn't there when we needed them' after talks with Rutte",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump complains NATO 'wasn't there when we needed them' after talks with Rutte",
+      "source_url": "https://www.pbs.org/newshour/world/trump-complains-nato-wasnt-there-when-we-needed-them-after-talks-with-rutte"
+    },
+    {
       "title": "No IMF and World Bank spring meetings without a global crisis",
       "organization": "IMF",
       "date": "",
       "location": "",
       "description": "No IMF and World Bank spring meetings without a global crisis",
       "source_url": "https://www.atlanticcouncil.org/blogs/econographics/no-imf-and-world-bank-spring-meetings-without-a-global-crisis"
-    },
-    {
-      "title": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/03/1167232"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "State elections 2026 top developments: BJP eyes third term in Assam, NDA-INDIA face-off in Puducherry and a three-way contest in Kerala",
+      "title": "MEPs raise alarm about possible Russian meddling in Hungary elections",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "MEPs raise alarm about possible Russian meddling in Hungary elections",
+      "source_url": "https://www.theguardian.com/world/2026/apr/09/meps-alarm-possible-russian-interference-hungary-elections"
+    },
+    {
+      "title": "India’s Assam and Kerala states hold legislative assembly elections",
       "country": "India",
-      "election_type": "National",
+      "election_type": "Legislative",
       "date": "",
-      "description": "State elections 2026 top developments: BJP eyes third term in Assam, NDA-INDIA face-off in Puducherry and a three-way contest in Kerala",
-      "source_url": "https://timesofindia.indiatimes.com/india/state-elections-2026-top-developments-live-bjp-eyes-third-term-in-assam-nda-india-face-off-in-puducherry-and-a-three-way-contest-in-kerala/articleshow/130130677.cms"
+      "description": "India’s Assam and Kerala states hold legislative assembly elections",
+      "source_url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections?traffic_source=rss"
     },
     {
-      "title": "Key Indian state elections test Modi party reach in key big opposition strongholds",
+      "title": "Politicians spent five times the amount on security in 2024 election cycle compared to 2016, new report shows",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Key Indian state elections test Modi party reach in key big opposition strongholds",
-      "source_url": "https://abcnews.com/International/wireStory/key-indian-states-hold-elections-test-reach-modis-131867357"
+      "description": "Politicians spent five times the amount on security in 2024 election cycle compared to 2016, new report shows",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/political-threats-security-election-spending-b2954497.html"
     },
     {
-      "title": "Puducherry assembly elections 2026: Top thriller seats to watch",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Puducherry assembly elections 2026: Top thriller seats to watch",
-      "source_url": "https://timesofindia.indiatimes.com/india/puducherry-assembly-elections-2026-top-thriller-seats-to-watch/articleshow/130118805.cms"
-    },
-    {
-      "title": "Bengal assembly elections: After SIR, number of voters in Mamata Banerjee's seat down 25%",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Bengal assembly elections: After SIR, number of voters in Mamata Banerjee's seat down 25%",
-      "source_url": "https://timesofindia.indiatimes.com/india/after-sir-number-of-voters-in-mamata-banerjees-seat-down-25/articleshow/130125948.cms"
-    },
-    {
-      "title": "Strategic Djibouti to vote in presidential election",
-      "country": "",
+      "title": "A record-breaking field: What to expect from Peru’s presidential election",
+      "country": "Peru",
       "election_type": "Presidential",
       "date": "",
-      "description": "Strategic Djibouti to vote in presidential election",
-      "source_url": "https://www.france24.com/en/strategic-djibouti-to-vote-in-presidential-election"
+      "description": "A record-breaking field: What to expect from Peru’s presidential election",
+      "source_url": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election?traffic_source=rss"
+    },
+    {
+      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
+      "country": "Ukraine",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
+      "source_url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
@@ -91,93 +91,87 @@
       "summary": "What we know about the two-week ceasefire between the US and Iran",
       "outlets_covering": [
         "BBC World",
-        "PBS NewsHour",
         "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
         "Time",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "Axios"
       ],
-      "coverage_count": 20,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran-US Truce in Doubt as Israel Strikes Lebanon",
-      "summary": "Iran-US Truce in Doubt as Israel Strikes Lebanon",
+      "title": "Israeli Strikes in Lebanon Strain Fragile Iran Truce",
+      "summary": "Israeli Strikes in Lebanon Strain Fragile Iran Truce",
       "outlets_covering": [
+        "BBC World",
         "PBS NewsHour",
+        "CBS News World",
         "NBC News World",
-        "NYT World",
         "Wash Post World",
         "Bloomberg",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "UN News",
-        "Axios"
-      ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-04-09/iran-us-truce-in-doubt-as-israel-strikes-lebanon-video"
-    },
-    {
-      "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-      "summary": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-      "outlets_covering": [
-        "Al Jazeera",
         "DW World",
-        "France24",
-        "Japan Times",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
-    },
-    {
-      "title": "Iran-Israel war updates: Ceasefire threatened as Israel expands Lebanon strikes, Iran closes strait again",
-      "summary": "Iran-Israel war updates: Ceasefire threatened as Israel expands Lebanon strikes, Iran closes strait again",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "NBC News World",
-        "NYT World",
-        "Bloomberg",
-        "Al Jazeera",
         "France24",
         "The Hindu Intl",
         "The Hill"
       ],
       "coverage_count": 13,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-8-2026/article70836852.ece"
+      "category": "Politics",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-04-09/israeli-strikes-in-lebanon-strain-fragile-iran-truce-video"
     },
     {
-      "title": "Americans question Trump’s instinct on Iran war",
-      "summary": "Americans question Trump’s instinct on Iran war",
+      "title": "Watch live: NATO’s Mark Rutte gives remarks after meeting with Trump",
+      "summary": "Watch live: NATO’s Mark Rutte gives remarks after meeting with Trump",
       "outlets_covering": [
-        "NPR World",
-        "NYT World",
+        "Sky News World",
         "Wash Post World",
-        "Time",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
+        "DW World",
+        "Japan Times",
         "The Hindu Intl",
-        "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 15,
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://thehill.com/video-clips/5823549-watch-live-mark-rutte-nato-threats-trump-meeting-iran"
+    },
+    {
+      "title": "Trump Threatens 'Bigger and Stronger' Attacks If Iran Doesn’t Comply With 'Real Agreement'",
+      "summary": "Trump Threatens 'Bigger and Stronger' Attacks If Iran Doesn’t Comply With 'Real Agreement'",
+      "outlets_covering": [
+        "Time",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss"
+      "source_url": "https://time.com/article/2026/04/09/trump-threatens-stronger-attacks-if-iran-doesnt-comply-with-real-ceasefire-agreement"
+    },
+    {
+      "title": "Has US achieved its war objectives in Iran?",
+      "summary": "Has US achieved its war objectives in Iran?",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "Al Jazeera",
+        "DW World",
+        "France24",
+        "Foreign Policy",
+        "Atlantic Council",
+        "Axios"
+      ],
+      "coverage_count": 16,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
