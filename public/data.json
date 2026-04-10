@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T06:18:30.187810Z",
+  "last_updated": "2026-04-10T12:45:46.487111Z",
   "world_org_meetings": [
     {
       "title": "Watch live: NATO’s Mark Rutte gives remarks after meeting with Trump",
@@ -44,6 +44,17 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "North Korea and China agree to deepen cooperation in talks between foreign ministers",
+      "participants": [
+        "North Korea",
+        "China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "North Korea and China agree to deepen cooperation in talks between foreign ministers",
+      "source_url": "https://abcnews.com/International/wireStory/north-korea-china-agree-deepen-cooperation-talks-foreign-131901523"
+    },
+    {
       "title": "State Department to hold ceasefire talks between Israel, Lebanon",
       "participants": [
         "State Department",
@@ -55,60 +66,112 @@
       "source_url": "https://thehill.com/homenews/administration/5824617-israel-lebanon-ceasefire-talks"
     },
     {
-      "title": "North Korea, China agree to deepen cooperation in talks between Foreign Ministers",
+      "title": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
       "participants": [
-        "North Korea China",
-        "Foreign Ministers"
+        "China's Xi",
+        "Taiwan",
+        "Trump"
       ],
       "date": "",
       "location": "",
-      "description": "North Korea, China agree to deepen cooperation in talks between Foreign Ministers",
-      "source_url": "https://www.thehindu.com/news/international/north-korea-china-agree-to-deepen-cooperation-in-talks-between-foreign-ministers/article70845762.ece"
+      "description": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
+      "source_url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition"
+    },
+    {
+      "title": "Deep Purple thrills Japan’s superfan prime minister with a quick visit",
+      "participants": [
+        "Deep Purple",
+        "Japan’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Deep Purple thrills Japan’s superfan prime minister with a quick visit",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/10/japan/sanae-takaichi-meets-deep-purple"
     }
   ],
   "elections": [
     {
-      "title": "Orban Warns of ‘Danger’ If Hungarians Oust Him in Elections",
+      "title": "Viktor Orban&#039;s Chances of Winning Hungary Election Hit New Low",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Viktor Orban&#039;s Chances of Winning Hungary Election Hit New Low",
+      "source_url": "https://www.newsweek.com/viktor-orban-chances-winning-hungary-election-hit-new-low-11810597"
+    },
+    {
+      "title": "Hungary's election could end Orbán's journey from liberal firebrand to far-right leader",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary's election could end Orbán's journey from liberal firebrand to far-right leader",
+      "source_url": "https://abcnews.com/International/wireStory/hungarys-election-end-orbns-journey-liberal-firebrand-leader-131911273"
+    },
+    {
+      "title": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates"
+    },
+    {
+      "title": "Myanmar military chief who led 2021 army takeover takes presidency after criticized election",
+      "country": "Myanmar",
+      "election_type": "National",
+      "date": "",
+      "description": "Myanmar military chief who led 2021 army takeover takes presidency after criticized election",
+      "source_url": "https://abcnews.com/International/wireStory/myanmar-military-chief-led-2021-army-takeover-takes-131908564"
+    },
+    {
+      "title": "Djibouti holds presidential election with longtime ruler favored for a sixth term",
       "country": "",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Orban Warns of ‘Danger’ If Hungarians Oust Him in Elections",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-10/orban-warns-of-danger-if-hungarians-oust-him-in-elections"
-    },
-    {
-      "title": "'Revelations show how vulnerable Bengal’s Muslims are': Owaisi's AIMIM breaks alliance with Humayun Kabir’s party before elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "'Revelations show how vulnerable Bengal’s Muslims are': Owaisi's AIMIM breaks alliance with Humayun Kabir’s party before elections",
-      "source_url": "https://timesofindia.indiatimes.com/india/revelations-show-how-vulnerable-bengals-muslims-are-owaisis-aimim-breaks-alliance-with-humayun-kabirs-party-before-elections/articleshow/130158215.cms"
-    },
-    {
-      "title": "Who is Péter Magyar, the man leading the polls as Hungary prepares for election?",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Who is Péter Magyar, the man leading the polls as Hungary prepares for election?",
-      "source_url": "https://www.theguardian.com/world/2026/apr/10/peter-magyar-leading-polls-hungary-election-tisza-opposition"
-    },
-    {
-      "title": "Hungary’s election could end Orban era and reshape its place in Europe",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungary’s election could end Orban era and reshape its place in Europe",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/10/world/politics/hungary-election-viktor-orban-era"
-    },
-    {
-      "title": "MEPs raise alarm about possible Russian meddling in Hungary elections",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "MEPs raise alarm about possible Russian meddling in Hungary elections",
-      "source_url": "https://www.theguardian.com/world/2026/apr/09/meps-alarm-possible-russian-interference-hungary-elections"
+      "description": "Djibouti holds presidential election with longtime ruler favored for a sixth term",
+      "source_url": "https://abcnews.com/International/wireStory/djibouti-holds-presidential-election-longtime-ruler-favored-sixth-131907189"
     }
   ],
   "global_events": [
+    {
+      "title": "Russia and Ukraine agree to Orthodox Easter truce",
+      "summary": "Russia and Ukraine agree to Orthodox Easter truce",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "Al Jazeera",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 11,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Israel and Lebanon to hold ceasefire talks",
+      "summary": "Israel and Lebanon to hold ceasefire talks",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent"
+      ],
+      "coverage_count": 26,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/04/10/nx-s1-5779758/israel-and-lebanon-to-hold-ceasefire-talks"
+    },
     {
       "title": "Putin declares ceasefire in Ukraine for Orthodox Easter",
       "summary": "Putin declares ceasefire in Ukraine for Orthodox Easter",
@@ -116,43 +179,25 @@
         "BBC World",
         "PBS NewsHour",
         "CBC World",
+        "ABC News Intl",
         "CBS News World",
+        "Sky News World",
         "NYT World",
-        "The Guardian World",
+        "Al Jazeera",
         "DW World",
-        "France24",
-        "The Hindu Intl"
+        "France24"
       ],
-      "coverage_count": 9,
+      "coverage_count": 11,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/putin-declares-ceasefire-in-ukraine-for-orthodox-easter/article70844673.ece"
-    },
-    {
-      "title": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire",
-      "summary": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss"
     },
     {
       "title": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
       "summary": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
@@ -160,8 +205,7 @@
         "NYT World",
         "The Guardian World",
         "The Independent",
-        "Al Jazeera",
-        "France24"
+        "Al Jazeera"
       ],
       "coverage_count": 17,
       "region": "Middle East",
@@ -176,35 +220,14 @@
         "NPR World",
         "CBS News World",
         "NBC News World",
-        "Sky News World",
-        "NYT World",
         "Time",
-        "Al Jazeera",
         "The Hindu Intl",
         "Axios"
       ],
-      "coverage_count": 13,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Middle East crisis live: Trump casts doubt on Iran war ceasefire over continued closure of strait of Hormuz",
-      "summary": "Middle East crisis live: Trump casts doubt on Iran war ceasefire over continued closure of strait of Hormuz",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah"
     }
   ]
 }
