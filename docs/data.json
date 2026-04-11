@@ -1,37 +1,21 @@
 {
-  "last_updated": "2026-04-10T12:45:46.487111Z",
+  "last_updated": "2026-04-11T01:20:24.729187Z",
   "world_org_meetings": [
     {
-      "title": "Watch live: NATO’s Mark Rutte gives remarks after meeting with Trump",
+      "title": "Donald Trump blasts NATO after closed-door meeting with Mark Rutte",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Watch live: NATO’s Mark Rutte gives remarks after meeting with Trump",
-      "source_url": "https://thehill.com/video-clips/5823549-watch-live-mark-rutte-nato-threats-trump-meeting-iran"
+      "description": "Donald Trump blasts NATO after closed-door meeting with Mark Rutte",
+      "source_url": "https://www.thehindu.com/news/international/donald-trump-blasts-nato-after-closed-door-meeting-with-mark-rutte/article70841451.ece"
     },
     {
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "title": "Trump hits out at NATO after meeting alliance chief",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-      "source_url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump complains NATO 'wasn't there when we needed them' after talks with Rutte",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump complains NATO 'wasn't there when we needed them' after talks with Rutte",
-      "source_url": "https://www.pbs.org/newshour/world/trump-complains-nato-wasnt-there-when-we-needed-them-after-talks-with-rutte"
-    },
-    {
-      "title": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader",
-      "source_url": "https://www.washingtonpost.com/politics/2026/04/08/trump-nato-withdrawal-rutte"
+      "description": "Trump hits out at NATO after meeting alliance chief",
+      "source_url": "https://news.sky.com/story/trump-hits-out-at-nato-after-meeting-alliance-chief-13529515"
     },
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
@@ -66,6 +50,18 @@
       "source_url": "https://thehill.com/homenews/administration/5824617-israel-lebanon-ceasefire-talks"
     },
     {
+      "title": "Why peace talks between the US and Iran are happening in Islamabad",
+      "participants": [
+        "Why",
+        "Iran",
+        "Islamabad"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Why peace talks between the US and Iran are happening in Islamabad",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/islamabad-talks-iran-war-trump-jd-vance-pakistan-b2955585.html"
+    },
+    {
       "title": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
       "participants": [
         "China's Xi",
@@ -91,87 +87,47 @@
   ],
   "elections": [
     {
-      "title": "Viktor Orban&#039;s Chances of Winning Hungary Election Hit New Low",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Viktor Orban&#039;s Chances of Winning Hungary Election Hit New Low",
-      "source_url": "https://www.newsweek.com/viktor-orban-chances-winning-hungary-election-hit-new-low-11810597"
-    },
-    {
-      "title": "Hungary's election could end Orbán's journey from liberal firebrand to far-right leader",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungary's election could end Orbán's journey from liberal firebrand to far-right leader",
-      "source_url": "https://abcnews.com/International/wireStory/hungarys-election-end-orbns-journey-liberal-firebrand-leader-131911273"
-    },
-    {
-      "title": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungary election campaigns enter final stretch as Orbán fights to remain in power – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates"
-    },
-    {
-      "title": "Myanmar military chief who led 2021 army takeover takes presidency after criticized election",
-      "country": "Myanmar",
-      "election_type": "National",
-      "date": "",
-      "description": "Myanmar military chief who led 2021 army takeover takes presidency after criticized election",
-      "source_url": "https://abcnews.com/International/wireStory/myanmar-military-chief-led-2021-army-takeover-takes-131908564"
-    },
-    {
-      "title": "Djibouti holds presidential election with longtime ruler favored for a sixth term",
+      "title": "Hungarian election could end Orb&aacute;n's grip on power and alter Europe's political landscape",
       "country": "",
-      "election_type": "Presidential",
+      "election_type": "National",
       "date": "",
-      "description": "Djibouti holds presidential election with longtime ruler favored for a sixth term",
-      "source_url": "https://abcnews.com/International/wireStory/djibouti-holds-presidential-election-longtime-ruler-favored-sixth-131907189"
+      "description": "Hungarian election could end Orb&aacute;n's grip on power and alter Europe's political landscape",
+      "source_url": "https://www.pbs.org/newshour/show/hungarian-election-could-end-orbans-grip-on-power-and-alter-europes-political-landscape"
+    },
+    {
+      "title": "West Bengal elections: Owaisi dumps Kabir after sting video on 'Rs 1k crore BJP deal'",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "West Bengal elections: Owaisi dumps Kabir after sting video on 'Rs 1k crore BJP deal'",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-owaisi-dumps-kabir-after-sting-video-on-rs-1k-crore-bjp-deal/articleshow/130179864.cms"
+    },
+    {
+      "title": "Why is Hungary’s election so important on the international stage?",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Why is Hungary’s election so important on the international stage?",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss"
+    },
+    {
+      "title": "As Hungary gears up for a historic election, DW answers a few key questions",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "As Hungary gears up for a historic election, DW answers a few key questions",
+      "source_url": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
+      "source_url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments"
     }
   ],
   "global_events": [
-    {
-      "title": "Russia and Ukraine agree to Orthodox Easter truce",
-      "summary": "Russia and Ukraine agree to Orthodox Easter truce",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "Al Jazeera",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 11,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Israel and Lebanon to hold ceasefire talks",
-      "summary": "Israel and Lebanon to hold ceasefire talks",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent"
-      ],
-      "coverage_count": 26,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/04/10/nx-s1-5779758/israel-and-lebanon-to-hold-ceasefire-talks"
-    },
     {
       "title": "Putin declares ceasefire in Ukraine for Orthodox Easter",
       "summary": "Putin declares ceasefire in Ukraine for Orthodox Easter",
@@ -179,55 +135,86 @@
         "BBC World",
         "PBS NewsHour",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "Al Jazeera",
         "DW World",
-        "France24"
+        "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 8,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/putin-declares-ceasefire-in-ukraine-for-orthodox-easter/article70844673.ece"
     },
     {
-      "title": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
-      "summary": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
+      "title": "Iran War Live Updates: Iranian Delegation Arrives at Peace Talks, With Vance en Route",
+      "summary": "Iran War Live Updates: Iranian Delegation Arrives at Peace Talks, With Vance en Route",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "PBS NewsHour",
-        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon"
+    },
+    {
+      "title": "Live Updates: U.S., Iran prepare for talks as shaky ceasefire holds",
+      "summary": "Live Updates: U.S., Iran prepare for talks as shaky ceasefire holds",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks"
+    },
+    {
+      "title": "Vance heads to Pakistan for peace talks as Trump issues new threats against Iran",
+      "summary": "Vance heads to Pakistan for peace talks as Trump issues new threats against Iran",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
+        "Wash Post World",
         "The Independent",
-        "Al Jazeera"
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 17,
+      "coverage_count": 21,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/apr/09/israel-bombing-lebanon-us-iran-ceasefire-condemnation"
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/vance-heads-to-pakistan-for-peace-talks-as-trump-issues-new-threats-against-iran"
     },
     {
-      "title": "What we know about the two-week ceasefire between the US and Iran",
-      "summary": "What we know about the two-week ceasefire between the US and Iran",
+      "title": "Zelenskyy says Ukrainian forces shot down Shahed drones in West Asian countries during Iran war",
+      "summary": "Zelenskyy says Ukrainian forces shot down Shahed drones in West Asian countries during Iran war",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
-        "Time",
-        "The Hindu Intl",
-        "Axios"
+        "CBC World",
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.thehindu.com/news/international/zelenskyy-says-ukrainian-forces-shot-down-shahed-drones-in-west-asian-countries-during-iran-war/article70848436.ece"
     }
   ]
 }
