@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-04-11T01:20:24.729187Z",
+  "last_updated": "2026-04-11T12:35:26.760010Z",
   "world_org_meetings": [
-    {
-      "title": "Donald Trump blasts NATO after closed-door meeting with Mark Rutte",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Donald Trump blasts NATO after closed-door meeting with Mark Rutte",
-      "source_url": "https://www.thehindu.com/news/international/donald-trump-blasts-nato-after-closed-door-meeting-with-mark-rutte/article70841451.ece"
-    },
     {
       "title": "Trump hits out at NATO after meeting alliance chief",
       "organization": "NATO",
@@ -39,17 +31,6 @@
       "source_url": "https://abcnews.com/International/wireStory/north-korea-china-agree-deepen-cooperation-talks-foreign-131901523"
     },
     {
-      "title": "State Department to hold ceasefire talks between Israel, Lebanon",
-      "participants": [
-        "State Department",
-        "Israel Lebanon"
-      ],
-      "date": "",
-      "location": "",
-      "description": "State Department to hold ceasefire talks between Israel, Lebanon",
-      "source_url": "https://thehill.com/homenews/administration/5824617-israel-lebanon-ceasefire-talks"
-    },
-    {
       "title": "Why peace talks between the US and Iran are happening in Islamabad",
       "participants": [
         "Why",
@@ -74,113 +55,114 @@
       "source_url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition"
     },
     {
-      "title": "Deep Purple thrills Japan’s superfan prime minister with a quick visit",
+      "title": "U.S. to lead ceasefire talks between Lebanon and Israel in D.C.",
       "participants": [
-        "Deep Purple",
-        "Japan’s"
+        "U.S",
+        "Lebanon",
+        "Israel",
+        "D.C"
       ],
       "date": "",
       "location": "",
-      "description": "Deep Purple thrills Japan’s superfan prime minister with a quick visit",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/10/japan/sanae-takaichi-meets-deep-purple"
+      "description": "U.S. to lead ceasefire talks between Lebanon and Israel in D.C.",
+      "source_url": "https://www.cbsnews.com/news/lebanon-israel-ceasefire-talks-us-washington"
     }
   ],
   "elections": [
     {
-      "title": "Hungarian election could end Orb&aacute;n's grip on power and alter Europe's political landscape",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungarian election could end Orb&aacute;n's grip on power and alter Europe's political landscape",
-      "source_url": "https://www.pbs.org/newshour/show/hungarian-election-could-end-orbans-grip-on-power-and-alter-europes-political-landscape"
-    },
-    {
-      "title": "West Bengal elections: Owaisi dumps Kabir after sting video on 'Rs 1k crore BJP deal'",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "West Bengal elections: Owaisi dumps Kabir after sting video on 'Rs 1k crore BJP deal'",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-owaisi-dumps-kabir-after-sting-video-on-rs-1k-crore-bjp-deal/articleshow/130179864.cms"
-    },
-    {
-      "title": "Why is Hungary’s election so important on the international stage?",
+      "title": "An Orban loss in Hungary’s election could be the turning point Putin fears",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Why is Hungary’s election so important on the international stage?",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss"
+      "description": "An Orban loss in Hungary’s election could be the turning point Putin fears",
+      "source_url": "https://www.france24.com/en/europe/20260411-hungary-election-magyar-orban-could-mark-turning-point-russia-putin-fears"
     },
     {
-      "title": "As Hungary gears up for a historic election, DW answers a few key questions",
+      "title": "Orbán and Magyar hold rival rallies in Hungary ahead of Sunday's elections",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "As Hungary gears up for a historic election, DW answers a few key questions",
-      "source_url": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-world-4025-rdf"
+      "description": "Orbán and Magyar hold rival rallies in Hungary ahead of Sunday's elections",
+      "source_url": "https://www.france24.com/en/video/20260411-orb%C3%A1n-and-magyar-hold-rival-rallies-in-hungary-ahead-of-sunday-s-elections"
     },
     {
-      "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
+      "title": "What’s at stake in Benin’s presidential election?",
       "country": "",
-      "election_type": "Local",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
-      "source_url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments"
+      "description": "What’s at stake in Benin’s presidential election?",
+      "source_url": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss"
+    },
+    {
+      "title": "Peru's election: A battle for the Presidency amid political chaos and crime",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru's election: A battle for the Presidency amid political chaos and crime",
+      "source_url": "https://www.npr.org/2026/04/11/nx-s1-5777736/peru-election-president-crime-corruption"
+    },
+    {
+      "title": "Growing List of Orban Loyalists Defecting Before Critical Election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Growing List of Orban Loyalists Defecting Before Critical Election",
+      "source_url": "https://www.nytimes.com/2026/04/11/world/europe/orban-loyalists-defect.html"
     }
   ],
   "global_events": [
     {
-      "title": "Putin declares ceasefire in Ukraine for Orthodox Easter",
-      "summary": "Putin declares ceasefire in Ukraine for Orthodox Easter",
+      "title": "Russia and Ukraine to hold 32-hour ceasefire for Orthodox Easter",
+      "summary": "Russia and Ukraine to hold 32-hour ceasefire for Orthodox Easter",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "The Independent",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 13,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://news.sky.com/story/russia-and-ukraine-to-hold-32-hour-ceasefire-for-orthodox-easter-13529916"
+    },
+    {
+      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
+      "summary": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
       "outlets_covering": [
         "BBC World",
+        "ABC News Intl",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russia, Ukraine to begin Orthodox Easter truce",
+      "summary": "Russia, Ukraine to begin Orthodox Easter truce",
+      "outlets_covering": [
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "Sky News World",
         "NYT World",
+        "The Independent",
         "DW World",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/putin-declares-ceasefire-in-ukraine-for-orthodox-easter/article70844673.ece"
-    },
-    {
-      "title": "Iran War Live Updates: Iranian Delegation Arrives at Peace Talks, With Vance en Route",
-      "summary": "Iran War Live Updates: Iranian Delegation Arrives at Peace Talks, With Vance en Route",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
-      ],
       "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon"
-    },
-    {
-      "title": "Live Updates: U.S., Iran prepare for talks as shaky ceasefire holds",
-      "summary": "Live Updates: U.S., Iran prepare for talks as shaky ceasefire holds",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks"
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/russia-ukraine-to-begin-orthodox-easter-truce"
     },
     {
       "title": "Vance heads to Pakistan for peace talks as Trump issues new threats against Iran",
@@ -188,33 +170,32 @@
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "Wash Post World",
         "The Independent",
+        "Al Jazeera",
         "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 21,
+      "coverage_count": 22,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/video/vance-heads-to-pakistan-for-peace-talks-as-trump-issues-new-threats-against-iran"
     },
     {
-      "title": "Zelenskyy says Ukrainian forces shot down Shahed drones in West Asian countries during Iran war",
-      "summary": "Zelenskyy says Ukrainian forces shot down Shahed drones in West Asian countries during Iran war",
+      "title": "Iran War Live Updates: U.S. and Iranian Officials Meet Separately With Pakistani Mediators Ahead of Talks",
+      "summary": "Iran War Live Updates: U.S. and Iranian Officials Meet Separately With Pakistani Mediators Ahead of Talks",
       "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "The Independent",
+        "NYT World",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/zelenskyy-says-ukrainian-forces-shot-down-shahed-drones-in-west-asian-countries-during-iran-war/article70848436.ece"
+      "source_url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan"
     }
   ]
 }
