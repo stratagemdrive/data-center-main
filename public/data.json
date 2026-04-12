@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T01:29:49.470665Z",
+  "last_updated": "2026-04-12T12:38:41.504250Z",
   "world_org_meetings": [
     {
       "title": "The IMF Meetings Were Supposed to Be About Trade. Then Came the Iran War.",
@@ -20,15 +20,28 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Pakistan hosts historic face-to-face talks between the US and Iran",
+      "title": "Penny Wong calls failed peace talks between US and Iran ‘disappointing’ and urges resumption",
       "participants": [
-        "Pakistan",
+        "Penny Wong",
         "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "Pakistan hosts historic face-to-face talks between the US and Iran",
-      "source_url": "https://www.npr.org/2026/04/11/nx-s1-5779725/pakistan-hosts-historic-face-to-face-talks-between-the-us-and-iran"
+      "description": "Penny Wong calls failed peace talks between US and Iran ‘disappointing’ and urges resumption",
+      "source_url": "https://www.theguardian.com/australia-news/2026/apr/12/penny-wong-calls-failed-peace-talks-between-us-and-iran-disappointing-and-urges-resumption"
+    },
+    {
+      "title": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader",
+      "participants": [
+        "Iran",
+        "Asia",
+        "Trump's",
+        "China's"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader",
+      "source_url": "https://www.independent.co.uk/news/world/americas/donald-trump-asia-china-middle-east-taiwan-b2955989.html"
     },
     {
       "title": "What To Know About the First Day of Peace Talks Between the U.S. and Iran",
@@ -42,132 +55,138 @@
       "location": "",
       "description": "What To Know About the First Day of Peace Talks Between the U.S. and Iran",
       "source_url": "https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks"
+    },
+    {
+      "title": "Pakistan hosts historic face-to-face talks between the US and Iran",
+      "participants": [
+        "Pakistan",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Pakistan hosts historic face-to-face talks between the US and Iran",
+      "source_url": "https://www.npr.org/2026/04/11/nx-s1-5779725/pakistan-hosts-historic-face-to-face-talks-between-the-us-and-iran"
     }
   ],
   "elections": [
     {
-      "title": "At a concert in Budapest, anti-Orbán sentiments take center stage ahead of election",
+      "title": "Benin holds presidential election amid deteriorating security situation",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Benin holds presidential election amid deteriorating security situation",
+      "source_url": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss"
+    },
+    {
+      "title": "Hungarians vote in landmark election that could unseat Orbán",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "At a concert in Budapest, anti-Orbán sentiments take center stage ahead of election",
-      "source_url": "https://www.npr.org/2026/04/11/nx-s1-5773325/at-a-concert-in-budapest-anti-orban-sentiments-take-center-stage-ahead-of-election"
+      "description": "Hungarians vote in landmark election that could unseat Orbán",
+      "source_url": "https://www.cbc.ca/news/world/hungary-election-viktor-orban-9.7160781?cmp=rss"
     },
     {
-      "title": "In Hungary, upcoming elections could bring an end to Orban's 16-year rule",
+      "title": "Peru votes for new president Sunday",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru votes for new president Sunday",
+      "source_url": "https://www.france24.com/en/peru-votes-for-new-president-sunday"
+    },
+    {
+      "title": "Polls open in Hungary in key election that could unseat populist Prime Minister Orban",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "In Hungary, upcoming elections could bring an end to Orban's 16-year rule",
-      "source_url": "https://www.npr.org/2026/04/11/nx-s1-5773320/in-hungary-upcoming-elections-could-bring-an-end-to-orbans-16-year-rule"
+      "description": "Polls open in Hungary in key election that could unseat populist Prime Minister Orban",
+      "source_url": "https://www.thehindu.com/news/international/hungary-election-viktor-orban-magyar/article70853579.ece"
     },
     {
-      "title": "After 16 years in power, Putin's closest friend in Europe faces a pivotal election",
+      "title": "Ceasefire means Netanyahu can’t keep promises, many Israelis say as elections loom",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "After 16 years in power, Putin's closest friend in Europe faces a pivotal election",
-      "source_url": "https://www.nbcnews.com/world/hungary/16-years-power-putins-closest-friend-europe-faces-pivotal-election-rcna273664"
-    },
-    {
-      "title": "Thousands arrive for free concert against PM Orban ahead of election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Thousands arrive for free concert against PM Orban ahead of election",
-      "source_url": "https://www.thehindu.com/shorts/thousands-arrive-for-free-concert-against-pm-orban-ahead-of-election/article70851894.ece"
-    },
-    {
-      "title": "Hungary elections live: Orban fights to remain in power as voters head to polls in key test for Europe",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungary elections live: Orban fights to remain in power as voters head to polls in key test for Europe",
-      "source_url": "https://www.independent.co.uk/news/world/europe/hungary-elections-live-orban-europe-b2955390.html"
+      "description": "Ceasefire means Netanyahu can’t keep promises, many Israelis say as elections loom",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/12/israel-ceasefire-opposition-netanyahu-war"
     }
   ],
   "global_events": [
     {
-      "title": "Pope Leo XIV denounces the 'delusion of omnipotence' he says is fueling the U.S.-Israeli war in Iran",
-      "summary": "Pope Leo XIV denounces the 'delusion of omnipotence' he says is fueling the U.S.-Israeli war in Iran",
+      "title": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
+      "summary": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
+      "outlets_covering": [
+        "NPR World",
+        "Wash Post World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/04/12/nx-s1-5782052/u-s-and-iran-fail-to-reach-agreement-during-high-level-talks-in-islamabad"
+    },
+    {
+      "title": "Pope Leo calls out 'delusion of omnipotence' fueling Iran war in vigil for peace at St. Peter's Basilica",
+      "summary": "Pope Leo calls out 'delusion of omnipotence' fueling Iran war in vigil for peace at St. Peter's Basilica",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "ABC News Intl",
-        "CBS News World",
+        "Fox News World",
         "The Independent"
       ],
       "coverage_count": 5,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-is-fueling-the-u-s-israeli-war-in-iran"
+      "source_url": "https://www.foxnews.com/world/pope-leo-calls-delusion-omnipotence-fueling-iran-war-vigil-peace-st-peters-basilica"
     },
     {
-      "title": "Orthodox Easter ceasefire falters as Ukraine says Russia continues drone strikes",
-      "summary": "Orthodox Easter ceasefire falters as Ukraine says Russia continues drone strikes",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 15,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/orthodox-easter-ceasefire-falters-as-ukraine-says-russia-continues-drone-strikes"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Easter ceasefire in doubt after four killed in Russian drone strikes",
-      "summary": "Ukraine-Russia war latest: Easter ceasefire in doubt after four killed in Russian drone strikes",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "Atlantic Council"
-      ],
-      "coverage_count": 13,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-easter-ceasefire-latest-news-b2945082.html"
-    },
-    {
-      "title": "Djibouti President Ismail Omar Guelleh is re-elected for sixth term",
-      "summary": "Djibouti President Ismail Omar Guelleh is re-elected for sixth term",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
       "outlets_covering": [
         "BBC World",
         "ABC News Intl",
-        "The Hindu Intl"
+        "CBS News World",
+        "Sky News World",
+        "Fox News World"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/djibouti-president-ismail-omar-guelleh-is-re-elected-for-sixth-term/article70851690.ece"
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
-      "summary": "Netanyahu says there is no ceasefire in Lebanon as Israel launches fresh strikes",
+      "title": "Russian strikes kill two in Ukraine ahead of 32-hour ceasefire",
+      "summary": "Russian strikes kill two in Ukraine ahead of 32-hour ceasefire",
       "outlets_covering": [
-        "PBS NewsHour",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "The Guardian World"
+        "The Independent"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
+      "coverage_count": 5,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/apr/09/israel-bombing-lebanon-us-iran-ceasefire-condemnation"
+      "source_url": "https://www.independent.co.uk/news/world/europe/russia-ukraine-odesa-drone-ceasefire-b2955826.html"
+    },
+    {
+      "title": "Donald Trump and Marco Rubio watch UFC fights in Miami as peace talks with Iran fail",
+      "summary": "Donald Trump and Marco Rubio watch UFC fights in Miami as peace talks with Iran fail",
+      "outlets_covering": [
+        "NBC News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Newsweek",
+        "The Independent",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war"
     }
   ]
 }
