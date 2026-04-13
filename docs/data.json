@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-04-12T12:38:41.504250Z",
+  "last_updated": "2026-04-13T01:47:42.732510Z",
   "world_org_meetings": [
-    {
-      "title": "The IMF Meetings Were Supposed to Be About Trade. Then Came the Iran War.",
-      "organization": "IMF",
-      "date": "",
-      "location": "",
-      "description": "The IMF Meetings Were Supposed to Be About Trade. Then Came the Iran War.",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-04-11/the-global-crisis-facing-the-imf-meetings-video"
-    },
     {
       "title": "No IMF and World Bank spring meetings without a global crisis",
       "organization": "IMF",
@@ -42,151 +34,143 @@
       "location": "",
       "description": "Iran war diverts US military and attention from Asia ahead of Trump's summit with China's leader",
       "source_url": "https://www.independent.co.uk/news/world/americas/donald-trump-asia-china-middle-east-taiwan-b2955989.html"
-    },
-    {
-      "title": "What To Know About the First Day of Peace Talks Between the U.S. and Iran",
-      "participants": [
-        "What To Know",
-        "Day",
-        "Peace Talks Between",
-        "U.S"
-      ],
-      "date": "",
-      "location": "",
-      "description": "What To Know About the First Day of Peace Talks Between the U.S. and Iran",
-      "source_url": "https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks"
-    },
-    {
-      "title": "Pakistan hosts historic face-to-face talks between the US and Iran",
-      "participants": [
-        "Pakistan",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Pakistan hosts historic face-to-face talks between the US and Iran",
-      "source_url": "https://www.npr.org/2026/04/11/nx-s1-5779725/pakistan-hosts-historic-face-to-face-talks-between-the-us-and-iran"
     }
   ],
   "elections": [
     {
-      "title": "Benin holds presidential election amid deteriorating security situation",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Benin holds presidential election amid deteriorating security situation",
-      "source_url": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss"
-    },
-    {
-      "title": "Hungarians vote in landmark election that could unseat Orbán",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungarians vote in landmark election that could unseat Orbán",
-      "source_url": "https://www.cbc.ca/news/world/hungary-election-viktor-orban-9.7160781?cmp=rss"
-    },
-    {
-      "title": "Peru votes for new president Sunday",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru votes for new president Sunday",
-      "source_url": "https://www.france24.com/en/peru-votes-for-new-president-sunday"
-    },
-    {
-      "title": "Polls open in Hungary in key election that could unseat populist Prime Minister Orban",
+      "title": "Viktor Orbán concedes defeat in historic Hungary election",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Polls open in Hungary in key election that could unseat populist Prime Minister Orban",
-      "source_url": "https://www.thehindu.com/news/international/hungary-election-viktor-orban-magyar/article70853579.ece"
+      "description": "Viktor Orbán concedes defeat in historic Hungary election",
+      "source_url": "https://www.npr.org/2026/04/12/nx-s1-5773324/viktor-orban-concedes-defeat-in-historic-hungary-election"
     },
     {
-      "title": "Ceasefire means Netanyahu can’t keep promises, many Israelis say as elections loom",
-      "country": "",
+      "title": "Hungary elections: Orban concedes 'painful' defeat to conservative Magyar",
+      "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Ceasefire means Netanyahu can’t keep promises, many Israelis say as elections loom",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/12/israel-ceasefire-opposition-netanyahu-war"
+      "description": "Hungary elections: Orban concedes 'painful' defeat to conservative Magyar",
+      "source_url": "https://www.thehindu.com/news/international/orban-concedes-painful-defeat-to-conservative-magyar-in-hungary-polls/article70855285.ece"
+    },
+    {
+      "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss"
+    },
+    {
+      "title": "The consequences of Hungary's election, for Viktor Orban and the world",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "The consequences of Hungary's election, for Viktor Orban and the world",
+      "source_url": "https://www.npr.org/2026/04/12/nx-s1-5773326/the-consequences-of-hungarys-election-for-viktor-orban-and-the-world"
+    },
+    {
+      "title": "Finance minister favoured to succeed Talon as Benin votes in presidential election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Finance minister favoured to succeed Talon as Benin votes in presidential election",
+      "source_url": "https://www.france24.com/en/africa/20260412-finance-minister-wadagni-favoured-to-succeed-talon-as-benin-votes-in-presidential-election"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
-      "summary": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
-      "outlets_covering": [
-        "NPR World",
-        "Wash Post World",
-        "Bloomberg",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/04/12/nx-s1-5782052/u-s-and-iran-fail-to-reach-agreement-during-high-level-talks-in-islamabad"
-    },
-    {
-      "title": "Pope Leo calls out 'delusion of omnipotence' fueling Iran war in vigil for peace at St. Peter's Basilica",
-      "summary": "Pope Leo calls out 'delusion of omnipotence' fueling Iran war in vigil for peace at St. Peter's Basilica",
+      "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks collapse",
+      "summary": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks collapse",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "Fox News World",
-        "The Independent"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/pope-leo-calls-delusion-omnipotence-fueling-iran-war-vigil-peace-st-peters-basilica"
-    },
-    {
-      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "summary": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "Fox News World"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Russian strikes kill two in Ukraine ahead of 32-hour ceasefire",
-      "summary": "Russian strikes kill two in Ukraine ahead of 32-hour ceasefire",
-      "outlets_covering": [
-        "ABC News Intl",
+        "CBC World",
         "CBS News World",
         "NBC News World",
-        "The Independent"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/russia-ukraine-odesa-drone-ceasefire-b2955826.html"
-    },
-    {
-      "title": "Donald Trump and Marco Rubio watch UFC fights in Miami as peace talks with Iran fail",
-      "summary": "Donald Trump and Marco Rubio watch UFC fights in Miami as peace talks with Iran fail",
-      "outlets_covering": [
-        "NBC News World",
+        "NYT World",
         "The Guardian World",
+        "Wash Post World",
         "Bloomberg",
-        "Newsweek",
-        "The Independent",
-        "France24",
-        "The Hill"
+        "Time"
       ],
-      "coverage_count": 8,
+      "coverage_count": 33,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war"
+      "source_url": "https://www.cbsnews.com/video/trump-says-us-will-blockade-strait-of-hormuz-after-iran-peace-talks-collapse"
+    },
+    {
+      "title": "Russia and Ukraine accuse each other of Easter ceasefire violations",
+      "summary": "Russia and Ukraine accuse each other of Easter ceasefire violations",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 10,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/russia-and-ukraine-accuse-each-other-of-easter-ceasefire-violations"
+    },
+    {
+      "title": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
+      "summary": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
+      "outlets_covering": [
+        "NPR World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 11,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump"
+    },
+    {
+      "title": "China says it will resume some ties with Taiwan following visit by opposition leader",
+      "summary": "China says it will resume some ties with Taiwan following visit by opposition leader",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "NBC News World",
+        "Sky News World",
+        "DW World",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/world/china-says-it-will-resume-some-ties-with-taiwan-following-visit-by-opposition-leader"
+    },
+    {
+      "title": "Trump says U.S. will blockade Strait of Hormuz, intercept ships that paid Iran",
+      "summary": "Trump says U.S. will blockade Strait of Hormuz, intercept ships that paid Iran",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "Time",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 24,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/trump-strait-of-hormuz-blockade-iran"
     }
   ]
 }
