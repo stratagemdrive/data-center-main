@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T01:29:33.113410Z",
+  "last_updated": "2026-04-14T13:02:27.746832Z",
   "world_org_meetings": [
     {
       "title": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
@@ -11,6 +11,19 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "What we know about US-hosted talks between Israel and Lebanon",
+      "participants": [
+        "What",
+        "US-hosted",
+        "Israel",
+        "Lebanon"
+      ],
+      "date": "",
+      "location": "",
+      "description": "What we know about US-hosted talks between Israel and Lebanon",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/what-we-know-about-us-hosted-talks-between-israel-and-lebanon?traffic_source=rss"
+    },
     {
       "title": "Could Trump’s Hormuz blockade derail China summit with Xi Jinping?",
       "participants": [
@@ -26,6 +39,22 @@
   ],
   "elections": [
     {
+      "title": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
+      "source_url": "https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-secures-majority-government-132023602"
+    },
+    {
+      "title": "How Orban Lost His Touch, and Hungary’s Election",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "How Orban Lost His Touch, and Hungary’s Election",
+      "source_url": "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html"
+    },
+    {
       "title": "Peru election stretches into a second day after ballot delivery failures",
       "country": "Peru",
       "election_type": "National",
@@ -34,57 +63,60 @@
       "source_url": "https://www.pbs.org/newshour/world/peru-election-stretches-into-a-second-day-after-ballot-delivery-failures"
     },
     {
-      "title": "Counting continues in Peru election as runoff with Fujimori seems likely",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Counting continues in Peru election as runoff with Fujimori seems likely",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/14/world/politics/peru-election-runoff-fujimori"
-    },
-    {
-      "title": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/4/13/whats-behind-viktor-orbans-defeat?traffic_source=rss"
-    },
-    {
-      "title": "Peru election results delayed after thousands get a one-day voting extension",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru election results delayed after thousands get a one-day voting extension",
-      "source_url": "https://abcnews.com/International/wireStory/peru-election-results-delayed-after-thousands-day-voting-131980729"
-    },
-    {
       "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
       "description": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
       "source_url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+    },
+    {
+      "title": "Vance ‘sad’ Orbán lost election, defends 11th-hour trip to Hungary",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Vance ‘sad’ Orbán lost election, defends 11th-hour trip to Hungary",
+      "source_url": "https://thehill.com/policy/international/5830067-vance-orban-election-loss-hungary"
     }
   ],
   "global_events": [
     {
-      "title": "Israel-Iran war LIVE: Trump vows U.S. will sink any Iran boats that challenge blockade",
-      "summary": "Israel-Iran war LIVE: Trump vows U.S. will sink any Iran boats that challenge blockade",
+      "title": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
+      "summary": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
       "outlets_covering": [
-        "NPR World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
+        "ABC News Intl",
+        "The Guardian World",
+        "The Independent",
+        "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-14-2026-trump-news-today/article70859995.ece"
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-secures-majority-government-132023602"
     },
     {
-      "title": "U.S. imposes military blockade on Iranian ports in the Strait of Hormuz",
-      "summary": "U.S. imposes military blockade on Iranian ports in the Strait of Hormuz",
+      "title": "Pope says doesn't fear Trump as he pushes back in Iran war feud",
+      "summary": "Pope says doesn't fear Trump as he pushes back in Iran war feud",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260414-pope-says-doesn-t-fear-trump-as-he-pushes-back-in-iran-war-feud"
+    },
+    {
+      "title": "U.S. imposes military blockade of Iranian ports on Strait of Hormuz",
+      "summary": "U.S. imposes military blockade of Iranian ports on Strait of Hormuz",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -93,40 +125,27 @@
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
-        "The Independent",
+        "Wash Post World",
+        "Time",
         "Foreign Policy"
       ],
-      "coverage_count": 19,
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-iran-ports-blockade-strait-of-hormuz-trump"
     },
     {
-      "title": "Ukraine war briefing: Hungary’s new leader says he would ask Putin to end the killing in Ukraine",
-      "summary": "Ukraine war briefing: Hungary’s new leader says he would ask Putin to end the killing in Ukraine",
+      "title": "China Evergrande’s billionaire boss pleads guilty to fraud",
+      "summary": "China Evergrande’s billionaire boss pleads guilty to fraud",
       "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "The Guardian World"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/apr/14/ukraine-war-briefing-peter-magyar-hungary-putin"
-    },
-    {
-      "title": "Philippines warns of 'sabotage' after cyanide seizure in disputed South China Sea atoll",
-      "summary": "Philippines warns of 'sabotage' after cyanide seizure in disputed South China Sea atoll",
-      "outlets_covering": [
-        "BBC World",
-        "Al Jazeera",
-        "Japan Times"
+        "The Guardian World",
+        "DW World",
+        "SCMP"
       ],
       "coverage_count": 3,
       "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/14/asia-pacific/politics/philippines-cyanide-south-china-sea"
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/business/2026/apr/14/china-evergrande-fraud-hui-ka-yan-trial-property"
     },
     {
       "title": "Hungary's Magyar wants to take over as prime minister as early as May 5",
@@ -138,7 +157,7 @@
         "CBS News World",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "region": "Europe",
       "category": "Politics",
       "source_url": "https://www.pbs.org/newshour/world/hungarys-magyar-wants-to-take-over-as-prime-minister-as-early-as-may-5"
