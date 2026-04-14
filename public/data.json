@@ -1,40 +1,53 @@
 {
-  "last_updated": "2026-04-13T13:01:38.707462Z",
+  "last_updated": "2026-04-14T01:29:33.113410Z",
   "world_org_meetings": [
     {
-      "title": "No IMF and World Bank spring meetings without a global crisis",
+      "title": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
       "organization": "IMF",
       "date": "",
       "location": "",
-      "description": "No IMF and World Bank spring meetings without a global crisis",
-      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/no-imf-and-world-bank-spring-meetings-without-a-global-crisis"
+      "description": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
+      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-imf-world-bank-spring-meetings-as-leaders-grapple-with-war-and-supply-shocks"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "Could Trump’s Hormuz blockade derail China summit with Xi Jinping?",
+      "participants": [
+        "Trump’s Hormuz",
+        "China",
+        "Jinping?"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Could Trump’s Hormuz blockade derail China summit with Xi Jinping?",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3349942/could-trumps-hormuz-blockade-derail-china-summit-xi-jinping"
+    }
+  ],
   "elections": [
     {
-      "title": "Russia Responds To Hungary Election Result",
-      "country": "Russia",
+      "title": "Peru election stretches into a second day after ballot delivery failures",
+      "country": "Peru",
       "election_type": "National",
       "date": "",
-      "description": "Russia Responds To Hungary Election Result",
-      "source_url": "https://www.newsweek.com/russia-responds-hungary-elections-11820435"
+      "description": "Peru election stretches into a second day after ballot delivery failures",
+      "source_url": "https://www.pbs.org/newshour/world/peru-election-stretches-into-a-second-day-after-ballot-delivery-failures"
     },
     {
-      "title": "What next for Hungary after Orbán’s seismic election defeat?",
+      "title": "Counting continues in Peru election as runoff with Fujimori seems likely",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Counting continues in Peru election as runoff with Fujimori seems likely",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/14/world/politics/peru-election-runoff-fujimori"
+    },
+    {
+      "title": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "What next for Hungary after Orbán’s seismic election defeat?",
-      "source_url": "https://www.independent.co.uk/news/world/europe/hungary-elections-magyar-orban-eu-b2956558.html"
-    },
-    {
-      "title": "4 Takeaways From Orban’s Defeat in Hungary’s Election",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "4 Takeaways From Orban’s Defeat in Hungary’s Election",
-      "source_url": "https://www.nytimes.com/2026/04/13/world/europe/hungary-election-results-orban-magyar.html"
+      "description": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/4/13/whats-behind-viktor-orbans-defeat?traffic_source=rss"
     },
     {
       "title": "Peru election results delayed after thousands get a one-day voting extension",
@@ -42,99 +55,93 @@
       "election_type": "National",
       "date": "",
       "description": "Peru election results delayed after thousands get a one-day voting extension",
-      "source_url": "https://www.france24.com/en/video/20260413-peru-election-results-delayed-after-thousands-get-a-one-day-voting-extension"
+      "source_url": "https://abcnews.com/International/wireStory/peru-election-results-delayed-after-thousands-day-voting-131980729"
     },
     {
-      "title": "Hungary: Peter Magyar's election heralds thaw in EU ties",
+      "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Hungary: Peter Magyar's election heralds thaw in EU ties",
-      "source_url": "https://www.dw.com/en/hungary-peter-magyar-s-election-heralds-thaw-in-eu-ties/a-76758641?maca=en-rss-en-world-4025-rdf"
+      "description": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+      "source_url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
     }
   ],
   "global_events": [
     {
-      "title": "What to know about Trump's Iran blockade and the Strait of Hormuz",
-      "summary": "What to know about Trump's Iran blockade and the Strait of Hormuz",
+      "title": "Israel-Iran war LIVE: Trump vows U.S. will sink any Iran boats that challenge blockade",
+      "summary": "Israel-Iran war LIVE: Trump vows U.S. will sink any Iran boats that challenge blockade",
       "outlets_covering": [
+        "NPR World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-14-2026-trump-news-today/article70859995.ece"
+    },
+    {
+      "title": "U.S. imposes military blockade on Iranian ports in the Strait of Hormuz",
+      "summary": "U.S. imposes military blockade on Iranian ports in the Strait of Hormuz",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
         "The Independent",
-        "Al Jazeera"
+        "Foreign Policy"
       ],
-      "coverage_count": 36,
+      "coverage_count": 19,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/world/iran/trump-iran-blockade-strait-of-hormuz-ports-explained-rcna331477"
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-iran-ports-blockade-strait-of-hormuz-trump"
     },
     {
-      "title": "China says it will resume some ties with Taiwan after visit by opposition leader",
-      "summary": "China says it will resume some ties with Taiwan after visit by opposition leader",
+      "title": "Ukraine war briefing: Hungary’s new leader says he would ask Putin to end the killing in Ukraine",
+      "summary": "Ukraine war briefing: Hungary’s new leader says he would ask Putin to end the killing in Ukraine",
       "outlets_covering": [
+        "BBC World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "NBC News World",
-        "Sky News World",
-        "Fox News World",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.foxnews.com/world/china-says-resume-some-ties-taiwan-after-visit-opposition-leader"
-    },
-    {
-      "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
-      "summary": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
-      "outlets_covering": [
-        "NPR World",
-        "Bloomberg"
+        "The Guardian World"
       ],
       "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election"
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/apr/14/ukraine-war-briefing-peter-magyar-hungary-putin"
     },
     {
-      "title": "Russia and Ukraine accuse each other of violating Orthodox Easter ceasefire",
-      "summary": "Russia and Ukraine accuse each other of violating Orthodox Easter ceasefire",
+      "title": "Philippines warns of 'sabotage' after cyanide seizure in disputed South China Sea atoll",
+      "summary": "Philippines warns of 'sabotage' after cyanide seizure in disputed South China Sea atoll",
       "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/14/asia-pacific/politics/philippines-cyanide-south-china-sea"
+    },
+    {
+      "title": "Hungary's Magyar wants to take over as prime minister as early as May 5",
+      "summary": "Hungary's Magyar wants to take over as prime minister as early as May 5",
+      "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
-        "CBC World",
         "ABC News Intl",
+        "CBS News World",
         "The Hindu Intl"
       ],
       "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/russia-ukraine-accuse-violating-orthodox-easter-ceasefire-131966392"
-    },
-    {
-      "title": "Pope Leo responds to Trump following his criticism over the Iran war",
-      "summary": "Pope Leo responds to Trump following his criticism over the Iran war",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/pope-leo-responds-to-trump-following-his-criticism-over-the-iran-war"
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/world/hungarys-magyar-wants-to-take-over-as-prime-minister-as-early-as-may-5"
     }
   ]
 }
