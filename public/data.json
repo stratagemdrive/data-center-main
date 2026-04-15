@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T01:25:43.579201Z",
+  "last_updated": "2026-04-15T13:00:52.786029Z",
   "world_org_meetings": [
     {
       "title": "India to host Foreign Minister-level meetings of BRICS and Quad in May",
@@ -31,17 +31,6 @@
       "source_url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
     },
     {
-      "title": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
-      "participants": [
-        "Lebanon Israel",
-        "Washington"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
-      "source_url": "https://www.cbc.ca/news/world/hezbollah-lebanon-israel-talks-agreements-9.7162871?cmp=rss"
-    },
-    {
       "title": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
       "participants": [
         "Israeli",
@@ -52,6 +41,17 @@
       "location": "",
       "description": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
       "source_url": "https://www.pbs.org/newshour/show/israeli-strikes-on-lebanon-continue-as-u-s-hosts-historic-diplomatic-talks"
+    },
+    {
+      "title": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
+      "participants": [
+        "Lebanon Israel",
+        "Washington"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
+      "source_url": "https://www.cbc.ca/news/world/hezbollah-lebanon-israel-talks-agreements-9.7162871?cmp=rss"
     },
     {
       "title": "Could Trump’s Hormuz blockade derail China summit with Xi Jinping?",
@@ -68,66 +68,62 @@
   ],
   "elections": [
     {
-      "title": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
-      "source_url": "https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-secures-majority-government-132023602"
-    },
-    {
-      "title": "Peru election stretches into a second day after ballot delivery failures",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru election stretches into a second day after ballot delivery failures",
-      "source_url": "https://www.pbs.org/newshour/world/peru-election-stretches-into-a-second-day-after-ballot-delivery-failures"
-    },
-    {
-      "title": "Newsom sets special election date for Swalwell seat",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Newsom sets special election date for Swalwell seat",
-      "source_url": "https://thehill.com/homenews/state-watch/5831587-california-governor-race-special-election"
-    },
-    {
-      "title": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
+      "title": "Hungary: What's next for Peter Magyar after election win?",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
-      "source_url": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html"
+      "description": "Hungary: What's next for Peter Magyar after election win?",
+      "source_url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Daiichi Life to Tighten Private Credit Manager Selection on Risk",
+      "title": "Mark Carney secures majority government in Canada after byelection win",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "",
+      "description": "Mark Carney secures majority government in Canada after byelection win",
+      "source_url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government"
+    },
+    {
+      "title": "EU urges swift reform in Hungary as election night 'euphoria' gives way to 'Monday morning hangover'",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "EU urges swift reform in Hungary as election night 'euphoria' gives way to 'Monday morning hangover'",
+      "source_url": "https://www.france24.com/en/eu-urges-swift-reform-in-hungary-as-election-night-euphoria-gives-way-to-monday-morning-hangover"
+    },
+    {
+      "title": "Candidate calls for new election in Peru, claiming fraud without evidence",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Candidate calls for new election in Peru, claiming fraud without evidence",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss"
+    },
+    {
+      "title": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Daiichi Life to Tighten Private Credit Manager Selection on Risk",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/daiichi-life-to-tighten-private-credit-manager-selection-on-risk"
+      "description": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
+      "source_url": "https://www.independent.co.uk/news/world/europe/putin-orban-hungary-russia-ukraine-kremlin-b2957814.html"
     }
   ],
   "global_events": [
     {
-      "title": "Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks",
-      "summary": "Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks",
+      "title": "Sudan enters a fourth year of war as officials lament an 'abandoned crisis'",
+      "summary": "Sudan enters a fourth year of war as officials lament an 'abandoned crisis'",
       "outlets_covering": [
         "NPR World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
+        "ABC News Intl",
         "The Guardian World",
-        "Time",
         "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "UN News"
       ],
-      "coverage_count": 18,
-      "region": "Middle East",
+      "coverage_count": 7,
+      "region": "Africa",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz"
+      "source_url": "https://abcnews.com/International/wireStory/sudan-enters-fourth-year-war-officials-lament-abandoned-132051316"
     },
     {
       "title": "China terms U.S. blockade of Strait of Hormuz 'dangerous and irresponsible' move",
@@ -138,60 +134,63 @@
         "NBC News World",
         "Fox News World",
         "NYT World",
-        "The Independent",
         "DW World",
         "The Hindu Intl",
         "SCMP",
         "Foreign Policy"
       ],
-      "coverage_count": 13,
+      "coverage_count": 11,
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/china-terms-us-blockade-of-strait-of-hormuz-dangerous-and-irresponsible-move/article70862522.ece"
     },
     {
-      "title": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
-      "summary": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
+      "title": "War on Iran Could Lead to Global Recession, IMF Warns",
+      "summary": "War on Iran Could Lead to Global Recession, IMF Warns",
       "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "The Independent",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-secures-majority-government-132023602"
-    },
-    {
-      "title": "Israel and Lebanon have ‘wonderful exchange’ but remain in deadlock after first talks in decades",
-      "summary": "Israel and Lebanon have ‘wonderful exchange’ but remain in deadlock after first talks in decades",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "The Guardian World",
+        "PBS NewsHour",
+        "NYT World",
         "Time",
-        "The Independent"
+        "SCMP",
+        "The Hill",
+        "Axios"
       ],
       "coverage_count": 7,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/lebanon-israel-talks-us-washington-hezbollah-b2957669.html"
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz"
     },
     {
-      "title": "Italian PM says suspends renewal of defence agreement with Israel",
-      "summary": "Italian PM says suspends renewal of defence agreement with Israel",
+      "title": "In its 50th boat strike, US military kills 4 ‘narco-terrorists’ in Eastern Pacific",
+      "summary": "In its 50th boat strike, US military kills 4 ‘narco-terrorists’ in Eastern Pacific",
       "outlets_covering": [
+        "CBS News World",
         "The Independent",
-        "France24",
-        "The Hindu Intl"
+        "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/defense/5831695-narco-trafficking-boat-lethal-strike-50"
+    },
+    {
+      "title": "Israel and Lebanon hold first direct talks since 1993",
+      "summary": "Israel and Lebanon hold first direct talks since 1993",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy"
+      ],
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260414-italian-pm-says-suspends-defence-agreement-with-israel"
+      "source_url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
