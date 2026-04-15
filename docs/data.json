@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-14T13:02:27.746832Z",
+  "last_updated": "2026-04-15T01:25:43.579201Z",
   "world_org_meetings": [
+    {
+      "title": "India to host Foreign Minister-level meetings of BRICS and Quad in May",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "India to host Foreign Minister-level meetings of BRICS and Quad in May",
+      "source_url": "https://www.thehindu.com/news/national/india-to-host-foreign-ministers-level-meetings-of-brics-and-quad-in-may/article70862474.ece"
+    },
     {
       "title": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
       "organization": "IMF",
@@ -12,17 +20,38 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "What we know about US-hosted talks between Israel and Lebanon",
+      "title": "US talks between Lebanon and Israel end – as it happened",
       "participants": [
-        "What",
-        "US-hosted",
-        "Israel",
-        "Lebanon"
+        "Lebanon",
+        "Israel"
       ],
       "date": "",
       "location": "",
-      "description": "What we know about US-hosted talks between Israel and Lebanon",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/what-we-know-about-us-hosted-talks-between-israel-and-lebanon?traffic_source=rss"
+      "description": "US talks between Lebanon and Israel end – as it happened",
+      "source_url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins"
+    },
+    {
+      "title": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
+      "participants": [
+        "Lebanon Israel",
+        "Washington"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
+      "source_url": "https://www.cbc.ca/news/world/hezbollah-lebanon-israel-talks-agreements-9.7162871?cmp=rss"
+    },
+    {
+      "title": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
+      "participants": [
+        "Israeli",
+        "Lebanon",
+        "U.S"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
+      "source_url": "https://www.pbs.org/newshour/show/israeli-strikes-on-lebanon-continue-as-u-s-hosts-historic-diplomatic-talks"
     },
     {
       "title": "Could Trump’s Hormuz blockade derail China summit with Xi Jinping?",
@@ -47,14 +76,6 @@
       "source_url": "https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-secures-majority-government-132023602"
     },
     {
-      "title": "How Orban Lost His Touch, and Hungary’s Election",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "How Orban Lost His Touch, and Hungary’s Election",
-      "source_url": "https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html"
-    },
-    {
       "title": "Peru election stretches into a second day after ballot delivery failures",
       "country": "Peru",
       "election_type": "National",
@@ -63,23 +84,71 @@
       "source_url": "https://www.pbs.org/newshour/world/peru-election-stretches-into-a-second-day-after-ballot-delivery-failures"
     },
     {
-      "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-      "country": "Hungary",
+      "title": "Newsom sets special election date for Swalwell seat",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-      "source_url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+      "description": "Newsom sets special election date for Swalwell seat",
+      "source_url": "https://thehill.com/homenews/state-watch/5831587-california-governor-race-special-election"
     },
     {
-      "title": "Vance ‘sad’ Orbán lost election, defends 11th-hour trip to Hungary",
+      "title": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Vance ‘sad’ Orbán lost election, defends 11th-hour trip to Hungary",
-      "source_url": "https://thehill.com/policy/international/5830067-vance-orban-election-loss-hungary"
+      "description": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
+      "source_url": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html"
+    },
+    {
+      "title": "Daiichi Life to Tighten Private Credit Manager Selection on Risk",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Daiichi Life to Tighten Private Credit Manager Selection on Risk",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-14/daiichi-life-to-tighten-private-credit-manager-selection-on-risk"
     }
   ],
   "global_events": [
+    {
+      "title": "Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks",
+      "summary": "Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 18,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz"
+    },
+    {
+      "title": "China terms U.S. blockade of Strait of Hormuz 'dangerous and irresponsible' move",
+      "summary": "China terms U.S. blockade of Strait of Hormuz 'dangerous and irresponsible' move",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Independent",
+        "DW World",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy"
+      ],
+      "coverage_count": 13,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/china-terms-us-blockade-of-strait-of-hormuz-dangerous-and-irresponsible-move/article70862522.ece"
+    },
     {
       "title": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
       "summary": "Canadian Prime Minister Mark Carney secures majority government after 3 special election wins",
@@ -90,77 +159,39 @@
         "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 5,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-secures-majority-government-132023602"
     },
     {
-      "title": "Pope says doesn't fear Trump as he pushes back in Iran war feud",
-      "summary": "Pope says doesn't fear Trump as he pushes back in Iran war feud",
+      "title": "Israel and Lebanon have ‘wonderful exchange’ but remain in deadlock after first talks in decades",
+      "summary": "Israel and Lebanon have ‘wonderful exchange’ but remain in deadlock after first talks in decades",
       "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260414-pope-says-doesn-t-fear-trump-as-he-pushes-back-in-iran-war-feud"
-    },
-    {
-      "title": "U.S. imposes military blockade of Iranian ports on Strait of Hormuz",
-      "summary": "U.S. imposes military blockade of Iranian ports on Strait of Hormuz",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
         "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "Foreign Policy"
-      ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-iran-ports-blockade-strait-of-hormuz-trump"
-    },
-    {
-      "title": "China Evergrande’s billionaire boss pleads guilty to fraud",
-      "summary": "China Evergrande’s billionaire boss pleads guilty to fraud",
-      "outlets_covering": [
-        "The Guardian World",
-        "DW World",
-        "SCMP"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/business/2026/apr/14/china-evergrande-fraud-hui-ka-yan-trial-property"
-    },
-    {
-      "title": "Hungary's Magyar wants to take over as prime minister as early as May 5",
-      "summary": "Hungary's Magyar wants to take over as prime minister as early as May 5",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
         "ABC News Intl",
         "CBS News World",
-        "The Hindu Intl"
+        "The Guardian World",
+        "Time",
+        "The Independent"
       ],
       "coverage_count": 7,
-      "region": "Europe",
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/hungarys-magyar-wants-to-take-over-as-prime-minister-as-early-as-may-5"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/lebanon-israel-talks-us-washington-hezbollah-b2957669.html"
+    },
+    {
+      "title": "Italian PM says suspends renewal of defence agreement with Israel",
+      "summary": "Italian PM says suspends renewal of defence agreement with Israel",
+      "outlets_covering": [
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260414-italian-pm-says-suspends-defence-agreement-with-israel"
     }
   ]
 }
