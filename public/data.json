@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-04-15T13:00:52.786029Z",
+  "last_updated": "2026-04-16T01:46:30.462854Z",
   "world_org_meetings": [
+    {
+      "title": "Vladimir Putin likely to take part in Brics summit in India",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Vladimir Putin likely to take part in Brics summit in India",
+      "source_url": "https://timesofindia.indiatimes.com/india/vladimir-putin-likely-to-take-part-in-brics-summit-in-india/articleshow/130295347.cms"
+    },
+    {
+      "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/04/1167309"
+    },
     {
       "title": "India to host Foreign Minister-level meetings of BRICS and Quad in May",
       "organization": "BRICS",
@@ -19,6 +35,18 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "What to know about new direct talks between Lebanon and Israel",
+      "participants": [
+        "What",
+        "Lebanon",
+        "Israel"
+      ],
+      "date": "",
+      "location": "",
+      "description": "What to know about new direct talks between Lebanon and Israel",
+      "source_url": "https://www.pbs.org/newshour/world/what-to-know-about-new-direct-talks-between-lebanon-and-israel"
+    },
     {
       "title": "US talks between Lebanon and Israel end – as it happened",
       "participants": [
@@ -41,143 +69,107 @@
       "location": "",
       "description": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
       "source_url": "https://www.pbs.org/newshour/show/israeli-strikes-on-lebanon-continue-as-u-s-hosts-historic-diplomatic-talks"
-    },
-    {
-      "title": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
-      "participants": [
-        "Lebanon Israel",
-        "Washington"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
-      "source_url": "https://www.cbc.ca/news/world/hezbollah-lebanon-israel-talks-agreements-9.7162871?cmp=rss"
-    },
-    {
-      "title": "Could Trump’s Hormuz blockade derail China summit with Xi Jinping?",
-      "participants": [
-        "Trump’s Hormuz",
-        "China",
-        "Jinping?"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Could Trump’s Hormuz blockade derail China summit with Xi Jinping?",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3349942/could-trumps-hormuz-blockade-derail-china-summit-xi-jinping"
     }
   ],
   "elections": [
     {
-      "title": "Hungary: What's next for Peter Magyar after election win?",
+      "title": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
       "country": "Hungary",
       "election_type": "National",
       "date": "",
-      "description": "Hungary: What's next for Peter Magyar after election win?",
-      "source_url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-world-4025-rdf"
+      "description": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
+      "source_url": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html"
     },
     {
-      "title": "Mark Carney secures majority government in Canada after byelection win",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "",
-      "description": "Mark Carney secures majority government in Canada after byelection win",
-      "source_url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government"
-    },
-    {
-      "title": "EU urges swift reform in Hungary as election night 'euphoria' gives way to 'Monday morning hangover'",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "EU urges swift reform in Hungary as election night 'euphoria' gives way to 'Monday morning hangover'",
-      "source_url": "https://www.france24.com/en/eu-urges-swift-reform-in-hungary-as-election-night-euphoria-gives-way-to-monday-morning-hangover"
-    },
-    {
-      "title": "Candidate calls for new election in Peru, claiming fraud without evidence",
+      "title": "Peru’s ballot count drags on amid frustration with presidential election",
       "country": "Peru",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Candidate calls for new election in Peru, claiming fraud without evidence",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss"
+      "description": "Peru’s ballot count drags on amid frustration with presidential election",
+      "source_url": "https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election?traffic_source=rss"
     },
     {
-      "title": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
+      "title": "U.S. Takes Step Closer to Popular Vote for Presidential Elections as Virginia Joins Compact",
       "country": "",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Kremlin declares Putin was ‘never friends with Orban’ after historic election defeat",
-      "source_url": "https://www.independent.co.uk/news/world/europe/putin-orban-hungary-russia-ukraine-kremlin-b2957814.html"
+      "description": "U.S. Takes Step Closer to Popular Vote for Presidential Elections as Virginia Joins Compact",
+      "source_url": "https://time.com/article/2026/04/15/popular-vote-state-compact-virginia-spanberger-electoral-college"
+    },
+    {
+      "title": "Benin’s Romuald Wadagni Poised to Win Presidential Election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Benin’s Romuald Wadagni Poised to Win Presidential Election",
+      "source_url": "https://www.nytimes.com/2026/04/14/world/africa/benin-election-president-romuald-wadagni.html"
+    },
+    {
+      "title": "Allies of disgraced former presidents lead in Peru presidential election",
+      "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Allies of disgraced former presidents lead in Peru presidential election",
+      "source_url": "https://abcnews.com/International/wireStory/allies-disgraced-former-presidents-lead-peru-presidential-election-132062604"
     }
   ],
   "global_events": [
     {
-      "title": "Sudan enters a fourth year of war as officials lament an 'abandoned crisis'",
-      "summary": "Sudan enters a fourth year of war as officials lament an 'abandoned crisis'",
+      "title": "Sudan Enters Fourth Year of War Amid World’s Most Severe Humanitarian Crisis",
+      "summary": "Sudan Enters Fourth Year of War Amid World’s Most Severe Humanitarian Crisis",
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 7,
-      "region": "Africa",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/sudan-enters-fourth-year-war-officials-lament-abandoned-132051316"
-    },
-    {
-      "title": "China terms U.S. blockade of Strait of Hormuz 'dangerous and irresponsible' move",
-      "summary": "China terms U.S. blockade of Strait of Hormuz 'dangerous and irresponsible' move",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
         "NYT World",
-        "DW World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "SCMP",
+        "UN News",
         "Foreign Policy"
       ],
       "coverage_count": 11,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/china-terms-us-blockade-of-strait-of-hormuz-dangerous-and-irresponsible-move/article70862522.ece"
+      "region": "Africa",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/04/15/world/africa/sudan-war-hunger-crisis.html"
     },
     {
-      "title": "War on Iran Could Lead to Global Recession, IMF Warns",
-      "summary": "War on Iran Could Lead to Global Recession, IMF Warns",
+      "title": "South Africa Names Roelf Meyer, Apartheid-Era Negotiator, as U.S. Ambassador",
+      "summary": "South Africa Names Roelf Meyer, Apartheid-Era Negotiator, as U.S. Ambassador",
       "outlets_covering": [
-        "PBS NewsHour",
+        "BBC World",
+        "ABC News Intl",
+        "NYT World",
+        "The Guardian World",
+        "DW World"
+      ],
+      "coverage_count": 5,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/04/15/world/africa/south-africa-us-ambassador-roelf-meyer.html"
+    },
+    {
+      "title": "U.S. Senate Republicans block latest bid to rein in Trump Iran war powers",
+      "summary": "U.S. Senate Republicans block latest bid to rein in Trump Iran war powers",
+      "outlets_covering": [
+        "NBC News World",
         "NYT World",
         "Time",
-        "SCMP",
-        "The Hill",
-        "Axios"
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill"
       ],
       "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://time.com/article/2026/04/15/imf-global-recession-war-us-israel-iran-energy-hormuz"
+      "source_url": "https://www.thehindu.com/news/international/us-senate-republicans-block-latest-bid-to-rein-in-trump-iran-war-powers/article70866592.ece"
     },
     {
-      "title": "In its 50th boat strike, US military kills 4 ‘narco-terrorists’ in Eastern Pacific",
-      "summary": "In its 50th boat strike, US military kills 4 ‘narco-terrorists’ in Eastern Pacific",
-      "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/defense/5831695-narco-trafficking-boat-lethal-strike-50"
-    },
-    {
-      "title": "Israel and Lebanon hold first direct talks since 1993",
-      "summary": "Israel and Lebanon hold first direct talks since 1993",
+      "title": "What to know about new direct talks between Lebanon and Israel",
+      "summary": "What to know about new direct talks between Lebanon and Israel",
       "outlets_covering": [
         "BBC World",
+        "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NYT World",
@@ -187,10 +179,23 @@
         "SCMP",
         "Foreign Policy"
       ],
-      "coverage_count": 12,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.pbs.org/newshour/world/what-to-know-about-new-direct-talks-between-lebanon-and-israel"
+    },
+    {
+      "title": "Two arrested over attempted arson attack on synagogue in north London",
+      "summary": "Two arrested over attempted arson attack on synagogue in north London",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/uk-news/2026/apr/15/two-arrested-over-attempted-arson-attack-on-synagogue-in-north-london"
     }
   ]
 }
