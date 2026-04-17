@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T13:06:30.155164Z",
+  "last_updated": "2026-04-17T01:29:22.989907Z",
   "world_org_meetings": [
     {
       "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
@@ -20,6 +20,18 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Pakistani army chief visits Tehran in bid to broker renewed talks between US and Iran",
+      "participants": [
+        "Pakistani",
+        "Tehran",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Pakistani army chief visits Tehran in bid to broker renewed talks between US and Iran",
+      "source_url": "https://abcnews.com/International/wireStory/pakistani-army-chief-visits-tehran-bid-broker-renewed-132088163"
+    },
+    {
       "title": "What to know about new direct talks between Lebanon and Israel",
       "participants": [
         "What",
@@ -30,40 +42,32 @@
       "location": "",
       "description": "What to know about new direct talks between Lebanon and Israel",
       "source_url": "https://www.pbs.org/newshour/world/what-to-know-about-new-direct-talks-between-lebanon-and-israel"
-    },
-    {
-      "title": "Pakistani army chief visits Tehran in hopes for renewed talks between US and Iran",
-      "participants": [
-        "Pakistani",
-        "Tehran",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Pakistani army chief visits Tehran in hopes for renewed talks between US and Iran",
-      "source_url": "https://www.france24.com/en/video/20260416-pakistani-army-chief-visits-tehran-in-hopes-for-renewed-talks-between-us-and-iran"
-    },
-    {
-      "title": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
-      "participants": [
-        "Israeli",
-        "Lebanon",
-        "U.S"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
-      "source_url": "https://www.pbs.org/newshour/show/israeli-strikes-on-lebanon-continue-as-u-s-hosts-historic-diplomatic-talks"
     }
   ],
   "elections": [
     {
-      "title": "Tamil Nadu elections 2026: Will TVK’s solo gamble split votes or fulfil Vijay’s CM dream?",
+      "title": "Women won't forgive quota opposers in elections: PM Modi",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Tamil Nadu elections 2026: Will TVK’s solo gamble split votes or fulfil Vijay’s CM dream?",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-2026-will-tvks-solo-gamble-split-votes-or-fulfil-vijays-cm-dream/articleshow/130302264.cms"
+      "description": "Women won't forgive quota opposers in elections: PM Modi",
+      "source_url": "https://timesofindia.indiatimes.com/india/i-guarantee-that-delimitation-will-not-be-biased-against-anyone-pm/articleshow/130319991.cms"
+    },
+    {
+      "title": "'Why only professors, put judges too on election duty': HC slams EC",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "'Why only professors, put judges too on election duty': HC slams EC",
+      "source_url": "https://timesofindia.indiatimes.com/india/why-only-professors-put-judges-too-on-election-duty-hc-slams-ec/articleshow/130317714.cms"
+    },
+    {
+      "title": "Live results: Mejia, Hathaway duke it out to replace Sherrill in New Jersey House special election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Live results: Mejia, Hathaway duke it out to replace Sherrill in New Jersey House special election",
+      "source_url": "https://thehill.com/homenews/campaign/5829291-live-results-new-jersey-house-election"
     },
     {
       "title": "What changed in Hungary’s election? | Explained",
@@ -80,104 +84,97 @@
       "date": "",
       "description": "U.S. Takes Step Closer to Popular Vote for Presidential Elections as Virginia Joins Compact",
       "source_url": "https://time.com/article/2026/04/15/popular-vote-state-compact-virginia-spanberger-electoral-college"
-    },
-    {
-      "title": "Allies of disgraced former presidents lead in Peru presidential election",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Allies of disgraced former presidents lead in Peru presidential election",
-      "source_url": "https://abcnews.com/International/wireStory/allies-disgraced-former-presidents-lead-peru-presidential-election-132062604"
-    },
-    {
-      "title": "Hungary: What's next for Peter Magyar after election win?",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungary: What's next for Peter Magyar after election win?",
-      "source_url": "https://www.dw.com/en/hungary-what-s-next-for-peter-magyar-after-election-win/a-76785927?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "South African politician Julius Malema given five-year jail term for gun offence",
-      "summary": "South African politician Julius Malema given five-year jail term for gun offence",
+      "title": "Israel agrees to 10-day ceasefire in Lebanon as U.S. pushes for broader peace deal",
+      "summary": "Israel agrees to 10-day ceasefire in Lebanon as U.S. pushes for broader peace deal",
       "outlets_covering": [
-        "ABC News Intl",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 4,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle"
-    },
-    {
-      "title": "Russian missiles and drones bombard Ukraine in hourslong attack, killing at least 16",
-      "summary": "Russian missiles and drones bombard Ukraine in hourslong attack, killing at least 16",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/russian-missiles-drones-bombard-ukraine-hourslong-attack-death-toll"
-    },
-    {
-      "title": "Sudan Enters Fourth Year of War Amid World’s Most Severe Humanitarian Crisis",
-      "summary": "Sudan Enters Fourth Year of War Amid World’s Most Severe Humanitarian Crisis",
-      "outlets_covering": [
-        "ABC News Intl",
-        "NYT World",
-        "The Hindu Intl",
-        "UN News",
-        "Foreign Policy"
-      ],
-      "coverage_count": 6,
-      "region": "Africa",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/04/15/world/africa/sudan-war-hunger-crisis.html"
-    },
-    {
-      "title": "What to know about new direct talks between Lebanon and Israel",
-      "summary": "What to know about new direct talks between Lebanon and Israel",
-      "outlets_covering": [
+        "BBC World",
         "PBS NewsHour",
-        "CBC World",
-        "NYT World",
+        "CBS News World",
+        "NBC News World",
+        "Wash Post World",
         "The Independent",
         "Al Jazeera",
         "France24",
         "The Hindu Intl",
-        "SCMP",
-        "UN News",
-        "Foreign Policy"
+        "SCMP"
       ],
-      "coverage_count": 11,
+      "coverage_count": 20,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/what-to-know-about-new-direct-talks-between-lebanon-and-israel"
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/show/israel-agrees-to-10-day-ceasefire-in-lebanon-as-u-s-pushes-for-broader-peace-deal"
     },
     {
-      "title": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
-      "summary": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
+      "title": "Israel's 10-day ceasefire in Lebanon begins",
+      "summary": "Israel's 10-day ceasefire in Lebanon begins",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
-        "CBC World",
-        "Fox News World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
         "NYT World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
         "France24"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
+      "coverage_count": 30,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-diplomacy-ceasefire"
+    },
+    {
+      "title": "Progressive Democrat Analilia Mejia wins New Jersey special election for US House",
+      "summary": "Progressive Democrat Analilia Mejia wins New Jersey special election for US House",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/us-news/2026/apr/16/progressive-democrat-analilia-mejia-wins-new-jersey-special-election-for-us-house"
+    },
+    {
+      "title": "Trump Says Iran Deal ‘Looking Very Good’ Amid Ceasefire",
+      "summary": "Trump Says Iran Deal ‘Looking Very Good’ Amid Ceasefire",
+      "outlets_covering": [
+        "CBS News World",
+        "Bloomberg",
+        "Al Jazeera",
+        "DW World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-04-17/trump-says-iran-deal-looking-very-good-amid-ceasefire"
+    },
+    {
+      "title": "Israel-Lebanon ceasefire could impact U.S. deal with Iran",
+      "summary": "Israel-Lebanon ceasefire could impact U.S. deal with Iran",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 31,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/israel-lebanon-ceasefire-could-impact-us-deal-iran"
     }
   ]
 }
