@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-18T01:22:57.375360Z",
+  "last_updated": "2026-04-18T12:38:54.705783Z",
   "world_org_meetings": [
     {
-      "title": "India, China hold 1st bilateral SCO talks after Ladakh thaw",
-      "organization": "SCO",
+      "title": "Bangladesh Continues Talks with IMF on Key Reforms Tied to Loan",
+      "organization": "IMF",
       "date": "",
       "location": "",
-      "description": "India, China hold 1st bilateral SCO talks after Ladakh thaw",
-      "source_url": "https://timesofindia.indiatimes.com/india/india-china-hold-1st-bilateral-sco-talks-after-ladakh-thaw/articleshow/130342814.cms"
+      "description": "Bangladesh Continues Talks with IMF on Key Reforms Tied to Loan",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-18/bangladesh-continues-talks-with-imf-on-key-reforms-tied-to-loan"
     },
     {
       "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
@@ -40,18 +40,6 @@
       "source_url": "https://www.japantimes.co.jp/news/2026/04/18/asia-pacific/politics/china-iran-diplomacy-trump"
     },
     {
-      "title": "REPLAY: EU leaders deliver joint statement on Strait of Hormuz opening",
-      "participants": [
-        "REPLAY EU",
-        "Strait",
-        "Hormuz"
-      ],
-      "date": "",
-      "location": "",
-      "description": "REPLAY: EU leaders deliver joint statement on Strait of Hormuz opening",
-      "source_url": "https://www.france24.com/en/replay-eu-leaders-deliver-joint-statement-on-strait-of-hormuz-opening"
-    },
-    {
       "title": "Vice President C.P. Radhakrishnan to visit Sri Lanka on April 19 and 20",
       "participants": [
         "Vice President C.P Radhakrishnan",
@@ -66,28 +54,28 @@
   ],
   "elections": [
     {
-      "title": "TIPRA Motha sweeps Tripura tribal council elections",
+      "title": "Here’s what to know about the groups shaping the Virginia redistricting referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Here’s what to know about the groups shaping the Virginia redistricting referendum",
+      "source_url": "https://thehill.com/homenews/campaign/5836868-dark-money-impact-virginia-redistricting"
+    },
+    {
+      "title": "French right divided over primary vote one year from presidential election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "French right divided over primary vote one year from presidential election",
+      "source_url": "https://www.france24.com/en/french-right-divided-over-primary-vote-one-year-from-presidential-election"
+    },
+    {
+      "title": "Young Bulgarians hold out for change in eighth election in five years",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "TIPRA Motha sweeps Tripura tribal council elections",
-      "source_url": "https://timesofindia.indiatimes.com/india/tipra-motha-sweeps-tripura-tribal-council-elections/articleshow/130344563.cms"
-    },
-    {
-      "title": "A monkey in Mexico, elections in Peru and other top photos from Latin America and the Caribbean",
-      "country": "Mexico",
-      "election_type": "National",
-      "date": "",
-      "description": "A monkey in Mexico, elections in Peru and other top photos from Latin America and the Caribbean",
-      "source_url": "https://abcnews.com/International/wireStory/monkey-mexico-elections-peru-top-photos-latin-america-132126574"
-    },
-    {
-      "title": "Will Bulgaria's election change the country's course?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Will Bulgaria's election change the country's course?",
-      "source_url": "https://www.dw.com/en/will-bulgaria-s-election-change-the-country-s-course/a-76814246?maca=en-rss-en-world-4025-rdf"
+      "description": "Young Bulgarians hold out for change in eighth election in five years",
+      "source_url": "https://www.theguardian.com/world/2026/apr/18/young-bulgarians-election-wave-of-protests"
     },
     {
       "title": "Live results: Mejia, Hathaway duke it out to replace Sherrill in New Jersey House special election",
@@ -100,90 +88,96 @@
   ],
   "global_events": [
     {
-      "title": "Oil prices plunge as Iran says Strait 'open'",
-      "summary": "Oil prices plunge as Iran says Strait 'open'",
+      "title": "Iran closes Hormuz Strait again over US blockade with ships mid-transit",
+      "summary": "Iran closes Hormuz Strait again over US blockade with ships mid-transit",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Newsweek",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 22,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/iran-closes-hormuz-strait-again-over-us-blockade-with-ships-mid-transit"
+    },
+    {
+      "title": "Iran declares the Strait of Hormuz 'completely open' amid fragile ceasefire",
+      "summary": "Iran declares the Strait of Hormuz 'completely open' amid fragile ceasefire",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
+        "Wash Post World",
         "Bloomberg",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill"
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 14,
+      "coverage_count": 26,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/iran-declares-the-strait-of-hormuz-completely-open-amid-fragile-ceasefire"
+    },
+    {
+      "title": "Iran says it has closed the Strait of Hormuz again, citing U.S. blockade",
+      "summary": "Iran says it has closed the Strait of Hormuz again, citing U.S. blockade",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Newsweek",
+        "Time"
+      ],
+      "coverage_count": 30,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/18/iran-strait-hormuz-us-oil"
     },
     {
       "title": "What we know about the Israel-Lebanon ceasefire",
       "summary": "What we know about the Israel-Lebanon ceasefire",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "CBS News World",
         "NYT World",
         "Wash Post World",
-        "Al Jazeera",
         "The Hindu Intl",
         "SCMP",
         "The Hill",
-        "Axios"
+        "Axios",
+        "Vox"
       ],
-      "coverage_count": 21,
+      "coverage_count": 18,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump says he may visit Pakistan if Iran deal is signed in Islamabad",
-      "summary": "Trump says he may visit Pakistan if Iran deal is signed in Islamabad",
+      "title": "Sudan war enters fourth year as the humanitarian crisis deepens",
+      "summary": "Sudan war enters fourth year as the humanitarian crisis deepens",
       "outlets_covering": [
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/tv/news/trump-iran-pakistan-ceasefire-deal-b2959716.html"
-    },
-    {
-      "title": "Trump says U.S. will continue blockade after Iran says strait \"completely open\"",
-      "summary": "Trump says U.S. will continue blockade after Iran says strait \"completely open\"",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
         "The Guardian World",
-        "Bloomberg",
-        "Time",
-        "The Hindu Intl",
-        "SCMP",
+        "France24",
         "Foreign Policy"
       ],
-      "coverage_count": 14,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz"
-    },
-    {
-      "title": "Sri Lanka repatriates survivors of U.S. torpedo attack on Iranian ship",
-      "summary": "Sri Lanka repatriates survivors of U.S. torpedo attack on Iranian ship",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
       "coverage_count": 3,
-      "region": "Middle East",
+      "region": "Africa",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/sri-lanka-repatriates-survivors-of-us-torpedo-attack-on-iranian-ship/article70875078.ece"
+      "source_url": "https://www.france24.com/en/sudan-war-enters-fourth-year-as-the-humanitarian-crisis-deepens"
     }
   ]
 }
