@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-17T12:56:30.324624Z",
+  "last_updated": "2026-04-18T01:22:57.375360Z",
   "world_org_meetings": [
+    {
+      "title": "India, China hold 1st bilateral SCO talks after Ladakh thaw",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "India, China hold 1st bilateral SCO talks after Ladakh thaw",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-china-hold-1st-bilateral-sco-talks-after-ladakh-thaw/articleshow/130342814.cms"
+    },
     {
       "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
       "organization": "UN",
@@ -20,6 +28,30 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "China steps up Iran diplomacy while seeking smooth summit with Trump",
+      "participants": [
+        "China",
+        "Iran",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China steps up Iran diplomacy while seeking smooth summit with Trump",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/18/asia-pacific/politics/china-iran-diplomacy-trump"
+    },
+    {
+      "title": "REPLAY: EU leaders deliver joint statement on Strait of Hormuz opening",
+      "participants": [
+        "REPLAY EU",
+        "Strait",
+        "Hormuz"
+      ],
+      "date": "",
+      "location": "",
+      "description": "REPLAY: EU leaders deliver joint statement on Strait of Hormuz opening",
+      "source_url": "https://www.france24.com/en/replay-eu-leaders-deliver-joint-statement-on-strait-of-hormuz-opening"
+    },
+    {
       "title": "Vice President C.P. Radhakrishnan to visit Sri Lanka on April 19 and 20",
       "participants": [
         "Vice President C.P Radhakrishnan",
@@ -30,21 +62,17 @@
       "location": "",
       "description": "Vice President C.P. Radhakrishnan to visit Sri Lanka on April 19 and 20",
       "source_url": "https://www.thehindu.com/news/national/vice-president-cp-radhakrishnan-to-visit-sri-lanka-on-april-19-and-20/article70872533.ece"
-    },
-    {
-      "title": "What to know about new direct talks between Lebanon and Israel",
-      "participants": [
-        "What",
-        "Lebanon",
-        "Israel"
-      ],
-      "date": "",
-      "location": "",
-      "description": "What to know about new direct talks between Lebanon and Israel",
-      "source_url": "https://www.pbs.org/newshour/world/what-to-know-about-new-direct-talks-between-lebanon-and-israel"
     }
   ],
   "elections": [
+    {
+      "title": "TIPRA Motha sweeps Tripura tribal council elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "TIPRA Motha sweeps Tripura tribal council elections",
+      "source_url": "https://timesofindia.indiatimes.com/india/tipra-motha-sweeps-tripura-tribal-council-elections/articleshow/130344563.cms"
+    },
     {
       "title": "A monkey in Mexico, elections in Peru and other top photos from Latin America and the Caribbean",
       "country": "Mexico",
@@ -54,28 +82,12 @@
       "source_url": "https://abcnews.com/International/wireStory/monkey-mexico-elections-peru-top-photos-latin-america-132126574"
     },
     {
-      "title": "What Magyar's election win means for Hungary's economy and Europe",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "What Magyar's election win means for Hungary's economy and Europe",
-      "source_url": "https://www.france24.com/en/tv-shows/people-profit/20260417-what-magyar-s-election-win-means-for-hungary-s-economy-and-europe"
-    },
-    {
       "title": "Will Bulgaria's election change the country's course?",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Will Bulgaria's election change the country's course?",
       "source_url": "https://www.dw.com/en/will-bulgaria-s-election-change-the-country-s-course/a-76814246?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "'Murder’: TVK, BJP target DMK after woman allegedly commits suicide over election freebies",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "'Murder’: TVK, BJP target DMK after woman allegedly commits suicide over election freebies",
-      "source_url": "https://timesofindia.indiatimes.com/india/murder-tvk-bjp-target-dmk-after-woman-allegedly-commits-suicide-over-election-freebies/articleshow/130326058.cms"
     },
     {
       "title": "Live results: Mejia, Hathaway duke it out to replace Sherrill in New Jersey House special election",
@@ -88,24 +100,43 @@
   ],
   "global_events": [
     {
+      "title": "Oil prices plunge as Iran says Strait 'open'",
+      "summary": "Oil prices plunge as Iran says Strait 'open'",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "SCMP",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 14,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "What we know about the Israel-Lebanon ceasefire",
       "summary": "What we know about the Israel-Lebanon ceasefire",
       "outlets_covering": [
         "BBC World",
         "NPR World",
-        "PBS NewsHour",
         "CBS News World",
         "NYT World",
         "Wash Post World",
-        "The Independent",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 27,
+      "coverage_count": 21,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire?traffic_source=rss"
+      "source_url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Trump says he may visit Pakistan if Iran deal is signed in Islamabad",
@@ -122,57 +153,37 @@
       "source_url": "https://www.independent.co.uk/tv/news/trump-iran-pakistan-ceasefire-deal-b2959716.html"
     },
     {
-      "title": "Israel-Lebanon ceasefire could impact U.S. deal with Iran",
-      "summary": "Israel-Lebanon ceasefire could impact U.S. deal with Iran",
+      "title": "Trump says U.S. will continue blockade after Iran says strait \"completely open\"",
+      "summary": "Trump says U.S. will continue blockade after Iran says strait \"completely open\"",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBS News World",
-        "NYT World",
-        "Wash Post World",
+        "The Guardian World",
+        "Bloomberg",
+        "Time",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy"
+      ],
+      "coverage_count": 14,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz"
+    },
+    {
+      "title": "Sri Lanka repatriates survivors of U.S. torpedo attack on Iranian ship",
+      "summary": "Sri Lanka repatriates survivors of U.S. torpedo attack on Iranian ship",
+      "outlets_covering": [
+        "ABC News Intl",
         "The Independent",
-        "Al Jazeera",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 24,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/israel-lebanon-ceasefire-could-impact-us-deal-iran"
-    },
-    {
-      "title": "Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect",
-      "summary": "Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates"
-    },
-    {
-      "title": "Myanmar Frees Ousted President, but Not Daw Aung San Suu Kyi",
-      "summary": "Myanmar Frees Ousted President, but Not Daw Aung San Suu Kyi",
-      "outlets_covering": [
-        "NYT World",
-        "France24",
-        "Japan Times"
-      ],
       "coverage_count": 3,
-      "region": "East / Southeast Asia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/04/17/world/asia/myanmar-president-amnesty.html"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/sri-lanka-repatriates-survivors-of-us-torpedo-attack-on-iranian-ship/article70875078.ece"
     }
   ]
 }
