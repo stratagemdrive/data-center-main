@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T01:45:51.538116Z",
+  "last_updated": "2026-04-19T12:38:12.312745Z",
   "world_org_meetings": [
     {
       "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
@@ -18,90 +18,58 @@
       "source_url": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-imf-world-bank-spring-meetings-as-leaders-grapple-with-war-and-supply-shocks"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "China steps up Iran diplomacy while seeking smooth summit with Trump",
-      "participants": [
-        "China",
-        "Iran",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China steps up Iran diplomacy while seeking smooth summit with Trump",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/18/asia-pacific/politics/china-iran-diplomacy-trump"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Murphy tells US, world progressives to take ‘lessons’ from Hungary elections",
-      "country": "Hungary",
+      "title": "Peru says presidential election results due by mid-May after delayed count",
+      "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Peru says presidential election results due by mid-May after delayed count",
+      "source_url": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss"
+    },
+    {
+      "title": "'PM Modi's address on women's quota violated model code': CPM, CPI write to Election Commission; flag use of state broadcasters",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Murphy tells US, world progressives to take ‘lessons’ from Hungary elections",
-      "source_url": "https://thehill.com/policy/international/5838128-murphy-tells-us-world-progressives-to-take-lessons-from-hungary-elections"
+      "description": "'PM Modi's address on women's quota violated model code': CPM, CPI write to Election Commission; flag use of state broadcasters",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modis-address-on-womens-quota-violated-model-code-cpim-cpi-write-to-election-commission-flag-use-of-state-broadcasters/articleshow/130367746.cms"
     },
     {
-      "title": "Two more Reform local election candidates accused of offensive posts",
-      "country": "",
-      "election_type": "Local",
+      "title": "'They are stealing the election': How Armenia became the next Russia-EU battlefield",
+      "country": "Russia",
+      "election_type": "National",
       "date": "",
-      "description": "Two more Reform local election candidates accused of offensive posts",
-      "source_url": "https://www.theguardian.com/politics/2026/apr/18/two-more-reform-local-election-candidates-accused-offensive-posts"
+      "description": "'They are stealing the election': How Armenia became the next Russia-EU battlefield",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260419-stealing-election-how-armenia-became-next-russia-eu-battlefield"
     },
     {
-      "title": "Here’s what to know about the groups shaping the Virginia redistricting referendum",
+      "title": "Bulgarians vote in high-stakes election",
       "country": "",
-      "election_type": "Referendum",
+      "election_type": "National",
       "date": "",
-      "description": "Here’s what to know about the groups shaping the Virginia redistricting referendum",
-      "source_url": "https://thehill.com/homenews/campaign/5836868-dark-money-impact-virginia-redistricting"
+      "description": "Bulgarians vote in high-stakes election",
+      "source_url": "https://www.dw.com/en/bulgarians-vote-in-high-stakes-election/a-76846189?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "West Bengal assembly elections: Nearly 7 lakh voters added to electoral rolls days before Phase 1 polling",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "West Bengal assembly elections: Nearly 7 lakh voters added to electoral rolls days before Phase 1 polling",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-elections-nearly-7-lakh-voters-added-to-electoral-rolls-days-before-phase-1-polling/articleshow/130364881.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Iran closes Strait of Hormuz again; 2 ships report attacks while trying to cross",
-      "summary": "Iran closes Strait of Hormuz again; 2 ships report attacks while trying to cross",
+      "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
+      "summary": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "PBS NewsHour",
-        "CBS News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/18/iran-strait-hormuz-us-oil"
-    },
-    {
-      "title": "South Korea says North Korea has launched multiple ballistic missiles",
-      "summary": "South Korea says North Korea has launched multiple ballistic missiles",
-      "outlets_covering": [
-        "NPR World",
         "ABC News Intl",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/south-korea-north-korea-launched-multiple-ballistic-missiles-132176690"
-    },
-    {
-      "title": "Iran fires on ships in Strait of Hormuz as it closes the critical chokepoint again",
-      "summary": "Iran fires on ships in Strait of Hormuz as it closes the critical chokepoint again",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
         "CBS News World",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
@@ -109,37 +77,74 @@
         "Time",
         "The Independent"
       ],
-      "coverage_count": 22,
+      "coverage_count": 24,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz"
+      "source_url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade"
     },
     {
-      "title": "Macron says a French soldier was killed and 3 were wounded in attack on peacekeepers in Lebanon",
-      "summary": "Macron says a French soldier was killed and 3 were wounded in attack on peacekeepers in Lebanon",
+      "title": "North Korea launches ballistic missiles toward sea",
+      "summary": "North Korea launches ballistic missiles toward sea",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "Sky News World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/north-korea-launches-ballistic-missiles-toward-sea/article70879929.ece"
+    },
+    {
+      "title": "French soldier killed in attack on U.N. mission in southern Lebanon, officials say",
+      "summary": "French soldier killed in attack on U.N. mission in southern Lebanon, officials say",
       "outlets_covering": [
         "PBS NewsHour",
         "ABC News Intl",
-        "Al Jazeera",
-        "France24"
+        "France24",
+        "Japan Times"
       ],
       "coverage_count": 5,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/macron-french-soldier-killed-3-wounded-attack-peacekeepers-132162824"
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/19/world/french-soldier-killed-lebanon"
     },
     {
-      "title": "A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman",
-      "summary": "A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman",
+      "title": "Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal",
+      "summary": "Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "Bloomberg",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz"
+    },
+    {
+      "title": "Hormuz at Standstill, Denting US-Iran Peace Deal Hopes",
+      "summary": "Hormuz at Standstill, Denting US-Iran Peace Deal Hopes",
       "outlets_covering": [
         "NPR World",
-        "CBC World",
-        "Al Jazeera"
+        "NBC News World",
+        "NYT World",
+        "Bloomberg",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
+      "coverage_count": 8,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/04/18/nx-s1-5789903/mass-shooting-kyiv-ukraine"
+      "source_url": "https://www.bloomberg.com/news/videos/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes-video"
     }
   ]
 }
