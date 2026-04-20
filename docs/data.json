@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T01:48:28.980854Z",
+  "last_updated": "2026-04-20T13:06:38.905959Z",
   "world_org_meetings": [
     {
       "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
@@ -20,147 +20,133 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "South Korean President Lee Jae-myung arrives for three-day state visit; 'Special Strategic Partnership' in focus",
+      "title": "Doubts over talks between Iran and US after violence flares in Strait of Hormuz",
       "participants": [
-        "South Korean President Lee Jae-myung",
-        "Special Strategic Partnership"
+        "Doubts",
+        "Iran",
+        "Strait",
+        "Hormuz"
       ],
       "date": "",
       "location": "",
-      "description": "South Korean President Lee Jae-myung arrives for three-day state visit; 'Special Strategic Partnership' in focus",
-      "source_url": "https://timesofindia.indiatimes.com/india/south-korean-president-lee-jae-myung-arrives-for-three-day-state-visit-delhi-seoul-special-strategic-partnership-in-focus/articleshow/130374568.cms"
+      "description": "Doubts over talks between Iran and US after violence flares in Strait of Hormuz",
+      "source_url": "https://abcnews.com/International/wireStory/doubts-talks-iran-us-after-violence-flares-strait-132196339"
     }
   ],
   "elections": [
     {
-      "title": "The center-left coalition of former President Radev will win Bulgaria's election, exit poll suggests",
+      "title": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "The center-left coalition of former President Radev will win Bulgaria's election, exit poll suggests",
-      "source_url": "https://abcnews.com/International/wireStory/center-left-coalition-former-president-radev-win-bulgarias-132179017"
+      "description": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
+      "source_url": "https://www.independent.co.uk/news/world/europe/bulgaria-election-results-rumen-radev-b2960944.html"
     },
     {
-      "title": "Bulgaria’s former president claims ‘victory’ after projections show him winning parliamentary elections",
+      "title": "Rumen Radev's party wins Bulgarian election",
       "country": "",
-      "election_type": "Parliamentary",
+      "election_type": "National",
       "date": "",
-      "description": "Bulgaria’s former president claims ‘victory’ after projections show him winning parliamentary elections",
-      "source_url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov"
-    },
-    {
-      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "description": "Rumen Radev's party wins Bulgarian election",
       "source_url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Kremlin-friendly ex-president headed to victory in Bulgaria election",
+      "title": "Exit poll suggests the center-left coalition of former president Rumen Radev will win Bulgaria election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Kremlin-friendly ex-president headed to victory in Bulgaria election",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/18/bulgaria-election-radev-russia-orban"
+      "description": "Exit poll suggests the center-left coalition of former president Rumen Radev will win Bulgaria election",
+      "source_url": "https://abcnews.com/International/wireStory/exit-poll-suggests-center-left-coalition-former-president-132187377"
     },
     {
-      "title": "Bulgaria election: Ex-President Radev’s party leads in early results",
+      "title": "A new foothold for Moscow in Europe after Bulgaria election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Bulgaria election: Ex-President Radev’s party leads in early results",
-      "source_url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election?traffic_source=rss"
+      "description": "A new foothold for Moscow in Europe after Bulgaria election",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/20/bulgaria-russia-election-victory-radev"
+    },
+    {
+      "title": "Virginia’s Redistricting Referendum Is a Power Grab | Opinion",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Virginia’s Redistricting Referendum Is a Power Grab | Opinion",
+      "source_url": "https://www.newsweek.com/virginias-redistricting-referendum-is-a-power-grab-opinion-11846750"
     }
   ],
   "global_events": [
     {
-      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-      "summary": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "title": "U.K police investigating if attacks in London are the work of Iranian proxies",
+      "summary": "U.K police investigating if attacks in London are the work of Iranian proxies",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
-        "PBS NewsHour",
-        "NBC News World",
-        "The Guardian World",
-        "Bloomberg",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Police investigating arson attacks at Jewish sites in London",
-      "summary": "Police investigating arson attacks at Jewish sites in London",
-      "outlets_covering": [
         "PBS NewsHour",
         "ABC News Intl",
         "CBS News World",
         "NYT World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Europe",
+      "coverage_count": 6,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/police-investigating-arson-attacks-at-jewish-sites-in-london"
+      "source_url": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies"
     },
     {
-      "title": "Australia's most decorated serviceman vows to fight war crime charges",
-      "summary": "Australia's most decorated serviceman vows to fight war crime charges",
+      "title": "North Korea launches multiple short-range ballistic missiles toward sea",
+      "summary": "North Korea launches multiple short-range ballistic missiles toward sea",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "ABC News Intl",
         "Sky News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/north-korea-launches-multiple-short-range-ballistic-missiles-132176691"
+    },
+    {
+      "title": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
+      "summary": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
+      "outlets_covering": [
+        "CBC World",
+        "Wash Post World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/bulgaria-election-results-rumen-radev-b2960944.html"
+    },
+    {
+      "title": "Major earthquake off Japan's north coast prompts tsunami alert",
+      "summary": "Major earthquake off Japan's north coast prompts tsunami alert",
+      "outlets_covering": [
+        "CBS News World",
         "Fox News World",
+        "The Guardian World",
         "France24"
       ],
       "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/australia-s-most-decorated-serviceman-vows-to-fight-war-crime-charges"
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/japan-earthquake-tsunami-warning-hokkaido"
     },
     {
-      "title": "North Korea tests short-range ballistic missiles",
-      "summary": "North Korea tests short-range ballistic missiles",
+      "title": "German woman with bomb in her rucksack detained in Russia over alleged Ukraine plot",
+      "summary": "German woman with bomb in her rucksack detained in Russia over alleged Ukraine plot",
       "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "ABC News Intl",
-        "Sky News World",
-        "Japan Times",
+        "The Independent",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "East / Southeast Asia",
+      "coverage_count": 3,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/north-korea-tests-short-range-ballistic-missiles"
-    },
-    {
-      "title": "Strait of Hormuz remains closed, as Iran blames U.S. blockade",
-      "summary": "Strait of Hormuz remains closed, as Iran blames U.S. blockade",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Time",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 23,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/strait-of-hormuz-remains-closed-as-iran-blames-u-s-blockade"
+      "source_url": "https://www.independent.co.uk/news/world/europe/rucksack-bomb-russia-german-woman-ukraine-plot-b2961044.html"
     }
   ]
 }
