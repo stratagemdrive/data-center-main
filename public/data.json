@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T12:38:12.312745Z",
+  "last_updated": "2026-04-20T01:48:28.980854Z",
   "world_org_meetings": [
     {
       "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
@@ -18,53 +18,133 @@
       "source_url": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-imf-world-bank-spring-meetings-as-leaders-grapple-with-war-and-supply-shocks"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "South Korean President Lee Jae-myung arrives for three-day state visit; 'Special Strategic Partnership' in focus",
+      "participants": [
+        "South Korean President Lee Jae-myung",
+        "Special Strategic Partnership"
+      ],
+      "date": "",
+      "location": "",
+      "description": "South Korean President Lee Jae-myung arrives for three-day state visit; 'Special Strategic Partnership' in focus",
+      "source_url": "https://timesofindia.indiatimes.com/india/south-korean-president-lee-jae-myung-arrives-for-three-day-state-visit-delhi-seoul-special-strategic-partnership-in-focus/articleshow/130374568.cms"
+    }
+  ],
   "elections": [
     {
-      "title": "Peru says presidential election results due by mid-May after delayed count",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Peru says presidential election results due by mid-May after delayed count",
-      "source_url": "https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count?traffic_source=rss"
-    },
-    {
-      "title": "'PM Modi's address on women's quota violated model code': CPM, CPI write to Election Commission; flag use of state broadcasters",
+      "title": "The center-left coalition of former President Radev will win Bulgaria's election, exit poll suggests",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "'PM Modi's address on women's quota violated model code': CPM, CPI write to Election Commission; flag use of state broadcasters",
-      "source_url": "https://timesofindia.indiatimes.com/india/pm-modis-address-on-womens-quota-violated-model-code-cpim-cpi-write-to-election-commission-flag-use-of-state-broadcasters/articleshow/130367746.cms"
+      "description": "The center-left coalition of former President Radev will win Bulgaria's election, exit poll suggests",
+      "source_url": "https://abcnews.com/International/wireStory/center-left-coalition-former-president-radev-win-bulgarias-132179017"
     },
     {
-      "title": "'They are stealing the election': How Armenia became the next Russia-EU battlefield",
-      "country": "Russia",
-      "election_type": "National",
+      "title": "Bulgaria’s former president claims ‘victory’ after projections show him winning parliamentary elections",
+      "country": "",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "'They are stealing the election': How Armenia became the next Russia-EU battlefield",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260419-stealing-election-how-armenia-became-next-russia-eu-battlefield"
+      "description": "Bulgaria’s former president claims ‘victory’ after projections show him winning parliamentary elections",
+      "source_url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov"
     },
     {
-      "title": "Bulgarians vote in high-stakes election",
+      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "source_url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Kremlin-friendly ex-president headed to victory in Bulgaria election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Bulgarians vote in high-stakes election",
-      "source_url": "https://www.dw.com/en/bulgarians-vote-in-high-stakes-election/a-76846189?maca=en-rss-en-world-4025-rdf"
+      "description": "Kremlin-friendly ex-president headed to victory in Bulgaria election",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/18/bulgaria-election-radev-russia-orban"
     },
     {
-      "title": "West Bengal assembly elections: Nearly 7 lakh voters added to electoral rolls days before Phase 1 polling",
+      "title": "Bulgaria election: Ex-President Radev’s party leads in early results",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "West Bengal assembly elections: Nearly 7 lakh voters added to electoral rolls days before Phase 1 polling",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-elections-nearly-7-lakh-voters-added-to-electoral-rolls-days-before-phase-1-polling/articleshow/130364881.cms"
+      "description": "Bulgaria election: Ex-President Radev’s party leads in early results",
+      "source_url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
-      "summary": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "summary": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "NBC News World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Police investigating arson attacks at Jewish sites in London",
+      "summary": "Police investigating arson attacks at Jewish sites in London",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "CBS News World",
+        "NYT World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/police-investigating-arson-attacks-at-jewish-sites-in-london"
+    },
+    {
+      "title": "Australia's most decorated serviceman vows to fight war crime charges",
+      "summary": "Australia's most decorated serviceman vows to fight war crime charges",
+      "outlets_covering": [
+        "BBC World",
+        "Sky News World",
+        "Fox News World",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/australia-s-most-decorated-serviceman-vows-to-fight-war-crime-charges"
+    },
+    {
+      "title": "North Korea tests short-range ballistic missiles",
+      "summary": "North Korea tests short-range ballistic missiles",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "ABC News Intl",
+        "Sky News World",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/north-korea-tests-short-range-ballistic-missiles"
+    },
+    {
+      "title": "Strait of Hormuz remains closed, as Iran blames U.S. blockade",
+      "summary": "Strait of Hormuz remains closed, as Iran blames U.S. blockade",
       "outlets_covering": [
         "PBS NewsHour",
         "ABC News Intl",
@@ -72,79 +152,15 @@
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
         "Time",
-        "The Independent"
-      ],
-      "coverage_count": 24,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade"
-    },
-    {
-      "title": "North Korea launches ballistic missiles toward sea",
-      "summary": "North Korea launches ballistic missiles toward sea",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "Sky News World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/north-korea-launches-ballistic-missiles-toward-sea/article70879929.ece"
-    },
-    {
-      "title": "French soldier killed in attack on U.N. mission in southern Lebanon, officials say",
-      "summary": "French soldier killed in attack on U.N. mission in southern Lebanon, officials say",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/19/world/french-soldier-killed-lebanon"
-    },
-    {
-      "title": "Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal",
-      "summary": "Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "Bloomberg",
         "Al Jazeera",
         "The Hindu Intl",
-        "SCMP",
-        "The Hill"
+        "SCMP"
       ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz"
-    },
-    {
-      "title": "Hormuz at Standstill, Denting US-Iran Peace Deal Hopes",
-      "summary": "Hormuz at Standstill, Denting US-Iran Peace Deal Hopes",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "NYT World",
-        "Bloomberg",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
+      "coverage_count": 23,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes-video"
+      "source_url": "https://www.cbsnews.com/video/strait-of-hormuz-remains-closed-as-iran-blames-u-s-blockade"
     }
   ]
 }
