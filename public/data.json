@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-04-20T13:06:38.905959Z",
+  "last_updated": "2026-04-21T01:29:28.209425Z",
   "world_org_meetings": [
+    {
+      "title": "European Union hosts Palestinian peace conference as it seeks greater role in Middle East",
+      "organization": "EU",
+      "date": "",
+      "location": "",
+      "description": "European Union hosts Palestinian peace conference as it seeks greater role in Middle East",
+      "source_url": "https://www.pbs.org/newshour/world/european-union-hosts-palestinian-peace-conference-as-it-seeks-greater-role-in-middle-east"
+    },
+    {
+      "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
+    },
     {
       "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
       "organization": "UN",
@@ -20,71 +36,85 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Doubts over talks between Iran and US after violence flares in Strait of Hormuz",
+      "title": "Doubts over talks between Iran and U.S. after violence flares in Strait of Hormuz",
       "participants": [
         "Doubts",
         "Iran",
-        "Strait",
-        "Hormuz"
+        "U.S",
+        "Strait"
       ],
       "date": "",
       "location": "",
-      "description": "Doubts over talks between Iran and US after violence flares in Strait of Hormuz",
-      "source_url": "https://abcnews.com/International/wireStory/doubts-talks-iran-us-after-violence-flares-strait-132196339"
+      "description": "Doubts over talks between Iran and U.S. after violence flares in Strait of Hormuz",
+      "source_url": "https://www.pbs.org/newshour/world/doubts-over-talks-between-iran-and-u-s-after-violence-flares-in-strait-of-hormuz"
     }
   ],
   "elections": [
     {
-      "title": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
+      "title": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
-      "source_url": "https://www.independent.co.uk/news/world/europe/bulgaria-election-results-rumen-radev-b2960944.html"
+      "description": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
+      "source_url": "https://www.nbcnews.com/world/europe/russia-friendly-ex-president-election-win-bulgaria-rcna340947"
     },
     {
-      "title": "Rumen Radev's party wins Bulgarian election",
+      "title": "Moscow-friendly Rumen Radev wins absolute majority in Bulgarian elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Rumen Radev's party wins Bulgarian election",
-      "source_url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss"
+      "description": "Moscow-friendly Rumen Radev wins absolute majority in Bulgarian elections",
+      "source_url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov"
     },
     {
-      "title": "Exit poll suggests the center-left coalition of former president Rumen Radev will win Bulgaria election",
-      "country": "",
+      "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
+      "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Exit poll suggests the center-left coalition of former president Rumen Radev will win Bulgaria election",
-      "source_url": "https://abcnews.com/International/wireStory/exit-poll-suggests-center-left-coalition-former-president-132187377"
+      "description": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
+      "source_url": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss"
     },
     {
-      "title": "A new foothold for Moscow in Europe after Bulgaria election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "A new foothold for Moscow in Europe after Bulgaria election",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/20/bulgaria-russia-election-victory-radev"
-    },
-    {
-      "title": "Virginia’s Redistricting Referendum Is a Power Grab | Opinion",
+      "title": "Slovaks to vote in a July referendum on lifelong payments for Prime Minister Fico and others",
       "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "Virginia’s Redistricting Referendum Is a Power Grab | Opinion",
-      "source_url": "https://www.newsweek.com/virginias-redistricting-referendum-is-a-power-grab-opinion-11846750"
+      "description": "Slovaks to vote in a July referendum on lifelong payments for Prime Minister Fico and others",
+      "source_url": "https://abcnews.com/International/wireStory/slovaks-vote-july-referendum-lifelong-payments-prime-minister-132210100"
+    },
+    {
+      "title": "Hungary's Magyar announces ministers after landslide election win",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary's Magyar announces ministers after landslide election win",
+      "source_url": "https://abcnews.com/International/wireStory/hungarys-magyar-announces-ministers-after-landslide-election-win-132209189"
     }
   ],
   "global_events": [
+    {
+      "title": "Woman charged in US with trafficking arms to Sudan for Iranian government",
+      "summary": "Woman charged in US with trafficking arms to Sudan for Iranian government",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/4/20/woman-charged-in-us-with-trafficking-arms-to-sudan-for-iranian-government?traffic_source=rss"
+    },
     {
       "title": "U.K police investigating if attacks in London are the work of Iranian proxies",
       "summary": "U.K police investigating if attacks in London are the work of Iranian proxies",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
         "CBS News World",
         "NYT World",
+        "The Guardian World",
         "The Hindu Intl"
       ],
       "coverage_count": 6,
@@ -93,60 +123,51 @@
       "source_url": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies"
     },
     {
-      "title": "North Korea launches multiple short-range ballistic missiles toward sea",
-      "summary": "North Korea launches multiple short-range ballistic missiles toward sea",
+      "title": "What to know as U.S. seizes Iranian tanker, questions linger about peace talks",
+      "summary": "What to know as U.S. seizes Iranian tanker, questions linger about peace talks",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "Time",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/what-to-know-as-us-seizes-iranian-tanker-questions-linger-about-peace-talks"
+    },
+    {
+      "title": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
+      "summary": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "Sky News World",
-        "The Hindu Intl"
+        "CBS News World",
+        "The Independent",
+        "France24",
+        "Japan Times",
+        "Foreign Policy"
       ],
-      "coverage_count": 6,
-      "region": "East / Southeast Asia",
+      "coverage_count": 9,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/north-korea-launches-multiple-short-range-ballistic-missiles-132176691"
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/21/world/politics/iran-peace-deadline-ceasefire"
     },
     {
-      "title": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
-      "summary": "Bulgaria’s Kremlin-friendly ex-president wins election in landslide result that could ​bring shift in foreign policy",
+      "title": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
+      "summary": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
       "outlets_covering": [
         "CBC World",
+        "NBC News World",
         "Wash Post World",
         "The Independent",
-        "France24"
+        "DW World"
       ],
       "coverage_count": 5,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/bulgaria-election-results-rumen-radev-b2960944.html"
-    },
-    {
-      "title": "Major earthquake off Japan's north coast prompts tsunami alert",
-      "summary": "Major earthquake off Japan's north coast prompts tsunami alert",
-      "outlets_covering": [
-        "CBS News World",
-        "Fox News World",
-        "The Guardian World",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/japan-earthquake-tsunami-warning-hokkaido"
-    },
-    {
-      "title": "German woman with bomb in her rucksack detained in Russia over alleged Ukraine plot",
-      "summary": "German woman with bomb in her rucksack detained in Russia over alleged Ukraine plot",
-      "outlets_covering": [
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/rucksack-bomb-russia-german-woman-ukraine-plot-b2961044.html"
+      "source_url": "https://www.nbcnews.com/world/europe/russia-friendly-ex-president-election-win-bulgaria-rcna340947"
     }
   ]
 }
