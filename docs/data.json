@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T01:29:28.209425Z",
+  "last_updated": "2026-04-21T13:00:57.099228Z",
   "world_org_meetings": [
     {
       "title": "European Union hosts Palestinian peace conference as it seeks greater role in Middle East",
@@ -51,123 +51,115 @@
   ],
   "elections": [
     {
-      "title": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
+      "title": "Bulgaria's Kremlin-friendly ex-president set for landslide election win",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
-      "source_url": "https://www.nbcnews.com/world/europe/russia-friendly-ex-president-election-win-bulgaria-rcna340947"
+      "description": "Bulgaria's Kremlin-friendly ex-president set for landslide election win",
+      "source_url": "https://www.cbc.ca/news/world/bulgaria-election-9.7169987?cmp=rss"
     },
     {
-      "title": "Moscow-friendly Rumen Radev wins absolute majority in Bulgarian elections",
+      "title": "Tamil Nadu election: Campaigning ends as parties make final outreach to voters; polling on Thursday",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Moscow-friendly Rumen Radev wins absolute majority in Bulgarian elections",
-      "source_url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov"
+      "description": "Tamil Nadu election: Campaigning ends as parties make final outreach to voters; polling on Thursday",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-election-campaigning-ends-as-parties-make-final-outreach-to-voters-polling-on-thursday/articleshow/130416819.cms"
     },
     {
-      "title": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
-      "country": "Ukraine",
+      "title": "Liberals and Nationals to preference One Nation in blow to Michelle Milthorpe in Farrer byelection",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
-      "source_url": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss"
+      "description": "Liberals and Nationals to preference One Nation in blow to Michelle Milthorpe in Farrer byelection",
+      "source_url": "https://www.theguardian.com/australia-news/2026/apr/21/farrer-byelection-liberal-national-one-nation-pauline-hanson-preference-ntwnfb"
     },
     {
-      "title": "Slovaks to vote in a July referendum on lifelong payments for Prime Minister Fico and others",
+      "title": "What to know about Tuesday’s redistricting referendum in Virginia",
       "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "Slovaks to vote in a July referendum on lifelong payments for Prime Minister Fico and others",
-      "source_url": "https://abcnews.com/International/wireStory/slovaks-vote-july-referendum-lifelong-payments-prime-minister-132210100"
+      "description": "What to know about Tuesday’s redistricting referendum in Virginia",
+      "source_url": "https://thehill.com/homenews/campaign/5839270-virginia-redistricting-referendum"
     },
     {
-      "title": "Hungary's Magyar announces ministers after landslide election win",
-      "country": "Hungary",
+      "title": "New Zealand Prime Minister survives party leadership vote months before election",
+      "country": "New Zealand",
       "election_type": "National",
       "date": "",
-      "description": "Hungary's Magyar announces ministers after landslide election win",
-      "source_url": "https://abcnews.com/International/wireStory/hungarys-magyar-announces-ministers-after-landslide-election-win-132209189"
+      "description": "New Zealand Prime Minister survives party leadership vote months before election",
+      "source_url": "https://abcnews.com/International/wireStory/new-zealand-prime-minister-luxon-survives-party-leadership-132223922"
     }
   ],
   "global_events": [
     {
-      "title": "Woman charged in US with trafficking arms to Sudan for Iranian government",
-      "summary": "Woman charged in US with trafficking arms to Sudan for Iranian government",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/4/20/woman-charged-in-us-with-trafficking-arms-to-sudan-for-iranian-government?traffic_source=rss"
-    },
-    {
-      "title": "U.K police investigating if attacks in London are the work of Iranian proxies",
-      "summary": "U.K police investigating if attacks in London are the work of Iranian proxies",
+      "title": "Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy",
+      "summary": "Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy",
       "outlets_covering": [
         "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
+        "ABC News Intl",
+        "Wash Post World",
         "The Hindu Intl"
       ],
       "coverage_count": 6,
-      "region": "Middle East",
+      "region": "East / Southeast Asia",
       "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies"
+      "source_url": "https://abcnews.com/International/wireStory/japan-approves-scrapping-ban-lethal-weapons-exports-change-132224315"
     },
     {
-      "title": "What to know as U.S. seizes Iranian tanker, questions linger about peace talks",
-      "summary": "What to know as U.S. seizes Iranian tanker, questions linger about peace talks",
+      "title": "The Onion launches new effort to turn Infowars into parody website",
+      "summary": "The Onion launches new effort to turn Infowars into parody website",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US, Iran exchange threats as fragile ceasefire set to expire",
+      "summary": "US, Iran exchange threats as fragile ceasefire set to expire",
       "outlets_covering": [
         "NPR World",
+        "CBS News World",
+        "Wash Post World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss"
+    },
+    {
+      "title": "Outrage after Israeli soldier seen striking Jesus statue in Lebanon",
+      "summary": "Outrage after Israeli soldier seen striking Jesus statue in Lebanon",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nbcnews.com/video/outrage-after-israeli-soldier-seen-striking-jesus-statue-in-lebanon-261758533911"
+    },
+    {
+      "title": "Iran threatens to retaliate after U.S. military seizes Iranian cargo ship",
+      "summary": "Iran threatens to retaliate after U.S. military seizes Iranian cargo ship",
+      "outlets_covering": [
         "CBS News World",
         "Time",
-        "France24",
-        "Japan Times"
+        "The Hill"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/what-to-know-as-us-seizes-iranian-tanker-questions-linger-about-peace-talks"
-    },
-    {
-      "title": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
-      "summary": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "The Independent",
-        "France24",
-        "Japan Times",
-        "Foreign Policy"
-      ],
-      "coverage_count": 9,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/21/world/politics/iran-peace-deadline-ceasefire"
-    },
-    {
-      "title": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
-      "summary": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
-      "outlets_covering": [
-        "CBC World",
-        "NBC News World",
-        "Wash Post World",
-        "The Independent",
-        "DW World"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/world/europe/russia-friendly-ex-president-election-win-bulgaria-rcna340947"
+      "source_url": "https://www.cbsnews.com/video/iran-threatens-to-retaliate-after-us-military-seizes-iranian-cargo-ship"
     }
   ]
 }
