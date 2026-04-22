@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T01:27:57.490698Z",
+  "last_updated": "2026-04-22T13:02:00.466296Z",
   "world_org_meetings": [
     {
       "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
@@ -34,47 +34,67 @@
   ],
   "elections": [
     {
-      "title": "Peru’s election chief steps down amid frustration over long vote count",
+      "title": "Wonder why your political leaders look young in this election season? Well, dermatologists may reveal some secrets",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Wonder why your political leaders look young in this election season? Well, dermatologists may reveal some secrets",
+      "source_url": "https://timesofindia.indiatimes.com/india/wonder-why-your-political-leaders-look-young-in-this-election-season-well-dermatologists-may-reveal-some-secrets/articleshow/130440732.cms"
+    },
+    {
+      "title": "Peru’s election chief steps down amid chaotic general election",
       "country": "Peru",
-      "election_type": "National",
+      "election_type": "General",
       "date": "",
-      "description": "Peru’s election chief steps down amid frustration over long vote count",
-      "source_url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss"
+      "description": "Peru’s election chief steps down amid chaotic general election",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/perus-election-chief-steps-down-amid-chaotic-general-election?traffic_source=rss"
     },
     {
-      "title": "Fed nominee grilled on Epstein links and 2020 election conspiracies in hearing to replace Jerome Powell: recap",
+      "title": "Virginia redistricting election results: Key takeaways from Democrats’ win",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Fed nominee grilled on Epstein links and 2020 election conspiracies in hearing to replace Jerome Powell: recap",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-news-live-updates-b2961909.html"
+      "description": "Virginia redistricting election results: Key takeaways from Democrats’ win",
+      "source_url": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss"
     },
     {
-      "title": "Live results: Virginia voters weigh redistricting referendum",
-      "country": "",
-      "election_type": "Referendum",
+      "title": "Peru's election chief resigns over logistical problems in hotly disputed presidential contest",
+      "country": "Peru",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Live results: Virginia voters weigh redistricting referendum",
-      "source_url": "https://thehill.com/homenews/campaign/5839334-live-results-virginia-redistricting-referendum"
+      "description": "Peru's election chief resigns over logistical problems in hotly disputed presidential contest",
+      "source_url": "https://abcnews.com/International/wireStory/perus-election-chief-resigns-logistical-problems-hotly-disputed-132253493"
     },
     {
-      "title": "Virginia special election: How many seats could Democrats gain with redistricting proposal?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Virginia special election: How many seats could Democrats gain with redistricting proposal?",
-      "source_url": "https://thehill.com/homenews/state-watch/5841081-virginia-special-election-how-many-seats-could-democrats-gain-with-redistricting-proposal"
-    },
-    {
-      "title": "Warsh declines to say whether Biden won 2020 election",
+      "title": "Tamil Nadu polls: Paid holiday announced for voters living in Kerala on polling day",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Warsh declines to say whether Biden won 2020 election",
-      "source_url": "https://thehill.com/business/personal-finance/5841123-kevin-warsh-donald-trump-2020-election-claims-biden"
+      "description": "Tamil Nadu polls: Paid holiday announced for voters living in Kerala on polling day",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-paid-holiday-announced-for-voters-living-in-kerala-on-polling-day/articleshow/130421899.cms"
     }
   ],
   "global_events": [
+    {
+      "title": "Iran says it seized 2 ships in Strait of Hormuz, hours after Trump’s ceasefire extension",
+      "summary": "Iran says it seized 2 ships in Strait of Hormuz, hours after Trump’s ceasefire extension",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 22,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/22/hormuz-strait-us-iran-talks-war"
+    },
     {
       "title": "Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains",
       "summary": "Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains",
@@ -87,82 +107,61 @@
         "The Guardian World",
         "Wash Post World",
         "Bloomberg",
-        "Time",
-        "The Independent"
+        "The Independent",
+        "France24"
       ],
-      "coverage_count": 37,
+      "coverage_count": 32,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-pakistan-peace-talks-ultimatum"
     },
     {
-      "title": "Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy",
-      "summary": "Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy",
+      "title": "Japan lifts ban on lethal weapons exports in major change of its postwar pacifist policy",
+      "summary": "Japan lifts ban on lethal weapons exports in major change of its postwar pacifist policy",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
         "Wash Post World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/japan-lifts-ban-on-lethal-weapons-exports-in-major-change-of-its-postwar-pacifist-policy"
+    },
+    {
+      "title": "Trump extends ceasefire with Iran, says Tehran regime 'seriously fractured'",
+      "summary": "Trump extends ceasefire with Iran, says Tehran regime 'seriously fractured'",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/japan-scraps-a-ban-on-lethal-weapons-exports-in-a-change-of-its-postwar-pacifist-policy"
-    },
-    {
-      "title": "Iran-Israel war LIVE: Trump extends Iran ceasefire but maintains blockade",
-      "summary": "Iran-Israel war LIVE: Trump extends Iran ceasefire but maintains blockade",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "Time"
-      ],
-      "coverage_count": 38,
+      "coverage_count": 25,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece"
+      "source_url": "https://www.france24.com/en/video/20260422-trump-extends-ceasefire-with-iran-says-tehran-regime-seriously-fractured"
     },
     {
-      "title": "Nigeria authorities charge six people with treason over alleged plot to overthrow president",
-      "summary": "Nigeria authorities charge six people with treason over alleged plot to overthrow president",
+      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "summary": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
       "outlets_covering": [
-        "ABC News Intl",
+        "BBC World",
+        "NBC News World",
         "NYT World",
         "The Independent"
       ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/africa/nigeria-plot-treason-overthrow-president-tinubu-b2962271.html"
-    },
-    {
-      "title": "Trump extends ceasefire, says giving Iran time to negotiate",
-      "summary": "Trump extends ceasefire, says giving Iran time to negotiate",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "Time"
-      ],
-      "coverage_count": 36,
+      "coverage_count": 6,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/trump-extends-ceasefire-says-giving-iran-time-to-negotiate"
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
