@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-04-21T13:00:57.099228Z",
+  "last_updated": "2026-04-22T01:27:57.490698Z",
   "world_org_meetings": [
-    {
-      "title": "European Union hosts Palestinian peace conference as it seeks greater role in Middle East",
-      "organization": "EU",
-      "date": "",
-      "location": "",
-      "description": "European Union hosts Palestinian peace conference as it seeks greater role in Middle East",
-      "source_url": "https://www.pbs.org/newshour/world/european-union-hosts-palestinian-peace-conference-as-it-seeks-greater-role-in-middle-east"
-    },
     {
       "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
       "organization": "NATO",
@@ -16,14 +8,6 @@
       "location": "",
       "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
       "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
-    },
-    {
-      "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/04/1167309"
     },
     {
       "title": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
@@ -36,130 +20,149 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Doubts over talks between Iran and U.S. after violence flares in Strait of Hormuz",
+      "title": "What to know about potential peace talks between U.S. and Iran",
       "participants": [
-        "Doubts",
-        "Iran",
+        "What",
         "U.S",
-        "Strait"
+        "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "Doubts over talks between Iran and U.S. after violence flares in Strait of Hormuz",
-      "source_url": "https://www.pbs.org/newshour/world/doubts-over-talks-between-iran-and-u-s-after-violence-flares-in-strait-of-hormuz"
+      "description": "What to know about potential peace talks between U.S. and Iran",
+      "source_url": "https://www.cbsnews.com/video/what-to-know-about-potential-peace-talks-between-us-and-iran"
     }
   ],
   "elections": [
     {
-      "title": "Bulgaria's Kremlin-friendly ex-president set for landslide election win",
+      "title": "Peru’s election chief steps down amid frustration over long vote count",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru’s election chief steps down amid frustration over long vote count",
+      "source_url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss"
+    },
+    {
+      "title": "Fed nominee grilled on Epstein links and 2020 election conspiracies in hearing to replace Jerome Powell: recap",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Bulgaria's Kremlin-friendly ex-president set for landslide election win",
-      "source_url": "https://www.cbc.ca/news/world/bulgaria-election-9.7169987?cmp=rss"
+      "description": "Fed nominee grilled on Epstein links and 2020 election conspiracies in hearing to replace Jerome Powell: recap",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-news-live-updates-b2961909.html"
     },
     {
-      "title": "Tamil Nadu election: Campaigning ends as parties make final outreach to voters; polling on Thursday",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Tamil Nadu election: Campaigning ends as parties make final outreach to voters; polling on Thursday",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-election-campaigning-ends-as-parties-make-final-outreach-to-voters-polling-on-thursday/articleshow/130416819.cms"
-    },
-    {
-      "title": "Liberals and Nationals to preference One Nation in blow to Michelle Milthorpe in Farrer byelection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Liberals and Nationals to preference One Nation in blow to Michelle Milthorpe in Farrer byelection",
-      "source_url": "https://www.theguardian.com/australia-news/2026/apr/21/farrer-byelection-liberal-national-one-nation-pauline-hanson-preference-ntwnfb"
-    },
-    {
-      "title": "What to know about Tuesday’s redistricting referendum in Virginia",
+      "title": "Live results: Virginia voters weigh redistricting referendum",
       "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "What to know about Tuesday’s redistricting referendum in Virginia",
-      "source_url": "https://thehill.com/homenews/campaign/5839270-virginia-redistricting-referendum"
+      "description": "Live results: Virginia voters weigh redistricting referendum",
+      "source_url": "https://thehill.com/homenews/campaign/5839334-live-results-virginia-redistricting-referendum"
     },
     {
-      "title": "New Zealand Prime Minister survives party leadership vote months before election",
-      "country": "New Zealand",
+      "title": "Virginia special election: How many seats could Democrats gain with redistricting proposal?",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "New Zealand Prime Minister survives party leadership vote months before election",
-      "source_url": "https://abcnews.com/International/wireStory/new-zealand-prime-minister-luxon-survives-party-leadership-132223922"
+      "description": "Virginia special election: How many seats could Democrats gain with redistricting proposal?",
+      "source_url": "https://thehill.com/homenews/state-watch/5841081-virginia-special-election-how-many-seats-could-democrats-gain-with-redistricting-proposal"
+    },
+    {
+      "title": "Warsh declines to say whether Biden won 2020 election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Warsh declines to say whether Biden won 2020 election",
+      "source_url": "https://thehill.com/business/personal-finance/5841123-kevin-warsh-donald-trump-2020-election-claims-biden"
     }
   ],
   "global_events": [
+    {
+      "title": "Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains",
+      "summary": "Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Time",
+        "The Independent"
+      ],
+      "coverage_count": 37,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-pakistan-peace-talks-ultimatum"
+    },
     {
       "title": "Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy",
       "summary": "Japan scraps a ban on lethal weapons exports in a change of its postwar pacifist policy",
       "outlets_covering": [
         "NPR World",
+        "PBS NewsHour",
         "ABC News Intl",
         "Wash Post World",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 8,
       "region": "East / Southeast Asia",
       "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/japan-approves-scrapping-ban-lethal-weapons-exports-change-132224315"
+      "source_url": "https://www.france24.com/en/japan-scraps-a-ban-on-lethal-weapons-exports-in-a-change-of-its-postwar-pacifist-policy"
     },
     {
-      "title": "The Onion launches new effort to turn Infowars into parody website",
-      "summary": "The Onion launches new effort to turn Infowars into parody website",
+      "title": "Iran-Israel war LIVE: Trump extends Iran ceasefire but maintains blockade",
+      "summary": "Iran-Israel war LIVE: Trump extends Iran ceasefire but maintains blockade",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US, Iran exchange threats as fragile ceasefire set to expire",
-      "summary": "US, Iran exchange threats as fragile ceasefire set to expire",
-      "outlets_covering": [
         "NPR World",
-        "CBS News World",
-        "Wash Post World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss"
-    },
-    {
-      "title": "Outrage after Israeli soldier seen striking Jesus statue in Lebanon",
-      "summary": "Outrage after Israeli soldier seen striking Jesus statue in Lebanon",
-      "outlets_covering": [
-        "BBC World",
+        "PBS NewsHour",
         "CBS News World",
         "NBC News World",
-        "NYT World"
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Time"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/video/outrage-after-israeli-soldier-seen-striking-jesus-statue-in-lebanon-261758533911"
-    },
-    {
-      "title": "Iran threatens to retaliate after U.S. military seizes Iranian cargo ship",
-      "summary": "Iran threatens to retaliate after U.S. military seizes Iranian cargo ship",
-      "outlets_covering": [
-        "CBS News World",
-        "Time",
-        "The Hill"
-      ],
-      "coverage_count": 3,
+      "coverage_count": 38,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/iran-threatens-to-retaliate-after-us-military-seizes-iranian-cargo-ship"
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece"
+    },
+    {
+      "title": "Nigeria authorities charge six people with treason over alleged plot to overthrow president",
+      "summary": "Nigeria authorities charge six people with treason over alleged plot to overthrow president",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NYT World",
+        "The Independent"
+      ],
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/africa/nigeria-plot-treason-overthrow-president-tinubu-b2962271.html"
+    },
+    {
+      "title": "Trump extends ceasefire, says giving Iran time to negotiate",
+      "summary": "Trump extends ceasefire, says giving Iran time to negotiate",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Time"
+      ],
+      "coverage_count": 36,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/trump-extends-ceasefire-says-giving-iran-time-to-negotiate"
     }
   ]
 }
