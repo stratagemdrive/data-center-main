@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-22T13:02:00.466296Z",
+  "last_updated": "2026-04-23T01:46:43.313815Z",
   "world_org_meetings": [
+    {
+      "title": "G7 omits climate change from Paris talks to avoid US clash, France says",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "G7 omits climate change from Paris talks to avoid US clash, France says",
+      "source_url": "https://www.france24.com/en/europe/20260423-g7-climate-change-omits-paris-meeting-us-france"
+    },
     {
       "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
       "organization": "NATO",
@@ -20,6 +28,31 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
+      "participants": [
+        "King Charles",
+        "Not Meet Epstein Victims",
+        "U.S State Visit"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
+      "source_url": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html"
+    },
+    {
+      "title": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
+      "participants": [
+        "Man City",
+        "Arsenal",
+        "Premier League",
+        "Burnley"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
+      "source_url": "https://www.aljazeera.com/sports/2026/4/22/man-city-topple-arsenal-at-premier-league-summit-with-win-at-burnley?traffic_source=rss"
+    },
+    {
       "title": "What to know about potential peace talks between U.S. and Iran",
       "participants": [
         "What",
@@ -34,44 +67,44 @@
   ],
   "elections": [
     {
-      "title": "Wonder why your political leaders look young in this election season? Well, dermatologists may reveal some secrets",
+      "title": "300 cos of paramilitary forces, 84k cops on duty as Tamil Nadu goes to polls",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Wonder why your political leaders look young in this election season? Well, dermatologists may reveal some secrets",
-      "source_url": "https://timesofindia.indiatimes.com/india/wonder-why-your-political-leaders-look-young-in-this-election-season-well-dermatologists-may-reveal-some-secrets/articleshow/130440732.cms"
+      "description": "300 cos of paramilitary forces, 84k cops on duty as Tamil Nadu goes to polls",
+      "source_url": "https://timesofindia.indiatimes.com/india/300-cos-of-paramilitary-forces-84k-cops-on-duty-as-tamil-nadu-goes-to-polls/articleshow/130453984.cms"
     },
     {
-      "title": "Peru’s election chief steps down amid chaotic general election",
-      "country": "Peru",
-      "election_type": "General",
+      "title": "Virginia attorney general pledges to appeal injunction blocking redistricting referendum’s certification",
+      "country": "",
+      "election_type": "Referendum",
       "date": "",
-      "description": "Peru’s election chief steps down amid chaotic general election",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/perus-election-chief-steps-down-amid-chaotic-general-election?traffic_source=rss"
+      "description": "Virginia attorney general pledges to appeal injunction blocking redistricting referendum’s certification",
+      "source_url": "https://thehill.com/homenews/state-watch/5844162-judge-blocks-virginia-redistricting"
     },
     {
-      "title": "Virginia redistricting election results: Key takeaways from Democrats’ win",
+      "title": "'Bodol noy, bodla chai': Didi flips 2011 election slogan",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Virginia redistricting election results: Key takeaways from Democrats’ win",
-      "source_url": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss"
+      "description": "'Bodol noy, bodla chai': Didi flips 2011 election slogan",
+      "source_url": "https://timesofindia.indiatimes.com/india/bodol-noy-bodla-chai-didi-flips-2011-election-slogan/articleshow/130451769.cms"
     },
     {
-      "title": "Peru's election chief resigns over logistical problems in hotly disputed presidential contest",
-      "country": "Peru",
-      "election_type": "Presidential",
+      "title": "Georgia Democratic Rep. David Scott dies at 80 while seeking reelection",
+      "country": "Georgia",
+      "election_type": "National",
       "date": "",
-      "description": "Peru's election chief resigns over logistical problems in hotly disputed presidential contest",
-      "source_url": "https://abcnews.com/International/wireStory/perus-election-chief-resigns-logistical-problems-hotly-disputed-132253493"
+      "description": "Georgia Democratic Rep. David Scott dies at 80 while seeking reelection",
+      "source_url": "https://www.independent.co.uk/news/world/americas/david-scott-congressman-dead-dies-georgia-b2963001.html"
     },
     {
-      "title": "Tamil Nadu polls: Paid holiday announced for voters living in Kerala on polling day",
+      "title": "Assembly elections 2026: Tamil Nadu to vote across all seats, Bengal in phase 1; can Stalin, Mamata hold their bastions?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Tamil Nadu polls: Paid holiday announced for voters living in Kerala on polling day",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-paid-holiday-announced-for-voters-living-in-kerala-on-polling-day/articleshow/130421899.cms"
+      "description": "Assembly elections 2026: Tamil Nadu to vote across all seats, Bengal in phase 1; can Stalin, Mamata hold their bastions?",
+      "source_url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-tamil-nadu-to-vote-across-all-seats-bengal-in-phase-1-can-stalin-mamata-hold-their-bastions-dmk-aiadmk-tmc-bjp-congress-vijay-tvk/articleshow/130447043.cms"
     }
   ],
   "global_events": [
@@ -80,88 +113,96 @@
       "summary": "Iran says it seized 2 ships in Strait of Hormuz, hours after Trump’s ceasefire extension",
       "outlets_covering": [
         "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
+        "NBC News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
+        "The Independent"
       ],
-      "coverage_count": 22,
+      "coverage_count": 27,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.washingtonpost.com/world/2026/04/22/hormuz-strait-us-iran-talks-war"
     },
     {
-      "title": "Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains",
-      "summary": "Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains",
+      "title": "Israel-Iran LIVE: Iran attacks 3 ships in Strait of Hormuz",
+      "summary": "Israel-Iran LIVE: Iran attacks 3 ships in Strait of Hormuz",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NBC News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 32,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-pakistan-peace-talks-ultimatum"
-    },
-    {
-      "title": "Japan lifts ban on lethal weapons exports in major change of its postwar pacifist policy",
-      "summary": "Japan lifts ban on lethal weapons exports in major change of its postwar pacifist policy",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "Wash Post World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/japan-lifts-ban-on-lethal-weapons-exports-in-major-change-of-its-postwar-pacifist-policy"
-    },
-    {
-      "title": "Trump extends ceasefire with Iran, says Tehran regime 'seriously fractured'",
-      "summary": "Trump extends ceasefire with Iran, says Tehran regime 'seriously fractured'",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
+        "The Independent"
       ],
       "coverage_count": 25,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260422-trump-extends-ceasefire-with-iran-says-tehran-regime-seriously-fractured"
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece"
     },
     {
-      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "summary": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "title": "Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks",
+      "summary": "Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks",
       "outlets_covering": [
-        "BBC World",
-        "NBC News World",
+        "PBS NewsHour",
+        "CBS News World",
+        "Sky News World",
         "NYT World",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3351064/iran-war-latest-trump-has-no-time-frame-world-waits-peace-talks"
+    },
+    {
+      "title": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
+      "summary": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Time",
         "The Independent"
       ],
-      "coverage_count": 6,
+      "coverage_count": 25,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html"
+    },
+    {
+      "title": "Hungary drops veto, clearing path for $106 billion EU loan to Ukraine",
+      "summary": "Hungary drops veto, clearing path for $106 billion EU loan to Ukraine",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "DW World",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/hungary-drops-veto-eu-loan-ukraine"
     }
   ]
 }
