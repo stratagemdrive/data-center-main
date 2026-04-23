@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-04-23T01:46:43.313815Z",
+  "last_updated": "2026-04-23T13:01:25.840199Z",
   "world_org_meetings": [
-    {
-      "title": "G7 omits climate change from Paris talks to avoid US clash, France says",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "G7 omits climate change from Paris talks to avoid US clash, France says",
-      "source_url": "https://www.france24.com/en/europe/20260423-g7-climate-change-omits-paris-meeting-us-france"
-    },
     {
       "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
       "organization": "NATO",
@@ -40,19 +32,6 @@
       "source_url": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html"
     },
     {
-      "title": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
-      "participants": [
-        "Man City",
-        "Arsenal",
-        "Premier League",
-        "Burnley"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
-      "source_url": "https://www.aljazeera.com/sports/2026/4/22/man-city-topple-arsenal-at-premier-league-summit-with-win-at-burnley?traffic_source=rss"
-    },
-    {
       "title": "What to know about potential peace talks between U.S. and Iran",
       "participants": [
         "What",
@@ -67,12 +46,36 @@
   ],
   "elections": [
     {
-      "title": "300 cos of paramilitary forces, 84k cops on duty as Tamil Nadu goes to polls",
+      "title": "Why Indian Muslim voters say they’ve been frozen out of this state election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "300 cos of paramilitary forces, 84k cops on duty as Tamil Nadu goes to polls",
-      "source_url": "https://timesofindia.indiatimes.com/india/300-cos-of-paramilitary-forces-84k-cops-on-duty-as-tamil-nadu-goes-to-polls/articleshow/130453984.cms"
+      "description": "Why Indian Muslim voters say they’ve been frozen out of this state election",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/why-indian-muslim-voters-say-theyve-been-frozen-out-of-this-state-electio?traffic_source=rss"
+    },
+    {
+      "title": "Rival party workers fight on election day in India’s West Bengal",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "Rival party workers fight on election day in India’s West Bengal",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/rival-party-workers-fight-on-election-day-in-indias-west-bengal?traffic_source=rss"
+    },
+    {
+      "title": "Tamil Nadu elections: Star-studded voting day, Vijay appeals to EC, robot greets voters – Top developments",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Tamil Nadu elections: Star-studded voting day, Vijay appeals to EC, robot greets voters – Top developments",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-star-studded-voting-day-vijay-appeals-to-ec-robot-greets-voters-top-developments/articleshow/130463173.cms"
+    },
+    {
+      "title": "Will another film star be able to sway the election in India’s Tamil Nadu?",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "Will another film star be able to sway the election in India’s Tamil Nadu?",
+      "source_url": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss"
     },
     {
       "title": "Virginia attorney general pledges to appeal injunction blocking redistricting referendum’s certification",
@@ -81,38 +84,13 @@
       "date": "",
       "description": "Virginia attorney general pledges to appeal injunction blocking redistricting referendum’s certification",
       "source_url": "https://thehill.com/homenews/state-watch/5844162-judge-blocks-virginia-redistricting"
-    },
-    {
-      "title": "'Bodol noy, bodla chai': Didi flips 2011 election slogan",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "'Bodol noy, bodla chai': Didi flips 2011 election slogan",
-      "source_url": "https://timesofindia.indiatimes.com/india/bodol-noy-bodla-chai-didi-flips-2011-election-slogan/articleshow/130451769.cms"
-    },
-    {
-      "title": "Georgia Democratic Rep. David Scott dies at 80 while seeking reelection",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "Georgia Democratic Rep. David Scott dies at 80 while seeking reelection",
-      "source_url": "https://www.independent.co.uk/news/world/americas/david-scott-congressman-dead-dies-georgia-b2963001.html"
-    },
-    {
-      "title": "Assembly elections 2026: Tamil Nadu to vote across all seats, Bengal in phase 1; can Stalin, Mamata hold their bastions?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Assembly elections 2026: Tamil Nadu to vote across all seats, Bengal in phase 1; can Stalin, Mamata hold their bastions?",
-      "source_url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-tamil-nadu-to-vote-across-all-seats-bengal-in-phase-1-can-stalin-mamata-hold-their-bastions-dmk-aiadmk-tmc-bjp-congress-vijay-tvk/articleshow/130447043.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Iran says it seized 2 ships in Strait of Hormuz, hours after Trump’s ceasefire extension",
-      "summary": "Iran says it seized 2 ships in Strait of Hormuz, hours after Trump’s ceasefire extension",
+      "title": "Iran seizes two ships in Strait of Hormuz after Trump extends ceasefire",
+      "summary": "Iran seizes two ships in Strait of Hormuz after Trump extends ceasefire",
       "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
@@ -121,32 +99,60 @@
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "The Independent"
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 27,
+      "coverage_count": 28,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/22/hormuz-strait-us-iran-talks-war"
+      "source_url": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece"
     },
     {
-      "title": "Israel-Iran LIVE: Iran attacks 3 ships in Strait of Hormuz",
-      "summary": "Israel-Iran LIVE: Iran attacks 3 ships in Strait of Hormuz",
+      "title": "U.S. military says it seizes another oil tanker associated with Iran",
+      "summary": "U.S. military says it seizes another oil tanker associated with Iran",
       "outlets_covering": [
         "NPR World",
+        "CBC World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/article70897378.ece"
+    },
+    {
+      "title": "Ex-Philippine president Duterte to face trial on crimes against humanity charges",
+      "summary": "Ex-Philippine president Duterte to face trial on crimes against humanity charges",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Fox News World",
+        "The Guardian World",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/philippine-president-duterte-face-trial-crimes-humanity-charges-132303294"
+    },
+    {
+      "title": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
+      "summary": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
+      "outlets_covering": [
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "NBC News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "The Independent"
+        "Time",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 25,
+      "coverage_count": 18,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece"
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html"
     },
     {
       "title": "Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks",
@@ -156,53 +162,15 @@
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "The Hindu Intl",
         "SCMP",
         "Foreign Policy",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 13,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3351064/iran-war-latest-trump-has-no-time-frame-world-waits-peace-talks"
-    },
-    {
-      "title": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
-      "summary": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "The Independent"
-      ],
-      "coverage_count": 25,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html"
-    },
-    {
-      "title": "Hungary drops veto, clearing path for $106 billion EU loan to Ukraine",
-      "summary": "Hungary drops veto, clearing path for $106 billion EU loan to Ukraine",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "DW World",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/hungary-drops-veto-eu-loan-ukraine"
     }
   ]
 }
