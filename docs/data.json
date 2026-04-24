@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-23T13:01:25.840199Z",
+  "last_updated": "2026-04-24T01:46:08.076440Z",
   "world_org_meetings": [
+    {
+      "title": "UN General Assembly President Annalena Baerbock to visit India next week",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "UN General Assembly President Annalena Baerbock to visit India next week",
+      "source_url": "https://www.thehindu.com/news/international/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/article70900152.ece"
+    },
     {
       "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
       "organization": "NATO",
@@ -20,6 +28,30 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "UN General Assembly President Annalena Baerbock to visit India next week",
+      "participants": [
+        "General Assembly President Annalena Baerbock",
+        "India"
+      ],
+      "date": "",
+      "location": "",
+      "description": "UN General Assembly President Annalena Baerbock to visit India next week",
+      "source_url": "https://www.thehindu.com/news/international/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/article70900152.ece"
+    },
+    {
+      "title": "Peace talks between U.S. and Iran at a standstill as Trump extends ceasefire",
+      "participants": [
+        "Peace",
+        "U.S",
+        "Iran",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Peace talks between U.S. and Iran at a standstill as Trump extends ceasefire",
+      "source_url": "https://www.npr.org/2026/04/23/nx-s1-5795829/peace-talks-between-us-and-iran-at-a-standstill-as-trump-extends-ceasefire"
+    },
+    {
       "title": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
       "participants": [
         "King Charles",
@@ -30,147 +62,129 @@
       "location": "",
       "description": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
       "source_url": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html"
-    },
-    {
-      "title": "What to know about potential peace talks between U.S. and Iran",
-      "participants": [
-        "What",
-        "U.S",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "What to know about potential peace talks between U.S. and Iran",
-      "source_url": "https://www.cbsnews.com/video/what-to-know-about-potential-peace-talks-between-us-and-iran"
     }
   ],
   "elections": [
     {
-      "title": "Why Indian Muslim voters say they’ve been frozen out of this state election",
+      "title": "Tanzania Report Blames ‘Outside Forces’ for Deadly Election Violence",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Why Indian Muslim voters say they’ve been frozen out of this state election",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/why-indian-muslim-voters-say-theyve-been-frozen-out-of-this-state-electio?traffic_source=rss"
+      "description": "Tanzania Report Blames ‘Outside Forces’ for Deadly Election Violence",
+      "source_url": "https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html"
     },
     {
-      "title": "Rival party workers fight on election day in India’s West Bengal",
+      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "More than 500 people killed in Tanzania election violence, inquiry finds",
+      "source_url": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll",
       "country": "India",
       "election_type": "National",
       "date": "",
-      "description": "Rival party workers fight on election day in India’s West Bengal",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/rival-party-workers-fight-on-election-day-in-indias-west-bengal?traffic_source=rss"
+      "description": "Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll",
+      "source_url": "https://www.theguardian.com/world/2026/apr/22/india-west-bengal-state-elections-millions-stripped-of-vote"
     },
     {
-      "title": "Tamil Nadu elections: Star-studded voting day, Vijay appeals to EC, robot greets voters – Top developments",
-      "country": "",
+      "title": "As Colombia elections near, Security Council hears calls for calm",
+      "country": "Colombia",
       "election_type": "National",
       "date": "",
-      "description": "Tamil Nadu elections: Star-studded voting day, Vijay appeals to EC, robot greets voters – Top developments",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-star-studded-voting-day-vijay-appeals-to-ec-robot-greets-voters-top-developments/articleshow/130463173.cms"
-    },
-    {
-      "title": "Will another film star be able to sway the election in India’s Tamil Nadu?",
-      "country": "India",
-      "election_type": "National",
-      "date": "",
-      "description": "Will another film star be able to sway the election in India’s Tamil Nadu?",
-      "source_url": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu?traffic_source=rss"
-    },
-    {
-      "title": "Virginia attorney general pledges to appeal injunction blocking redistricting referendum’s certification",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Virginia attorney general pledges to appeal injunction blocking redistricting referendum’s certification",
-      "source_url": "https://thehill.com/homenews/state-watch/5844162-judge-blocks-virginia-redistricting"
+      "description": "As Colombia elections near, Security Council hears calls for calm",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/04/1167348"
     }
   ],
   "global_events": [
     {
-      "title": "Iran seizes two ships in Strait of Hormuz after Trump extends ceasefire",
-      "summary": "Iran seizes two ships in Strait of Hormuz after Trump extends ceasefire",
+      "title": "Israel-Lebanon ceasefire extended by 3 weeks, Trump says",
+      "summary": "Israel-Lebanon ceasefire extended by 3 weeks, Trump says",
       "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 19,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-video-strait-of-hormuz-ship-attack-ceasefire-lebanon"
+    },
+    {
+      "title": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
+      "summary": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 28,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece"
-    },
-    {
-      "title": "U.S. military says it seizes another oil tanker associated with Iran",
-      "summary": "U.S. military says it seizes another oil tanker associated with Iran",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships"
+    },
+    {
+      "title": "Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire",
+      "summary": "Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire",
+      "outlets_covering": [
+        "CBC World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/article70897378.ece"
+      "source_url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news"
+    },
+    {
+      "title": "Trump orders US Navy to ‘shoot and kill’ Iranian mine boats in Hormuz",
+      "summary": "Trump orders US Navy to ‘shoot and kill’ Iranian mine boats in Hormuz",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/donald-trump-us-iran-navy-strait-hormuz-b2963705.html"
     },
     {
       "title": "Ex-Philippine president Duterte to face trial on crimes against humanity charges",
       "summary": "Ex-Philippine president Duterte to face trial on crimes against humanity charges",
       "outlets_covering": [
+        "PBS NewsHour",
         "ABC News Intl",
         "Fox News World",
-        "The Guardian World",
-        "France24"
+        "The Guardian World"
       ],
       "coverage_count": 5,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/philippine-president-duterte-face-trial-crimes-humanity-charges-132303294"
-    },
-    {
-      "title": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
-      "summary": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html"
-    },
-    {
-      "title": "Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks",
-      "summary": "Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3351064/iran-war-latest-trump-has-no-time-frame-world-waits-peace-talks"
+      "source_url": "https://www.pbs.org/newshour/world/ex-philippine-president-duterte-to-face-trial-on-crimes-against-humanity-charges"
     }
   ]
 }
