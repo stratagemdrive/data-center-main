@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-04-24T12:59:57.282208Z",
+  "last_updated": "2026-04-25T01:25:49.592799Z",
   "world_org_meetings": [
+    {
+      "title": "Putin may attend G20 summit in Miami after U.S. invitation: Kremlin",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "Putin may attend G20 summit in Miami after U.S. invitation: Kremlin",
+      "source_url": "https://www.thehindu.com/news/international/putin-may-attend-g20-summit-in-miami-after-us-invitation-kremlin/article70902455.ece"
+    },
+    {
+      "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
+      "organization": "IMF",
+      "date": "",
+      "location": "",
+      "description": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/imf-world-bank-spring-meeting-programming-at-the-atlantic-council-featured-in-an-arab-news-article-on-pakistans-focus-on-enhancing-trade-and-investment-with-the-us"
+    },
     {
       "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
       "organization": "COP",
@@ -24,17 +40,21 @@
       "location": "",
       "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
       "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
-    },
-    {
-      "title": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
-      "organization": "IMF",
-      "date": "",
-      "location": "",
-      "description": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
-      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-imf-world-bank-spring-meetings-as-leaders-grapple-with-war-and-supply-shocks"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Petro becomes first president to visit Venezuela since Maduro abduction",
+      "participants": [
+        "Petro",
+        "Venezuela",
+        "Maduro"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Petro becomes first president to visit Venezuela since Maduro abduction",
+      "source_url": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss"
+    },
     {
       "title": "Philippines President Marcos to make state visit to Japan",
       "participants": [
@@ -72,136 +92,135 @@
   ],
   "elections": [
     {
+      "title": "Police raid Peru’s election authorities after outcry over slow vote count",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Police raid Peru’s election authorities after outcry over slow vote count",
+      "source_url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss"
+    },
+    {
+      "title": "Hamas influence looms over Gaza elections as experts warn vote could backfire",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Hamas influence looms over Gaza elections as experts warn vote could backfire",
+      "source_url": "https://www.foxnews.com/world/hamas-influence-looms-over-gaza-elections-experts-warn-vote-could-backfire"
+    },
+    {
+      "title": "Peru police raid ex-election chief’s home as ballot shortages spark a widening probe",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru police raid ex-election chief’s home as ballot shortages spark a widening probe",
+      "source_url": "https://abcnews.com/International/wireStory/peru-police-raid-election-chiefs-home-ballot-shortages-132356177"
+    },
+    {
+      "title": "Lindsey Graham goes on Fox News to beg for money despite his reelection campaign in solid red state",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Lindsey Graham goes on Fox News to beg for money despite his reelection campaign in solid red state",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-money-begging-midterms-b2964465.html"
+    },
+    {
       "title": "Gaza Set to Hold First Local Election in Two Decades",
       "country": "",
       "election_type": "Local",
       "date": "",
       "description": "Gaza Set to Hold First Local Election in Two Decades",
       "source_url": "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html"
-    },
-    {
-      "title": "Tanzania Report Blames ‘Outside Forces’ for Deadly Election Violence",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Tanzania Report Blames ‘Outside Forces’ for Deadly Election Violence",
-      "source_url": "https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html"
-    },
-    {
-      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "More than 500 people killed in Tanzania election violence, inquiry finds",
-      "source_url": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll",
-      "country": "India",
-      "election_type": "National",
-      "date": "",
-      "description": "Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll",
-      "source_url": "https://www.theguardian.com/world/2026/apr/22/india-west-bengal-state-elections-millions-stripped-of-vote"
-    },
-    {
-      "title": "As Colombia elections near, Security Council hears calls for calm",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "As Colombia elections near, Security Council hears calls for calm",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/04/1167348"
     }
   ],
   "global_events": [
     {
-      "title": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
-      "summary": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
+      "title": "Israel-Lebanon ceasefire extended by three weeks",
+      "summary": "Israel-Lebanon ceasefire extended by three weeks",
       "outlets_covering": [
         "NPR World",
-        "CBC World",
-        "CBS News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "UN News",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates"
-    },
-    {
-      "title": "Trump orders navy to shoot Iranian boats",
-      "summary": "Trump orders navy to shoot Iranian boats",
-      "outlets_covering": [
         "PBS NewsHour",
         "CBC World",
+        "CBS News World",
         "NBC News World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "UN News"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece"
+    },
+    {
+      "title": "Witkoff, Kushner to head to Pakistan for new Iran peace talks",
+      "summary": "Witkoff, Kushner to head to Pakistan for new Iran peace talks",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire"
+    },
+    {
+      "title": "Iran War Live Updates: Witkoff and Kushner to Go to Pakistan for Talks on Iran",
+      "summary": "Iran War Live Updates: Witkoff and Kushner to Go to Pakistan for Talks on Iran",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 21,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz"
+    },
+    {
+      "title": "Pentagon email floats suspending Spain from NATO, other steps over Iran rift",
+      "summary": "Pentagon email floats suspending Spain from NATO, other steps over Iran rift",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Time",
         "The Independent",
         "France24",
+        "Japan Times",
         "The Hindu Intl"
       ],
       "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/trump-orders-navy-to-shoot-iranian-boats"
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/25/world/pentagon-spain-nato-iran"
     },
     {
-      "title": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
-      "summary": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships"
-    },
-    {
-      "title": "Hezbollah defiant in face of Israel-Lebanon ceasefire extension",
-      "summary": "Hezbollah defiant in face of Israel-Lebanon ceasefire extension",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "Wash Post World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/24/iran-us-israel-lebanon-ceasefire"
-    },
-    {
-      "title": "Ex-Philippine president Duterte to face trial on crimes against humanity charges",
-      "summary": "Ex-Philippine president Duterte to face trial on crimes against humanity charges",
+      "title": "China says it will send giant pandas to Atlanta again in new round of cooperation",
+      "summary": "China says it will send giant pandas to Atlanta again in new round of cooperation",
       "outlets_covering": [
         "PBS NewsHour",
         "ABC News Intl",
-        "Fox News World",
-        "The Guardian World"
+        "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Global",
+      "coverage_count": 3,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/ex-philippine-president-duterte-to-face-trial-on-crimes-against-humanity-charges"
+      "source_url": "https://www.pbs.org/newshour/world/china-says-it-will-send-giant-pandas-to-atlanta-again-in-new-round-of-cooperation"
     }
   ]
 }
