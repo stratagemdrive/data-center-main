@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-25T01:25:49.592799Z",
+  "last_updated": "2026-04-25T12:39:50.144715Z",
   "world_org_meetings": [
+    {
+      "title": "G7 says nature talks a success as climate sidelined for U.S.",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "G7 says nature talks a success as climate sidelined for U.S.",
+      "source_url": "https://www.japantimes.co.jp/environment/2026/04/25/g7-environment-climate-omit"
+    },
     {
       "title": "Putin may attend G20 summit in Miami after U.S. invitation: Kremlin",
       "organization": "G20",
@@ -32,39 +40,20 @@
       "location": "",
       "description": "UN General Assembly President Annalena Baerbock to visit India next week",
       "source_url": "https://www.thehindu.com/news/international/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/article70900152.ece"
-    },
-    {
-      "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Petro becomes first president to visit Venezuela since Maduro abduction",
+      "title": "Taiwan fears it will be ‘on the menu’ at Xi’s summit with Trump",
       "participants": [
-        "Petro",
-        "Venezuela",
-        "Maduro"
+        "Taiwan",
+        "Xi’s",
+        "Trump"
       ],
       "date": "",
       "location": "",
-      "description": "Petro becomes first president to visit Venezuela since Maduro abduction",
-      "source_url": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss"
-    },
-    {
-      "title": "Philippines President Marcos to make state visit to Japan",
-      "participants": [
-        "Philippines President Marcos",
-        "Japan"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Philippines President Marcos to make state visit to Japan",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/24/japan/politics/philippines-president-japan-visit"
+      "description": "Taiwan fears it will be ‘on the menu’ at Xi’s summit with Trump",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/25/asia-pacific/politics/taiwan-fears-xi-trump"
     },
     {
       "title": "UN General Assembly President Annalena Baerbock to visit India next week",
@@ -76,60 +65,48 @@
       "location": "",
       "description": "UN General Assembly President Annalena Baerbock to visit India next week",
       "source_url": "https://www.thehindu.com/news/international/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/article70900152.ece"
-    },
-    {
-      "title": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
-      "participants": [
-        "King Charles",
-        "Not Meet Epstein Victims",
-        "U.S State Visit"
-      ],
-      "date": "",
-      "location": "",
-      "description": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
-      "source_url": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html"
     }
   ],
   "elections": [
     {
-      "title": "Police raid Peru’s election authorities after outcry over slow vote count",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Police raid Peru’s election authorities after outcry over slow vote count",
-      "source_url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss"
-    },
-    {
-      "title": "Hamas influence looms over Gaza elections as experts warn vote could backfire",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Hamas influence looms over Gaza elections as experts warn vote could backfire",
-      "source_url": "https://www.foxnews.com/world/hamas-influence-looms-over-gaza-elections-experts-warn-vote-could-backfire"
-    },
-    {
-      "title": "Peru police raid ex-election chief’s home as ballot shortages spark a widening probe",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru police raid ex-election chief’s home as ballot shortages spark a widening probe",
-      "source_url": "https://abcnews.com/International/wireStory/peru-police-raid-election-chiefs-home-ballot-shortages-132356177"
-    },
-    {
-      "title": "Lindsey Graham goes on Fox News to beg for money despite his reelection campaign in solid red state",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Lindsey Graham goes on Fox News to beg for money despite his reelection campaign in solid red state",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-money-begging-midterms-b2964465.html"
-    },
-    {
-      "title": "Gaza Set to Hold First Local Election in Two Decades",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Gaza Set to Hold First Local Election in Two Decades",
-      "source_url": "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html"
+      "description": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "source_url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
+      "source_url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations"
+    },
+    {
+      "title": "Palestinian local elections give some Gazans first chance to vote in years",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Palestinian local elections give some Gazans first chance to vote in years",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/25/world/politics/palestinian-elections"
+    },
+    {
+      "title": "Peru police raid ex-election chief’s home amid widening probe",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru police raid ex-election chief’s home amid widening probe",
+      "source_url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe"
+    },
+    {
+      "title": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
+      "source_url": "https://www.france24.com/en/elections-in-west-bank-barometer-on-palestinian-public-opinion"
     }
   ],
   "global_events": [
@@ -143,84 +120,89 @@
         "CBS News World",
         "NBC News World",
         "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
         "The Hindu Intl",
-        "UN News"
+        "UN News",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 17,
+      "coverage_count": 13,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece"
     },
     {
-      "title": "Witkoff, Kushner to head to Pakistan for new Iran peace talks",
-      "summary": "Witkoff, Kushner to head to Pakistan for new Iran peace talks",
+      "title": "Witkoff, Kushner set to head to Pakistan today for Iran talks",
+      "summary": "Witkoff, Kushner set to head to Pakistan today for Iran talks",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "PBS NewsHour",
-        "CBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 20,
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire"
     },
     {
-      "title": "Iran War Live Updates: Witkoff and Kushner to Go to Pakistan for Talks on Iran",
-      "summary": "Iran War Live Updates: Witkoff and Kushner to Go to Pakistan for Talks on Iran",
+      "title": "The Latest: Trump sending Witkoff and Kushner to Pakistan for talks with Iran's foreign minister",
+      "summary": "The Latest: Trump sending Witkoff and Kushner to Pakistan for talks with Iran's foreign minister",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 21,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz"
-    },
-    {
-      "title": "Pentagon email floats suspending Spain from NATO, other steps over Iran rift",
-      "summary": "Pentagon email floats suspending Spain from NATO, other steps over Iran rift",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Time",
         "The Independent",
-        "France24",
+        "Al Jazeera",
         "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 20,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/25/world/pentagon-spain-nato-iran"
+      "source_url": "https://www.independent.co.uk/news/world/europe/pakistan-iran-islamabad-jared-kushner-jd-vance-b2964803.html"
     },
     {
-      "title": "China says it will send giant pandas to Atlanta again in new round of cooperation",
-      "summary": "China says it will send giant pandas to Atlanta again in new round of cooperation",
+      "title": "Gunfire and blasts rock Mali as armed groups stage coordinated attacks",
+      "summary": "Gunfire and blasts rock Mali as armed groups stage coordinated attacks",
       "outlets_covering": [
-        "PBS NewsHour",
+        "BBC World",
         "ABC News Intl",
-        "The Hindu Intl"
+        "The Independent",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/china-says-it-will-send-giant-pandas-to-atlanta-again-in-new-round-of-cooperation"
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/africa/mali-attack-terrorist-bamako-airport-b2964860.html"
+    },
+    {
+      "title": "Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran",
+      "summary": "Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan"
     }
   ]
 }
