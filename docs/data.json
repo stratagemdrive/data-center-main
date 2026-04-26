@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T12:39:50.144715Z",
+  "last_updated": "2026-04-26T01:48:25.166954Z",
   "world_org_meetings": [
     {
       "title": "G7 says nature talks a success as climate sidelined for U.S.",
@@ -26,20 +26,20 @@
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/imf-world-bank-spring-meeting-programming-at-the-atlantic-council-featured-in-an-arab-news-article-on-pakistans-focus-on-enhancing-trade-and-investment-with-the-us"
     },
     {
-      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "organization": "COP",
+      "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "source_url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia"
+      "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
     },
     {
-      "title": "UN General Assembly President Annalena Baerbock to visit India next week",
-      "organization": "UN",
+      "title": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
+      "organization": "IMF",
       "date": "",
       "location": "",
-      "description": "UN General Assembly President Annalena Baerbock to visit India next week",
-      "source_url": "https://www.thehindu.com/news/international/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/article70900152.ece"
+      "description": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
+      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-imf-world-bank-spring-meetings-as-leaders-grapple-with-war-and-supply-shocks"
     }
   ],
   "diplomatic_visits": [
@@ -54,43 +54,24 @@
       "location": "",
       "description": "Taiwan fears it will be ‘on the menu’ at Xi’s summit with Trump",
       "source_url": "https://www.japantimes.co.jp/news/2026/04/25/asia-pacific/politics/taiwan-fears-xi-trump"
-    },
-    {
-      "title": "UN General Assembly President Annalena Baerbock to visit India next week",
-      "participants": [
-        "General Assembly President Annalena Baerbock",
-        "India"
-      ],
-      "date": "",
-      "location": "",
-      "description": "UN General Assembly President Annalena Baerbock to visit India next week",
-      "source_url": "https://www.thehindu.com/news/international/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/article70900152.ece"
     }
   ],
   "elections": [
     {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "title": "Palestinians vote in municipal elections in Gaza, West Bank",
       "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "source_url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
-      "country": "Israel",
       "election_type": "National",
       "date": "",
-      "description": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
-      "source_url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations"
+      "description": "Palestinians vote in municipal elections in Gaza, West Bank",
+      "source_url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Palestinian local elections give some Gazans first chance to vote in years",
+      "title": "Low voter turnout in Gaza as West Bank holds local elections",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Palestinian local elections give some Gazans first chance to vote in years",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/25/world/politics/palestinian-elections"
+      "description": "Low voter turnout in Gaza as West Bank holds local elections",
+      "source_url": "https://www.france24.com/en/low-voter-turnout-in-gaza-as-west-bank-holds-local-elections"
     },
     {
       "title": "Peru police raid ex-election chief’s home amid widening probe",
@@ -101,108 +82,118 @@
       "source_url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe"
     },
     {
-      "title": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
+      "title": "Election Commission transfers 4 cops in 3 Kolkata police stations",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
-      "source_url": "https://www.france24.com/en/elections-in-west-bank-barometer-on-palestinian-public-opinion"
+      "description": "Election Commission transfers 4 cops in 3 Kolkata police stations",
+      "source_url": "https://timesofindia.indiatimes.com/india/election-commission-transfers-4-cops-in-3-kolkata-police-stations/articleshow/130523590.cms"
+    },
+    {
+      "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+      "source_url": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss"
     }
   ],
   "global_events": [
+    {
+      "title": "Trump Cancels Witkoff and Kushner’s Trip for Iran Talks, Saying, ‘We Have All the Cards.’",
+      "summary": "Trump Cancels Witkoff and Kushner’s Trip for Iran Talks, Saying, ‘We Have All the Cards.’",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Time",
+        "The Independent"
+      ],
+      "coverage_count": 25,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html"
+    },
+    {
+      "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+      "summary": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
+    },
+    {
+      "title": "Palestinians vote in municipal elections in Gaza, West Bank",
+      "summary": "Palestinians vote in municipal elections in Gaza, West Bank",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "ABC News Intl",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf"
+    },
     {
       "title": "Israel-Lebanon ceasefire extended by three weeks",
       "summary": "Israel-Lebanon ceasefire extended by three weeks",
       "outlets_covering": [
         "NPR World",
-        "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "Wash Post World",
+        "Al Jazeera",
         "The Hindu Intl",
         "UN News",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 13,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece"
     },
     {
-      "title": "Witkoff, Kushner set to head to Pakistan today for Iran talks",
-      "summary": "Witkoff, Kushner set to head to Pakistan today for Iran talks",
+      "title": "Trump abruptly cancels peace talks with Iran in Pakistan: \"We have all the cards\"",
+      "summary": "Trump abruptly cancels peace talks with Iran in Pakistan: \"We have all the cards\"",
       "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire"
-    },
-    {
-      "title": "The Latest: Trump sending Witkoff and Kushner to Pakistan for talks with Iran's foreign minister",
-      "summary": "The Latest: Trump sending Witkoff and Kushner to Pakistan for talks with Iran's foreign minister",
-      "outlets_covering": [
+        "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
+        "Wash Post World",
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 20,
+      "coverage_count": 29,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/pakistan-iran-islamabad-jared-kushner-jd-vance-b2964803.html"
-    },
-    {
-      "title": "Gunfire and blasts rock Mali as armed groups stage coordinated attacks",
-      "summary": "Gunfire and blasts rock Mali as armed groups stage coordinated attacks",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/africa/mali-attack-terrorist-bamako-airport-b2964860.html"
-    },
-    {
-      "title": "Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran",
-      "summary": "Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 17,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan"
+      "source_url": "https://www.cbsnews.com/video/trump-abruptly-cancels-peace-talks-iran-pakistan-cards"
     }
   ]
 }
