@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-04-26T01:48:25.166954Z",
+  "last_updated": "2026-04-26T12:42:11.111814Z",
   "world_org_meetings": [
-    {
-      "title": "G7 says nature talks a success as climate sidelined for U.S.",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "G7 says nature talks a success as climate sidelined for U.S.",
-      "source_url": "https://www.japantimes.co.jp/environment/2026/04/25/g7-environment-climate-omit"
-    },
-    {
-      "title": "Putin may attend G20 summit in Miami after U.S. invitation: Kremlin",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Putin may attend G20 summit in Miami after U.S. invitation: Kremlin",
-      "source_url": "https://www.thehindu.com/news/international/putin-may-attend-g20-summit-in-miami-after-us-invitation-kremlin/article70902455.ece"
-    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -40,20 +24,29 @@
       "location": "",
       "description": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
       "source_url": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-imf-world-bank-spring-meetings-as-leaders-grapple-with-war-and-supply-shocks"
+    },
+    {
+      "title": "Lipsky and Muhleisen quoted in Reuters article on how the Middle East economic shock will cast a shadow over the IMF/World Bank spring meetings",
+      "organization": "IMF",
+      "date": "",
+      "location": "",
+      "description": "Lipsky and Muhleisen quoted in Reuters article on how the Middle East economic shock will cast a shadow over the IMF/World Bank spring meetings",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-and-muhleisen-quoted-in-reuters-article-on-how-the-middle-east-economic-shock-will-cast-a-shadow-over-the-imf-world-bank-spring-meetings"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Taiwan fears it will be ‘on the menu’ at Xi’s summit with Trump",
+      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
       "participants": [
-        "Taiwan",
-        "Xi’s",
-        "Trump"
+        "What",
+        "Know",
+        "King Charles",
+        "Queen Camilla’s U.S State Visit Hosted"
       ],
       "date": "",
       "location": "",
-      "description": "Taiwan fears it will be ‘on the menu’ at Xi’s summit with Trump",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/25/asia-pacific/politics/taiwan-fears-xi-trump"
+      "description": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+      "source_url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html"
     }
   ],
   "elections": [
@@ -66,78 +59,97 @@
       "source_url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Low voter turnout in Gaza as West Bank holds local elections",
+      "title": "Several killed in Colombia highway bomb attack ahead of presidential election",
+      "country": "Colombia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Several killed in Colombia highway bomb attack ahead of presidential election",
+      "source_url": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election"
+    },
+    {
+      "title": "Keir Starmer vows to lead Labour into next general election after bruising week",
       "country": "",
-      "election_type": "Local",
+      "election_type": "General",
       "date": "",
-      "description": "Low voter turnout in Gaza as West Bank holds local elections",
-      "source_url": "https://www.france24.com/en/low-voter-turnout-in-gaza-as-west-bank-holds-local-elections"
+      "description": "Keir Starmer vows to lead Labour into next general election after bruising week",
+      "source_url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting"
     },
     {
-      "title": "Peru police raid ex-election chief’s home amid widening probe",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru police raid ex-election chief’s home amid widening probe",
-      "source_url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe"
-    },
-    {
-      "title": "Election Commission transfers 4 cops in 3 Kolkata police stations",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Election Commission transfers 4 cops in 3 Kolkata police stations",
-      "source_url": "https://timesofindia.indiatimes.com/india/election-commission-transfers-4-cops-in-3-kolkata-police-stations/articleshow/130523590.cms"
-    },
-    {
-      "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+      "title": "Voters contend with ‘grotesque’ leaflets and ‘dodgy’ data in English elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
-      "source_url": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss"
+      "description": "Voters contend with ‘grotesque’ leaflets and ‘dodgy’ data in English elections",
+      "source_url": "https://www.theguardian.com/politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts"
+    },
+    {
+      "title": "West Bengal elections: PM Modi pledges citizenship for Matua Namasudras under CAA",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "West Bengal elections: PM Modi pledges citizenship for Matua Namasudras under CAA",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-pm-modi-pledges-citizenship-for-matua-namasudras-under-caa/articleshow/130529950.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Trump Cancels Witkoff and Kushner’s Trip for Iran Talks, Saying, ‘We Have All the Cards.’",
-      "summary": "Trump Cancels Witkoff and Kushner’s Trip for Iran Talks, Saying, ‘We Have All the Cards.’",
+      "title": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
+      "summary": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
         "Bloomberg",
-        "Time",
-        "The Independent"
+        "Time"
       ],
-      "coverage_count": 25,
+      "coverage_count": 29,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html"
+      "source_url": "https://www.washingtonpost.com/world/2026/04/25/iran-us-pakistan-ceasefire-talks"
     },
     {
-      "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-      "summary": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+      "title": "Armed groups claim attacks across Mali",
+      "summary": "Armed groups claim attacks across Mali",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "CBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
-        "Time",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times"
+        "Wash Post World",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 20,
+      "coverage_count": 9,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali"
+    },
+    {
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "summary": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Time"
+      ],
+      "coverage_count": 34,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
+      "source_url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Palestinians vote in municipal elections in Gaza, West Bank",
@@ -147,53 +159,26 @@
         "PBS NewsHour",
         "ABC News Intl",
         "DW World",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Israel-Lebanon ceasefire extended by three weeks",
-      "summary": "Israel-Lebanon ceasefire extended by three weeks",
+      "title": "U.S. strike on alleged drug boat kills 2 in eastern Pacific, military says",
+      "summary": "U.S. strike on alleged drug boat kills 2 in eastern Pacific, military says",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
         "CBS News World",
-        "NBC News World",
-        "Wash Post World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "UN News",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece"
-    },
-    {
-      "title": "Trump abruptly cancels peace talks with Iran in Pakistan: \"We have all the cards\"",
-      "summary": "Trump abruptly cancels peace talks with Iran in Pakistan: \"We have all the cards\"",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "The Independent"
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 29,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/trump-abruptly-cancels-peace-talks-iran-pakistan-cards"
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/us-strike-alleged-drug-boat-kills-2-eastern-pacific-military"
     }
   ]
 }
