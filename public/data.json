@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T12:42:11.111814Z",
+  "last_updated": "2026-04-27T01:52:01.561717Z",
   "world_org_meetings": [
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
@@ -36,17 +36,64 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+      "title": "King Charles state visit to U.S. to go on as planned after shooting",
       "participants": [
-        "What",
-        "Know",
         "King Charles",
-        "Queen Camilla’s U.S State Visit Hosted"
+        "U.S"
       ],
       "date": "",
       "location": "",
-      "description": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
-      "source_url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html"
+      "description": "King Charles state visit to U.S. to go on as planned after shooting",
+      "source_url": "https://www.thehindu.com/news/international/king-charles-state-visit-to-us-to-go-on-as-planned-after-shooting/article70909912.ece"
+    },
+    {
+      "title": "King’s US state visit will go ahead as planned after Washington shooting, Buckingham Palace says",
+      "participants": [
+        "King’s US",
+        "Washington",
+        "Buckingham Palace"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King’s US state visit will go ahead as planned after Washington shooting, Buckingham Palace says",
+      "source_url": "https://www.independent.co.uk/news/uk/home-news/king-charles-us-visit-trump-washington-shooting-cancelled-b2965233.html"
+    },
+    {
+      "title": "UAE-Iran differences and India’s plans to dilute language on Israel-Palestine derail joint statement at BRICS meet",
+      "participants": [
+        "UAE-Iran",
+        "India’s",
+        "Israel-Palestine",
+        "BRICS"
+      ],
+      "date": "",
+      "location": "",
+      "description": "UAE-Iran differences and India’s plans to dilute language on Israel-Palestine derail joint statement at BRICS meet",
+      "source_url": "https://www.thehindu.com/news/national/uae-iran-differences-and-indias-plans-to-dilute-language-on-israel-palestine-derail-joint-statement-at-brics-meet/article70909165.ece"
+    },
+    {
+      "title": "King Charles' Security Under Review ahead of DC State Visit",
+      "participants": [
+        "King Charles Security",
+        "Review",
+        "State Visit"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King Charles' Security Under Review ahead of DC State Visit",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-04-26/king-charles-security-under-review-ahead-of-dc-visit-video"
+    },
+    {
+      "title": "How China is responding to the stalling of talks between the U.S. and Iran",
+      "participants": [
+        "How China",
+        "U.S",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "How China is responding to the stalling of talks between the U.S. and Iran",
+      "source_url": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran"
     }
   ],
   "elections": [
@@ -59,78 +106,39 @@
       "source_url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Several killed in Colombia highway bomb attack ahead of presidential election",
+      "title": "Abbas loyalists win Palestinian municipal elections, including some seats in Gaza",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Abbas loyalists win Palestinian municipal elections, including some seats in Gaza",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/27/world/politics/palestinian-loyalists-election-gaza"
+    },
+    {
+      "title": "Bomb attack on Colombia highway kills 19 ahead of election",
       "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Several killed in Colombia highway bomb attack ahead of presidential election",
-      "source_url": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election"
-    },
-    {
-      "title": "Keir Starmer vows to lead Labour into next general election after bruising week",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Keir Starmer vows to lead Labour into next general election after bruising week",
-      "source_url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting"
-    },
-    {
-      "title": "Voters contend with ‘grotesque’ leaflets and ‘dodgy’ data in English elections",
-      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Voters contend with ‘grotesque’ leaflets and ‘dodgy’ data in English elections",
-      "source_url": "https://www.theguardian.com/politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts"
+      "description": "Bomb attack on Colombia highway kills 19 ahead of election",
+      "source_url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss"
     },
     {
-      "title": "West Bengal elections: PM Modi pledges citizenship for Matua Namasudras under CAA",
+      "title": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
       "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
+      "source_url": "https://www.pbs.org/newshour/world/palestinian-authorities-call-local-elections-in-a-central-gaza-community-and-the-occupied-west-bank-a-success"
+    },
+    {
+      "title": "Netanyahu's biggest rivals join forces for Israel's next election",
+      "country": "Israel",
       "election_type": "National",
       "date": "",
-      "description": "West Bengal elections: PM Modi pledges citizenship for Matua Namasudras under CAA",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-pm-modi-pledges-citizenship-for-matua-namasudras-under-caa/articleshow/130529950.cms"
+      "description": "Netanyahu's biggest rivals join forces for Israel's next election",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/27/world/politics/netanyahu-rivals-israel-election"
     }
   ],
   "global_events": [
-    {
-      "title": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
-      "summary": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "Time"
-      ],
-      "coverage_count": 29,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/25/iran-us-pakistan-ceasefire-talks"
-    },
-    {
-      "title": "Armed groups claim attacks across Mali",
-      "summary": "Armed groups claim attacks across Mali",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali"
-    },
     {
       "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
       "summary": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
@@ -143,42 +151,85 @@
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "Bloomberg",
-        "Time"
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 34,
+      "coverage_count": 28,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Palestinians vote in municipal elections in Gaza, West Bank",
-      "summary": "Palestinians vote in municipal elections in Gaza, West Bank",
+      "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
+      "summary": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "DW World",
-        "The Hindu Intl"
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "SCMP",
+        "Axios"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 14,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf"
+      "source_url": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss"
     },
     {
-      "title": "U.S. strike on alleged drug boat kills 2 in eastern Pacific, military says",
-      "summary": "U.S. strike on alleged drug boat kills 2 in eastern Pacific, military says",
+      "title": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
+      "summary": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
       "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
+        "NYT World",
         "The Guardian World",
-        "The Hindu Intl",
-        "The Hill"
+        "Wash Post World",
+        "Time",
+        "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/us-strike-alleged-drug-boat-kills-2-eastern-pacific-military"
+      "coverage_count": 21,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/25/iran-us-pakistan-ceasefire-talks"
+    },
+    {
+      "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl anniversary",
+      "summary": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl anniversary",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/strikes-ukraine-russia-kill-16-chernobyl-anniversary-132394862"
+    },
+    {
+      "title": "Iran's top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
+      "summary": "Iran's top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/irans-top-diplomat-returns-pakistan-islamabad-races-save-132393186"
     }
   ]
 }
