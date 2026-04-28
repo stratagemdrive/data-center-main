@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-04-28T01:59:30.840590Z",
+  "last_updated": "2026-04-28T13:28:47.965745Z",
   "world_org_meetings": [
-    {
-      "title": "Bruised by Trump, NATO alliance considers end to annual summits",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Bruised by Trump, NATO alliance considers end to annual summits",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/28/world/politics/trump-nato-end-annual-summits"
-    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -44,51 +36,51 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King Charles arrives in U.S. for state visit amid differences over Iran war",
+      "title": "King Charles in US for state visit amid differences over Iran war",
       "participants": [
         "King Charles",
-        "U.S",
         "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "King Charles arrives in U.S. for state visit amid differences over Iran war",
-      "source_url": "https://www.japantimes.co.jp/news/2026/04/28/world/politics/king-charles-us-state-visit-iran"
+      "description": "King Charles in US for state visit amid differences over Iran war",
+      "source_url": "https://www.france24.com/en/video/20260428-king-charles-in-us-for-state-visit-amid-differences-over-iran-war"
     },
     {
-      "title": "King Charles and Queen Camilla arrive for high-profile US state visit",
+      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+      "participants": [
+        "What",
+        "Know",
+        "King Charles",
+        "Queen Camilla’s U.S State Visit Hosted"
+      ],
+      "date": "",
+      "location": "",
+      "description": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+      "source_url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html"
+    },
+    {
+      "title": "When will King Charles and Trump meet today? Full schedule for US state visit",
       "participants": [
         "King Charles",
-        "Queen Camilla"
+        "Trump",
+        "Full"
       ],
       "date": "",
       "location": "",
-      "description": "King Charles and Queen Camilla arrive for high-profile US state visit",
-      "source_url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss"
+      "description": "When will King Charles and Trump meet today? Full schedule for US state visit",
+      "source_url": "https://www.independent.co.uk/news/uk/home-news/king-charles-trump-us-visit-schedule-meeting-today-b2966239.html"
     },
     {
-      "title": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
+      "title": "News Wrap: King Charles arrives in Washington for state visit",
       "participants": [
-        "King Charles’s",
-        "U.K",
-        "Trump"
+        "News Wrap King Charles",
+        "Washington"
       ],
       "date": "",
       "location": "",
-      "description": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
-      "source_url": "https://www.washingtonpost.com/politics/2026/04/27/trump-king-charles-iran-tension"
-    },
-    {
-      "title": "The Most Memorable Photos of King Charles' State Visit to the U.S",
-      "participants": [
-        "Most Memorable Photos",
-        "King Charles State Visit",
-        "U.S"
-      ],
-      "date": "",
-      "location": "",
-      "description": "The Most Memorable Photos of King Charles' State Visit to the U.S",
-      "source_url": "https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos"
+      "description": "News Wrap: King Charles arrives in Washington for state visit",
+      "source_url": "https://www.pbs.org/newshour/show/news-wrap-king-charles-arrives-in-washington-for-state-visit"
     },
     {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
@@ -111,12 +103,28 @@
       "source_url": "https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank"
     },
     {
-      "title": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
+      "title": "West Bengal elections phase 2: In Didi's den, BJP tests the walls - what's at stake",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
-      "source_url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-lapid-bennett.html"
+      "description": "West Bengal elections phase 2: In Didi's den, BJP tests the walls - what's at stake",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-phase-2-in-didis-den-bjp-tests-the-walls-putting-mamatas-stronghold-on-trial-suvendu-adhikari-pm-modi-whats-at-stake/articleshow/130580800.cms"
+    },
+    {
+      "title": "West Bengal election phase 2: Timing, schedule and other details you need to know",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "West Bengal election phase 2: Timing, schedule and other details you need to know",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-election-phase-2-timing-schedule-and-other-details-you-need-to-know/articleshow/130579785.cms"
+    },
+    {
+      "title": "Tamil Nadu assembly elections 2026: Date, time, when and where to watch exit polls",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Tamil Nadu assembly elections 2026: Date, time, when and where to watch exit polls",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-elections-2026-date-time-when-and-where-to-watch-exit-polls/articleshow/130579392.cms"
     },
     {
       "title": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
@@ -125,101 +133,84 @@
       "date": "",
       "description": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
       "source_url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections"
-    },
-    {
-      "title": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
-      "source_url": "https://www.france24.com/en/middle-east/20260427-palestinians-in-gaza-s-deir-al-balah-elect-local-leaders-in-first-election-in-two-decades"
-    },
-    {
-      "title": "‘Israel must change direction’: Netanyahu rivals join forces for next election",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "‘Israel must change direction’: Netanyahu rivals join forces for next election",
-      "source_url": "https://www.theguardian.com/world/2026/apr/27/netanyahu-opposition-announce-new-party-naftali-bennett-yair-lapid"
     }
   ],
   "global_events": [
     {
-      "title": "Iran Offers to Reopen the Strait of Hormuz",
-      "summary": "Iran Offers to Reopen the Strait of Hormuz",
+      "title": "Austrian man pleads guilty to plotting attack on Taylor Swift concert in Vienna",
+      "summary": "Austrian man pleads guilty to plotting attack on Taylor Swift concert in Vienna",
       "outlets_covering": [
-        "PBS NewsHour",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "The Independent"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade"
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/music/2026/apr/28/austrian-man-goes-on-trial-for-2024-taylor-swift-concert-terror-plot"
     },
     {
-      "title": "Trump shooting latest: Correspondents’ Dinner suspect charged with attempted assassination as president rages at Jimmy Kimmel over ‘widow’ joke",
-      "summary": "Trump shooting latest: Correspondents’ Dinner suspect charged with attempted assassination as president rages at Jimmy Kimmel over ‘widow’ joke",
+      "title": "First Thing: White House dinner suspect charged with attempted assassination",
+      "summary": "First Thing: White House dinner suspect charged with attempted assassination",
       "outlets_covering": [
-        "The Independent",
-        "France24",
+        "BBC World",
+        "The Guardian World",
         "The Hindu Intl",
         "Axios"
       ],
       "coverage_count": 4,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-shooting-white-house-live-cole-tomas-allen-manifesto-b2965327.html"
+      "source_url": "https://www.theguardian.com/us-news/2026/apr/28/first-thing-white-house-dinner-suspect-charged-with-attempted-assassination"
     },
     {
-      "title": "Death toll from Colombia bus bombing rises to 20 during wave of violence",
-      "summary": "Death toll from Colombia bus bombing rises to 20 during wave of violence",
+      "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
+      "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
       "outlets_covering": [
         "PBS NewsHour",
-        "ABC News Intl",
-        "Fox News World",
-        "The Hindu Intl"
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "DW World",
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "Axios"
       ],
-      "coverage_count": 4,
-      "region": "Latin America",
+      "coverage_count": 11,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/death-toll-bus-bombing-southwest-colombia-rises-wave-violence"
+      "source_url": "https://www.france24.com/en/video/20260428-iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends"
     },
     {
-      "title": "Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia",
-      "summary": "Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia",
+      "title": "Russian Superyacht Sails Through Strait of Hormuz",
+      "summary": "Russian Superyacht Sails Through Strait of Hormuz",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
-        "Sky News World",
+        "NYT World",
+        "Newsweek",
         "The Independent"
       ],
       "coverage_count": 4,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://news.sky.com/story/kim-jong-un-speaks-at-memorial-for-north-korean-soldiers-killed-fighting-for-russia-13537094"
+      "source_url": "https://www.newsweek.com/russian-superyacht-sails-through-strait-of-hormuz-11885618"
     },
     {
-      "title": "At least 16 killed in strikes across Ukraine and Russia as Chernobyl anniversary prompts fresh nuclear safety fears",
-      "summary": "At least 16 killed in strikes across Ukraine and Russia as Chernobyl anniversary prompts fresh nuclear safety fears",
+      "title": "Violence escalates in Colombia with dozens of attacks before presidential vote",
+      "summary": "Violence escalates in Colombia with dozens of attacks before presidential vote",
       "outlets_covering": [
-        "PBS NewsHour",
+        "NPR World",
         "ABC News Intl",
-        "CBS News World",
-        "The Independent",
-        "The Hindu Intl"
+        "France24"
       ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-chernobyl-anniversary-russia-drone-strikes-b2965339.html"
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260428-violence-escalates-in-colombia-with-dozens-of-attacks-before-presidential-vote"
     }
   ]
 }
