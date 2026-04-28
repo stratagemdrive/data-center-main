@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-27T13:17:34.087279Z",
+  "last_updated": "2026-04-28T01:59:30.840590Z",
   "world_org_meetings": [
+    {
+      "title": "Bruised by Trump, NATO alliance considers end to annual summits",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Bruised by Trump, NATO alliance considers end to annual summits",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/28/world/politics/trump-nato-end-annual-summits"
+    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -36,64 +44,61 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
-      "participants": [
-        "What",
-        "Know",
-        "King Charles",
-        "Queen Camilla’s U.S State Visit Hosted"
-      ],
-      "date": "",
-      "location": "",
-      "description": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
-      "source_url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html"
-    },
-    {
-      "title": "King Charles state visit to U.S. to go on as planned after shooting",
+      "title": "King Charles arrives in U.S. for state visit amid differences over Iran war",
       "participants": [
         "King Charles",
-        "U.S"
-      ],
-      "date": "",
-      "location": "",
-      "description": "King Charles state visit to U.S. to go on as planned after shooting",
-      "source_url": "https://www.thehindu.com/news/international/king-charles-state-visit-to-us-to-go-on-as-planned-after-shooting/article70909912.ece"
-    },
-    {
-      "title": "Pakistani president seeks to bolster ‘full spectrum’ of ties with China on visit",
-      "participants": [
-        "Pakistani",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Pakistani president seeks to bolster ‘full spectrum’ of ties with China on visit",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3351587/pakistani-president-seeks-bolster-full-spectrum-ties-china-visit"
-    },
-    {
-      "title": "UAE-Iran differences and India’s plans to dilute language on Israel-Palestine derail joint statement at BRICS meet",
-      "participants": [
-        "UAE-Iran",
-        "India’s",
-        "Israel-Palestine",
-        "BRICS"
-      ],
-      "date": "",
-      "location": "",
-      "description": "UAE-Iran differences and India’s plans to dilute language on Israel-Palestine derail joint statement at BRICS meet",
-      "source_url": "https://www.thehindu.com/news/national/uae-iran-differences-and-indias-plans-to-dilute-language-on-israel-palestine-derail-joint-statement-at-brics-meet/article70909165.ece"
-    },
-    {
-      "title": "How China is responding to the stalling of talks between the U.S. and Iran",
-      "participants": [
-        "How China",
         "U.S",
         "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "How China is responding to the stalling of talks between the U.S. and Iran",
-      "source_url": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran"
+      "description": "King Charles arrives in U.S. for state visit amid differences over Iran war",
+      "source_url": "https://www.japantimes.co.jp/news/2026/04/28/world/politics/king-charles-us-state-visit-iran"
+    },
+    {
+      "title": "King Charles and Queen Camilla arrive for high-profile US state visit",
+      "participants": [
+        "King Charles",
+        "Queen Camilla"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King Charles and Queen Camilla arrive for high-profile US state visit",
+      "source_url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss"
+    },
+    {
+      "title": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
+      "participants": [
+        "King Charles’s",
+        "U.K",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
+      "source_url": "https://www.washingtonpost.com/politics/2026/04/27/trump-king-charles-iran-tension"
+    },
+    {
+      "title": "The Most Memorable Photos of King Charles' State Visit to the U.S",
+      "participants": [
+        "Most Memorable Photos",
+        "King Charles State Visit",
+        "U.S"
+      ],
+      "date": "",
+      "location": "",
+      "description": "The Most Memorable Photos of King Charles' State Visit to the U.S",
+      "source_url": "https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos"
+    },
+    {
+      "title": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "participants": [
+        "Can King Charles’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/can-king-charless-state-visit-to-the-us-help-mend-the-special-relationship"
     }
   ],
   "elections": [
@@ -114,97 +119,64 @@
       "source_url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-lapid-bennett.html"
     },
     {
-      "title": "Palestinians vote in municipal elections in Gaza, West Bank",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Palestinians vote in municipal elections in Gaza, West Bank",
-      "source_url": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Bomb blast on Colombia highway leaves at least 20 dead ahead of May elections",
+      "title": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
       "country": "Colombia",
       "election_type": "National",
       "date": "",
-      "description": "Bomb blast on Colombia highway leaves at least 20 dead ahead of May elections",
+      "description": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
       "source_url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections"
     },
     {
-      "title": "Tanzania Blames Outside Agitators for Deadly Election Violence",
+      "title": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Tanzania Blames Outside Agitators for Deadly Election Violence",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-27/tanzania-blames-outside-agitators-for-deadly-election-violence"
+      "description": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
+      "source_url": "https://www.france24.com/en/middle-east/20260427-palestinians-in-gaza-s-deir-al-balah-elect-local-leaders-in-first-election-in-two-decades"
+    },
+    {
+      "title": "‘Israel must change direction’: Netanyahu rivals join forces for next election",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "‘Israel must change direction’: Netanyahu rivals join forces for next election",
+      "source_url": "https://www.theguardian.com/world/2026/apr/27/netanyahu-opposition-announce-new-party-naftali-bennett-yair-lapid"
     }
   ],
   "global_events": [
     {
-      "title": "Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia",
-      "summary": "Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia",
+      "title": "Iran Offers to Reopen the Strait of Hormuz",
+      "summary": "Iran Offers to Reopen the Strait of Hormuz",
       "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://news.sky.com/story/kim-jong-un-speaks-at-memorial-for-north-korean-soldiers-killed-fighting-for-russia-13537094"
-    },
-    {
-      "title": "Iran's foreign minister returns to Pakistan after U.S. envoys' trip canceled",
-      "summary": "Iran's foreign minister returns to Pakistan after U.S. envoys' trip canceled",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire"
-    },
-    {
-      "title": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
-      "summary": "Trump calls off Witkoff, Kushner trip to Pakistan for Iran peace talks",
-      "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
+        "NBC News World",
         "NYT World",
-        "Wash Post World",
-        "Time",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/25/iran-us-pakistan-ceasefire-talks"
-    },
-    {
-      "title": "Iran offers US deal to reopen strait without nuclear deal",
-      "summary": "Iran offers US deal to reopen strait without nuclear deal",
-      "outlets_covering": [
-        "CBC World",
         "The Independent",
+        "Al Jazeera",
+        "DW World",
         "The Hindu Intl",
+        "Foreign Policy",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 6,
+      "coverage_count": 13,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://thehill.com/policy/defense/5850567-iran-us-negotiations-strait"
+      "source_url": "https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade"
+    },
+    {
+      "title": "Trump shooting latest: Correspondents’ Dinner suspect charged with attempted assassination as president rages at Jimmy Kimmel over ‘widow’ joke",
+      "summary": "Trump shooting latest: Correspondents’ Dinner suspect charged with attempted assassination as president rages at Jimmy Kimmel over ‘widow’ joke",
+      "outlets_covering": [
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-shooting-white-house-live-cole-tomas-allen-manifesto-b2965327.html"
     },
     {
       "title": "Death toll from Colombia bus bombing rises to 20 during wave of violence",
@@ -219,6 +191,35 @@
       "region": "Latin America",
       "category": "Conflict",
       "source_url": "https://www.foxnews.com/world/death-toll-bus-bombing-southwest-colombia-rises-wave-violence"
+    },
+    {
+      "title": "Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia",
+      "summary": "Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "Sky News World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://news.sky.com/story/kim-jong-un-speaks-at-memorial-for-north-korean-soldiers-killed-fighting-for-russia-13537094"
+    },
+    {
+      "title": "At least 16 killed in strikes across Ukraine and Russia as Chernobyl anniversary prompts fresh nuclear safety fears",
+      "summary": "At least 16 killed in strikes across Ukraine and Russia as Chernobyl anniversary prompts fresh nuclear safety fears",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "CBS News World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-chernobyl-anniversary-russia-drone-strikes-b2965339.html"
     }
   ]
 }
