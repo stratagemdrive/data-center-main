@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-28T13:28:47.965745Z",
+  "last_updated": "2026-04-29T02:01:14.687148Z",
   "world_org_meetings": [
+    {
+      "title": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
+      "source_url": "https://www.foxnews.com/world/us-condemns-irans-leadership-role-un-nuclear-conference-beyond-shameful"
+    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -36,15 +44,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King Charles in US for state visit amid differences over Iran war",
+      "title": "Charles on a mission: Can king's state visit salvage US-UK ties?",
       "participants": [
-        "King Charles",
-        "Iran"
+        "Charles",
+        "Can",
+        "US-UK"
       ],
       "date": "",
       "location": "",
-      "description": "King Charles in US for state visit amid differences over Iran war",
-      "source_url": "https://www.france24.com/en/video/20260428-king-charles-in-us-for-state-visit-amid-differences-over-iran-war"
+      "description": "Charles on a mission: Can king's state visit salvage US-UK ties?",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260428-charles-on-a-mission-can-king-s-state-visit-salvage-us-uk-ties"
     },
     {
       "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
@@ -83,48 +92,27 @@
       "source_url": "https://www.pbs.org/newshour/show/news-wrap-king-charles-arrives-in-washington-for-state-visit"
     },
     {
-      "title": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "title": "Hungary's Magyar seeks reset with Kyiv, proposes June summit with Zelensky",
       "participants": [
-        "Can King Charles’s"
+        "Hungary's Magyar",
+        "Kyiv",
+        "June",
+        "Zelensky"
       ],
       "date": "",
       "location": "",
-      "description": "Can King Charles’s state visit to the US help mend the special relationship?",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/can-king-charless-state-visit-to-the-us-help-mend-the-special-relationship"
+      "description": "Hungary's Magyar seeks reset with Kyiv, proposes June summit with Zelensky",
+      "source_url": "https://www.france24.com/en/europe/20260428-hungary-s-pm-elect-magyar-offers-to-meet-ukraine-s-zelensky-in-june"
     }
   ],
   "elections": [
     {
-      "title": "Palestinian officials hail local elections in a Gaza community and the West Bank",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Palestinian officials hail local elections in a Gaza community and the West Bank",
-      "source_url": "https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank"
-    },
-    {
-      "title": "West Bengal elections phase 2: In Didi's den, BJP tests the walls - what's at stake",
+      "title": "Are Democrats winning elections but losing the narrative?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "West Bengal elections phase 2: In Didi's den, BJP tests the walls - what's at stake",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-phase-2-in-didis-den-bjp-tests-the-walls-putting-mamatas-stronghold-on-trial-suvendu-adhikari-pm-modi-whats-at-stake/articleshow/130580800.cms"
-    },
-    {
-      "title": "West Bengal election phase 2: Timing, schedule and other details you need to know",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "West Bengal election phase 2: Timing, schedule and other details you need to know",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-election-phase-2-timing-schedule-and-other-details-you-need-to-know/articleshow/130579785.cms"
-    },
-    {
-      "title": "Tamil Nadu assembly elections 2026: Date, time, when and where to watch exit polls",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Tamil Nadu assembly elections 2026: Date, time, when and where to watch exit polls",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-elections-2026-date-time-when-and-where-to-watch-exit-polls/articleshow/130579392.cms"
+      "description": "Are Democrats winning elections but losing the narrative?",
+      "source_url": "https://thehill.com/homenews/campaign/fight-for-2028/5852385-fight-for-2028-democrats-messaging-amie-parnes-ian-swanson-live-discussion"
     },
     {
       "title": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
@@ -133,84 +121,100 @@
       "date": "",
       "description": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
       "source_url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections"
+    },
+    {
+      "title": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
+      "source_url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-lapid-bennett.html"
+    },
+    {
+      "title": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
+      "source_url": "https://www.pbs.org/newshour/world/palestinian-authorities-call-local-elections-in-a-central-gaza-community-and-the-occupied-west-bank-a-success"
     }
   ],
   "global_events": [
     {
-      "title": "Austrian man pleads guilty to plotting attack on Taylor Swift concert in Vienna",
-      "summary": "Austrian man pleads guilty to plotting attack on Taylor Swift concert in Vienna",
+      "title": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
+      "summary": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "CBS News World",
         "Sky News World",
-        "The Guardian World",
-        "The Independent"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/music/2026/apr/28/austrian-man-goes-on-trial-for-2024-taylor-swift-concert-terror-plot"
-    },
-    {
-      "title": "First Thing: White House dinner suspect charged with attempted assassination",
-      "summary": "First Thing: White House dinner suspect charged with attempted assassination",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/apr/28/first-thing-white-house-dinner-suspect-charged-with-attempted-assassination"
-    },
-    {
-      "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
-      "summary": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "NBC News World",
         "NYT World",
         "The Independent",
-        "DW World",
-        "France24",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "Axios"
+        "Al Jazeera"
       ],
-      "coverage_count": 11,
-      "region": "Middle East",
+      "coverage_count": 7,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260428-iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends"
+      "source_url": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert?traffic_source=rss"
     },
     {
-      "title": "Russian Superyacht Sails Through Strait of Hormuz",
-      "summary": "Russian Superyacht Sails Through Strait of Hormuz",
+      "title": "Ukraine says it shot down 33,000 Russian drones in March, a monthly record",
+      "summary": "Ukraine says it shot down 33,000 Russian drones in March, a monthly record",
       "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "Newsweek",
-        "The Independent"
+        "ABC News Intl",
+        "NBC News World",
+        "The Independent",
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.newsweek.com/russian-superyacht-sails-through-strait-of-hormuz-11885618"
+      "source_url": "https://www.nbcnews.com/world/ukraine/ukraine-says-shot-33000-russian-drones-march-monthly-record-rcna342590"
     },
     {
-      "title": "Violence escalates in Colombia with dozens of attacks before presidential vote",
-      "summary": "Violence escalates in Colombia with dozens of attacks before presidential vote",
+      "title": "Russian superyacht sails through blockaded Strait of Hormuz",
+      "summary": "Russian superyacht sails through blockaded Strait of Hormuz",
       "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "France24"
+        "BBC World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/5852731-russian-superyacht-strait-hormuz"
+    },
+    {
+      "title": "Strait of Hormuz stuck in limbo as Trump mulls Iran's latest offer",
+      "summary": "Strait of Hormuz stuck in limbo as Trump mulls Iran's latest offer",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices"
+    },
+    {
+      "title": "Only \"special relationship\" U.S. has is \"probably Israel,\" U.K. ambassador said",
+      "summary": "Only \"special relationship\" U.S. has is \"probably Israel,\" U.K. ambassador said",
+      "outlets_covering": [
+        "CBS News World",
+        "The Independent",
+        "The Hill"
       ],
       "coverage_count": 3,
-      "region": "Latin America",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260428-violence-escalates-in-colombia-with-dozens-of-attacks-before-presidential-vote"
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/uk-ambassador-leaked-remarks-special-relationship-u-s-israel"
     }
   ]
 }
