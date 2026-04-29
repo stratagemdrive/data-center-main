@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T02:01:14.687148Z",
+  "last_updated": "2026-04-29T13:23:00.654274Z",
   "world_org_meetings": [
     {
       "title": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
@@ -44,43 +44,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Charles on a mission: Can king's state visit salvage US-UK ties?",
-      "participants": [
-        "Charles",
-        "Can",
-        "US-UK"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Charles on a mission: Can king's state visit salvage US-UK ties?",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260428-charles-on-a-mission-can-king-s-state-visit-salvage-us-uk-ties"
-    },
-    {
-      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
-      "participants": [
-        "What",
-        "Know",
-        "King Charles",
-        "Queen Camilla’s U.S State Visit Hosted"
-      ],
-      "date": "",
-      "location": "",
-      "description": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
-      "source_url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html"
-    },
-    {
-      "title": "When will King Charles and Trump meet today? Full schedule for US state visit",
-      "participants": [
-        "King Charles",
-        "Trump",
-        "Full"
-      ],
-      "date": "",
-      "location": "",
-      "description": "When will King Charles and Trump meet today? Full schedule for US state visit",
-      "source_url": "https://www.independent.co.uk/news/uk/home-news/king-charles-trump-us-visit-schedule-meeting-today-b2966239.html"
-    },
-    {
       "title": "News Wrap: King Charles arrives in Washington for state visit",
       "participants": [
         "News Wrap King Charles",
@@ -92,20 +55,78 @@
       "source_url": "https://www.pbs.org/newshour/show/news-wrap-king-charles-arrives-in-washington-for-state-visit"
     },
     {
-      "title": "Hungary's Magyar seeks reset with Kyiv, proposes June summit with Zelensky",
+      "title": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
       "participants": [
-        "Hungary's Magyar",
-        "Kyiv",
-        "June",
-        "Zelensky"
+        "King Charles’s",
+        "U.K",
+        "Trump"
       ],
       "date": "",
       "location": "",
-      "description": "Hungary's Magyar seeks reset with Kyiv, proposes June summit with Zelensky",
-      "source_url": "https://www.france24.com/en/europe/20260428-hungary-s-pm-elect-magyar-offers-to-meet-ukraine-s-zelensky-in-june"
+      "description": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
+      "source_url": "https://www.washingtonpost.com/politics/2026/04/27/trump-king-charles-iran-tension"
+    },
+    {
+      "title": "King Charles and Queen Camilla in New York to honour 9/11 victims on US state visit",
+      "participants": [
+        "King Charles",
+        "Queen Camilla",
+        "York"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King Charles and Queen Camilla in New York to honour 9/11 victims on US state visit",
+      "source_url": "https://www.independent.co.uk/news/world/americas/king-charles-camilla-911-memorial-mamdani-b2966979.html"
+    },
+    {
+      "title": "U.S., allies release joint statement supporting Panama's sovereignty",
+      "participants": [
+        "U.S",
+        "Panama's"
+      ],
+      "date": "",
+      "location": "",
+      "description": "U.S., allies release joint statement supporting Panama's sovereignty",
+      "source_url": "https://www.thehindu.com/news/international/us-allies-release-joint-statement-supporting-panamas-sovereignty/article70918952.ece"
+    },
+    {
+      "title": "Trump welcomes King, Queen to U.S., as high-profile state visit gets underway",
+      "participants": [
+        "Trump",
+        "King Queen",
+        "U.S"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump welcomes King, Queen to U.S., as high-profile state visit gets underway",
+      "source_url": "https://www.cbc.ca/news/world/king-arrives-us-visit-trump-9.7178922?cmp=rss"
     }
   ],
   "elections": [
+    {
+      "title": "Colombian election reflects on ‘total peace’ promise as violence surges again",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Colombian election reflects on ‘total peace’ promise as violence surges again",
+      "source_url": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence"
+    },
+    {
+      "title": "Assembly election exit polls 2026: How accurate were predictions last time for West Bengal, Tamil Nadu, Kerala and others",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Assembly election exit polls 2026: How accurate were predictions last time for West Bengal, Tamil Nadu, Kerala and others",
+      "source_url": "https://timesofindia.indiatimes.com/india/assembly-election-exit-polls-2026-how-accurate-were-predictions-last-time-for-west-bengal-tamil-nadu-kerala-and-others/articleshow/130604346.cms"
+    },
+    {
+      "title": "European nation’s citizens back population cap ahead of key referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "European nation’s citizens back population cap ahead of key referendum",
+      "source_url": "https://www.independent.co.uk/news/world/europe/switzerland-population-cap-referendum-immigration-b2967100.html"
+    },
     {
       "title": "Are Democrats winning elections but losing the narrative?",
       "country": "",
@@ -113,108 +134,78 @@
       "date": "",
       "description": "Are Democrats winning elections but losing the narrative?",
       "source_url": "https://thehill.com/homenews/campaign/fight-for-2028/5852385-fight-for-2028-democrats-messaging-amie-parnes-ian-swanson-live-discussion"
-    },
-    {
-      "title": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Bomb blast on Colombia highway leaves 21 dead amid pre-election violence",
-      "source_url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections"
-    },
-    {
-      "title": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
-      "source_url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-lapid-bennett.html"
-    },
-    {
-      "title": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
-      "source_url": "https://www.pbs.org/newshour/world/palestinian-authorities-call-local-elections-in-a-central-gaza-community-and-the-occupied-west-bank-a-success"
     }
   ],
   "global_events": [
     {
-      "title": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
-      "summary": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
+      "title": "Indian Tycoon Offers Refuge to Pablo Escobar’s Condemned Hippos",
+      "summary": "Indian Tycoon Offers Refuge to Pablo Escobar’s Condemned Hippos",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "The Guardian World",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/04/29/world/asia/indian-tycoon-ambani-hippos-colombia-escobar.html"
+    },
+    {
+      "title": "Man Pleads Guilty to Planning Attack at Taylor Swift Concert in Vienna",
+      "summary": "Man Pleads Guilty to Planning Attack at Taylor Swift Concert in Vienna",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "CBS News World",
         "Sky News World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera"
+        "NYT World"
       ],
-      "coverage_count": 7,
+      "coverage_count": 5,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert?traffic_source=rss"
+      "source_url": "https://www.nytimes.com/2026/04/28/world/europe/taylor-swift-austria-guilty-plea.html"
     },
     {
-      "title": "Ukraine says it shot down 33,000 Russian drones in March, a monthly record",
-      "summary": "Ukraine says it shot down 33,000 Russian drones in March, a monthly record",
+      "title": "U.S. weighs Iranian proposal that would open Strait of Hormuz but delay nuclear talks",
+      "summary": "U.S. weighs Iranian proposal that would open Strait of Hormuz but delay nuclear talks",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/04/27/iran-talks-putin-araghchi-trump-russia"
+    },
+    {
+      "title": "Russia to hold Victory Day parade without military equipment amid Ukraine war",
+      "summary": "Russia to hold Victory Day parade without military equipment amid Ukraine war",
       "outlets_covering": [
         "ABC News Intl",
+        "The Guardian World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/russia-hold-victory-day-parade-military-equipment-1st-132485405"
+    },
+    {
+      "title": "Ukraine accuses Israel of importing grain 'stolen' by Russia",
+      "summary": "Ukraine accuses Israel of importing grain 'stolen' by Russia",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "NBC News World",
-        "The Independent",
-        "The Hindu Intl"
+        "Time"
       ],
       "coverage_count": 4,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.nbcnews.com/world/ukraine/ukraine-says-shot-33000-russian-drones-march-monthly-record-rcna342590"
-    },
-    {
-      "title": "Russian superyacht sails through blockaded Strait of Hormuz",
-      "summary": "Russian superyacht sails through blockaded Strait of Hormuz",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/5852731-russian-superyacht-strait-hormuz"
-    },
-    {
-      "title": "Strait of Hormuz stuck in limbo as Trump mulls Iran's latest offer",
-      "summary": "Strait of Hormuz stuck in limbo as Trump mulls Iran's latest offer",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "The Independent",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices"
-    },
-    {
-      "title": "Only \"special relationship\" U.S. has is \"probably Israel,\" U.K. ambassador said",
-      "summary": "Only \"special relationship\" U.S. has is \"probably Israel,\" U.K. ambassador said",
-      "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/uk-ambassador-leaked-remarks-special-relationship-u-s-israel"
+      "source_url": "https://www.npr.org/2026/04/29/g-s1-119153/ukraine-accuses-israel-of-importing-grain-stolen-by-russia"
     }
   ]
 }
