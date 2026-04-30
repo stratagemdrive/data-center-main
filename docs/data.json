@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T13:23:00.654274Z",
+  "last_updated": "2026-04-30T02:01:13.644426Z",
   "world_org_meetings": [
     {
       "title": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
@@ -24,48 +24,9 @@
       "location": "",
       "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
       "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
-    },
-    {
-      "title": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
-      "organization": "IMF",
-      "date": "",
-      "location": "",
-      "description": "Inside the IMF-World Bank Spring Meetings as leaders grapple with war and supply shocks",
-      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/inside-the-imf-world-bank-spring-meetings-as-leaders-grapple-with-war-and-supply-shocks"
-    },
-    {
-      "title": "Lipsky and Muhleisen quoted in Reuters article on how the Middle East economic shock will cast a shadow over the IMF/World Bank spring meetings",
-      "organization": "IMF",
-      "date": "",
-      "location": "",
-      "description": "Lipsky and Muhleisen quoted in Reuters article on how the Middle East economic shock will cast a shadow over the IMF/World Bank spring meetings",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-and-muhleisen-quoted-in-reuters-article-on-how-the-middle-east-economic-shock-will-cast-a-shadow-over-the-imf-world-bank-spring-meetings"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "News Wrap: King Charles arrives in Washington for state visit",
-      "participants": [
-        "News Wrap King Charles",
-        "Washington"
-      ],
-      "date": "",
-      "location": "",
-      "description": "News Wrap: King Charles arrives in Washington for state visit",
-      "source_url": "https://www.pbs.org/newshour/show/news-wrap-king-charles-arrives-in-washington-for-state-visit"
-    },
-    {
-      "title": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
-      "participants": [
-        "King Charles’s",
-        "U.K",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
-      "source_url": "https://www.washingtonpost.com/politics/2026/04/27/trump-king-charles-iran-tension"
-    },
     {
       "title": "King Charles and Queen Camilla in New York to honour 9/11 victims on US state visit",
       "participants": [
@@ -90,34 +51,43 @@
       "source_url": "https://www.thehindu.com/news/international/us-allies-release-joint-statement-supporting-panamas-sovereignty/article70918952.ece"
     },
     {
-      "title": "Trump welcomes King, Queen to U.S., as high-profile state visit gets underway",
+      "title": "News Wrap: King Charles arrives in Washington for state visit",
       "participants": [
-        "Trump",
-        "King Queen",
-        "U.S"
+        "News Wrap King Charles",
+        "Washington"
       ],
       "date": "",
       "location": "",
-      "description": "Trump welcomes King, Queen to U.S., as high-profile state visit gets underway",
-      "source_url": "https://www.cbc.ca/news/world/king-arrives-us-visit-trump-9.7178922?cmp=rss"
+      "description": "News Wrap: King Charles arrives in Washington for state visit",
+      "source_url": "https://www.pbs.org/newshour/show/news-wrap-king-charles-arrives-in-washington-for-state-visit"
+    },
+    {
+      "title": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "participants": [
+        "Can King Charles’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/can-king-charless-state-visit-to-the-us-help-mend-the-special-relationship"
     }
   ],
   "elections": [
     {
-      "title": "Colombian election reflects on ‘total peace’ promise as violence surges again",
+      "title": "Gingrich: ‘If the election were in May, Republicans would lose’",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Colombian election reflects on ‘total peace’ promise as violence surges again",
-      "source_url": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence"
+      "description": "Gingrich: ‘If the election were in May, Republicans would lose’",
+      "source_url": "https://thehill.com/homenews/campaign/5854814-midterm-elections-republicans-newt-gingrich"
     },
     {
-      "title": "Assembly election exit polls 2026: How accurate were predictions last time for West Bengal, Tamil Nadu, Kerala and others",
+      "title": "Gerry ‘The Monk’ Hutch registered to stand in Dublin Central by-election again",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Assembly election exit polls 2026: How accurate were predictions last time for West Bengal, Tamil Nadu, Kerala and others",
-      "source_url": "https://timesofindia.indiatimes.com/india/assembly-election-exit-polls-2026-how-accurate-were-predictions-last-time-for-west-bengal-tamil-nadu-kerala-and-others/articleshow/130604346.cms"
+      "description": "Gerry ‘The Monk’ Hutch registered to stand in Dublin Central by-election again",
+      "source_url": "https://www.independent.co.uk/news/world/europe/gerry-hutch-dublin-election-monk-b2967371.html"
     },
     {
       "title": "European nation’s citizens back population cap ahead of key referendum",
@@ -126,45 +96,25 @@
       "date": "",
       "description": "European nation’s citizens back population cap ahead of key referendum",
       "source_url": "https://www.independent.co.uk/news/world/europe/switzerland-population-cap-referendum-immigration-b2967100.html"
-    },
-    {
-      "title": "Are Democrats winning elections but losing the narrative?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Are Democrats winning elections but losing the narrative?",
-      "source_url": "https://thehill.com/homenews/campaign/fight-for-2028/5852385-fight-for-2028-democrats-messaging-amie-parnes-ian-swanson-live-discussion"
     }
   ],
   "global_events": [
     {
-      "title": "Indian Tycoon Offers Refuge to Pablo Escobar’s Condemned Hippos",
-      "summary": "Indian Tycoon Offers Refuge to Pablo Escobar’s Condemned Hippos",
+      "title": "Two Jewish men stabbed in London ‘terrorist attack’",
+      "summary": "Two Jewish men stabbed in London ‘terrorist attack’",
       "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "The Guardian World",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/04/29/world/asia/indian-tycoon-ambani-hippos-colombia-escobar.html"
-    },
-    {
-      "title": "Man Pleads Guilty to Planning Attack at Taylor Swift Concert in Vienna",
-      "summary": "Man Pleads Guilty to Planning Attack at Taylor Swift Concert in Vienna",
-      "outlets_covering": [
-        "BBC World",
         "CBC World",
         "CBS News World",
-        "Sky News World",
-        "NYT World"
+        "NBC News World",
+        "Fox News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 5,
-      "region": "Global",
+      "coverage_count": 8,
+      "region": "Europe",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/04/28/world/europe/taylor-swift-austria-guilty-plea.html"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
     },
     {
       "title": "U.S. weighs Iranian proposal that would open Strait of Hormuz but delay nuclear talks",
@@ -181,31 +131,48 @@
       "source_url": "https://www.washingtonpost.com/world/2026/04/27/iran-talks-putin-araghchi-trump-russia"
     },
     {
-      "title": "Russia to hold Victory Day parade without military equipment amid Ukraine war",
-      "summary": "Russia to hold Victory Day parade without military equipment amid Ukraine war",
+      "title": "Iran war has cost $25 billion to date, defense official says",
+      "summary": "Iran war has cost $25 billion to date, defense official says",
       "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "The Independent"
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "The Hill"
       ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
+      "coverage_count": 6,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/russia-hold-victory-day-parade-military-equipment-1st-132485405"
+      "source_url": "https://www.cbsnews.com/news/iran-war-25-billion-hegseth-congress"
     },
     {
-      "title": "Ukraine accuses Israel of importing grain 'stolen' by Russia",
-      "summary": "Ukraine accuses Israel of importing grain 'stolen' by Russia",
+      "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
+      "summary": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "NBC News World",
-        "Time"
+        "The Guardian World",
+        "Time",
+        "Al Jazeera"
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/04/29/g-s1-119153/ukraine-accuses-israel-of-importing-grain-stolen-by-russia"
+      "source_url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
+    },
+    {
+      "title": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
+      "summary": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
+      "outlets_covering": [
+        "NBC News World",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/trump-warns-iran-better-get-smart-soon-and-accept-nuclear-deal/article70921854.ece"
     }
   ]
 }
