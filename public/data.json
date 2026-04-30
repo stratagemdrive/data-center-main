@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T02:01:13.644426Z",
+  "last_updated": "2026-04-30T13:20:52.513100Z",
   "world_org_meetings": [
     {
       "title": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
@@ -28,16 +28,15 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King Charles and Queen Camilla in New York to honour 9/11 victims on US state visit",
+      "title": "Vietnam President Lam to visit India next week to fortify ties amid rising regional tensions",
       "participants": [
-        "King Charles",
-        "Queen Camilla",
-        "York"
+        "Vietnam President Lam",
+        "India"
       ],
       "date": "",
       "location": "",
-      "description": "King Charles and Queen Camilla in New York to honour 9/11 victims on US state visit",
-      "source_url": "https://www.independent.co.uk/news/world/americas/king-charles-camilla-911-memorial-mamdani-b2966979.html"
+      "description": "Vietnam President Lam to visit India next week to fortify ties amid rising regional tensions",
+      "source_url": "https://www.thehindu.com/news/international/vietnam-president-lam-to-visit-india-next-week-to-fortify-ties-amid-rising-regional-tensions/article70924411.ece"
     },
     {
       "title": "U.S., allies release joint statement supporting Panama's sovereignty",
@@ -88,91 +87,81 @@
       "date": "",
       "description": "Gerry ‘The Monk’ Hutch registered to stand in Dublin Central by-election again",
       "source_url": "https://www.independent.co.uk/news/world/europe/gerry-hutch-dublin-election-monk-b2967371.html"
-    },
-    {
-      "title": "European nation’s citizens back population cap ahead of key referendum",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "European nation’s citizens back population cap ahead of key referendum",
-      "source_url": "https://www.independent.co.uk/news/world/europe/switzerland-population-cap-referendum-immigration-b2967100.html"
     }
   ],
   "global_events": [
     {
-      "title": "Two Jewish men stabbed in London ‘terrorist attack’",
-      "summary": "Two Jewish men stabbed in London ‘terrorist attack’",
+      "title": "Israel intercepts Gaza aid flotilla off Greek coast, activists say",
+      "summary": "Israel intercepts Gaza aid flotilla off Greek coast, activists say",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/israel-intercepts-gaza-flotilla-greek-coast-detains-activists"
+    },
+    {
+      "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+      "summary": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
       "outlets_covering": [
         "CBC World",
         "CBS News World",
-        "NBC News World",
         "Fox News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "France24"
+        "NYT World"
       ],
-      "coverage_count": 8,
+      "coverage_count": 4,
       "region": "Europe",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
+      "source_url": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html"
     },
     {
-      "title": "U.S. weighs Iranian proposal that would open Strait of Hormuz but delay nuclear talks",
-      "summary": "U.S. weighs Iranian proposal that would open Strait of Hormuz but delay nuclear talks",
+      "title": "Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.",
+      "summary": "Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.",
       "outlets_covering": [
-        "PBS NewsHour",
-        "NBC News World",
+        "CBS News World",
+        "Sky News World",
         "NYT World",
-        "Wash Post World"
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html"
+    },
+    {
+      "title": "Trump defends war with Iran as gas prices climb to highest level since 2022",
+      "summary": "Trump defends war with Iran as gas prices climb to highest level since 2022",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NYT World",
+        "Axios"
       ],
       "coverage_count": 4,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/04/27/iran-talks-putin-araghchi-trump-russia"
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/trump-defends-war-with-iran-as-gas-prices-climb-to-highest-level-since-2022"
     },
     {
-      "title": "Iran war has cost $25 billion to date, defense official says",
-      "summary": "Iran war has cost $25 billion to date, defense official says",
+      "title": "NYC mayor Zohran Mamdani says he would ask King Charles to return Kohinoor diamond to India",
+      "summary": "NYC mayor Zohran Mamdani says he would ask King Charles to return Kohinoor diamond to India",
       "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
+        "The Independent",
+        "France24",
         "The Hill"
       ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/iran-war-25-billion-hegseth-congress"
-    },
-    {
-      "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-      "summary": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "The Guardian World",
-        "Time",
-        "Al Jazeera"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
+      "coverage_count": 4,
+      "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
-    },
-    {
-      "title": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
-      "summary": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
-      "outlets_covering": [
-        "NBC News World",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/trump-warns-iran-better-get-smart-soon-and-accept-nuclear-deal/article70921854.ece"
+      "source_url": "https://www.independent.co.uk/news/world/americas/zohran-mamdani-king-charles-kohinoor-diamond-new-york-b2967748.html"
     }
   ]
 }
