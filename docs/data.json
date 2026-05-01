@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T02:04:03.496114Z",
+  "last_updated": "2026-05-01T12:55:49.495541Z",
   "world_org_meetings": [
     {
       "title": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
@@ -27,6 +27,27 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Japan joined by 115 nations and regions in joint statement on nuclear weapons",
+      "participants": [
+        "Japan"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Japan joined by 115 nations and regions in joint statement on nuclear weapons",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/01/japan/npt-meeting-joint-statement"
+    },
+    {
+      "title": "King lands in Bermuda after US state visit",
+      "participants": [
+        "King",
+        "Bermuda"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King lands in Bermuda after US state visit",
+      "source_url": "https://news.sky.com/story/king-lands-in-bermuda-after-us-state-visit-as-trump-announces-removal-of-whisky-tariff-in-honour-of-royals-13538726"
+    },
     {
       "title": "Trump says Starmer should ‘learn to deal like the King’ in latest jibe after US state visit",
       "participants": [
@@ -61,19 +82,41 @@
       "location": "",
       "description": "The Most Memorable Photos of King Charles' State Visit to the U.S",
       "source_url": "https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos"
-    },
-    {
-      "title": "Can King Charles’s state visit to the US help mend the special relationship?",
-      "participants": [
-        "Can King Charles’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Can King Charles’s state visit to the US help mend the special relationship?",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/can-king-charless-state-visit-to-the-us-help-mend-the-special-relationship"
     }
   ],
   "elections": [
+    {
+      "title": "Hungary and Bulgaria elections: EU's new ally and new adversary?",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary and Bulgaria elections: EU's new ally and new adversary?",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260501-hungary-and-bulgaria-elections-eu-s-new-ally-and-new-adversary"
+    },
+    {
+      "title": "Antigua and Barbuda prime minister set to win fourth term in election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Antigua and Barbuda prime minister set to win fourth term in election",
+      "source_url": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election"
+    },
+    {
+      "title": "Bond Traders Brace for New Gilts Selloff as Local Elections Loom",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Bond Traders Brace for New Gilts Selloff as Local Elections Loom",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-01/bond-traders-brace-for-new-gilts-selloff-as-local-elections-loom"
+    },
+    {
+      "title": "Ottapidaram Assembly Election Results 2026",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Ottapidaram Assembly Election Results 2026",
+      "source_url": "https://timesofindia.indiatimes.com/india/ottapidaram-assembly-election-results-2026/articleshow/130671474.cms"
+    },
     {
       "title": "Election Commision mandates QR verification at counting halls",
       "country": "",
@@ -81,117 +124,89 @@
       "date": "",
       "description": "Election Commision mandates QR verification at counting halls",
       "source_url": "https://timesofindia.indiatimes.com/india/election-commision-mandates-qr-verification-at-counting-halls/articleshow/130662331.cms"
-    },
-    {
-      "title": "To foil West Bengal post-poll unrest, Election Commission to retain 70,000 CAPF personnel",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "To foil West Bengal post-poll unrest, Election Commission to retain 70,000 CAPF personnel",
-      "source_url": "https://timesofindia.indiatimes.com/india/to-foil-west-bengal-post-poll-unrest-election-commission-to-retain-70000-capf-personnel/articleshow/130657611.cms"
-    },
-    {
-      "title": "West bengal elections: CM Mamata Banerjee claims bid to open EVMs, EC says boxes secure",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "West bengal elections: CM Mamata Banerjee claims bid to open EVMs, EC says boxes secure",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-cm-mamata-banerjee-claims-bid-to-open-evms-ec-says-boxes-secure/articleshow/130654310.cms"
-    },
-    {
-      "title": "Landry suspends Louisiana’s May 16 House primary elections over voting rights ruling",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Landry suspends Louisiana’s May 16 House primary elections over voting rights ruling",
-      "source_url": "https://thehill.com/homenews/campaign/5858012-landry-suspends-louisiana-primary"
-    },
-    {
-      "title": "Kosovo to hold snap elections in June",
-      "country": "",
-      "election_type": "Snap",
-      "date": "",
-      "description": "Kosovo to hold snap elections in June",
-      "source_url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "title": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal",
+      "summary": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "ABC News Intl",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
         "The Independent",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal"
     },
     {
-      "title": "Trump says he’s lifting certain tariffs on Scotch whisky after royal visit",
-      "summary": "Trump says he’s lifting certain tariffs on Scotch whisky after royal visit",
+      "title": "As Iran war hits key 60-day deadline, Congress and Trump face choices",
+      "summary": "As Iran war hits key 60-day deadline, Congress and Trump face choices",
       "outlets_covering": [
         "PBS NewsHour",
-        "The Hindu Intl",
+        "CBS News World",
+        "The Guardian World",
+        "Newsweek",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/trump-says-hes-lifting-certain-tariffs-on-scotch-whisky-after-royal-visit/article70927334.ece"
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/iran-war-powers-resolution-60-day-deadline-congress-trump"
     },
     {
-      "title": "Hezbollah adopts a new weapon: Fiber-optic drones, used widely in the war in Ukraine",
-      "summary": "Hezbollah adopts a new weapon: Fiber-optic drones, used widely in the war in Ukraine",
+      "title": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
+      "summary": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
       "outlets_covering": [
-        "ABC News Intl",
-        "NBC News World",
-        "NYT World",
+        "Sky News World",
+        "The Guardian World",
         "The Independent"
       ],
       "coverage_count": 4,
-      "region": "Europe / Russia",
+      "region": "Europe",
       "category": "Conflict",
-      "source_url": "https://www.nbcnews.com/world/lebanon/hezbollah-adopts-new-weapon-fiber-optic-drones-used-widely-war-ukraine-rcna342990"
+      "source_url": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news"
     },
     {
-      "title": "Iran Will Participate in the World Cup, FIFA Chief Says",
-      "summary": "Iran Will Participate in the World Cup, FIFA Chief Says",
+      "title": "Trump and Hegseth argue Iran war ceasefire stops the clock on 60-day deadline for congressional war powers approval",
+      "summary": "Trump and Hegseth argue Iran war ceasefire stops the clock on 60-day deadline for congressional war powers approval",
       "outlets_covering": [
-        "Sky News World",
-        "Time",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/04/30/iran-world-cup-fifa"
-    },
-    {
-      "title": "Iran Vows to Protect Its Nuclear and Missile Capabilities as Oil Prices Soar to Four-Year High",
-      "summary": "Iran Vows to Protect Its Nuclear and Missile Capabilities as Oil Prices Soar to Four-Year High",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
+        "BBC World",
         "CBS News World",
-        "NBC News World",
-        "Time",
-        "The Hindu Intl",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://time.com/article/2026/04/30/iran-war-nuclear-capabilities-trump-deal-strait-of-hormuz"
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-terminated-congress-deadline-trump-hegseth-b2968567.html"
+    },
+    {
+      "title": "US official says Iran war truce 'terminated' hostilities for war powers deadline",
+      "summary": "US official says Iran war truce 'terminated' hostilities for war powers deadline",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260501-us-official-says-iran-war-truce-terminated-hostilities-for-war-powers-deadline-1"
     }
   ]
 }
