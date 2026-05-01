@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T13:20:52.513100Z",
+  "last_updated": "2026-05-01T02:04:03.496114Z",
   "world_org_meetings": [
     {
       "title": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
@@ -28,6 +28,18 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Trump says Starmer should ‘learn to deal like the King’ in latest jibe after US state visit",
+      "participants": [
+        "Trump",
+        "Starmer",
+        "King’"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump says Starmer should ‘learn to deal like the King’ in latest jibe after US state visit",
+      "source_url": "https://www.independent.co.uk/news/uk/politics/donald-trump-king-charles-starmer-state-visit-b2968359.html"
+    },
+    {
       "title": "Vietnam President Lam to visit India next week to fortify ties amid rising regional tensions",
       "participants": [
         "Vietnam President Lam",
@@ -39,26 +51,16 @@
       "source_url": "https://www.thehindu.com/news/international/vietnam-president-lam-to-visit-india-next-week-to-fortify-ties-amid-rising-regional-tensions/article70924411.ece"
     },
     {
-      "title": "U.S., allies release joint statement supporting Panama's sovereignty",
+      "title": "The Most Memorable Photos of King Charles' State Visit to the U.S",
       "participants": [
-        "U.S",
-        "Panama's"
+        "Most Memorable Photos",
+        "King Charles State Visit",
+        "U.S"
       ],
       "date": "",
       "location": "",
-      "description": "U.S., allies release joint statement supporting Panama's sovereignty",
-      "source_url": "https://www.thehindu.com/news/international/us-allies-release-joint-statement-supporting-panamas-sovereignty/article70918952.ece"
-    },
-    {
-      "title": "News Wrap: King Charles arrives in Washington for state visit",
-      "participants": [
-        "News Wrap King Charles",
-        "Washington"
-      ],
-      "date": "",
-      "location": "",
-      "description": "News Wrap: King Charles arrives in Washington for state visit",
-      "source_url": "https://www.pbs.org/newshour/show/news-wrap-king-charles-arrives-in-washington-for-state-visit"
+      "description": "The Most Memorable Photos of King Charles' State Visit to the U.S",
+      "source_url": "https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos"
     },
     {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
@@ -73,26 +75,50 @@
   ],
   "elections": [
     {
-      "title": "Gingrich: ‘If the election were in May, Republicans would lose’",
+      "title": "Election Commision mandates QR verification at counting halls",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Gingrich: ‘If the election were in May, Republicans would lose’",
-      "source_url": "https://thehill.com/homenews/campaign/5854814-midterm-elections-republicans-newt-gingrich"
+      "description": "Election Commision mandates QR verification at counting halls",
+      "source_url": "https://timesofindia.indiatimes.com/india/election-commision-mandates-qr-verification-at-counting-halls/articleshow/130662331.cms"
     },
     {
-      "title": "Gerry ‘The Monk’ Hutch registered to stand in Dublin Central by-election again",
+      "title": "To foil West Bengal post-poll unrest, Election Commission to retain 70,000 CAPF personnel",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Gerry ‘The Monk’ Hutch registered to stand in Dublin Central by-election again",
-      "source_url": "https://www.independent.co.uk/news/world/europe/gerry-hutch-dublin-election-monk-b2967371.html"
+      "description": "To foil West Bengal post-poll unrest, Election Commission to retain 70,000 CAPF personnel",
+      "source_url": "https://timesofindia.indiatimes.com/india/to-foil-west-bengal-post-poll-unrest-election-commission-to-retain-70000-capf-personnel/articleshow/130657611.cms"
+    },
+    {
+      "title": "West bengal elections: CM Mamata Banerjee claims bid to open EVMs, EC says boxes secure",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "West bengal elections: CM Mamata Banerjee claims bid to open EVMs, EC says boxes secure",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-cm-mamata-banerjee-claims-bid-to-open-evms-ec-says-boxes-secure/articleshow/130654310.cms"
+    },
+    {
+      "title": "Landry suspends Louisiana’s May 16 House primary elections over voting rights ruling",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Landry suspends Louisiana’s May 16 House primary elections over voting rights ruling",
+      "source_url": "https://thehill.com/homenews/campaign/5858012-landry-suspends-louisiana-primary"
+    },
+    {
+      "title": "Kosovo to hold snap elections in June",
+      "country": "",
+      "election_type": "Snap",
+      "date": "",
+      "description": "Kosovo to hold snap elections in June",
+      "source_url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Israel intercepts Gaza aid flotilla off Greek coast, activists say",
-      "summary": "Israel intercepts Gaza aid flotilla off Greek coast, activists say",
+      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "summary": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -101,67 +127,71 @@
         "NYT World",
         "The Guardian World",
         "The Independent",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/israel-intercepts-gaza-flotilla-greek-coast-detains-activists"
+      "source_url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
-      "summary": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+      "title": "Trump says he’s lifting certain tariffs on Scotch whisky after royal visit",
+      "summary": "Trump says he’s lifting certain tariffs on Scotch whisky after royal visit",
       "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World"
+        "PBS NewsHour",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/trump-says-hes-lifting-certain-tariffs-on-scotch-whisky-after-royal-visit/article70927334.ece"
+    },
+    {
+      "title": "Hezbollah adopts a new weapon: Fiber-optic drones, used widely in the war in Ukraine",
+      "summary": "Hezbollah adopts a new weapon: Fiber-optic drones, used widely in the war in Ukraine",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NBC News World",
+        "NYT World",
+        "The Independent"
       ],
       "coverage_count": 4,
-      "region": "Europe",
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html"
+      "source_url": "https://www.nbcnews.com/world/lebanon/hezbollah-adopts-new-weapon-fiber-optic-drones-used-widely-war-ukraine-rcna342990"
     },
     {
-      "title": "Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.",
-      "summary": "Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.",
+      "title": "Iran Will Participate in the World Cup, FIFA Chief Says",
+      "summary": "Iran Will Participate in the World Cup, FIFA Chief Says",
       "outlets_covering": [
-        "CBS News World",
         "Sky News World",
-        "NYT World",
-        "The Hill"
+        "Time",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html"
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://time.com/article/2026/04/30/iran-world-cup-fifa"
     },
     {
-      "title": "Trump defends war with Iran as gas prices climb to highest level since 2022",
-      "summary": "Trump defends war with Iran as gas prices climb to highest level since 2022",
+      "title": "Iran Vows to Protect Its Nuclear and Missile Capabilities as Oil Prices Soar to Four-Year High",
+      "summary": "Iran Vows to Protect Its Nuclear and Missile Capabilities as Oil Prices Soar to Four-Year High",
       "outlets_covering": [
-        "BBC World",
+        "PBS NewsHour",
+        "ABC News Intl",
         "CBS News World",
-        "NYT World",
-        "Axios"
+        "NBC News World",
+        "Time",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/trump-defends-war-with-iran-as-gas-prices-climb-to-highest-level-since-2022"
-    },
-    {
-      "title": "NYC mayor Zohran Mamdani says he would ask King Charles to return Kohinoor diamond to India",
-      "summary": "NYC mayor Zohran Mamdani says he would ask King Charles to return Kohinoor diamond to India",
-      "outlets_covering": [
-        "The Independent",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/zohran-mamdani-king-charles-kohinoor-diamond-new-york-b2967748.html"
+      "source_url": "https://time.com/article/2026/04/30/iran-war-nuclear-capabilities-trump-deal-strait-of-hormuz"
     }
   ]
 }
