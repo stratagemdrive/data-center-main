@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-01T12:55:49.495541Z",
+  "last_updated": "2026-05-02T01:51:39.345784Z",
   "world_org_meetings": [
+    {
+      "title": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3352197/chinas-un-envoy-blasts-us-bullying-sanctions-widen-trump-xi-talks"
+    },
     {
       "title": "US condemns Iran’s leadership role at UN nuclear conference as ‘beyond shameful’",
       "organization": "UN",
@@ -28,6 +36,17 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "King Charles III wins praise for deft handling of Trump on his US state visit",
+      "participants": [
+        "King Charles III",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "King Charles III wins praise for deft handling of Trump on his US state visit",
+      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-wins-praise-deft-handling-trump-132571129"
+    },
+    {
       "title": "Japan joined by 115 nations and regions in joint statement on nuclear weapons",
       "participants": [
         "Japan"
@@ -36,29 +55,6 @@
       "location": "",
       "description": "Japan joined by 115 nations and regions in joint statement on nuclear weapons",
       "source_url": "https://www.japantimes.co.jp/news/2026/05/01/japan/npt-meeting-joint-statement"
-    },
-    {
-      "title": "King lands in Bermuda after US state visit",
-      "participants": [
-        "King",
-        "Bermuda"
-      ],
-      "date": "",
-      "location": "",
-      "description": "King lands in Bermuda after US state visit",
-      "source_url": "https://news.sky.com/story/king-lands-in-bermuda-after-us-state-visit-as-trump-announces-removal-of-whisky-tariff-in-honour-of-royals-13538726"
-    },
-    {
-      "title": "Trump says Starmer should ‘learn to deal like the King’ in latest jibe after US state visit",
-      "participants": [
-        "Trump",
-        "Starmer",
-        "King’"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump says Starmer should ‘learn to deal like the King’ in latest jibe after US state visit",
-      "source_url": "https://www.independent.co.uk/news/uk/politics/donald-trump-king-charles-starmer-state-visit-b2968359.html"
     },
     {
       "title": "Vietnam President Lam to visit India next week to fortify ties amid rising regional tensions",
@@ -72,26 +68,32 @@
       "source_url": "https://www.thehindu.com/news/international/vietnam-president-lam-to-visit-india-next-week-to-fortify-ties-amid-rising-regional-tensions/article70924411.ece"
     },
     {
-      "title": "The Most Memorable Photos of King Charles' State Visit to the U.S",
+      "title": "Can King Charles’s state visit to the US help mend the special relationship?",
       "participants": [
-        "Most Memorable Photos",
-        "King Charles State Visit",
-        "U.S"
+        "Can King Charles’s"
       ],
       "date": "",
       "location": "",
-      "description": "The Most Memorable Photos of King Charles' State Visit to the U.S",
-      "source_url": "https://time.com/article/2026/04/27/king-charles-queen-camilla-state-visit-america-white-house-trump-photos"
+      "description": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/can-king-charless-state-visit-to-the-us-help-mend-the-special-relationship"
     }
   ],
   "elections": [
     {
-      "title": "Hungary and Bulgaria elections: EU's new ally and new adversary?",
-      "country": "Hungary",
+      "title": "Election Commission orders repolling in 15 booths in two Bengal seats",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Hungary and Bulgaria elections: EU's new ally and new adversary?",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260501-hungary-and-bulgaria-elections-eu-s-new-ally-and-new-adversary"
+      "description": "Election Commission orders repolling in 15 booths in two Bengal seats",
+      "source_url": "https://timesofindia.indiatimes.com/india/election-commission-orders-repolling-in-15-booths-in-two-bengal-seats/articleshow/130708101.cms"
+    },
+    {
+      "title": "West Bengal elections: TMC alleges strongroom breaches, BJP mocks claim",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "West Bengal elections: TMC alleges strongroom breaches, BJP mocks claim",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-tmc-alleges-strongroom-breaches-bjp-mocks-claim/articleshow/130705174.cms"
     },
     {
       "title": "Antigua and Barbuda prime minister set to win fourth term in election",
@@ -102,111 +104,106 @@
       "source_url": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election"
     },
     {
-      "title": "Bond Traders Brace for New Gilts Selloff as Local Elections Loom",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Bond Traders Brace for New Gilts Selloff as Local Elections Loom",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-05-01/bond-traders-brace-for-new-gilts-selloff-as-local-elections-loom"
-    },
-    {
-      "title": "Ottapidaram Assembly Election Results 2026",
+      "title": "Landry suspends Louisiana’s May 16 House primary elections over voting rights ruling",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Ottapidaram Assembly Election Results 2026",
-      "source_url": "https://timesofindia.indiatimes.com/india/ottapidaram-assembly-election-results-2026/articleshow/130671474.cms"
+      "description": "Landry suspends Louisiana’s May 16 House primary elections over voting rights ruling",
+      "source_url": "https://thehill.com/homenews/campaign/5858012-landry-suspends-louisiana-primary"
     },
     {
-      "title": "Election Commision mandates QR verification at counting halls",
+      "title": "Kosovo to hold snap elections in June",
       "country": "",
-      "election_type": "National",
+      "election_type": "Snap",
       "date": "",
-      "description": "Election Commision mandates QR verification at counting halls",
-      "source_url": "https://timesofindia.indiatimes.com/india/election-commision-mandates-qr-verification-at-counting-halls/articleshow/130662331.cms"
+      "description": "Kosovo to hold snap elections in June",
+      "source_url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal",
-      "summary": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal"
-    },
-    {
-      "title": "As Iran war hits key 60-day deadline, Congress and Trump face choices",
-      "summary": "As Iran war hits key 60-day deadline, Congress and Trump face choices",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "The Guardian World",
-        "Newsweek",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/iran-war-powers-resolution-60-day-deadline-congress-trump"
-    },
-    {
-      "title": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
-      "summary": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
+      "title": "Trump Threatens to Withdraw U.S. Troops From Italy and Spain as Europe Rift Widens",
+      "summary": "Trump Threatens to Withdraw U.S. Troops From Italy and Spain as Europe Rift Widens",
       "outlets_covering": [
         "Sky News World",
         "The Guardian World",
+        "Time",
         "The Independent"
       ],
       "coverage_count": 4,
       "region": "Europe",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news"
+      "source_url": "https://time.com/article/2026/05/01/trump-threatens-to-withdraw-us-troops-italy-spain-europe-iran-war"
     },
     {
-      "title": "Trump and Hegseth argue Iran war ceasefire stops the clock on 60-day deadline for congressional war powers approval",
-      "summary": "Trump and Hegseth argue Iran war ceasefire stops the clock on 60-day deadline for congressional war powers approval",
+      "title": "Trump tells Congress \"hostilities\" with Iran have \"terminated\"",
+      "summary": "Trump tells Congress \"hostilities\" with Iran have \"terminated\"",
       "outlets_covering": [
         "BBC World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
+        "The Guardian World",
+        "The Hindu Intl",
+        "The Hill",
+        "Vox"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/trump-iran-war-powers-act-hostilities-terminated"
+    },
+    {
+      "title": "Trump \"not satisfied\" with new peace deal offered by Iran",
+      "summary": "Trump \"not satisfied\" with new peace deal offered by Iran",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
         "The Guardian World",
         "The Independent",
         "Al Jazeera",
         "France24",
-        "Foreign Policy",
-        "The Hill"
+        "The Hindu Intl",
+        "Axios",
+        "Vox"
       ],
-      "coverage_count": 11,
+      "coverage_count": 10,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-terminated-congress-deadline-trump-hegseth-b2968567.html"
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire"
     },
     {
-      "title": "US official says Iran war truce 'terminated' hostilities for war powers deadline",
-      "summary": "US official says Iran war truce 'terminated' hostilities for war powers deadline",
+      "title": "Narges Mohammadi, Iranian Nobel Laureate, Is Hospitalized",
+      "summary": "Narges Mohammadi, Iranian Nobel Laureate, Is Hospitalized",
       "outlets_covering": [
+        "ABC News Intl",
+        "Fox News World",
+        "NYT World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/01/world/middleeast/narges-mohammadi-iran-hospialized.html"
+    },
+    {
+      "title": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces",
+      "summary": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces",
+      "outlets_covering": [
+        "CBC World",
         "CBS News World",
+        "NBC News World",
         "The Guardian World",
         "Al Jazeera",
-        "France24",
+        "Japan Times",
         "The Hindu Intl",
-        "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 9,
-      "region": "Middle East",
+      "coverage_count": 8,
+      "region": "Europe",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260501-us-official-says-iran-war-truce-terminated-hostilities-for-war-powers-deadline-1"
+      "source_url": "https://www.cbc.ca/news/world/us-troops-germany-withdraw-nato-trump-9.7185198?cmp=rss"
     }
   ]
 }
