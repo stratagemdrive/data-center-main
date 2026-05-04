@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-04T01:56:07.307780Z",
+  "last_updated": "2026-05-04T13:22:14.454290Z",
   "world_org_meetings": [
+    {
+      "title": "‘Far beyond’ EU and NATO: Armenia hosts EPC summit cast as ‘gateway’ in shifting diplomatic order",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "‘Far beyond’ EU and NATO: Armenia hosts EPC summit cast as ‘gateway’ in shifting diplomatic order",
+      "source_url": "https://www.france24.com/en/video/20260504-far-beyond-eu-and-nato-armenia-hosts-epc-summit-cast-as-gateway-in-shifting-diplomatic-order-1"
+    },
     {
       "title": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
       "organization": "UN",
@@ -28,29 +36,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "participants": [
-        "Taiwan",
-        "Eswatini",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "source_url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "King Charles III wins praise for deft handling of Trump on his US state visit",
-      "participants": [
-        "King Charles III",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "King Charles III wins praise for deft handling of Trump on his US state visit",
-      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-wins-praise-deft-handling-trump-132571129"
-    },
-    {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
       "participants": [
         "Can King Charles’s"
@@ -63,83 +48,100 @@
   ],
   "elections": [
     {
-      "title": "LFI's Mélenchon to stand in 2027 French presidential election",
-      "country": "",
-      "election_type": "Presidential",
+      "title": "Saffron spreads, a splash of new colour: How India's power map has changed after 2026 assembly elections",
+      "country": "India",
+      "election_type": "National",
       "date": "",
-      "description": "LFI's Mélenchon to stand in 2027 French presidential election",
-      "source_url": "https://www.france24.com/en/france/20260503-lfi-s-m%C3%A9lenchon-to-stand-in-2027-french-presidential-election"
+      "description": "Saffron spreads, a splash of new colour: How India's power map has changed after 2026 assembly elections",
+      "source_url": "https://timesofindia.indiatimes.com/india/saffron-spreads-a-splash-of-new-colour-how-indias-power-map-has-changed/articleshow/130770257.cms"
     },
     {
-      "title": "Assembly elections 2026: From East to South, key battlegrounds to watch out for",
+      "title": "Chavara Election Results 2026: RSP’s Shibu baby John defeats independent candidate Dr. Sujith Vijayanpillai by 18,573 votes",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Assembly elections 2026: From East to South, key battlegrounds to watch out for",
-      "source_url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-from-east-to-south-key-battlegrounds-to-watch-out-for/articleshow/130735959.cms"
+      "description": "Chavara Election Results 2026: RSP’s Shibu baby John defeats independent candidate Dr. Sujith Vijayanpillai by 18,573 votes",
+      "source_url": "https://timesofindia.indiatimes.com/india/chavara-election-results-2026/articleshow/130675224.cms"
     },
     {
-      "title": "Fish, fury &amp; 90 lakh voters: What stood out in assembly election 2026 campaign trail",
+      "title": "Tarur SC election results 2026: CPI(M)-led LDF Sumod wins Tarur SC seat by over 11900 votes",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Fish, fury &amp; 90 lakh voters: What stood out in assembly election 2026 campaign trail",
-      "source_url": "https://timesofindia.indiatimes.com/india/fish-fury-90-lakh-voters-what-stood-out-in-assembly-election-2026-campaign-trail/articleshow/130733285.cms"
+      "description": "Tarur SC election results 2026: CPI(M)-led LDF Sumod wins Tarur SC seat by over 11900 votes",
+      "source_url": "https://timesofindia.indiatimes.com/india/tarur-sc-election-results-2026/articleshow/130717891.cms"
     },
     {
-      "title": "Kerala election result 2026: Date, time and where to follow live counting of votes - full schedule",
+      "title": "Karunagapally Election Results 2026: INC’s C.R. Mahesh defeats CPI’s M.S. Thara by 2,6618 votes",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Kerala election result 2026: Date, time and where to follow live counting of votes - full schedule",
-      "source_url": "https://timesofindia.indiatimes.com/india/kerala-election-result-2026-date-time-and-where-to-follow-live-counting-of-votes-full-schedule/articleshow/130734619.cms"
+      "description": "Karunagapally Election Results 2026: INC’s C.R. Mahesh defeats CPI’s M.S. Thara by 2,6618 votes",
+      "source_url": "https://timesofindia.indiatimes.com/india/karunagapally-election-results-2026/articleshow/130675181.cms"
     },
     {
-      "title": "Kerala assembly election results 2026: Key heavyweights who could shape the verdict",
+      "title": "Aranmula Election Results 2026: INC’s Abin Varkey Kodiyattu defeats CPI(M)’s Veena George by 18985 votes",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Kerala assembly election results 2026: Key heavyweights who could shape the verdict",
-      "source_url": "https://timesofindia.indiatimes.com/india/kerala-assembly-election-results-2026-key-heavyweights-who-could-shape-the-verdict/articleshow/130733895.cms"
+      "description": "Aranmula Election Results 2026: INC’s Abin Varkey Kodiyattu defeats CPI(M)’s Veena George by 18985 votes",
+      "source_url": "https://timesofindia.indiatimes.com/india/aranmula-election-results-2026/articleshow/130675028.cms"
     }
   ],
   "global_events": [
     {
-      "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
-      "summary": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "summary": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
         "ABC News Intl",
+        "CBS News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
-        "Newsweek"
+        "The Independent"
       ],
-      "coverage_count": 14,
+      "coverage_count": 18,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html"
+      "source_url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran says US has responded to its latest peace proposal",
-      "summary": "Iran says US has responded to its latest peace proposal",
+      "title": "Cruise ship waiting for help after suspected outbreak of hantavirus onboard killed 3",
+      "summary": "Cruise ship waiting for help after suspected outbreak of hantavirus onboard killed 3",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
         "CBS News World",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
-        "France24",
-        "The Hindu Intl"
+        "The Independent"
       ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 18,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://abcnews.com/International/wireStory/cruise-ship-waiting-after-suspected-outbreak-rare-hantavirus-132630269"
+    },
+    {
+      "title": "2 U.S. service members missing after military exercises in Morocco",
+      "summary": "2 U.S. service members missing after military exercises in Morocco",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "The Guardian World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/05/04/g-s1-119963/2-us-service-members-missing-in-morocco"
     },
     {
       "title": "Ukraine hits Russian oil assets, including \"shadow fleet\" tankers",
@@ -157,33 +159,20 @@
       "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-strikes-shadow-fleet-oil-infrastructure"
     },
     {
-      "title": "Two US service members missing after joint military exercises in Morocco",
-      "summary": "Two US service members missing after joint military exercises in Morocco",
+      "title": "Trump says he is reviewing new Iranian proposal to end war",
+      "summary": "Trump says he is reviewing new Iranian proposal to end war",
       "outlets_covering": [
         "PBS NewsHour",
-        "The Guardian World",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/africa/20260503-two-us-service-members-missing-after-joint-military-exercises-in-morocco"
-    },
-    {
-      "title": "Iranian Nobel Peace Prize laureate Narges Mohammadi hospitalized after health crisis in prison",
-      "summary": "Iranian Nobel Peace Prize laureate Narges Mohammadi hospitalized after health crisis in prison",
-      "outlets_covering": [
-        "PBS NewsHour",
+        "CBC World",
         "ABC News Intl",
         "NYT World",
-        "DW World",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "Vox"
       ],
-      "coverage_count": 5,
+      "coverage_count": 8,
       "region": "Middle East",
-      "category": "Health",
-      "source_url": "https://www.pbs.org/newshour/world/iranian-nobel-peace-prize-laureate-narges-mohammadi-hospitalized-after-health-crisis-in-prison"
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/trump-says-he-is-reviewing-new-iranian-proposal-to-end-war"
     }
   ]
 }
