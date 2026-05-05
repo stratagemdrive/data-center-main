@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-05T01:56:06.633206Z",
+  "last_updated": "2026-05-05T13:12:22.225443Z",
   "world_org_meetings": [
+    {
+      "title": "Armenia hosts a historic European Union summit as the country charts a course away from Russia",
+      "organization": "EU",
+      "date": "",
+      "location": "",
+      "description": "Armenia hosts a historic European Union summit as the country charts a course away from Russia",
+      "source_url": "https://abcnews.com/International/wireStory/armenia-hosts-historic-eu-summit-charts-russia-132662533"
+    },
     {
       "title": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
       "organization": "UN",
@@ -16,14 +24,6 @@
       "location": "",
       "description": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/imf-world-bank-spring-meeting-programming-at-the-atlantic-council-featured-in-an-arab-news-article-on-pakistans-focus-on-enhancing-trade-and-investment-with-the-us"
-    },
-    {
-      "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
     }
   ],
   "diplomatic_visits": [
@@ -40,6 +40,14 @@
   ],
   "elections": [
     {
+      "title": "Alberta separatists say they have enough signatures for referendum on leaving Canada",
+      "country": "Canada",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Alberta separatists say they have enough signatures for referendum on leaving Canada",
+      "source_url": "https://www.foxnews.com/world/alberta-separatists-say-enough-signatures-referendum-leaving-canada"
+    },
+    {
       "title": "Modi's party takes control of India's West Bengal in key state election",
       "country": "India",
       "election_type": "National",
@@ -48,44 +56,55 @@
       "source_url": "https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election"
     },
     {
-      "title": "Vikravandi election results 2026: PMK's Sivakumar C wins against TVK's Vijai Vadivel A",
+      "title": "Macron backs Armenia’s pro-Europe PM as re-election campaign draws to close",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "Macron backs Armenia’s pro-Europe PM as re-election campaign draws to close",
+      "source_url": "https://www.theguardian.com/world/2026/may/05/macron-backs-armenia-pro-europe-pm-nikol-pashinyan-re-election"
+    },
+    {
+      "title": "West Bengal election result 2026: Mamata Banerjee refuses to resign, rejects poll defeat - what happens now?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Vikravandi election results 2026: PMK's Sivakumar C wins against TVK's Vijai Vadivel A",
-      "source_url": "https://timesofindia.indiatimes.com/india/vikravandi-election-results-2026/articleshow/130717699.cms"
+      "description": "West Bengal election result 2026: Mamata Banerjee refuses to resign, rejects poll defeat - what happens now?",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-result-2026-mamata-banerjee-refuses-to-resign-rejects-poll-defeat-what-happens-now/articleshow/130827361.cms"
     },
     {
-      "title": "Ulundurpettai election results 2026: DMK's Vasanthavel G R wins against AIADMK's Kumaraguru R",
+      "title": "What Modi’s big win in Indian state elections could mean for its democracy",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Ulundurpettai election results 2026: DMK's Vasanthavel G R wins against AIADMK's Kumaraguru R",
-      "source_url": "https://timesofindia.indiatimes.com/india/ulundurpettai-election-results-2026/articleshow/130717787.cms"
-    },
-    {
-      "title": "West Bengal elections: Bhabanipur hands Mamata her most personal loss",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "West Bengal elections: Bhabanipur hands Mamata her most personal loss",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-bhabanipur-hands-mamata-her-most-personal-loss/articleshow/130813811.cms"
-    },
-    {
-      "title": "The LDP is losing local elections. Should Takaichi be worried?",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "The LDP is losing local elections. Should Takaichi be worried?",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/05/japan/politics/takaichi-popularity-ldp-local-struggles"
+      "description": "What Modi’s big win in Indian state elections could mean for its democracy",
+      "source_url": "https://www.aljazeera.com/news/2026/5/5/what-modis-big-win-in-indian-state-elections-could-mean-for-its-democracy?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Suspected hantavirus outbreak on cruise ship kills 3, health officials say",
-      "summary": "Suspected hantavirus outbreak on cruise ship kills 3, health officials say",
+      "title": "An explosion at a fireworks plant in China kills at least 26 people, state media says",
+      "summary": "An explosion at a fireworks plant in China kills at least 26 people, state media says",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "DW World",
+        "Japan Times"
+      ],
+      "coverage_count": 10,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/explosion-fireworks-plant-china-kills-21-people-state-132658212"
+    },
+    {
+      "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
+      "summary": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
+      "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "CBC World",
@@ -94,78 +113,63 @@
         "NBC News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World"
+        "The Guardian World",
+        "Time"
       ],
-      "coverage_count": 24,
+      "coverage_count": 25,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.cbsnews.com/video/suspected-hantavirus-outbreak-on-cruise-ship-kills-3-health-officials-say"
+      "source_url": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html"
     },
     {
-      "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
-      "summary": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
+      "title": "Modi’s party wins control of India's West Bengal for first time",
+      "summary": "Modi’s party wins control of India's West Bengal for first time",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
+        "NYT World",
+        "The Guardian World",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 5,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260505-modi-s-party-wins-control-of-india-s-west-bengal-for-first-time"
+    },
+    {
+      "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+      "summary": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+      "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "CBC World",
         "ABC News Intl",
         "CBS News World",
         "NBC News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg"
+        "Time"
       ],
-      "coverage_count": 23,
+      "coverage_count": 25,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html"
     },
     {
-      "title": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
-      "summary": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
+      "title": "Romania PM Ilie Bolojan’s government toppled in no-confidence vote",
+      "summary": "Romania PM Ilie Bolojan’s government toppled in no-confidence vote",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Wash Post World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/middle-east/20260504-us-and-uae-report-iran-attacks-as-military-pushes-to-reopen-strait-of-hormuz"
-    },
-    {
-      "title": "Modi’s BJP poised to take control in India’s West Bengal",
-      "summary": "Modi’s BJP poised to take control in India’s West Bengal",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/video-modis-bjp-poised-to-take-control-in-indias-west-bengal?traffic_source=rss"
-    },
-    {
-      "title": "Ukraine and Russia declare separate truces",
-      "summary": "Ukraine and Russia declare separate truces",
-      "outlets_covering": [
-        "CBS News World",
         "Al Jazeera",
-        "The Hindu Intl"
+        "DW World",
+        "France24",
+        "Atlantic Council"
       ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
+      "coverage_count": 5,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/ukraine-and-russia-declare-separate-truces/article70940571.ece"
+      "source_url": "https://www.aljazeera.com/news/2026/5/5/romania-pm-ilie-bolojans-government-toppled-in-no-confidence-vote?traffic_source=rss"
     }
   ]
 }
