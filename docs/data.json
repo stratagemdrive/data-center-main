@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-05-04T13:22:14.454290Z",
+  "last_updated": "2026-05-05T01:56:06.633206Z",
   "world_org_meetings": [
-    {
-      "title": "‘Far beyond’ EU and NATO: Armenia hosts EPC summit cast as ‘gateway’ in shifting diplomatic order",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "‘Far beyond’ EU and NATO: Armenia hosts EPC summit cast as ‘gateway’ in shifting diplomatic order",
-      "source_url": "https://www.france24.com/en/video/20260504-far-beyond-eu-and-nato-armenia-hosts-epc-summit-cast-as-gateway-in-shifting-diplomatic-order-1"
-    },
     {
       "title": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
       "organization": "UN",
@@ -48,50 +40,50 @@
   ],
   "elections": [
     {
-      "title": "Saffron spreads, a splash of new colour: How India's power map has changed after 2026 assembly elections",
+      "title": "Modi's party takes control of India's West Bengal in key state election",
       "country": "India",
       "election_type": "National",
       "date": "",
-      "description": "Saffron spreads, a splash of new colour: How India's power map has changed after 2026 assembly elections",
-      "source_url": "https://timesofindia.indiatimes.com/india/saffron-spreads-a-splash-of-new-colour-how-indias-power-map-has-changed/articleshow/130770257.cms"
+      "description": "Modi's party takes control of India's West Bengal in key state election",
+      "source_url": "https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election"
     },
     {
-      "title": "Chavara Election Results 2026: RSP’s Shibu baby John defeats independent candidate Dr. Sujith Vijayanpillai by 18,573 votes",
+      "title": "Vikravandi election results 2026: PMK's Sivakumar C wins against TVK's Vijai Vadivel A",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Chavara Election Results 2026: RSP’s Shibu baby John defeats independent candidate Dr. Sujith Vijayanpillai by 18,573 votes",
-      "source_url": "https://timesofindia.indiatimes.com/india/chavara-election-results-2026/articleshow/130675224.cms"
+      "description": "Vikravandi election results 2026: PMK's Sivakumar C wins against TVK's Vijai Vadivel A",
+      "source_url": "https://timesofindia.indiatimes.com/india/vikravandi-election-results-2026/articleshow/130717699.cms"
     },
     {
-      "title": "Tarur SC election results 2026: CPI(M)-led LDF Sumod wins Tarur SC seat by over 11900 votes",
+      "title": "Ulundurpettai election results 2026: DMK's Vasanthavel G R wins against AIADMK's Kumaraguru R",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Tarur SC election results 2026: CPI(M)-led LDF Sumod wins Tarur SC seat by over 11900 votes",
-      "source_url": "https://timesofindia.indiatimes.com/india/tarur-sc-election-results-2026/articleshow/130717891.cms"
+      "description": "Ulundurpettai election results 2026: DMK's Vasanthavel G R wins against AIADMK's Kumaraguru R",
+      "source_url": "https://timesofindia.indiatimes.com/india/ulundurpettai-election-results-2026/articleshow/130717787.cms"
     },
     {
-      "title": "Karunagapally Election Results 2026: INC’s C.R. Mahesh defeats CPI’s M.S. Thara by 2,6618 votes",
+      "title": "West Bengal elections: Bhabanipur hands Mamata her most personal loss",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Karunagapally Election Results 2026: INC’s C.R. Mahesh defeats CPI’s M.S. Thara by 2,6618 votes",
-      "source_url": "https://timesofindia.indiatimes.com/india/karunagapally-election-results-2026/articleshow/130675181.cms"
+      "description": "West Bengal elections: Bhabanipur hands Mamata her most personal loss",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-elections-bhabanipur-hands-mamata-her-most-personal-loss/articleshow/130813811.cms"
     },
     {
-      "title": "Aranmula Election Results 2026: INC’s Abin Varkey Kodiyattu defeats CPI(M)’s Veena George by 18985 votes",
+      "title": "The LDP is losing local elections. Should Takaichi be worried?",
       "country": "",
-      "election_type": "National",
+      "election_type": "Local",
       "date": "",
-      "description": "Aranmula Election Results 2026: INC’s Abin Varkey Kodiyattu defeats CPI(M)’s Veena George by 18985 votes",
-      "source_url": "https://timesofindia.indiatimes.com/india/aranmula-election-results-2026/articleshow/130675028.cms"
+      "description": "The LDP is losing local elections. Should Takaichi be worried?",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/05/japan/politics/takaichi-popularity-ldp-local-struggles"
     }
   ],
   "global_events": [
     {
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "summary": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "title": "Suspected hantavirus outbreak on cruise ship kills 3, health officials say",
+      "summary": "Suspected hantavirus outbreak on cruise ship kills 3, health officials say",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -99,19 +91,19 @@
         "CBC World",
         "ABC News Intl",
         "CBS News World",
+        "NBC News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
-        "The Independent"
+        "The Guardian World"
       ],
-      "coverage_count": 18,
+      "coverage_count": 24,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/video/suspected-hantavirus-outbreak-on-cruise-ship-kills-3-health-officials-say"
     },
     {
-      "title": "Cruise ship waiting for help after suspected outbreak of hantavirus onboard killed 3",
-      "summary": "Cruise ship waiting for help after suspected outbreak of hantavirus onboard killed 3",
+      "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
+      "summary": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -122,57 +114,58 @@
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "The Independent"
+        "Bloomberg"
       ],
-      "coverage_count": 18,
+      "coverage_count": 23,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://abcnews.com/International/wireStory/cruise-ship-waiting-after-suspected-outbreak-rare-hantavirus-132630269"
+      "source_url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "2 U.S. service members missing after military exercises in Morocco",
-      "summary": "2 U.S. service members missing after military exercises in Morocco",
+      "title": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
+      "summary": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
       "outlets_covering": [
         "NPR World",
-        "PBS NewsHour",
-        "The Guardian World",
-        "The Independent"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/05/04/g-s1-119963/2-us-service-members-missing-in-morocco"
-    },
-    {
-      "title": "Ukraine hits Russian oil assets, including \"shadow fleet\" tankers",
-      "summary": "Ukraine hits Russian oil assets, including \"shadow fleet\" tankers",
-      "outlets_covering": [
-        "BBC World",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-strikes-shadow-fleet-oil-infrastructure"
-    },
-    {
-      "title": "Trump says he is reviewing new Iranian proposal to end war",
-      "summary": "Trump says he is reviewing new Iranian proposal to end war",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "NYT World",
+        "NBC News World",
+        "Wash Post World",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "Vox"
+        "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/trump-says-he-is-reviewing-new-iranian-proposal-to-end-war"
+      "source_url": "https://www.france24.com/en/middle-east/20260504-us-and-uae-report-iran-attacks-as-military-pushes-to-reopen-strait-of-hormuz"
+    },
+    {
+      "title": "Modi’s BJP poised to take control in India’s West Bengal",
+      "summary": "Modi’s BJP poised to take control in India’s West Bengal",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/video-modis-bjp-poised-to-take-control-in-indias-west-bengal?traffic_source=rss"
+    },
+    {
+      "title": "Ukraine and Russia declare separate truces",
+      "summary": "Ukraine and Russia declare separate truces",
+      "outlets_covering": [
+        "CBS News World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/ukraine-and-russia-declare-separate-truces/article70940571.ece"
     }
   ]
 }
