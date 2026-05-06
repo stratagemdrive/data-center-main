@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T13:12:22.225443Z",
+  "last_updated": "2026-05-06T01:54:46.503021Z",
   "world_org_meetings": [
     {
       "title": "Armenia hosts a historic European Union summit as the country charts a course away from Russia",
@@ -10,23 +10,33 @@
       "source_url": "https://abcnews.com/International/wireStory/armenia-hosts-historic-eu-summit-charts-russia-132662533"
     },
     {
-      "title": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3352197/chinas-un-envoy-blasts-us-bullying-sanctions-widen-trump-xi-talks"
-    },
-    {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
       "date": "",
       "location": "",
       "description": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/imf-world-bank-spring-meeting-programming-at-the-atlantic-council-featured-in-an-arab-news-article-on-pakistans-focus-on-enhancing-trade-and-investment-with-the-us"
+    },
+    {
+      "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "EU, Armenia sign new partnership deals at first bilateral summit",
+      "participants": [
+        "Armenia"
+      ],
+      "date": "",
+      "location": "",
+      "description": "EU, Armenia sign new partnership deals at first bilateral summit",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260505-eu-armenia-sign-new-partnership-deals-at-first-bilateral-summit"
+    },
     {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
       "participants": [
@@ -40,6 +50,14 @@
   ],
   "elections": [
     {
+      "title": "India: West Bengal election win boosts Modi's BJP",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "India: West Bengal election win boosts Modi's BJP",
+      "source_url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "Alberta separatists say they have enough signatures for referendum on leaving Canada",
       "country": "Canada",
       "election_type": "Referendum",
@@ -48,36 +66,28 @@
       "source_url": "https://www.foxnews.com/world/alberta-separatists-say-enough-signatures-referendum-leaving-canada"
     },
     {
-      "title": "Modi's party takes control of India's West Bengal in key state election",
-      "country": "India",
-      "election_type": "National",
-      "date": "",
-      "description": "Modi's party takes control of India's West Bengal in key state election",
-      "source_url": "https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election"
-    },
-    {
-      "title": "Macron backs Armenia’s pro-Europe PM as re-election campaign draws to close",
-      "country": "Armenia",
-      "election_type": "National",
-      "date": "",
-      "description": "Macron backs Armenia’s pro-Europe PM as re-election campaign draws to close",
-      "source_url": "https://www.theguardian.com/world/2026/may/05/macron-backs-armenia-pro-europe-pm-nikol-pashinyan-re-election"
-    },
-    {
-      "title": "West Bengal election result 2026: Mamata Banerjee refuses to resign, rejects poll defeat - what happens now?",
+      "title": "Assembly election results: Wave of change rolls over three states, sweeps away two CMs, 50 ministers",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "West Bengal election result 2026: Mamata Banerjee refuses to resign, rejects poll defeat - what happens now?",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-result-2026-mamata-banerjee-refuses-to-resign-rejects-poll-defeat-what-happens-now/articleshow/130827361.cms"
+      "description": "Assembly election results: Wave of change rolls over three states, sweeps away two CMs, 50 ministers",
+      "source_url": "https://timesofindia.indiatimes.com/india/wave-of-change-rolls-over-three-states-sweeps-away-two-cms-50-ministers/articleshow/130841651.cms"
     },
     {
-      "title": "What Modi’s big win in Indian state elections could mean for its democracy",
+      "title": "Landsman, Conroy to clash in Ohio House election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "What Modi’s big win in Indian state elections could mean for its democracy",
-      "source_url": "https://www.aljazeera.com/news/2026/5/5/what-modis-big-win-in-indian-state-elections-could-mean-for-its-democracy?traffic_source=rss"
+      "description": "Landsman, Conroy to clash in Ohio House election",
+      "source_url": "https://thehill.com/homenews/campaign/5858241-landsman-conroy-ohio-house-election"
+    },
+    {
+      "title": "Live results: Indiana holds House primary elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Live results: Indiana holds House primary elections",
+      "source_url": "https://thehill.com/homenews/campaign/5852697-live-results-indiana-house-primary-elections"
     }
   ],
   "global_events": [
@@ -102,74 +112,73 @@
       "source_url": "https://abcnews.com/International/wireStory/explosion-fireworks-plant-china-kills-21-people-state-132658212"
     },
     {
-      "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
-      "summary": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Time"
-      ],
-      "coverage_count": 25,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html"
-    },
-    {
-      "title": "Modi’s party wins control of India's West Bengal for first time",
-      "summary": "Modi’s party wins control of India's West Bengal for first time",
-      "outlets_covering": [
-        "NPR World",
-        "NYT World",
-        "The Guardian World",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 5,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260505-modi-s-party-wins-control-of-india-s-west-bengal-for-first-time"
-    },
-    {
       "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
       "summary": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "NBC News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Time"
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 25,
+      "coverage_count": 23,
       "region": "Global",
       "category": "Health",
       "source_url": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html"
     },
     {
-      "title": "Romania PM Ilie Bolojan’s government toppled in no-confidence vote",
-      "summary": "Romania PM Ilie Bolojan’s government toppled in no-confidence vote",
+      "title": "Romania's pro-European PM ousted in no confidence vote",
+      "summary": "Romania's pro-European PM ousted in no confidence vote",
       "outlets_covering": [
-        "The Guardian World",
-        "Al Jazeera",
-        "DW World",
-        "France24",
+        "BBC World",
+        "Sky News World",
+        "The Independent",
+        "Japan Times",
         "Atlantic Council"
       ],
       "coverage_count": 5,
-      "region": "Global",
+      "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/5/5/romania-pm-ilie-bolojans-government-toppled-in-no-confidence-vote?traffic_source=rss"
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/06/world/politics/romania-pro-europe-pm-ousted"
+    },
+    {
+      "title": "Human-to-human transmission of killer hantavirus suspected in cruise ship outbreak",
+      "summary": "Human-to-human transmission of killer hantavirus suspected in cruise ship outbreak",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "The Independent"
+      ],
+      "coverage_count": 24,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://www.cbc.ca/news/health/hantavirus-human-transmission-9.7188555?cmp=rss"
+    },
+    {
+      "title": "India: West Bengal election win boosts Modi's BJP",
+      "summary": "India: West Bengal election win boosts Modi's BJP",
+      "outlets_covering": [
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "DW World"
+      ],
+      "coverage_count": 5,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf"
     }
   ]
 }
