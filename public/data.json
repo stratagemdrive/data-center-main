@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-05-06T01:54:46.503021Z",
+  "last_updated": "2026-05-06T13:30:02.161233Z",
   "world_org_meetings": [
     {
-      "title": "Armenia hosts a historic European Union summit as the country charts a course away from Russia",
-      "organization": "EU",
+      "title": "ASEAN’s Angry Summit",
+      "organization": "ASEAN",
       "date": "",
       "location": "",
-      "description": "Armenia hosts a historic European Union summit as the country charts a course away from Russia",
-      "source_url": "https://abcnews.com/International/wireStory/armenia-hosts-historic-eu-summit-charts-russia-132662533"
+      "description": "ASEAN’s Angry Summit",
+      "source_url": "https://foreignpolicy.com/2026/05/06/asean-cebu-leaders-summit-philippines-fuel-crisis"
+    },
+    {
+      "title": "Thai Foreign Minister seeks ASEAN talks with Myanmar counterpart",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Thai Foreign Minister seeks ASEAN talks with Myanmar counterpart",
+      "source_url": "https://www.thehindu.com/news/international/thai-foreign-minister-seeks-asean-talks-with-myanmar-counterpart/article70942816.ece"
     },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
@@ -28,14 +36,28 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "EU, Armenia sign new partnership deals at first bilateral summit",
+      "title": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
       "participants": [
-        "Armenia"
+        "China",
+        "Iran",
+        "Trump's"
       ],
       "date": "",
       "location": "",
-      "description": "EU, Armenia sign new partnership deals at first bilateral summit",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260505-eu-armenia-sign-new-partnership-deals-at-first-bilateral-summit"
+      "description": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+      "source_url": "https://abcnews.com/International/wireStory/china-stepping-iran-war-diplomacy-ahead-trumps-summit-132701727"
+    },
+    {
+      "title": "Vietnam President To Lam accorded ceremonial welcome at Rashtrapati Bhavan on his maiden visit to India",
+      "participants": [
+        "Vietnam President To Lam",
+        "Rashtrapati Bhavan",
+        "India"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Vietnam President To Lam accorded ceremonial welcome at Rashtrapati Bhavan on his maiden visit to India",
+      "source_url": "https://www.thehindu.com/news/international/vietnam-president-to-lam-accorded-ceremonial-welcome-at-rashtrapati-bhavan-on-his-maiden-visit-to-india/article70945979.ece"
     },
     {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
@@ -58,64 +80,60 @@
       "source_url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Alberta separatists say they have enough signatures for referendum on leaving Canada",
-      "country": "Canada",
-      "election_type": "Referendum",
+      "title": "Local elections could hasten the exit of Britain's embattled prime minister",
+      "country": "Britain",
+      "election_type": "Local",
       "date": "",
-      "description": "Alberta separatists say they have enough signatures for referendum on leaving Canada",
-      "source_url": "https://www.foxnews.com/world/alberta-separatists-say-enough-signatures-referendum-leaving-canada"
+      "description": "Local elections could hasten the exit of Britain's embattled prime minister",
+      "source_url": "https://abcnews.com/International/wireStory/local-elections-hasten-exit-britains-embattled-prime-minister-132698003"
     },
     {
-      "title": "Assembly election results: Wave of change rolls over three states, sweeps away two CMs, 50 ministers",
+      "title": "Modi’s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "Modi’s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India",
+      "source_url": "https://www.nytimes.com/2026/05/05/world/asia/india-modi-congress-west-bengal-elections.html"
+    },
+    {
+      "title": "Looking ahead to the UK's local elections with British politics expert Colm Murphy",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Looking ahead to the UK's local elections with British politics expert Colm Murphy",
+      "source_url": "https://www.france24.com/en/tv-shows/perspective/20260506-looking-ahead-to-the-uk-s-local-elections-with-british-politics-expert-colm-murphy"
+    },
+    {
+      "title": "Antigua and Barbuda politicians drop longstanding oath to King Charles after election landslide",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Assembly election results: Wave of change rolls over three states, sweeps away two CMs, 50 ministers",
-      "source_url": "https://timesofindia.indiatimes.com/india/wave-of-change-rolls-over-three-states-sweeps-away-two-cms-50-ministers/articleshow/130841651.cms"
-    },
-    {
-      "title": "Landsman, Conroy to clash in Ohio House election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Landsman, Conroy to clash in Ohio House election",
-      "source_url": "https://thehill.com/homenews/campaign/5858241-landsman-conroy-ohio-house-election"
-    },
-    {
-      "title": "Live results: Indiana holds House primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Live results: Indiana holds House primary elections",
-      "source_url": "https://thehill.com/homenews/campaign/5852697-live-results-indiana-house-primary-elections"
+      "description": "Antigua and Barbuda politicians drop longstanding oath to King Charles after election landslide",
+      "source_url": "https://www.independent.co.uk/news/world/americas/antigua-and-barbuda-king-charles-oath-b2971276.html"
     }
   ],
   "global_events": [
     {
-      "title": "An explosion at a fireworks plant in China kills at least 26 people, state media says",
-      "summary": "An explosion at a fireworks plant in China kills at least 26 people, state media says",
+      "title": "Fireworks Factory Explosion in China Kills at Least 26",
+      "summary": "Fireworks Factory Explosion in China Kills at Least 26",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
-        "DW World",
-        "Japan Times"
+        "The Hindu Intl"
       ],
-      "coverage_count": 10,
+      "coverage_count": 7,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/explosion-fireworks-plant-china-kills-21-people-state-132658212"
+      "source_url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html"
     },
     {
-      "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
-      "summary": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+      "title": "3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak",
+      "summary": "3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak",
       "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
@@ -123,62 +141,64 @@
         "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Time",
-        "The Independent"
-      ],
-      "coverage_count": 23,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html"
-    },
-    {
-      "title": "Romania's pro-European PM ousted in no confidence vote",
-      "summary": "Romania's pro-European PM ousted in no confidence vote",
-      "outlets_covering": [
-        "BBC World",
-        "Sky News World",
+        "Newsweek",
         "The Independent",
-        "Japan Times",
-        "Atlantic Council"
-      ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/06/world/politics/romania-pro-europe-pm-ousted"
-    },
-    {
-      "title": "Human-to-human transmission of killer hantavirus suspected in cruise ship outbreak",
-      "summary": "Human-to-human transmission of killer hantavirus suspected in cruise ship outbreak",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Time",
-        "The Independent"
+        "The Hindu Intl"
       ],
       "coverage_count": 24,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.cbc.ca/news/health/hantavirus-human-transmission-9.7188555?cmp=rss"
+      "source_url": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html"
     },
     {
-      "title": "India: West Bengal election win boosts Modi's BJP",
-      "summary": "India: West Bengal election win boosts Modi's BJP",
+      "title": "Atlantic Cruise ship Hantavirus outbreak: What we know so far",
+      "summary": "Atlantic Cruise ship Hantavirus outbreak: What we know so far",
       "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
+        "Newsweek",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 24,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://www.thehindu.com/news/international/antlantic-cruise-ship-hantavirus-outbreak-what-we-know-symptoms-treatment-deadly-virus/article70945765.ece"
+    },
+    {
+      "title": "Trump threatens Iran with more bombing if it doesn’t agree to peace deal",
+      "summary": "Trump threatens Iran with more bombing if it doesn’t agree to peace deal",
+      "outlets_covering": [
+        "NBC News World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/homenews/administration/5865608-trump-threatens-iran-attacks"
+    },
+    {
+      "title": "US suspends Hormuz operation: Washington believes close to deal with Iran",
+      "summary": "US suspends Hormuz operation: Washington believes close to deal with Iran",
+      "outlets_covering": [
         "Al Jazeera",
-        "DW World"
+        "France24",
+        "The Hindu Intl",
+        "Axios"
       ],
       "coverage_count": 5,
-      "region": "South Asia",
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf"
+      "source_url": "https://www.france24.com/en/us-suspends-hormuz-operation-washington-believes-close-to-deal-with-iran"
     }
   ]
 }
