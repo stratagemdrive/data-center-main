@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-05-07T01:58:30.336630Z",
+  "last_updated": "2026-05-07T13:27:54.572425Z",
   "world_org_meetings": [
-    {
-      "title": "Rising Fuel costs overshadowing agenda for ASEAN summit in the Philippines",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "Rising Fuel costs overshadowing agenda for ASEAN summit in the Philippines",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/rising-fuel-costs-overshadowing-agenda-for-asean-summit-in-the-philippines?traffic_source=rss"
-    },
-    {
-      "title": "Energy crisis front and center as ASEAN leaders prepare for summit",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "Energy crisis front and center as ASEAN leaders prepare for summit",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/07/asia-pacific/politics/energy-crisis-asean-summit"
-    },
     {
       "title": "ASEAN’s Angry Summit",
       "organization": "ASEAN",
@@ -40,20 +24,28 @@
       "location": "",
       "description": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/imf-world-bank-spring-meeting-programming-at-the-atlantic-council-featured-in-an-arab-news-article-on-pakistans-focus-on-enhancing-trade-and-investment-with-the-us"
+    },
+    {
+      "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+      "title": "Paraguay’s president visits Taiwan as pressure from China grows",
       "participants": [
-        "China",
-        "Iran",
-        "Trump's"
+        "Paraguay’s",
+        "Taiwan",
+        "China"
       ],
       "date": "",
       "location": "",
-      "description": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
-      "source_url": "https://www.pbs.org/newshour/world/china-is-stepping-up-its-iran-war-diplomacy-ahead-of-trumps-summit-with-xi"
+      "description": "Paraguay’s president visits Taiwan as pressure from China grows",
+      "source_url": "https://abcnews.com/International/wireStory/paraguays-president-visits-taiwan-pressure-china-grows-132734515"
     },
     {
       "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
@@ -69,6 +61,18 @@
       "source_url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece"
     },
     {
+      "title": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+      "participants": [
+        "China",
+        "Iran",
+        "Trump's"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+      "source_url": "https://www.pbs.org/newshour/world/china-is-stepping-up-its-iran-war-diplomacy-ahead-of-trumps-summit-with-xi"
+    },
+    {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
       "participants": [
         "Can King Charles’s"
@@ -81,6 +85,14 @@
   ],
   "elections": [
     {
+      "title": "Polls open in UK local elections seen as a verdict on Keir Starmer's leadership",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Polls open in UK local elections seen as a verdict on Keir Starmer's leadership",
+      "source_url": "https://abcnews.com/International/wireStory/polls-open-uk-local-elections-verdict-keir-starmers-132735270"
+    },
+    {
       "title": "Local elections could hasten exit of embattled British Prime Minister Starmer",
       "country": "",
       "election_type": "Local",
@@ -89,111 +101,64 @@
       "source_url": "https://www.pbs.org/newshour/world/local-elections-could-hasten-exit-of-embattled-british-prime-minister-starmer"
     },
     {
-      "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
+      "title": "May elections live: Badenoch rows back on Reform pacts as millions cast their votes",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
-      "source_url": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html"
+      "description": "May elections live: Badenoch rows back on Reform pacts as millions cast their votes",
+      "source_url": "https://www.theguardian.com/politics/live/2026/may/07/may-local-elections-polls-open-england-scotland-wales-uk-politics-latest-news-updates"
     },
     {
-      "title": "West Bengal: 9 of 80 TMC MLAs give Mamata’s 1st post-election meet a miss",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "West Bengal: 9 of 80 TMC MLAs give Mamata’s 1st post-election meet a miss",
-      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-9-of-80-tmc-mlas-give-mamatas-1st-post-election-meet-a-miss/articleshow/130874116.cms"
-    },
-    {
-      "title": "Congo's president warns next elections can't take place unless conflict is resolved",
-      "country": "Congo",
-      "election_type": "National",
-      "date": "",
-      "description": "Congo's president warns next elections can't take place unless conflict is resolved",
-      "source_url": "https://abcnews.com/International/wireStory/congos-president-warns-elections-place-conflict-east-resolved-132725840"
-    },
-    {
-      "title": "Starmer's last stand? The UK local elections",
+      "title": "UK voters head to the polls in local elections",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Starmer's last stand? The UK local elections",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260506-starmer-s-last-stand-the-uk-local-elections"
+      "description": "UK voters head to the polls in local elections",
+      "source_url": "https://www.aljazeera.com/news/2026/5/7/uk-voters-head-to-the-polls-in-local-elections?traffic_source=rss"
+    },
+    {
+      "title": "UK voters cast ballots in elections expected to deal blow to Starmer",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "UK voters cast ballots in elections expected to deal blow to Starmer",
+      "source_url": "https://www.france24.com/en/video/20260507-uk-voters-cast-ballots-in-elections-expected-to-deal-blow-to-starmer"
     }
   ],
   "global_events": [
     {
-      "title": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed",
-      "summary": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed",
+      "title": "China Sentences 2 Former Defense Ministers on Bribery Charges",
+      "summary": "China Sentences 2 Former Defense Ministers on Bribery Charges",
       "outlets_covering": [
         "BBC World",
-        "PBS NewsHour",
+        "ABC News Intl",
         "NYT World",
-        "Bloomberg",
-        "Japan Times",
-        "The Hill"
+        "Japan Times"
       ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/07/world/politics/iran-us-proposal-war-demands"
+      "coverage_count": 4,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html"
     },
     {
-      "title": "Medical teams visit cruise ship passengers dealing with hantavirus outbreak",
-      "summary": "Medical teams visit cruise ship passengers dealing with hantavirus outbreak",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 16,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.pbs.org/newshour/world/medical-teams-visit-cruise-ship-passengers-dealing-with-hantavirus-outbreak"
-    },
-    {
-      "title": "US, Iran Weigh Potential Deal, Trump Says ‘We Won’",
-      "summary": "US, Iran Weigh Potential Deal, Trump Says ‘We Won’",
+      "title": "Iran reviewing US proposal to end war",
+      "summary": "Iran reviewing US proposal to end war",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
         "CBS News World",
-        "NBC News World",
-        "Wash Post World",
-        "Bloomberg",
+        "NYT World",
         "Time",
         "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "Foreign Policy"
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-05-07/us-iran-weigh-potential-deal-trump-says-we-won-video"
-    },
-    {
-      "title": "Iran-Israel war LIVE: U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
-      "summary": "Iran-Israel war LIVE: U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 10,
+      "coverage_count": 20,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece"
+      "source_url": "https://thehill.com/policy/international/5867537-iran-reviewing-us-proposal-to-end-war"
     },
     {
       "title": "Israel strikes Beirut suburbs, threatening already shaky ceasefire",
@@ -201,14 +166,48 @@
       "outlets_covering": [
         "BBC World",
         "CBC World",
-        "Wash Post World",
-        "Al Jazeera",
-        "France24"
+        "Wash Post World"
       ],
-      "coverage_count": 5,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik"
+    },
+    {
+      "title": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War",
+      "summary": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "NYT World",
+        "Bloomberg",
+        "Time",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/05/07/world/middleeast/iran-war-us-peace-plan-trump.html"
+    },
+    {
+      "title": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
+      "summary": "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NBC News World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets"
     }
   ]
 }
