@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-05-06T13:30:02.161233Z",
+  "last_updated": "2026-05-07T01:58:30.336630Z",
   "world_org_meetings": [
+    {
+      "title": "Rising Fuel costs overshadowing agenda for ASEAN summit in the Philippines",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Rising Fuel costs overshadowing agenda for ASEAN summit in the Philippines",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/rising-fuel-costs-overshadowing-agenda-for-asean-summit-in-the-philippines?traffic_source=rss"
+    },
+    {
+      "title": "Energy crisis front and center as ASEAN leaders prepare for summit",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Energy crisis front and center as ASEAN leaders prepare for summit",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/07/asia-pacific/politics/energy-crisis-asean-summit"
+    },
     {
       "title": "ASEAN’s Angry Summit",
       "organization": "ASEAN",
@@ -24,14 +40,6 @@
       "location": "",
       "description": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/imf-world-bank-spring-meeting-programming-at-the-atlantic-council-featured-in-an-arab-news-article-on-pakistans-focus-on-enhancing-trade-and-investment-with-the-us"
-    },
-    {
-      "title": "Five ideas to make the upcoming NATO Summit in Ankara a success",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Five ideas to make the upcoming NATO Summit in Ankara a success",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/five-ideas-to-make-the-upcoming-nato-summit-in-ankara-a-success"
     }
   ],
   "diplomatic_visits": [
@@ -45,19 +53,20 @@
       "date": "",
       "location": "",
       "description": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
-      "source_url": "https://abcnews.com/International/wireStory/china-stepping-iran-war-diplomacy-ahead-trumps-summit-132701727"
+      "source_url": "https://www.pbs.org/newshour/world/china-is-stepping-up-its-iran-war-diplomacy-ahead-of-trumps-summit-with-xi"
     },
     {
-      "title": "Vietnam President To Lam accorded ceremonial welcome at Rashtrapati Bhavan on his maiden visit to India",
+      "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
       "participants": [
-        "Vietnam President To Lam",
-        "Rashtrapati Bhavan",
-        "India"
+        "Rubio",
+        "India",
+        "Quad Foreign Ministers’",
+        "May-end"
       ],
       "date": "",
       "location": "",
-      "description": "Vietnam President To Lam accorded ceremonial welcome at Rashtrapati Bhavan on his maiden visit to India",
-      "source_url": "https://www.thehindu.com/news/international/vietnam-president-to-lam-accorded-ceremonial-welcome-at-rashtrapati-bhavan-on-his-maiden-visit-to-india/article70945979.ece"
+      "description": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
+      "source_url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece"
     },
     {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
@@ -72,133 +81,134 @@
   ],
   "elections": [
     {
-      "title": "India: West Bengal election win boosts Modi's BJP",
-      "country": "India",
-      "election_type": "National",
-      "date": "",
-      "description": "India: West Bengal election win boosts Modi's BJP",
-      "source_url": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Local elections could hasten the exit of Britain's embattled prime minister",
-      "country": "Britain",
-      "election_type": "Local",
-      "date": "",
-      "description": "Local elections could hasten the exit of Britain's embattled prime minister",
-      "source_url": "https://abcnews.com/International/wireStory/local-elections-hasten-exit-britains-embattled-prime-minister-132698003"
-    },
-    {
-      "title": "Modi’s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India",
-      "country": "India",
-      "election_type": "National",
-      "date": "",
-      "description": "Modi’s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India",
-      "source_url": "https://www.nytimes.com/2026/05/05/world/asia/india-modi-congress-west-bengal-elections.html"
-    },
-    {
-      "title": "Looking ahead to the UK's local elections with British politics expert Colm Murphy",
+      "title": "Local elections could hasten exit of embattled British Prime Minister Starmer",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Looking ahead to the UK's local elections with British politics expert Colm Murphy",
-      "source_url": "https://www.france24.com/en/tv-shows/perspective/20260506-looking-ahead-to-the-uk-s-local-elections-with-british-politics-expert-colm-murphy"
+      "description": "Local elections could hasten exit of embattled British Prime Minister Starmer",
+      "source_url": "https://www.pbs.org/newshour/world/local-elections-could-hasten-exit-of-embattled-british-prime-minister-starmer"
     },
     {
-      "title": "Antigua and Barbuda politicians drop longstanding oath to King Charles after election landslide",
+      "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Antigua and Barbuda politicians drop longstanding oath to King Charles after election landslide",
-      "source_url": "https://www.independent.co.uk/news/world/americas/antigua-and-barbuda-king-charles-oath-b2971276.html"
+      "description": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
+      "source_url": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html"
+    },
+    {
+      "title": "West Bengal: 9 of 80 TMC MLAs give Mamata’s 1st post-election meet a miss",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "West Bengal: 9 of 80 TMC MLAs give Mamata’s 1st post-election meet a miss",
+      "source_url": "https://timesofindia.indiatimes.com/india/west-bengal-9-of-80-tmc-mlas-give-mamatas-1st-post-election-meet-a-miss/articleshow/130874116.cms"
+    },
+    {
+      "title": "Congo's president warns next elections can't take place unless conflict is resolved",
+      "country": "Congo",
+      "election_type": "National",
+      "date": "",
+      "description": "Congo's president warns next elections can't take place unless conflict is resolved",
+      "source_url": "https://abcnews.com/International/wireStory/congos-president-warns-elections-place-conflict-east-resolved-132725840"
+    },
+    {
+      "title": "Starmer's last stand? The UK local elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Starmer's last stand? The UK local elections",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260506-starmer-s-last-stand-the-uk-local-elections"
     }
   ],
   "global_events": [
     {
-      "title": "Fireworks Factory Explosion in China Kills at Least 26",
-      "summary": "Fireworks Factory Explosion in China Kills at Least 26",
+      "title": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed",
+      "summary": "Iran reviewing U.S. proposal to end war, though key demands remain unaddressed",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "NYT World",
+        "Bloomberg",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/07/world/politics/iran-us-proposal-war-demands"
+    },
+    {
+      "title": "Medical teams visit cruise ship passengers dealing with hantavirus outbreak",
+      "summary": "Medical teams visit cruise ship passengers dealing with hantavirus outbreak",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "The Guardian World",
+        "Wash Post World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "UN News"
+      ],
+      "coverage_count": 16,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://www.pbs.org/newshour/world/medical-teams-visit-cruise-ship-passengers-dealing-with-hantavirus-outbreak"
+    },
+    {
+      "title": "US, Iran Weigh Potential Deal, Trump Says ‘We Won’",
+      "summary": "US, Iran Weigh Potential Deal, Trump Says ‘We Won’",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "Wash Post World",
+        "Bloomberg",
+        "Time",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 15,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-05-07/us-iran-weigh-potential-deal-trump-says-we-won-video"
+    },
+    {
+      "title": "Iran-Israel war LIVE: U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+      "summary": "Iran-Israel war LIVE: U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece"
+    },
+    {
+      "title": "Israel strikes Beirut suburbs, threatening already shaky ceasefire",
+      "summary": "Israel strikes Beirut suburbs, threatening already shaky ceasefire",
       "outlets_covering": [
         "BBC World",
         "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html"
-    },
-    {
-      "title": "3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak",
-      "summary": "3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Newsweek",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 24,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html"
-    },
-    {
-      "title": "Atlantic Cruise ship Hantavirus outbreak: What we know so far",
-      "summary": "Atlantic Cruise ship Hantavirus outbreak: What we know so far",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Newsweek",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 24,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.thehindu.com/news/international/antlantic-cruise-ship-hantavirus-outbreak-what-we-know-symptoms-treatment-deadly-virus/article70945765.ece"
-    },
-    {
-      "title": "Trump threatens Iran with more bombing if it doesn’t agree to peace deal",
-      "summary": "Trump threatens Iran with more bombing if it doesn’t agree to peace deal",
-      "outlets_covering": [
-        "NBC News World",
-        "NYT World",
-        "Time",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/homenews/administration/5865608-trump-threatens-iran-attacks"
-    },
-    {
-      "title": "US suspends Hormuz operation: Washington believes close to deal with Iran",
-      "summary": "US suspends Hormuz operation: Washington believes close to deal with Iran",
-      "outlets_covering": [
+        "Wash Post World",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "Axios"
+        "France24"
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/us-suspends-hormuz-operation-washington-believes-close-to-deal-with-iran"
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik"
     }
   ]
 }
