@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-08T02:04:52.543264Z",
+  "last_updated": "2026-05-08T13:08:07.009682Z",
   "world_org_meetings": [
+    {
+      "title": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates"
+    },
+    {
+      "title": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
+      "source_url": "https://www.thehindu.com/news/national/india-pushes-for-inclusive-migration-stronger-anti-trafficking-laws-at-united-nations-general-assembly/article70953987.ece"
+    },
+    {
+      "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
+      "source_url": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss"
+    },
     {
       "title": "ASEAN’s Angry Summit",
       "organization": "ASEAN",
@@ -19,18 +43,6 @@
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "Paraguay’s president visits Taiwan as pressure from China grows",
-      "participants": [
-        "Paraguay’s",
-        "Taiwan",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Paraguay’s president visits Taiwan as pressure from China grows",
-      "source_url": "https://abcnews.com/International/wireStory/paraguays-president-visits-taiwan-pressure-china-grows-132734515"
-    },
     {
       "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
       "participants": [
@@ -69,6 +81,14 @@
   ],
   "elections": [
     {
+      "title": "Keir Starmer's Labour braces for heavy losses in UK local elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Keir Starmer's Labour braces for heavy losses in UK local elections",
+      "source_url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections"
+    },
+    {
       "title": "British voters cast ballots in local elections seen as a verdict on Keir Starmer's leadership",
       "country": "",
       "election_type": "Local",
@@ -77,126 +97,116 @@
       "source_url": "https://www.pbs.org/newshour/world/british-voters-cast-ballots-in-local-elections-seen-as-a-verdict-on-keir-starmers-leadership"
     },
     {
-      "title": "Local elections could hasten exit of embattled British Prime Minister Starmer",
+      "title": "Live Updates: Early U.K. Local Election Results Point to Big Losses for Starmer’s Party",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Local elections could hasten exit of embattled British Prime Minister Starmer",
-      "source_url": "https://www.pbs.org/newshour/world/local-elections-could-hasten-exit-of-embattled-british-prime-minister-starmer"
+      "description": "Live Updates: Early U.K. Local Election Results Point to Big Losses for Starmer’s Party",
+      "source_url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results"
     },
     {
-      "title": "Elections 2026 live: Labour suffers early losses as results begin to arrive in England",
+      "title": "What’s at Stake in the UK’s Local Elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "What’s at Stake in the UK’s Local Elections",
+      "source_url": "https://www.nytimes.com/2026/05/08/world/europe/uk-local-elections-starmer.html"
+    },
+    {
+      "title": "Elections 2026 live: ‘I’m not going to walk away,’ says Starmer as Farage hails ‘historic shift in British politics’",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Elections 2026 live: Labour suffers early losses as results begin to arrive in England",
+      "description": "Elections 2026 live: ‘I’m not going to walk away,’ says Starmer as Farage hails ‘historic shift in British politics’",
       "source_url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates"
-    },
-    {
-      "title": "South Korea heads to local elections under shadow of disgraced former president",
-      "country": "South Korea",
-      "election_type": "Local",
-      "date": "",
-      "description": "South Korea heads to local elections under shadow of disgraced former president",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/08/asia-pacific/politics/south-korea-local-electons"
-    },
-    {
-      "title": "2026 election results: latest from local, Scottish and Welsh votes",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "2026 election results: latest from local, Scottish and Welsh votes",
-      "source_url": "https://www.theguardian.com/politics/ng-interactive/2026/may/07/local-elections-2026-may-full-results-england-scotland-wales"
     }
   ],
   "global_events": [
     {
-      "title": "US military says it intercepted Iranian attacks in Strait of Hormuz",
-      "summary": "US military says it intercepted Iranian attacks in Strait of Hormuz",
+      "title": "U.S. says it intercepted Iranian attacks on 3 navy ships in Strait of Hormuz",
+      "summary": "U.S. says it intercepted Iranian attacks on 3 navy ships in Strait of Hormuz",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "The Independent",
-        "France24",
-        "The Hill"
+        "NYT World",
+        "The Independent"
       ],
       "coverage_count": 8,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/middle-east/20260508-us-military-says-it-intercepted-iranian-attacks-in-strait-of-hormuz"
+      "source_url": "https://www.cbc.ca/news/world/us-intercept-iran-attacks-strait-of-hormuz-9.7191876?cmp=rss"
     },
     {
-      "title": "China gives suspended death sentences to 2 ex-defense ministers",
-      "summary": "China gives suspended death sentences to 2 ex-defense ministers",
+      "title": "Trump says ceasefire still intact after fire exchanged",
+      "summary": "Trump says ceasefire still intact after fire exchanged",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/homenews/administration/5869360-donald-trump-us-iran-ceasefire-fresh-attacks"
+    },
+    {
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "summary": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
       "outlets_covering": [
         "BBC World",
         "NPR World",
-        "ABC News Intl",
         "NYT World",
-        "Japan Times"
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 5,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/05/07/g-s1-120688/china-gives-suspended-death-sentences-to-2-former-defense-ministers-accused-of-bribery"
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Singapore Tests Two for Hantavirus After Deadly Cruise Outbreak",
-      "summary": "Singapore Tests Two for Hantavirus After Deadly Cruise Outbreak",
+      "title": "First Thing: US-Iran ceasefire at risk after exchange of fire in strait of Hormuz",
+      "summary": "First Thing: US-Iran ceasefire at risk after exchange of fire in strait of Hormuz",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "Fox News World",
-        "Bloomberg",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl",
-        "UN News",
-        "The Hill"
-      ],
-      "coverage_count": 11,
-      "region": "East / Southeast Asia",
-      "category": "Health",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-05-08/singapore-tests-two-for-hantavirus-after-deadly-cruise-outbreak"
-    },
-    {
-      "title": "US-Iran ceasefire under threat after exchange of strikes in strait of Hormuz",
-      "summary": "US-Iran ceasefire under threat after exchange of strikes in strait of Hormuz",
-      "outlets_covering": [
         "PBS NewsHour",
         "NBC News World",
         "NYT World",
         "The Guardian World",
+        "Al Jazeera",
         "France24",
-        "Japan Times",
         "The Hill",
         "Axios"
       ],
       "coverage_count": 13,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz"
+      "source_url": "https://www.theguardian.com/us-news/2026/may/08/first-thing-us-iran-ceasefire-at-risk-exchange-fire-strait-of-hormuz"
     },
     {
-      "title": "U.S. trade court rules against Trump's global 10% tariff",
-      "summary": "U.S. trade court rules against Trump's global 10% tariff",
+      "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak",
+      "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak",
       "outlets_covering": [
-        "CBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
         "The Guardian World",
         "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "Japan Times",
+        "France24",
         "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "UN News"
       ],
-      "coverage_count": 9,
+      "coverage_count": 17,
       "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/us-trade-court-rules-against-trumps-global-10-tariff/article70952884.ece"
+      "category": "Health",
+      "source_url": "https://www.cbsnews.com/news/hantavirus-cases-deadly-cruise-ship-outbreak"
     }
   ]
 }
