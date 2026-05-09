@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-05-08T13:08:07.009682Z",
+  "last_updated": "2026-05-09T01:58:58.623117Z",
   "world_org_meetings": [
     {
-      "title": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live",
+      "title": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – as it happened",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live",
+      "description": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – as it happened",
       "source_url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates"
+    },
+    {
+      "title": "'We need a decisive European pillar inside NATO': Parliamentary Assembly President Perestrello",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "'We need a decisive European pillar inside NATO': Parliamentary Assembly President Perestrello",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260508-we-need-a-decisive-european-pillar-inside-nato-parliamentary-assembly-president-perestrello"
     },
     {
       "title": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
@@ -16,22 +24,6 @@
       "location": "",
       "description": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
       "source_url": "https://www.thehindu.com/news/national/india-pushes-for-inclusive-migration-stronger-anti-trafficking-laws-at-united-nations-general-assembly/article70953987.ece"
-    },
-    {
-      "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
-      "source_url": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss"
-    },
-    {
-      "title": "ASEAN’s Angry Summit",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "ASEAN’s Angry Summit",
-      "source_url": "https://foreignpolicy.com/2026/05/06/asean-cebu-leaders-summit-philippines-fuel-crisis"
     },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
@@ -44,29 +36,25 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
+      "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
-        "Rubio",
-        "India",
-        "Quad Foreign Ministers’",
-        "May-end"
+        "Cover Story"
       ],
       "date": "",
       "location": "",
-      "description": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
-      "source_url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece"
+      "description": "Cover Story newsletter: The summit of suspicion",
+      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     },
     {
-      "title": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+      "title": "‘How good a president is Trump?’ Commander-in-Chief polls workers in site visit to Lincoln Memorial reflecting pool rehab",
       "participants": [
-        "China",
-        "Iran",
-        "Trump's"
+        "Trump?’ Commander-in-Chief",
+        "Lincoln Memorial"
       ],
       "date": "",
       "location": "",
-      "description": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
-      "source_url": "https://www.pbs.org/newshour/world/china-is-stepping-up-its-iran-war-diplomacy-ahead-of-trumps-summit-with-xi"
+      "description": "‘How good a president is Trump?’ Commander-in-Chief polls workers in site visit to Lincoln Memorial reflecting pool rehab",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-lincoln-memorial-reflecting-pool-iran-war-b2972725.html"
     },
     {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
@@ -81,132 +69,136 @@
   ],
   "elections": [
     {
-      "title": "Keir Starmer's Labour braces for heavy losses in UK local elections",
+      "title": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Keir Starmer's Labour braces for heavy losses in UK local elections",
-      "source_url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections"
-    },
-    {
-      "title": "British voters cast ballots in local elections seen as a verdict on Keir Starmer's leadership",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "British voters cast ballots in local elections seen as a verdict on Keir Starmer's leadership",
-      "source_url": "https://www.pbs.org/newshour/world/british-voters-cast-ballots-in-local-elections-seen-as-a-verdict-on-keir-starmers-leadership"
-    },
-    {
-      "title": "Live Updates: Early U.K. Local Election Results Point to Big Losses for Starmer’s Party",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Live Updates: Early U.K. Local Election Results Point to Big Losses for Starmer’s Party",
+      "description": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
       "source_url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results"
     },
     {
-      "title": "What’s at Stake in the UK’s Local Elections",
+      "title": "Substantial win for Nigel Farage's Reform UK in local elections",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "What’s at Stake in the UK’s Local Elections",
-      "source_url": "https://www.nytimes.com/2026/05/08/world/europe/uk-local-elections-starmer.html"
+      "description": "Substantial win for Nigel Farage's Reform UK in local elections",
+      "source_url": "https://www.france24.com/en/substantial-win-for-nigel-farage-s-reform-uk-in-local-elections"
     },
     {
-      "title": "Elections 2026 live: ‘I’m not going to walk away,’ says Starmer as Farage hails ‘historic shift in British politics’",
+      "title": "Takeaways From the 2026 U.K. Local Elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Takeaways From the 2026 U.K. Local Elections",
+      "source_url": "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html"
+    },
+    {
+      "title": "Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains – as it happened",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Elections 2026 live: ‘I’m not going to walk away,’ says Starmer as Farage hails ‘historic shift in British politics’",
+      "description": "Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains – as it happened",
       "source_url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates"
+    },
+    {
+      "title": "Nigel Farage hails ‘historic shift in politics’ after Reform UK election gains",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Nigel Farage hails ‘historic shift in politics’ after Reform UK election gains",
+      "source_url": "https://www.theguardian.com/politics/2026/may/08/nigel-farage-reform-uk-election-gains-essex-sunderland"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. says it intercepted Iranian attacks on 3 navy ships in Strait of Hormuz",
-      "summary": "U.S. says it intercepted Iranian attacks on 3 navy ships in Strait of Hormuz",
+      "title": "Trump says Russia, Ukraine agree to his request for three-day ceasefire, prisoner swap",
+      "summary": "Trump says Russia, Ukraine agree to his request for three-day ceasefire, prisoner swap",
       "outlets_covering": [
-        "NPR World",
+        "BBC World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "NYT World",
-        "The Independent"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/us-intercept-iran-attacks-strait-of-hormuz-9.7191876?cmp=rss"
-    },
-    {
-      "title": "Trump says ceasefire still intact after fire exchanged",
-      "summary": "Trump says ceasefire still intact after fire exchanged",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "NYT World",
+        "Sky News World",
+        "The Guardian World",
         "Wash Post World",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/homenews/administration/5869360-donald-trump-us-iran-ceasefire-fresh-attacks"
-    },
-    {
-      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "summary": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "NYT World",
+        "The Independent",
         "Al Jazeera",
         "France24"
       ],
-      "coverage_count": 7,
+      "coverage_count": 14,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.thehindu.com/news/international/russia-ukraine-three-day-ceasefire-prisoner-swap-donald-trump-victory-day/article70957018.ece"
     },
     {
-      "title": "First Thing: US-Iran ceasefire at risk after exchange of fire in strait of Hormuz",
-      "summary": "First Thing: US-Iran ceasefire at risk after exchange of fire in strait of Hormuz",
+      "title": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
+      "summary": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
+        "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 13,
+      "coverage_count": 10,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/may/08/first-thing-us-iran-ceasefire-at-risk-exchange-fire-strait-of-hormuz"
+      "category": "Economy",
+      "source_url": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html"
     },
     {
-      "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak",
-      "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak",
+      "title": "Iran-Israel war LIVE: Trump says expecting Iran response to latest proposal soon",
+      "summary": "Iran-Israel war LIVE: Trump says expecting Iran response to latest proposal soon",
       "outlets_covering": [
+        "NYT World",
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece"
+    },
+    {
+      "title": "Russia’s WWII victory celebrations are muted this year as Ukraine war weighs on Putin",
+      "summary": "Russia’s WWII victory celebrations are muted this year as Ukraine war weighs on Putin",
+      "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/europe/russia-vladimir-putin-ukraine-moscow-kremlin-b2973004.html"
+    },
+    {
+      "title": "U.S. plans evacuation for Americans on cruise ship in hantavirus outbreak",
+      "summary": "U.S. plans evacuation for Americans on cruise ship in hantavirus outbreak",
+      "outlets_covering": [
         "CBS News World",
         "NBC News World",
-        "Fox News World",
         "NYT World",
         "The Guardian World",
         "The Independent",
         "France24",
         "The Hindu Intl",
-        "UN News"
+        "UN News",
+        "The Hill"
       ],
-      "coverage_count": 17,
+      "coverage_count": 15,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.cbsnews.com/news/hantavirus-cases-deadly-cruise-ship-outbreak"
+      "source_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight"
     }
   ]
 }
