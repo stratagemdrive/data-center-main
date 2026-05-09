@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-05-09T01:58:58.623117Z",
+  "last_updated": "2026-05-09T12:53:58.495988Z",
   "world_org_meetings": [
-    {
-      "title": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – as it happened",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – as it happened",
-      "source_url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates"
-    },
-    {
-      "title": "'We need a decisive European pillar inside NATO': Parliamentary Assembly President Perestrello",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "'We need a decisive European pillar inside NATO': Parliamentary Assembly President Perestrello",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260508-we-need-a-decisive-european-pillar-inside-nato-parliamentary-assembly-president-perestrello"
-    },
     {
       "title": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
       "organization": "UN",
@@ -69,14 +53,6 @@
   ],
   "elections": [
     {
-      "title": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
-      "source_url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results"
-    },
-    {
       "title": "Substantial win for Nigel Farage's Reform UK in local elections",
       "country": "",
       "election_type": "Local",
@@ -85,28 +61,36 @@
       "source_url": "https://www.france24.com/en/substantial-win-for-nigel-farage-s-reform-uk-in-local-elections"
     },
     {
-      "title": "Takeaways From the 2026 U.K. Local Elections",
+      "title": "British leader Keir Starmer under pressure after heavy election losses",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "British leader Keir Starmer under pressure after heavy election losses",
+      "source_url": "https://www.theguardian.com/politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses"
+    },
+    {
+      "title": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+      "country": "Australia",
+      "election_type": "National",
+      "date": "",
+      "description": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+      "source_url": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
+    },
+    {
+      "title": "UK local elections: \"Starmer must address voters' frustration over change\"",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Takeaways From the 2026 U.K. Local Elections",
-      "source_url": "https://www.nytimes.com/2026/05/08/world/europe/uk-elections-local-takeaways.html"
+      "description": "UK local elections: \"Starmer must address voters' frustration over change\"",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260509-uk-local-elections-starmer-must-address-voters-frustration-over-change"
     },
     {
-      "title": "Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains – as it happened",
+      "title": "‘We’re coming after those other seats’: Pauline Hanson jubilant as One Nation wins Farrer byelection",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains – as it happened",
-      "source_url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates"
-    },
-    {
-      "title": "Nigel Farage hails ‘historic shift in politics’ after Reform UK election gains",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nigel Farage hails ‘historic shift in politics’ after Reform UK election gains",
-      "source_url": "https://www.theguardian.com/politics/2026/may/08/nigel-farage-reform-uk-election-gains-essex-sunderland"
+      "description": "‘We’re coming after those other seats’: Pauline Hanson jubilant as One Nation wins Farrer byelection",
+      "source_url": "https://www.theguardian.com/australia-news/2026/may/09/farrer-byelection-results-one-nation-michelle-milthorpe-coalition"
     }
   ],
   "global_events": [
@@ -114,21 +98,40 @@
       "title": "Trump says Russia, Ukraine agree to his request for three-day ceasefire, prisoner swap",
       "summary": "Trump says Russia, Ukraine agree to his request for three-day ceasefire, prisoner swap",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "Sky News World",
-        "The Guardian World",
         "Wash Post World",
         "The Independent",
-        "Al Jazeera",
-        "France24"
+        "France24",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 14,
+      "coverage_count": 12,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/russia-ukraine-three-day-ceasefire-prisoner-swap-donald-trump-victory-day/article70957018.ece"
+    },
+    {
+      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "summary": "Putin denounces Nato at scaled back Victory Day parade",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NBC News World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 10,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
@@ -149,56 +152,30 @@
       "source_url": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html"
     },
     {
-      "title": "Iran-Israel war LIVE: Trump says expecting Iran response to latest proposal soon",
-      "summary": "Iran-Israel war LIVE: Trump says expecting Iran response to latest proposal soon",
+      "title": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
+      "summary": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
       "outlets_covering": [
-        "NYT World",
-        "France24",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece"
-    },
-    {
-      "title": "Russia’s WWII victory celebrations are muted this year as Ukraine war weighs on Putin",
-      "summary": "Russia’s WWII victory celebrations are muted this year as Ukraine war weighs on Putin",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/russia-vladimir-putin-ukraine-moscow-kremlin-b2973004.html"
-    },
-    {
-      "title": "U.S. plans evacuation for Americans on cruise ship in hantavirus outbreak",
-      "summary": "U.S. plans evacuation for Americans on cruise ship in hantavirus outbreak",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
         "The Guardian World",
         "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "UN News",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban"
+    },
+    {
+      "title": "Rubio describes Pope Leo meeting as ‘very cordial’ amid Iran tensions",
+      "summary": "Rubio describes Pope Leo meeting as ‘very cordial’ amid Iran tensions",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
         "The Hill"
       ],
-      "coverage_count": 15,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.cbsnews.com/news/hantavirus-cruise-ship-americans-us-evacuation-flight"
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://thehill.com/homenews/administration/5870860-marco-rubio-pope-leo-meeting-iran-tensions"
     }
   ]
 }
