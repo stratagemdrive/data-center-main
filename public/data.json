@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T12:53:58.495988Z",
+  "last_updated": "2026-05-10T01:57:24.676989Z",
   "world_org_meetings": [
     {
       "title": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
@@ -20,6 +20,19 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Obama met with the Canadian prime minister Mark Carney and Trump’s MAGA allies flipped out",
+      "participants": [
+        "Obama",
+        "Canadian",
+        "Mark Carney",
+        "Trump’s MAGA"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Obama met with the Canadian prime minister Mark Carney and Trump’s MAGA allies flipped out",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/barack-obama-mark-carney-maga-b2973589.html"
+    },
+    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -28,17 +41,6 @@
       "location": "",
       "description": "Cover Story newsletter: The summit of suspicion",
       "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
-    },
-    {
-      "title": "‘How good a president is Trump?’ Commander-in-Chief polls workers in site visit to Lincoln Memorial reflecting pool rehab",
-      "participants": [
-        "Trump?’ Commander-in-Chief",
-        "Lincoln Memorial"
-      ],
-      "date": "",
-      "location": "",
-      "description": "‘How good a president is Trump?’ Commander-in-Chief polls workers in site visit to Lincoln Memorial reflecting pool rehab",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-lincoln-memorial-reflecting-pool-iran-war-b2972725.html"
     },
     {
       "title": "Can King Charles’s state visit to the US help mend the special relationship?",
@@ -53,20 +55,36 @@
   ],
   "elections": [
     {
-      "title": "Substantial win for Nigel Farage's Reform UK in local elections",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Substantial win for Nigel Farage's Reform UK in local elections",
-      "source_url": "https://www.france24.com/en/substantial-win-for-nigel-farage-s-reform-uk-in-local-elections"
-    },
-    {
-      "title": "British leader Keir Starmer under pressure after heavy election losses",
+      "title": "Far-Right Australian Party Wins Seat in First Election Victory",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "British leader Keir Starmer under pressure after heavy election losses",
-      "source_url": "https://www.theguardian.com/politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses"
+      "description": "Far-Right Australian Party Wins Seat in First Election Victory",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-10/far-right-australian-party-wins-seat-in-first-election-victory"
+    },
+    {
+      "title": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
+      "source_url": "https://www.thehindu.com/news/international/uk-pm-starmer-turns-to-labour-party-grandees-after-tough-local-election-verdict/article70959672.ece"
+    },
+    {
+      "title": "What to know about British elections that hammered Starmer's Labour Party",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "What to know about British elections that hammered Starmer's Labour Party",
+      "source_url": "https://abcnews.com/International/wireStory/british-elections-hammered-starmers-labour-party-132807038"
+    },
+    {
+      "title": "U.K.'s Starmer faces calls to resign after disastrous local elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "U.K.'s Starmer faces calls to resign after disastrous local elections",
+      "source_url": "https://www.cbsnews.com/news/uk-prime-minister-keir-starmer-election-results-resign"
     },
     {
       "title": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
@@ -75,22 +93,6 @@
       "date": "",
       "description": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
       "source_url": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
-    },
-    {
-      "title": "UK local elections: \"Starmer must address voters' frustration over change\"",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "UK local elections: \"Starmer must address voters' frustration over change\"",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260509-uk-local-elections-starmer-must-address-voters-frustration-over-change"
-    },
-    {
-      "title": "‘We’re coming after those other seats’: Pauline Hanson jubilant as One Nation wins Farrer byelection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "‘We’re coming after those other seats’: Pauline Hanson jubilant as One Nation wins Farrer byelection",
-      "source_url": "https://www.theguardian.com/australia-news/2026/may/09/farrer-byelection-results-one-nation-michelle-milthorpe-coalition"
     }
   ],
   "global_events": [
@@ -104,34 +106,63 @@
         "CBS News World",
         "Sky News World",
         "Wash Post World",
-        "The Independent",
-        "France24",
         "The Hindu Intl",
-        "SCMP"
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 12,
+      "coverage_count": 11,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/russia-ukraine-three-day-ceasefire-prisoner-swap-donald-trump-victory-day/article70957018.ece"
     },
     {
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
-      "summary": "Putin denounces Nato at scaled back Victory Day parade",
+      "title": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
+      "summary": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "NBC News World",
+        "Sky News World",
+        "Fox News World",
         "The Guardian World",
         "The Independent",
-        "Al Jazeera",
         "DW World",
-        "France24",
+        "France24"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end"
+    },
+    {
+      "title": "Israeli airstrikes kill at least 13 in Lebanon as drone strikes near Beirut leave four dead",
+      "summary": "Israeli airstrikes kill at least 13 in Lebanon as drone strikes near Beirut leave four dead",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "ABC News Intl",
+        "The Independent",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 10,
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-beirut-lebanon-drone-airstrikes-b2973678.html"
+    },
+    {
+      "title": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
+      "summary": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
+      "outlets_covering": [
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
       "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban"
     },
     {
       "title": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
@@ -143,39 +174,12 @@
         "NYT World",
         "The Guardian World",
         "The Hindu Intl",
-        "The Hill",
         "Axios"
       ],
-      "coverage_count": 10,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Economy",
       "source_url": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html"
-    },
-    {
-      "title": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
-      "summary": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban"
-    },
-    {
-      "title": "Rubio describes Pope Leo meeting as ‘very cordial’ amid Iran tensions",
-      "summary": "Rubio describes Pope Leo meeting as ‘very cordial’ amid Iran tensions",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://thehill.com/homenews/administration/5870860-marco-rubio-pope-leo-meeting-iran-tensions"
     }
   ]
 }
