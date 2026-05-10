@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-05-10T01:57:24.676989Z",
+  "last_updated": "2026-05-10T12:55:07.246706Z",
   "world_org_meetings": [
-    {
-      "title": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "India pushes for inclusive migration, stronger anti-trafficking laws at United Nations General Assembly",
-      "source_url": "https://www.thehindu.com/news/national/india-pushes-for-inclusive-migration-stronger-anti-trafficking-laws-at-united-nations-general-assembly/article70953987.ece"
-    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -55,20 +47,28 @@
   ],
   "elections": [
     {
-      "title": "Far-Right Australian Party Wins Seat in First Election Victory",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Far-Right Australian Party Wins Seat in First Election Victory",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-05-10/far-right-australian-party-wins-seat-in-first-election-victory"
-    },
-    {
-      "title": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
+      "title": "Starmer vows to stay on after local elections deliver losses for Labour",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
-      "source_url": "https://www.thehindu.com/news/international/uk-pm-starmer-turns-to-labour-party-grandees-after-tough-local-election-verdict/article70959672.ece"
+      "description": "Starmer vows to stay on after local elections deliver losses for Labour",
+      "source_url": "https://www.france24.com/en/starmer-vows-to-stay-on-after-local-elections-deliver-losses-for-labour"
+    },
+    {
+      "title": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next.",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next.",
+      "source_url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green"
+    },
+    {
+      "title": "Nationals MP Colin Boyce says he’s considering move to One Nation after ‘wake-up call’ in Farrer byelection",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Nationals MP Colin Boyce says he’s considering move to One Nation after ‘wake-up call’ in Farrer byelection",
+      "source_url": "https://www.theguardian.com/australia-news/2026/may/10/nationals-mp-colin-boyce-says-hes-considering-move-to-one-nation-after-wake-up-call-in-farrer-byelection"
     },
     {
       "title": "What to know about British elections that hammered Starmer's Labour Party",
@@ -79,20 +79,12 @@
       "source_url": "https://abcnews.com/International/wireStory/british-elections-hammered-starmers-labour-party-132807038"
     },
     {
-      "title": "U.K.'s Starmer faces calls to resign after disastrous local elections",
+      "title": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "U.K.'s Starmer faces calls to resign after disastrous local elections",
-      "source_url": "https://www.cbsnews.com/news/uk-prime-minister-keir-starmer-election-results-resign"
-    },
-    {
-      "title": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-      "country": "Australia",
-      "election_type": "National",
-      "date": "",
-      "description": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-      "source_url": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
+      "description": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
+      "source_url": "https://www.thehindu.com/news/international/uk-pm-starmer-turns-to-labour-party-grandees-after-tough-local-election-verdict/article70959672.ece"
     }
   ],
   "global_events": [
@@ -103,8 +95,8 @@
         "NPR World",
         "PBS NewsHour",
         "CBC World",
+        "ABC News Intl",
         "CBS News World",
-        "Sky News World",
         "Wash Post World",
         "The Hindu Intl",
         "SCMP",
@@ -116,21 +108,38 @@
       "source_url": "https://www.thehindu.com/news/international/russia-ukraine-three-day-ceasefire-prisoner-swap-donald-trump-victory-day/article70957018.ece"
     },
     {
-      "title": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
-      "summary": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
+      "title": "Ceasefire with Iran tested as cargo ship catches fire and Kuwait, U.A.E. repel drone attacks",
+      "summary": "Ceasefire with Iran tested as cargo ship catches fire and Kuwait, U.A.E. repel drone attacks",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/world/iran-us-ceasefire-drone-attacks-9.7194290?cmp=rss"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Putin claims conflict ‘coming to an end’ after scaled-back Victory Day parade",
+      "summary": "Ukraine-Russia war latest: Putin claims conflict ‘coming to an end’ after scaled-back Victory Day parade",
       "outlets_covering": [
         "BBC World",
-        "Sky News World",
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
         "Fox News World",
+        "NYT World",
         "The Guardian World",
-        "The Independent",
-        "DW World",
-        "France24"
+        "The Independent"
       ],
-      "coverage_count": 8,
+      "coverage_count": 12,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end"
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-trump-victory-day-parade-b2973716.html"
     },
     {
       "title": "Israeli airstrikes kill at least 13 in Lebanon as drone strikes near Beirut leave four dead",
@@ -139,10 +148,9 @@
         "PBS NewsHour",
         "ABC News Intl",
         "The Independent",
-        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-beirut-lebanon-drone-airstrikes-b2973678.html"
@@ -152,34 +160,14 @@
       "summary": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
       "outlets_covering": [
         "CBS News World",
-        "Sky News World",
         "The Guardian World",
-        "The Independent",
-        "France24",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 4,
       "region": "Europe",
       "category": "Politics",
       "source_url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban"
-    },
-    {
-      "title": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
-      "summary": "U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html"
     }
   ]
 }
