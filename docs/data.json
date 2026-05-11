@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-11T02:07:58.598960Z",
+  "last_updated": "2026-05-11T14:29:14.471566Z",
   "world_org_meetings": [
+    {
+      "title": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
+      "source_url": "https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks"
+    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -12,6 +20,18 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "U.S. President Trump to pay state visit to China from May 13 to 15",
+      "participants": [
+        "U.S President Trump",
+        "China",
+        "May"
+      ],
+      "date": "",
+      "location": "",
+      "description": "U.S. President Trump to pay state visit to China from May 13 to 15",
+      "source_url": "https://www.thehindu.com/news/international/us-president-trump-to-pay-state-visit-to-china-from-may-13-to-15/article70964226.ece"
+    },
+    {
       "title": "Taiwan to be key issue at Trump's summit with China's President Xi",
       "participants": [
         "Taiwan",
@@ -22,18 +42,6 @@
       "location": "",
       "description": "Taiwan to be key issue at Trump's summit with China's President Xi",
       "source_url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping"
-    },
-    {
-      "title": "China confirms dates for President Donald Trump’s state visit to Beijing",
-      "participants": [
-        "China",
-        "President Donald Trump’s",
-        "Beijing"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China confirms dates for President Donald Trump’s state visit to Beijing",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing"
     },
     {
       "title": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
@@ -70,137 +78,135 @@
   ],
   "elections": [
     {
-      "title": "Starmer vows to stay on after local elections deliver losses for Labour",
+      "title": "Will Starmer’s election woes force a shake-up in the UK’s ties with China?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Will Starmer’s election woes force a shake-up in the UK’s ties with China?",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353179/will-starmers-election-woes-force-shake-uks-ties-china"
+    },
+    {
+      "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Starmer vows to stay on after local elections deliver losses for Labour",
-      "source_url": "https://www.france24.com/en/starmer-vows-to-stay-on-after-local-elections-deliver-losses-for-labour"
+      "description": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
+      "source_url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "After big wins, NDA sitting comfortably for 2027 presidential election",
+      "title": "REPLAY: Under-pressure UK PM addresses nation after election losses",
       "country": "",
-      "election_type": "Presidential",
+      "election_type": "National",
       "date": "",
-      "description": "After big wins, NDA sitting comfortably for 2027 presidential election",
-      "source_url": "https://timesofindia.indiatimes.com/india/after-big-wins-nda-sitting-comfortably-for-2027-prez-polls/articleshow/131000989.cms"
+      "description": "REPLAY: Under-pressure UK PM addresses nation after election losses",
+      "source_url": "https://www.france24.com/en/video/20260511-replay-under-pressure-uk-pm-addresses-nation-after-election-losses"
     },
     {
-      "title": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
+      "title": "Healthcare cuts threaten Sullivan’s reelection chances in Alaska",
       "country": "",
-      "election_type": "Local",
+      "election_type": "National",
       "date": "",
-      "description": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
-      "source_url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green"
+      "description": "Healthcare cuts threaten Sullivan’s reelection chances in Alaska",
+      "source_url": "https://thehill.com/policy/healthcare/5870588-alaska-healthcare-sullivan-reelection"
     },
     {
-      "title": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
+      "title": "Bengal elections: SC asks Mamata to file fresh plea on SIR deletions exceeding victory margins",
       "country": "",
-      "election_type": "Local",
+      "election_type": "National",
       "date": "",
-      "description": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
-      "source_url": "https://www.thehindu.com/news/international/uk-pm-starmer-turns-to-labour-party-grandees-after-tough-local-election-verdict/article70959672.ece"
-    },
-    {
-      "title": "U.K.'s Starmer faces calls to resign after disastrous local elections",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "U.K.'s Starmer faces calls to resign after disastrous local elections",
-      "source_url": "https://www.cbsnews.com/news/uk-prime-minister-keir-starmer-election-results-resign"
+      "description": "Bengal elections: SC asks Mamata to file fresh plea on SIR deletions exceeding victory margins",
+      "source_url": "https://timesofindia.indiatimes.com/india/sc-tells-mamata-camp-to-file-fresh-plea-on-sir-bengal-vote-margin-issue-ec-pushes-back-against-tmc/articleshow/131009665.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Iran-Israel war LIVE: Trump rejects Iran’s peace proposal as 'totally unacceptable'",
-      "summary": "Iran-Israel war LIVE: Trump rejects Iran’s peace proposal as 'totally unacceptable'",
+      "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "summary": "Oil prices jump after Trump dismisses Iran proposal to end war",
       "outlets_covering": [
         "BBC World",
         "NPR World",
+        "CBS News World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Philippine lawmakers impeach Vice President Sara Duterte",
+      "summary": "Philippine lawmakers impeach Vice President Sara Duterte",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/philippine-lawmakers-impeach-vice-president-sara-duterte?traffic_source=rss"
+    },
+    {
+      "title": "Iran vows to fight on as Trump calls latest peace offer \"unacceptable\"",
+      "summary": "Iran vows to fight on as Trump calls latest peace offer \"unacceptable\"",
+      "outlets_covering": [
+        "BBC World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "NYT World",
         "The Guardian World",
-        "Bloomberg",
-        "The Independent"
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 20,
+      "coverage_count": 15,
       "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-peace-proposal-unacceptable"
+    },
+    {
+      "title": "End of ceasefire deadline looms as Russia, Ukraine blame each other for continued attacks",
+      "summary": "End of ceasefire deadline looms as Russia, Ukraine blame each other for continued attacks",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece"
+      "source_url": "https://www.cbc.ca/news/world/russia-ukraine-ceasefire-expires-9.7194884?cmp=rss"
     },
     {
       "title": "Russia and Ukraine accuse each other of violating U.S.-brokered ceasefire",
       "summary": "Russia and Ukraine accuse each other of violating U.S.-brokered ceasefire",
       "outlets_covering": [
         "PBS NewsHour",
+        "CBC World",
         "ABC News Intl",
         "CBS News World",
         "Sky News World",
-        "The Guardian World",
         "The Independent",
-        "France24",
-        "Japan Times",
-        "SCMP",
-        "The Hill"
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 11,
+      "coverage_count": 10,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations"
-    },
-    {
-      "title": "Trump Rejects Iran Peace Offer, Aims to Press Xi",
-      "summary": "Trump Rejects Iran Peace Offer, Aims to Press Xi",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
-        "Bloomberg",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-05-11/trump-rejects-iran-peace-offer-aims-to-press-xi-video"
-    },
-    {
-      "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
-      "summary": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "France24",
-        "UN News",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.pbs.org/newshour/world/passengers-evacuate-mv-hondius-cruise-ship-following-hantavirus-outbreak"
-    },
-    {
-      "title": "British military says ship caught fire after being hit off coast of Qatar",
-      "summary": "British military says ship caught fire after being hit off coast of Qatar",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/british-military-ship-caught-fire-after-hit-off-132822166"
     }
   ]
 }
