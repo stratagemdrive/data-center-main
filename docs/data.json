@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T12:55:07.246706Z",
+  "last_updated": "2026-05-11T02:07:58.598960Z",
   "world_org_meetings": [
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
@@ -12,17 +12,40 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Obama met with the Canadian prime minister Mark Carney and Trump’s MAGA allies flipped out",
+      "title": "Taiwan to be key issue at Trump's summit with China's President Xi",
       "participants": [
-        "Obama",
-        "Canadian",
-        "Mark Carney",
-        "Trump’s MAGA"
+        "Taiwan",
+        "Trump's",
+        "China's President Xi"
       ],
       "date": "",
       "location": "",
-      "description": "Obama met with the Canadian prime minister Mark Carney and Trump’s MAGA allies flipped out",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/barack-obama-mark-carney-maga-b2973589.html"
+      "description": "Taiwan to be key issue at Trump's summit with China's President Xi",
+      "source_url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping"
+    },
+    {
+      "title": "China confirms dates for President Donald Trump’s state visit to Beijing",
+      "participants": [
+        "China",
+        "President Donald Trump’s",
+        "Beijing"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China confirms dates for President Donald Trump’s state visit to Beijing",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing"
+    },
+    {
+      "title": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
+      "participants": [
+        "Buoyed",
+        "China",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353042/buoyed-rare-earths-china-approaches-trump-summit-fresh-confidence"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -55,28 +78,20 @@
       "source_url": "https://www.france24.com/en/starmer-vows-to-stay-on-after-local-elections-deliver-losses-for-labour"
     },
     {
-      "title": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next.",
+      "title": "After big wins, NDA sitting comfortably for 2027 presidential election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "After big wins, NDA sitting comfortably for 2027 presidential election",
+      "source_url": "https://timesofindia.indiatimes.com/india/after-big-wins-nda-sitting-comfortably-for-2027-prez-polls/articleshow/131000989.cms"
+    },
+    {
+      "title": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
       "country": "",
       "election_type": "Local",
       "date": "",
-      "description": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next.",
+      "description": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next",
       "source_url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green"
-    },
-    {
-      "title": "Nationals MP Colin Boyce says he’s considering move to One Nation after ‘wake-up call’ in Farrer byelection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nationals MP Colin Boyce says he’s considering move to One Nation after ‘wake-up call’ in Farrer byelection",
-      "source_url": "https://www.theguardian.com/australia-news/2026/may/10/nationals-mp-colin-boyce-says-hes-considering-move-to-one-nation-after-wake-up-call-in-farrer-byelection"
-    },
-    {
-      "title": "What to know about British elections that hammered Starmer's Labour Party",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "What to know about British elections that hammered Starmer's Labour Party",
-      "source_url": "https://abcnews.com/International/wireStory/british-elections-hammered-starmers-labour-party-132807038"
     },
     {
       "title": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
@@ -85,67 +100,99 @@
       "date": "",
       "description": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
       "source_url": "https://www.thehindu.com/news/international/uk-pm-starmer-turns-to-labour-party-grandees-after-tough-local-election-verdict/article70959672.ece"
+    },
+    {
+      "title": "U.K.'s Starmer faces calls to resign after disastrous local elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "U.K.'s Starmer faces calls to resign after disastrous local elections",
+      "source_url": "https://www.cbsnews.com/news/uk-prime-minister-keir-starmer-election-results-resign"
     }
   ],
   "global_events": [
     {
-      "title": "Trump says Russia, Ukraine agree to his request for three-day ceasefire, prisoner swap",
-      "summary": "Trump says Russia, Ukraine agree to his request for three-day ceasefire, prisoner swap",
+      "title": "Iran-Israel war LIVE: Trump rejects Iran’s peace proposal as 'totally unacceptable'",
+      "summary": "Iran-Israel war LIVE: Trump rejects Iran’s peace proposal as 'totally unacceptable'",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent"
+      ],
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-11-2026/article70964212.ece"
+    },
+    {
+      "title": "Russia and Ukraine accuse each other of violating U.S.-brokered ceasefire",
+      "summary": "Russia and Ukraine accuse each other of violating U.S.-brokered ceasefire",
+      "outlets_covering": [
+        "PBS NewsHour",
         "ABC News Intl",
         "CBS News World",
-        "Wash Post World",
-        "The Hindu Intl",
+        "Sky News World",
+        "The Guardian World",
+        "The Independent",
+        "France24",
+        "Japan Times",
         "SCMP",
         "The Hill"
       ],
       "coverage_count": 11,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/russia-ukraine-three-day-ceasefire-prisoner-swap-donald-trump-victory-day/article70957018.ece"
+      "source_url": "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations"
     },
     {
-      "title": "Ceasefire with Iran tested as cargo ship catches fire and Kuwait, U.A.E. repel drone attacks",
-      "summary": "Ceasefire with Iran tested as cargo ship catches fire and Kuwait, U.A.E. repel drone attacks",
+      "title": "Trump Rejects Iran Peace Offer, Aims to Press Xi",
+      "summary": "Trump Rejects Iran Peace Offer, Aims to Press Xi",
       "outlets_covering": [
         "NPR World",
-        "CBC World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/iran-us-ceasefire-drone-attacks-9.7194290?cmp=rss"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Putin claims conflict ‘coming to an end’ after scaled-back Victory Day parade",
-      "summary": "Ukraine-Russia war latest: Putin claims conflict ‘coming to an end’ after scaled-back Victory Day parade",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent"
+        "Bloomberg",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 12,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-trump-victory-day-parade-b2973716.html"
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-05-11/trump-rejects-iran-peace-offer-aims-to-press-xi-video"
     },
     {
-      "title": "Israeli airstrikes kill at least 13 in Lebanon as drone strikes near Beirut leave four dead",
-      "summary": "Israeli airstrikes kill at least 13 in Lebanon as drone strikes near Beirut leave four dead",
+      "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
+      "summary": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
       "outlets_covering": [
         "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "France24",
+        "UN News",
+        "The Hill"
+      ],
+      "coverage_count": 12,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://www.pbs.org/newshour/world/passengers-evacuate-mv-hondius-cruise-ship-following-hantavirus-outbreak"
+    },
+    {
+      "title": "British military says ship caught fire after being hit off coast of Qatar",
+      "summary": "British military says ship caught fire after being hit off coast of Qatar",
+      "outlets_covering": [
+        "NPR World",
         "ABC News Intl",
         "The Independent",
         "The Hindu Intl"
@@ -153,21 +200,7 @@
       "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-beirut-lebanon-drone-airstrikes-b2973678.html"
-    },
-    {
-      "title": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
-      "summary": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
-      "outlets_covering": [
-        "CBS News World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban"
+      "source_url": "https://abcnews.com/International/wireStory/british-military-ship-caught-fire-after-hit-off-132822166"
     }
   ]
 }
