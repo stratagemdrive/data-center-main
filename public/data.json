@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-05-11T14:29:14.471566Z",
+  "last_updated": "2026-05-12T02:03:38.035531Z",
   "world_org_meetings": [
-    {
-      "title": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
-      "source_url": "https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks"
-    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -64,19 +56,33 @@
       "location": "",
       "description": "Cover Story newsletter: The summit of suspicion",
       "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
-    },
-    {
-      "title": "Can King Charles’s state visit to the US help mend the special relationship?",
-      "participants": [
-        "Can King Charles’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Can King Charles’s state visit to the US help mend the special relationship?",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/can-king-charless-state-visit-to-the-us-help-mend-the-special-relationship"
     }
   ],
   "elections": [
+    {
+      "title": "Pressure mounts on British PM Starmer to quit after crushing Labour election losses",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Pressure mounts on British PM Starmer to quit after crushing Labour election losses",
+      "source_url": "https://www.france24.com/en/europe/20260511-pressure-mounts-on-british-pm-starmer-to-quit-after-crushing-labour-election-losses"
+    },
+    {
+      "title": "Why welfare isn't winning elections in India like it used to",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "Why welfare isn't winning elections in India like it used to",
+      "source_url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
+      "source_url": "https://www.foxnews.com/world/starmer-brink-uk-pm-fights-survival-party-takes-beating-local-elections"
+    },
     {
       "title": "Will Starmer’s election woes force a shake-up in the UK’s ties with China?",
       "country": "",
@@ -92,72 +98,35 @@
       "date": "",
       "description": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
       "source_url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "REPLAY: Under-pressure UK PM addresses nation after election losses",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "REPLAY: Under-pressure UK PM addresses nation after election losses",
-      "source_url": "https://www.france24.com/en/video/20260511-replay-under-pressure-uk-pm-addresses-nation-after-election-losses"
-    },
-    {
-      "title": "Healthcare cuts threaten Sullivan’s reelection chances in Alaska",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Healthcare cuts threaten Sullivan’s reelection chances in Alaska",
-      "source_url": "https://thehill.com/policy/healthcare/5870588-alaska-healthcare-sullivan-reelection"
-    },
-    {
-      "title": "Bengal elections: SC asks Mamata to file fresh plea on SIR deletions exceeding victory margins",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Bengal elections: SC asks Mamata to file fresh plea on SIR deletions exceeding victory margins",
-      "source_url": "https://timesofindia.indiatimes.com/india/sc-tells-mamata-camp-to-file-fresh-plea-on-sir-bengal-vote-margin-issue-ec-pushes-back-against-tmc/articleshow/131009665.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
-      "summary": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "summary": "Trump says Iran ceasefire is on 'massive life support'",
       "outlets_covering": [
         "BBC World",
         "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Philippine lawmakers impeach Vice President Sara Duterte",
-      "summary": "Philippine lawmakers impeach Vice President Sara Duterte",
-      "outlets_covering": [
-        "ABC News Intl",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Time",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "Bloomberg",
+        "Time"
       ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/philippine-lawmakers-impeach-vice-president-sara-duterte?traffic_source=rss"
+      "coverage_count": 25,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran vows to fight on as Trump calls latest peace offer \"unacceptable\"",
-      "summary": "Iran vows to fight on as Trump calls latest peace offer \"unacceptable\"",
+      "title": "Iran war ceasefire grows increasingly shaky after Trump calls Tehran's latest proposal 'totally unacceptable'",
+      "summary": "Iran war ceasefire grows increasingly shaky after Trump calls Tehran's latest proposal 'totally unacceptable'",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
@@ -165,48 +134,57 @@
         "The Guardian World",
         "The Independent",
         "Al Jazeera",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 15,
+      "coverage_count": 19,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-peace-proposal-unacceptable"
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/iran-war-ceasefire-grows-increasingly-shaky-after-trump-calls-tehrans-latest-proposal-totally-unacceptable"
     },
     {
-      "title": "End of ceasefire deadline looms as Russia, Ukraine blame each other for continued attacks",
-      "summary": "End of ceasefire deadline looms as Russia, Ukraine blame each other for continued attacks",
+      "title": "Russia and Ukraine trade blame for continued fighting that killed at least 2 as U.S.-brokered ceasefire nears its end",
+      "summary": "Russia and Ukraine trade blame for continued fighting that killed at least 2 as U.S.-brokered ceasefire nears its end",
       "outlets_covering": [
         "PBS NewsHour",
         "CBC World",
         "ABC News Intl",
         "CBS News World",
-        "Sky News World",
         "The Independent",
         "The Hindu Intl"
       ],
       "coverage_count": 7,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/russia-ukraine-ceasefire-expires-9.7194884?cmp=rss"
+      "source_url": "https://www.pbs.org/newshour/world/russia-and-ukraine-trade-blame-for-continued-fighting-that-killed-at-least-2-as-u-s-brokered-ceasefire-nears-its-end"
     },
     {
-      "title": "Russia and Ukraine accuse each other of violating U.S.-brokered ceasefire",
-      "summary": "Russia and Ukraine accuse each other of violating U.S.-brokered ceasefire",
+      "title": "Elon Musk, Tim Cook and other CEOs set to join Trump’s China trip",
+      "summary": "Elon Musk, Tim Cook and other CEOs set to join Trump’s China trip",
       "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
+        "BBC World",
         "CBS News World",
-        "Sky News World",
         "The Independent",
-        "The Hindu Intl",
-        "SCMP"
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 10,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations"
+      "coverage_count": 5,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-trip-musk-cook-executives-b2974639.html"
+    },
+    {
+      "title": "EU agrees sanctions on West Bank settlers and Hamas leaders",
+      "summary": "EU agrees sanctions on West Bank settlers and Hamas leaders",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe",
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/eu-agrees-sanctions-on-west-bank-settlers-and-hamas-leaders/article70967301.ece"
     }
   ]
 }
