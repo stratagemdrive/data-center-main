@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T02:03:38.035531Z",
+  "last_updated": "2026-05-12T13:54:00.689793Z",
   "world_org_meetings": [
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
@@ -12,16 +12,28 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "U.S. President Trump to pay state visit to China from May 13 to 15",
+      "title": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
       "participants": [
-        "U.S President Trump",
+        "Trump",
         "China",
-        "May"
+        "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "U.S. President Trump to pay state visit to China from May 13 to 15",
-      "source_url": "https://www.thehindu.com/news/international/us-president-trump-to-pay-state-visit-to-china-from-may-13-to-15/article70964226.ece"
+      "description": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
+      "source_url": "https://www.npr.org/2026/05/12/g-s1-121602/up-first-newsletter-trump-china-xi-jinping-inflation-mifepristone-cameron-hamilton"
+    },
+    {
+      "title": "Amal Clooney Tells King Charles She Is &#039;So Proud&#039; of His US State Visit",
+      "participants": [
+        "Amal Clooney Tells King Charles She",
+        "Proud&#039",
+        "His US State Visit"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Amal Clooney Tells King Charles She Is &#039;So Proud&#039; of His US State Visit",
+      "source_url": "https://www.newsweek.com/entertainment/celebrity-news/amal-clooney-tells-king-charles-she-is-so-proud-of-his-us-state-visit-11939517"
     },
     {
       "title": "Taiwan to be key issue at Trump's summit with China's President Xi",
@@ -36,6 +48,18 @@
       "source_url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping"
     },
     {
+      "title": "China confirms dates for Donald Trump’s state visit to Beijing",
+      "participants": [
+        "China",
+        "Donald Trump’s",
+        "Beijing"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China confirms dates for Donald Trump’s state visit to Beijing",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing"
+    },
+    {
       "title": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
       "participants": [
         "Buoyed",
@@ -46,26 +70,40 @@
       "location": "",
       "description": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353042/buoyed-rare-earths-china-approaches-trump-summit-fresh-confidence"
-    },
-    {
-      "title": "Cover Story newsletter: The summit of suspicion",
-      "participants": [
-        "Cover Story"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Cover Story newsletter: The summit of suspicion",
-      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
     {
-      "title": "Pressure mounts on British PM Starmer to quit after crushing Labour election losses",
+      "title": "How Keir Starmer could be replaced as UK prime minister after Labour suffers local election drubbing",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "How Keir Starmer could be replaced as UK prime minister after Labour suffers local election drubbing",
+      "source_url": "https://abcnews.com/International/wireStory/keir-starmer-replaced-uk-prime-minister-after-labour-132871011"
+    },
+    {
+      "title": "Labour’s deep losses in local elections reflect a shift in the public mood.",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Labour’s deep losses in local elections reflect a shift in the public mood.",
+      "source_url": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer/labours-deep-losses-in-local-elections-reflect-a-shift-in-the-public-mood"
+    },
+    {
+      "title": "Battle for House control heats up in Nebraska as voters head to polls",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Pressure mounts on British PM Starmer to quit after crushing Labour election losses",
-      "source_url": "https://www.france24.com/en/europe/20260511-pressure-mounts-on-british-pm-starmer-to-quit-after-crushing-labour-election-losses"
+      "description": "Battle for House control heats up in Nebraska as voters head to polls",
+      "source_url": "https://thehill.com/homenews/campaign/5872651-nebraska-west-virginia-primary-elections"
+    },
+    {
+      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+      "source_url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle"
     },
     {
       "title": "Why welfare isn't winning elections in India like it used to",
@@ -74,39 +112,14 @@
       "date": "",
       "description": "Why welfare isn't winning elections in India like it used to",
       "source_url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
-      "source_url": "https://www.foxnews.com/world/starmer-brink-uk-pm-fights-survival-party-takes-beating-local-elections"
-    },
-    {
-      "title": "Will Starmer’s election woes force a shake-up in the UK’s ties with China?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Will Starmer’s election woes force a shake-up in the UK’s ties with China?",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353179/will-starmers-election-woes-force-shake-uks-ties-china"
-    },
-    {
-      "title": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
-      "source_url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "summary": "Trump says Iran ceasefire is on 'massive life support'",
+      "title": "Iran vows to fight on as Trump says ceasefire is \"on life support\"",
+      "summary": "Iran vows to fight on as Trump says ceasefire is \"on life support\"",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
@@ -114,32 +127,60 @@
         "NYT World",
         "The Guardian World",
         "Bloomberg",
-        "Time"
+        "The Independent",
+        "The Hindu Intl"
       ],
-      "coverage_count": 25,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-peace-proposal-unacceptable"
     },
     {
       "title": "Iran war ceasefire grows increasingly shaky after Trump calls Tehran's latest proposal 'totally unacceptable'",
       "summary": "Iran war ceasefire grows increasingly shaky after Trump calls Tehran's latest proposal 'totally unacceptable'",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 19,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.pbs.org/newshour/world/iran-war-ceasefire-grows-increasingly-shaky-after-trump-calls-tehrans-latest-proposal-totally-unacceptable"
+    },
+    {
+      "title": "Israeli MPs back special tribunal with death penalty powers for alleged 7 October attackers",
+      "summary": "Israeli MPs back special tribunal with death penalty powers for alleged 7 October attackers",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/may/12/israel-special-tribunal-death-penalty-7-october-attack"
+    },
+    {
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "summary": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Russia and Ukraine trade blame for continued fighting that killed at least 2 as U.S.-brokered ceasefire nears its end",
@@ -148,43 +189,12 @@
         "PBS NewsHour",
         "CBC World",
         "ABC News Intl",
-        "CBS News World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/russia-and-ukraine-trade-blame-for-continued-fighting-that-killed-at-least-2-as-u-s-brokered-ceasefire-nears-its-end"
-    },
-    {
-      "title": "Elon Musk, Tim Cook and other CEOs set to join Trump’s China trip",
-      "summary": "Elon Musk, Tim Cook and other CEOs set to join Trump’s China trip",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Independent",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-trip-musk-cook-executives-b2974639.html"
-    },
-    {
-      "title": "EU agrees sanctions on West Bank settlers and Hamas leaders",
-      "summary": "EU agrees sanctions on West Bank settlers and Hamas leaders",
-      "outlets_covering": [
-        "BBC World",
-        "Al Jazeera",
-        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "Europe",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/eu-agrees-sanctions-on-west-bank-settlers-and-hamas-leaders/article70967301.ece"
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/russia-and-ukraine-trade-blame-for-continued-fighting-that-killed-at-least-2-as-u-s-brokered-ceasefire-nears-its-end"
     }
   ]
 }
