@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-12T13:54:00.689793Z",
+  "last_updated": "2026-05-13T02:09:31.163478Z",
   "world_org_meetings": [
+    {
+      "title": "US confirms delegation to Apec meeting in China, hours after Trump sets off for Beijing",
+      "organization": "APEC",
+      "date": "",
+      "location": "",
+      "description": "US confirms delegation to Apec meeting in China, hours after Trump sets off for Beijing",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353339/us-confirms-delegation-apec-meeting-china-hours-after-trump-sets-beijing"
+    },
     {
       "title": "IMF-World Bank Spring Meeting programming at the Atlantic Council featured in an Arab News article on Pakistan’s focus on enhancing trade and investment with the US",
       "organization": "IMF",
@@ -12,6 +20,19 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda",
+      "participants": [
+        "What",
+        "Trump-Xi",
+        "Taiwan",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda",
+      "source_url": "https://abcnews.com/International/wireStory/trump-xi-summit-trade-taiwan-iran-agenda-132866731"
+    },
+    {
       "title": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
       "participants": [
         "Trump",
@@ -22,30 +43,6 @@
       "location": "",
       "description": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
       "source_url": "https://www.npr.org/2026/05/12/g-s1-121602/up-first-newsletter-trump-china-xi-jinping-inflation-mifepristone-cameron-hamilton"
-    },
-    {
-      "title": "Amal Clooney Tells King Charles She Is &#039;So Proud&#039; of His US State Visit",
-      "participants": [
-        "Amal Clooney Tells King Charles She",
-        "Proud&#039",
-        "His US State Visit"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Amal Clooney Tells King Charles She Is &#039;So Proud&#039; of His US State Visit",
-      "source_url": "https://www.newsweek.com/entertainment/celebrity-news/amal-clooney-tells-king-charles-she-is-so-proud-of-his-us-state-visit-11939517"
-    },
-    {
-      "title": "Taiwan to be key issue at Trump's summit with China's President Xi",
-      "participants": [
-        "Taiwan",
-        "Trump's",
-        "China's President Xi"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Taiwan to be key issue at Trump's summit with China's President Xi",
-      "source_url": "https://www.cbsnews.com/news/taiwan-trump-summit-china-xi-jinping"
     },
     {
       "title": "China confirms dates for Donald Trump’s state visit to Beijing",
@@ -70,16 +67,50 @@
       "location": "",
       "description": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353042/buoyed-rare-earths-china-approaches-trump-summit-fresh-confidence"
+    },
+    {
+      "title": "Cover Story newsletter: The summit of suspicion",
+      "participants": [
+        "Cover Story"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Cover Story newsletter: The summit of suspicion",
+      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
     {
-      "title": "How Keir Starmer could be replaced as UK prime minister after Labour suffers local election drubbing",
-      "country": "",
-      "election_type": "Local",
+      "title": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
+      "country": "Brazil",
+      "election_type": "National",
       "date": "",
-      "description": "How Keir Starmer could be replaced as UK prime minister after Labour suffers local election drubbing",
-      "source_url": "https://abcnews.com/International/wireStory/keir-starmer-replaced-uk-prime-minister-after-labour-132871011"
+      "description": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
+      "source_url": "https://www.france24.com/en/americas/20260513-brazil-lula-anti-organised-crime-plan-security-pressure-elections"
+    },
+    {
+      "title": "Rahul 'strongly dissents' on next CBI director's selection; talks concluded in just 5 minutes",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Rahul 'strongly dissents' on next CBI director's selection; talks concluded in just 5 minutes",
+      "source_url": "https://timesofindia.indiatimes.com/india/rahul-strongly-dissents-on-next-cbi-directors-selection-talks-concluded-in-just-5-minutes/articleshow/131052035.cms"
+    },
+    {
+      "title": "Live results: Nebraska House primary elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Live results: Nebraska House primary elections",
+      "source_url": "https://thehill.com/homenews/campaign/5862735-live-results-nebraska-house-primary-elections"
+    },
+    {
+      "title": "Voters head to the polls in the Bahamas for high-stakes snap election",
+      "country": "",
+      "election_type": "Snap",
+      "date": "",
+      "description": "Voters head to the polls in the Bahamas for high-stakes snap election",
+      "source_url": "https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss"
     },
     {
       "title": "Labour’s deep losses in local elections reflect a shift in the public mood.",
@@ -88,113 +119,83 @@
       "date": "",
       "description": "Labour’s deep losses in local elections reflect a shift in the public mood.",
       "source_url": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer/labours-deep-losses-in-local-elections-reflect-a-shift-in-the-public-mood"
-    },
-    {
-      "title": "Battle for House control heats up in Nebraska as voters head to polls",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Battle for House control heats up in Nebraska as voters head to polls",
-      "source_url": "https://thehill.com/homenews/campaign/5872651-nebraska-west-virginia-primary-elections"
-    },
-    {
-      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "The Bahamas goes to polls in three-way battle with immigration a key issue",
-      "source_url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle"
-    },
-    {
-      "title": "Why welfare isn't winning elections in India like it used to",
-      "country": "India",
-      "election_type": "National",
-      "date": "",
-      "description": "Why welfare isn't winning elections in India like it used to",
-      "source_url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Iran vows to fight on as Trump says ceasefire is \"on life support\"",
-      "summary": "Iran vows to fight on as Trump says ceasefire is \"on life support\"",
+      "title": "Trump heads to high-stakes summit in China",
+      "summary": "Trump heads to high-stakes summit in China",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "PBS NewsHour",
-        "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
         "Bloomberg",
-        "The Independent",
-        "The Hindu Intl"
+        "Al Jazeera",
+        "DW World",
+        "Japan Times",
+        "SCMP"
       ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-peace-proposal-unacceptable"
-    },
-    {
-      "title": "Iran war ceasefire grows increasingly shaky after Trump calls Tehran's latest proposal 'totally unacceptable'",
-      "summary": "Iran war ceasefire grows increasingly shaky after Trump calls Tehran's latest proposal 'totally unacceptable'",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/iran-war-ceasefire-grows-increasingly-shaky-after-trump-calls-tehrans-latest-proposal-totally-unacceptable"
-    },
-    {
-      "title": "Israeli MPs back special tribunal with death penalty powers for alleged 7 October attackers",
-      "summary": "Israeli MPs back special tribunal with death penalty powers for alleged 7 October attackers",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/may/12/israel-special-tribunal-death-penalty-7-october-attack"
-    },
-    {
-      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-      "summary": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 6,
+      "coverage_count": 17,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nbcnews.com/nightly-news/video/trump-heads-to-high-stakes-summit-in-china-263200837587"
     },
     {
-      "title": "Russia and Ukraine trade blame for continued fighting that killed at least 2 as U.S.-brokered ceasefire nears its end",
-      "summary": "Russia and Ukraine trade blame for continued fighting that killed at least 2 as U.S.-brokered ceasefire nears its end",
+      "title": "California mayor pleads guilty to acting as an illegal agent for China",
+      "summary": "California mayor pleads guilty to acting as an illegal agent for China",
       "outlets_covering": [
+        "CBS News World",
+        "Time",
+        "The Independent",
+        "SCMP"
+      ],
+      "coverage_count": 4,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/california-mayor-pleads-guilty-acting-illegal-agent-china"
+    },
+    {
+      "title": "Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers",
+      "summary": "Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers",
+      "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
+        "The Guardian World",
         "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "Europe / Russia",
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/russia-and-ukraine-trade-blame-for-continued-fighting-that-killed-at-least-2-as-u-s-brokered-ceasefire-nears-its-end"
+      "source_url": "https://www.pbs.org/newshour/world/israeli-lawmakers-set-up-a-special-tribunal-and-allow-for-death-penalty-for-hamas-led-2023-attackers"
+    },
+    {
+      "title": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
+      "summary": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
+      "outlets_covering": [
+        "ABC News Intl",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/americas/20260513-brazil-lula-anti-organised-crime-plan-security-pressure-elections"
+    },
+    {
+      "title": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
+      "summary": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NYT World",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html"
     }
   ]
 }
