@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T02:09:31.163478Z",
+  "last_updated": "2026-05-13T14:06:34.462619Z",
   "world_org_meetings": [
     {
       "title": "US confirms delegation to Apec meeting in China, hours after Trump sets off for Beijing",
@@ -20,53 +20,29 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda",
+      "title": "Live updates: Trump lands in Beijing for summit with Xi against backdrop of Iran war",
       "participants": [
-        "What",
-        "Trump-Xi",
-        "Taiwan",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda",
-      "source_url": "https://abcnews.com/International/wireStory/trump-xi-summit-trade-taiwan-iran-agenda-132866731"
-    },
-    {
-      "title": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
-      "participants": [
+        "Live",
         "Trump",
-        "China",
+        "Beijing",
         "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
-      "source_url": "https://www.npr.org/2026/05/12/g-s1-121602/up-first-newsletter-trump-china-xi-jinping-inflation-mifepristone-cameron-hamilton"
+      "description": "Live updates: Trump lands in Beijing for summit with Xi against backdrop of Iran war",
+      "source_url": "https://thehill.com/homenews/administration/5874428-live-updates-trump-china"
     },
     {
-      "title": "China confirms dates for Donald Trump’s state visit to Beijing",
+      "title": "Trade, Taiwan and Iran cast shadows on Trump’s China summit with Xi",
       "participants": [
-        "China",
-        "Donald Trump’s",
-        "Beijing"
+        "Trade Taiwan",
+        "Iran",
+        "Trump’s China"
       ],
       "date": "",
       "location": "",
-      "description": "China confirms dates for Donald Trump’s state visit to Beijing",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing"
-    },
-    {
-      "title": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
-      "participants": [
-        "Buoyed",
-        "China",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Buoyed by rare earths, China approaches Trump summit with fresh confidence",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353042/buoyed-rare-earths-china-approaches-trump-summit-fresh-confidence"
+      "description": "Trade, Taiwan and Iran cast shadows on Trump’s China summit with Xi",
+      "source_url": "https://www.nbcnews.com/politics/donald-trump/trade-taiwan-iran-cast-shadows-trumps-china-summit-xi-rcna344049"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -77,24 +53,42 @@
       "location": "",
       "description": "Cover Story newsletter: The summit of suspicion",
       "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
+    },
+    {
+      "title": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "participants": [
+        "Can King Charles’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Can King Charles’s state visit to the US help mend the special relationship?",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/can-king-charless-state-visit-to-the-us-help-mend-the-special-relationship"
     }
   ],
   "elections": [
     {
-      "title": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
-      "source_url": "https://www.france24.com/en/americas/20260513-brazil-lula-anti-organised-crime-plan-security-pressure-elections"
-    },
-    {
-      "title": "Rahul 'strongly dissents' on next CBI director's selection; talks concluded in just 5 minutes",
+      "title": "Why a song contest has emerged as Europe’s most controversial election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Rahul 'strongly dissents' on next CBI director's selection; talks concluded in just 5 minutes",
-      "source_url": "https://timesofindia.indiatimes.com/india/rahul-strongly-dissents-on-next-cbi-directors-selection-talks-concluded-in-just-5-minutes/articleshow/131052035.cms"
+      "description": "Why a song contest has emerged as Europe’s most controversial election",
+      "source_url": "https://www.cbc.ca/news/world/eurovision-song-contest-israel-9.7197674?cmp=rss"
+    },
+    {
+      "title": "Kylian Mbappe in public row with far-right leader ahead of French election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Kylian Mbappe in public row with far-right leader ahead of French election",
+      "source_url": "https://www.independent.co.uk/news/world/europe/kylian-mbappe-jordan-bardella-far-right-france-election-b2975785.html"
+    },
+    {
+      "title": "Bahamians head to polls in snap election",
+      "country": "",
+      "election_type": "Snap",
+      "date": "",
+      "description": "Bahamians head to polls in snap election",
+      "source_url": "https://abcnews.com/International/wireStory/bahamians-head-polls-snap-election-132901085"
     },
     {
       "title": "Live results: Nebraska House primary elections",
@@ -105,97 +99,95 @@
       "source_url": "https://thehill.com/homenews/campaign/5862735-live-results-nebraska-house-primary-elections"
     },
     {
-      "title": "Voters head to the polls in the Bahamas for high-stakes snap election",
-      "country": "",
-      "election_type": "Snap",
+      "title": "Brazil's Lula launches $2 billion anti-organized crime project ahead of elections",
+      "country": "Brazil",
+      "election_type": "National",
       "date": "",
-      "description": "Voters head to the polls in the Bahamas for high-stakes snap election",
-      "source_url": "https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss"
-    },
-    {
-      "title": "Labour’s deep losses in local elections reflect a shift in the public mood.",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Labour’s deep losses in local elections reflect a shift in the public mood.",
-      "source_url": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer/labours-deep-losses-in-local-elections-reflect-a-shift-in-the-public-mood"
+      "description": "Brazil's Lula launches $2 billion anti-organized crime project ahead of elections",
+      "source_url": "https://abcnews.com/International/wireStory/brazils-lula-launches-2-billion-anti-organized-crime-132896113"
     }
   ],
   "global_events": [
     {
-      "title": "Trump heads to high-stakes summit in China",
-      "summary": "Trump heads to high-stakes summit in China",
+      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "summary": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 13,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks",
+      "summary": "‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "The Guardian World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances"
+    },
+    {
+      "title": "Putin hails Russia's test launch of a new ballistic missile and calls it the world's most powerful",
+      "summary": "Putin hails Russia's test launch of a new ballistic missile and calls it the world's most powerful",
       "outlets_covering": [
         "NPR World",
-        "PBS NewsHour",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/putin-hails-russias-test-launch-new-ballistic-missile-132888641"
+    },
+    {
+      "title": "Gunfire breaks out in Philippine Senate as police try to arrest senator",
+      "summary": "Gunfire breaks out in Philippine Senate as police try to arrest senator",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/05/13/g-s1-121827/gunfire-breaks-out-in-philippine-senate-as-police-try-to-arrest-senator"
+    },
+    {
+      "title": "Trump expected to talk Iran and trade during summit in China",
+      "summary": "Trump expected to talk Iran and trade during summit in China",
+      "outlets_covering": [
+        "NPR World",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "Bloomberg",
-        "Al Jazeera",
-        "DW World",
-        "Japan Times",
-        "SCMP"
-      ],
-      "coverage_count": 17,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/nightly-news/video/trump-heads-to-high-stakes-summit-in-china-263200837587"
-    },
-    {
-      "title": "California mayor pleads guilty to acting as an illegal agent for China",
-      "summary": "California mayor pleads guilty to acting as an illegal agent for China",
-      "outlets_covering": [
-        "CBS News World",
-        "Time",
         "The Independent",
-        "SCMP"
-      ],
-      "coverage_count": 4,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/california-mayor-pleads-guilty-acting-illegal-agent-china"
-    },
-    {
-      "title": "Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers",
-      "summary": "Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/israeli-lawmakers-set-up-a-special-tribunal-and-allow-for-death-penalty-for-hamas-led-2023-attackers"
-    },
-    {
-      "title": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
-      "summary": "Brazil’s Lula launches anti-organised crime plan amid rising security pressure before elections",
-      "outlets_covering": [
-        "ABC News Intl",
+        "Al Jazeera",
         "France24",
-        "Japan Times"
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy"
       ],
-      "coverage_count": 3,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/americas/20260513-brazil-lula-anti-organised-crime-plan-security-pressure-elections"
-    },
-    {
-      "title": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
-      "summary": "Israeli Report Finds That Sexual Violence by Hamas Was Widespread",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "NYT World",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html"
+      "coverage_count": 19,
+      "region": "China",
+      "category": "Economy",
+      "source_url": "https://www.npr.org/2026/05/13/nx-s1-5819712/trump-expected-to-talk-iran-and-trade-during-summit-in-china"
     }
   ]
 }
