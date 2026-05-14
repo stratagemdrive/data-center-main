@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-05-14T02:11:42.410192Z",
+  "last_updated": "2026-05-14T13:30:09.209695Z",
   "world_org_meetings": [
+    {
+      "title": "Iran and UAE clash at BRICS foreign ministers' meeting",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Iran and UAE clash at BRICS foreign ministers' meeting",
+      "source_url": "https://www.thehindu.com/news/international/iran-and-uae-clash-at-brics-foreign-ministers-meeting/article70978347.ece"
+    },
+    {
+      "title": "Takaichi plans to visit Britain and Italy before G7 summit in June",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Takaichi plans to visit Britain and Italy before G7 summit in June",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/14/japan/takaichi-britain-italy"
+    },
     {
       "title": "US confirms delegation to Apec meeting in China, hours after Trump sets off for Beijing",
       "organization": "APEC",
@@ -12,15 +28,53 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Trump set for high-stakes summit with China's Xi",
+      "title": "Trump invites Chinese President Xi Jinping for September 24 visit at White House",
       "participants": [
         "Trump",
-        "China's Xi"
+        "Chinese President Xi Jinping",
+        "September",
+        "White House"
       ],
       "date": "",
       "location": "",
-      "description": "Trump set for high-stakes summit with China's Xi",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/14/asia-pacific/politics/trump-arrives-china-xi-summit"
+      "description": "Trump invites Chinese President Xi Jinping for September 24 visit at White House",
+      "source_url": "https://www.thehindu.com/news/international/trump-invites-chinese-president-xi-jinping-for-september-24-visit-at-white-house/article70978383.ece"
+    },
+    {
+      "title": "Iran insists it's ready for a new U.S. attack as Trump in China for state visit",
+      "participants": [
+        "Iran",
+        "U.S",
+        "Trump",
+        "China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Iran insists it's ready for a new U.S. attack as Trump in China for state visit",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled"
+    },
+    {
+      "title": "President Trump visits Temple of Heaven following historic U.S.-China summit",
+      "participants": [
+        "President Trump",
+        "Temple",
+        "Heaven",
+        "U.S.-China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "President Trump visits Temple of Heaven following historic U.S.-China summit",
+      "source_url": "https://www.nbcnews.com/video/president-trump-visits-temple-of-heaven-following-historic-u-s-china-summit-263294021789"
+    },
+    {
+      "title": "‘We should be partners, not rivals’: Chinese President Xi Jinping opens bilateral talks",
+      "participants": [
+        "Chinese President Xi Jinping"
+      ],
+      "date": "",
+      "location": "",
+      "description": "‘We should be partners, not rivals’: Chinese President Xi Jinping opens bilateral talks",
+      "source_url": "https://www.nbcnews.com/now/video/chinese-president-xi-jinping-gives-opening-remarks-at-bilateral-talks-263287365639"
     },
     {
       "title": "Netanyahu's office says he had secret meeting with UAE president - but Emirates deny claim",
@@ -33,75 +87,16 @@
       "location": "",
       "description": "Netanyahu's office says he had secret meeting with UAE president - but Emirates deny claim",
       "source_url": "https://news.sky.com/story/benjamin-netanyahus-office-says-he-had-secret-meeting-with-uae-president-but-emirates-deny-claim-13543776"
-    },
-    {
-      "title": "Netanyahu made secret visit to UAE to meet with country's president, Israel says",
-      "participants": [
-        "Netanyahu",
-        "UAE",
-        "Israel"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Netanyahu made secret visit to UAE to meet with country's president, Israel says",
-      "source_url": "https://www.cbsnews.com/news/netanyahu-united-arab-emirates-mbz"
-    },
-    {
-      "title": "Wary mood to mark Xi-Trump summit with irritants aplenty on both sides: analysts",
-      "participants": [
-        "Wary",
-        "Xi-Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Wary mood to mark Xi-Trump summit with irritants aplenty on both sides: analysts",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353432/wary-mood-mark-xi-trump-summit-irritants-aplenty-both-sides-analysts"
-    },
-    {
-      "title": "Trade, Taiwan and Iran cast shadows on Trump’s China summit with Xi",
-      "participants": [
-        "Trade Taiwan",
-        "Iran",
-        "Trump’s China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trade, Taiwan and Iran cast shadows on Trump’s China summit with Xi",
-      "source_url": "https://www.nbcnews.com/politics/donald-trump/trade-taiwan-iran-cast-shadows-trumps-china-summit-xi-rcna344049"
     }
   ],
   "elections": [
     {
-      "title": "Canada court quashes Alberta separatists’ bid for referendum",
+      "title": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
       "country": "Canada",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Canada court quashes Alberta separatists’ bid for referendum",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/14/world/politics/canada-court-alberta-separatists-referendum"
-    },
-    {
-      "title": "Israel’s ruling coalition proposes early elections amid ultra-Orthodox anger at Netanyahu",
-      "country": "Israel",
       "election_type": "National",
       "date": "",
-      "description": "Israel’s ruling coalition proposes early elections amid ultra-Orthodox anger at Netanyahu",
-      "source_url": "https://www.theguardian.com/world/2026/may/13/israels-ruling-coalition-proposes-early-elections-amid-ultra-orthodox-anger-at-netanyahu"
-    },
-    {
-      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
-      "source_url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss"
-    },
-    {
-      "title": "Bahamas Prime Minister Davis declares victory for party in snap election",
-      "country": "",
-      "election_type": "Snap",
-      "date": "",
-      "description": "Bahamas Prime Minister Davis declares victory for party in snap election",
-      "source_url": "https://abcnews.com/International/wireStory/bahamas-prime-minister-davis-declares-victory-party-snap-132932705"
+      "description": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
+      "source_url": "https://www.cbc.ca/news/politics/cbc-ca-politics-armenia-elections-canada-9.7198559?cmp=rss"
     },
     {
       "title": "France investigates whether Israeli firm BlackCore interfered in local elections",
@@ -110,89 +105,114 @@
       "date": "",
       "description": "France investigates whether Israeli firm BlackCore interfered in local elections",
       "source_url": "https://www.independent.co.uk/news/world/europe/france-elections-israel-blackcore-unbowed-b2975940.html"
+    },
+    {
+      "title": "Why a song contest has emerged as Europe’s most controversial election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Why a song contest has emerged as Europe’s most controversial election",
+      "source_url": "https://www.cbc.ca/news/world/eurovision-song-contest-israel-9.7197674?cmp=rss"
+    },
+    {
+      "title": "Why welfare isn't winning elections in India like it used to",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "Why welfare isn't winning elections in India like it used to",
+      "source_url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
+      "source_url": "https://www.foxnews.com/world/starmer-brink-uk-pm-fights-survival-party-takes-beating-local-elections"
     }
   ],
   "global_events": [
     {
-      "title": "What to Watch at Trump and Xi’s U.S.-China Summit",
-      "summary": "What to Watch at Trump and Xi’s U.S.-China Summit",
+      "title": "Latvian prime minister resigns amid row over drone incursions",
+      "summary": "Latvian prime minister resigns amid row over drone incursions",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/may/14/evika-silina-latvian-prime-minister-resigns-drone-incursions"
+    },
+    {
+      "title": "China’s Xi warns Trump about Taiwan at Beijing summit",
+      "summary": "China’s Xi warns Trump about Taiwan at Beijing summit",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent"
+      ],
+      "coverage_count": 51,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit?traffic_source=rss"
+    },
+    {
+      "title": "A Philippine senator wanted by the International Criminal Court flees from Senate",
+      "summary": "A Philippine senator wanted by the International Criminal Court flees from Senate",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc"
+    },
+    {
+      "title": "Remains of 2nd U.S. Army soldier who went missing during military exercises in Morocco have been recovered",
+      "summary": "Remains of 2nd U.S. Army soldier who went missing during military exercises in Morocco have been recovered",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Fox News World",
+        "The Guardian World"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/remains-2nd-us-army-soldier-missing-military-exercises-132938062"
+    },
+    {
+      "title": "Key Moments From the First Day of Trump’s China Visit",
+      "summary": "Key Moments From the First Day of Trump’s China Visit",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBS News World",
-        "NBC News World",
         "Sky News World",
         "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera"
+        "The Guardian World",
+        "SCMP"
       ],
-      "coverage_count": 46,
+      "coverage_count": 15,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html"
-    },
-    {
-      "title": "Trump-Xi summit live: US president preparing to meet China’s leader with trade, Taiwan and the Iran war set to dominate talks",
-      "summary": "Trump-Xi summit live: US president preparing to meet China’s leader with trade, Taiwan and the Iran war set to dominate talks",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
-        "Japan Times"
-      ],
-      "coverage_count": 8,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news"
-    },
-    {
-      "title": "Senate confirms Trump pick Kevin Warsh as Federal Reserve chair",
-      "summary": "Senate confirms Trump pick Kevin Warsh as Federal Reserve chair",
-      "outlets_covering": [
-        "CBC World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/americas/20260513-senate-confirms-trump-pick-kevin-warsh-as-federal-reserve-chair"
-    },
-    {
-      "title": "Netanyahu’s office says he visited UAE secretly during the Iran war",
-      "summary": "Netanyahu’s office says he visited UAE secretly during the Iran war",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/netanyahus-office-says-he-visited-uae-secretly-during-the-iran-war/article70975764.ece"
-    },
-    {
-      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
-      "summary": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss"
+      "source_url": "https://www.nytimes.com/2026/05/14/world/asia/trump-first-day-china-xi.html"
     }
   ]
 }
