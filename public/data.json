@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-14T13:30:09.209695Z",
+  "last_updated": "2026-05-15T02:09:31.710858Z",
   "world_org_meetings": [
+    {
+      "title": "BRICS consensus on West Asia uncertain as Iran, UAE spar at meeting",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "BRICS consensus on West Asia uncertain as Iran, UAE spar at meeting",
+      "source_url": "https://timesofindia.indiatimes.com/india/brics-consensus-on-west-asia-uncertain-as-iran-uae-spar-at-meeting/articleshow/131102377.cms"
+    },
     {
       "title": "Iran and UAE clash at BRICS foreign ministers' meeting",
       "organization": "BRICS",
@@ -28,6 +36,17 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "How locals are reacting to Trump's China visit and summit with Xi",
+      "participants": [
+        "How",
+        "Trump's China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "How locals are reacting to Trump's China visit and summit with Xi",
+      "source_url": "https://www.cbsnews.com/video/how-locals-are-reacting-to-trumps-china-visit-and-summit-with-xi"
+    },
+    {
       "title": "Trump invites Chinese President Xi Jinping for September 24 visit at White House",
       "participants": [
         "Trump",
@@ -41,42 +60,6 @@
       "source_url": "https://www.thehindu.com/news/international/trump-invites-chinese-president-xi-jinping-for-september-24-visit-at-white-house/article70978383.ece"
     },
     {
-      "title": "Iran insists it's ready for a new U.S. attack as Trump in China for state visit",
-      "participants": [
-        "Iran",
-        "U.S",
-        "Trump",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Iran insists it's ready for a new U.S. attack as Trump in China for state visit",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled"
-    },
-    {
-      "title": "President Trump visits Temple of Heaven following historic U.S.-China summit",
-      "participants": [
-        "President Trump",
-        "Temple",
-        "Heaven",
-        "U.S.-China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "President Trump visits Temple of Heaven following historic U.S.-China summit",
-      "source_url": "https://www.nbcnews.com/video/president-trump-visits-temple-of-heaven-following-historic-u-s-china-summit-263294021789"
-    },
-    {
-      "title": "‘We should be partners, not rivals’: Chinese President Xi Jinping opens bilateral talks",
-      "participants": [
-        "Chinese President Xi Jinping"
-      ],
-      "date": "",
-      "location": "",
-      "description": "‘We should be partners, not rivals’: Chinese President Xi Jinping opens bilateral talks",
-      "source_url": "https://www.nbcnews.com/now/video/chinese-president-xi-jinping-gives-opening-remarks-at-bilateral-talks-263287365639"
-    },
-    {
       "title": "Netanyahu's office says he had secret meeting with UAE president - but Emirates deny claim",
       "participants": [
         "Netanyahu's",
@@ -87,132 +70,153 @@
       "location": "",
       "description": "Netanyahu's office says he had secret meeting with UAE president - but Emirates deny claim",
       "source_url": "https://news.sky.com/story/benjamin-netanyahus-office-says-he-had-secret-meeting-with-uae-president-but-emirates-deny-claim-13543776"
+    },
+    {
+      "title": "Wary mood to mark Xi-Trump summit with irritants aplenty on both sides: analysts",
+      "participants": [
+        "Wary",
+        "Xi-Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Wary mood to mark Xi-Trump summit with irritants aplenty on both sides: analysts",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353432/wary-mood-mark-xi-trump-summit-irritants-aplenty-both-sides-analysts"
+    },
+    {
+      "title": "Trade, Taiwan and Iran cast shadows on Trump’s China summit with Xi",
+      "participants": [
+        "Trade Taiwan",
+        "Iran",
+        "Trump’s China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trade, Taiwan and Iran cast shadows on Trump’s China summit with Xi",
+      "source_url": "https://www.nbcnews.com/politics/donald-trump/trade-taiwan-iran-cast-shadows-trumps-china-summit-xi-rcna344049"
     }
   ],
   "elections": [
     {
-      "title": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
-      "country": "Canada",
+      "title": "Japan to order social media operators to combat misinformation in elections",
+      "country": "Japan",
       "election_type": "National",
       "date": "",
-      "description": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
-      "source_url": "https://www.cbc.ca/news/politics/cbc-ca-politics-armenia-elections-canada-9.7198559?cmp=rss"
+      "description": "Japan to order social media operators to combat misinformation in elections",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/15/japan/politics/social-media-misinformation"
     },
     {
-      "title": "France investigates whether Israeli firm BlackCore interfered in local elections",
-      "country": "France",
-      "election_type": "Local",
-      "date": "",
-      "description": "France investigates whether Israeli firm BlackCore interfered in local elections",
-      "source_url": "https://www.independent.co.uk/news/world/europe/france-elections-israel-blackcore-unbowed-b2975940.html"
-    },
-    {
-      "title": "Why a song contest has emerged as Europe’s most controversial election",
+      "title": "British PM Keir Starmer's job is in jeopardy after his party was trounced in elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Why a song contest has emerged as Europe’s most controversial election",
-      "source_url": "https://www.cbc.ca/news/world/eurovision-song-contest-israel-9.7197674?cmp=rss"
+      "description": "British PM Keir Starmer's job is in jeopardy after his party was trounced in elections",
+      "source_url": "https://www.npr.org/2026/05/14/nx-s1-5822391/british-pm-keir-starmers-job-is-in-jeopardy-after-his-party-was-trounced-in-elections"
     },
     {
-      "title": "Why welfare isn't winning elections in India like it used to",
-      "country": "India",
+      "title": "Andy Burnham has path to challenge PM but must win byelection first",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Why welfare isn't winning elections in India like it used to",
-      "source_url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss"
+      "description": "Andy Burnham has path to challenge PM but must win byelection first",
+      "source_url": "https://www.theguardian.com/politics/2026/may/14/labour-mp-to-stand-down-to-allow-burnham-run-for-byelection-amid-leadership-row"
     },
     {
-      "title": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
+      "title": "Palestinian President Abbas pledges elections, reform at Fatah conference",
       "country": "",
-      "election_type": "Local",
+      "election_type": "National",
       "date": "",
-      "description": "Starmer on the brink: UK PM fights for survival as party takes beating in local elections",
-      "source_url": "https://www.foxnews.com/world/starmer-brink-uk-pm-fights-survival-party-takes-beating-local-elections"
+      "description": "Palestinian President Abbas pledges elections, reform at Fatah conference",
+      "source_url": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss"
+    },
+    {
+      "title": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
+      "source_url": "https://www.axios.com/2026/05/14/frederica-wilson-eye-surgery-reelection-age"
     }
   ],
   "global_events": [
     {
-      "title": "Latvian prime minister resigns amid row over drone incursions",
-      "summary": "Latvian prime minister resigns amid row over drone incursions",
+      "title": "Latvian prime minister resigns after controversy over stray Ukrainian drones",
+      "summary": "Latvian prime minister resigns after controversy over stray Ukrainian drones",
       "outlets_covering": [
         "BBC World",
         "ABC News Intl",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/may/14/evika-silina-latvian-prime-minister-resigns-drone-incursions"
-    },
-    {
-      "title": "China’s Xi warns Trump about Taiwan at Beijing summit",
-      "summary": "China’s Xi warns Trump about Taiwan at Beijing summit",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "Bloomberg",
-        "The Independent"
-      ],
-      "coverage_count": 51,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit?traffic_source=rss"
-    },
-    {
-      "title": "A Philippine senator wanted by the International Criminal Court flees from Senate",
-      "summary": "A Philippine senator wanted by the International Criminal Court flees from Senate",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "CBS News World",
+        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc"
-    },
-    {
-      "title": "Remains of 2nd U.S. Army soldier who went missing during military exercises in Morocco have been recovered",
-      "summary": "Remains of 2nd U.S. Army soldier who went missing during military exercises in Morocco have been recovered",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Fox News World",
-        "The Guardian World"
-      ],
-      "coverage_count": 3,
+      "coverage_count": 6,
       "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/remains-2nd-us-army-soldier-missing-military-exercises-132938062"
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/russia-riga-baltic-parties-finland-b2977014.html"
     },
     {
-      "title": "Key Moments From the First Day of Trump’s China Visit",
-      "summary": "Key Moments From the First Day of Trump’s China Visit",
+      "title": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+      "summary": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners"
+    },
+    {
+      "title": "Trump wraps up visit to China after talks on trade, stern words on Taiwan",
+      "summary": "Trump wraps up visit to China after talks on trade, stern words on Taiwan",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Hill"
+      ],
+      "coverage_count": 10,
+      "region": "China",
+      "category": "Economy",
+      "source_url": "https://www.cbsnews.com/news/trump-wraps-up-visit-with-xi-in-china"
+    },
+    {
+      "title": "Trump’s high-stakes summit in China",
+      "summary": "Trump’s high-stakes summit in China",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBS News World",
-        "Sky News World",
+        "NBC News World",
+        "Fox News World",
         "NYT World",
-        "The Guardian World",
-        "SCMP"
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 15,
+      "coverage_count": 29,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/14/world/asia/trump-first-day-china-xi.html"
+      "source_url": "https://www.nbcnews.com/nightly-news/video/trump-s-high-stakes-summit-in-china-263347781831"
+    },
+    {
+      "title": "Cuba Says It Has Run Out of Oil",
+      "summary": "Cuba Says It Has Run Out of Oil",
+      "outlets_covering": [
+        "NYT World",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/14/world/americas/cuba-oil-energy-crisis.html"
     }
   ]
 }
