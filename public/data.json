@@ -1,36 +1,7 @@
 {
-  "last_updated": "2026-05-16T02:01:45.062538Z",
-  "world_org_meetings": [
-    {
-      "title": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
-      "source_url": "https://timesofindia.indiatimes.com/india/amid-uae-iran-rift-brics-remains-a-divided-house-on-west-asia-no-joint-statement-after-meeting/articleshow/131129062.cms"
-    },
-    {
-      "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "BRICS talks end without joint statement as divisions over Iran war deepen",
-      "source_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
-    }
-  ],
+  "last_updated": "2026-05-16T12:58:31.328768Z",
+  "world_org_meetings": [],
   "diplomatic_visits": [
-    {
-      "title": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
-      "participants": [
-        "Amid UAE-Iran",
-        "BRICS",
-        "West Asia"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
-      "source_url": "https://timesofindia.indiatimes.com/india/amid-uae-iran-rift-brics-remains-a-divided-house-on-west-asia-no-joint-statement-after-meeting/articleshow/131129062.cms"
-    },
     {
       "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
       "participants": [
@@ -55,17 +26,6 @@
       "source_url": "https://www.scmp.com/news/china/article/3353779/taiwan-casts-long-shadow-over-trumps-summit-xi"
     },
     {
-      "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
-      "participants": [
-        "BRICS",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "BRICS talks end without joint statement as divisions over Iran war deepen",
-      "source_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
-    },
-    {
       "title": "Rapid-fire to restrained: China state visit reveals a changed Trump on social media",
       "participants": [
         "Rapid-fire",
@@ -76,9 +36,46 @@
       "location": "",
       "description": "Rapid-fire to restrained: China state visit reveals a changed Trump on social media",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353766/rapid-fire-restrained-china-state-visit-reveals-changed-trump-social-media"
+    },
+    {
+      "title": "China’s Xi Jinping to pay first state visit to US in more than a decade",
+      "participants": [
+        "China’s Xi Jinping"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China’s Xi Jinping to pay first state visit to US in more than a decade",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353761/xi-jinping-pay-first-state-visit-us-more-decade-trump-says"
+    },
+    {
+      "title": "Trump claims 'fantastic trade deals' as summit with China's Xi wraps up",
+      "participants": [
+        "Trump",
+        "China's Xi"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump claims 'fantastic trade deals' as summit with China's Xi wraps up",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/15/asia-pacific/politics/trump-xi-business-deals"
     }
   ],
   "elections": [
+    {
+      "title": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
+      "country": "Spain",
+      "election_type": "National",
+      "date": "",
+      "description": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
+      "source_url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez"
+    },
+    {
+      "title": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
+      "source_url": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor"
+    },
     {
       "title": "Colorado election denier Tina Peters to be freed from prison",
       "country": "",
@@ -102,38 +99,30 @@
       "date": "",
       "description": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
       "source_url": "https://www.axios.com/2026/05/14/frederica-wilson-eye-surgery-reelection-age"
-    },
-    {
-      "title": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "",
-      "description": "As Canada plans to send election observers to Armenia, advocates warn of a democratic backslide",
-      "source_url": "https://www.cbc.ca/news/politics/cbc-ca-politics-armenia-elections-canada-9.7198559?cmp=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
-      "summary": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
+      "title": "Israel Says It Killed Hamas’s Top Leader in Gaza",
+      "summary": "Israel Says It Killed Hamas’s Top Leader in Gaza",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
-        "Al Jazeera",
+        "CBS News World",
+        "NYT World",
         "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-extension-of-ceasefire-says-us/article70984881.ece"
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
     },
     {
-      "title": "Ebola outbreak in Congo kills dozens, Africa's CDC says",
-      "summary": "Ebola outbreak in Congo kills dozens, Africa's CDC says",
+      "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
+      "summary": "New outbreak of Ebola kills 80 in eastern DR Congo",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
@@ -144,66 +133,69 @@
         "NYT World",
         "The Guardian World",
         "Time",
-        "The Independent"
+        "Al Jazeera"
       ],
-      "coverage_count": 11,
+      "coverage_count": 13,
       "region": "Africa",
       "category": "Health",
-      "source_url": "https://www.cbsnews.com/news/ebola-congo-dozens-dead-hundreds-more-possible-cases"
+      "source_url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What did Trump, Xi accomplish from China summit?",
-      "summary": "What did Trump, Xi accomplish from China summit?",
+      "title": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
+      "summary": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-extension-of-ceasefire-says-us/article70984881.ece"
+    },
+    {
+      "title": "Tech Chiefs Accompany Trump on China Trip",
+      "summary": "Tech Chiefs Accompany Trump on China Trip",
       "outlets_covering": [
         "BBC World",
         "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
+        "Bloomberg",
         "Time",
-        "Al Jazeera",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 33,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/what-did-trump-xi-accomplish-from-china-summit"
-    },
-    {
-      "title": "Trump and Boeing Announce China Will Purchase 200 Planes",
-      "summary": "Trump and Boeing Announce China Will Purchase 200 Planes",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "NYT World",
         "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 4,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html"
-    },
-    {
-      "title": "Trump warns Taiwan on declaring independence after China visit",
-      "summary": "Trump warns Taiwan on declaring independence after China visit",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "DW World",
+        "Al Jazeera",
         "France24",
-        "Japan Times"
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
       ],
       "coverage_count": 16,
       "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/16/asia-pacific/politics/us-china-taiwan-trump-independence"
+      "category": "Politics",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-05-16/tech-chiefs-accompany-trump-on-china-trip-video"
+    },
+    {
+      "title": "China Will Host Putin, Days After Trump’s Visit",
+      "summary": "China Will Host Putin, Days After Trump’s Visit",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 14,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html"
     }
   ]
 }
