@@ -1,80 +1,91 @@
 {
-  "last_updated": "2026-05-15T13:30:19.755597Z",
+  "last_updated": "2026-05-16T02:01:45.062538Z",
   "world_org_meetings": [
     {
-      "title": "Iran and UAE clash at BRICS foreign ministers' meeting",
+      "title": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Iran and UAE clash at BRICS foreign ministers' meeting",
-      "source_url": "https://www.thehindu.com/news/international/iran-and-uae-clash-at-brics-foreign-ministers-meeting/article70978347.ece"
+      "description": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
+      "source_url": "https://timesofindia.indiatimes.com/india/amid-uae-iran-rift-brics-remains-a-divided-house-on-west-asia-no-joint-statement-after-meeting/articleshow/131129062.cms"
+    },
+    {
+      "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "BRICS talks end without joint statement as divisions over Iran war deepen",
+      "source_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Xi Jinping to pay first state visit to US in more than a decade, Trump says",
+      "title": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
       "participants": [
-        "Jinping",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Xi Jinping to pay first state visit to US in more than a decade, Trump says",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353761/xi-jinping-pay-first-state-visit-us-more-decade-trump-says"
-    },
-    {
-      "title": "Trump's silence on Taiwan during summit with Xi comes as relief for island nation",
-      "participants": [
-        "Trump's",
-        "Taiwan"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump's silence on Taiwan during summit with Xi comes as relief for island nation",
-      "source_url": "https://www.france24.com/en/tv-shows/access-asia/20260515-trump-s-silence-on-taiwan-during-summit-with-xi-comes-as-relief-for-island-nation"
-    },
-    {
-      "title": "Trump claims 'fantastic trade deals' as summit with China's Xi wraps up",
-      "participants": [
-        "Trump",
-        "China's Xi"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump claims 'fantastic trade deals' as summit with China's Xi wraps up",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/15/asia-pacific/politics/trump-xi-business-deals"
-    },
-    {
-      "title": "Trump ‘made no commitment’ on Taiwan, arms sales in summit with Xi",
-      "participants": [
-        "Trump",
-        "Taiwan"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump ‘made no commitment’ on Taiwan, arms sales in summit with Xi",
-      "source_url": "https://thehill.com/homenews/administration/5879631-trump-xi-taiwan-summit"
-    },
-    {
-      "title": "BRICS ministers fail to issue a joint statement over differences on West Asia conflict",
-      "participants": [
+        "Amid UAE-Iran",
         "BRICS",
         "West Asia"
       ],
       "date": "",
       "location": "",
-      "description": "BRICS ministers fail to issue a joint statement over differences on West Asia conflict",
-      "source_url": "https://www.thehindu.com/news/international/brics-ministers-fail-to-issue-a-joint-statement-over-differences-on-west-asia-conflict/article70982709.ece"
+      "description": "Amid UAE-Iran rift, BRICS remains a divided house on West Asia; no joint statement after meeting",
+      "source_url": "https://timesofindia.indiatimes.com/india/amid-uae-iran-rift-brics-remains-a-divided-house-on-west-asia-no-joint-statement-after-meeting/articleshow/131129062.cms"
+    },
+    {
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "participants": [
+        "Trump",
+        "Taiwan",
+        "China's Xi"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "source_url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Taiwan casts long shadow over Trump’s summit with Xi",
+      "participants": [
+        "Taiwan",
+        "Trump’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Taiwan casts long shadow over Trump’s summit with Xi",
+      "source_url": "https://www.scmp.com/news/china/article/3353779/taiwan-casts-long-shadow-over-trumps-summit-xi"
+    },
+    {
+      "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
+      "participants": [
+        "BRICS",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "BRICS talks end without joint statement as divisions over Iran war deepen",
+      "source_url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss"
+    },
+    {
+      "title": "Rapid-fire to restrained: China state visit reveals a changed Trump on social media",
+      "participants": [
+        "Rapid-fire",
+        "China",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Rapid-fire to restrained: China state visit reveals a changed Trump on social media",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353766/rapid-fire-restrained-china-state-visit-reveals-changed-trump-social-media"
     }
   ],
   "elections": [
     {
-      "title": "Streeting backs Burnham for return to Westminster, saying he is Labour’s best chance of winning byelection – UK politics live",
+      "title": "Colorado election denier Tina Peters to be freed from prison",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Streeting backs Burnham for return to Westminster, saying he is Labour’s best chance of winning byelection – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/may/15/prime-minister-keir-starmer-leadership-contest-wes-streeting-andy-burnham-angela-rayner-latest-news-updates"
+      "description": "Colorado election denier Tina Peters to be freed from prison",
+      "source_url": "https://www.axios.com/local/denver/2026/05/15/polis-tina-peters-sentence-clemency"
     },
     {
       "title": "Alberta is about to hold a referendum. Washington isn’t prepared.",
@@ -83,14 +94,6 @@
       "date": "",
       "description": "Alberta is about to hold a referendum. Washington isn’t prepared.",
       "source_url": "https://thehill.com/opinion/international/5878389-alberta-separatist-us-engagement"
-    },
-    {
-      "title": "'Elections over, vasooli shuru': Opposition hits out at PM Modi over fuel hike with 'mahangayi man' jab",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "'Elections over, vasooli shuru': Opposition hits out at PM Modi over fuel hike with 'mahangayi man' jab",
-      "source_url": "https://timesofindia.indiatimes.com/india/elections-over-vasooli-shuru-oppn-hits-out-at-pm-modi-over-fuel-hike-with-mahangayi-man-jab/articleshow/131107243.cms"
     },
     {
       "title": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
@@ -111,86 +114,96 @@
   ],
   "global_events": [
     {
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "summary": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "title": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
+      "summary": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "The Guardian World",
-        "The Independent",
+        "PBS NewsHour",
+        "CBC World",
         "Al Jazeera",
-        "The Hindu Intl"
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 7,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-extension-of-ceasefire-says-us/article70984881.ece"
     },
     {
-      "title": "US-China summit exposes Trump's limits on Iran war, Taiwan",
-      "summary": "US-China summit exposes Trump's limits on Iran war, Taiwan",
+      "title": "Ebola outbreak in Congo kills dozens, Africa's CDC says",
+      "summary": "Ebola outbreak in Congo kills dozens, Africa's CDC says",
       "outlets_covering": [
-        "NPR World",
+        "BBC World",
         "PBS NewsHour",
-        "NBC News World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
         "NYT World",
         "The Guardian World",
-        "The Independent",
+        "Time",
+        "The Independent"
+      ],
+      "coverage_count": 11,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.cbsnews.com/news/ebola-congo-dozens-dead-hundreds-more-possible-cases"
+    },
+    {
+      "title": "What did Trump, Xi accomplish from China summit?",
+      "summary": "What did Trump, Xi accomplish from China summit?",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Time",
         "Al Jazeera",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 33,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/what-did-trump-xi-accomplish-from-china-summit"
+    },
+    {
+      "title": "Trump and Boeing Announce China Will Purchase 200 Planes",
+      "summary": "Trump and Boeing Announce China Will Purchase 200 Planes",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "NYT World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html"
+    },
+    {
+      "title": "Trump warns Taiwan on declaring independence after China visit",
+      "summary": "Trump warns Taiwan on declaring independence after China visit",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
         "DW World",
         "France24",
         "Japan Times"
       ],
-      "coverage_count": 20,
+      "coverage_count": 16,
       "region": "China",
       "category": "Conflict",
-      "source_url": "https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Netanyahu says Israel will sue The New York Times over Palestinian prisoner rape allegations",
-      "summary": "Netanyahu says Israel will sue The New York Times over Palestinian prisoner rape allegations",
-      "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-suing-new-york-times-nyt-idf-palestine-prisoners-b2977045.html"
-    },
-    {
-      "title": "Latvian prime minister resigns after controversy over stray Ukrainian drones",
-      "summary": "Latvian prime minister resigns after controversy over stray Ukrainian drones",
-      "outlets_covering": [
-        "BBC World",
-        "Wash Post World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/russia-riga-baltic-parties-finland-b2977014.html"
-    },
-    {
-      "title": "What did we learn from Trump's visit to China?",
-      "summary": "What did we learn from Trump's visit to China?",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy"
-      ],
-      "coverage_count": 15,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/16/asia-pacific/politics/us-china-taiwan-trump-independence"
     }
   ]
 }
