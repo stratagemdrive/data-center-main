@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-17T02:04:41.483002Z",
+  "last_updated": "2026-05-17T12:56:16.333350Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
+    {
+      "title": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
+      "participants": [
+        "India’s Tata",
+        "Dutch",
+        "ASML",
+        "Modi"
+      ],
+      "date": "",
+      "location": "",
+      "description": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
+      "source_url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss"
+    },
     {
       "title": "Taiwan casts long shadow over Trump’s summit with Xi",
       "participants": [
@@ -36,17 +49,6 @@
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353761/xi-jinping-pay-first-state-visit-us-more-decade-trump-says"
     },
     {
-      "title": "Trump ‘made no commitment’ on Taiwan, arms sales in summit with Xi",
-      "participants": [
-        "Trump",
-        "Taiwan"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump ‘made no commitment’ on Taiwan, arms sales in summit with Xi",
-      "source_url": "https://thehill.com/homenews/administration/5879631-trump-xi-taiwan-summit"
-    },
-    {
       "title": "Russia’s Putin is heading to China next week, days after historic Xi-Trump summit",
       "participants": [
         "Russia’s Putin",
@@ -61,36 +63,12 @@
   ],
   "elections": [
     {
-      "title": "LNP falls ‘agonisingly short’ in Stafford byelection as Labor suffers swing against it",
-      "country": "",
+      "title": "Andalucíans vote in election seen as gauge of Spain’s wider political change",
+      "country": "Spain",
       "election_type": "National",
       "date": "",
-      "description": "LNP falls ‘agonisingly short’ in Stafford byelection as Labor suffers swing against it",
-      "source_url": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor"
-    },
-    {
-      "title": "Two presidential campaign staffers killed in Colombia as elections near",
-      "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Two presidential campaign staffers killed in Colombia as elections near",
-      "source_url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss"
-    },
-    {
-      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
-      "country": "Brazil",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
-      "source_url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss"
-    },
-    {
-      "title": "Palestinian President Abbas casts vote in decisive Fatah elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Palestinian President Abbas casts vote in decisive Fatah elections",
-      "source_url": "https://www.aljazeera.com/news/2026/5/16/palestinian-president-abbas-casts-vote-in-decisive-fatah-elections?traffic_source=rss"
+      "description": "Andalucíans vote in election seen as gauge of Spain’s wider political change",
+      "source_url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez"
     },
     {
       "title": "Colorado election denier Tina Peters to be freed from prison",
@@ -99,95 +77,98 @@
       "date": "",
       "description": "Colorado election denier Tina Peters to be freed from prison",
       "source_url": "https://www.axios.com/local/denver/2026/05/15/polis-tina-peters-sentence-clemency"
+    },
+    {
+      "title": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
+      "source_url": "https://www.axios.com/2026/05/14/frederica-wilson-eye-surgery-reelection-age"
     }
   ],
   "global_events": [
     {
-      "title": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
-      "summary": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "summary": "WHO declares Ebola outbreak in DR Congo a global health emergency",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
-    },
-    {
-      "title": "WHO declares Ebola outbreak in Congo, Uganda a global public health emergency",
-      "summary": "WHO declares Ebola outbreak in Congo, Uganda a global public health emergency",
-      "outlets_covering": [
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
         "Sky News World",
-        "NYT World",
-        "Bloomberg",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.thehindu.com/news/international/who-declares-ebola-outbreak-in-congo-uganda-a-global-public-health-emergency/article70989497.ece"
-    },
-    {
-      "title": "Days after Trump's summit in Beijing, Putin will meet with China's Xi",
-      "summary": "Days after Trump's summit in Beijing, Putin will meet with China's Xi",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
         "Fox News World",
         "NYT World",
-        "Wash Post World",
-        "DW World",
-        "France24",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 25,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/vladimir-putin-xi-jinping-russia-china-visit-beijing-trump-summit"
-    },
-    {
-      "title": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
-      "summary": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
         "The Guardian World",
-        "The Hindu Intl",
-        "The Hill"
+        "Bloomberg",
+        "Time"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-extension-of-ceasefire-says-us/article70984881.ece"
+      "coverage_count": 18,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 87",
-      "summary": "Congolese report constant burials as deaths in new Ebola outbreak reach 87",
+      "title": "At least 4 killed by Ukrainian drone strikes on Russia",
+      "summary": "At least 4 killed by Ukrainian drone strikes on Russia",
       "outlets_covering": [
         "ABC News Intl",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/ukrainian-drone-strikes-russia-deaths"
+    },
+    {
+      "title": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
+      "summary": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
         "France24",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/middle-east-israel-attacks-south-lebanon-day-after-ceasefire-extension"
+    },
+    {
+      "title": "Putin to visit China for talks with Xi, days after Trump trip",
+      "summary": "Putin to visit China for talks with Xi, days after Trump trip",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NYT World",
+        "Bloomberg",
+        "Time",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 18,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/17/asia-pacific/politics/russia-putin-china-visit"
+    },
+    {
+      "title": "Maldives military diver dies searching for four Italian divers missing inside underwater cave system",
+      "summary": "Maldives military diver dies searching for four Italian divers missing inside underwater cave system",
+      "outlets_covering": [
+        "Sky News World",
+        "Fox News World",
         "The Hindu Intl"
       ],
       "coverage_count": 3,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://abcnews.com/International/wireStory/congolese-report-constant-burials-deaths-new-ebola-outbreak-133028502"
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.foxnews.com/world/maldives-military-diver-dies-searching-four-italian-divers-missing-inside-underwater-cave-system"
     }
   ]
 }
