@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-05-16T12:58:31.328768Z",
+  "last_updated": "2026-05-17T02:04:41.483002Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
-    {
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "participants": [
-        "Trump",
-        "Taiwan",
-        "China's Xi"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "source_url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "Taiwan casts long shadow over Trump’s summit with Xi",
       "participants": [
@@ -48,33 +36,61 @@
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353761/xi-jinping-pay-first-state-visit-us-more-decade-trump-says"
     },
     {
-      "title": "Trump claims 'fantastic trade deals' as summit with China's Xi wraps up",
+      "title": "Trump ‘made no commitment’ on Taiwan, arms sales in summit with Xi",
       "participants": [
         "Trump",
-        "China's Xi"
+        "Taiwan"
       ],
       "date": "",
       "location": "",
-      "description": "Trump claims 'fantastic trade deals' as summit with China's Xi wraps up",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/15/asia-pacific/politics/trump-xi-business-deals"
+      "description": "Trump ‘made no commitment’ on Taiwan, arms sales in summit with Xi",
+      "source_url": "https://thehill.com/homenews/administration/5879631-trump-xi-taiwan-summit"
+    },
+    {
+      "title": "Russia’s Putin is heading to China next week, days after historic Xi-Trump summit",
+      "participants": [
+        "Russia’s Putin",
+        "China",
+        "Xi-Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Russia’s Putin is heading to China next week, days after historic Xi-Trump summit",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353648/russias-putin-heading-china-next-week-days-after-historic-xi-trump-summit"
     }
   ],
   "elections": [
     {
-      "title": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
-      "country": "Spain",
-      "election_type": "National",
-      "date": "",
-      "description": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
-      "source_url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez"
-    },
-    {
-      "title": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
+      "title": "LNP falls ‘agonisingly short’ in Stafford byelection as Labor suffers swing against it",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
+      "description": "LNP falls ‘agonisingly short’ in Stafford byelection as Labor suffers swing against it",
       "source_url": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor"
+    },
+    {
+      "title": "Two presidential campaign staffers killed in Colombia as elections near",
+      "country": "Colombia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Two presidential campaign staffers killed in Colombia as elections near",
+      "source_url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss"
+    },
+    {
+      "title": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
+      "country": "Brazil",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
+      "source_url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss"
+    },
+    {
+      "title": "Palestinian President Abbas casts vote in decisive Fatah elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Palestinian President Abbas casts vote in decisive Fatah elections",
+      "source_url": "https://www.aljazeera.com/news/2026/5/16/palestinian-president-abbas-casts-vote-in-decisive-fatah-elections?traffic_source=rss"
     },
     {
       "title": "Colorado election denier Tina Peters to be freed from prison",
@@ -83,28 +99,12 @@
       "date": "",
       "description": "Colorado election denier Tina Peters to be freed from prison",
       "source_url": "https://www.axios.com/local/denver/2026/05/15/polis-tina-peters-sentence-clemency"
-    },
-    {
-      "title": "Alberta is about to hold a referendum. Washington isn’t prepared.",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Alberta is about to hold a referendum. Washington isn’t prepared.",
-      "source_url": "https://thehill.com/opinion/international/5878389-alberta-separatist-us-engagement"
-    },
-    {
-      "title": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
-      "source_url": "https://www.axios.com/2026/05/14/frederica-wilson-eye-surgery-reelection-age"
     }
   ],
   "global_events": [
     {
-      "title": "Israel Says It Killed Hamas’s Top Leader in Gaza",
-      "summary": "Israel Says It Killed Hamas’s Top Leader in Gaza",
+      "title": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
+      "summary": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -112,33 +112,52 @@
         "CBC World",
         "CBS News World",
         "NYT World",
+        "Al Jazeera",
         "France24",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 9,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
     },
     {
-      "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
-      "summary": "New outbreak of Ebola kills 80 in eastern DR Congo",
+      "title": "WHO declares Ebola outbreak in Congo, Uganda a global public health emergency",
+      "summary": "WHO declares Ebola outbreak in Congo, Uganda a global public health emergency",
       "outlets_covering": [
-        "BBC World",
         "PBS NewsHour",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
-        "Time",
-        "Al Jazeera"
+        "Bloomberg",
+        "The Hindu Intl"
       ],
-      "coverage_count": 13,
+      "coverage_count": 9,
       "region": "Africa",
       "category": "Health",
-      "source_url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.thehindu.com/news/international/who-declares-ebola-outbreak-in-congo-uganda-a-global-public-health-emergency/article70989497.ece"
+    },
+    {
+      "title": "Days after Trump's summit in Beijing, Putin will meet with China's Xi",
+      "summary": "Days after Trump's summit in Beijing, Putin will meet with China's Xi",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "Wash Post World",
+        "DW World",
+        "France24",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 25,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/vladimir-putin-xi-jinping-russia-china-visit-beijing-trump-summit"
     },
     {
       "title": "Israel, Lebanon agree to extension of ceasefire despite new strikes",
@@ -148,54 +167,27 @@
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
+        "The Guardian World",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 12,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/israel-lebanon-agree-to-extension-of-ceasefire-says-us/article70984881.ece"
     },
     {
-      "title": "Tech Chiefs Accompany Trump on China Trip",
-      "summary": "Tech Chiefs Accompany Trump on China Trip",
+      "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 87",
+      "summary": "Congolese report constant burials as deaths in new Ebola outbreak reach 87",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "Bloomberg",
-        "Time",
-        "The Independent",
-        "Al Jazeera",
+        "ABC News Intl",
         "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 16,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-05-16/tech-chiefs-accompany-trump-on-china-trip-video"
-    },
-    {
-      "title": "China Will Host Putin, Days After Trump’s Visit",
-      "summary": "China Will Host Putin, Days After Trump’s Visit",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 14,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html"
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://abcnews.com/International/wireStory/congolese-report-constant-burials-deaths-new-ebola-outbreak-133028502"
     }
   ]
 }
