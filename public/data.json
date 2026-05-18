@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-17T12:56:16.333350Z",
+  "last_updated": "2026-05-18T02:27:08.846922Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
-      "title": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
+      "title": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
       "participants": [
-        "India’s Tata",
-        "Dutch",
-        "ASML",
-        "Modi"
+        "Taiwan's",
+        "U.S",
+        "Trump",
+        "China"
       ],
       "date": "",
       "location": "",
-      "description": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
-      "source_url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss"
+      "description": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
+      "source_url": "https://www.pbs.org/newshour/world/taiwans-president-defends-u-s-arms-purchases-after-trumps-visit-to-china"
     },
     {
       "title": "Taiwan casts long shadow over Trump’s summit with Xi",
@@ -63,12 +63,12 @@
   ],
   "elections": [
     {
-      "title": "Andalucíans vote in election seen as gauge of Spain’s wider political change",
-      "country": "Spain",
+      "title": "Louisiana voters reject all 5 constitutional amendments in May election",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Andalucíans vote in election seen as gauge of Spain’s wider political change",
-      "source_url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez"
+      "description": "Louisiana voters reject all 5 constitutional amendments in May election",
+      "source_url": "https://thehill.com/homenews/state-watch/5882093-louisiana-rejects-5-constitutional-amendments"
     },
     {
       "title": "Colorado election denier Tina Peters to be freed from prison",
@@ -89,86 +89,96 @@
   ],
   "global_events": [
     {
-      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-      "summary": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "title": "WHO declares Ebola outbreak global health emergency",
+      "summary": "WHO declares Ebola outbreak global health emergency",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "Sky News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
-        "Bloomberg",
-        "Time"
+        "Time",
+        "France24",
+        "Times of India",
+        "The Hindu Intl"
       ],
-      "coverage_count": 18,
-      "region": "Africa",
+      "coverage_count": 17,
+      "region": "Global",
       "category": "Health",
-      "source_url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://timesofindia.indiatimes.com/india/who-declares-ebola-outbreak-global-health-emergency/articleshow/131164683.cms"
     },
     {
-      "title": "At least 4 killed by Ukrainian drone strikes on Russia",
-      "summary": "At least 4 killed by Ukrainian drone strikes on Russia",
+      "title": "Large Ukrainian drone strikes kill at least 4 people in Russia",
+      "summary": "Large Ukrainian drone strikes kill at least 4 people in Russia",
       "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "ABC News Intl",
         "CBS News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 10,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/world/large-ukrainian-drone-strikes-kill-at-least-4-people-in-russia"
+    },
+    {
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "summary": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "The Guardian World",
+        "France24",
+        "Japan Times",
         "The Hindu Intl"
       ],
       "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/ukrainian-drone-strikes-russia-deaths"
-    },
-    {
-      "title": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
-      "summary": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 4,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/middle-east-israel-attacks-south-lebanon-day-after-ceasefire-extension"
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Putin to visit China for talks with Xi, days after Trump trip",
-      "summary": "Putin to visit China for talks with Xi, days after Trump trip",
+      "title": "What to Know About the Latest Ebola Outbreak",
+      "summary": "What to Know About the Latest Ebola Outbreak",
       "outlets_covering": [
         "BBC World",
+        "PBS NewsHour",
+        "ABC News Intl",
         "CBS News World",
         "NYT World",
-        "Bloomberg",
-        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Times of India",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 18,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+    },
+    {
+      "title": "Lai says Taiwan won’t be sacrificed as Trump weighs arms deal",
+      "summary": "Lai says Taiwan won’t be sacrificed as Trump weighs arms deal",
+      "outlets_covering": [
         "Japan Times",
         "The Hindu Intl",
         "SCMP",
-        "The Hill"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 18,
+      "coverage_count": 5,
       "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/17/asia-pacific/politics/russia-putin-china-visit"
-    },
-    {
-      "title": "Maldives military diver dies searching for four Italian divers missing inside underwater cave system",
-      "summary": "Maldives military diver dies searching for four Italian divers missing inside underwater cave system",
-      "outlets_covering": [
-        "Sky News World",
-        "Fox News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/maldives-military-diver-dies-searching-four-italian-divers-missing-inside-underwater-cave-system"
+      "category": "Technology",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/18/asia-pacific/politics/lai-taiwan-trump-arms-deal"
     }
   ]
 }
