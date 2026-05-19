@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T14:53:38.997116Z",
+  "last_updated": "2026-05-19T02:15:18.633017Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
@@ -27,28 +27,6 @@
       "source_url": "https://www.scmp.com/news/china/article/3353779/taiwan-casts-long-shadow-over-trumps-summit-xi"
     },
     {
-      "title": "Rapid-fire to restrained: China state visit reveals a changed Trump on social media",
-      "participants": [
-        "Rapid-fire",
-        "China",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Rapid-fire to restrained: China state visit reveals a changed Trump on social media",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353766/rapid-fire-restrained-china-state-visit-reveals-changed-trump-social-media"
-    },
-    {
-      "title": "China’s Xi Jinping to pay first state visit to US in more than a decade",
-      "participants": [
-        "China’s Xi Jinping"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China’s Xi Jinping to pay first state visit to US in more than a decade",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3353761/xi-jinping-pay-first-state-visit-us-more-decade-trump-says"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -60,6 +38,22 @@
     }
   ],
   "elections": [
+    {
+      "title": "A redistricting re-do? What to know about Alabama’s primary elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "A redistricting re-do? What to know about Alabama’s primary elections",
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss"
+    },
+    {
+      "title": "A race on the right: What to know about Idaho’s 2026 primary elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "A race on the right: What to know about Idaho’s 2026 primary elections",
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/a-race-on-the-right-what-to-know-about-idahos-2026-primary-elections?traffic_source=rss"
+    },
     {
       "title": "Zambia's media freedom under scrutiny ahead of 2026 elections",
       "country": "",
@@ -83,14 +77,6 @@
       "date": "",
       "description": "Colorado election denier Tina Peters to be freed from prison",
       "source_url": "https://www.axios.com/local/denver/2026/05/15/polis-tina-peters-sentence-clemency"
-    },
-    {
-      "title": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "83-year-old Rep. Frederica Wilson eyes reelection despite Hill absence",
-      "source_url": "https://www.axios.com/2026/05/14/frederica-wilson-eye-surgery-reelection-age"
     }
   ],
   "global_events": [
@@ -98,6 +84,7 @@
       "title": "Ebola outbreak in Congo and Uganda declared global health emergency",
       "summary": "Ebola outbreak in Congo and Uganda declared global health emergency",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
@@ -106,7 +93,6 @@
         "Fox News World",
         "NYT World",
         "The Independent",
-        "Al Jazeera",
         "France24"
       ],
       "coverage_count": 17,
@@ -115,68 +101,74 @@
       "source_url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response"
     },
     {
-      "title": "I’m a microbiologist. Here’s what we know about the Ebola outbreak declared a global health emergency",
-      "summary": "I’m a microbiologist. Here’s what we know about the Ebola outbreak declared a global health emergency",
+      "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+      "summary": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
       "outlets_covering": [
-        "NPR World",
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss"
+    },
+    {
+      "title": "What to know about the Ebola outbreak",
+      "summary": "What to know about the Ebola outbreak",
+      "outlets_covering": [
+        "BBC World",
         "PBS NewsHour",
         "CBS News World",
-        "Fox News World",
+        "NBC News World",
+        "Sky News World",
         "NYT World",
-        "Time",
         "The Independent",
         "France24",
         "UN News"
       ],
-      "coverage_count": 13,
+      "coverage_count": 15,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.independent.co.uk/news/world/africa/ebola-virus-outbreak-symptoms-uganda-b2978488.html"
+      "source_url": "https://www.nbcnews.com/health/health-news/ebola-outbreak-2026-bundibugyo-symptoms-how-spread-treatment-what-know-rcna345696"
     },
     {
-      "title": "Marjorie Taylor Greene Warns of ‘Political Revolution’ in America If Trump Sends U.S. Troops to Iran",
-      "summary": "Marjorie Taylor Greene Warns of ‘Political Revolution’ in America If Trump Sends U.S. Troops to Iran",
-      "outlets_covering": [
-        "Time",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://time.com/article/2026/05/18/american-political-revolution-over-iran-marjorie-taylor-greene-warns-trump"
-    },
-    {
-      "title": "Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal",
-      "summary": "Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal",
+      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+      "summary": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "The Guardian World",
         "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "UN News"
       ],
-      "coverage_count": 9,
+      "coverage_count": 8,
       "region": "Middle East",
-      "category": "Conflict",
+      "category": "Politics",
       "source_url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates"
     },
     {
-      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
-      "summary": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+      "title": "Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund",
+      "summary": "Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund",
       "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "The Guardian World",
+        "Time",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 4,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit"
     }
   ]
 }
