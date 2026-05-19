@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-05-19T02:15:18.633017Z",
-  "world_org_meetings": [],
+  "last_updated": "2026-05-19T14:36:06.527823Z",
+  "world_org_meetings": [
+    {
+      "title": "Russia’s Vladimir Putin to visit India for Brics summit in September",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Russia’s Vladimir Putin to visit India for Brics summit in September",
+      "source_url": "https://timesofindia.indiatimes.com/india/russias-vladimir-putin-to-visit-india-for-brics-summit-in-september/articleshow/131197989.cms"
+    }
+  ],
   "diplomatic_visits": [
+    {
+      "title": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
+      "participants": [
+        "Vladimir Putin",
+        "Beijing",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
+      "source_url": "https://www.theguardian.com/world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia"
+    },
+    {
+      "title": "Russia-China trade set to dominate talks between two leaders",
+      "participants": [
+        "Russia-China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Russia-China trade set to dominate talks between two leaders",
+      "source_url": "https://www.france24.com/en/russia-china-trade-set-to-lead-talks-between-two-leaders"
+    },
     {
       "title": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
       "participants": [
@@ -16,17 +47,6 @@
       "source_url": "https://www.pbs.org/newshour/world/taiwans-president-defends-u-s-arms-purchases-after-trumps-visit-to-china"
     },
     {
-      "title": "Taiwan casts long shadow over Trump’s summit with Xi",
-      "participants": [
-        "Taiwan",
-        "Trump’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Taiwan casts long shadow over Trump’s summit with Xi",
-      "source_url": "https://www.scmp.com/news/china/article/3353779/taiwan-casts-long-shadow-over-trumps-summit-xi"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -39,36 +59,12 @@
   ],
   "elections": [
     {
-      "title": "A redistricting re-do? What to know about Alabama’s primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "A redistricting re-do? What to know about Alabama’s primary elections",
-      "source_url": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss"
-    },
-    {
-      "title": "A race on the right: What to know about Idaho’s 2026 primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "A race on the right: What to know about Idaho’s 2026 primary elections",
-      "source_url": "https://www.aljazeera.com/news/2026/5/18/a-race-on-the-right-what-to-know-about-idahos-2026-primary-elections?traffic_source=rss"
-    },
-    {
       "title": "Zambia's media freedom under scrutiny ahead of 2026 elections",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Zambia's media freedom under scrutiny ahead of 2026 elections",
       "source_url": "https://www.dw.com/en/zambia-s-media-freedom-under-scrutiny-ahead-of-2026-elections/a-77195263?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Louisiana voters reject all 5 constitutional amendments in May election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Louisiana voters reject all 5 constitutional amendments in May election",
-      "source_url": "https://thehill.com/homenews/state-watch/5882093-louisiana-rejects-5-constitutional-amendments"
     },
     {
       "title": "Colorado election denier Tina Peters to be freed from prison",
@@ -81,94 +77,90 @@
   ],
   "global_events": [
     {
-      "title": "Ebola outbreak in Congo and Uganda declared global health emergency",
-      "summary": "Ebola outbreak in Congo and Uganda declared global health emergency",
+      "title": "Trump says holding off on strike on Iran at request of Gulf allies",
+      "summary": "Trump says holding off on strike on Iran at request of Gulf allies",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
-        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Bloomberg",
+        "France24",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/trump-says-holding-off-on-strike-on-iran-at-request-of-gulf-allies"
+    },
+    {
+      "title": "Ebola outbreak in Congo and Uganda declared global health emergency",
+      "summary": "Ebola outbreak in Congo and Uganda declared global health emergency",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "Fox News World",
         "NYT World",
         "The Independent",
-        "France24"
+        "France24",
+        "Japan Times",
+        "UN News"
       ],
-      "coverage_count": 17,
+      "coverage_count": 14,
       "region": "Africa",
       "category": "Health",
       "source_url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response"
     },
     {
-      "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
-      "summary": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+      "title": "WHO worried about 'scale and speed' of Ebola outbreak",
+      "summary": "WHO worried about 'scale and speed' of Ebola outbreak",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "The Guardian World",
-        "Bloomberg",
-        "Time",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times"
-      ],
-      "coverage_count": 17,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss"
-    },
-    {
-      "title": "What to know about the Ebola outbreak",
-      "summary": "What to know about the Ebola outbreak",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
         "NYT World",
-        "The Independent",
         "France24",
-        "UN News"
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 15,
+      "coverage_count": 10,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://www.nbcnews.com/health/health-news/ebola-outbreak-2026-bundibugyo-symptoms-how-spread-treatment-what-know-rcna345696"
+      "source_url": "https://www.france24.com/en/who-worried-about-scale-and-speed-of-ebola-outbreak"
     },
     {
-      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
-      "summary": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+      "title": "Trump 'Concerned' About Ebola Outbreak After American Tests Positive for Virus and Deaths Rise",
+      "summary": "Trump 'Concerned' About Ebola Outbreak After American Tests Positive for Virus and Deaths Rise",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
         "CBC World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "UN News"
+        "NBC News World",
+        "NYT World",
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates"
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://time.com/article/2026/05/19/trump-concerned-ebola-outbreak-american-tests-positive-cases-deaths-rise"
     },
     {
-      "title": "Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund",
-      "summary": "Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund",
+      "title": "US extends sanctions waiver on Russian oil: Why it matters",
+      "summary": "US extends sanctions waiver on Russian oil: Why it matters",
       "outlets_covering": [
-        "The Guardian World",
-        "Time",
-        "The Hill",
-        "Axios"
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit"
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Economy",
+      "source_url": "https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters?traffic_source=rss"
     }
   ]
 }
