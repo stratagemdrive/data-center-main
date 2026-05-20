@@ -1,18 +1,34 @@
 {
-  "last_updated": "2026-05-19T14:36:06.527823Z",
+  "last_updated": "2026-05-20T02:14:52.965371Z",
   "world_org_meetings": [
     {
-      "title": "Russia’s Vladimir Putin to visit India for Brics summit in September",
-      "organization": "BRICS",
+      "title": "Trump to attend G7 summit in France, Axios reports",
+      "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Russia’s Vladimir Putin to visit India for Brics summit in September",
-      "source_url": "https://timesofindia.indiatimes.com/india/russias-vladimir-putin-to-visit-india-for-brics-summit-in-september/articleshow/131197989.cms"
+      "description": "Trump to attend G7 summit in France, Axios reports",
+      "source_url": "https://www.thehindu.com/news/international/trump-attend-g7-summit-in-france-reports/article71000556.ece"
+    },
+    {
+      "title": "Rubio to attend NATO talks, pay first visit to India",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Rubio to attend NATO talks, pay first visit to India",
+      "source_url": "https://www.thehindu.com/news/international/rubio-to-attend-nato-talks-pay-first-visit-to-india/article70999683.ece"
+    },
+    {
+      "title": "Multilateralsim at work: Eurogroup President on G7 meeting, Europe's priorities and challenges",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Multilateralsim at work: Eurogroup President on G7 meeting, Europe's priorities and challenges",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260519-multilateralsim-at-work-eurogroup-president-on-g7-meeting-europe-s-priorities-and-challenges"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
+      "title": "Vladimir Putin arrives in Beijing for state visit hot on heels of Trump",
       "participants": [
         "Vladimir Putin",
         "Beijing",
@@ -20,18 +36,8 @@
       ],
       "date": "",
       "location": "",
-      "description": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
+      "description": "Vladimir Putin arrives in Beijing for state visit hot on heels of Trump",
       "source_url": "https://www.theguardian.com/world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia"
-    },
-    {
-      "title": "Russia-China trade set to dominate talks between two leaders",
-      "participants": [
-        "Russia-China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Russia-China trade set to dominate talks between two leaders",
-      "source_url": "https://www.france24.com/en/russia-china-trade-set-to-lead-talks-between-two-leaders"
     },
     {
       "title": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
@@ -59,108 +65,106 @@
   ],
   "elections": [
     {
+      "title": "Democrats eye 2027 crackdown on AI in election ads",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Democrats eye 2027 crackdown on AI in election ads",
+      "source_url": "https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos"
+    },
+    {
+      "title": "Live results: Georgia gubernatorial primary elections",
+      "country": "Georgia",
+      "election_type": "National",
+      "date": "",
+      "description": "Live results: Georgia gubernatorial primary elections",
+      "source_url": "https://thehill.com/homenews/campaign/5872529-live-results-georgia-gubernatorial-primary"
+    },
+    {
       "title": "Zambia's media freedom under scrutiny ahead of 2026 elections",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Zambia's media freedom under scrutiny ahead of 2026 elections",
       "source_url": "https://www.dw.com/en/zambia-s-media-freedom-under-scrutiny-ahead-of-2026-elections/a-77195263?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Colorado election denier Tina Peters to be freed from prison",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Colorado election denier Tina Peters to be freed from prison",
-      "source_url": "https://www.axios.com/local/denver/2026/05/15/polis-tina-peters-sentence-clemency"
     }
   ],
   "global_events": [
     {
-      "title": "Trump says holding off on strike on Iran at request of Gulf allies",
-      "summary": "Trump says holding off on strike on Iran at request of Gulf allies",
+      "title": "Trump says he's called off Iran strike at request of Gulf allies",
+      "summary": "Trump says he's called off Iran strike at request of Gulf allies",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
-        "CBS News World",
         "NBC News World",
-        "Bloomberg",
-        "France24",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 12,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/trump-says-holding-off-on-strike-on-iran-at-request-of-gulf-allies"
+      "source_url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike"
     },
     {
-      "title": "Ebola outbreak in Congo and Uganda declared global health emergency",
-      "summary": "Ebola outbreak in Congo and Uganda declared global health emergency",
+      "title": "Israeli forces intercept the remaining activist flotilla vessels headed for Gaza",
+      "summary": "Israeli forces intercept the remaining activist flotilla vessels headed for Gaza",
       "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
         "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Independent",
-        "France24",
-        "Japan Times",
-        "UN News"
-      ],
-      "coverage_count": 14,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response"
-    },
-    {
-      "title": "WHO worried about 'scale and speed' of Ebola outbreak",
-      "summary": "WHO worried about 'scale and speed' of Ebola outbreak",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "France24",
-        "Japan Times",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 10,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.france24.com/en/who-worried-about-scale-and-speed-of-ebola-outbreak"
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/world/israeli-forces-intercept-the-remaining-activist-flotilla-vessels-headed-for-gaza"
     },
     {
-      "title": "Trump 'Concerned' About Ebola Outbreak After American Tests Positive for Virus and Deaths Rise",
-      "summary": "Trump 'Concerned' About Ebola Outbreak After American Tests Positive for Virus and Deaths Rise",
+      "title": "Estonia says Nato jet shot down drone over its territory",
+      "summary": "Estonia says Nato jet shot down drone over its territory",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "The Independent",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "WHO worried about ‘scale and speed’ of deadly Ebola outbreak",
+      "summary": "WHO worried about ‘scale and speed’ of deadly Ebola outbreak",
       "outlets_covering": [
         "CBC World",
+        "CBS News World",
         "NBC News World",
-        "NYT World",
-        "Time",
-        "The Independent"
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "Axios"
       ],
-      "coverage_count": 6,
+      "coverage_count": 8,
       "region": "Global",
       "category": "Health",
-      "source_url": "https://time.com/article/2026/05/19/trump-concerned-ebola-outbreak-american-tests-positive-cases-deaths-rise"
+      "source_url": "https://www.thehindu.com/news/international/who-chief-says-deeply-concerned-by-scale-and-speed-of-democratic-republic-congos-ebola-outbreak/article70997237.ece"
     },
     {
-      "title": "US extends sanctions waiver on Russian oil: Why it matters",
-      "summary": "US extends sanctions waiver on Russian oil: Why it matters",
+      "title": "G7 Finance Ministers explore responses to Iran war fallout",
+      "summary": "G7 Finance Ministers explore responses to Iran war fallout",
       "outlets_covering": [
-        "Al Jazeera",
+        "NYT World",
         "The Hindu Intl",
-        "The Hill"
+        "Foreign Policy"
       ],
       "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Economy",
-      "source_url": "https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters?traffic_source=rss"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/g7-finance-ministers-explore-responses-to-iran-war-fallout/article70997086.ece"
     }
   ]
 }
