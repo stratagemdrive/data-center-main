@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T14:35:25.291416Z",
+  "last_updated": "2026-05-21T02:14:10.461753Z",
   "world_org_meetings": [
     {
       "title": "Trump to attend G7 meeting in France",
@@ -8,6 +8,14 @@
       "location": "",
       "description": "Trump to attend G7 meeting in France",
       "source_url": "https://thehill.com/homenews/administration/5886742-donald-trump-g7-summit-france"
+    },
+    {
+      "title": "UN General Assembly backs world court climate ruling, US among nations opposing",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "UN General Assembly backs world court climate ruling, US among nations opposing",
+      "source_url": "https://www.france24.com/en/environment/20260520-un-general-assembly-backs-world-court-climate-ruling-us-opposes"
     },
     {
       "title": "Rubio to attend NATO talks, pay first visit to India",
@@ -20,41 +28,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Russian President Putin meets with China's Xi Jinping, days after Trump's visit",
+      "title": "What’s the significance of the Russian president’s visit to China?",
       "participants": [
-        "Russian President Putin",
-        "China's Xi Jinping",
-        "Trump's"
+        "What’s",
+        "Russian",
+        "China?"
       ],
       "date": "",
       "location": "",
-      "description": "Russian President Putin meets with China's Xi Jinping, days after Trump's visit",
-      "source_url": "https://www.npr.org/2026/05/20/nx-s1-5826921/russian-president-putin-meets-with-chinas-xi-jinping-days-after-trumps-visit"
-    },
-    {
-      "title": "Vladimir Putin arrives in Beijing for state visit hot on heels of Trump",
-      "participants": [
-        "Vladimir Putin",
-        "Beijing",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Vladimir Putin arrives in Beijing for state visit hot on heels of Trump",
-      "source_url": "https://www.theguardian.com/world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia"
-    },
-    {
-      "title": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
-      "participants": [
-        "Taiwan's",
-        "U.S",
-        "Trump",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
-      "source_url": "https://www.pbs.org/newshour/world/taiwans-president-defends-u-s-arms-purchases-after-trumps-visit-to-china"
+      "description": "What’s the significance of the Russian president’s visit to China?",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -69,14 +52,6 @@
   ],
   "elections": [
     {
-      "title": "Israel is moving closer to a snap election. Could this be the end for Netanyahu?",
-      "country": "Israel",
-      "election_type": "Snap",
-      "date": "",
-      "description": "Israel is moving closer to a snap election. Could this be the end for Netanyahu?",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-parliament-netanyahu-election-knesset-b2980294.html"
-    },
-    {
       "title": "The most important election is the one most Americans skip",
       "country": "",
       "election_type": "National",
@@ -85,12 +60,12 @@
       "source_url": "https://www.vox.com/today-explained-newsletter/489080/massie-kentucky-republican-primary"
     },
     {
-      "title": "Two courts find February’s Lower House election constitutional",
-      "country": "",
-      "election_type": "National",
+      "title": "Israel is moving closer to a snap election. Could this be the end for Netanyahu?",
+      "country": "Israel",
+      "election_type": "Snap",
       "date": "",
-      "description": "Two courts find February’s Lower House election constitutional",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/20/japan/crime-legal/courts-lower-house-poll-constitutional"
+      "description": "Israel is moving closer to a snap election. Could this be the end for Netanyahu?",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-parliament-netanyahu-election-knesset-b2980294.html"
     },
     {
       "title": "Democrats eye 2027 crackdown on AI in election ads",
@@ -99,81 +74,86 @@
       "date": "",
       "description": "Democrats eye 2027 crackdown on AI in election ads",
       "source_url": "https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos"
-    },
-    {
-      "title": "Live results: Georgia gubernatorial primary elections",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "Live results: Georgia gubernatorial primary elections",
-      "source_url": "https://thehill.com/homenews/campaign/5872529-live-results-georgia-gubernatorial-primary"
     }
   ],
   "global_events": [
     {
-      "title": "News Wrap: Trump says he called off strike on Iran planned for Tuesday",
-      "summary": "News Wrap: Trump says he called off strike on Iran planned for Tuesday",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "summary": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
       "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "NBC News World"
+        "BBC World",
+        "CBS News World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/show/news-wrap-trump-says-he-called-off-strike-on-iran-planned-for-tuesday"
+      "source_url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran threatens war \"beyond the region\" if U.S. launches new attacks",
-      "summary": "Iran threatens war \"beyond the region\" if U.S. launches new attacks",
+      "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
+      "summary": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
       "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-irgc-threatens-attacks-beyond-region"
-    },
-    {
-      "title": "Trump to attend G7 meeting in France",
-      "summary": "Trump to attend G7 meeting in France",
-      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "Sky News World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "France24",
         "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 13,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment"
+    },
+    {
+      "title": "Xi hosts Putin in Beijing, cementing China-Russia alliance after Trump's visit",
+      "summary": "Xi hosts Putin in Beijing, cementing China-Russia alliance after Trump's visit",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 10,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.pbs.org/newshour/show/xi-hosts-putin-in-beijing-cementing-china-russia-alliance-after-trumps-visit"
+    },
+    {
+      "title": "Trump's new $1.776B 'Anti-Weaponization Fund' is a wild ride | About That",
+      "summary": "Trump's new $1.776B 'Anti-Weaponization Fund' is a wild ride | About That",
+      "outlets_covering": [
+        "CBC World",
+        "Al Jazeera",
+        "France24",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 3,
-      "region": "Europe",
+      "coverage_count": 10,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://thehill.com/homenews/administration/5886742-donald-trump-g7-summit-france"
+      "source_url": "https://www.cbc.ca/player/play/9.7206319?cmp=rss"
     },
     {
-      "title": "Senate advances bill aimed at ending Iran war as Cassidy, after primary loss, flips to support it",
-      "summary": "Senate advances bill aimed at ending Iran war as Cassidy, after primary loss, flips to support it",
+      "title": "What’s the significance of the Russian president’s visit to China?",
+      "summary": "What’s the significance of the Russian president’s visit to China?",
       "outlets_covering": [
-        "NBC News World",
-        "The Independent",
-        "The Hindu Intl"
+        "NPR World",
+        "Al Jazeera"
       ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/senate-advances-bill-aimed-at-ending-iran-war-as-cassidy-after-primary-loss-flips-to-support-it/article71000899.ece"
-    },
-    {
-      "title": "Israeli forces intercept the remaining activist flotilla vessels headed for Gaza",
-      "summary": "Israeli forces intercept the remaining activist flotilla vessels headed for Gaza",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 2,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/israeli-forces-intercept-the-remaining-activist-flotilla-vessels-headed-for-gaza/article71001651.ece"
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss"
     }
   ]
 }
