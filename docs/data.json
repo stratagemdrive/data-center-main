@@ -1,43 +1,26 @@
 {
-  "last_updated": "2026-05-21T02:14:10.461753Z",
+  "last_updated": "2026-05-21T14:40:58.890515Z",
   "world_org_meetings": [
     {
-      "title": "Trump to attend G7 meeting in France",
+      "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Trump to attend G7 meeting in France",
-      "source_url": "https://thehill.com/homenews/administration/5886742-donald-trump-g7-summit-france"
-    },
-    {
-      "title": "UN General Assembly backs world court climate ruling, US among nations opposing",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "UN General Assembly backs world court climate ruling, US among nations opposing",
-      "source_url": "https://www.france24.com/en/environment/20260520-un-general-assembly-backs-world-court-climate-ruling-us-opposes"
-    },
-    {
-      "title": "Rubio to attend NATO talks, pay first visit to India",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Rubio to attend NATO talks, pay first visit to India",
-      "source_url": "https://www.thehindu.com/news/international/rubio-to-attend-nato-talks-pay-first-visit-to-india/article70999683.ece"
+      "description": "Scoop: Trump to attend G7 summit in France despite friction with allies",
+      "source_url": "https://www.axios.com/2026/05/19/trump-attend-g7-summit-france-iran"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "What’s the significance of the Russian president’s visit to China?",
+      "title": "China-Russia joint statement on Xi-Putin summit",
       "participants": [
-        "What’s",
-        "Russian",
-        "China?"
+        "China-Russia",
+        "Xi-Putin"
       ],
       "date": "",
       "location": "",
-      "description": "What’s the significance of the Russian president’s visit to China?",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss"
+      "description": "China-Russia joint statement on Xi-Putin summit",
+      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3354349/china-russia-joint-statement-xi-putin-summit"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -52,20 +35,28 @@
   ],
   "elections": [
     {
+      "title": "Democrats finally release 2024 election autopsy after criticism",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Democrats finally release 2024 election autopsy after criticism",
+      "source_url": "https://www.axios.com/2026/05/21/democrats-2024-autopsy-released"
+    },
+    {
+      "title": "Falta re-election: Voter turnout hits 86%; Jahangir Khan didn't vote, says poll officer - top development",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Falta re-election: Voter turnout hits 86%; Jahangir Khan didn't vote, says poll officer - top development",
+      "source_url": "https://timesofindia.indiatimes.com/india/falta-votes-again-under-heavy-security-voter-turnout-tmc-bjp-latest-developments/articleshow/131246282.cms"
+    },
+    {
       "title": "The most important election is the one most Americans skip",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "The most important election is the one most Americans skip",
       "source_url": "https://www.vox.com/today-explained-newsletter/489080/massie-kentucky-republican-primary"
-    },
-    {
-      "title": "Israel is moving closer to a snap election. Could this be the end for Netanyahu?",
-      "country": "Israel",
-      "election_type": "Snap",
-      "date": "",
-      "description": "Israel is moving closer to a snap election. Could this be the end for Netanyahu?",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-parliament-netanyahu-election-knesset-b2980294.html"
     },
     {
       "title": "Democrats eye 2027 crackdown on AI in election ads",
@@ -78,55 +69,31 @@
   ],
   "global_events": [
     {
-      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "summary": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "title": "Philippine justice chief orders arrest of senator wanted by the ICC over Duterte-era killings",
+      "summary": "Philippine justice chief orders arrest of senator wanted by the ICC over Duterte-era killings",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Independent",
-        "France24",
+        "ABC News Intl",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/philippine-justice-chief-orders-arrest-senator-wanted-icc-133183289"
+    },
+    {
+      "title": "Netanyahu issues rare rebuke to far-right Israeli minister over video taunting handcuffed Gaza flotilla activists",
+      "summary": "Netanyahu issues rare rebuke to far-right Israeli minister over video taunting handcuffed Gaza flotilla activists",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
-      "summary": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "Sky News World",
-        "The Guardian World",
-        "Time",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 13,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment"
-    },
-    {
-      "title": "Xi hosts Putin in Beijing, cementing China-Russia alliance after Trump's visit",
-      "summary": "Xi hosts Putin in Beijing, cementing China-Russia alliance after Trump's visit",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 10,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/show/xi-hosts-putin-in-beijing-cementing-china-russia-alliance-after-trumps-visit"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-ben-gvir-netanyahu-gaza-flotilla-activists-b2980919.html"
     },
     {
       "title": "Trump's new $1.776B 'Anti-Weaponization Fund' is a wild ride | About That",
@@ -134,7 +101,6 @@
       "outlets_covering": [
         "CBC World",
         "Al Jazeera",
-        "France24",
         "The Hill",
         "Axios"
       ],
@@ -144,16 +110,36 @@
       "source_url": "https://www.cbc.ca/player/play/9.7206319?cmp=rss"
     },
     {
-      "title": "What’s the significance of the Russian president’s visit to China?",
-      "summary": "What’s the significance of the Russian president’s visit to China?",
+      "title": "U.S. grand jury indicts Raúl Castro, former Cuban president",
+      "summary": "U.S. grand jury indicts Raúl Castro, former Cuban president",
       "outlets_covering": [
         "NPR World",
-        "Al Jazeera"
+        "PBS NewsHour",
+        "CBC World",
+        "Sky News World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 2,
-      "region": "Europe / Russia",
+      "coverage_count": 12,
+      "region": "Latin America",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss"
+      "source_url": "https://www.npr.org/2026/05/20/g-s1-122383/us-cuba-raul-castro-indictment"
+    },
+    {
+      "title": "Iran mulls latest U.S. proposal as Trump says war is in \"final stages\"",
+      "summary": "Iran mulls latest U.S. proposal as Trump says war is in \"final stages\"",
+      "outlets_covering": [
+        "CBS News World",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-latest-peace-proposal"
     }
   ]
 }
