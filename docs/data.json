@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-05-22T02:28:13.783902Z",
+  "last_updated": "2026-05-22T14:15:28.800647Z",
   "world_org_meetings": [
+    {
+      "title": "REPLAY: US Secretary of State Marco Rubio speaks to the press at NATO meeting",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "REPLAY: US Secretary of State Marco Rubio speaks to the press at NATO meeting",
+      "source_url": "https://www.france24.com/en/video/20260522-replay-us-secretary-of-state-marco-rubio-speaks-to-the-press-at-nato-meeting"
+    },
+    {
+      "title": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates"
+    },
+    {
+      "title": "China Foreign Minister to chair UN Security Council meeting in U.S., visit Canada",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "China Foreign Minister to chair UN Security Council meeting in U.S., visit Canada",
+      "source_url": "https://www.thehindu.com/news/international/china-foreign-minister-to-chair-un-security-council-meeting-in-us-visit-canada/article71010090.ece"
+    },
+    {
+      "title": "NATO meeting: Marco Rubio embarks on another mission to ease tensions with allies",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "NATO meeting: Marco Rubio embarks on another mission to ease tensions with allies",
+      "source_url": "https://www.thehindu.com/news/international/nato-meeting-marco-rubio-embarks-on-another-mission-to-ease-tensions-with-allies/article71009258.ece"
+    },
     {
       "title": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
       "organization": "NATO",
@@ -8,17 +40,22 @@
       "location": "",
       "description": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
       "source_url": "https://www.thehindu.com/news/international/rubio-denounces-nato-refusal-to-help-on-iran-ahead-of-alliance-talks/article71008164.ece"
-    },
-    {
-      "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Scoop: Trump to attend G7 summit in France despite friction with allies",
-      "source_url": "https://www.axios.com/2026/05/19/trump-attend-g7-summit-france-iran"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Selfies and symbolism: behind the scenes from Xi’s summit with Trump and Putin",
+      "participants": [
+        "Selfies",
+        "Xi’s",
+        "Trump",
+        "Putin"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Selfies and symbolism: behind the scenes from Xi’s summit with Trump and Putin",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3354442/selfies-and-symbolism-behind-scenes-xis-summit-trump-and-putin"
+    },
     {
       "title": "China-Russia joint statement on Xi-Putin summit",
       "participants": [
@@ -43,47 +80,106 @@
   ],
   "elections": [
     {
-      "title": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – as it happened",
-      "country": "Israel",
-      "election_type": "National",
+      "title": "Alberta province plans public vote on whether to hold referendum on leaving Canada",
+      "country": "Canada",
+      "election_type": "Referendum",
       "date": "",
-      "description": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – as it happened",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates"
+      "description": "Alberta province plans public vote on whether to hold referendum on leaving Canada",
+      "source_url": "https://www.thehindu.com/news/international/alberta-province-plans-public-vote-on-whether-to-hold-referendum-on-leaving-canada/article71009297.ece"
     },
     {
-      "title": "Democrats' autopsy of 2024 U.S. election blames Harris and 'identity politics' for loss",
+      "title": "Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Democrats' autopsy of 2024 U.S. election blames Harris and 'identity politics' for loss",
-      "source_url": "https://www.cbc.ca/news/world/democrats-dnc-election-post-mortem-9.7207890?cmp=rss"
+      "description": "Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates"
     },
     {
-      "title": "Democrats finally release 2024 election autopsy after criticism",
+      "title": "Burnham starts byelection campaign with thinly veiled pitch for No 10",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Democrats finally release 2024 election autopsy after criticism",
-      "source_url": "https://www.axios.com/2026/05/21/democrats-2024-autopsy-released"
+      "description": "Burnham starts byelection campaign with thinly veiled pitch for No 10",
+      "source_url": "https://www.theguardian.com/politics/2026/may/22/andy-burnham-starts-byelection-campaign-labour-mayor-makerfield"
     },
     {
-      "title": "The most important election is the one most Americans skip",
+      "title": "Violence Looms Over Colombia’s Election",
+      "country": "Colombia",
+      "election_type": "National",
+      "date": "",
+      "description": "Violence Looms Over Colombia’s Election",
+      "source_url": "https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro"
+    },
+    {
+      "title": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza | First Thing",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "The most important election is the one most Americans skip",
-      "source_url": "https://www.vox.com/today-explained-newsletter/489080/massie-kentucky-republican-primary"
-    },
-    {
-      "title": "Democrats eye 2027 crackdown on AI in election ads",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Democrats eye 2027 crackdown on AI in election ads",
-      "source_url": "https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos"
+      "description": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza | First Thing",
+      "source_url": "https://www.theguardian.com/us-news/2026/may/22/first-thing-progressive-democrats-2024-election-autopsy-silence-gaza"
     }
   ],
   "global_events": [
+    {
+      "title": "Israel deports hundreds of Gaza flotilla activists after international backlash",
+      "summary": "Israel deports hundreds of Gaza flotilla activists after international backlash",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NBC News World",
+        "The Guardian World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260522-israel-deports-hundreds-of-gaza-flotilla-activists-after-international-backlash"
+    },
+    {
+      "title": "Trump says sending 5,000 US troops to Poland",
+      "summary": "Trump says sending 5,000 US troops to Poland",
+      "outlets_covering": [
+        "NPR World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260522-trump-says-sending-5-000-us-troops-to-poland"
+    },
+    {
+      "title": "Greenlanders protest against Trump as the U.S. opens new consulate",
+      "summary": "Greenlanders protest against Trump as the U.S. opens new consulate",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.nbcnews.com/video/greenlanders-protest-against-trump-as-the-u-s-opens-new-consulate-263776837976"
+    },
+    {
+      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+      "summary": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+      "outlets_covering": [
+        "NPR World",
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action"
+    },
     {
       "title": "Gaza flotilla activists allege abuse in Israeli detention",
       "summary": "Gaza flotilla activists allege abuse in Israeli detention",
@@ -92,70 +188,13 @@
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "The Guardian World",
-        "Al Jazeera",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.nbcnews.com/video/gaza-flotilla-activists-allege-abuse-in-israeli-detention-263751749766"
-    },
-    {
-      "title": "Republicans call off vote on Iran war resolution that was on verge of passing",
-      "summary": "Republicans call off vote on Iran war resolution that was on verge of passing",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/republicans-call-off-vote-on-iran-war-resolution-that-was-on-verge-of-passing/article71008949.ece"
-    },
-    {
-      "title": "Ebola outbreak forces India to put off Africa summit",
-      "summary": "Ebola outbreak forces India to put off Africa summit",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Times of India",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "South Asia",
-      "category": "Health",
-      "source_url": "https://timesofindia.indiatimes.com/india/ebola-outbreak-forces-india-to-put-off-africa-summit/articleshow/131253721.cms"
-    },
-    {
-      "title": "Gunmen open fire in two separate attacks in Honduras, killing at least 16 people",
-      "summary": "Gunmen open fire in two separate attacks in Honduras, killing at least 16 people",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/gunmen-open-fire-separate-attacks-honduras-killing-16-133200849"
-    },
-    {
-      "title": "Netanyahu issues rare rebuke to far-right Israeli minister over video taunting handcuffed Gaza flotilla activists",
-      "summary": "Netanyahu issues rare rebuke to far-right Israeli minister over video taunting handcuffed Gaza flotilla activists",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "The Guardian World",
-        "The Independent",
-        "Foreign Policy"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-ben-gvir-netanyahu-gaza-flotilla-activists-b2980919.html"
     }
   ]
 }
