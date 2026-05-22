@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-21T14:40:58.890515Z",
+  "last_updated": "2026-05-22T02:28:13.783902Z",
   "world_org_meetings": [
+    {
+      "title": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
+      "source_url": "https://www.thehindu.com/news/international/rubio-denounces-nato-refusal-to-help-on-iran-ahead-of-alliance-talks/article71008164.ece"
+    },
     {
       "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
       "organization": "G7",
@@ -35,20 +43,28 @@
   ],
   "elections": [
     {
+      "title": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – as it happened",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – as it happened",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates"
+    },
+    {
+      "title": "Democrats' autopsy of 2024 U.S. election blames Harris and 'identity politics' for loss",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Democrats' autopsy of 2024 U.S. election blames Harris and 'identity politics' for loss",
+      "source_url": "https://www.cbc.ca/news/world/democrats-dnc-election-post-mortem-9.7207890?cmp=rss"
+    },
+    {
       "title": "Democrats finally release 2024 election autopsy after criticism",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Democrats finally release 2024 election autopsy after criticism",
       "source_url": "https://www.axios.com/2026/05/21/democrats-2024-autopsy-released"
-    },
-    {
-      "title": "Falta re-election: Voter turnout hits 86%; Jahangir Khan didn't vote, says poll officer - top development",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Falta re-election: Voter turnout hits 86%; Jahangir Khan didn't vote, says poll officer - top development",
-      "source_url": "https://timesofindia.indiatimes.com/india/falta-votes-again-under-heavy-security-voter-turnout-tmc-bjp-latest-developments/articleshow/131246282.cms"
     },
     {
       "title": "The most important election is the one most Americans skip",
@@ -69,17 +85,62 @@
   ],
   "global_events": [
     {
-      "title": "Philippine justice chief orders arrest of senator wanted by the ICC over Duterte-era killings",
-      "summary": "Philippine justice chief orders arrest of senator wanted by the ICC over Duterte-era killings",
+      "title": "Gaza flotilla activists allege abuse in Israeli detention",
+      "summary": "Gaza flotilla activists allege abuse in Israeli detention",
       "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nbcnews.com/video/gaza-flotilla-activists-allege-abuse-in-israeli-detention-263751749766"
+    },
+    {
+      "title": "Republicans call off vote on Iran war resolution that was on verge of passing",
+      "summary": "Republicans call off vote on Iran war resolution that was on verge of passing",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/republicans-call-off-vote-on-iran-war-resolution-that-was-on-verge-of-passing/article71008949.ece"
+    },
+    {
+      "title": "Ebola outbreak forces India to put off Africa summit",
+      "summary": "Ebola outbreak forces India to put off Africa summit",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Times of India",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "South Asia",
+      "category": "Health",
+      "source_url": "https://timesofindia.indiatimes.com/india/ebola-outbreak-forces-india-to-put-off-africa-summit/articleshow/131253721.cms"
+    },
+    {
+      "title": "Gunmen open fire in two separate attacks in Honduras, killing at least 16 people",
+      "summary": "Gunmen open fire in two separate attacks in Honduras, killing at least 16 people",
+      "outlets_covering": [
+        "CBC World",
         "ABC News Intl",
         "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/philippine-justice-chief-orders-arrest-senator-wanted-icc-133183289"
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/gunmen-open-fire-separate-attacks-honduras-killing-16-133200849"
     },
     {
       "title": "Netanyahu issues rare rebuke to far-right Israeli minister over video taunting handcuffed Gaza flotilla activists",
@@ -87,59 +148,14 @@
       "outlets_covering": [
         "NPR World",
         "CBS News World",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-ben-gvir-netanyahu-gaza-flotilla-activists-b2980919.html"
-    },
-    {
-      "title": "Trump's new $1.776B 'Anti-Weaponization Fund' is a wild ride | About That",
-      "summary": "Trump's new $1.776B 'Anti-Weaponization Fund' is a wild ride | About That",
-      "outlets_covering": [
-        "CBC World",
-        "Al Jazeera",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 10,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/player/play/9.7206319?cmp=rss"
-    },
-    {
-      "title": "U.S. grand jury indicts Raúl Castro, former Cuban president",
-      "summary": "U.S. grand jury indicts Raúl Castro, former Cuban president",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
-        "Sky News World",
         "The Guardian World",
-        "Time",
         "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/05/20/g-s1-122383/us-cuba-raul-castro-indictment"
-    },
-    {
-      "title": "Iran mulls latest U.S. proposal as Trump says war is in \"final stages\"",
-      "summary": "Iran mulls latest U.S. proposal as Trump says war is in \"final stages\"",
-      "outlets_covering": [
-        "CBS News World",
-        "The Hindu Intl",
-        "Axios"
+        "Foreign Policy"
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-latest-peace-proposal"
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-ben-gvir-netanyahu-gaza-flotilla-activists-b2980919.html"
     }
   ]
 }
