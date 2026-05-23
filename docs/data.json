@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T02:04:24.826618Z",
+  "last_updated": "2026-05-23T13:00:05.984466Z",
   "world_org_meetings": [
     {
       "title": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
@@ -18,14 +18,6 @@
       "source_url": "https://www.theguardian.com/world/2026/may/22/marco-rubio-trump-disappointment-with-nato-will-be-discussed-at-summit"
     },
     {
-      "title": "REPLAY: US Secretary of State Marco Rubio speaks to the press at NATO meeting",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "REPLAY: US Secretary of State Marco Rubio speaks to the press at NATO meeting",
-      "source_url": "https://www.france24.com/en/video/20260522-replay-us-secretary-of-state-marco-rubio-speaks-to-the-press-at-nato-meeting"
-    },
-    {
       "title": "China Foreign Minister to chair UN Security Council meeting in U.S., visit Canada",
       "organization": "UN",
       "date": "",
@@ -40,9 +32,40 @@
       "location": "",
       "description": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
       "source_url": "https://www.thehindu.com/news/international/rubio-denounces-nato-refusal-to-help-on-iran-ahead-of-alliance-talks/article71008164.ece"
+    },
+    {
+      "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Scoop: Trump to attend G7 summit in France despite friction with allies",
+      "source_url": "https://www.axios.com/2026/05/19/trump-attend-g7-summit-france-iran"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
+      "participants": [
+        "Pakistani Prime Minister Shehbaz Sharif",
+        "China",
+        "Middle East"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3354631/pakistani-prime-minister-shehbaz-sharif-visits-china-amid-ongoing-middle-east-peace-drive"
+    },
+    {
+      "title": "Pakistan Prime Minister Shehbaz Sharif leaves for China for four-day visit",
+      "participants": [
+        "Pakistan Prime Minister Shehbaz Sharif",
+        "China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Pakistan Prime Minister Shehbaz Sharif leaves for China for four-day visit",
+      "source_url": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-sharif-china-visit-xi-jinping-cpec-cooperation/article71013554.ece"
+    },
     {
       "title": "Selfies and symbolism: behind the scenes from Xi’s summit with Trump and Putin",
       "participants": [
@@ -88,55 +111,58 @@
       "source_url": "https://www.thehindu.com/news/international/alberta-province-plans-public-vote-on-whether-to-hold-referendum-on-leaving-canada/article71009297.ece"
     },
     {
+      "title": "'In interest of sports and justice': Delhi HC allows Vinesh Phogat to participate in Asian Games selection trials",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "'In interest of sports and justice': Delhi HC allows Vinesh Phogat to participate in Asian Games selection trials",
+      "source_url": "https://timesofindia.indiatimes.com/india/in-interest-of-sports-and-justice-delhi-hc-allows-vinesh-phogat-to-participate-in-asian-games-selection-trials/articleshow/131279091.cms"
+    },
+    {
+      "title": "Democratic chair faces calls to quit over ‘shambles’ of election autopsy release",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Democratic chair faces calls to quit over ‘shambles’ of election autopsy release",
+      "source_url": "https://www.theguardian.com/us-news/2026/may/23/dnc-chair-ken-martin-democrats-election"
+    },
+    {
+      "title": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
+      "source_url": "https://www.theguardian.com/australia-news/2026/may/23/state-sponsored-apprenticeships-and-decriminalising-cannabis-on-the-bill-at-victorias-labor-conference"
+    },
+    {
       "title": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
       "country": "Canada",
       "election_type": "Referendum",
       "date": "",
       "description": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
       "source_url": "https://www.nytimes.com/article/alberta-separation-referendum-vote.html"
-    },
-    {
-      "title": "Violence Looms Over Colombia’s Election",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Violence Looms Over Colombia’s Election",
-      "source_url": "https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro"
-    },
-    {
-      "title": "Cyprus election expected to shake up national politics",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Cyprus election expected to shake up national politics",
-      "source_url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "A Canadian province will hold a referendum on independence – and it’s not Quebec",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "A Canadian province will hold a referendum on independence – and it’s not Quebec",
-      "source_url": "https://www.independent.co.uk/news/world/americas/alberta-canada-referendum-danielle-smith-b2981700.html"
     }
   ],
   "global_events": [
     {
-      "title": "Gaza flotilla activists accuse Israel of ‘sexual assault, violence and rape’ while they were in detention",
-      "summary": "Gaza flotilla activists accuse Israel of ‘sexual assault, violence and rape’ while they were in detention",
+      "title": "Coal mine explosion in China kills 90 people, state media say",
+      "summary": "Coal mine explosion in China kills 90 people, state media say",
       "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "The Guardian World",
-        "The Independent",
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "Bloomberg",
         "Al Jazeera",
         "France24",
-        "The Hindu Intl"
+        "Japan Times"
       ],
-      "coverage_count": 9,
-      "region": "Middle East",
+      "coverage_count": 11,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/gaza-flotilla-assault-israel-ben-gvir-b2981903.html"
+      "source_url": "https://www.cbsnews.com/news/china-coal-mine-explosion-shanxi-changzhi-liushenyu"
     },
     {
       "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
@@ -153,45 +179,52 @@
       "source_url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Greenlanders protest against Trump as the U.S. opens new consulate",
-      "summary": "Greenlanders protest against Trump as the U.S. opens new consulate",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/video/greenlanders-protest-against-trump-as-the-u-s-opens-new-consulate-263776837976"
-    },
-    {
-      "title": "Trump says he's sending 5,000 more troops to Poland",
-      "summary": "Trump says he's sending 5,000 more troops to Poland",
+      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
+      "summary": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
       "outlets_covering": [
         "NPR World",
-        "NYT World",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/05/22/g-s1-123596/trump-sending-5-000-troops-to-poland"
-    },
-    {
-      "title": "Eight dead, dozens trapped in China coal mine accident",
-      "summary": "Eight dead, dozens trapped in China coal mine accident",
-      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
         "Sky News World",
-        "The Hindu Intl"
+        "NYT World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
       ],
-      "coverage_count": 2,
+      "coverage_count": 11,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/people-dead-many-trapped-in-china-coal-mine-accident/article71012572.ece"
+      "source_url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
+    },
+    {
+      "title": "Ukrainian drone attack sparks huge fire at key Russian oil terminal",
+      "summary": "Ukrainian drone attack sparks huge fire at key Russian oil terminal",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-drone-oil-fire-b2982446.html"
+    },
+    {
+      "title": "Freed Gaza flotilla activists allege Israeli abuse including rape",
+      "summary": "Freed Gaza flotilla activists allege Israeli abuse including rape",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/freed-gaza-flotilla-activists-allege-israeli-abuse-including-rape"
     }
   ]
 }
