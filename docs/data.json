@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-05-22T14:15:28.800647Z",
+  "last_updated": "2026-05-23T02:04:24.826618Z",
   "world_org_meetings": [
+    {
+      "title": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
+      "source_url": "https://www.pbs.org/newshour/world/at-nato-meeting-rubio-embarks-on-another-mission-to-ease-tensions-with-allies"
+    },
+    {
+      "title": "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit",
+      "source_url": "https://www.theguardian.com/world/2026/may/22/marco-rubio-trump-disappointment-with-nato-will-be-discussed-at-summit"
+    },
     {
       "title": "REPLAY: US Secretary of State Marco Rubio speaks to the press at NATO meeting",
       "organization": "NATO",
@@ -10,28 +26,12 @@
       "source_url": "https://www.france24.com/en/video/20260522-replay-us-secretary-of-state-marco-rubio-speaks-to-the-press-at-nato-meeting"
     },
     {
-      "title": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates"
-    },
-    {
       "title": "China Foreign Minister to chair UN Security Council meeting in U.S., visit Canada",
       "organization": "UN",
       "date": "",
       "location": "",
       "description": "China Foreign Minister to chair UN Security Council meeting in U.S., visit Canada",
       "source_url": "https://www.thehindu.com/news/international/china-foreign-minister-to-chair-un-security-council-meeting-in-us-visit-canada/article71010090.ece"
-    },
-    {
-      "title": "NATO meeting: Marco Rubio embarks on another mission to ease tensions with allies",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO meeting: Marco Rubio embarks on another mission to ease tensions with allies",
-      "source_url": "https://www.thehindu.com/news/international/nato-meeting-marco-rubio-embarks-on-another-mission-to-ease-tensions-with-allies/article71009258.ece"
     },
     {
       "title": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
@@ -88,20 +88,12 @@
       "source_url": "https://www.thehindu.com/news/international/alberta-province-plans-public-vote-on-whether-to-hold-referendum-on-leaving-canada/article71009297.ece"
     },
     {
-      "title": "Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live",
-      "country": "",
-      "election_type": "National",
+      "title": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
+      "country": "Canada",
+      "election_type": "Referendum",
       "date": "",
-      "description": "Pressure mounts on Democratic national committee chair over delayed 2024 election autopsy report – US politics live",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates"
-    },
-    {
-      "title": "Burnham starts byelection campaign with thinly veiled pitch for No 10",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Burnham starts byelection campaign with thinly veiled pitch for No 10",
-      "source_url": "https://www.theguardian.com/politics/2026/may/22/andy-burnham-starts-byelection-campaign-labour-mayor-makerfield"
+      "description": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
+      "source_url": "https://www.nytimes.com/article/alberta-separation-referendum-vote.html"
     },
     {
       "title": "Violence Looms Over Colombia’s Election",
@@ -112,47 +104,53 @@
       "source_url": "https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro"
     },
     {
-      "title": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza | First Thing",
+      "title": "Cyprus election expected to shake up national politics",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Progressive Democrats criticize 2024 election autopsy for silence on Gaza | First Thing",
-      "source_url": "https://www.theguardian.com/us-news/2026/may/22/first-thing-progressive-democrats-2024-election-autopsy-silence-gaza"
+      "description": "Cyprus election expected to shake up national politics",
+      "source_url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "A Canadian province will hold a referendum on independence – and it’s not Quebec",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "A Canadian province will hold a referendum on independence – and it’s not Quebec",
+      "source_url": "https://www.independent.co.uk/news/world/americas/alberta-canada-referendum-danielle-smith-b2981700.html"
     }
   ],
   "global_events": [
     {
-      "title": "Israel deports hundreds of Gaza flotilla activists after international backlash",
-      "summary": "Israel deports hundreds of Gaza flotilla activists after international backlash",
+      "title": "Gaza flotilla activists accuse Israel of ‘sexual assault, violence and rape’ while they were in detention",
+      "summary": "Gaza flotilla activists accuse Israel of ‘sexual assault, violence and rape’ while they were in detention",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
         "NBC News World",
         "The Guardian World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260522-israel-deports-hundreds-of-gaza-flotilla-activists-after-international-backlash"
-    },
-    {
-      "title": "Trump says sending 5,000 US troops to Poland",
-      "summary": "Trump says sending 5,000 US troops to Poland",
-      "outlets_covering": [
-        "NPR World",
         "The Independent",
         "Al Jazeera",
         "France24",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260522-trump-says-sending-5-000-us-troops-to-poland"
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/gaza-flotilla-assault-israel-ben-gvir-b2981903.html"
+    },
+    {
+      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
+      "summary": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "Time",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Greenlanders protest against Trump as the U.S. opens new consulate",
@@ -168,33 +166,32 @@
       "source_url": "https://www.nbcnews.com/video/greenlanders-protest-against-trump-as-the-u-s-opens-new-consulate-263776837976"
     },
     {
-      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
-      "summary": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+      "title": "Trump says he's sending 5,000 more troops to Poland",
+      "summary": "Trump says he's sending 5,000 more troops to Poland",
       "outlets_covering": [
         "NPR World",
-        "The Guardian World",
-        "Al Jazeera"
+        "NYT World",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 3,
-      "region": "Latin America",
+      "coverage_count": 6,
+      "region": "Europe",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action"
+      "source_url": "https://www.npr.org/2026/05/22/g-s1-123596/trump-sending-5-000-troops-to-poland"
     },
     {
-      "title": "Gaza flotilla activists allege abuse in Israeli detention",
-      "summary": "Gaza flotilla activists allege abuse in Israeli detention",
+      "title": "Eight dead, dozens trapped in China coal mine accident",
+      "summary": "Eight dead, dozens trapped in China coal mine accident",
       "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "France24",
+        "Sky News World",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
+      "coverage_count": 2,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.nbcnews.com/video/gaza-flotilla-activists-allege-abuse-in-israeli-detention-263751749766"
+      "source_url": "https://www.thehindu.com/news/international/people-dead-many-trapped-in-china-coal-mine-accident/article71012572.ece"
     }
   ]
 }
