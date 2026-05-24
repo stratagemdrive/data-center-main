@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-23T13:00:05.984466Z",
+  "last_updated": "2026-05-24T02:13:21.251898Z",
   "world_org_meetings": [
+    {
+      "title": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
+      "source_url": "https://www.thehindu.com/news/international/conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement/article71015602.ece"
+    },
     {
       "title": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
       "organization": "NATO",
@@ -8,30 +16,6 @@
       "location": "",
       "description": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
       "source_url": "https://www.pbs.org/newshour/world/at-nato-meeting-rubio-embarks-on-another-mission-to-ease-tensions-with-allies"
-    },
-    {
-      "title": "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit",
-      "source_url": "https://www.theguardian.com/world/2026/may/22/marco-rubio-trump-disappointment-with-nato-will-be-discussed-at-summit"
-    },
-    {
-      "title": "China Foreign Minister to chair UN Security Council meeting in U.S., visit Canada",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "China Foreign Minister to chair UN Security Council meeting in U.S., visit Canada",
-      "source_url": "https://www.thehindu.com/news/international/china-foreign-minister-to-chair-un-security-council-meeting-in-us-visit-canada/article71010090.ece"
-    },
-    {
-      "title": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Rubio denounces NATO refusal to help on Iran ahead of alliance talks",
-      "source_url": "https://www.thehindu.com/news/international/rubio-denounces-nato-refusal-to-help-on-iran-ahead-of-alliance-talks/article71008164.ece"
     },
     {
       "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
@@ -103,28 +87,20 @@
   ],
   "elections": [
     {
-      "title": "Alberta province plans public vote on whether to hold referendum on leaving Canada",
-      "country": "Canada",
-      "election_type": "Referendum",
+      "title": "Serbia: Police clash with protesters urging early elections",
+      "country": "Serbia",
+      "election_type": "National",
       "date": "",
-      "description": "Alberta province plans public vote on whether to hold referendum on leaving Canada",
-      "source_url": "https://www.thehindu.com/news/international/alberta-province-plans-public-vote-on-whether-to-hold-referendum-on-leaving-canada/article71009297.ece"
+      "description": "Serbia: Police clash with protesters urging early elections",
+      "source_url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "'In interest of sports and justice': Delhi HC allows Vinesh Phogat to participate in Asian Games selection trials",
+      "title": "Cyprus election expected to shake up national politics",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "'In interest of sports and justice': Delhi HC allows Vinesh Phogat to participate in Asian Games selection trials",
-      "source_url": "https://timesofindia.indiatimes.com/india/in-interest-of-sports-and-justice-delhi-hc-allows-vinesh-phogat-to-participate-in-asian-games-selection-trials/articleshow/131279091.cms"
-    },
-    {
-      "title": "Democratic chair faces calls to quit over ‘shambles’ of election autopsy release",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Democratic chair faces calls to quit over ‘shambles’ of election autopsy release",
-      "source_url": "https://www.theguardian.com/us-news/2026/may/23/dnc-chair-ken-martin-democrats-election"
+      "description": "Cyprus election expected to shake up national politics",
+      "source_url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
@@ -141,57 +117,51 @@
       "date": "",
       "description": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
       "source_url": "https://www.nytimes.com/article/alberta-separation-referendum-vote.html"
+    },
+    {
+      "title": "Violence Looms Over Colombia’s Election",
+      "country": "Colombia",
+      "election_type": "National",
+      "date": "",
+      "description": "Violence Looms Over Colombia’s Election",
+      "source_url": "https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro"
     }
   ],
   "global_events": [
     {
-      "title": "Coal mine explosion in China kills 90 people, state media say",
-      "summary": "Coal mine explosion in China kills 90 people, state media say",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "Bloomberg",
-        "Al Jazeera",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 11,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/china-coal-mine-explosion-shanxi-changzhi-liushenyu"
-    },
-    {
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "summary": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
+      "title": "Peace deal with Iran has been \"largely negotiated,\" Trump says",
+      "summary": "Peace deal with Iran has been \"largely negotiated,\" Trump says",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
         "Time",
-        "The Hindu Intl"
+        "The Independent"
       ],
-      "coverage_count": 4,
-      "region": "Global",
+      "coverage_count": 21,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control"
     },
     {
-      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
-      "summary": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
+      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
+      "summary": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
       "outlets_covering": [
         "NPR World",
+        "PBS NewsHour",
         "CBC World",
         "ABC News Intl",
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "Bloomberg",
-        "Al Jazeera",
         "France24",
-        "Japan Times"
+        "Japan Times",
+        "The Hindu Intl"
       ],
       "coverage_count": 11,
       "region": "China",
@@ -199,32 +169,53 @@
       "source_url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
     },
     {
-      "title": "Ukrainian drone attack sparks huge fire at key Russian oil terminal",
-      "summary": "Ukrainian drone attack sparks huge fire at key Russian oil terminal",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-drone-oil-fire-b2982446.html"
-    },
-    {
-      "title": "Freed Gaza flotilla activists allege Israeli abuse including rape",
-      "summary": "Freed Gaza flotilla activists allege Israeli abuse including rape",
+      "title": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
+      "summary": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NBC News World",
+        "The Guardian World",
+        "Time",
         "The Independent",
-        "France24"
+        "Al Jazeera"
+      ],
+      "coverage_count": 16,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece"
+    },
+    {
+      "title": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
+      "summary": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "France24",
+        "Foreign Policy"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html"
+    },
+    {
+      "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
+      "summary": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
+      "outlets_covering": [
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/freed-gaza-flotilla-activists-allege-israeli-abuse-including-rape"
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss"
     }
   ]
 }
