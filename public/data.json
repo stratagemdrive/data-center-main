@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T02:13:21.251898Z",
+  "last_updated": "2026-05-24T13:00:14.832607Z",
   "world_org_meetings": [
     {
       "title": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
@@ -27,6 +27,17 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Philippine leader’s state visit to Japan to focus on shoring up defense ties",
+      "participants": [
+        "Philippine",
+        "Japan"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Philippine leader’s state visit to Japan to focus on shoring up defense ties",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/24/japan/politics/japan-philippines-marcos-takaichi-preview"
+    },
     {
       "title": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
       "participants": [
@@ -64,17 +75,6 @@
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3354442/selfies-and-symbolism-behind-scenes-xis-summit-trump-and-putin"
     },
     {
-      "title": "China-Russia joint statement on Xi-Putin summit",
-      "participants": [
-        "China-Russia",
-        "Xi-Putin"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China-Russia joint statement on Xi-Putin summit",
-      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3354349/china-russia-joint-statement-xi-putin-summit"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -86,6 +86,22 @@
     }
   ],
   "elections": [
+    {
+      "title": "Clashes in Belgrade as student-led protests demand elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Clashes in Belgrade as student-led protests demand elections",
+      "source_url": "https://www.aljazeera.com/gallery/2026/5/24/clashes-in-belgrade-as-student-led-protests-demand-elections?traffic_source=rss"
+    },
+    {
+      "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
+      "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
+      "source_url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament"
+    },
     {
       "title": "Serbia: Police clash with protesters urging early elections",
       "country": "Serbia",
@@ -109,22 +125,6 @@
       "date": "",
       "description": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
       "source_url": "https://www.theguardian.com/australia-news/2026/may/23/state-sponsored-apprenticeships-and-decriminalising-cannabis-on-the-bill-at-victorias-labor-conference"
-    },
-    {
-      "title": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
-      "country": "Canada",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
-      "source_url": "https://www.nytimes.com/article/alberta-separation-referendum-vote.html"
-    },
-    {
-      "title": "Violence Looms Over Colombia’s Election",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Violence Looms Over Colombia’s Election",
-      "source_url": "https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro"
     }
   ],
   "global_events": [
@@ -143,79 +143,81 @@
         "Time",
         "The Independent"
       ],
-      "coverage_count": 21,
+      "coverage_count": 30,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control"
     },
     {
+      "title": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged attack’",
+      "summary": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged attack’",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile"
+    },
+    {
       "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
       "summary": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
       "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
-        "CBC World",
         "ABC News Intl",
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "France24",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 6,
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
     },
     {
-      "title": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
-      "summary": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
+      "title": "US-Iran closing in on deal to end war: Trump says it could reopen Hormuz",
+      "summary": "US-Iran closing in on deal to end war: Trump says it could reopen Hormuz",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "NBC News World",
         "The Guardian World",
-        "Time",
         "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece"
-    },
-    {
-      "title": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
-      "summary": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "France24",
-        "Foreign Policy"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html"
-    },
-    {
-      "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-      "summary": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-      "outlets_covering": [
         "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
+        "France24",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 5,
+      "coverage_count": 21,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss"
+      "source_url": "https://www.france24.com/en/us-iran-closing-in-on-deal-to-end-war-trump-says-it-could-reopen-hormuz"
+    },
+    {
+      "title": "What we know about the status of a U.S.-Iran deal",
+      "summary": "What we know about the status of a U.S.-Iran deal",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "Axios"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/05/24/nx-s1-5833058/what-we-know-about-the-status-of-a-u-s-iran-deal"
     }
   ]
 }
