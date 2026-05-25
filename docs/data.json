@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T13:00:14.832607Z",
+  "last_updated": "2026-05-25T02:31:45.702742Z",
   "world_org_meetings": [
     {
       "title": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
       "source_url": "https://www.thehindu.com/news/international/conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement/article71015602.ece"
-    },
-    {
-      "title": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
-      "source_url": "https://www.pbs.org/newshour/world/at-nato-meeting-rubio-embarks-on-another-mission-to-ease-tensions-with-allies"
     },
     {
       "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
@@ -28,15 +20,17 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Philippine leader’s state visit to Japan to focus on shoring up defense ties",
+      "title": "Rubio aims to rebuild trust between Washington and Delhi during first official visit to India",
       "participants": [
-        "Philippine",
-        "Japan"
+        "Rubio",
+        "Washington",
+        "Delhi",
+        "India"
       ],
       "date": "",
       "location": "",
-      "description": "Philippine leader’s state visit to Japan to focus on shoring up defense ties",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/24/japan/politics/japan-philippines-marcos-takaichi-preview"
+      "description": "Rubio aims to rebuild trust between Washington and Delhi during first official visit to India",
+      "source_url": "https://www.pbs.org/newshour/world/rubio-aims-to-rebuild-trust-between-washington-and-delhi-during-first-official-visit-to-india"
     },
     {
       "title": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
@@ -49,17 +43,6 @@
       "location": "",
       "description": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3354631/pakistani-prime-minister-shehbaz-sharif-visits-china-amid-ongoing-middle-east-peace-drive"
-    },
-    {
-      "title": "Pakistan Prime Minister Shehbaz Sharif leaves for China for four-day visit",
-      "participants": [
-        "Pakistan Prime Minister Shehbaz Sharif",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Pakistan Prime Minister Shehbaz Sharif leaves for China for four-day visit",
-      "source_url": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-sharif-china-visit-xi-jinping-cpec-cooperation/article71013554.ece"
     },
     {
       "title": "Selfies and symbolism: behind the scenes from Xi’s summit with Trump and Putin",
@@ -87,12 +70,20 @@
   ],
   "elections": [
     {
-      "title": "Clashes in Belgrade as student-led protests demand elections",
+      "title": "Syria holds legislative elections in former Kurdish-controlled areas",
       "country": "",
+      "election_type": "Legislative",
+      "date": "",
+      "description": "Syria holds legislative elections in former Kurdish-controlled areas",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/syria-holds-legislative-elections-in-former-kurdish-controlled-areas?traffic_source=rss"
+    },
+    {
+      "title": "How will Iran war fallout impact upcoming US elections?",
+      "country": "Iran",
       "election_type": "National",
       "date": "",
-      "description": "Clashes in Belgrade as student-led protests demand elections",
-      "source_url": "https://www.aljazeera.com/gallery/2026/5/24/clashes-in-belgrade-as-student-led-protests-demand-elections?traffic_source=rss"
+      "description": "How will Iran war fallout impact upcoming US elections?",
+      "source_url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss"
     },
     {
       "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
@@ -117,20 +108,32 @@
       "date": "",
       "description": "Cyprus election expected to shake up national politics",
       "source_url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
-      "source_url": "https://www.theguardian.com/australia-news/2026/may/23/state-sponsored-apprenticeships-and-decriminalising-cannabis-on-the-bill-at-victorias-labor-conference"
     }
   ],
   "global_events": [
     {
-      "title": "Peace deal with Iran has been \"largely negotiated,\" Trump says",
-      "summary": "Peace deal with Iran has been \"largely negotiated,\" Trump says",
+      "title": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
+      "summary": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 26,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/trump-says-iran-deal-largely-negotiated-would-reopen-strait-of-hormuz"
+    },
+    {
+      "title": "Israel-Iran war LIVE: Details of potential Iran deal emerge as Trump says not to rush",
+      "summary": "Israel-Iran war LIVE: Details of potential Iran deal emerge as Trump says not to rush",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -139,18 +142,18 @@
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
-        "Time",
-        "The Independent"
+        "The Independent",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 30,
+      "coverage_count": 25,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control"
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-25-may-2026-trump-peace-deal-pakistan/article71019686.ece"
     },
     {
-      "title": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged attack’",
-      "summary": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged attack’",
+      "title": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
+      "summary": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
       "outlets_covering": [
         "NPR World",
         "CBC World",
@@ -158,66 +161,53 @@
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 10,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile"
     },
     {
-      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
-      "summary": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
-    },
-    {
-      "title": "US-Iran closing in on deal to end war: Trump says it could reopen Hormuz",
-      "summary": "US-Iran closing in on deal to end war: Trump says it could reopen Hormuz",
+      "title": "Trump says U.S. will not 'rush into a deal' with Iran, as criticism mounts",
+      "summary": "Trump says U.S. will not 'rush into a deal' with Iran, as criticism mounts",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
+        "NBC News World",
         "The Guardian World",
-        "The Independent",
+        "Time",
         "Al Jazeera",
-        "France24",
-        "The Hill",
-        "Axios"
+        "France24"
       ],
-      "coverage_count": 21,
+      "coverage_count": 34,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/us-iran-closing-in-on-deal-to-end-war-trump-says-it-could-reopen-hormuz"
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/trump-says-us-will-not-rush-into-a-deal-with-iran-as-criticism-mounts/article71018659.ece"
     },
     {
-      "title": "What we know about the status of a U.S.-Iran deal",
-      "summary": "What we know about the status of a U.S.-Iran deal",
+      "title": "What to Know About the Potential U.S.-Iran Peace Deal",
+      "summary": "What to Know About the Potential U.S.-Iran Peace Deal",
       "outlets_covering": [
         "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
+        "Time",
         "The Independent",
         "Al Jazeera",
-        "Axios"
+        "France24"
       ],
-      "coverage_count": 10,
+      "coverage_count": 18,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/05/24/nx-s1-5833058/what-we-know-about-the-status-of-a-u-s-iran-deal"
+      "source_url": "https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html"
     }
   ]
 }
