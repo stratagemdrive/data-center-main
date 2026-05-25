@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T02:31:45.702742Z",
+  "last_updated": "2026-05-25T14:33:56.661985Z",
   "world_org_meetings": [
     {
       "title": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
@@ -70,28 +70,36 @@
   ],
   "elections": [
     {
-      "title": "Syria holds legislative elections in former Kurdish-controlled areas",
+      "title": "Farage hits out at Elon Musk over support for Reform rival Restore UK in Makerfield byelection",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Farage hits out at Elon Musk over support for Reform rival Restore UK in Makerfield byelection",
+      "source_url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-elon-musk-rupert-lowe-makerfield-b2983035.html"
+    },
+    {
+      "title": "Venezuela's government faces calls for elections after failed release of prisoners",
+      "country": "Venezuela",
+      "election_type": "National",
+      "date": "",
+      "description": "Venezuela's government faces calls for elections after failed release of prisoners",
+      "source_url": "https://www.npr.org/2026/05/25/nx-s1-5831506/venezuelas-government-faces-calls-for-elections-after-failed-release-of-prisoners"
+    },
+    {
+      "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "Netanyahu's future uncertain as Israel starts to prepare for national election",
+      "source_url": "https://www.cbc.ca/news/world/israel-netanyahu-election-9.7208844?cmp=rss"
+    },
+    {
+      "title": "Syria holds legislative elections in Kurdish-majority northeast",
       "country": "",
       "election_type": "Legislative",
       "date": "",
-      "description": "Syria holds legislative elections in former Kurdish-controlled areas",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/syria-holds-legislative-elections-in-former-kurdish-controlled-areas?traffic_source=rss"
-    },
-    {
-      "title": "How will Iran war fallout impact upcoming US elections?",
-      "country": "Iran",
-      "election_type": "National",
-      "date": "",
-      "description": "How will Iran war fallout impact upcoming US elections?",
-      "source_url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss"
-    },
-    {
-      "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
-      "source_url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament"
+      "description": "Syria holds legislative elections in Kurdish-majority northeast",
+      "source_url": "https://www.pbs.org/newshour/world/syria-holds-legislative-elections-in-kurdish-majority-northeast"
     },
     {
       "title": "Serbia: Police clash with protesters urging early elections",
@@ -100,74 +108,55 @@
       "date": "",
       "description": "Serbia: Police clash with protesters urging early elections",
       "source_url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Cyprus election expected to shake up national politics",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Cyprus election expected to shake up national politics",
-      "source_url": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
-      "summary": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
+      "title": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
+      "summary": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
       "outlets_covering": [
-        "BBC World",
         "PBS NewsHour",
         "CBC World",
-        "CBS News World",
-        "NBC News World",
         "Time",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "Japan Times"
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 26,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/trump-says-iran-deal-largely-negotiated-would-reopen-strait-of-hormuz"
+      "source_url": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece"
     },
     {
-      "title": "Israel-Iran war LIVE: Details of potential Iran deal emerge as Trump says not to rush",
-      "summary": "Israel-Iran war LIVE: Details of potential Iran deal emerge as Trump says not to rush",
+      "title": "Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns",
+      "summary": "Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 25,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-25-may-2026-trump-peace-deal-pakistan/article71019686.ece"
-    },
-    {
-      "title": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
-      "summary": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "Japan Times",
+        "ABC News Intl",
         "The Hindu Intl"
       ],
-      "coverage_count": 10,
-      "region": "Europe / Russia",
+      "coverage_count": 4,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile"
+      "source_url": "https://www.pbs.org/newshour/world/muslims-begin-the-annual-hajj-in-sweltering-heat-against-a-backdrop-of-war-concerns"
+    },
+    {
+      "title": "Iran says deal with US ‘not imminent’ despite progress",
+      "summary": "Iran says deal with US ‘not imminent’ despite progress",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "Newsweek",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss"
     },
     {
       "title": "Trump says U.S. will not 'rush into a deal' with Iran, as criticism mounts",
@@ -179,35 +168,35 @@
         "CBC World",
         "CBS News World",
         "NBC News World",
+        "NYT World",
         "The Guardian World",
         "Time",
-        "Al Jazeera",
-        "France24"
+        "Al Jazeera"
       ],
-      "coverage_count": 34,
+      "coverage_count": 30,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/trump-says-us-will-not-rush-into-a-deal-with-iran-as-criticism-mounts/article71018659.ece"
     },
     {
-      "title": "What to Know About the Potential U.S.-Iran Peace Deal",
-      "summary": "What to Know About the Potential U.S.-Iran Peace Deal",
+      "title": "What we know and don't know about the emerging deal to end the Iran war",
+      "summary": "What we know and don't know about the emerging deal to end the Iran war",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
+        "NBC News World",
         "NYT World",
-        "The Guardian World",
-        "Time",
         "The Independent",
-        "Al Jazeera",
-        "France24"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 18,
+      "coverage_count": 13,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html"
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/what-we-know-and-dont-know-about-the-emerging-deal-to-end-the-iran-war"
     }
   ]
 }
