@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-05-26T02:11:50.597720Z",
+  "last_updated": "2026-05-26T14:42:21.981428Z",
   "world_org_meetings": [
+    {
+      "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-cited-in-a-new-york-times-article-on-the-specter-of-trumps-tariffs-over-g7-ministers-meeting"
+    },
+    {
+      "title": "Wieslander in Swedish media ahead of NATO meeting in Helsingborg",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Wieslander in Swedish media ahead of NATO meeting in Helsingborg",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/wieslander-in-swedish-media-ahead-of-nato-meeting-in-helsingborg"
+    },
     {
       "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
       "organization": "G7",
@@ -56,22 +72,6 @@
       "source_url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html"
     },
     {
-      "title": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
-      "source_url": "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections"
-    },
-    {
-      "title": "Farage hits out at Elon Musk over support for Reform rival Restore UK in Makerfield byelection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Farage hits out at Elon Musk over support for Reform rival Restore UK in Makerfield byelection",
-      "source_url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-elon-musk-rupert-lowe-makerfield-b2983035.html"
-    },
-    {
       "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
       "country": "Israel",
       "election_type": "National",
@@ -90,62 +90,71 @@
   ],
   "global_events": [
     {
+      "title": "North Korea fires ballistic missile, other weapons toward sea, South says",
+      "summary": "North Korea fires ballistic missile, other weapons toward sea, South says",
+      "outlets_covering": [
+        "ABC News Intl",
+        "CBS News World",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/north-korea-ballistic-missiles-multiple-latest-demonstration"
+    },
+    {
+      "title": "Iran Threatens Retaliation, Says US Strikes Violated Ceasefire",
+      "summary": "Iran Threatens Retaliation, Says US Strikes Violated Ceasefire",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Newsweek",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.newsweek.com/iran-war-latest-tehran-threatens-retaliation-says-us-strikes-violated-ceasefire-middle-east-11993207"
+    },
+    {
       "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
       "summary": "Netanyahu says Israel will intensify strikes against Hezbollah",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
         "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times"
+        "The Guardian World"
       ],
-      "coverage_count": 7,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran denies deal with US is imminent despite some progress",
-      "summary": "Iran denies deal with US is imminent despite some progress",
+      "title": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
+      "summary": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
       "outlets_covering": [
         "BBC World",
-        "PBS NewsHour",
-        "NBC News World",
-        "The Guardian World",
+        "ABC News Intl",
+        "NYT World",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz"
-    },
-    {
-      "title": "What to know about the emerging US-Iran deal to end war, reopen Strait of Hormuz",
-      "summary": "What to know about the emerging US-Iran deal to end war, reopen Strait of Hormuz",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/5894245-us-iran-peace-deal"
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html"
     },
     {
       "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
       "summary": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "The Independent",
-        "France24",
         "The Hindu Intl",
         "The Hill"
       ],
@@ -153,20 +162,6 @@
       "region": "Europe / Russia",
       "category": "Politics",
       "source_url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
-      "summary": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/russia-deploys-hypersonic-missile-in-latest-major-strikes-on-ukraine"
     }
   ]
 }
