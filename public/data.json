@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-05-25T14:33:56.661985Z",
+  "last_updated": "2026-05-26T02:11:50.597720Z",
   "world_org_meetings": [
-    {
-      "title": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Conference at UN to review nuclear non-proliferation treaty fails to reach agreement",
-      "source_url": "https://www.thehindu.com/news/international/conference-at-un-to-review-nuclear-non-proliferation-treaty-fails-to-reach-agreement/article71015602.ece"
-    },
     {
       "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
       "organization": "G7",
@@ -20,17 +12,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Rubio aims to rebuild trust between Washington and Delhi during first official visit to India",
+      "title": "Trump demands multiple countries sign diplomatic deal with Israel as part of any Iran peace plan",
       "participants": [
-        "Rubio",
-        "Washington",
-        "Delhi",
-        "India"
+        "Trump",
+        "Israel",
+        "Iran"
       ],
       "date": "",
       "location": "",
-      "description": "Rubio aims to rebuild trust between Washington and Delhi during first official visit to India",
-      "source_url": "https://www.pbs.org/newshour/world/rubio-aims-to-rebuild-trust-between-washington-and-delhi-during-first-official-visit-to-india"
+      "description": "Trump demands multiple countries sign diplomatic deal with Israel as part of any Iran peace plan",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/trump-iran-abraham-accords-israel-b2983164.html"
     },
     {
       "title": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
@@ -45,19 +36,6 @@
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3354631/pakistani-prime-minister-shehbaz-sharif-visits-china-amid-ongoing-middle-east-peace-drive"
     },
     {
-      "title": "Selfies and symbolism: behind the scenes from Xi’s summit with Trump and Putin",
-      "participants": [
-        "Selfies",
-        "Xi’s",
-        "Trump",
-        "Putin"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Selfies and symbolism: behind the scenes from Xi’s summit with Trump and Putin",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3354442/selfies-and-symbolism-behind-scenes-xis-summit-trump-and-putin"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -70,20 +48,28 @@
   ],
   "elections": [
     {
+      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
+      "source_url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html"
+    },
+    {
+      "title": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
+      "source_url": "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections"
+    },
+    {
       "title": "Farage hits out at Elon Musk over support for Reform rival Restore UK in Makerfield byelection",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Farage hits out at Elon Musk over support for Reform rival Restore UK in Makerfield byelection",
       "source_url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-elon-musk-rupert-lowe-makerfield-b2983035.html"
-    },
-    {
-      "title": "Venezuela's government faces calls for elections after failed release of prisoners",
-      "country": "Venezuela",
-      "election_type": "National",
-      "date": "",
-      "description": "Venezuela's government faces calls for elections after failed release of prisoners",
-      "source_url": "https://www.npr.org/2026/05/25/nx-s1-5831506/venezuelas-government-faces-calls-for-elections-after-failed-release-of-prisoners"
     },
     {
       "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
@@ -100,92 +86,47 @@
       "date": "",
       "description": "Syria holds legislative elections in Kurdish-majority northeast",
       "source_url": "https://www.pbs.org/newshour/world/syria-holds-legislative-elections-in-kurdish-majority-northeast"
-    },
-    {
-      "title": "Serbia: Police clash with protesters urging early elections",
-      "country": "Serbia",
-      "election_type": "National",
-      "date": "",
-      "description": "Serbia: Police clash with protesters urging early elections",
-      "source_url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
-      "summary": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "Time",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece"
-    },
-    {
-      "title": "Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns",
-      "summary": "Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "ABC News Intl",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/muslims-begin-the-annual-hajj-in-sweltering-heat-against-a-backdrop-of-war-concerns"
-    },
-    {
-      "title": "Iran says deal with US ‘not imminent’ despite progress",
-      "summary": "Iran says deal with US ‘not imminent’ despite progress",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "summary": "Netanyahu says Israel will intensify strikes against Hezbollah",
       "outlets_covering": [
         "BBC World",
-        "NBC News World",
+        "PBS NewsHour",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
-        "Newsweek",
         "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Iran denies deal with US is imminent despite some progress",
+      "summary": "Iran denies deal with US is imminent despite some progress",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "NBC News World",
+        "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss"
+      "source_url": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz"
     },
     {
-      "title": "Trump says U.S. will not 'rush into a deal' with Iran, as criticism mounts",
-      "summary": "Trump says U.S. will not 'rush into a deal' with Iran, as criticism mounts",
+      "title": "What to know about the emerging US-Iran deal to end war, reopen Strait of Hormuz",
+      "summary": "What to know about the emerging US-Iran deal to end war, reopen Strait of Hormuz",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Time",
-        "Al Jazeera"
-      ],
-      "coverage_count": 30,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/trump-says-us-will-not-rush-into-a-deal-with-iran-as-criticism-mounts/article71018659.ece"
-    },
-    {
-      "title": "What we know and don't know about the emerging deal to end the Iran war",
-      "summary": "What we know and don't know about the emerging deal to end the Iran war",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "PBS NewsHour",
-        "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
@@ -196,7 +137,36 @@
       "coverage_count": 13,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/what-we-know-and-dont-know-about-the-emerging-deal-to-end-the-iran-war"
+      "source_url": "https://thehill.com/policy/international/5894245-us-iran-peace-deal"
+    },
+    {
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "summary": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
+      "summary": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/russia-deploys-hypersonic-missile-in-latest-major-strikes-on-ukraine"
     }
   ]
 }
