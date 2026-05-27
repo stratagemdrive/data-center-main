@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-05-26T14:42:21.981428Z",
+  "last_updated": "2026-05-27T02:31:11.041664Z",
   "world_org_meetings": [
+    {
+      "title": "Ukraine expects NATO summit to discuss funding despite trouble securing backing",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Ukraine expects NATO summit to discuss funding despite trouble securing backing",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/27/world/politics/ukraine-nato-summit-funding"
+    },
+    {
+      "title": "Russia slams US for not granting visa to diplomat for UN meeting",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Russia slams US for not granting visa to diplomat for UN meeting",
+      "source_url": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss"
+    },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
       "organization": "G7",
@@ -28,18 +44,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Trump demands multiple countries sign diplomatic deal with Israel as part of any Iran peace plan",
-      "participants": [
-        "Trump",
-        "Israel",
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump demands multiple countries sign diplomatic deal with Israel as part of any Iran peace plan",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/trump-iran-abraham-accords-israel-b2983164.html"
-    },
-    {
       "title": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
       "participants": [
         "Pakistani Prime Minister Shehbaz Sharif",
@@ -64,81 +68,44 @@
   ],
   "elections": [
     {
+      "title": "Pratt accuses Bass of ‘illegally gaming the election’",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Pratt accuses Bass of ‘illegally gaming the election’",
+      "source_url": "https://thehill.com/homenews/campaign/5895616-spencer-pratt-mayor-bass-election-law"
+    },
+    {
+      "title": "Armenia signs strategic partnership deal with US as election approaches",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "Armenia signs strategic partnership deal with US as election approaches",
+      "source_url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss"
+    },
+    {
+      "title": "A year ahead of the French presidential election, where do candidates stand?",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "A year ahead of the French presidential election, where do candidates stand?",
+      "source_url": "https://www.france24.com/en/a-year-ahead-of-the-french-presidential-election-where-do-candidates-stand"
+    },
+    {
       "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
       "country": "",
       "election_type": "Referendum",
       "date": "",
       "description": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
       "source_url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html"
-    },
-    {
-      "title": "Netanyahu's future uncertain as Israel starts to prepare for national election",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "Netanyahu's future uncertain as Israel starts to prepare for national election",
-      "source_url": "https://www.cbc.ca/news/world/israel-netanyahu-election-9.7208844?cmp=rss"
-    },
-    {
-      "title": "Syria holds legislative elections in Kurdish-majority northeast",
-      "country": "",
-      "election_type": "Legislative",
-      "date": "",
-      "description": "Syria holds legislative elections in Kurdish-majority northeast",
-      "source_url": "https://www.pbs.org/newshour/world/syria-holds-legislative-elections-in-kurdish-majority-northeast"
     }
   ],
   "global_events": [
     {
-      "title": "North Korea fires ballistic missile, other weapons toward sea, South says",
-      "summary": "North Korea fires ballistic missile, other weapons toward sea, South says",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/north-korea-ballistic-missiles-multiple-latest-demonstration"
-    },
-    {
-      "title": "Iran Threatens Retaliation, Says US Strikes Violated Ceasefire",
-      "summary": "Iran Threatens Retaliation, Says US Strikes Violated Ceasefire",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "NYT World",
-        "Wash Post World",
-        "Newsweek",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.newsweek.com/iran-war-latest-tehran-threatens-retaliation-says-us-strikes-violated-ceasefire-middle-east-11993207"
-    },
-    {
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "summary": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "NYT World",
-        "The Guardian World"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
       "summary": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
       "outlets_covering": [
-        "BBC World",
+        "CBC World",
         "ABC News Intl",
         "NYT World",
         "The Hindu Intl"
@@ -149,19 +116,60 @@
       "source_url": "https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html"
     },
     {
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "summary": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "title": "North Korea launches ballistic missile, other weapons over sea in latest show of force",
+      "summary": "North Korea launches ballistic missile, other weapons over sea in latest show of force",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
+        "ABC News Intl",
+        "CBS News World",
+        "Japan Times",
+        "The Hindu Intl"
       ],
       "coverage_count": 5,
-      "region": "Europe / Russia",
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/north-korea-fires-unidentified-projectile-south-korea-military-says/article71023670.ece"
+    },
+    {
+      "title": "Iran says US violated ceasefire with strikes near Hormuz",
+      "summary": "Iran says US violated ceasefire with strikes near Hormuz",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "France24",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war"
+    },
+    {
+      "title": "EU firms warm to China even as tensions spiral over export surge",
+      "summary": "EU firms warm to China even as tensions spiral over export surge",
+      "outlets_covering": [
+        "Bloomberg",
+        "Japan Times"
+      ],
+      "coverage_count": 2,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/business/2026/05/27/companies/eu-firms-china-export-surge"
+    },
+    {
+      "title": "Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+      "summary": "Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Al Jazeera"
+      ],
+      "coverage_count": 2,
+      "region": "Latin America",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.aljazeera.com/news/2026/5/27/brazils-flavio-bolsonaro-meets-with-trump-amid-troubled-presidential-bid?traffic_source=rss"
     }
   ]
 }
