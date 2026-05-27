@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-05-27T02:31:11.041664Z",
+  "last_updated": "2026-05-27T14:54:25.576998Z",
   "world_org_meetings": [
-    {
-      "title": "Ukraine expects NATO summit to discuss funding despite trouble securing backing",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Ukraine expects NATO summit to discuss funding despite trouble securing backing",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/27/world/politics/ukraine-nato-summit-funding"
-    },
-    {
-      "title": "Russia slams US for not granting visa to diplomat for UN meeting",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Russia slams US for not granting visa to diplomat for UN meeting",
-      "source_url": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss"
-    },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
       "organization": "G7",
@@ -44,16 +28,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
+      "title": "Tamil Nadu CM Vijay meets PM Modi Nirmala Sitharaman in his first official visit to Delhi",
       "participants": [
-        "Pakistani Prime Minister Shehbaz Sharif",
-        "China",
-        "Middle East"
+        "Tamil Nadu CM Vijay",
+        "Modi Nirmala Sitharaman",
+        "Delhi"
       ],
       "date": "",
       "location": "",
-      "description": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3354631/pakistani-prime-minister-shehbaz-sharif-visits-china-amid-ongoing-middle-east-peace-drive"
+      "description": "Tamil Nadu CM Vijay meets PM Modi Nirmala Sitharaman in his first official visit to Delhi",
+      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cm-vijay-meets-pm-modi-expected-to-visit-amit-shah-and-nirmala-sitharaman-next/articleshow/131349807.cms"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -68,28 +52,20 @@
   ],
   "elections": [
     {
+      "title": "Iceland’s foreign minister accuses rivals of spreading misinformation ‘from Farage’s playbook’ ahead of EU referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Iceland’s foreign minister accuses rivals of spreading misinformation ‘from Farage’s playbook’ ahead of EU referendum",
+      "source_url": "https://www.independent.co.uk/news/world/europe/iceland-foreign-minister-eu-referendum-farage-brexit-b2984376.html"
+    },
+    {
       "title": "Pratt accuses Bass of ‘illegally gaming the election’",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Pratt accuses Bass of ‘illegally gaming the election’",
       "source_url": "https://thehill.com/homenews/campaign/5895616-spencer-pratt-mayor-bass-election-law"
-    },
-    {
-      "title": "Armenia signs strategic partnership deal with US as election approaches",
-      "country": "Armenia",
-      "election_type": "National",
-      "date": "",
-      "description": "Armenia signs strategic partnership deal with US as election approaches",
-      "source_url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss"
-    },
-    {
-      "title": "A year ahead of the French presidential election, where do candidates stand?",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "A year ahead of the French presidential election, where do candidates stand?",
-      "source_url": "https://www.france24.com/en/a-year-ahead-of-the-french-presidential-election-where-do-candidates-stand"
     },
     {
       "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
@@ -102,74 +78,78 @@
   ],
   "global_events": [
     {
-      "title": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
-      "summary": "Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html"
-    },
-    {
-      "title": "North Korea launches ballistic missile, other weapons over sea in latest show of force",
-      "summary": "North Korea launches ballistic missile, other weapons over sea in latest show of force",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/north-korea-fires-unidentified-projectile-south-korea-military-says/article71023670.ece"
-    },
-    {
-      "title": "Iran says US violated ceasefire with strikes near Hormuz",
-      "summary": "Iran says US violated ceasefire with strikes near Hormuz",
+      "title": "Five People Stuck in Flooded Laos Cave Are Found Alive",
+      "summary": "Five People Stuck in Flooded Laos Cave Are Found Alive",
       "outlets_covering": [
         "BBC World",
-        "PBS NewsHour",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World"
+      ],
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html"
+    },
+    {
+      "title": "Israel says it killed new Hamas military leader in Gaza",
+      "summary": "Israel says it killed new Hamas military leader in Gaza",
+      "outlets_covering": [
+        "BBC World",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "France24",
-        "Japan Times",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war"
+      "source_url": "https://www.thehindu.com/news/international/israel-says-it-killed-new-hamas-military-leader-in-gaza/article71028971.ece"
     },
     {
-      "title": "EU firms warm to China even as tensions spiral over export surge",
-      "summary": "EU firms warm to China even as tensions spiral over export surge",
+      "title": "Iran-US war latest: Tehran says draft Trump deal would reopen Strait of Hormuz and withdraw US forces",
+      "summary": "Iran-US war latest: Tehran says draft Trump deal would reopen Strait of Hormuz and withdraw US forces",
       "outlets_covering": [
+        "CBC World",
+        "NYT World",
+        "The Guardian World",
         "Bloomberg",
-        "Japan Times"
+        "Newsweek",
+        "The Independent",
+        "The Hindu Intl"
       ],
-      "coverage_count": 2,
-      "region": "China",
+      "coverage_count": 7,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/business/2026/05/27/companies/eu-firms-china-export-surge"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-lebanon-israel-oil-b2984113.html"
     },
     {
-      "title": "Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid",
-      "summary": "Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid",
+      "title": "South Korea detains dissident who fled China in rubber boat",
+      "summary": "South Korea detains dissident who fled China in rubber boat",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "The Guardian World"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says",
+      "summary": "Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says",
       "outlets_covering": [
         "ABC News Intl",
-        "Al Jazeera"
+        "The Independent"
       ],
       "coverage_count": 2,
-      "region": "Latin America",
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/5/27/brazils-flavio-bolsonaro-meets-with-trump-amid-troubled-presidential-bid?traffic_source=rss"
+      "source_url": "https://abcnews.com/International/wireStory/watchdog-dozens-assad-era-chemical-weapons-found-syria-133348127"
     }
   ]
 }
