@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T14:54:25.576998Z",
+  "last_updated": "2026-05-28T02:06:49.056548Z",
   "world_org_meetings": [
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -28,18 +28,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Tamil Nadu CM Vijay meets PM Modi Nirmala Sitharaman in his first official visit to Delhi",
-      "participants": [
-        "Tamil Nadu CM Vijay",
-        "Modi Nirmala Sitharaman",
-        "Delhi"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Tamil Nadu CM Vijay meets PM Modi Nirmala Sitharaman in his first official visit to Delhi",
-      "source_url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cm-vijay-meets-pm-modi-expected-to-visit-amit-shah-and-nirmala-sitharaman-next/articleshow/131349807.cms"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -58,25 +46,24 @@
       "date": "",
       "description": "Iceland’s foreign minister accuses rivals of spreading misinformation ‘from Farage’s playbook’ ahead of EU referendum",
       "source_url": "https://www.independent.co.uk/news/world/europe/iceland-foreign-minister-eu-referendum-farage-brexit-b2984376.html"
-    },
-    {
-      "title": "Pratt accuses Bass of ‘illegally gaming the election’",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Pratt accuses Bass of ‘illegally gaming the election’",
-      "source_url": "https://thehill.com/homenews/campaign/5895616-spencer-pratt-mayor-bass-election-law"
-    },
-    {
-      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
-      "source_url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html"
     }
   ],
   "global_events": [
+    {
+      "title": "Hamas confirms that Israeli strikes killed its new military leader in Gaza City",
+      "summary": "Hamas confirms that Israeli strikes killed its new military leader in Gaza City",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/hamas-confirms-that-israeli-strikes-killed-its-new-military-leader-in-gaza-city"
+    },
     {
       "title": "Five People Stuck in Flooded Laos Cave Are Found Alive",
       "summary": "Five People Stuck in Flooded Laos Cave Are Found Alive",
@@ -94,62 +81,48 @@
       "source_url": "https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html"
     },
     {
-      "title": "Israel says it killed new Hamas military leader in Gaza",
-      "summary": "Israel says it killed new Hamas military leader in Gaza",
+      "title": "US carries out new strikes on Iran military site",
+      "summary": "US carries out new strikes on Iran military site",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
         "CBS News World",
         "NBC News World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/israel-says-it-killed-new-hamas-military-leader-in-gaza/article71028971.ece"
-    },
-    {
-      "title": "Iran-US war latest: Tehran says draft Trump deal would reopen Strait of Hormuz and withdraw US forces",
-      "summary": "Iran-US war latest: Tehran says draft Trump deal would reopen Strait of Hormuz and withdraw US forces",
-      "outlets_covering": [
-        "CBC World",
         "NYT World",
-        "The Guardian World",
-        "Bloomberg",
-        "Newsweek",
         "The Independent",
-        "The Hindu Intl"
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-lebanon-israel-oil-b2984113.html"
+      "source_url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "South Korea detains dissident who fled China in rubber boat",
-      "summary": "South Korea detains dissident who fled China in rubber boat",
+      "title": "US Conducts New Strikes Against Iran: Everything We Know",
+      "summary": "US Conducts New Strikes Against Iran: Everything We Know",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
+        "CBS News World",
         "NYT World",
-        "The Guardian World"
+        "Newsweek"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.newsweek.com/us-conducts-new-strikes-against-iran-everything-we-know-12001278"
+    },
+    {
+      "title": "Board of Peace official Gaza fund is empty despite pledges, source says",
+      "summary": "Board of Peace official Gaza fund is empty despite pledges, source says",
+      "outlets_covering": [
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
       ],
       "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says",
-      "summary": "Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent"
-      ],
-      "coverage_count": 2,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/watchdog-dozens-assad-era-chemical-weapons-found-syria-133348127"
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/28/world/board-of-peace-gaza-fund-empty"
     }
   ]
 }
