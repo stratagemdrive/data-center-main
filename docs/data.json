@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T02:06:49.056548Z",
+  "last_updated": "2026-05-28T15:27:26.643064Z",
   "world_org_meetings": [
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -10,12 +10,12 @@
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-cited-in-a-new-york-times-article-on-the-specter-of-trumps-tariffs-over-g7-ministers-meeting"
     },
     {
-      "title": "Wieslander in Swedish media ahead of NATO meeting in Helsingborg",
+      "title": "Wieslander in Swedish media during NATO Helsingborg meeting",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Wieslander in Swedish media ahead of NATO meeting in Helsingborg",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/wieslander-in-swedish-media-ahead-of-nato-meeting-in-helsingborg"
+      "description": "Wieslander in Swedish media during NATO Helsingborg meeting",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/wieslander-in-swedish-media-during-nato-helsingborg-meeting"
     },
     {
       "title": "Scoop: Trump to attend G7 summit in France despite friction with allies",
@@ -40,89 +40,107 @@
   ],
   "elections": [
     {
-      "title": "Iceland’s foreign minister accuses rivals of spreading misinformation ‘from Farage’s playbook’ ahead of EU referendum",
-      "country": "",
-      "election_type": "Referendum",
+      "title": "Crises in Amhara, Tigray cloud Ethiopia's election 2026",
+      "country": "Ethiopia",
+      "election_type": "National",
       "date": "",
-      "description": "Iceland’s foreign minister accuses rivals of spreading misinformation ‘from Farage’s playbook’ ahead of EU referendum",
-      "source_url": "https://www.independent.co.uk/news/world/europe/iceland-foreign-minister-eu-referendum-farage-brexit-b2984376.html"
+      "description": "Crises in Amhara, Tigray cloud Ethiopia's election 2026",
+      "source_url": "https://www.dw.com/en/crises-in-amhara-tigray-cloud-ethiopia-s-election-2026/a-77233448?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "The kingmakers of Makerfield: English town braces for crucial by-election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "The kingmakers of Makerfield: English town braces for crucial by-election",
+      "source_url": "https://www.aljazeera.com/news/2026/5/28/the-kingmakers-of-makerfield-english-town-braces-for-crucial-by-election?traffic_source=rss"
+    },
+    {
+      "title": "Realistic AI-created content to require labels during Japan’s election campaigns",
+      "country": "Japan",
+      "election_type": "National",
+      "date": "",
+      "description": "Realistic AI-created content to require labels during Japan’s election campaigns",
+      "source_url": "https://www.japantimes.co.jp/news/2026/05/28/japan/japan-election-campaign-ai-use-rules"
+    },
+    {
+      "title": "New Zealand’s election-year budget shuns ‘sugar hits’ for voters as Iran war jolts economy",
+      "country": "New Zealand",
+      "election_type": "National",
+      "date": "",
+      "description": "New Zealand’s election-year budget shuns ‘sugar hits’ for voters as Iran war jolts economy",
+      "source_url": "https://www.independent.co.uk/news/world/australasia/new-zealand-election-budget-iran-war-b2984941.html"
     }
   ],
   "global_events": [
+    {
+      "title": "5 of 7 people trapped in flooded Laos cave for more than a week found alive",
+      "summary": "5 of 7 people trapped in flooded Laos cave for more than a week found alive",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World"
+      ],
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/laos-cave-thai-rescue-seven-trapped-5-found-alive"
+    },
     {
       "title": "Hamas confirms that Israeli strikes killed its new military leader in Gaza City",
       "summary": "Hamas confirms that Israeli strikes killed its new military leader in Gaza City",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
-        "CBC World",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.pbs.org/newshour/world/hamas-confirms-that-israeli-strikes-killed-its-new-military-leader-in-gaza-city"
     },
     {
-      "title": "Five People Stuck in Flooded Laos Cave Are Found Alive",
-      "summary": "Five People Stuck in Flooded Laos Cave Are Found Alive",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html"
-    },
-    {
-      "title": "US carries out new strikes on Iran military site",
-      "summary": "US carries out new strikes on Iran military site",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US Conducts New Strikes Against Iran: Everything We Know",
-      "summary": "US Conducts New Strikes Against Iran: Everything We Know",
+      "title": "Iran \"negotiating on fumes,\" Trump says, as U.S. conducts new strikes",
+      "summary": "Iran \"negotiating on fumes,\" Trump says, as U.S. conducts new strikes",
       "outlets_covering": [
         "NPR World",
+        "PBS NewsHour",
+        "CBC World",
         "CBS News World",
-        "NYT World",
-        "Newsweek"
+        "NBC News World"
       ],
       "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.newsweek.com/us-conducts-new-strikes-against-iran-everything-we-know-12001278"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-israel-hezbollah-lebanon"
     },
     {
-      "title": "Board of Peace official Gaza fund is empty despite pledges, source says",
-      "summary": "Board of Peace official Gaza fund is empty despite pledges, source says",
+      "title": "South African government rejects US claim of a humanitarian emergency for white people",
+      "summary": "South African government rejects US claim of a humanitarian emergency for white people",
       "outlets_covering": [
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
+        "PBS NewsHour",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/south-africa-humanitarian-trump-emergency-b2984730.html"
+    },
+    {
+      "title": "Iran fires missile at Kuwait after second round of U.S. strikes in days",
+      "summary": "Iran fires missile at Kuwait after second round of U.S. strikes in days",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "The Independent"
       ],
       "coverage_count": 3,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/28/world/board-of-peace-gaza-fund-empty"
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-trump-oman-strait-of-hormuz-deal"
     }
   ]
 }
