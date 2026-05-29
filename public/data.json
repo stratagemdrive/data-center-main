@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-05-29T02:10:00.308916Z",
+  "last_updated": "2026-05-29T14:39:35.350785Z",
   "world_org_meetings": [
+    {
+      "title": "Leaders of ASEAN nations to meet with Putin at June summit in Russia",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Leaders of ASEAN nations to meet with Putin at June summit in Russia",
+      "source_url": "https://www.thehindu.com/news/international/leaders-of-asean-nations-to-meet-with-putin-at-june-summit-in-russia/article71036158.ece"
+    },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
       "organization": "G7",
@@ -20,18 +28,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Japan woos visiting Philippine leader during state visit with arms sales and China in mind",
-      "participants": [
-        "Japan",
-        "Philippine",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Japan woos visiting Philippine leader during state visit with arms sales and China in mind",
-      "source_url": "https://abcnews.com/International/wireStory/japan-woos-visiting-philippine-leader-state-visit-arms-133371539"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -44,12 +40,20 @@
   ],
   "elections": [
     {
-      "title": "Clashes between armed groups in Colombia kill at least 52 guerrillas on eve of election",
-      "country": "Colombia",
+      "title": "Nationwide customer seeking election to board hits out at lender for ‘unfair’ treatment",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Clashes between armed groups in Colombia kill at least 52 guerrillas on eve of election",
-      "source_url": "https://www.france24.com/en/americas/20260528-clashes-between-armed-groups-in-colombia-kill-at-least-52-guerrillas-on-eve-of-election"
+      "description": "Nationwide customer seeking election to board hits out at lender for ‘unfair’ treatment",
+      "source_url": "https://www.theguardian.com/business/2026/may/29/nationwide-customer-seeking-election-board-slams-lender-unfair-treatment"
+    },
+    {
+      "title": "Labour faces union backlash after minister suggests living wage will not be extended to over-18s before election – UK politics live",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Labour faces union backlash after minister suggests living wage will not be extended to over-18s before election – UK politics live",
+      "source_url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates"
     },
     {
       "title": "Crises in Amhara, Tigray cloud Ethiopia's election 2026",
@@ -58,14 +62,6 @@
       "date": "",
       "description": "Crises in Amhara, Tigray cloud Ethiopia's election 2026",
       "source_url": "https://www.dw.com/en/crises-in-amhara-tigray-cloud-ethiopia-s-election-2026/a-77233448?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Realistic AI-created content to require labels during Japan’s election campaigns",
-      "country": "Japan",
-      "election_type": "National",
-      "date": "",
-      "description": "Realistic AI-created content to require labels during Japan’s election campaigns",
-      "source_url": "https://www.japantimes.co.jp/news/2026/05/28/japan/japan-election-campaign-ai-use-rules"
     }
   ],
   "global_events": [
@@ -77,14 +73,45 @@
         "PBS NewsHour",
         "ABC News Intl",
         "CBS News World",
-        "Sky News World",
         "NYT World",
         "The Independent"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "Global",
       "category": "Conflict",
       "source_url": "https://www.pbs.org/newshour/world/suspect-in-attack-plot-on-taylor-swifts-vienna-concert-convicted-and-sentenced-to-15-years"
+    },
+    {
+      "title": "U.S. and Iran \"not there yet\" on a deal but \"very close,\" Vance says",
+      "summary": "U.S. and Iran \"not there yet\" on a deal but \"very close,\" Vance says",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "The Guardian World",
+        "Japan Times",
+        "Axios"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close"
+    },
+    {
+      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
+      "summary": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260529-russian-drone-launched-against-ukraine-crashes-in-romania-injuring-2"
     },
     {
       "title": "US and Iran reach peace deal pending Trump approval: officials",
@@ -92,61 +119,33 @@
       "outlets_covering": [
         "CBS News World",
         "NYT World",
-        "Wash Post World",
-        "Bloomberg",
         "The Independent",
-        "Al Jazeera",
-        "Japan Times",
         "The Hindu Intl",
         "SCMP",
-        "Foreign Policy"
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 15,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-usa-peace-deal-trump-b2985433.html"
     },
     {
-      "title": "5 of 7 people trapped in flooded Laos cave for more than a week found alive",
-      "summary": "5 of 7 people trapped in flooded Laos cave for more than a week found alive",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/laos-cave-thai-rescue-seven-trapped-5-found-alive"
-    },
-    {
-      "title": "Hamas confirms that Israeli strikes killed its new military leader in Gaza City",
-      "summary": "Hamas confirms that Israeli strikes killed its new military leader in Gaza City",
+      "title": "Russian Drone Hits Romanian Apartment Building, Officials Say",
+      "summary": "Russian Drone Hits Romanian Apartment Building, Officials Say",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
-        "The Hindu Intl"
+        "CBC World",
+        "NBC News World",
+        "NYT World",
+        "France24"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/hamas-confirms-that-israeli-strikes-killed-its-new-military-leader-in-gaza-city"
-    },
-    {
-      "title": "JD Vance says US ‘not there yet’ on an Iran deal – as it happened",
-      "summary": "JD Vance says US ‘not there yet’ on an Iran deal – as it happened",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 6,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live"
+      "source_url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html"
     }
   ]
 }
