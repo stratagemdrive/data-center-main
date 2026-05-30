@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T14:39:35.350785Z",
+  "last_updated": "2026-05-30T02:06:07.856404Z",
   "world_org_meetings": [
     {
       "title": "Leaders of ASEAN nations to meet with Putin at June summit in Russia",
@@ -40,112 +40,109 @@
   ],
   "elections": [
     {
-      "title": "Nationwide customer seeking election to board hits out at lender for ‘unfair’ treatment",
+      "title": "Mexican Senate Votes to Allow Voiding Elections Over Foreign Interference",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Nationwide customer seeking election to board hits out at lender for ‘unfair’ treatment",
-      "source_url": "https://www.theguardian.com/business/2026/may/29/nationwide-customer-seeking-election-board-slams-lender-unfair-treatment"
+      "description": "Mexican Senate Votes to Allow Voiding Elections Over Foreign Interference",
+      "source_url": "https://www.nytimes.com/2026/05/29/world/americas/mexico-ban-election-meddling-foreign-powers.html"
     },
     {
-      "title": "Labour faces union backlash after minister suggests living wage will not be extended to over-18s before election – UK politics live",
-      "country": "",
+      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "country": "Mexico",
       "election_type": "National",
       "date": "",
-      "description": "Labour faces union backlash after minister suggests living wage will not be extended to over-18s before election – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates"
+      "description": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "source_url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment"
     },
     {
-      "title": "Crises in Amhara, Tigray cloud Ethiopia's election 2026",
+      "title": "Ethiopia election 2026: Tigray excluded and on edge",
       "country": "Ethiopia",
       "election_type": "National",
       "date": "",
-      "description": "Crises in Amhara, Tigray cloud Ethiopia's election 2026",
-      "source_url": "https://www.dw.com/en/crises-in-amhara-tigray-cloud-ethiopia-s-election-2026/a-77233448?maca=en-rss-en-world-4025-rdf"
+      "description": "Ethiopia election 2026: Tigray excluded and on edge",
+      "source_url": "https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
+    {
+      "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+      "summary": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+      "outlets_covering": [
+        "BBC World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss"
+    },
+    {
+      "title": "First of five men found alive in flooded Laos cave rescued",
+      "summary": "First of five men found alive in flooded Laos cave rescued",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Suspect in plot to attack Taylor Swift's Vienna concert convicted and sentenced to 15 years",
       "summary": "Suspect in plot to attack Taylor Swift's Vienna concert convicted and sentenced to 15 years",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
-        "ABC News Intl",
         "CBS News World",
-        "NYT World",
-        "The Independent"
+        "NYT World"
       ],
-      "coverage_count": 6,
+      "coverage_count": 4,
       "region": "Global",
       "category": "Conflict",
       "source_url": "https://www.pbs.org/newshour/world/suspect-in-attack-plot-on-taylor-swifts-vienna-concert-convicted-and-sentenced-to-15-years"
     },
     {
-      "title": "U.S. and Iran \"not there yet\" on a deal but \"very close,\" Vance says",
-      "summary": "U.S. and Iran \"not there yet\" on a deal but \"very close,\" Vance says",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Guardian World",
-        "Japan Times",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close"
-    },
-    {
-      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
-      "summary": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
+      "title": "Asia defense summit opens with China and doubts about U.S. priorities topping concerns",
+      "summary": "Asia defense summit opens with China and doubts about U.S. priorities topping concerns",
       "outlets_covering": [
         "NPR World",
         "PBS NewsHour",
-        "CBC World",
-        "ABC News Intl",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "ABC News Intl"
       ],
-      "coverage_count": 9,
-      "region": "Europe / Russia",
+      "coverage_count": 3,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260529-russian-drone-launched-against-ukraine-crashes-in-romania-injuring-2"
+      "source_url": "https://www.pbs.org/newshour/world/asia-defense-summit-opens-with-china-and-doubts-about-u-s-priorities-topping-concerns"
     },
     {
-      "title": "US and Iran reach peace deal pending Trump approval: officials",
-      "summary": "US and Iran reach peace deal pending Trump approval: officials",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-usa-peace-deal-trump-b2985433.html"
-    },
-    {
-      "title": "Russian Drone Hits Romanian Apartment Building, Officials Say",
-      "summary": "Russian Drone Hits Romanian Apartment Building, Officials Say",
+      "title": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
+      "summary": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
       "outlets_covering": [
         "BBC World",
         "PBS NewsHour",
-        "CBC World",
-        "NBC News World",
         "NYT World",
-        "France24"
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "France24",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html"
+      "coverage_count": 19,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss"
     }
   ]
 }
