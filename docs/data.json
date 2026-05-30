@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T02:06:07.856404Z",
+  "last_updated": "2026-05-30T13:02:41.697400Z",
   "world_org_meetings": [
     {
       "title": "Leaders of ASEAN nations to meet with Putin at June summit in Russia",
@@ -28,6 +28,42 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "President of Myanmar’s military-backed government visits India",
+      "participants": [
+        "President",
+        "Myanmar’s",
+        "India"
+      ],
+      "date": "",
+      "location": "",
+      "description": "President of Myanmar’s military-backed government visits India",
+      "source_url": "https://abcnews.com/International/wireStory/president-myanmars-military-backed-government-visits-india-133442790"
+    },
+    {
+      "title": "US President Trump's daughter Tiffany Trump visits Taj Mahal with husband Michael Boulos",
+      "participants": [
+        "President Trump's",
+        "Tiffany Trump",
+        "Taj Mahal",
+        "Michael Boulos"
+      ],
+      "date": "",
+      "location": "",
+      "description": "US President Trump's daughter Tiffany Trump visits Taj Mahal with husband Michael Boulos",
+      "source_url": "https://timesofindia.indiatimes.com/india/us-president-trumps-daughter-tiffany-trump-visits-taj-mahal-with-husband-michael-boulos/articleshow/131407244.cms"
+    },
+    {
+      "title": "Myanmar President Min Aung Hlaing visits Bodh Gaya on first foreign trip since taking office",
+      "participants": [
+        "Myanmar President Min Aung Hlaing",
+        "Bodh Gaya"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Myanmar President Min Aung Hlaing visits Bodh Gaya on first foreign trip since taking office",
+      "source_url": "https://timesofindia.indiatimes.com/india/myanmar-president-min-aung-hlaing-visits-bodh-gaya-on-first-foreign-trip-since-taking-office/articleshow/131406909.cms"
+    },
+    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -40,109 +76,132 @@
   ],
   "elections": [
     {
-      "title": "Mexican Senate Votes to Allow Voiding Elections Over Foreign Interference",
+      "title": "How to to end edemic violence in Colombia? Presidential elections to take place on Sunday",
+      "country": "Colombia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "How to to end edemic violence in Colombia? Presidential elections to take place on Sunday",
+      "source_url": "https://www.france24.com/en/how-to-to-end-edemic-violence-in-colombia-presidential-elections-to-take-place-on-sunday"
+    },
+    {
+      "title": "How BJP is building its UP pitch well before 2027 election battle",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Mexican Senate Votes to Allow Voiding Elections Over Foreign Interference",
-      "source_url": "https://www.nytimes.com/2026/05/29/world/americas/mexico-ban-election-meddling-foreign-powers.html"
+      "description": "How BJP is building its UP pitch well before 2027 election battle",
+      "source_url": "https://timesofindia.indiatimes.com/india/how-bjp-is-building-its-up-pitch-well-before-2027-election-battle/articleshow/131328415.cms"
     },
     {
-      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
-      "country": "Mexico",
+      "title": "Colombia’s Elections Are a Crucial Test for the Left in Latin America",
+      "country": "Colombia",
       "election_type": "National",
       "date": "",
-      "description": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
-      "source_url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment"
+      "description": "Colombia’s Elections Are a Crucial Test for the Left in Latin America",
+      "source_url": "https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html"
     },
     {
-      "title": "Ethiopia election 2026: Tigray excluded and on edge",
-      "country": "Ethiopia",
+      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "country": "Colombia",
       "election_type": "National",
       "date": "",
-      "description": "Ethiopia election 2026: Tigray excluded and on edge",
-      "source_url": "https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-world-4025-rdf"
+      "description": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+      "source_url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence"
+    },
+    {
+      "title": "Malta votes in snap parliamentary election",
+      "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Malta votes in snap parliamentary election",
+      "source_url": "https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
-      "summary": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "summary": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "outlets_covering": [
         "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Four more men freed from flooded Laos cave in hazardous rescue mission",
+      "summary": "Four more men freed from flooded Laos cave in hazardous rescue mission",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 10,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.theguardian.com/world/2026/may/30/four-more-men-freed-from-flooded-laos-cave-in-hazardous-rescue-mission"
+    },
+    {
+      "title": "Romania says Russian drone targeting Ukraine crashes in apartment, killing two",
+      "summary": "Romania says Russian drone targeting Ukraine crashes in apartment, killing two",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "CBC World",
+        "ABC News Intl",
+        "Fox News World",
+        "NYT World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/romania-says-russian-drone-targeting-ukraine-crashes-in-apartment-killing-two"
+    },
+    {
+      "title": "UN places Israel and Russia on sexual violence blacklist",
+      "summary": "UN places Israel and Russia on sexual violence blacklist",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
         "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
         "The Hindu Intl",
         "Foreign Policy"
       ],
       "coverage_count": 8,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss"
+      "source_url": "https://www.thehindu.com/news/international/un-places-israel-and-russia-on-sexual-violence-blacklist/article71038772.ece"
     },
     {
-      "title": "First of five men found alive in flooded Laos cave rescued",
-      "summary": "First of five men found alive in flooded Laos cave rescued",
+      "title": "Russian Drone Hits Romanian Apartment Building, Officials Say",
+      "summary": "Russian Drone Hits Romanian Apartment Building, Officials Say",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Suspect in plot to attack Taylor Swift's Vienna concert convicted and sentenced to 15 years",
-      "summary": "Suspect in plot to attack Taylor Swift's Vienna concert convicted and sentenced to 15 years",
-      "outlets_covering": [
-        "BBC World",
         "PBS NewsHour",
-        "CBS News World",
+        "CBC World",
+        "NBC News World",
         "NYT World"
       ],
       "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/suspect-in-attack-plot-on-taylor-swifts-vienna-concert-convicted-and-sentenced-to-15-years"
-    },
-    {
-      "title": "Asia defense summit opens with China and doubts about U.S. priorities topping concerns",
-      "summary": "Asia defense summit opens with China and doubts about U.S. priorities topping concerns",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "ABC News Intl"
-      ],
-      "coverage_count": 3,
-      "region": "China",
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/asia-defense-summit-opens-with-china-and-doubts-about-u-s-priorities-topping-concerns"
-    },
-    {
-      "title": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-      "summary": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "France24",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 19,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss"
+      "source_url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html"
     }
   ]
 }
