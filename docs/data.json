@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T02:32:27.462842Z",
+  "last_updated": "2026-05-31T13:14:11.301985Z",
   "world_org_meetings": [
     {
       "title": "IMF Chief, Venezuelan Officials Hold Talks on Economic Stability",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "IMF Chief, Venezuelan Officials Hold Talks on Economic Stability",
       "source_url": "https://www.bloomberg.com/news/articles/2026-05-30/imf-chief-venezuelan-officials-hold-talks-on-economic-stability"
-    },
-    {
-      "title": "Leaders of ASEAN nations to meet with Putin at June summit in Russia",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "Leaders of ASEAN nations to meet with Putin at June summit in Russia",
-      "source_url": "https://abcnews.com/International/wireStory/leaders-asean-nations-meet-putin-june-summit-russia-133409353"
     },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -60,12 +52,12 @@
   ],
   "elections": [
     {
-      "title": "Venezuela opposition candidate Gonzalez urges new elections",
+      "title": "Venezuela’s Opposition candidate Edmundo González calls for Presidential elections",
       "country": "Venezuela",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Venezuela opposition candidate Gonzalez urges new elections",
-      "source_url": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-world-4025-rdf"
+      "description": "Venezuela’s Opposition candidate Edmundo González calls for Presidential elections",
+      "source_url": "https://www.thehindu.com/news/international/venezuelas-opposition-candidate-edmundo-gonzalez-calls-for-presidential-elections/article71042718.ece"
     },
     {
       "title": "Colombia accuses Ecuador of interfering in its general election",
@@ -76,28 +68,28 @@
       "source_url": "https://www.pbs.org/newshour/world/colombia-accuses-ecuador-of-interfering-in-its-general-election"
     },
     {
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "country": "Ecuador",
-      "election_type": "National",
-      "date": "",
-      "description": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "source_url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Colombia’s Elections Are a Crucial Test for the Left in Latin America",
+      "title": "Colombia votes in presidential election that could redefine relations with US",
       "country": "Colombia",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Colombia’s Elections Are a Crucial Test for the Left in Latin America",
-      "source_url": "https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html"
+      "description": "Colombia votes in presidential election that could redefine relations with US",
+      "source_url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Colombians, weary of violence, prepare to vote in polarizing election",
+      "title": "Economic Model and US Relations at Stake in Colombian Election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Colombians, weary of violence, prepare to vote in polarizing election",
-      "source_url": "https://www.cbsnews.com/news/colombia-presidential-election-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia"
+      "description": "Economic Model and US Relations at Stake in Colombian Election",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-31/economic-model-and-us-relations-at-stake-in-colombian-election"
+    },
+    {
+      "title": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
+      "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
+      "source_url": "https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections"
     }
   ],
   "global_events": [
@@ -118,21 +110,30 @@
       "source_url": "https://thehill.com/homenews/5902824-un-report-israeli-russian-abuses"
     },
     {
-      "title": "Four more Laos gold miners rescued from flooded cave",
-      "summary": "Four more Laos gold miners rescued from flooded cave",
+      "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
+      "summary": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
       "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
+        "ABC News Intl",
         "The Guardian World",
-        "Al Jazeera"
+        "France24"
       ],
-      "coverage_count": 10,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/laos-gold-miners-cave-rescue-trapped"
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates"
+    },
+    {
+      "title": "China's factory activity slows in May, raising questions over its economy",
+      "summary": "China's factory activity slows in May, raising questions over its economy",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Bloomberg",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Economy",
+      "source_url": "https://abcnews.com/International/wireStory/chinas-factory-activity-slows-raising-questions-economy-133459427"
     },
     {
       "title": "World Health Organization chief visits epicentre of Ebola outbreak in eastern Congo",
@@ -141,40 +142,31 @@
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "Al Jazeera",
         "France24",
         "The Hindu Intl",
         "UN News"
       ],
-      "coverage_count": 8,
+      "coverage_count": 6,
       "region": "Africa",
       "category": "Health",
       "source_url": "https://www.cbc.ca/news/world/who-chief-ebola-outbreak-eastern-congo-tedros-adhanom-ghebreyesus-9.7218009?cmp=rss"
     },
     {
-      "title": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
-      "summary": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
+      "title": "Four men rescued from flooded Laos cave as search continues for 2 others",
+      "summary": "Four men rescued from flooded Laos cave as search continues for 2 others",
       "outlets_covering": [
-        "ABC News Intl",
-        "Al Jazeera"
-      ],
-      "coverage_count": 2,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18?traffic_source=rss"
-    },
-    {
-      "title": "Venezuela opposition candidate Gonzalez urges new elections",
-      "summary": "Venezuela opposition candidate Gonzalez urges new elections",
-      "outlets_covering": [
-        "ABC News Intl",
-        "DW World",
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "NBC News World",
+        "Sky News World",
+        "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-world-4025-rdf"
+      "coverage_count": 10,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.pbs.org/newshour/world/four-men-rescued-from-flooded-laos-cave-as-search-continues-for-2-others"
     }
   ]
 }
