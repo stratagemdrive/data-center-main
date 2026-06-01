@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-01T02:41:40.894822Z",
+  "last_updated": "2026-06-01T17:16:20.053536Z",
   "world_org_meetings": [
-    {
-      "title": "IMF Chief, Venezuelan Officials Hold Talks on Economy Issues",
-      "organization": "IMF",
-      "date": "",
-      "location": "",
-      "description": "IMF Chief, Venezuelan Officials Hold Talks on Economy Issues",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-05-30/imf-chief-venezuelan-officials-hold-talks-on-economic-stability"
-    },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
       "organization": "G7",
@@ -28,28 +20,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "US President Donald Trump’s daughter Tiffany visits Jaisalmer’s Sonar Fort",
+      "title": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
       "participants": [
-        "President Donald Trump’s",
-        "Tiffany",
-        "Jaisalmer’s Sonar Fort"
+        "Trump",
+        "China’s",
+        "Ukraine"
       ],
       "date": "",
       "location": "",
-      "description": "US President Donald Trump’s daughter Tiffany visits Jaisalmer’s Sonar Fort",
-      "source_url": "https://timesofindia.indiatimes.com/india/us-president-donald-trumps-daughter-tiffany-visits-jaisalmers-sonar-fort/articleshow/131425248.cms"
-    },
-    {
-      "title": "President of Myanmar’s military-backed government visits India",
-      "participants": [
-        "President",
-        "Myanmar’s",
-        "India"
-      ],
-      "date": "",
-      "location": "",
-      "description": "President of Myanmar’s military-backed government visits India",
-      "source_url": "https://abcnews.com/International/wireStory/president-myanmars-military-backed-government-visits-india-133442790"
+      "description": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3355551/trump-personally-called-chinas-help-end-ukraine-war-summit-xi"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -72,20 +52,12 @@
       "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
     },
     {
-      "title": "Venezuela’s Opposition candidate Edmundo González calls for Presidential elections",
-      "country": "Venezuela",
-      "election_type": "Presidential",
+      "title": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
+      "country": "Ethiopia",
+      "election_type": "National",
       "date": "",
-      "description": "Venezuela’s Opposition candidate Edmundo González calls for Presidential elections",
-      "source_url": "https://www.thehindu.com/news/international/venezuelas-opposition-candidate-edmundo-gonzalez-calls-for-presidential-elections/article71042718.ece"
-    },
-    {
-      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
-      "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Cepeda, de la Espriella advance in Colombia’s presidential election",
-      "source_url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss"
+      "description": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
+      "source_url": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win"
     },
     {
       "title": "Colombian presidential election headed for runoff",
@@ -96,15 +68,66 @@
       "source_url": "https://www.cbsnews.com/news/colombia-presidential-election-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia"
     },
     {
-      "title": "Ethiopia to vote in first elections since Tigray peace deal",
+      "title": "Colorado elections clerk Tina Peters released from prison after sentence commuted",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Colorado elections clerk Tina Peters released from prison after sentence commuted",
+      "source_url": "https://www.theguardian.com/us-news/2026/jun/01/tina-peters-colorado-election-released-prison"
+    },
+    {
+      "title": "Ethiopia’s Election Comes at a Critical Moment for the Country: What to Know",
       "country": "Ethiopia",
       "election_type": "National",
       "date": "",
-      "description": "Ethiopia to vote in first elections since Tigray peace deal",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss"
+      "description": "Ethiopia’s Election Comes at a Critical Moment for the Country: What to Know",
+      "source_url": "https://www.nytimes.com/2026/06/01/world/africa/ethiopia-election-abiy-ahmed-explained.html"
     }
   ],
   "global_events": [
+    {
+      "title": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
+      "summary": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
+      "outlets_covering": [
+        "NPR World",
+        "PBS NewsHour",
+        "ABC News Intl",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff"
+    },
+    {
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "summary": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Thousands flee as Netanyahu orders Israeli bombing of southern Beirut",
+      "summary": "Thousands flee as Netanyahu orders Israeli bombing of southern Beirut",
+      "outlets_covering": [
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon"
+    },
     {
       "title": "Colombia Presidential Election Heads to a Runoff",
       "summary": "Colombia Presidential Election Heads to a Runoff",
@@ -114,82 +137,28 @@
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times"
+        "Time"
       ],
-      "coverage_count": 10,
+      "coverage_count": 6,
       "region": "Latin America",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
     },
     {
-      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-      "summary": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "title": "French navy seizes Russia-linked oil tanker in Atlantic",
+      "summary": "French navy seizes Russia-linked oil tanker in Atlantic",
       "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "NBC News World",
-        "NYT World",
-        "Japan Times"
-      ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
-      "summary": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
         "NBC News World",
         "The Guardian World",
         "Al Jazeera",
-        "The Hindu Intl"
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
       ],
       "coverage_count": 7,
-      "region": "Middle East",
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-in-26-years/article71046766.ece"
-    },
-    {
-      "title": "Trump seeking edits to US-Iran deal, US media report",
-      "summary": "Trump seeking edits to US-Iran deal, US media report",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "The Guardian World",
-        "Bloomberg",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "summary": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.theguardian.com/world/2026/jun/01/macron-french-navy-boarded-russia-linked-oil-tanker-atlantic"
     }
   ]
 }
