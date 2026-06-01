@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T13:14:11.301985Z",
+  "last_updated": "2026-06-01T02:41:40.894822Z",
   "world_org_meetings": [
     {
-      "title": "IMF Chief, Venezuelan Officials Hold Talks on Economic Stability",
+      "title": "IMF Chief, Venezuelan Officials Hold Talks on Economy Issues",
       "organization": "IMF",
       "date": "",
       "location": "",
-      "description": "IMF Chief, Venezuelan Officials Hold Talks on Economic Stability",
+      "description": "IMF Chief, Venezuelan Officials Hold Talks on Economy Issues",
       "source_url": "https://www.bloomberg.com/news/articles/2026-05-30/imf-chief-venezuelan-officials-hold-talks-on-economic-stability"
     },
     {
@@ -27,6 +27,18 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "US President Donald Trump’s daughter Tiffany visits Jaisalmer’s Sonar Fort",
+      "participants": [
+        "President Donald Trump’s",
+        "Tiffany",
+        "Jaisalmer’s Sonar Fort"
+      ],
+      "date": "",
+      "location": "",
+      "description": "US President Donald Trump’s daughter Tiffany visits Jaisalmer’s Sonar Fort",
+      "source_url": "https://timesofindia.indiatimes.com/india/us-president-donald-trumps-daughter-tiffany-visits-jaisalmers-sonar-fort/articleshow/131425248.cms"
+    },
     {
       "title": "President of Myanmar’s military-backed government visits India",
       "participants": [
@@ -52,6 +64,14 @@
   ],
   "elections": [
     {
+      "title": "Colombia Presidential Election Heads to a Runoff",
+      "country": "Colombia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Colombia Presidential Election Heads to a Runoff",
+      "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
+    },
+    {
       "title": "Venezuela’s Opposition candidate Edmundo González calls for Presidential elections",
       "country": "Venezuela",
       "election_type": "Presidential",
@@ -60,113 +80,116 @@
       "source_url": "https://www.thehindu.com/news/international/venezuelas-opposition-candidate-edmundo-gonzalez-calls-for-presidential-elections/article71042718.ece"
     },
     {
-      "title": "Colombia accuses Ecuador of interfering in its general election",
-      "country": "Colombia",
-      "election_type": "General",
-      "date": "",
-      "description": "Colombia accuses Ecuador of interfering in its general election",
-      "source_url": "https://www.pbs.org/newshour/world/colombia-accuses-ecuador-of-interfering-in-its-general-election"
-    },
-    {
-      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
       "country": "Colombia",
       "election_type": "Presidential",
       "date": "",
-      "description": "Colombia votes in presidential election that could redefine relations with US",
-      "source_url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss"
+      "description": "Cepeda, de la Espriella advance in Colombia’s presidential election",
+      "source_url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss"
     },
     {
-      "title": "Economic Model and US Relations at Stake in Colombian Election",
+      "title": "Colombian presidential election headed for runoff",
       "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Colombian presidential election headed for runoff",
+      "source_url": "https://www.cbsnews.com/news/colombia-presidential-election-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia"
+    },
+    {
+      "title": "Ethiopia to vote in first elections since Tigray peace deal",
+      "country": "Ethiopia",
       "election_type": "National",
       "date": "",
-      "description": "Economic Model and US Relations at Stake in Colombian Election",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-05-31/economic-model-and-us-relations-at-stake-in-colombian-election"
-    },
-    {
-      "title": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
-      "source_url": "https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections"
+      "description": "Ethiopia to vote in first elections since Tigray peace deal",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "UN adds Israeli and Russian forces to blacklist for sexual violence during conflict",
-      "summary": "UN adds Israeli and Russian forces to blacklist for sexual violence during conflict",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "NYT World",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/homenews/5902824-un-report-israeli-russian-abuses"
-    },
-    {
-      "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
-      "summary": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates"
-    },
-    {
-      "title": "China's factory activity slows in May, raising questions over its economy",
-      "summary": "China's factory activity slows in May, raising questions over its economy",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Bloomberg",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Economy",
-      "source_url": "https://abcnews.com/International/wireStory/chinas-factory-activity-slows-raising-questions-economy-133459427"
-    },
-    {
-      "title": "World Health Organization chief visits epicentre of Ebola outbreak in eastern Congo",
-      "summary": "World Health Organization chief visits epicentre of Ebola outbreak in eastern Congo",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "France24",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 6,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.cbc.ca/news/world/who-chief-ebola-outbreak-eastern-congo-tedros-adhanom-ghebreyesus-9.7218009?cmp=rss"
-    },
-    {
-      "title": "Four men rescued from flooded Laos cave as search continues for 2 others",
-      "summary": "Four men rescued from flooded Laos cave as search continues for 2 others",
+      "title": "Colombia Presidential Election Heads to a Runoff",
+      "summary": "Colombia Presidential Election Heads to a Runoff",
       "outlets_covering": [
         "BBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 10,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
+    },
+    {
+      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "summary": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "NBC News World",
+        "NYT World",
+        "Japan Times"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
+      "summary": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
+      "outlets_covering": [
         "PBS NewsHour",
         "CBC World",
         "NBC News World",
-        "Sky News World",
         "The Guardian World",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-in-26-years/article71046766.ece"
+    },
+    {
+      "title": "Trump seeking edits to US-Iran deal, US media report",
+      "summary": "Trump seeking edits to US-Iran deal, US media report",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBS News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "summary": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "France24",
+        "Japan Times"
+      ],
       "coverage_count": 10,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.pbs.org/newshour/world/four-men-rescued-from-flooded-laos-cave-as-search-continues-for-2-others"
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
