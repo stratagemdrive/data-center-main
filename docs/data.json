@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T02:40:07.682658Z",
+  "last_updated": "2026-06-02T15:59:56.319468Z",
   "world_org_meetings": [
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -20,15 +20,51 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Venezuela acting president may visit India next week",
+      "title": "French President visits national team ahead of World cup",
+      "participants": [
+        "French President",
+        "World"
+      ],
+      "date": "",
+      "location": "",
+      "description": "French President visits national team ahead of World cup",
+      "source_url": "https://www.france24.com/en/video/20260602-french-president-visits-national-team-ahead-of-world-cup"
+    },
+    {
+      "title": "Venezuela acting president Delcy Rodriguez to visit India from June 3",
       "participants": [
         "Venezuela",
+        "Delcy Rodriguez",
+        "India",
+        "June"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Venezuela acting president Delcy Rodriguez to visit India from June 3",
+      "source_url": "https://timesofindia.indiatimes.com/india/venezuelas-acting-president-delcy-rodriguez-to-visit-india-from-june-3/articleshow/131464039.cms"
+    },
+    {
+      "title": "'Unwarranted': India hits out at Pak-EU joint statement for J&amp;K reference",
+      "participants": [
+        "Unwarranted India",
+        "Pak-EU",
+        "J&amp;K"
+      ],
+      "date": "",
+      "location": "",
+      "description": "'Unwarranted': India hits out at Pak-EU joint statement for J&amp;K reference",
+      "source_url": "https://timesofindia.indiatimes.com/india/unwarranted-india-hits-out-at-pak-eu-joint-statement-for-jk-reference/articleshow/131462741.cms"
+    },
+    {
+      "title": "Why Myanmar president's India visit is being closely watched",
+      "participants": [
+        "Why Myanmar",
         "India"
       ],
       "date": "",
       "location": "",
-      "description": "Venezuela acting president may visit India next week",
-      "source_url": "https://timesofindia.indiatimes.com/india/venezuela-acting-president-may-visit-india-next-week/articleshow/131450956.cms"
+      "description": "Why Myanmar president's India visit is being closely watched",
+      "source_url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
@@ -41,16 +77,6 @@
       "location": "",
       "description": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3355551/trump-personally-called-chinas-help-end-ukraine-war-summit-xi"
-    },
-    {
-      "title": "Cover Story newsletter: The summit of suspicion",
-      "participants": [
-        "Cover Story"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Cover Story newsletter: The summit of suspicion",
-      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
@@ -63,20 +89,20 @@
       "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
     },
     {
-      "title": "Celebration, shock and scepticism follow Colombia’s presidential election",
-      "country": "Colombia",
-      "election_type": "Presidential",
+      "title": "Kosovo general election: the cost of political polarization",
+      "country": "",
+      "election_type": "General",
       "date": "",
-      "description": "Celebration, shock and scepticism follow Colombia’s presidential election",
-      "source_url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss"
+      "description": "Kosovo general election: the cost of political polarization",
+      "source_url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
-      "country": "Russia",
+      "title": "Armenia Prime minister refuses Moscow's pressure for EU referendum",
+      "country": "Armenia",
       "election_type": "Referendum",
       "date": "",
-      "description": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
-      "source_url": "https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive?traffic_source=rss"
+      "description": "Armenia Prime minister refuses Moscow's pressure for EU referendum",
+      "source_url": "https://www.france24.com/en/video/20260602-armenia-prime-minister-refuses-moscow-s-pressure-for-eu-referendum"
     },
     {
       "title": "US targeting of drug gangs seen as attempt to shake up Brazil’s election",
@@ -97,83 +123,73 @@
   ],
   "global_events": [
     {
-      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-      "summary": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+      "title": "Russian missile, drone attack on Ukraine kills at least 13, officials say",
+      "summary": "Russian missile, drone attack on Ukraine kills at least 13, officials say",
       "outlets_covering": [
-        "PBS NewsHour",
+        "NPR World",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 14,
-      "region": "Middle East",
+      "coverage_count": 6,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss"
+      "source_url": "https://www.cbsnews.com/news/russia-ukraine-war-major-attacks-missile-drone-kill-several-wound-dozens"
     },
     {
-      "title": "West Asia war highlights: Trump says Netanyahu agreed not to send troops to Beirut",
-      "summary": "West Asia war highlights: Trump says Netanyahu agreed not to send troops to Beirut",
+      "title": "EU strikes migration deal for more deportations and detention centers abroad",
+      "summary": "EU strikes migration deal for more deportations and detention centers abroad",
       "outlets_covering": [
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
+        "NPR World",
+        "ABC News Intl",
+        "The Independent"
       ],
       "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece"
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/eu-strikes-migration-deal-deportations-detention-centers-abroad-133507637"
     },
     {
       "title": "Colombia Presidential Election Heads to a Runoff",
       "summary": "Colombia Presidential Election Heads to a Runoff",
       "outlets_covering": [
-        "BBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "Time",
-        "Al Jazeera"
+        "Time"
       ],
-      "coverage_count": 7,
+      "coverage_count": 4,
       "region": "Latin America",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
     },
     {
-      "title": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
-      "summary": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
+      "title": "Rescuers seek alternative route to search for remaining 2 people stranded in a flooded Laos cave",
+      "summary": "Rescuers seek alternative route to search for remaining 2 people stranded in a flooded Laos cave",
       "outlets_covering": [
         "PBS NewsHour",
-        "CBC World",
-        "NBC News World",
-        "The Guardian World",
+        "ABC News Intl",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-in-26-years/article71046766.ece"
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.pbs.org/newshour/world/rescuers-seek-alternative-route-to-search-for-remaining-2-people-stranded-in-a-flooded-laos-cave"
     },
     {
-      "title": "Senate Democrats unveil bill to block Trump’s ‘anti-weaponization’ fund",
-      "summary": "Senate Democrats unveil bill to block Trump’s ‘anti-weaponization’ fund",
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "summary": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
       "outlets_covering": [
-        "CBC World",
-        "The Guardian World",
-        "Time",
-        "The Hill",
-        "Axios"
+        "BBC World",
+        "NBC News World",
+        "Sky News World",
+        "France24"
       ],
-      "coverage_count": 8,
-      "region": "Global",
+      "coverage_count": 4,
+      "region": "Africa",
       "category": "Politics",
-      "source_url": "https://thehill.com/homenews/senate/5905018-democratic-senators-trump-anti-weaponization-fund"
+      "source_url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
