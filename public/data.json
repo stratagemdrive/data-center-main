@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T17:16:20.053536Z",
+  "last_updated": "2026-06-02T02:40:07.682658Z",
   "world_org_meetings": [
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -19,6 +19,17 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Venezuela acting president may visit India next week",
+      "participants": [
+        "Venezuela",
+        "India"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Venezuela acting president may visit India next week",
+      "source_url": "https://timesofindia.indiatimes.com/india/venezuela-acting-president-may-visit-india-next-week/articleshow/131450956.cms"
+    },
     {
       "title": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
       "participants": [
@@ -52,113 +63,117 @@
       "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
     },
     {
-      "title": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
-      "country": "Ethiopia",
-      "election_type": "National",
-      "date": "",
-      "description": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
-      "source_url": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win"
-    },
-    {
-      "title": "Colombian presidential election headed for runoff",
-      "country": "",
+      "title": "Celebration, shock and scepticism follow Colombia’s presidential election",
+      "country": "Colombia",
       "election_type": "Presidential",
       "date": "",
-      "description": "Colombian presidential election headed for runoff",
-      "source_url": "https://www.cbsnews.com/news/colombia-presidential-election-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia"
+      "description": "Celebration, shock and scepticism follow Colombia’s presidential election",
+      "source_url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss"
     },
     {
-      "title": "Colorado elections clerk Tina Peters released from prison after sentence commuted",
+      "title": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
+      "country": "Russia",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
+      "source_url": "https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive?traffic_source=rss"
+    },
+    {
+      "title": "US targeting of drug gangs seen as attempt to shake up Brazil’s election",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "US targeting of drug gangs seen as attempt to shake up Brazil’s election",
+      "source_url": "https://www.scmp.com/news/world/americas/article/3355612/us-targeting-brazilian-gangs-attempt-sway-election-there-experts-say"
+    },
+    {
+      "title": "Tina Peters doubles down on debunked election claims hours after release",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Colorado elections clerk Tina Peters released from prison after sentence commuted",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/01/tina-peters-colorado-election-released-prison"
-    },
-    {
-      "title": "Ethiopia’s Election Comes at a Critical Moment for the Country: What to Know",
-      "country": "Ethiopia",
-      "election_type": "National",
-      "date": "",
-      "description": "Ethiopia’s Election Comes at a Critical Moment for the Country: What to Know",
-      "source_url": "https://www.nytimes.com/2026/06/01/world/africa/ethiopia-election-abiy-ahmed-explained.html"
+      "description": "Tina Peters doubles down on debunked election claims hours after release",
+      "source_url": "https://thehill.com/homenews/state-watch/5904308-peters-prison-release-2020-election"
     }
   ],
   "global_events": [
     {
-      "title": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
-      "summary": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
+      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+      "summary": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
       "outlets_covering": [
-        "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff"
-    },
-    {
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "summary": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Thousands flee as Netanyahu orders Israeli bombing of southern Beirut",
-      "summary": "Thousands flee as Netanyahu orders Israeli bombing of southern Beirut",
-      "outlets_covering": [
-        "NYT World",
-        "The Guardian World",
+        "CBS News World",
+        "NBC News World",
         "The Independent",
-        "Al Jazeera"
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 14,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon"
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss"
+    },
+    {
+      "title": "West Asia war highlights: Trump says Netanyahu agreed not to send troops to Beirut",
+      "summary": "West Asia war highlights: Trump says Netanyahu agreed not to send troops to Beirut",
+      "outlets_covering": [
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece"
     },
     {
       "title": "Colombia Presidential Election Heads to a Runoff",
       "summary": "Colombia Presidential Election Heads to a Runoff",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "Time"
+        "Time",
+        "Al Jazeera"
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "region": "Latin America",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
     },
     {
-      "title": "French navy seizes Russia-linked oil tanker in Atlantic",
-      "summary": "French navy seizes Russia-linked oil tanker in Atlantic",
+      "title": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
+      "summary": "Israeli army captures strategic castle in Lebanon in deepest incursion in 26 years",
       "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
         "NBC News World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
+      "coverage_count": 5,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jun/01/macron-french-navy-boarded-russia-linked-oil-tanker-atlantic"
+      "source_url": "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-in-26-years/article71046766.ece"
+    },
+    {
+      "title": "Senate Democrats unveil bill to block Trump’s ‘anti-weaponization’ fund",
+      "summary": "Senate Democrats unveil bill to block Trump’s ‘anti-weaponization’ fund",
+      "outlets_covering": [
+        "CBC World",
+        "The Guardian World",
+        "Time",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://thehill.com/homenews/senate/5905018-democratic-senators-trump-anti-weaponization-fund"
     }
   ]
 }
