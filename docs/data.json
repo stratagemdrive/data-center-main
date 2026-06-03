@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-02T15:59:56.319468Z",
+  "last_updated": "2026-06-03T02:48:14.565315Z",
   "world_org_meetings": [
+    {
+      "title": "PM Modi, Trump likely to come face to face at G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "PM Modi, Trump likely to come face to face at G7 summit",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-trump-likely-to-come-face-to-face-at-g7-summit/articleshow/131473526.cms"
+    },
+    {
+      "title": "Bangladesh's foreign minister defeats Cyprus' ambassador to be UN General Assembly president",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Bangladesh's foreign minister defeats Cyprus' ambassador to be UN General Assembly president",
+      "source_url": "https://www.independent.co.uk/news/world/europe/united-states-united-nations-un-general-assembly-cyprus-bangladesh-b2988316.html"
+    },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
       "organization": "G7",
@@ -20,40 +36,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "French President visits national team ahead of World cup",
+      "title": "India rebukes EU &amp; Pak over J&amp;K reference in joint statement",
       "participants": [
-        "French President",
-        "World"
-      ],
-      "date": "",
-      "location": "",
-      "description": "French President visits national team ahead of World cup",
-      "source_url": "https://www.france24.com/en/video/20260602-french-president-visits-national-team-ahead-of-world-cup"
-    },
-    {
-      "title": "Venezuela acting president Delcy Rodriguez to visit India from June 3",
-      "participants": [
-        "Venezuela",
-        "Delcy Rodriguez",
         "India",
-        "June"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Venezuela acting president Delcy Rodriguez to visit India from June 3",
-      "source_url": "https://timesofindia.indiatimes.com/india/venezuelas-acting-president-delcy-rodriguez-to-visit-india-from-june-3/articleshow/131464039.cms"
-    },
-    {
-      "title": "'Unwarranted': India hits out at Pak-EU joint statement for J&amp;K reference",
-      "participants": [
-        "Unwarranted India",
-        "Pak-EU",
+        "Pak",
         "J&amp;K"
       ],
       "date": "",
       "location": "",
-      "description": "'Unwarranted': India hits out at Pak-EU joint statement for J&amp;K reference",
-      "source_url": "https://timesofindia.indiatimes.com/india/unwarranted-india-hits-out-at-pak-eu-joint-statement-for-jk-reference/articleshow/131462741.cms"
+      "description": "India rebukes EU &amp; Pak over J&amp;K reference in joint statement",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-rebukes-eu-pak-over-jk-reference-in-joint-statement/articleshow/131473780.cms"
     },
     {
       "title": "Why Myanmar president's India visit is being closely watched",
@@ -77,119 +69,132 @@
       "location": "",
       "description": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3355551/trump-personally-called-chinas-help-end-ukraine-war-summit-xi"
+    },
+    {
+      "title": "Cover Story newsletter: The summit of suspicion",
+      "participants": [
+        "Cover Story"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Cover Story newsletter: The summit of suspicion",
+      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
     {
-      "title": "Colombia Presidential Election Heads to a Runoff",
+      "title": "Nunn, Trone Garrett to face off in Iowa House election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Nunn, Trone Garrett to face off in Iowa House election",
+      "source_url": "https://thehill.com/homenews/campaign/5903037-nunn-trone-garrett-iowa-house-election"
+    },
+    {
+      "title": "Keiko Fujimori: Peru’s biggest political loser eyes election win",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Keiko Fujimori: Peru’s biggest political loser eyes election win",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/03/world/keiko-fujimori-peru-election"
+    },
+    {
+      "title": "What to Know About South Korea’s Elections",
+      "country": "South Korea",
+      "election_type": "National",
+      "date": "",
+      "description": "What to Know About South Korea’s Elections",
+      "source_url": "https://www.nytimes.com/2026/06/02/world/asia/south-korea-election.html"
+    },
+    {
+      "title": "South Korea’s Lee faces first election test one year into office",
+      "country": "South Korea",
+      "election_type": "National",
+      "date": "",
+      "description": "South Korea’s Lee faces first election test one year into office",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/03/asia-pacific/south-korea-election-lee"
+    },
+    {
+      "title": "European election monitor dismisses rumours of fraud in Colombia’s election",
       "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Colombia Presidential Election Heads to a Runoff",
-      "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
-    },
-    {
-      "title": "Kosovo general election: the cost of political polarization",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Kosovo general election: the cost of political polarization",
-      "source_url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Armenia Prime minister refuses Moscow's pressure for EU referendum",
-      "country": "Armenia",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Armenia Prime minister refuses Moscow's pressure for EU referendum",
-      "source_url": "https://www.france24.com/en/video/20260602-armenia-prime-minister-refuses-moscow-s-pressure-for-eu-referendum"
-    },
-    {
-      "title": "US targeting of drug gangs seen as attempt to shake up Brazil’s election",
-      "country": "Brazil",
       "election_type": "National",
       "date": "",
-      "description": "US targeting of drug gangs seen as attempt to shake up Brazil’s election",
-      "source_url": "https://www.scmp.com/news/world/americas/article/3355612/us-targeting-brazilian-gangs-attempt-sway-election-there-experts-say"
-    },
-    {
-      "title": "Tina Peters doubles down on debunked election claims hours after release",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Tina Peters doubles down on debunked election claims hours after release",
-      "source_url": "https://thehill.com/homenews/state-watch/5904308-peters-prison-release-2020-election"
+      "description": "European election monitor dismisses rumours of fraud in Colombia’s election",
+      "source_url": "https://www.aljazeera.com/news/2026/6/2/european-election-monitor-dismisses-rumours-of-fraud-in-colombias-election?traffic_source=rss"
     }
   ],
   "global_events": [
-    {
-      "title": "Russian missile, drone attack on Ukraine kills at least 13, officials say",
-      "summary": "Russian missile, drone attack on Ukraine kills at least 13, officials say",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/russia-ukraine-war-major-attacks-missile-drone-kill-several-wound-dozens"
-    },
     {
       "title": "EU strikes migration deal for more deportations and detention centers abroad",
       "summary": "EU strikes migration deal for more deportations and detention centers abroad",
       "outlets_covering": [
         "NPR World",
+        "PBS NewsHour",
         "ABC News Intl",
-        "The Independent"
+        "The Independent",
+        "France24"
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "region": "Europe",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/eu-strikes-migration-deal-deportations-detention-centers-abroad-133507637"
+      "source_url": "https://www.france24.com/en/eu-strikes-migration-deal-for-more-deportations-and-detention-centers-abroad"
     },
     {
-      "title": "Colombia Presidential Election Heads to a Runoff",
-      "summary": "Colombia Presidential Election Heads to a Runoff",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Time"
-      ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
-    },
-    {
-      "title": "Rescuers seek alternative route to search for remaining 2 people stranded in a flooded Laos cave",
-      "summary": "Rescuers seek alternative route to search for remaining 2 people stranded in a flooded Laos cave",
+      "title": "Canada calls on US, Mexico to renew free-trade deal for another 16 years",
+      "summary": "Canada calls on US, Mexico to renew free-trade deal for another 16 years",
       "outlets_covering": [
         "PBS NewsHour",
         "ABC News Intl",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.pbs.org/newshour/world/rescuers-seek-alternative-route-to-search-for-remaining-2-people-stranded-in-a-flooded-laos-cave"
-    },
-    {
-      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-      "summary": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "Sky News World",
-        "France24"
+        "The Independent",
+        "The Hill"
       ],
       "coverage_count": 4,
-      "region": "Africa",
+      "region": "Latin America",
+      "category": "Economy",
+      "source_url": "https://thehill.com/business/5906983-canada-calls-on-us-mexico-to-renew-free-trade-deal-for-another-16-years"
+    },
+    {
+      "title": "UK couple imprisoned in Iran lose appeal against 10-year sentence for spying",
+      "summary": "UK couple imprisoned in Iran lose appeal against 10-year sentence for spying",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "Sky News World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://abcnews.com/International/wireStory/uk-couple-imprisoned-iran-lose-appeal-10-year-133523311"
+    },
+    {
+      "title": "U.S. and Iran in fresh clashes as peace talks stall",
+      "summary": "U.S. and Iran in fresh clashes as peace talks stall",
+      "outlets_covering": [
+        "The Guardian World",
+        "Wash Post World",
+        "Axios"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.axios.com/2026/06/03/iran-war-us-military-strikes-drones-tanker-hormuz-strait"
+    },
+    {
+      "title": "Why Trump’s Netanyahu Problem Is Hurdle to Iran Deal",
+      "summary": "Why Trump’s Netanyahu Problem Is Hurdle to Iran Deal",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Japan Times",
+        "Foreign Policy",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-06-03/why-trump-s-netanyahu-problem-is-hurdle-to-iran-deal-video"
     }
   ]
 }
