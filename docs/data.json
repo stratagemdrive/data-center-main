@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-03T02:48:14.565315Z",
+  "last_updated": "2026-06-03T16:16:49.956134Z",
   "world_org_meetings": [
-    {
-      "title": "PM Modi, Trump likely to come face to face at G7 summit",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "PM Modi, Trump likely to come face to face at G7 summit",
-      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-trump-likely-to-come-face-to-face-at-g7-summit/articleshow/131473526.cms"
-    },
     {
       "title": "Bangladesh's foreign minister defeats Cyprus' ambassador to be UN General Assembly president",
       "organization": "UN",
@@ -16,6 +8,14 @@
       "location": "",
       "description": "Bangladesh's foreign minister defeats Cyprus' ambassador to be UN General Assembly president",
       "source_url": "https://www.independent.co.uk/news/world/europe/united-states-united-nations-un-general-assembly-cyprus-bangladesh-b2988316.html"
+    },
+    {
+      "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "UN General Assembly elects Bangladesh’s Rahman as next president",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167626"
     },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -36,27 +36,15 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "India rebukes EU &amp; Pak over J&amp;K reference in joint statement",
+      "title": "Venezuela’s Acting President Rodriguez arrives in India for working visit aimed at further deepening ties",
       "participants": [
-        "India",
-        "Pak",
-        "J&amp;K"
-      ],
-      "date": "",
-      "location": "",
-      "description": "India rebukes EU &amp; Pak over J&amp;K reference in joint statement",
-      "source_url": "https://timesofindia.indiatimes.com/india/india-rebukes-eu-pak-over-jk-reference-in-joint-statement/articleshow/131473780.cms"
-    },
-    {
-      "title": "Why Myanmar president's India visit is being closely watched",
-      "participants": [
-        "Why Myanmar",
+        "Venezuela’s Acting President Rodriguez",
         "India"
       ],
       "date": "",
       "location": "",
-      "description": "Why Myanmar president's India visit is being closely watched",
-      "source_url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss"
+      "description": "Venezuela’s Acting President Rodriguez arrives in India for working visit aimed at further deepening ties",
+      "source_url": "https://www.thehindu.com/news/national/venezuela-acting-president-rodriguez-arrives-in-india-for-working-visit-aimed-at-further-deepening-ties/article71057735.ece"
     },
     {
       "title": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
@@ -83,20 +71,12 @@
   ],
   "elections": [
     {
-      "title": "Nunn, Trone Garrett to face off in Iowa House election",
+      "title": "A year before the French election, De Gaulle remains politically fashionable",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Nunn, Trone Garrett to face off in Iowa House election",
-      "source_url": "https://thehill.com/homenews/campaign/5903037-nunn-trone-garrett-iowa-house-election"
-    },
-    {
-      "title": "Keiko Fujimori: Peru’s biggest political loser eyes election win",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Keiko Fujimori: Peru’s biggest political loser eyes election win",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/03/world/keiko-fujimori-peru-election"
+      "description": "A year before the French election, De Gaulle remains politically fashionable",
+      "source_url": "https://www.france24.com/en/a-year-before-the-french-election-de-gaulle-remains-politically-fashionable"
     },
     {
       "title": "What to Know About South Korea’s Elections",
@@ -107,37 +87,59 @@
       "source_url": "https://www.nytimes.com/2026/06/02/world/asia/south-korea-election.html"
     },
     {
-      "title": "South Korea’s Lee faces first election test one year into office",
-      "country": "South Korea",
+      "title": "Putin issues warning to Armenia over European ambitions ahead of election",
+      "country": "Armenia",
       "election_type": "National",
       "date": "",
-      "description": "South Korea’s Lee faces first election test one year into office",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/03/asia-pacific/south-korea-election-lee"
+      "description": "Putin issues warning to Armenia over European ambitions ahead of election",
+      "source_url": "https://www.independent.co.uk/news/world/europe/putin-armenia-european-union-russia-b2988575.html"
     },
     {
-      "title": "European election monitor dismisses rumours of fraud in Colombia’s election",
-      "country": "Colombia",
+      "title": "Armenia's election offers a choice between Russia and EU",
+      "country": "Russia",
       "election_type": "National",
       "date": "",
-      "description": "European election monitor dismisses rumours of fraud in Colombia’s election",
-      "source_url": "https://www.aljazeera.com/news/2026/6/2/european-election-monitor-dismisses-rumours-of-fraud-in-colombias-election?traffic_source=rss"
+      "description": "Armenia's election offers a choice between Russia and EU",
+      "source_url": "https://www.dw.com/en/armenia-s-election-offers-a-choice-between-russia-and-eu/a-77400608?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Karen Bass survives primary as Spencer Pratt charges into runoff election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Karen Bass survives primary as Spencer Pratt charges into runoff election",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/karen-bass-spencer-pratt-la-mayor-election-b2988532.html"
     }
   ],
   "global_events": [
     {
-      "title": "EU strikes migration deal for more deportations and detention centers abroad",
-      "summary": "EU strikes migration deal for more deportations and detention centers abroad",
+      "title": "Iran War Live Updates: Drone Barrage at Kuwait Airport Kills One and Injures Dozens",
+      "summary": "Iran War Live Updates: Drone Barrage at Kuwait Airport Kills One and Injures Dozens",
       "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "ABC News Intl",
+        "BBC World",
+        "CBC World",
+        "NYT World",
         "The Independent",
-        "France24"
+        "Al Jazeera"
       ],
       "coverage_count": 5,
-      "region": "Europe",
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon"
+    },
+    {
+      "title": "British couple jailed for 10 years over ‘spying on Iran’ lose appeal, family confirms",
+      "summary": "British couple jailed for 10 years over ‘spying on Iran’ lose appeal, family confirms",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "Sky News World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/eu-strikes-migration-deal-for-more-deportations-and-detention-centers-abroad"
+      "source_url": "https://www.independent.co.uk/news/uk/home-news/british-couple-iran-craig-lindsay-foreman-appeal-jail-b2988447.html"
     },
     {
       "title": "Canada calls on US, Mexico to renew free-trade deal for another 16 years",
@@ -154,47 +156,34 @@
       "source_url": "https://thehill.com/business/5906983-canada-calls-on-us-mexico-to-renew-free-trade-deal-for-another-16-years"
     },
     {
-      "title": "UK couple imprisoned in Iran lose appeal against 10-year sentence for spying",
-      "summary": "UK couple imprisoned in Iran lose appeal against 10-year sentence for spying",
+      "title": "One killed and 63 wounded in Iranian attack on Kuwait’s international airport",
+      "summary": "One killed and 63 wounded in Iranian attack on Kuwait’s international airport",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "The Independent"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/uk-couple-imprisoned-iran-lose-appeal-10-year-133523311"
-    },
-    {
-      "title": "U.S. and Iran in fresh clashes as peace talks stall",
-      "summary": "U.S. and Iran in fresh clashes as peace talks stall",
-      "outlets_covering": [
+        "CBC World",
         "The Guardian World",
         "Wash Post World",
-        "Axios"
+        "The Independent",
+        "Times of India",
+        "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 9,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.axios.com/2026/06/03/iran-war-us-military-strikes-drones-tanker-hormuz-strait"
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz"
     },
     {
-      "title": "Why Trump’s Netanyahu Problem Is Hurdle to Iran Deal",
-      "summary": "Why Trump’s Netanyahu Problem Is Hurdle to Iran Deal",
+      "title": "Ukrainian drones hit Saint Petersburg as 'Russian Davos' opens in the city",
+      "summary": "Ukrainian drones hit Saint Petersburg as 'Russian Davos' opens in the city",
       "outlets_covering": [
-        "CBS News World",
+        "BBC World",
         "The Guardian World",
-        "Bloomberg",
-        "Japan Times",
-        "Foreign Policy",
-        "Axios"
+        "France24"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
+      "coverage_count": 5,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-06-03/why-trump-s-netanyahu-problem-is-hurdle-to-iran-deal-video"
+      "source_url": "https://www.france24.com/en/ukrainian-drones-hit-saint-petersburg-as-russian-davos-opens-in-the-city"
     }
   ]
 }
