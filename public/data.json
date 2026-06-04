@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-03T16:16:49.956134Z",
+  "last_updated": "2026-06-04T02:43:18.404869Z",
   "world_org_meetings": [
     {
-      "title": "Bangladesh's foreign minister defeats Cyprus' ambassador to be UN General Assembly president",
-      "organization": "UN",
+      "title": "Montenegro blocks entry to 87 Serbs over security concerns ahead of EU summit",
+      "organization": "EU",
       "date": "",
       "location": "",
-      "description": "Bangladesh's foreign minister defeats Cyprus' ambassador to be UN General Assembly president",
-      "source_url": "https://www.independent.co.uk/news/world/europe/united-states-united-nations-un-general-assembly-cyprus-bangladesh-b2988316.html"
+      "description": "Montenegro blocks entry to 87 Serbs over security concerns ahead of EU summit",
+      "source_url": "https://abcnews.com/International/wireStory/montenegro-blocks-entry-87-serbs-security-concerns-ahead-133559028"
     },
     {
       "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
@@ -35,6 +35,18 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Tanzania's president visits Russia amid frayed Western ties",
+      "participants": [
+        "Tanzania's",
+        "Russia",
+        "Western"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Tanzania's president visits Russia amid frayed Western ties",
+      "source_url": "https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-world-4025-rdf"
+    },
     {
       "title": "Venezuela’s Acting President Rodriguez arrives in India for working visit aimed at further deepening ties",
       "participants": [
@@ -71,12 +83,12 @@
   ],
   "elections": [
     {
-      "title": "A year before the French election, De Gaulle remains politically fashionable",
-      "country": "",
+      "title": "What to Know About Ethiopia’s Election",
+      "country": "Ethiopia",
       "election_type": "National",
       "date": "",
-      "description": "A year before the French election, De Gaulle remains politically fashionable",
-      "source_url": "https://www.france24.com/en/a-year-before-the-french-election-de-gaulle-remains-politically-fashionable"
+      "description": "What to Know About Ethiopia’s Election",
+      "source_url": "https://foreignpolicy.com/2026/06/03/ethiopia-election-abiy-ahmed-tigray-eritrea"
     },
     {
       "title": "What to Know About South Korea’s Elections",
@@ -113,77 +125,98 @@
   ],
   "global_events": [
     {
-      "title": "Iran War Live Updates: Drone Barrage at Kuwait Airport Kills One and Injures Dozens",
-      "summary": "Iran War Live Updates: Drone Barrage at Kuwait Airport Kills One and Injures Dozens",
+      "title": "US House votes to halt Iran war, in rebuke to Trump",
+      "summary": "US House votes to halt Iran war, in rebuke to Trump",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon"
-    },
-    {
-      "title": "British couple jailed for 10 years over ‘spying on Iran’ lose appeal, family confirms",
-      "summary": "British couple jailed for 10 years over ‘spying on Iran’ lose appeal, family confirms",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "The Independent"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/uk/home-news/british-couple-iran-craig-lindsay-foreman-appeal-jail-b2988447.html"
-    },
-    {
-      "title": "Canada calls on US, Mexico to renew free-trade deal for another 16 years",
-      "summary": "Canada calls on US, Mexico to renew free-trade deal for another 16 years",
-      "outlets_covering": [
         "PBS NewsHour",
-        "ABC News Intl",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Economy",
-      "source_url": "https://thehill.com/business/5906983-canada-calls-on-us-mexico-to-renew-free-trade-deal-for-another-16-years"
-    },
-    {
-      "title": "One killed and 63 wounded in Iranian attack on Kuwait’s international airport",
-      "summary": "One killed and 63 wounded in Iranian attack on Kuwait’s international airport",
-      "outlets_covering": [
-        "BBC World",
         "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
         "The Guardian World",
-        "Wash Post World",
         "The Independent",
-        "Times of India",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz"
-    },
-    {
-      "title": "Ukrainian drones hit Saint Petersburg as 'Russian Davos' opens in the city",
-      "summary": "Ukrainian drones hit Saint Petersburg as 'Russian Davos' opens in the city",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
+        "Al Jazeera",
         "France24"
       ],
-      "coverage_count": 5,
+      "coverage_count": 18,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ukrainian drones hit Saint Petersburg as ’Russian Davos’ opens",
+      "summary": "Ukrainian drones hit Saint Petersburg as ’Russian Davos’ opens",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Guardian World",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/ukrainian-drones-hit-saint-petersburg-as-russian-davos-opens-in-the-city"
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/04/world/ukraine-drones-saint-petersburg-russia-davos"
+    },
+    {
+      "title": "Oil falls as Israel and Lebanon agree to conditional ceasefire",
+      "summary": "Oil falls as Israel and Lebanon agree to conditional ceasefire",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/business/2026/06/04/israel-lebanon-ceasefire-oil"
+    },
+    {
+      "title": "Israel and Lebanon agree to renew ceasefire if Hezbollah cuts off attacks",
+      "summary": "Israel and Lebanon agree to renew ceasefire if Hezbollah cuts off attacks",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 14,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/israel-lebanon-ceasefire-hezbollah-trump-netanyahu-iran"
+    },
+    {
+      "title": "Middle East crisis live: Israel and Lebanon agree to renew ceasefire; US House rebukes Trump over Iran war",
+      "summary": "Middle East crisis live: Israel and Lebanon agree to renew ceasefire; US House rebukes Trump over Iran war",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates"
     }
   ]
 }
