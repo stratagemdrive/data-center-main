@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-05T02:30:07.545605Z",
+  "last_updated": "2026-06-05T14:25:23.298409Z",
   "world_org_meetings": [
+    {
+      "title": "Visa problems shut poorest countries out of crucial UN climate talks in Bonn",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Visa problems shut poorest countries out of crucial UN climate talks in Bonn",
+      "source_url": "https://www.independent.co.uk/climate-change/un-climate-crisis-talks-bonn-yemen-b2990324.html"
+    },
+    {
+      "title": "Balkan leaders attend EU summit in Montenegro as enlargement gains urgency",
+      "organization": "EU",
+      "date": "",
+      "location": "",
+      "description": "Balkan leaders attend EU summit in Montenegro as enlargement gains urgency",
+      "source_url": "https://abcnews.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860"
+    },
     {
       "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
       "organization": "UN",
@@ -28,6 +44,18 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit in years",
+      "participants": [
+        "Chinese",
+        "Jinping",
+        "North Korea"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Chinese leader Xi Jinping will travel to North Korea next week in first visit in years",
+      "source_url": "https://www.thehindu.com/news/international/chinese-leader-xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-in-years/article71063856.ece"
+    },
+    {
       "title": "Tanzania's president visits Russia amid frayed Western ties",
       "participants": [
         "Tanzania's",
@@ -38,17 +66,6 @@
       "location": "",
       "description": "Tanzania's president visits Russia amid frayed Western ties",
       "source_url": "https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Venezuela’s Acting President Rodriguez arrives in India for working visit aimed at further deepening ties",
-      "participants": [
-        "Venezuela’s Acting President Rodriguez",
-        "India"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Venezuela’s Acting President Rodriguez arrives in India for working visit aimed at further deepening ties",
-      "source_url": "https://www.thehindu.com/news/national/venezuela-acting-president-rodriguez-arrives-in-india-for-working-visit-aimed-at-further-deepening-ties/article71057735.ece"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -63,47 +80,63 @@
   ],
   "elections": [
     {
-      "title": "Here's why election results in the second largest US city are so slow",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Here's why election results in the second largest US city are so slow",
-      "source_url": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why is the US so invested in Colombia’s election?",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Why is the US so invested in Colombia’s election?",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss"
-    },
-    {
-      "title": "Massive disinformation campaign underway in Armenia ahead of elections, analysts warn",
-      "country": "Armenia",
-      "election_type": "National",
-      "date": "",
-      "description": "Massive disinformation campaign underway in Armenia ahead of elections, analysts warn",
-      "source_url": "https://www.france24.com/en/massive-disinformation-campaign-underway-in-armenia-ahead-of-elections-analysts-warn"
-    },
-    {
-      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "source_url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Peru election could add to string of right-wing victories in Latin America",
+      "title": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
       "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
+      "source_url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election?traffic_source=rss"
+    },
+    {
+      "title": "The number of MAGA Republicans has skyrocketed. It might cost the party future elections, group says",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Peru election could add to string of right-wing victories in Latin America",
-      "source_url": "https://www.npr.org/2026/06/04/nx-s1-5844281/peru-election-could-add-to-string-of-right-wing-victories-in-latin-america"
+      "description": "The number of MAGA Republicans has skyrocketed. It might cost the party future elections, group says",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/maga-republicans-midterm-elections-trump-b2990017.html"
+    },
+    {
+      "title": "'Pakistan must vacate': India slams election plans in POK's Gilgit-Baltistan assembly",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "'Pakistan must vacate': India slams election plans in POK's Gilgit-Baltistan assembly",
+      "source_url": "https://timesofindia.indiatimes.com/india/pakistan-must-vacate-india-slams-election-plans-in-poks-gilgit-baltistan-assembly/articleshow/131531242.cms"
+    },
+    {
+      "title": "Russia Floods Armenia With Disinformation Ahead of Election",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Russia Floods Armenia With Disinformation Ahead of Election",
+      "source_url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html"
+    },
+    {
+      "title": "Protests, elections, World Cup events and other top photos from Latin America and the Caribbean",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Protests, elections, World Cup events and other top photos from Latin America and the Caribbean",
+      "source_url": "https://abcnews.com/International/wireStory/protests-elections-world-cup-events-top-photos-latin-133607769"
     }
   ],
   "global_events": [
+    {
+      "title": "Chinese leader Xi Jinping to visit North Korea for first time since 2019",
+      "summary": "Chinese leader Xi Jinping to visit North Korea for first time since 2019",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 6,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/xi-jinping-north-korea-visit-9.7224477?cmp=rss"
+    },
     {
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
       "summary": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -115,82 +148,60 @@
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "UN News"
+        "The Hill"
       ],
-      "coverage_count": 20,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Israel-Iran war LIVE: Peace talks stall after Hezbollah rejects truce",
-      "summary": "Israel-Iran war LIVE: Peace talks stall after Hezbollah rejects truce",
+      "title": "US imposes sanctions on Cuban president, Castro family members",
+      "summary": "US imposes sanctions on Cuban president, Castro family members",
       "outlets_covering": [
-        "PBS NewsHour",
+        "The Guardian World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Latin America",
+      "category": "Economy",
+      "source_url": "https://www.france24.com/en/video/20260605-us-imposes-sanctions-on-cuban-president-castro-family-members"
+    },
+    {
+      "title": "Iran says \"no tangible progress\" in talks; Hezbollah rejects Israel-Lebanon truce",
+      "summary": "Iran says \"no tangible progress\" in talks; Hezbollah rejects Israel-Lebanon truce",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "CBS News World",
         "Fox News World",
         "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
         "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/israel-iran-war-live-updates-june-5-2026-hezbollah-lebanon-news-strait-of-hormuz/article71063774.ece"
-    },
-    {
-      "title": "Trump slams ‘unpatriotic’ US House vote to end Iran war",
-      "summary": "Trump slams ‘unpatriotic’ US House vote to end Iran war",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Time",
-        "France24",
-        "The Hindu Intl",
-        "Axios",
-        "Vox"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-house-votes-to-curb-trump-on-iran-war-as-talks-stall/article71059994.ece"
-    },
-    {
-      "title": "French-Iranian director and author Marjane Satrapi dead at 56",
-      "summary": "French-Iranian director and author Marjane Satrapi dead at 56",
-      "outlets_covering": [
-        "CBC World",
-        "NBC News World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/entertainment/france-obit-satrapi-9.7223037?cmp=rss"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-no-progress-israel-lebanon-hezbollah"
     },
     {
-      "title": "U.S. House passes Bill to aid Ukraine and impose new sanctions on Russia",
-      "summary": "U.S. House passes Bill to aid Ukraine and impose new sanctions on Russia",
+      "title": "House approves Ukraine aid package despite Republican objections",
+      "summary": "House approves Ukraine aid package despite Republican objections",
       "outlets_covering": [
-        "PBS NewsHour",
         "CBS News World",
         "NYT World",
-        "The Guardian World",
-        "The Hindu Intl",
+        "The Independent",
         "The Hill"
       ],
-      "coverage_count": 6,
+      "coverage_count": 4,
       "region": "Europe / Russia",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/us-house-passes-bill-to-aid-ukraine-and-impose-new-sanctions-on-russia/article71063759.ece"
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/house-bill-ukraine-aid-russia-sanctions-b2990142.html"
     }
   ]
 }
