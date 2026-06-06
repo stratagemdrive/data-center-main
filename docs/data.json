@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T14:25:23.298409Z",
+  "last_updated": "2026-06-06T02:09:06.343566Z",
   "world_org_meetings": [
     {
       "title": "Visa problems shut poorest countries out of crucial UN climate talks in Bonn",
@@ -44,28 +44,15 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit in years",
+      "title": "Xi Jinping will travel to North Korea next week in first visit since 2019",
       "participants": [
-        "Chinese",
         "Jinping",
         "North Korea"
       ],
       "date": "",
       "location": "",
-      "description": "Chinese leader Xi Jinping will travel to North Korea next week in first visit in years",
-      "source_url": "https://www.thehindu.com/news/international/chinese-leader-xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-in-years/article71063856.ece"
-    },
-    {
-      "title": "Tanzania's president visits Russia amid frayed Western ties",
-      "participants": [
-        "Tanzania's",
-        "Russia",
-        "Western"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Tanzania's president visits Russia amid frayed Western ties",
-      "source_url": "https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-world-4025-rdf"
+      "description": "Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "source_url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -80,28 +67,36 @@
   ],
   "elections": [
     {
-      "title": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election",
-      "source_url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election?traffic_source=rss"
-    },
-    {
-      "title": "The number of MAGA Republicans has skyrocketed. It might cost the party future elections, group says",
+      "title": "Regrettable references and claims of ‘rigged’ election laws: why this week has reignited Jacinta Allan spill rumours",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "The number of MAGA Republicans has skyrocketed. It might cost the party future elections, group says",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/maga-republicans-midterm-elections-trump-b2990017.html"
+      "description": "Regrettable references and claims of ‘rigged’ election laws: why this week has reignited Jacinta Allan spill rumours",
+      "source_url": "https://www.theguardian.com/australia-news/2026/jun/06/jacinta-allan-leadership-spill-rumours-victorian-labor-election"
     },
     {
-      "title": "'Pakistan must vacate': India slams election plans in POK's Gilgit-Baltistan assembly",
-      "country": "India",
+      "title": "The most important election Washington isn’t talking about",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "'Pakistan must vacate': India slams election plans in POK's Gilgit-Baltistan assembly",
-      "source_url": "https://timesofindia.indiatimes.com/india/pakistan-must-vacate-india-slams-election-plans-in-poks-gilgit-baltistan-assembly/articleshow/131531242.cms"
+      "description": "The most important election Washington isn’t talking about",
+      "source_url": "https://thehill.com/opinion/international/5911387-armenia-pivot-away-russia"
+    },
+    {
+      "title": "Ethiopia: An election without a real challenge?",
+      "country": "Ethiopia",
+      "election_type": "National",
+      "date": "",
+      "description": "Ethiopia: An election without a real challenge?",
+      "source_url": "https://www.dw.com/en/ethiopia-an-election-without-a-real-challenge/a-77435414?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Kosovo general election: the cost of political polarization",
+      "country": "",
+      "election_type": "General",
+      "date": "",
+      "description": "Kosovo general election: the cost of political polarization",
+      "source_url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Russia Floods Armenia With Disinformation Ahead of Election",
@@ -110,32 +105,40 @@
       "date": "",
       "description": "Russia Floods Armenia With Disinformation Ahead of Election",
       "source_url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html"
-    },
-    {
-      "title": "Protests, elections, World Cup events and other top photos from Latin America and the Caribbean",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Protests, elections, World Cup events and other top photos from Latin America and the Caribbean",
-      "source_url": "https://abcnews.com/International/wireStory/protests-elections-world-cup-events-top-photos-latin-133607769"
     }
   ],
   "global_events": [
     {
-      "title": "Chinese leader Xi Jinping to visit North Korea for first time since 2019",
-      "summary": "Chinese leader Xi Jinping to visit North Korea for first time since 2019",
+      "title": "Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "summary": "Xi Jinping will travel to North Korea next week in first visit since 2019",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "CBC World",
         "ABC News Intl",
         "Japan Times",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/xi-jinping-north-korea-visit-9.7224477?cmp=rss"
+      "source_url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019"
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "summary": "West Asia war LIVE: U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece"
     },
     {
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -146,62 +149,41 @@
         "CBC World",
         "CBS News World",
         "NYT World",
-        "The Guardian World",
         "Wash Post World",
-        "France24",
         "The Hindu Intl",
-        "The Hill"
+        "Axios"
       ],
-      "coverage_count": 16,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US imposes sanctions on Cuban president, Castro family members",
-      "summary": "US imposes sanctions on Cuban president, Castro family members",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Economy",
-      "source_url": "https://www.france24.com/en/video/20260605-us-imposes-sanctions-on-cuban-president-castro-family-members"
-    },
-    {
-      "title": "Iran says \"no tangible progress\" in talks; Hezbollah rejects Israel-Lebanon truce",
-      "summary": "Iran says \"no tangible progress\" in talks; Hezbollah rejects Israel-Lebanon truce",
+      "title": "Putin sees \"no point\" in meeting with Zelenskyy to discuss ending war",
+      "summary": "Putin sees \"no point\" in meeting with Zelenskyy to discuss ending war",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "CBS News World",
-        "Fox News World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-no-progress-israel-lebanon-hezbollah"
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/putin-zelenskyy-meeting-no-point-ukraine-war"
     },
     {
-      "title": "House approves Ukraine aid package despite Republican objections",
-      "summary": "House approves Ukraine aid package despite Republican objections",
+      "title": "A maritime drone explodes at a Romanian Black Sea port, no one hurt",
+      "summary": "A maritime drone explodes at a Romanian Black Sea port, no one hurt",
       "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "The Hill"
+        "PBS NewsHour",
+        "ABC News Intl",
+        "France24"
       ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
+      "coverage_count": 3,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/house-bill-ukraine-aid-russia-sanctions-b2990142.html"
+      "source_url": "https://abcnews.com/International/wireStory/maritime-drone-explodes-romanian-black-sea-port-hurt-133610854"
     }
   ]
 }
