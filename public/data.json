@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-06-06T02:09:06.343566Z",
+  "last_updated": "2026-06-06T13:07:52.354626Z",
   "world_org_meetings": [
-    {
-      "title": "Visa problems shut poorest countries out of crucial UN climate talks in Bonn",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Visa problems shut poorest countries out of crucial UN climate talks in Bonn",
-      "source_url": "https://www.independent.co.uk/climate-change/un-climate-crisis-talks-bonn-yemen-b2990324.html"
-    },
-    {
-      "title": "Balkan leaders attend EU summit in Montenegro as enlargement gains urgency",
-      "organization": "EU",
-      "date": "",
-      "location": "",
-      "description": "Balkan leaders attend EU summit in Montenegro as enlargement gains urgency",
-      "source_url": "https://abcnews.com/International/wireStory/balkan-leaders-attend-eu-summit-montenegro-enlargement-gains-133608860"
-    },
     {
       "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
       "organization": "UN",
@@ -67,6 +51,30 @@
   ],
   "elections": [
     {
+      "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
+      "country": "Armenia",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
+      "source_url": "https://www.france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says"
+    },
+    {
+      "title": "'Bankipur by-election will be referendum on BJP-led govt': Prashant Kishor",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "'Bankipur by-election will be referendum on BJP-led govt': Prashant Kishor",
+      "source_url": "https://timesofindia.indiatimes.com/india/bankipur-by-election-will-be-referendum-on-bjp-led-govt-prashant-kishor/articleshow/131548233.cms"
+    },
+    {
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "source_url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Regrettable references and claims of ‘rigged’ election laws: why this week has reignited Jacinta Allan spill rumours",
       "country": "",
       "election_type": "National",
@@ -81,30 +89,6 @@
       "date": "",
       "description": "The most important election Washington isn’t talking about",
       "source_url": "https://thehill.com/opinion/international/5911387-armenia-pivot-away-russia"
-    },
-    {
-      "title": "Ethiopia: An election without a real challenge?",
-      "country": "Ethiopia",
-      "election_type": "National",
-      "date": "",
-      "description": "Ethiopia: An election without a real challenge?",
-      "source_url": "https://www.dw.com/en/ethiopia-an-election-without-a-real-challenge/a-77435414?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Kosovo general election: the cost of political polarization",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Kosovo general election: the cost of political polarization",
-      "source_url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Russia Floods Armenia With Disinformation Ahead of Election",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Russia Floods Armenia With Disinformation Ahead of Election",
-      "source_url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html"
     }
   ],
   "global_events": [
@@ -115,75 +99,74 @@
         "BBC World",
         "NPR World",
         "CBC World",
-        "ABC News Intl",
         "Japan Times",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019"
     },
     {
-      "title": "West Asia war LIVE: U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
-      "summary": "West Asia war LIVE: U.S. military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "title": "Israeli forces kill Palestinian baby in the West Bank: Health ministry",
+      "summary": "Israeli forces kill Palestinian baby in the West Bank: Health ministry",
       "outlets_covering": [
+        "BBC World",
         "CBC World",
         "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/israel-west-bank-gaza-war-sam-fahd-abu-haikal"
+    },
+    {
+      "title": "U.S. military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
+      "summary": "U.S. military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
+      "outlets_covering": [
+        "NPR World",
         "The Independent",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-6-2026/article71068325.ece"
+      "source_url": "https://www.thehindu.com/news/international/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/article71067819.ece"
     },
     {
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "summary": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "title": "Man dies in Western Australia after shark attack",
+      "summary": "Man dies in Western Australia after shark attack",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
         "CBS News World",
-        "NYT World",
-        "Wash Post World",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Putin sees \"no point\" in meeting with Zelenskyy to discuss ending war",
-      "summary": "Putin sees \"no point\" in meeting with Zelenskyy to discuss ending war",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "Sky News World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera"
       ],
       "coverage_count": 5,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/putin-zelenskyy-meeting-no-point-ukraine-war"
+      "source_url": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss"
     },
     {
-      "title": "A maritime drone explodes at a Romanian Black Sea port, no one hurt",
-      "summary": "A maritime drone explodes at a Romanian Black Sea port, no one hurt",
+      "title": "North Korea unveils new facility to produce fuel for nuclear weapons",
+      "summary": "North Korea unveils new facility to produce fuel for nuclear weapons",
       "outlets_covering": [
+        "NPR World",
         "PBS NewsHour",
-        "ABC News Intl",
-        "France24"
+        "CBS News World",
+        "DW World"
       ],
-      "coverage_count": 3,
-      "region": "Global",
+      "coverage_count": 4,
+      "region": "East / Southeast Asia",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/maritime-drone-explodes-romanian-black-sea-port-hurt-133610854"
+      "source_url": "https://www.pbs.org/newshour/world/north-korea-unveils-new-facility-to-produce-fuel-for-nuclear-weapons"
     }
   ]
 }
