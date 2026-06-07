@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T13:07:52.354626Z",
+  "last_updated": "2026-06-07T02:35:59.212753Z",
   "world_org_meetings": [
     {
       "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
@@ -51,122 +51,126 @@
   ],
   "elections": [
     {
+      "title": "South Koreans protest over ballot mishap, demand local election rerun",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "South Koreans protest over ballot mishap, demand local election rerun",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/07/asia-pacific/south-koreans-ballot-protest"
+    },
+    {
+      "title": "Election in Armenia becomes a test of Russian influence",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "Election in Armenia becomes a test of Russian influence",
+      "source_url": "https://www.npr.org/2026/06/06/nx-s1-5846940/election-in-armenia-becomes-a-test-of-russian-influence"
+    },
+    {
+      "title": "Why are Armenia’s elections being so keenly watched abroad?",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "Why are Armenia’s elections being so keenly watched abroad?",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/6/6/why-are-armenias-elections-being-so-keenly-watched?traffic_source=rss"
+    },
+    {
+      "title": "‘Elections campaigned on who can be more brutal to Palestinians’",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "‘Elections campaigned on who can be more brutal to Palestinians’",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/elections-campaigned-on-who-can-be-more-brutal-to?traffic_source=rss"
+    },
+    {
       "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
       "country": "Armenia",
       "election_type": "Parliamentary",
       "date": "",
       "description": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
       "source_url": "https://www.france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says"
-    },
-    {
-      "title": "'Bankipur by-election will be referendum on BJP-led govt': Prashant Kishor",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "'Bankipur by-election will be referendum on BJP-led govt': Prashant Kishor",
-      "source_url": "https://timesofindia.indiatimes.com/india/bankipur-by-election-will-be-referendum-on-bjp-led-govt-prashant-kishor/articleshow/131548233.cms"
-    },
-    {
-      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Armenia braces for election as Russia piles pressure on pro-West government",
-      "source_url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Regrettable references and claims of ‘rigged’ election laws: why this week has reignited Jacinta Allan spill rumours",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Regrettable references and claims of ‘rigged’ election laws: why this week has reignited Jacinta Allan spill rumours",
-      "source_url": "https://www.theguardian.com/australia-news/2026/jun/06/jacinta-allan-leadership-spill-rumours-victorian-labor-election"
-    },
-    {
-      "title": "The most important election Washington isn’t talking about",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "The most important election Washington isn’t talking about",
-      "source_url": "https://thehill.com/opinion/international/5911387-armenia-pivot-away-russia"
     }
   ],
   "global_events": [
     {
-      "title": "Xi Jinping will travel to North Korea next week in first visit since 2019",
-      "summary": "Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "title": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
+      "summary": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "CBC World",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 6,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019"
-    },
-    {
-      "title": "Israeli forces kill Palestinian baby in the West Bank: Health ministry",
-      "summary": "Israeli forces kill Palestinian baby in the West Bank: Health ministry",
-      "outlets_covering": [
-        "BBC World",
+        "PBS NewsHour",
         "CBC World",
         "CBS News World",
-        "Sky News World",
+        "NBC News World",
         "The Guardian World",
-        "The Independent",
-        "Al Jazeera"
+        "The Independent"
       ],
       "coverage_count": 7,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/israel-west-bank-gaza-war-sam-fahd-abu-haikal"
-    },
-    {
-      "title": "U.S. military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
-      "summary": "U.S. military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
-      "outlets_covering": [
-        "NPR World",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/article71067819.ece"
+      "source_url": "https://www.pbs.org/newshour/world/u-s-iran-exchange-of-fire-in-gulf-tests-fragile-ceasefire"
     },
     {
-      "title": "Man dies in Western Australia after shark attack",
-      "summary": "Man dies in Western Australia after shark attack",
+      "title": "Ukraine targets St. Petersburg after Putin refuses talks",
+      "summary": "Ukraine targets St. Petersburg after Putin refuses talks",
       "outlets_covering": [
-        "CBS News World",
-        "Sky News World",
-        "The Guardian World",
+        "ABC News Intl",
         "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss"
-    },
-    {
-      "title": "North Korea unveils new facility to produce fuel for nuclear weapons",
-      "summary": "North Korea unveils new facility to produce fuel for nuclear weapons",
-      "outlets_covering": [
-        "NPR World",
-        "PBS NewsHour",
-        "CBS News World",
-        "DW World"
+        "Japan Times",
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "East / Southeast Asia",
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/north-korea-unveils-new-facility-to-produce-fuel-for-nuclear-weapons"
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/07/world/ukraine-russia-strike-st-petersburg"
+    },
+    {
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "summary": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "The Independent",
+        "France24",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Spearfisherman killed by suspected 15-foot shark after third fatal attack in less than a month",
+      "summary": "Spearfisherman killed by suspected 15-foot shark after third fatal attack in less than a month",
+      "outlets_covering": [
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.foxnews.com/world/spearfisherman-killed-suspected-15-foot-shark-third-fatal-attack-less-month"
+    },
+    {
+      "title": "7-month-old baby killed after Israeli troops open fire on a car, Palestinian health officials say",
+      "summary": "7-month-old baby killed after Israeli troops open fire on a car, Palestinian health officials say",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBC World",
+        "Sky News World",
+        "NYT World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/7-month-old-baby-killed-after-israeli-troops-open-fire-on-a-car-palestinian-health-officials-say"
     }
   ]
 }
