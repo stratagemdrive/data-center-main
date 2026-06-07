@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-07T02:35:59.212753Z",
+  "last_updated": "2026-06-07T13:21:13.730532Z",
   "world_org_meetings": [
+    {
+      "title": "OPEC+, Aviations Execs Address Iran War Impact at Duel Conferences",
+      "organization": "OPEC",
+      "date": "",
+      "location": "",
+      "description": "OPEC+, Aviations Execs Address Iran War Impact at Duel Conferences",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-06-07/opec-aviations-execs-address-iran-war-impact-video"
+    },
     {
       "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
       "organization": "UN",
@@ -51,63 +59,62 @@
   ],
   "elections": [
     {
-      "title": "South Koreans protest over ballot mishap, demand local election rerun",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "South Koreans protest over ballot mishap, demand local election rerun",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/07/asia-pacific/south-koreans-ballot-protest"
-    },
-    {
-      "title": "Election in Armenia becomes a test of Russian influence",
-      "country": "Armenia",
-      "election_type": "National",
-      "date": "",
-      "description": "Election in Armenia becomes a test of Russian influence",
-      "source_url": "https://www.npr.org/2026/06/06/nx-s1-5846940/election-in-armenia-becomes-a-test-of-russian-influence"
-    },
-    {
-      "title": "Why are Armenia’s elections being so keenly watched abroad?",
-      "country": "Armenia",
-      "election_type": "National",
-      "date": "",
-      "description": "Why are Armenia’s elections being so keenly watched abroad?",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/6/6/why-are-armenias-elections-being-so-keenly-watched?traffic_source=rss"
-    },
-    {
-      "title": "‘Elections campaigned on who can be more brutal to Palestinians’",
+      "title": "Kosovo holds third election in 16 months",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "‘Elections campaigned on who can be more brutal to Palestinians’",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/elections-campaigned-on-who-can-be-more-brutal-to?traffic_source=rss"
+      "description": "Kosovo holds third election in 16 months",
+      "source_url": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
-      "country": "Armenia",
+      "title": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
+      "source_url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu"
+    },
+    {
+      "title": "Armenians vote in parliamentary elections seen as ‘referendum on independence’",
+      "country": "",
       "election_type": "Parliamentary",
       "date": "",
-      "description": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
-      "source_url": "https://www.france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says"
+      "description": "Armenians vote in parliamentary elections seen as ‘referendum on independence’",
+      "source_url": "https://www.france24.com/en/video/20260607-armenians-vote-in-parliamentary-elections-seen-as-referendum-on-independence"
+    },
+    {
+      "title": "Peru votes for its ninth president in 10 years",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru votes for its ninth president in 10 years",
+      "source_url": "https://www.france24.com/en/peru-votes-for-its-ninth-president-in-10-years"
+    },
+    {
+      "title": "Ethiopia's election results will likely confirm status quo",
+      "country": "Ethiopia",
+      "election_type": "National",
+      "date": "",
+      "description": "Ethiopia's election results will likely confirm status quo",
+      "source_url": "https://www.dw.com/en/ethiopia-s-election-results-will-likely-confirm-status-quo/a-77435414?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
-      "summary": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
+      "title": "Russian drone hit nuclear-fuel storage facility near Chornobyl, Ukraine says",
+      "summary": "Russian drone hit nuclear-fuel storage facility near Chornobyl, Ukraine says",
       "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
         "CBC World",
-        "CBS News World",
-        "NBC News World",
         "The Guardian World",
-        "The Independent"
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/u-s-iran-exchange-of-fire-in-gulf-tests-fragile-ceasefire"
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/russian-drone-chornobyl-9.7226511?cmp=rss"
     },
     {
       "title": "Ukraine targets St. Petersburg after Putin refuses talks",
@@ -124,6 +131,37 @@
       "source_url": "https://www.japantimes.co.jp/news/2026/06/07/world/ukraine-russia-strike-st-petersburg"
     },
     {
+      "title": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
+      "summary": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "CBC World",
+        "CBS News World",
+        "The Guardian World",
+        "The Independent"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.pbs.org/newshour/world/u-s-iran-exchange-of-fire-in-gulf-tests-fragile-ceasefire"
+    },
+    {
+      "title": "Hegseth says Europe faces ‘invasion’ of ‘dangerous ideologies’ while speaking at D-Day event",
+      "summary": "Hegseth says Europe faces ‘invasion’ of ‘dangerous ideologies’ while speaking at D-Day event",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "The Independent",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-normandy-d-day-speech-europe-invasion-b2991213.html"
+    },
+    {
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "summary": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "outlets_covering": [
@@ -133,44 +171,13 @@
         "CBS News World",
         "Sky News World",
         "The Independent",
-        "France24",
         "Japan Times",
         "The Hill"
       ],
-      "coverage_count": 9,
+      "coverage_count": 8,
       "region": "Europe",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Spearfisherman killed by suspected 15-foot shark after third fatal attack in less than a month",
-      "summary": "Spearfisherman killed by suspected 15-foot shark after third fatal attack in less than a month",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "The Independent"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.foxnews.com/world/spearfisherman-killed-suspected-15-foot-shark-third-fatal-attack-less-month"
-    },
-    {
-      "title": "7-month-old baby killed after Israeli troops open fire on a car, Palestinian health officials say",
-      "summary": "7-month-old baby killed after Israeli troops open fire on a car, Palestinian health officials say",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBC World",
-        "Sky News World",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/7-month-old-baby-killed-after-israeli-troops-open-fire-on-a-car-palestinian-health-officials-say"
     }
   ]
 }
