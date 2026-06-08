@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-07T13:21:13.730532Z",
+  "last_updated": "2026-06-08T02:39:53.435259Z",
   "world_org_meetings": [
-    {
-      "title": "OPEC+, Aviations Execs Address Iran War Impact at Duel Conferences",
-      "organization": "OPEC",
-      "date": "",
-      "location": "",
-      "description": "OPEC+, Aviations Execs Address Iran War Impact at Duel Conferences",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-06-07/opec-aviations-execs-address-iran-war-impact-video"
-    },
     {
       "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
       "organization": "UN",
@@ -36,148 +28,170 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "title": "Xi delivers veiled swipe at Japan ahead of summit with North Korea’s Kim",
       "participants": [
+        "Japan",
+        "North Korea’s Kim"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Xi delivers veiled swipe at Japan ahead of summit with North Korea’s Kim",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/politics/china-north-korea-xi-kim-summit"
+    },
+    {
+      "title": "European leaders ready to support ceasefire talks between Ukraine, Russia",
+      "participants": [
+        "European",
+        "Ukraine Russia"
+      ],
+      "date": "",
+      "location": "",
+      "description": "European leaders ready to support ceasefire talks between Ukraine, Russia",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/08/world/politics/europe-ceasefire-talks-ukraine-russia"
+    },
+    {
+      "title": "Chinese leader Xi Jinping will travel to North Korea for first visit since 2019",
+      "participants": [
+        "Chinese",
         "Jinping",
         "North Korea"
       ],
       "date": "",
       "location": "",
-      "description": "Xi Jinping will travel to North Korea next week in first visit since 2019",
-      "source_url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019"
-    },
-    {
-      "title": "Cover Story newsletter: The summit of suspicion",
-      "participants": [
-        "Cover Story"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Cover Story newsletter: The summit of suspicion",
-      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
+      "description": "Chinese leader Xi Jinping will travel to North Korea for first visit since 2019",
+      "source_url": "https://abcnews.com/International/wireStory/chinese-leader-xi-jinping-travel-north-korea-week-133606596"
     }
   ],
   "elections": [
     {
-      "title": "Kosovo holds third election in 16 months",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Kosovo holds third election in 16 months",
-      "source_url": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
-      "source_url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu"
-    },
-    {
-      "title": "Armenians vote in parliamentary elections seen as ‘referendum on independence’",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Armenians vote in parliamentary elections seen as ‘referendum on independence’",
-      "source_url": "https://www.france24.com/en/video/20260607-armenians-vote-in-parliamentary-elections-seen-as-referendum-on-independence"
-    },
-    {
-      "title": "Peru votes for its ninth president in 10 years",
+      "title": "Peru’s economic miracle is at stake as voters head to polls",
       "country": "Peru",
       "election_type": "National",
       "date": "",
-      "description": "Peru votes for its ninth president in 10 years",
-      "source_url": "https://www.france24.com/en/peru-votes-for-its-ninth-president-in-10-years"
+      "description": "Peru’s economic miracle is at stake as voters head to polls",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/08/world/politics/peru-economic-miracle-vote"
     },
     {
-      "title": "Ethiopia's election results will likely confirm status quo",
-      "country": "Ethiopia",
+      "title": "Pakistan Kashmir's top court upholds refugee seats and clears the way for upcoming elections",
+      "country": "Pakistan",
       "election_type": "National",
       "date": "",
-      "description": "Ethiopia's election results will likely confirm status quo",
-      "source_url": "https://www.dw.com/en/ethiopia-s-election-results-will-likely-confirm-status-quo/a-77435414?maca=en-rss-en-world-4025-rdf"
+      "description": "Pakistan Kashmir's top court upholds refugee seats and clears the way for upcoming elections",
+      "source_url": "https://abcnews.com/International/wireStory/pakistan-kashmirs-top-court-upholds-refugee-seats-clears-133666267"
+    },
+    {
+      "title": "Initial results show Kurti's party wins most votes in Kosovo's early election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Initial results show Kurti's party wins most votes in Kosovo's early election",
+      "source_url": "https://www.pbs.org/newshour/world/initial-results-show-kurtis-party-wins-most-votes-in-kosovos-early-election"
+    },
+    {
+      "title": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
+      "country": "Armenia",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
+      "source_url": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future"
+    },
+    {
+      "title": "Armenians vote in general election watched closely by Russia and the West",
+      "country": "Russia",
+      "election_type": "General",
+      "date": "",
+      "description": "Armenians vote in general election watched closely by Russia and the West",
+      "source_url": "https://www.npr.org/2026/06/07/nx-s1-5849210/armenians-vote-general-election-russia-west"
     }
   ],
   "global_events": [
     {
-      "title": "Russian drone hit nuclear-fuel storage facility near Chornobyl, Ukraine says",
-      "summary": "Russian drone hit nuclear-fuel storage facility near Chornobyl, Ukraine says",
+      "title": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
+      "summary": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
       "outlets_covering": [
-        "CBC World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/russian-drone-chornobyl-9.7226511?cmp=rss"
-    },
-    {
-      "title": "Ukraine targets St. Petersburg after Putin refuses talks",
-      "summary": "Ukraine targets St. Petersburg after Putin refuses talks",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/07/world/ukraine-russia-strike-st-petersburg"
-    },
-    {
-      "title": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
-      "summary": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
-      "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "PBS NewsHour",
         "CBC World",
         "CBS News World",
+        "NBC News World",
+        "NYT World",
         "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
         "The Independent"
       ],
-      "coverage_count": 6,
+      "coverage_count": 19,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.pbs.org/newshour/world/u-s-iran-exchange-of-fire-in-gulf-tests-fragile-ceasefire"
+      "source_url": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece"
     },
     {
-      "title": "Hegseth says Europe faces ‘invasion’ of ‘dangerous ideologies’ while speaking at D-Day event",
-      "summary": "Hegseth says Europe faces ‘invasion’ of ‘dangerous ideologies’ while speaking at D-Day event",
+      "title": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
+      "summary": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
       "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "The Independent",
+        "CBC World",
+        "CBS News World",
+        "The Guardian World",
         "Japan Times",
+        "The Hindu Intl",
         "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
+    },
+    {
+      "title": "Israel launches strikes on Iran after Tehran fires barrage of missiles",
+      "summary": "Israel launches strikes on Iran after Tehran fires barrage of missiles",
+      "outlets_covering": [
+        "CBC World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave"
+    },
+    {
+      "title": "Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire",
+      "summary": "Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "NYT World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles"
+    },
+    {
+      "title": "Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship",
+      "summary": "Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera"
       ],
       "coverage_count": 5,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/hegseth-normandy-d-day-speech-europe-invasion-b2991213.html"
-    },
-    {
-      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-      "summary": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "The Independent",
-        "Japan Times",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea"
     }
   ]
 }
