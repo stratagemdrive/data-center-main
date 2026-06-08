@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-08T02:39:53.435259Z",
+  "last_updated": "2026-06-08T15:28:25.294969Z",
   "world_org_meetings": [
-    {
-      "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "UN General Assembly elects Bangladesh’s Rahman as next president",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167626"
-    },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
       "organization": "G7",
@@ -28,170 +20,169 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Xi delivers veiled swipe at Japan ahead of summit with North Korea’s Kim",
+      "title": "China’s Xi Jinping arrives in North Korea on rare state visit",
       "participants": [
-        "Japan",
-        "North Korea’s Kim"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Xi delivers veiled swipe at Japan ahead of summit with North Korea’s Kim",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/politics/china-north-korea-xi-kim-summit"
-    },
-    {
-      "title": "European leaders ready to support ceasefire talks between Ukraine, Russia",
-      "participants": [
-        "European",
-        "Ukraine Russia"
-      ],
-      "date": "",
-      "location": "",
-      "description": "European leaders ready to support ceasefire talks between Ukraine, Russia",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/08/world/politics/europe-ceasefire-talks-ukraine-russia"
-    },
-    {
-      "title": "Chinese leader Xi Jinping will travel to North Korea for first visit since 2019",
-      "participants": [
-        "Chinese",
-        "Jinping",
+        "China’s Xi Jinping",
         "North Korea"
       ],
       "date": "",
       "location": "",
-      "description": "Chinese leader Xi Jinping will travel to North Korea for first visit since 2019",
-      "source_url": "https://abcnews.com/International/wireStory/chinese-leader-xi-jinping-travel-north-korea-week-133606596"
+      "description": "China’s Xi Jinping arrives in North Korea on rare state visit",
+      "source_url": "https://www.aljazeera.com/news/2026/6/8/chinas-xi-jinping-arrives-in-north-korea-on-rare-state-visit?traffic_source=rss"
+    },
+    {
+      "title": "Chinese president visits North Korea for the first time in 7 years",
+      "participants": [
+        "Chinese",
+        "North Korea"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Chinese president visits North Korea for the first time in 7 years",
+      "source_url": "https://www.npr.org/2026/06/08/nx-s1-5847691/chinese-president-visits-north-korea-for-the-first-time-in-7-years"
+    },
+    {
+      "title": "Cover Story newsletter: The summit of suspicion",
+      "participants": [
+        "Cover Story"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Cover Story newsletter: The summit of suspicion",
+      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
     {
-      "title": "Peru’s economic miracle is at stake as voters head to polls",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru’s economic miracle is at stake as voters head to polls",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/08/world/politics/peru-economic-miracle-vote"
-    },
-    {
-      "title": "Pakistan Kashmir's top court upholds refugee seats and clears the way for upcoming elections",
-      "country": "Pakistan",
-      "election_type": "National",
-      "date": "",
-      "description": "Pakistan Kashmir's top court upholds refugee seats and clears the way for upcoming elections",
-      "source_url": "https://abcnews.com/International/wireStory/pakistan-kashmirs-top-court-upholds-refugee-seats-clears-133666267"
-    },
-    {
-      "title": "Initial results show Kurti's party wins most votes in Kosovo's early election",
+      "title": "Armenian Prime Minister Nikol Pashinyan claims victory following general election",
       "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Initial results show Kurti's party wins most votes in Kosovo's early election",
-      "source_url": "https://www.pbs.org/newshour/world/initial-results-show-kurtis-party-wins-most-votes-in-kosovos-early-election"
-    },
-    {
-      "title": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
-      "country": "Armenia",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
-      "source_url": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future"
-    },
-    {
-      "title": "Armenians vote in general election watched closely by Russia and the West",
-      "country": "Russia",
       "election_type": "General",
       "date": "",
-      "description": "Armenians vote in general election watched closely by Russia and the West",
-      "source_url": "https://www.npr.org/2026/06/07/nx-s1-5849210/armenians-vote-general-election-russia-west"
+      "description": "Armenian Prime Minister Nikol Pashinyan claims victory following general election",
+      "source_url": "https://abcnews.com/International/wireStory/armenian-prime-minister-nikol-pashinyan-claims-victory-general-133674679"
+    },
+    {
+      "title": "PM Pashinyan’s party wins Armenia election, preliminary results show",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "PM Pashinyan’s party wins Armenia election, preliminary results show",
+      "source_url": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss"
+    },
+    {
+      "title": "Armenian election largely seen as 'national referendum on country's direction'",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Armenian election largely seen as 'national referendum on country's direction'",
+      "source_url": "https://www.france24.com/en/armenian-election-largely-seen-as-national-referendum-on-country-s-direction"
+    },
+    {
+      "title": "'Democratic backsliding': Armenia's 'extreme polarisation, hate speech, stigmatization' mar election",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "'Democratic backsliding': Armenia's 'extreme polarisation, hate speech, stigmatization' mar election",
+      "source_url": "https://www.france24.com/en/democratic-backsliding-armenia-s-extreme-polarisation-hate-speech-stigmatization-mar-election"
+    },
+    {
+      "title": "Armenian PM Pashinyan declares victory in parliamentary elections",
+      "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Armenian PM Pashinyan declares victory in parliamentary elections",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/armenian-pm-pashinyan-declares-victory-in-parliamentary-elections?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
-      "summary": "Israel says Iran launches missiles at it in first such bombardment since ceasefire in April",
+      "title": "Xi and Kim express hopes for greater ties between China and North Korea",
+      "summary": "Xi and Kim express hopes for greater ties between China and North Korea",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
         "PBS NewsHour",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
+        "ABC News Intl",
+        "Fox News World",
         "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent"
-      ],
-      "coverage_count": 19,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-missile-attacks-on-israel/article71074231.ece"
-    },
-    {
-      "title": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
-      "summary": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "The Guardian World",
+        "Al Jazeera",
         "Japan Times",
         "The Hindu Intl",
-        "The Hill"
+        "SCMP"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
+      "coverage_count": 10,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
+      "source_url": "https://www.pbs.org/newshour/world/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea"
     },
     {
-      "title": "Israel launches strikes on Iran after Tehran fires barrage of missiles",
-      "summary": "Israel launches strikes on Iran after Tehran fires barrage of missiles",
+      "title": "Powerful earthquake in southern Philippines leaves at least 32 dead",
+      "summary": "Powerful earthquake in southern Philippines leaves at least 32 dead",
       "outlets_covering": [
+        "BBC World",
         "CBC World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 17,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave"
-    },
-    {
-      "title": "Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire",
-      "summary": "Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire",
-      "outlets_covering": [
-        "PBS NewsHour",
         "CBS News World",
-        "NYT World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles"
-    },
-    {
-      "title": "Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship",
-      "summary": "Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship",
-      "outlets_covering": [
-        "ABC News Intl",
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera"
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea"
+      "coverage_count": 8,
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings"
+    },
+    {
+      "title": "Iran says attacks halted after Trump tells both sides to \"stop 'shooting'\"",
+      "summary": "Iran says attacks halted after Trump tells both sides to \"stop 'shooting'\"",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "The Independent",
+        "SCMP",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut"
+    },
+    {
+      "title": "Israel, Iran attack each other for first time since ceasefire",
+      "summary": "Israel, Iran attack each other for first time since ceasefire",
+      "outlets_covering": [
+        "PBS NewsHour",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/international/5914535-israel-iran-middle-east-conflict"
+    },
+    {
+      "title": "Iran releases footage of missiles launched at Israel",
+      "summary": "Iran releases footage of missiles launched at Israel",
+      "outlets_covering": [
+        "BBC World",
+        "PBS NewsHour",
+        "Wash Post World",
+        "The Independent",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
