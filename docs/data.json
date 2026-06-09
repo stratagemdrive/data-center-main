@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T15:28:25.294969Z",
+  "last_updated": "2026-06-09T02:06:17.269216Z",
   "world_org_meetings": [
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -19,17 +19,6 @@
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "China’s Xi Jinping arrives in North Korea on rare state visit",
-      "participants": [
-        "China’s Xi Jinping",
-        "North Korea"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China’s Xi Jinping arrives in North Korea on rare state visit",
-      "source_url": "https://www.aljazeera.com/news/2026/6/8/chinas-xi-jinping-arrives-in-north-korea-on-rare-state-visit?traffic_source=rss"
-    },
     {
       "title": "Chinese president visits North Korea for the first time in 7 years",
       "participants": [
@@ -54,6 +43,14 @@
   ],
   "elections": [
     {
+      "title": "Armenia's Pashinyan wins election, observers allege Russian interference",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "Armenia's Pashinyan wins election, observers allege Russian interference",
+      "source_url": "https://www.cbc.ca/news/world/armenia-election-pashinyan-9.7227155?cmp=rss"
+    },
+    {
       "title": "Armenian Prime Minister Nikol Pashinyan claims victory following general election",
       "country": "",
       "election_type": "General",
@@ -62,36 +59,28 @@
       "source_url": "https://abcnews.com/International/wireStory/armenian-prime-minister-nikol-pashinyan-claims-victory-general-133674679"
     },
     {
-      "title": "PM Pashinyan’s party wins Armenia election, preliminary results show",
-      "country": "Armenia",
+      "title": "Peru presidential election: Leftist takes lead in too-close-to-call runoff",
+      "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Peru presidential election: Leftist takes lead in too-close-to-call runoff",
+      "source_url": "https://www.thehindu.com/news/international/peru-presidential-election-leftist-takes-lead-in-too-close-to-call-runoff/article71079090.ece"
+    },
+    {
+      "title": "Peru election result close as vote counting continues",
+      "country": "Peru",
       "election_type": "National",
       "date": "",
-      "description": "PM Pashinyan’s party wins Armenia election, preliminary results show",
-      "source_url": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show?traffic_source=rss"
+      "description": "Peru election result close as vote counting continues",
+      "source_url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Armenian election largely seen as 'national referendum on country's direction'",
+      "title": "DOJ quietly scraps ‘command center’ that would help monitor 2026 election integrity, report says",
       "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Armenian election largely seen as 'national referendum on country's direction'",
-      "source_url": "https://www.france24.com/en/armenian-election-largely-seen-as-national-referendum-on-country-s-direction"
-    },
-    {
-      "title": "'Democratic backsliding': Armenia's 'extreme polarisation, hate speech, stigmatization' mar election",
-      "country": "Armenia",
       "election_type": "National",
       "date": "",
-      "description": "'Democratic backsliding': Armenia's 'extreme polarisation, hate speech, stigmatization' mar election",
-      "source_url": "https://www.france24.com/en/democratic-backsliding-armenia-s-extreme-polarisation-hate-speech-stigmatization-mar-election"
-    },
-    {
-      "title": "Armenian PM Pashinyan declares victory in parliamentary elections",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Armenian PM Pashinyan declares victory in parliamentary elections",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/armenian-pm-pashinyan-declares-victory-in-parliamentary-elections?traffic_source=rss"
+      "description": "DOJ quietly scraps ‘command center’ that would help monitor 2026 election integrity, report says",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/doj-command-center-election-integrity-trump-b2991875.html"
     }
   ],
   "global_events": [
@@ -99,13 +88,13 @@
       "title": "Xi and Kim express hopes for greater ties between China and North Korea",
       "summary": "Xi and Kim express hopes for greater ties between China and North Korea",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
-        "PBS NewsHour",
         "ABC News Intl",
         "Fox News World",
         "The Guardian World",
+        "Bloomberg",
         "Al Jazeera",
+        "France24",
         "Japan Times",
         "The Hindu Intl",
         "SCMP"
@@ -113,11 +102,58 @@
       "coverage_count": 10,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.pbs.org/newshour/world/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea"
+      "source_url": "https://abcnews.com/International/wireStory/chinese-leader-xi-heads-north-korea-closely-watched-133671236"
     },
     {
-      "title": "Powerful earthquake in southern Philippines leaves at least 32 dead",
-      "summary": "Powerful earthquake in southern Philippines leaves at least 32 dead",
+      "title": "Iran and Israel say attacks halted after Trump tells both to \"stop 'shooting'\"",
+      "summary": "Iran and Israel say attacks halted after Trump tells both to \"stop 'shooting'\"",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "Time",
+        "SCMP",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut"
+    },
+    {
+      "title": "Iran, Israel pledge to end attacks that threatened talks",
+      "summary": "Iran, Israel pledge to end attacks that threatened talks",
+      "outlets_covering": [
+        "NYT World",
+        "Wash Post World",
+        "Bloomberg",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/09/world/politics/iran-israel-attacks-talks"
+    },
+    {
+      "title": "Iran, Israel Pull Back From Brink After Trading Fire",
+      "summary": "Iran, Israel Pull Back From Brink After Trading Fire",
+      "outlets_covering": [
+        "NPR World",
+        "NYT World",
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://foreignpolicy.com/2026/06/08/iran-israel-attacks-lebanon-hezbollah-beirut-us-trump-netanyahu"
+    },
+    {
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
+      "summary": "At least 35 dead after major earthquake strikes southern Philippines",
       "outlets_covering": [
         "BBC World",
         "CBC World",
@@ -125,64 +161,12 @@
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "France24",
-        "The Hindu Intl"
+        "Al Jazeera"
       ],
       "coverage_count": 8,
       "region": "East / Southeast Asia",
       "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings"
-    },
-    {
-      "title": "Iran says attacks halted after Trump tells both sides to \"stop 'shooting'\"",
-      "summary": "Iran says attacks halted after Trump tells both sides to \"stop 'shooting'\"",
-      "outlets_covering": [
-        "CBS News World",
-        "The Guardian World",
-        "The Independent",
-        "SCMP",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut"
-    },
-    {
-      "title": "Israel, Iran attack each other for first time since ceasefire",
-      "summary": "Israel, Iran attack each other for first time since ceasefire",
-      "outlets_covering": [
-        "PBS NewsHour",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/5914535-israel-iran-middle-east-conflict"
-    },
-    {
-      "title": "Iran releases footage of missiles launched at Israel",
-      "summary": "Iran releases footage of missiles launched at Israel",
-      "outlets_covering": [
-        "BBC World",
-        "PBS NewsHour",
-        "Wash Post World",
-        "The Independent",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
