@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-09T02:06:17.269216Z",
+  "last_updated": "2026-06-09T14:25:41.427747Z",
   "world_org_meetings": [
+    {
+      "title": "Five-day BRICS meeting begins in Indore to discuss global issues in agriculture sector",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Five-day BRICS meeting begins in Indore to discuss global issues in agriculture sector",
+      "source_url": "https://www.thehindu.com/news/national/five-day-brics-meeting-begins-in-indore-to-discuss-global-issues-in-agriculture-sector/article71079383.ece"
+    },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
       "organization": "G7",
@@ -20,15 +28,15 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Chinese president visits North Korea for the first time in 7 years",
+      "title": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
       "participants": [
-        "Chinese",
-        "North Korea"
+        "Ukraine’ Zelenskyy",
+        "King Charles"
       ],
       "date": "",
       "location": "",
-      "description": "Chinese president visits North Korea for the first time in 7 years",
-      "source_url": "https://www.npr.org/2026/06/08/nx-s1-5847691/chinese-president-visits-north-korea-for-the-first-time-in-7-years"
+      "description": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
+      "source_url": "https://www.theguardian.com/uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -43,130 +51,123 @@
   ],
   "elections": [
     {
-      "title": "Armenia's Pashinyan wins election, observers allege Russian interference",
+      "title": "Venezuelans flood capital Caracas streets, demanding free elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Venezuelans flood capital Caracas streets, demanding free elections",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss"
+    },
+    {
+      "title": "Will TMC's rebellion deliver what elections couldn't — a stronger NDA in Lok Sabha?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Will TMC's rebellion deliver what elections couldn't — a stronger NDA in Lok Sabha?",
+      "source_url": "https://timesofindia.indiatimes.com/india/will-tmcs-rebellion-deliver-what-elections-couldnt-a-stronger-nda-in-lok-sabha/articleshow/131608731.cms"
+    },
+    {
+      "title": "Nikol Pashinyan Wins Re-election in Armenia",
       "country": "Armenia",
       "election_type": "National",
       "date": "",
-      "description": "Armenia's Pashinyan wins election, observers allege Russian interference",
-      "source_url": "https://www.cbc.ca/news/world/armenia-election-pashinyan-9.7227155?cmp=rss"
+      "description": "Nikol Pashinyan Wins Re-election in Armenia",
+      "source_url": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html"
     },
     {
-      "title": "Armenian Prime Minister Nikol Pashinyan claims victory following general election",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Armenian Prime Minister Nikol Pashinyan claims victory following general election",
-      "source_url": "https://abcnews.com/International/wireStory/armenian-prime-minister-nikol-pashinyan-claims-victory-general-133674679"
-    },
-    {
-      "title": "Peru presidential election: Leftist takes lead in too-close-to-call runoff",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Peru presidential election: Leftist takes lead in too-close-to-call runoff",
-      "source_url": "https://www.thehindu.com/news/international/peru-presidential-election-leftist-takes-lead-in-too-close-to-call-runoff/article71079090.ece"
-    },
-    {
-      "title": "Peru election result close as vote counting continues",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru election result close as vote counting continues",
-      "source_url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "DOJ quietly scraps ‘command center’ that would help monitor 2026 election integrity, report says",
+      "title": "Why a U.K. By-Election in Makerfield Could Topple Prime Minister Keir Starmer",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "DOJ quietly scraps ‘command center’ that would help monitor 2026 election integrity, report says",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/doj-command-center-election-integrity-trump-b2991875.html"
+      "description": "Why a U.K. By-Election in Makerfield Could Topple Prime Minister Keir Starmer",
+      "source_url": "https://www.nytimes.com/2026/06/09/world/europe/makerfield-byelection-starmer-burnham-reform.html"
+    },
+    {
+      "title": "Pro-Europe party wins Armenian election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Pro-Europe party wins Armenian election",
+      "source_url": "https://news.sky.com/story/pro-europe-party-wins-armenian-election-13552165"
     }
   ],
   "global_events": [
     {
-      "title": "Xi and Kim express hopes for greater ties between China and North Korea",
-      "summary": "Xi and Kim express hopes for greater ties between China and North Korea",
+      "title": "Israel, Iran attack each other for first time since ceasefire",
+      "summary": "Israel, Iran attack each other for first time since ceasefire",
       "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "Fox News World",
-        "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
+        "CBS News World",
+        "NYT World",
         "The Hindu Intl",
-        "SCMP"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 10,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/chinese-leader-xi-heads-north-korea-closely-watched-133671236"
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/international/5914535-israel-iran-middle-east-conflict"
     },
     {
       "title": "Iran and Israel say attacks halted after Trump tells both to \"stop 'shooting'\"",
       "summary": "Iran and Israel say attacks halted after Trump tells both to \"stop 'shooting'\"",
       "outlets_covering": [
-        "CBC World",
         "CBS News World",
-        "Time",
+        "The Hindu Intl",
         "SCMP",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 9,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut"
     },
     {
-      "title": "Iran, Israel pledge to end attacks that threatened talks",
-      "summary": "Iran, Israel pledge to end attacks that threatened talks",
+      "title": "6.1 magnitude earthquake hits offshore Cuba; tremors felt in Florida",
+      "summary": "6.1 magnitude earthquake hits offshore Cuba; tremors felt in Florida",
       "outlets_covering": [
-        "NYT World",
-        "Wash Post World",
-        "Bloomberg",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hill"
+        "NBC News World",
+        "The Independent",
+        "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/09/world/politics/iran-israel-attacks-talks"
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.thehindu.com/news/international/61-magnitude-earthquake-hits-offshore-cuba-tremors-felt-in-florida/article71079119.ece"
     },
     {
-      "title": "Iran, Israel Pull Back From Brink After Trading Fire",
-      "summary": "Iran, Israel Pull Back From Brink After Trading Fire",
+      "title": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
+      "summary": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
       "outlets_covering": [
         "NPR World",
-        "NYT World",
-        "France24",
+        "The Independent",
+        "Japan Times",
         "The Hindu Intl",
-        "Foreign Policy"
+        "SCMP"
       ],
       "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://foreignpolicy.com/2026/06/08/iran-israel-attacks-lebanon-hezbollah-beirut-us-trump-netanyahu"
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military"
     },
     {
-      "title": "At least 35 dead after major earthquake strikes southern Philippines",
-      "summary": "At least 35 dead after major earthquake strikes southern Philippines",
+      "title": "Xi and Kim push for greater ties between China and North Korea",
+      "summary": "Xi and Kim push for greater ties between China and North Korea",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
+        "ABC News Intl",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera"
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 8,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 9,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/chinese-leader-xi-heads-north-korea-closely-watched-133671236"
     }
   ]
 }
