@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-09T14:25:41.427747Z",
+  "last_updated": "2026-06-10T02:30:29.891239Z",
   "world_org_meetings": [
+    {
+      "title": "Modi expected to meet Trump on the sidelines of the G7 summit in France",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Modi expected to meet Trump on the sidelines of the G7 summit in France",
+      "source_url": "https://www.thehindu.com/news/national/modi-expected-to-meet-trump-on-the-sidelines-of-the-g7-summit-in-france/article71082075.ece"
+    },
+    {
+      "title": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167683"
+    },
     {
       "title": "Five-day BRICS meeting begins in Indore to discuss global issues in agriculture sector",
       "organization": "BRICS",
@@ -28,17 +44,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
-      "participants": [
-        "Ukraine’ Zelenskyy",
-        "King Charles"
-      ],
-      "date": "",
-      "location": "",
-      "description": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
-      "source_url": "https://www.theguardian.com/uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -51,22 +56,6 @@
   ],
   "elections": [
     {
-      "title": "Venezuelans flood capital Caracas streets, demanding free elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Venezuelans flood capital Caracas streets, demanding free elections",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss"
-    },
-    {
-      "title": "Will TMC's rebellion deliver what elections couldn't — a stronger NDA in Lok Sabha?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Will TMC's rebellion deliver what elections couldn't — a stronger NDA in Lok Sabha?",
-      "source_url": "https://timesofindia.indiatimes.com/india/will-tmcs-rebellion-deliver-what-elections-couldnt-a-stronger-nda-in-lok-sabha/articleshow/131608731.cms"
-    },
-    {
       "title": "Nikol Pashinyan Wins Re-election in Armenia",
       "country": "Armenia",
       "election_type": "National",
@@ -75,99 +64,136 @@
       "source_url": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html"
     },
     {
-      "title": "Why a U.K. By-Election in Makerfield Could Topple Prime Minister Keir Starmer",
+      "title": "AOC calls Platner allegations ‘Hard to stomach,’ emphasizes Maine election is ‘a choice’",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Why a U.K. By-Election in Makerfield Could Topple Prime Minister Keir Starmer",
-      "source_url": "https://www.nytimes.com/2026/06/09/world/europe/makerfield-byelection-starmer-burnham-reform.html"
+      "description": "AOC calls Platner allegations ‘Hard to stomach,’ emphasizes Maine election is ‘a choice’",
+      "source_url": "https://thehill.com/homenews/campaign/5917488-ocasio-cortez-comments-platner-controversies"
     },
     {
-      "title": "Pro-Europe party wins Armenian election",
+      "title": "Live results: Mainers choose Mills’s successor in gubernatorial primary elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Pro-Europe party wins Armenian election",
-      "source_url": "https://news.sky.com/story/pro-europe-party-wins-armenian-election-13552165"
+      "description": "Live results: Mainers choose Mills’s successor in gubernatorial primary elections",
+      "source_url": "https://thehill.com/homenews/campaign/5909408-live-results-maine-gubernatorial-primary"
+    },
+    {
+      "title": "Live results: South Carolina House primary elections underway",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Live results: South Carolina House primary elections underway",
+      "source_url": "https://thehill.com/homenews/campaign/5909426-live-results-south-carolina-house-primary-elections"
+    },
+    {
+      "title": "Four questions (and expert answers) about Armenia’s elections and what to expect next",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "Four questions (and expert answers) about Armenia’s elections and what to expect next",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/four-questions-and-expert-answers-about-armenias-elections-and-what-to-expect-next"
     }
   ],
   "global_events": [
     {
-      "title": "Israel, Iran attack each other for first time since ceasefire",
-      "summary": "Israel, Iran attack each other for first time since ceasefire",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/5914535-israel-iran-middle-east-conflict"
-    },
-    {
-      "title": "Iran and Israel say attacks halted after Trump tells both to \"stop 'shooting'\"",
-      "summary": "Iran and Israel say attacks halted after Trump tells both to \"stop 'shooting'\"",
-      "outlets_covering": [
-        "CBS News World",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut"
-    },
-    {
-      "title": "6.1 magnitude earthquake hits offshore Cuba; tremors felt in Florida",
-      "summary": "6.1 magnitude earthquake hits offshore Cuba; tremors felt in Florida",
-      "outlets_covering": [
-        "NBC News World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/61-magnitude-earthquake-hits-offshore-cuba-tremors-felt-in-florida/article71079119.ece"
-    },
-    {
-      "title": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
-      "summary": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
-      "outlets_covering": [
-        "NPR World",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military"
-    },
-    {
-      "title": "Xi and Kim push for greater ties between China and North Korea",
-      "summary": "Xi and Kim push for greater ties between China and North Korea",
+      "title": "U.S. conducts retaliatory strikes on Iran for downing of Apache helicopter",
+      "summary": "U.S. conducts retaliatory strikes on Iran for downing of Apache helicopter",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
-        "Fox News World",
+        "CBS News World",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
+        "Bloomberg",
+        "Al Jazeera",
         "France24",
         "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel"
+    },
+    {
+      "title": "Iran-US war latest: Trump launches strikes against Iranian air defense infrastructure after American helicopter shot down",
+      "summary": "Iran-US war latest: Trump launches strikes against Iranian air defense infrastructure after American helicopter shot down",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-netanyahu-israel-lebanon-b2992131.html"
+    },
+    {
+      "title": "U.S. Apache helicopter shot down by Iran, Trump says; crew rescued by sea drone",
+      "summary": "U.S. Apache helicopter shot down by Iran, Trump says; crew rescued by sea drone",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "SCMP"
+        "Axios"
       ],
       "coverage_count": 9,
-      "region": "China",
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/chinese-leader-xi-heads-north-korea-closely-watched-133671236"
+      "source_url": "https://www.cbsnews.com/news/us-apache-helicopter-crash-strait-of-hormuz-first-sea-drone-rescue"
+    },
+    {
+      "title": "U.S. Strikes Iran After Trump Vows to Retaliate for Downed Helicopter",
+      "summary": "U.S. Strikes Iran After Trump Vows to Retaliate for Downed Helicopter",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "Time",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 22,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/06/09/world/middleeast/trump-iran-us-military-helicopter.html"
+    },
+    {
+      "title": "President Trump says U.S. 'must' respond to Iran attack that downed Army helicopter",
+      "summary": "President Trump says U.S. 'must' respond to Iran attack that downed Army helicopter",
+      "outlets_covering": [
+        "NPR World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "Time",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/06/09/nx-s1-5851862/president-trump-says-u-s-must-respond-to-iran-attack-that-downed-army-helicopter"
     }
   ]
 }
