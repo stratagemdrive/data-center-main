@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-10T14:52:33.494763Z",
+  "last_updated": "2026-06-11T02:40:35.870241Z",
   "world_org_meetings": [
     {
-      "title": "Modi expected to meet Trump on the sidelines of the G7 summit in France",
+      "title": "PM Modi may meet Trump on margins of G7 summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Modi expected to meet Trump on the sidelines of the G7 summit in France",
-      "source_url": "https://www.thehindu.com/news/national/modi-expected-to-meet-trump-on-the-sidelines-of-the-g7-summit-in-france/article71082075.ece"
+      "description": "PM Modi may meet Trump on margins of G7 summit",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-may-meet-trump-on-margins-of-g7-summit/articleshow/131646432.cms"
     },
     {
       "title": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
@@ -16,14 +16,6 @@
       "location": "",
       "description": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
       "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167683"
-    },
-    {
-      "title": "Five-day BRICS meeting begins in Indore to discuss global issues in agriculture sector",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Five-day BRICS meeting begins in Indore to discuss global issues in agriculture sector",
-      "source_url": "https://www.thehindu.com/news/national/five-day-brics-meeting-begins-in-indore-to-discuss-global-issues-in-agriculture-sector/article71079383.ece"
     },
     {
       "title": "Lipsky cited in a New York Times article on the specter of Trump’s tariffs over G7 ministers meeting.",
@@ -43,6 +35,18 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "From Trump to Meloni, congratulations pour in from heads of state on PM Modi feat",
+      "participants": [
+        "Trump",
+        "Meloni",
+        "Modi"
+      ],
+      "date": "",
+      "location": "",
+      "description": "From Trump to Meloni, congratulations pour in from heads of state on PM Modi feat",
+      "source_url": "https://timesofindia.indiatimes.com/india/from-trump-to-meloni-congratulations-pour-in-from-heads-of-state-on-modi-feat/articleshow/131646436.cms"
+    },
     {
       "title": "EXCLUSIVE: Serbian President Vučić says support for US 'surged' under Trump, invites him to visit Belgrade",
       "participants": [
@@ -68,126 +72,101 @@
   ],
   "elections": [
     {
-      "title": "Netanyahu will stand in Israel's next national election, his party says",
-      "country": "Israel",
+      "title": "Four questions (and expert answers) about Armenia’s elections and what to expect next",
+      "country": "Armenia",
       "election_type": "National",
       "date": "",
-      "description": "Netanyahu will stand in Israel's next national election, his party says",
-      "source_url": "https://www.france24.com/en/middle-east/20260610-netanyahu-will-stand-in-israel-s-next-national-election-his-party-says"
+      "description": "Four questions (and expert answers) about Armenia’s elections and what to expect next",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/four-questions-and-expert-answers-about-armenias-elections-and-what-to-expect-next"
     },
     {
-      "title": "Platner sails through primary amid controversy: 5 takeaways from Tuesday’s elections",
+      "title": "Pro-Europe party wins Armenian election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Platner sails through primary amid controversy: 5 takeaways from Tuesday’s elections",
-      "source_url": "https://thehill.com/homenews/campaign/5917340-platner-collins-maine-south-carolina-takeaways"
-    },
-    {
-      "title": "Peru election remains on knife edge between Fujimori and Sanchez",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru election remains on knife edge between Fujimori and Sanchez",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/10/world/politics/peru-election-fujimori-sanchez"
-    },
-    {
-      "title": "AOC calls Platner allegations ‘Hard to stomach,’ emphasizes Maine election is ‘a choice’",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "AOC calls Platner allegations ‘Hard to stomach,’ emphasizes Maine election is ‘a choice’",
-      "source_url": "https://thehill.com/homenews/campaign/5917488-ocasio-cortez-comments-platner-controversies"
-    },
-    {
-      "title": "Live results: Mainers choose Mills’s successor in gubernatorial primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Live results: Mainers choose Mills’s successor in gubernatorial primary elections",
-      "source_url": "https://thehill.com/homenews/campaign/5909408-live-results-maine-gubernatorial-primary"
+      "description": "Pro-Europe party wins Armenian election",
+      "source_url": "https://news.sky.com/story/pro-europe-party-wins-armenian-election-13552165"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. launches strikes on Iran after downing of Apache helicopter",
-      "summary": "U.S. launches strikes on Iran after downing of Apache helicopter",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Newsweek",
-        "Time",
-        "France24",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/us-launches-strikes-on-iran-after-downing-of-apache-helicopter"
-    },
-    {
-      "title": "Knife attack victim’s family calls for calm after anti-immigrant violence in Belfast",
-      "summary": "Knife attack victim’s family calls for calm after anti-immigrant violence in Belfast",
+      "title": "Hegseth says U.S. will \"negotiate with bombs\" if needed; U.S. announces more strikes",
+      "summary": "Hegseth says U.S. will \"negotiate with bombs\" if needed; U.S. announces more strikes",
       "outlets_covering": [
         "CBS News World",
-        "NBC News World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "Al Jazeera"
       ],
-      "coverage_count": 6,
+      "coverage_count": 2,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/knife-attack-victims-family-calls-for-calm-after-anti-immigrant-violence-in-belfast/article71085318.ece"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache"
     },
     {
-      "title": "Trump and Iran trade new threats after strikes exchanged",
-      "summary": "Trump and Iran trade new threats after strikes exchanged",
+      "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+      "summary": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "NYT World",
-        "The Guardian World",
-        "Newsweek",
-        "Time"
+        "The Independent",
+        "Al Jazeera",
+        "SCMP"
       ],
-      "coverage_count": 7,
+      "coverage_count": 4,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Taliban says Pakistani airstrikes killed at least 13 in Afghanistan",
-      "summary": "Taliban says Pakistani airstrikes killed at least 13 in Afghanistan",
+      "title": "Iran announces closure of Strait of Hormuz following US strikes",
+      "summary": "Iran announces closure of Strait of Hormuz following US strikes",
       "outlets_covering": [
         "CBS News World",
-        "Sky News World",
-        "The Hindu Intl"
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 3,
-      "region": "South Asia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/afghanistan-pakistan-airstrikes-kill-neighbors-war-reignites"
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
     },
     {
-      "title": "Violent anti-immigration protests erupt in Belfast after stabbing attack",
-      "summary": "Violent anti-immigration protests erupt in Belfast after stabbing attack",
+      "title": "U.S. launches more strikes on Iranian targets after Trump promises to hit Iran \"hard\"",
+      "summary": "U.S. launches more strikes on Iranian targets after Trump promises to hit Iran \"hard\"",
       "outlets_covering": [
         "CBS News World",
         "NBC News World",
-        "NYT World",
+        "Bloomberg",
         "Time",
+        "The Independent",
+        "Japan Times",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/us-iran-strikes-trump-centcom-hard-deal"
+    },
+    {
+      "title": "Trump says it's time for Iran to \"pay the price\" as U.S. announces new strikes",
+      "summary": "Trump says it's time for Iran to \"pay the price\" as U.S. announces new strikes",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "Wash Post World",
+        "The Independent",
         "Al Jazeera",
-        "France24"
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
       ],
       "coverage_count": 10,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/belfast-immigration-protest-stabbing-attack"
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/trump-says-time-iran-pay-price-us-announces-new-strikes"
     }
   ]
 }
