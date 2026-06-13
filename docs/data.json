@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T14:34:29.786288Z",
+  "last_updated": "2026-06-13T02:29:10.844144Z",
   "world_org_meetings": [
     {
       "title": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
@@ -8,6 +8,22 @@
       "location": "",
       "description": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
       "source_url": "https://abcnews.com/International/wireStory/ahead-g7-carney-softens-tone-trump-trade-talks-133807767"
+    },
+    {
+      "title": "Planning of cities must be people-centric, says Manohar Lal as Brics forum adopts urban pact",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Planning of cities must be people-centric, says Manohar Lal as Brics forum adopts urban pact",
+      "source_url": "https://timesofindia.indiatimes.com/india/planning-of-cities-must-be-people-centric-says-manohar-lal-as-brics-forum-adopts-urban-pact/articleshow/131690605.cms"
+    },
+    {
+      "title": "Seven charts that will define France’s G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Seven charts that will define France’s G7 summit",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/seven-charts-that-will-define-frances-g7-summit"
     },
     {
       "title": "Takaichi to attend NATO summit in Turkey and seek closer ties with alliance",
@@ -24,22 +40,6 @@
       "location": "",
       "description": "Starmer in 'seismic' crisis, UK defense chief quits before high-stakes Trump NATO summit",
       "source_url": "https://www.foxnews.com/world/starmer-seismic-crisis-uk-defense-chief-quits-high-stakes-trump-nato-summit"
-    },
-    {
-      "title": "G7 summit at Swiss-French border brings tight security in case violent protests occur",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "G7 summit at Swiss-French border brings tight security in case violent protests occur",
-      "source_url": "https://abcnews.com/International/wireStory/g7-summit-swiss-french-border-brings-tight-security-133773704"
-    },
-    {
-      "title": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167683"
     }
   ],
   "diplomatic_visits": [
@@ -68,6 +68,22 @@
   ],
   "elections": [
     {
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "country": "Iran",
+      "election_type": "National",
+      "date": "",
+      "description": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "source_url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump"
+    },
+    {
+      "title": "Ant Middleton backs Reform UK’s Robert Kenyon in Makerfield byelection",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Ant Middleton backs Reform UK’s Robert Kenyon in Makerfield byelection",
+      "source_url": "https://www.theguardian.com/politics/2026/jun/12/ant-middleton-backs-reform-uks-robert-kenyon-in-makerfield-byelection"
+    },
+    {
       "title": "France accuses Israeli firm of interfering in Scottish elections and targeting SNP",
       "country": "France",
       "election_type": "National",
@@ -84,22 +100,6 @@
       "source_url": "https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez"
     },
     {
-      "title": "Mace vows to be ‘more of a menace than ever’ following election loss",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Mace vows to be ‘more of a menace than ever’ following election loss",
-      "source_url": "https://thehill.com/homenews/house/5920160-mace-loss-more-menace"
-    },
-    {
-      "title": "'King of the North' seeks path to becoming Britain's next leader in special election",
-      "country": "Britain",
-      "election_type": "National",
-      "date": "",
-      "description": "'King of the North' seeks path to becoming Britain's next leader in special election",
-      "source_url": "https://abcnews.com/International/wireStory/king-north-seeks-path-becoming-britains-leader-special-133772942"
-    },
-    {
       "title": "Four questions (and expert answers) about Armenia’s elections and what to expect next",
       "country": "Armenia",
       "election_type": "National",
@@ -110,63 +110,65 @@
   ],
   "global_events": [
     {
-      "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-      "summary": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html"
-    },
-    {
-      "title": "Suspect linked to U.S. consulate shooting on run in Canada, officer killed",
-      "summary": "Suspect linked to U.S. consulate shooting on run in Canada, officer killed",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World"
-      ],
-      "coverage_count": 2,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/canada-us-consulate-shooting-police-officer-killed-hunt-for-armed-suspect"
-    },
-    {
-      "title": "China arrests U.S. researcher on suspicion of spying",
-      "summary": "China arrests U.S. researcher on suspicion of spying",
+      "title": "\"Final, agreed upon text\" of U.S.-Iran peace deal reached, Pakistan says",
+      "summary": "\"Final, agreed upon text\" of U.S.-Iran peace deal reached, Pakistan says",
       "outlets_covering": [
         "CBS News World",
-        "NYT World",
-        "Al Jazeera"
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement"
+    },
+    {
+      "title": "US justice department approves $111bn merger of Paramount and Warner Bros Discovery",
+      "summary": "US justice department approves $111bn merger of Paramount and Warner Bros Discovery",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Independent",
+        "The Hill"
       ],
       "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/china-arrest-us-researcher-espionage-spying-national-security-myanmar"
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger"
     },
     {
-      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-      "summary": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+      "title": "Will there be a deal to end the Iran war this time?",
+      "summary": "Will there be a deal to end the Iran war this time?",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
-        "NBC News World",
-        "Wash Post World",
+        "NYT World",
         "The Independent",
+        "Al Jazeera",
         "France24",
         "Japan Times",
         "The Hindu Intl",
         "Atlantic Council",
         "The Hill"
       ],
-      "coverage_count": 13,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss"
+    },
+    {
+      "title": "Iran-US war latest: White House reveal details of deal to reopen Strait of Hormuz",
+      "summary": "Iran-US war latest: White House reveal details of deal to reopen Strait of Hormuz",
+      "outlets_covering": [
+        "CBS News World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-airstrikes-threat-israel-hormuz-deal-b2994438.html"
     },
     {
       "title": "Trump Backpedals on Planned Iran Strikes, Citing Deal Progress",
@@ -174,14 +176,14 @@
       "outlets_covering": [
         "CBS News World",
         "NBC News World",
-        "Wash Post World",
+        "The Guardian World",
         "The Hindu Intl",
         "SCMP",
         "Foreign Policy",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://foreignpolicy.com/2026/06/11/trump-cancels-strikes-iran-deal-kharg-island-blockade"
