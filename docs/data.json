@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T02:29:10.844144Z",
+  "last_updated": "2026-06-13T13:25:22.215888Z",
   "world_org_meetings": [
     {
       "title": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
@@ -10,12 +10,20 @@
       "source_url": "https://abcnews.com/International/wireStory/ahead-g7-carney-softens-tone-trump-trade-talks-133807767"
     },
     {
-      "title": "Planning of cities must be people-centric, says Manohar Lal as Brics forum adopts urban pact",
-      "organization": "BRICS",
+      "title": "Indian PM Modi in France to attend G7 summit",
+      "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Planning of cities must be people-centric, says Manohar Lal as Brics forum adopts urban pact",
-      "source_url": "https://timesofindia.indiatimes.com/india/planning-of-cities-must-be-people-centric-says-manohar-lal-as-brics-forum-adopts-urban-pact/articleshow/131690605.cms"
+      "description": "Indian PM Modi in France to attend G7 summit",
+      "source_url": "https://www.france24.com/en/video/20260613-indian-pm-modi-in-france-to-attend-g7-summit"
+    },
+    {
+      "title": "Trump travels to France for the 52nd G7 Summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Trump travels to France for the 52nd G7 Summit",
+      "source_url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit"
     },
     {
       "title": "Seven charts that will define France’s G7 summit",
@@ -24,14 +32,6 @@
       "location": "",
       "description": "Seven charts that will define France’s G7 summit",
       "source_url": "https://www.atlanticcouncil.org/dispatches/seven-charts-that-will-define-frances-g7-summit"
-    },
-    {
-      "title": "Takaichi to attend NATO summit in Turkey and seek closer ties with alliance",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Takaichi to attend NATO summit in Turkey and seek closer ties with alliance",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/12/japan/politics/takaichi-nato-ankara"
     },
     {
       "title": "Starmer in 'seismic' crisis, UK defense chief quits before high-stakes Trump NATO summit",
@@ -43,6 +43,18 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Trump travels to France for the 52nd G7 Summit",
+      "participants": [
+        "Trump",
+        "France",
+        "Summit"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump travels to France for the 52nd G7 Summit",
+      "source_url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit"
+    },
     {
       "title": "EXCLUSIVE: Serbian President Vučić says support for US 'surged' under Trump, invites him to visit Belgrade",
       "participants": [
@@ -76,22 +88,6 @@
       "source_url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump"
     },
     {
-      "title": "Ant Middleton backs Reform UK’s Robert Kenyon in Makerfield byelection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Ant Middleton backs Reform UK’s Robert Kenyon in Makerfield byelection",
-      "source_url": "https://www.theguardian.com/politics/2026/jun/12/ant-middleton-backs-reform-uks-robert-kenyon-in-makerfield-byelection"
-    },
-    {
-      "title": "France accuses Israeli firm of interfering in Scottish elections and targeting SNP",
-      "country": "France",
-      "election_type": "National",
-      "date": "",
-      "description": "France accuses Israeli firm of interfering in Scottish elections and targeting SNP",
-      "source_url": "https://www.theguardian.com/uk-news/2026/jun/12/france-accuses-israeli-firm-interfering-scottish-elections-john-swinney-snp"
-    },
-    {
       "title": "Peru’s Photo-Finish Election",
       "country": "Peru",
       "election_type": "National",
@@ -110,83 +106,76 @@
   ],
   "global_events": [
     {
-      "title": "\"Final, agreed upon text\" of U.S.-Iran peace deal reached, Pakistan says",
-      "summary": "\"Final, agreed upon text\" of U.S.-Iran peace deal reached, Pakistan says",
+      "title": "Lifeguard helps save woman critically injured in Australia shark attack",
+      "summary": "Lifeguard helps save woman critically injured in Australia shark attack",
       "outlets_covering": [
+        "ABC News Intl",
         "CBS News World",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "Sky News World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement"
-    },
-    {
-      "title": "US justice department approves $111bn merger of Paramount and Warner Bros Discovery",
-      "summary": "US justice department approves $111bn merger of Paramount and Warner Bros Discovery",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger"
+      "source_url": "https://www.cbsnews.com/news/australia-sydney-coogee-beach-shark-attack-lifeguard-rescue"
     },
     {
-      "title": "Will there be a deal to end the Iran war this time?",
-      "summary": "Will there be a deal to end the Iran war this time?",
+      "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang with help from Venezuela",
+      "summary": "Trump says U.S. military strike killed leader of Tren de Aragua gang with help from Venezuela",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/trump-says-us-military-strike-killed-leader-of-tren-de-aragua-gang-with-help-from-venezuela/article71096454.ece"
+    },
+    {
+      "title": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
+      "summary": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "The Independent",
+        "DW World"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html"
+    },
+    {
+      "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July, as a deal to end the war nears",
+      "summary": "Funeral for slain Iranian Supreme Leader Khamenei set for July, as a deal to end the war nears",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/funeral-slain-iranian-supreme-leader-khamenei-set-july-133841702"
+    },
+    {
+      "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "summary": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
         "CBS News World",
         "NYT World",
         "The Independent",
-        "Al Jazeera",
         "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "Atlantic Council",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss"
-    },
-    {
-      "title": "Iran-US war latest: White House reveal details of deal to reopen Strait of Hormuz",
-      "summary": "Iran-US war latest: White House reveal details of deal to reopen Strait of Hormuz",
-      "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-airstrikes-threat-israel-hormuz-deal-b2994438.html"
-    },
-    {
-      "title": "Trump Backpedals on Planned Iran Strikes, Citing Deal Progress",
-      "summary": "Trump Backpedals on Planned Iran Strikes, Citing Deal Progress",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://foreignpolicy.com/2026/06/11/trump-cancels-strikes-iran-deal-kharg-island-blockade"
+      "source_url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel"
     }
   ]
 }
