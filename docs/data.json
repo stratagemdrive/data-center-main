@@ -1,48 +1,60 @@
 {
-  "last_updated": "2026-06-13T13:25:22.215888Z",
+  "last_updated": "2026-06-14T02:40:15.388065Z",
   "world_org_meetings": [
     {
-      "title": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
+      "title": "Ukraine-Russia war latest: Conflict will determine future of Europe, Zelensky warns ahead of G7 Summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Ahead of G7, Carney softens tone toward Trump with trade talks at stake",
-      "source_url": "https://abcnews.com/International/wireStory/ahead-g7-carney-softens-tone-trump-trade-talks-133807767"
+      "description": "Ukraine-Russia war latest: Conflict will determine future of Europe, Zelensky warns ahead of G7 Summit",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-crimea-bridge-news-b2994432.html"
     },
     {
-      "title": "Indian PM Modi in France to attend G7 summit",
+      "title": "Will voice aspirations of Global South at G7 summit: PM Modi",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Indian PM Modi in France to attend G7 summit",
-      "source_url": "https://www.france24.com/en/video/20260613-indian-pm-modi-in-france-to-attend-g7-summit"
+      "description": "Will voice aspirations of Global South at G7 summit: PM Modi",
+      "source_url": "https://timesofindia.indiatimes.com/india/will-voice-aspirations-of-global-south-at-g7-summit-pm-modi/articleshow/131712433.cms"
     },
     {
-      "title": "Trump travels to France for the 52nd G7 Summit",
+      "title": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Trump travels to France for the 52nd G7 Summit",
-      "source_url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit"
+      "description": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
+      "source_url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss"
     },
     {
-      "title": "Seven charts that will define France’s G7 summit",
+      "title": "Macron to meet Trump at the Palace of Versailles after G7 summit in France",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Seven charts that will define France’s G7 summit",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/seven-charts-that-will-define-frances-g7-summit"
+      "description": "Macron to meet Trump at the Palace of Versailles after G7 summit in France",
+      "source_url": "https://www.france24.com/en/france/20260613-macron-to-meet-trump-at-the-palace-of-versailles-after-g7-summit-in-france"
     },
     {
-      "title": "Starmer in 'seismic' crisis, UK defense chief quits before high-stakes Trump NATO summit",
-      "organization": "NATO",
+      "title": "Trump’s G7 summit plans include meetings with Middle East leaders on Iran and dinner at Versailles palace",
+      "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Starmer in 'seismic' crisis, UK defense chief quits before high-stakes Trump NATO summit",
-      "source_url": "https://www.foxnews.com/world/starmer-seismic-crisis-uk-defense-chief-quits-high-stakes-trump-nato-summit"
+      "description": "Trump’s G7 summit plans include meetings with Middle East leaders on Iran and dinner at Versailles palace",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-g7-summit-iran-war-middle-east-leaders-versailles-b2995221.html"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Was Kim Jong-un the real winner from Chinese President Xi Jinping’s visit to North Korea?",
+      "participants": [
+        "Kim Jong-un",
+        "Chinese President Xi Jinping’s",
+        "North Korea?"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Was Kim Jong-un the real winner from Chinese President Xi Jinping’s visit to North Korea?",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3357000/was-kim-jong-un-real-winner-chinese-president-xi-jinpings-visit-north-korea"
+    },
     {
       "title": "Trump travels to France for the 52nd G7 Summit",
       "participants": [
@@ -80,6 +92,30 @@
   ],
   "elections": [
     {
+      "title": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
+      "country": "Taiwan",
+      "election_type": "Local",
+      "date": "",
+      "description": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3357002/will-turmoil-around-former-leader-ma-ying-jeou-affect-taiwans-local-elections"
+    },
+    {
+      "title": "Switzerland holds Brexit-style referendum on 10 million population cap",
+      "country": "Switzerland",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Switzerland holds Brexit-style referendum on 10 million population cap",
+      "source_url": "https://www.france24.com/en/europe/20260614-switzerland-holds-brexit-style-referendum-on-10-million-population-cap"
+    },
+    {
+      "title": "Hungary’s former PM Orban re-elected party leader despite election loss",
+      "country": "Hungary",
+      "election_type": "National",
+      "date": "",
+      "description": "Hungary’s former PM Orban re-elected party leader despite election loss",
+      "source_url": "https://www.aljazeera.com/news/2026/6/13/hungarys-former-pm-orban-re-elected-party-leader-despite-election-loss?traffic_source=rss"
+    },
+    {
       "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
       "country": "Iran",
       "election_type": "National",
@@ -94,48 +130,80 @@
       "date": "",
       "description": "Peru’s Photo-Finish Election",
       "source_url": "https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez"
-    },
-    {
-      "title": "Four questions (and expert answers) about Armenia’s elections and what to expect next",
-      "country": "Armenia",
-      "election_type": "National",
-      "date": "",
-      "description": "Four questions (and expert answers) about Armenia’s elections and what to expect next",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/four-questions-and-expert-answers-about-armenias-elections-and-what-to-expect-next"
     }
   ],
   "global_events": [
     {
-      "title": "Lifeguard helps save woman critically injured in Australia shark attack",
-      "summary": "Lifeguard helps save woman critically injured in Australia shark attack",
+      "title": "Woman seriously injured in shark attack at Sydney beach",
+      "summary": "Woman seriously injured in shark attack at Sydney beach",
       "outlets_covering": [
+        "BBC World",
         "ABC News Intl",
         "CBS News World",
         "Sky News World",
+        "Fox News World",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/australia-sydney-coogee-beach-shark-attack-lifeguard-rescue"
+      "source_url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang with help from Venezuela",
-      "summary": "Trump says U.S. military strike killed leader of Tren de Aragua gang with help from Venezuela",
+      "title": "West Asia war LIVE: Trump says U.S.-Iran deal to be signed today, Hormuz to open afterward",
+      "summary": "West Asia war LIVE: Trump says U.S.-Iran deal to be signed today, Hormuz to open afterward",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-ceasefire-peace-deal-donald-trump-mojtaba-khamenei-benjamin-netanyahu-june-14-2026/article71100124.ece"
+    },
+    {
+      "title": "U.S.-Iran peace deal to be signed Sunday, Trump says",
+      "summary": "U.S.-Iran peace deal to be signed Sunday, Trump says",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 33,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement"
+    },
+    {
+      "title": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump's approach to war on drugs",
+      "summary": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump's approach to war on drugs",
       "outlets_covering": [
         "BBC World",
         "NPR World",
-        "The Hindu Intl",
-        "The Hill"
+        "ABC News Intl",
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
       "region": "Latin America",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/trump-says-us-military-strike-killed-leader-of-tren-de-aragua-gang-with-help-from-venezuela/article71096454.ece"
+      "source_url": "https://abcnews.com/International/wireStory/us-strike-tren-de-aragua-leader-venezuela-exemplifies-133851021"
     },
     {
-      "title": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
-      "summary": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
+      "title": "Switzerland to vote on unprecedented proposal to cap population at 10 million by 2050",
+      "summary": "Switzerland to vote on unprecedented proposal to cap population at 10 million by 2050",
       "outlets_covering": [
         "BBC World",
         "NYT World",
@@ -145,37 +213,7 @@
       "coverage_count": 4,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html"
-    },
-    {
-      "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July, as a deal to end the war nears",
-      "summary": "Funeral for slain Iranian Supreme Leader Khamenei set for July, as a deal to end the war nears",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/funeral-slain-iranian-supreme-leader-khamenei-set-july-133841702"
-    },
-    {
-      "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "summary": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel"
+      "source_url": "https://www.independent.co.uk/news/world/europe/switzerland-population-cap-vote-eu-b2995099.html"
     }
   ]
 }
