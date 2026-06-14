@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-06-14T02:40:15.388065Z",
+  "last_updated": "2026-06-14T13:27:53.164365Z",
   "world_org_meetings": [
     {
-      "title": "Ukraine-Russia war latest: Conflict will determine future of Europe, Zelensky warns ahead of G7 Summit",
+      "title": "G7 Summit Overshadowed by Uncertain US-Iran Deal",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Ukraine-Russia war latest: Conflict will determine future of Europe, Zelensky warns ahead of G7 Summit",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-crimea-bridge-news-b2994432.html"
+      "description": "G7 Summit Overshadowed by Uncertain US-Iran Deal",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-06-14/g7-summit-overshadowed-by-uncertain-us-iran-deal-video"
     },
     {
-      "title": "Will voice aspirations of Global South at G7 summit: PM Modi",
+      "title": "G7 meeting begins in France this Monday",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Will voice aspirations of Global South at G7 summit: PM Modi",
-      "source_url": "https://timesofindia.indiatimes.com/india/will-voice-aspirations-of-global-south-at-g7-summit-pm-modi/articleshow/131712433.cms"
+      "description": "G7 meeting begins in France this Monday",
+      "source_url": "https://www.france24.com/en/video/20260614-g7-meeting-begins-in-france-this-monday"
     },
     {
-      "title": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
+      "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
-      "source_url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss"
+      "description": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
+      "source_url": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html"
     },
     {
-      "title": "Macron to meet Trump at the Palace of Versailles after G7 summit in France",
+      "title": "Thousands of protesters expected in Geneva ahead of nearby G7 summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Macron to meet Trump at the Palace of Versailles after G7 summit in France",
-      "source_url": "https://www.france24.com/en/france/20260613-macron-to-meet-trump-at-the-palace-of-versailles-after-g7-summit-in-france"
+      "description": "Thousands of protesters expected in Geneva ahead of nearby G7 summit",
+      "source_url": "https://www.france24.com/en/europe/20260614-thousands-of-protesters-expected-in-geneva-ahead-of-g7-summit"
     },
     {
-      "title": "Trump’s G7 summit plans include meetings with Middle East leaders on Iran and dinner at Versailles palace",
+      "title": "Protests set to grip Geneva ahead of G7 summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Trump’s G7 summit plans include meetings with Middle East leaders on Iran and dinner at Versailles palace",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-g7-summit-iran-war-middle-east-leaders-versailles-b2995221.html"
+      "description": "Protests set to grip Geneva ahead of G7 summit",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/14/world/protests-geneva-g7-summit"
     }
   ],
   "diplomatic_visits": [
@@ -92,6 +92,30 @@
   ],
   "elections": [
     {
+      "title": "Farage vows to ban foreign nationals from social housing as byelection looms",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Farage vows to ban foreign nationals from social housing as byelection looms",
+      "source_url": "https://www.theguardian.com/politics/2026/jun/14/nigel-farage-vows-ban-social-housing-foreign-nationals-makerfield-byelection"
+    },
+    {
+      "title": "World Cup 2026: Australia stun Turkey after selection gamble pays off",
+      "country": "Australia",
+      "election_type": "National",
+      "date": "",
+      "description": "World Cup 2026: Australia stun Turkey after selection gamble pays off",
+      "source_url": "https://www.france24.com/en/sport/20260614-world-cup-2026-australia-stun-turkey-after-selection-gamble-pays-off"
+    },
+    {
+      "title": "Japan eyes responsibility of social media users during elections",
+      "country": "Japan",
+      "election_type": "National",
+      "date": "",
+      "description": "Japan eyes responsibility of social media users during elections",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/14/japan/politics/social-media-users-elections"
+    },
+    {
       "title": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
       "country": "Taiwan",
       "election_type": "Local",
@@ -100,120 +124,103 @@
       "source_url": "https://www.scmp.com/news/china/politics/article/3357002/will-turmoil-around-former-leader-ma-ying-jeou-affect-taiwans-local-elections"
     },
     {
-      "title": "Switzerland holds Brexit-style referendum on 10 million population cap",
-      "country": "Switzerland",
+      "title": "Swiss voters set to reject proposed 10 million population cap in referendum",
+      "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "Switzerland holds Brexit-style referendum on 10 million population cap",
+      "description": "Swiss voters set to reject proposed 10 million population cap in referendum",
       "source_url": "https://www.france24.com/en/europe/20260614-switzerland-holds-brexit-style-referendum-on-10-million-population-cap"
-    },
-    {
-      "title": "Hungary’s former PM Orban re-elected party leader despite election loss",
-      "country": "Hungary",
-      "election_type": "National",
-      "date": "",
-      "description": "Hungary’s former PM Orban re-elected party leader despite election loss",
-      "source_url": "https://www.aljazeera.com/news/2026/6/13/hungarys-former-pm-orban-re-elected-party-leader-despite-election-loss?traffic_source=rss"
-    },
-    {
-      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "country": "Iran",
-      "election_type": "National",
-      "date": "",
-      "description": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "source_url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump"
-    },
-    {
-      "title": "Peru’s Photo-Finish Election",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru’s Photo-Finish Election",
-      "source_url": "https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez"
     }
   ],
   "global_events": [
     {
-      "title": "Woman seriously injured in shark attack at Sydney beach",
-      "summary": "Woman seriously injured in shark attack at Sydney beach",
+      "title": "UK intercepts Russian shadow fleet oil tanker in English Channel",
+      "summary": "UK intercepts Russian shadow fleet oil tanker in English Channel",
       "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "Fox News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "West Asia war LIVE: Trump says U.S.-Iran deal to be signed today, Hormuz to open afterward",
-      "summary": "West Asia war LIVE: Trump says U.S.-Iran deal to be signed today, Hormuz to open afterward",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-ceasefire-peace-deal-donald-trump-mojtaba-khamenei-benjamin-netanyahu-june-14-2026/article71100124.ece"
-    },
-    {
-      "title": "U.S.-Iran peace deal to be signed Sunday, Trump says",
-      "summary": "U.S.-Iran peace deal to be signed Sunday, Trump says",
-      "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "CBC World",
         "ABC News Intl",
-        "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera"
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 33,
-      "region": "Middle East",
+      "coverage_count": 11,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement"
+      "source_url": "https://thehill.com/policy/international/5923297-united-kingdom-russia-oil-tanker-english-channel"
     },
     {
-      "title": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump's approach to war on drugs",
-      "summary": "US strike against Tren de Aragua leader in Venezuela exemplifies Trump's approach to war on drugs",
+      "title": "British forces intercept Russian shadow fleet tanker in the Channel",
+      "summary": "British forces intercept Russian shadow fleet tanker in the Channel",
+      "outlets_covering": [
+        "CBC World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/british-forces-intercept-russian-shadow-fleet-tankers-9.7234841?cmp=rss"
+    },
+    {
+      "title": "Swiss voters set to reject right-wing’s bid to cap population at 10 million",
+      "summary": "Swiss voters set to reject right-wing’s bid to cap population at 10 million",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "The Independent",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/swiss-vote-population-cap-result-b2995422.html"
+    },
+    {
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "summary": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "outlets_covering": [
         "BBC World",
         "NPR World",
+        "CBC World",
         "ABC News Intl",
+        "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/us-strike-tren-de-aragua-leader-venezuela-exemplifies-133851021"
+      "coverage_count": 16,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Switzerland to vote on unprecedented proposal to cap population at 10 million by 2050",
-      "summary": "Switzerland to vote on unprecedented proposal to cap population at 10 million by 2050",
+      "title": "Lifeguard helps save woman critically injured in Australia shark attack",
+      "summary": "Lifeguard helps save woman critically injured in Australia shark attack",
       "outlets_covering": [
-        "BBC World",
-        "NYT World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
         "The Independent",
-        "DW World"
+        "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/switzerland-population-cap-vote-eu-b2995099.html"
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/australia-sydney-coogee-beach-shark-attack-lifeguard-rescue"
     }
   ]
 }
