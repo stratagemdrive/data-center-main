@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-06-14T13:27:53.164365Z",
+  "last_updated": "2026-06-15T02:44:53.771908Z",
   "world_org_meetings": [
     {
-      "title": "G7 Summit Overshadowed by Uncertain US-Iran Deal",
+      "title": "Geneva police clash with anti-G7 protesters ahead of summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "G7 Summit Overshadowed by Uncertain US-Iran Deal",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-06-14/g7-summit-overshadowed-by-uncertain-us-iran-deal-video"
+      "description": "Geneva police clash with anti-G7 protesters ahead of summit",
+      "source_url": "https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132"
     },
     {
-      "title": "G7 meeting begins in France this Monday",
+      "title": "Inside Trump's trip to the G7 Summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "G7 meeting begins in France this Monday",
-      "source_url": "https://www.france24.com/en/video/20260614-g7-meeting-begins-in-france-this-monday"
+      "description": "Inside Trump's trip to the G7 Summit",
+      "source_url": "https://www.cbsnews.com/video/inside-trumps-trip-to-the-g7-summit"
     },
     {
-      "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
+      "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
-      "source_url": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html"
+      "description": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss"
     },
     {
-      "title": "Thousands of protesters expected in Geneva ahead of nearby G7 summit",
+      "title": "Canadian PM Mark Carney celebrates Irish roots as he warns of ‘global rupture’ ahead of G7 meeting",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Thousands of protesters expected in Geneva ahead of nearby G7 summit",
-      "source_url": "https://www.france24.com/en/europe/20260614-thousands-of-protesters-expected-in-geneva-ahead-of-g7-summit"
+      "description": "Canadian PM Mark Carney celebrates Irish roots as he warns of ‘global rupture’ ahead of G7 meeting",
+      "source_url": "https://www.independent.co.uk/news/world/europe/mark-carney-ireland-g7-meeting-b2995534.html"
     },
     {
-      "title": "Protests set to grip Geneva ahead of G7 summit",
+      "title": "Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Protests set to grip Geneva ahead of G7 summit",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/14/world/protests-geneva-g7-summit"
+      "description": "Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday",
+      "source_url": "https://www.foxnews.com/world/zelenskyy-congratulates-trump-turning-80-birthday-call-vows-ukraine-peace-talks-g7-tuesday"
     }
   ],
   "diplomatic_visits": [
@@ -92,28 +92,12 @@
   ],
   "elections": [
     {
-      "title": "Farage vows to ban foreign nationals from social housing as byelection looms",
+      "title": "In Makerfield for the byelection that could change everything - podcast",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Farage vows to ban foreign nationals from social housing as byelection looms",
-      "source_url": "https://www.theguardian.com/politics/2026/jun/14/nigel-farage-vows-ban-social-housing-foreign-nationals-makerfield-byelection"
-    },
-    {
-      "title": "World Cup 2026: Australia stun Turkey after selection gamble pays off",
-      "country": "Australia",
-      "election_type": "National",
-      "date": "",
-      "description": "World Cup 2026: Australia stun Turkey after selection gamble pays off",
-      "source_url": "https://www.france24.com/en/sport/20260614-world-cup-2026-australia-stun-turkey-after-selection-gamble-pays-off"
-    },
-    {
-      "title": "Japan eyes responsibility of social media users during elections",
-      "country": "Japan",
-      "election_type": "National",
-      "date": "",
-      "description": "Japan eyes responsibility of social media users during elections",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/14/japan/politics/social-media-users-elections"
+      "description": "In Makerfield for the byelection that could change everything - podcast",
+      "source_url": "https://www.theguardian.com/news/audio/2026/jun/15/in-makerfield-for-the-byelection-that-could-change-everything-podcast"
     },
     {
       "title": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
@@ -124,44 +108,49 @@
       "source_url": "https://www.scmp.com/news/china/politics/article/3357002/will-turmoil-around-former-leader-ma-ying-jeou-affect-taiwans-local-elections"
     },
     {
-      "title": "Swiss voters set to reject proposed 10 million population cap in referendum",
-      "country": "",
-      "election_type": "Referendum",
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "country": "Iran",
+      "election_type": "National",
       "date": "",
-      "description": "Swiss voters set to reject proposed 10 million population cap in referendum",
-      "source_url": "https://www.france24.com/en/europe/20260614-switzerland-holds-brexit-style-referendum-on-10-million-population-cap"
+      "description": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "source_url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump"
+    },
+    {
+      "title": "Peru’s Photo-Finish Election",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru’s Photo-Finish Election",
+      "source_url": "https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez"
     }
   ],
   "global_events": [
     {
-      "title": "UK intercepts Russian shadow fleet oil tanker in English Channel",
-      "summary": "UK intercepts Russian shadow fleet oil tanker in English Channel",
+      "title": "Swiss voters reject 10 million population cap",
+      "summary": "Swiss voters reject 10 million population cap",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "DW World",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
+      "summary": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
       "outlets_covering": [
         "NPR World",
         "CBC World",
         "ABC News Intl",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 11,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/5923297-united-kingdom-russia-oil-tanker-english-channel"
-    },
-    {
-      "title": "British forces intercept Russian shadow fleet tanker in the Channel",
-      "summary": "British forces intercept Russian shadow fleet tanker in the Channel",
-      "outlets_covering": [
-        "CBC World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
         "France24",
         "Japan Times",
         "The Hindu Intl",
@@ -170,42 +159,7 @@
       "coverage_count": 9,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/british-forces-intercept-russian-shadow-fleet-tankers-9.7234841?cmp=rss"
-    },
-    {
-      "title": "Swiss voters set to reject right-wing’s bid to cap population at 10 million",
-      "summary": "Swiss voters set to reject right-wing’s bid to cap population at 10 million",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "The Independent",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/swiss-vote-population-cap-result-b2995422.html"
-    },
-    {
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "summary": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
     },
     {
       "title": "Lifeguard helps save woman critically injured in Australia shark attack",
@@ -221,6 +175,37 @@
       "region": "Global",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/news/australia-sydney-coogee-beach-shark-attack-lifeguard-rescue"
+    },
+    {
+      "title": "U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks",
+      "summary": "U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks",
+      "outlets_covering": [
+        "NBC News World",
+        "NYT World",
+        "Time",
+        "Axios"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/06/14/world/middleeast/us-iran-deal-strait-of-hormuz.html"
+    },
+    {
+      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "summary": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "France24",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
