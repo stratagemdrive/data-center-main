@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T02:44:53.771908Z",
+  "last_updated": "2026-06-15T16:57:11.084795Z",
   "world_org_meetings": [
     {
       "title": "Geneva police clash with anti-G7 protesters ahead of summit",
@@ -10,36 +10,36 @@
       "source_url": "https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132"
     },
     {
-      "title": "Inside Trump's trip to the G7 Summit",
+      "title": "Live updates: US-Iran agreement faces scrutiny; Trump arrives at G7 summit, fresh off UFC night",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Inside Trump's trip to the G7 Summit",
-      "source_url": "https://www.cbsnews.com/video/inside-trumps-trip-to-the-g7-summit"
+      "description": "Live updates: US-Iran agreement faces scrutiny; Trump arrives at G7 summit, fresh off UFC night",
+      "source_url": "https://thehill.com/homenews/5923274-live-updates-donald-trump-iran-g7"
     },
     {
-      "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+      "title": "G7 summit: 'Pressure will be on leaders to show support for Ukraine'",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss"
+      "description": "G7 summit: 'Pressure will be on leaders to show support for Ukraine'",
+      "source_url": "https://www.france24.com/en/video/20260615-g7-summit-pressure-will-be-on-leaders-to-show-support-for-ukraine"
     },
     {
-      "title": "Canadian PM Mark Carney celebrates Irish roots as he warns of ‘global rupture’ ahead of G7 meeting",
+      "title": "G7 Summit 2026 begins in Évian: Key leaders, dates, and venue details",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Canadian PM Mark Carney celebrates Irish roots as he warns of ‘global rupture’ ahead of G7 meeting",
-      "source_url": "https://www.independent.co.uk/news/world/europe/mark-carney-ireland-g7-meeting-b2995534.html"
+      "description": "G7 Summit 2026 begins in Évian: Key leaders, dates, and venue details",
+      "source_url": "https://www.thehindu.com/news/international/g7-summit-2026-begins-in-evian-key-leaders-countries-dates-and-venue-details/article71104781.ece"
     },
     {
-      "title": "Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday",
+      "title": "The Latest: G7 leaders likely to discuss Iran and Ukraine at summit in France",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday",
-      "source_url": "https://www.foxnews.com/world/zelenskyy-congratulates-trump-turning-80-birthday-call-vows-ukraine-peace-talks-g7-tuesday"
+      "description": "The Latest: G7 leaders likely to discuss Iran and Ukraine at summit in France",
+      "source_url": "https://www.independent.co.uk/news/world/europe/emmanuel-macron-donald-trump-iran-french-keir-starmer-b2995951.html"
     }
   ],
   "diplomatic_visits": [
@@ -54,18 +54,6 @@
       "location": "",
       "description": "Was Kim Jong-un the real winner from Chinese President Xi Jinping’s visit to North Korea?",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3357000/was-kim-jong-un-real-winner-chinese-president-xi-jinpings-visit-north-korea"
-    },
-    {
-      "title": "Trump travels to France for the 52nd G7 Summit",
-      "participants": [
-        "Trump",
-        "France",
-        "Summit"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump travels to France for the 52nd G7 Summit",
-      "source_url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit"
     },
     {
       "title": "EXCLUSIVE: Serbian President Vučić says support for US 'surged' under Trump, invites him to visit Belgrade",
@@ -91,14 +79,6 @@
     }
   ],
   "elections": [
-    {
-      "title": "In Makerfield for the byelection that could change everything - podcast",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "In Makerfield for the byelection that could change everything - podcast",
-      "source_url": "https://www.theguardian.com/news/audio/2026/jun/15/in-makerfield-for-the-byelection-that-could-change-everything-podcast"
-    },
     {
       "title": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
       "country": "Taiwan",
@@ -126,18 +106,35 @@
   ],
   "global_events": [
     {
+      "title": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
+      "summary": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "DW World"
+      ],
+      "coverage_count": 39,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou"
+    },
+    {
       "title": "Swiss voters reject 10 million population cap",
       "summary": "Swiss voters reject 10 million population cap",
       "outlets_covering": [
         "BBC World",
         "NYT World",
-        "The Guardian World",
-        "The Independent",
         "DW World",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 4,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
@@ -146,66 +143,48 @@
       "title": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
       "summary": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
       "outlets_covering": [
-        "NPR World",
         "CBC World",
         "ABC News Intl",
         "NBC News World",
         "NYT World",
-        "France24",
-        "Japan Times",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 9,
+      "coverage_count": 7,
       "region": "Europe / Russia",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
     },
     {
-      "title": "Lifeguard helps save woman critically injured in Australia shark attack",
-      "summary": "Lifeguard helps save woman critically injured in Australia shark attack",
+      "title": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
+      "summary": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
       "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/australia-sydney-coogee-beach-shark-attack-lifeguard-rescue"
-    },
-    {
-      "title": "U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks",
-      "summary": "U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks",
-      "outlets_covering": [
-        "NBC News World",
         "NYT World",
         "Time",
-        "Axios"
+        "Al Jazeera"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 3,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/06/14/world/middleeast/us-iran-deal-strait-of-hormuz.html"
+      "source_url": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html"
     },
     {
-      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
-      "summary": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "title": "Ukraine: Kyiv's historic cathedral set ablaze in Russian attack",
+      "summary": "Ukraine: Kyiv's historic cathedral set ablaze in Russian attack",
       "outlets_covering": [
         "BBC World",
-        "NBC News World",
+        "CBC World",
+        "The Guardian World",
+        "Wash Post World",
+        "Al Jazeera",
+        "DW World",
         "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260615-ukraine-kyiv-s-historic-cathedral-set-ablaze-in-russian-attack"
     }
   ]
 }
