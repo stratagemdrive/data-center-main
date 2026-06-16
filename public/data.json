@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-06-15T16:57:11.084795Z",
+  "last_updated": "2026-06-16T02:47:10.643875Z",
   "world_org_meetings": [
     {
-      "title": "Geneva police clash with anti-G7 protesters ahead of summit",
+      "title": "Trump arrives in France for G7 leaders summit, touting peace deal with Iran",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Geneva police clash with anti-G7 protesters ahead of summit",
-      "source_url": "https://news.sky.com/story/protesters-clash-with-police-in-geneva-ahead-of-g7-summit-in-france-13554132"
+      "description": "Trump arrives in France for G7 leaders summit, touting peace deal with Iran",
+      "source_url": "https://www.npr.org/2026/06/15/nx-s1-5859257/trump-arrives-in-france-for-g7-leaders-summit-touting-peace-deal-with-iran"
     },
     {
-      "title": "Live updates: US-Iran agreement faces scrutiny; Trump arrives at G7 summit, fresh off UFC night",
+      "title": "Live updates: US-Iran agreement faces scrutiny; Trump, Macron meet at G7 summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Live updates: US-Iran agreement faces scrutiny; Trump arrives at G7 summit, fresh off UFC night",
+      "description": "Live updates: US-Iran agreement faces scrutiny; Trump, Macron meet at G7 summit",
       "source_url": "https://thehill.com/homenews/5923274-live-updates-donald-trump-iran-g7"
-    },
-    {
-      "title": "G7 summit: 'Pressure will be on leaders to show support for Ukraine'",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "G7 summit: 'Pressure will be on leaders to show support for Ukraine'",
-      "source_url": "https://www.france24.com/en/video/20260615-g7-summit-pressure-will-be-on-leaders-to-show-support-for-ukraine"
     },
     {
       "title": "G7 Summit 2026 begins in Évian: Key leaders, dates, and venue details",
@@ -40,9 +32,29 @@
       "location": "",
       "description": "The Latest: G7 leaders likely to discuss Iran and Ukraine at summit in France",
       "source_url": "https://www.independent.co.uk/news/world/europe/emmanuel-macron-donald-trump-iran-french-keir-starmer-b2995951.html"
+    },
+    {
+      "title": "Indian outrage over US killing of sailors mounts as leaders attend G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Indian outrage over US killing of sailors mounts as leaders attend G7 summit",
+      "source_url": "https://www.theguardian.com/world/2026/jun/15/indian-outrage-over-us-killing-of-sailors-mounts-as-leaders-attend-g7-summit"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "After India trip, Myanmar President Min arrives in China on five-day visit",
+      "participants": [
+        "India",
+        "Myanmar President Min",
+        "China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "After India trip, Myanmar President Min arrives in China on five-day visit",
+      "source_url": "https://www.thehindu.com/news/international/after-india-trip-myanmar-president-min-arrives-in-china-on-five-day-visit/article71106286.ece"
+    },
     {
       "title": "Was Kim Jong-un the real winner from Chinese President Xi Jinping’s visit to North Korea?",
       "participants": [
@@ -56,18 +68,6 @@
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3357000/was-kim-jong-un-real-winner-chinese-president-xi-jinpings-visit-north-korea"
     },
     {
-      "title": "EXCLUSIVE: Serbian President Vučić says support for US 'surged' under Trump, invites him to visit Belgrade",
-      "participants": [
-        "EXCLUSIVE Serbian President Vučić",
-        "Trump",
-        "Belgrade"
-      ],
-      "date": "",
-      "location": "",
-      "description": "EXCLUSIVE: Serbian President Vučić says support for US 'surged' under Trump, invites him to visit Belgrade",
-      "source_url": "https://www.foxnews.com/world/exclusive-serbian-president-vucic-says-support-us-surged-under-trump-invites-him-visit-belgrade"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -79,6 +79,14 @@
     }
   ],
   "elections": [
+    {
+      "title": "Peru election is one of Latin America’s closest votes",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru election is one of Latin America’s closest votes",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/16/world/politics/peru-election-latin-america-closest-votes"
+    },
     {
       "title": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
       "country": "Taiwan",
@@ -94,21 +102,29 @@
       "date": "",
       "description": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
       "source_url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump"
-    },
-    {
-      "title": "Peru’s Photo-Finish Election",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Peru’s Photo-Finish Election",
-      "source_url": "https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez"
     }
   ],
   "global_events": [
     {
-      "title": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
-      "summary": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
+      "title": "8 presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
+      "summary": "8 presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
       "outlets_covering": [
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece"
+    },
+    {
+      "title": "Will the Iran Deal Stick?",
+      "summary": "Will the Iran Deal Stick?",
+      "outlets_covering": [
+        "BBC World",
         "CBC World",
         "CBS News World",
         "NBC News World",
@@ -116,75 +132,68 @@
         "The Guardian World",
         "Wash Post World",
         "Bloomberg",
-        "The Independent",
         "Al Jazeera",
-        "DW World"
+        "France24"
       ],
-      "coverage_count": 39,
+      "coverage_count": 44,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou"
-    },
-    {
-      "title": "Swiss voters reject 10 million population cap",
-      "summary": "Swiss voters reject 10 million population cap",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
-      "summary": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "NBC News World",
-        "NYT World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
-    },
-    {
-      "title": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
-      "summary": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
-      "outlets_covering": [
-        "NYT World",
-        "Time",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html"
+      "source_url": "https://www.nytimes.com/2026/06/15/world/iran-deal-cape-verde-world-cup.html"
     },
     {
       "title": "Ukraine: Kyiv's historic cathedral set ablaze in Russian attack",
       "summary": "Ukraine: Kyiv's historic cathedral set ablaze in Russian attack",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "The Guardian World",
         "Wash Post World",
-        "Al Jazeera",
         "DW World",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 5,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.france24.com/en/video/20260615-ukraine-kyiv-s-historic-cathedral-set-ablaze-in-russian-attack"
+    },
+    {
+      "title": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+      "summary": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "NBC News World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 14,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss"
+    },
+    {
+      "title": "The U.S. and Iran's deal to make a deal | About That",
+      "summary": "The U.S. and Iran's deal to make a deal | About That",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 44,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/player/play/9.7236520?cmp=rss"
     }
   ]
 }
