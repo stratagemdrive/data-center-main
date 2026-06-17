@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-06-16T16:23:13.256209Z",
+  "last_updated": "2026-06-17T02:43:51.092583Z",
   "world_org_meetings": [
+    {
+      "title": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-leaders-of-uk-uae-on-the-sidelines-of-g7-summit/article71110678.ece"
+    },
+    {
+      "title": "Trump slams Israel, praises Iran at G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Trump slams Israel, praises Iran at G7 summit",
+      "source_url": "https://www.cbsnews.com/video/trump-slams-israel-praises-iran-g7-summit"
+    },
+    {
+      "title": "Who Are the Leaders at the G7 Summit in France?",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Who Are the Leaders at the G7 Summit in France?",
+      "source_url": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html"
+    },
+    {
+      "title": "G7 leaders express optimism for peace after Trump’s ‘very good’ Zelenskyy meeting",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "G7 leaders express optimism for peace after Trump’s ‘very good’ Zelenskyy meeting",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/17/world/politics/g7-optimism-trump-zelenskyy-meeting"
+    },
     {
       "title": "Ukraine-Russia war latest: Trump tells Putin to ‘make a deal’ to end war as US president meets with Zelensky at G7 summit",
       "organization": "G7",
@@ -8,41 +40,55 @@
       "location": "",
       "description": "Ukraine-Russia war latest: Trump tells Putin to ‘make a deal’ to end war as US president meets with Zelensky at G7 summit",
       "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-ceasefire-b2996300.html"
-    },
-    {
-      "title": "Trump arrives in France for G7 leaders summit, touting peace deal with Iran",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Trump arrives in France for G7 leaders summit, touting peace deal with Iran",
-      "source_url": "https://www.npr.org/2026/06/15/nx-s1-5859257/trump-arrives-in-france-for-g7-leaders-summit-touting-peace-deal-with-iran"
-    },
-    {
-      "title": "Live Updates: At G7 Summit, Trump Says Ukraine War Has ‘No Impact’ on U.S.",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Live Updates: At G7 Summit, Trump Says Ukraine War Has ‘No Impact’ on U.S.",
-      "source_url": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france"
-    },
-    {
-      "title": "Trump’s History at G7 Summits: Strained Ties and Early Exits",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Trump’s History at G7 Summits: Strained Ties and Early Exits",
-      "source_url": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-summit-history.html"
-    },
-    {
-      "title": "G7 Summit Day 1 LIVE: PM Modi holds brief conversation with U.S. President Trump",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "G7 Summit Day 1 LIVE: PM Modi holds brief conversation with U.S. President Trump",
-      "source_url": "https://www.thehindu.com/news/international/g7-summit-2026-france-day-1-leaders-discuss-west-asia-conflict-ukraine-russia-war-live-updates-june-16-2026/article71107789.ece"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
+      "participants": [
+        "Modi",
+        "U.K UAE",
+        "Summit"
+      ],
+      "date": "",
+      "location": "",
+      "description": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-leaders-of-uk-uae-on-the-sidelines-of-g7-summit/article71110678.ece"
+    },
+    {
+      "title": "Somaliland president visits Israeli Knesset on tour",
+      "participants": [
+        "Somaliland",
+        "Israeli Knesset"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Somaliland president visits Israeli Knesset on tour",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss"
+    },
+    {
+      "title": "‘I know what you’ve been through’: FIFA president visits Iran team",
+      "participants": [
+        "FIFA",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "‘I know what you’ve been through’: FIFA president visits Iran team",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss"
+    },
+    {
+      "title": "G7 Summit: Modi holds talks with Canada’s Carney, aims to visit Canada by year end, sign trade deal soon",
+      "participants": [
+        "Summit Modi",
+        "Canada’s Carney",
+        "Canada"
+      ],
+      "date": "",
+      "location": "",
+      "description": "G7 Summit: Modi holds talks with Canada’s Carney, aims to visit Canada by year end, sign trade deal soon",
+      "source_url": "https://www.thehindu.com/news/national/g7-summit-modi-holds-talks-with-canadas-carney-aims-to-visit-canada-by-year-end-sign-trade-deal-soon/article71110554.ece"
+    },
     {
       "title": "Was Kim Jong-un the real winner from Chinese President Xi Jinping’s visit to North Korea?",
       "participants": [
@@ -54,34 +100,16 @@
       "location": "",
       "description": "Was Kim Jong-un the real winner from Chinese President Xi Jinping’s visit to North Korea?",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3357000/was-kim-jong-un-real-winner-chinese-president-xi-jinpings-visit-north-korea"
-    },
-    {
-      "title": "Cover Story newsletter: The summit of suspicion",
-      "participants": [
-        "Cover Story"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Cover Story newsletter: The summit of suspicion",
-      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
     {
-      "title": "US judge recuses herself in Georgia election case after having sex with officer in chambers",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "US judge recuses herself in Georgia election case after having sex with officer in chambers",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/16/judge-recuses-georgia-election-case"
-    },
-    {
-      "title": "AIMIM's alliance politics: Owaisi sets stage to do a Bihar in Uttar Pradesh assembly elections",
+      "title": "Hillary Clinton: Biden reelection campaign a ‘terrible mistake’",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "AIMIM's alliance politics: Owaisi sets stage to do a Bihar in Uttar Pradesh assembly elections",
-      "source_url": "https://timesofindia.indiatimes.com/india/aimims-alliance-politics-owaisi-sets-stage-to-do-a-bihar-in-uttar-pradesh-assembly-elections/articleshow/131765799.cms"
+      "description": "Hillary Clinton: Biden reelection campaign a ‘terrible mistake’",
+      "source_url": "https://thehill.com/homenews/campaign/5926819-biden-hillary-clinton-2024-election"
     },
     {
       "title": "An explosion of AI deepfakes is redefining American elections",
@@ -98,96 +126,89 @@
       "date": "",
       "description": "Will turmoil around former leader Ma Ying-jeou affect Taiwan’s local elections?",
       "source_url": "https://www.scmp.com/news/china/politics/article/3357002/will-turmoil-around-former-leader-ma-ying-jeou-affect-taiwans-local-elections"
-    },
-    {
-      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "country": "Iran",
-      "election_type": "National",
-      "date": "",
-      "description": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "source_url": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump"
     }
   ],
   "global_events": [
+    {
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "summary": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russian Artist Critical of Putin Is Fatally Shot in Poland",
+      "summary": "Russian Artist Critical of Putin Is Fatally Shot in Poland",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "The Independent"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/06/16/world/europe/russian-artist-putin-killed-poland.html"
+    },
     {
       "title": "U.S.-Iran peace deal: what we know so far?",
       "summary": "U.S.-Iran peace deal: what we know so far?",
       "outlets_covering": [
         "NPR World",
         "CBC World",
-        "CBS News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
         "Bloomberg",
         "The Independent",
-        "France24",
-        "The Hindu Intl"
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 26,
+      "coverage_count": 24,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/us-israel-iran-war-peace-ceasefire-deal-washington-tehran-israel-strikes-on-hezbollah-beirut-strait-of-hormuz-what-we-know-so-far/article71103645.ece"
     },
     {
-      "title": "FBI thwarted plot targeting White House UFC event, Patel says",
-      "summary": "FBI thwarted plot targeting White House UFC event, Patel says",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "summary": "Group planned to attack White House UFC event using snipers and drones, FBI says",
       "outlets_covering": [
         "BBC World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "The Hill"
+        "CBC World",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "Global",
       "category": "Conflict",
       "source_url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump says after Zelensky meeting Russia should make peace deal",
-      "summary": "Trump says after Zelensky meeting Russia should make peace deal",
-      "outlets_covering": [
-        "CBC World",
-        "The Independent",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/5926214-trump-pushes-russia-ukraine-peace-deal"
-    },
-    {
-      "title": "Iran says Israel must withdraw from Lebanon to sign tentative deal to end war with U.S.",
-      "summary": "Iran says Israel must withdraw from Lebanon to sign tentative deal to end war with U.S.",
+      "title": "Eight presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
+      "summary": "Eight presumed dead after B-52 bomber crashes at U.S. Air Force base in California",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
         "The Independent",
-        "The Hindu Intl",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
+      "coverage_count": 3,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/iran-war-united-states-israel-lebanon-deal-9.7237094?cmp=rss"
-    },
-    {
-      "title": "Russian artist who mocked Vladimir Putin shot dead in Poland",
-      "summary": "Russian artist who mocked Vladimir Putin shot dead in Poland",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "The Guardian World",
-        "The Independent"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/russian-artist-shot-dead-poland-b2996709.html"
+      "source_url": "https://www.thehindu.com/news/international/8-presumed-dead-after-b-52-bomber-crashes-at-us-air-force-base-in-california/article71106793.ece"
     }
   ]
 }
