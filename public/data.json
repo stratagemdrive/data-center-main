@@ -1,48 +1,84 @@
 {
-  "last_updated": "2026-06-17T14:50:11.855115Z",
+  "last_updated": "2026-06-18T02:40:34.253138Z",
   "world_org_meetings": [
     {
-      "title": "Emmanuel Macron speaks at G7 summit after leaders agree ‘new steps to put pressure’ on Russia – Europe live",
+      "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Emmanuel Macron speaks at G7 summit after leaders agree ‘new steps to put pressure’ on Russia – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates"
+      "description": "U.S. Details Agreement With Iran as Trump Departs G7 Summit",
+      "source_url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france"
     },
     {
-      "title": "Watch live: Macron says G7 summit a 'moment of unity' after months of 'disagreements'",
-      "organization": "G7",
+      "title": "NATO wants 'credible' spending plans from members at next month's summit",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Watch live: Macron says G7 summit a 'moment of unity' after months of 'disagreements'",
-      "source_url": "https://www.france24.com/en/france/20260617-follow-live-macron-wraps-g7-summit-evian-les-bains"
+      "description": "NATO wants 'credible' spending plans from members at next month's summit",
+      "source_url": "https://www.cbc.ca/news/politics/nato-spending-defence-canada-us-criticism-9.7239006?cmp=rss"
     },
     {
-      "title": "G7 Summit Day 2 LIVE: India-EU free trade deal to be inked by year-end, says Ursula von der Leyen",
+      "title": "G7 Summit Day 2 highlights: India always on side of peace, places humanity over everything else, says Modi",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "G7 Summit Day 2 LIVE: India-EU free trade deal to be inked by year-end, says Ursula von der Leyen",
+      "description": "G7 Summit Day 2 highlights: India always on side of peace, places humanity over everything else, says Modi",
       "source_url": "https://www.thehindu.com/news/international/g7-summit-france-day-2-leaders-discuss-west-asia-conflict-ukraine-russia-war-live-updates-june-17-2026/article71111954.ece"
     },
     {
-      "title": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
+      "title": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss"
+      "description": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
+      "source_url": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html"
     },
     {
-      "title": "Watch live: Trump holds G7 press conference amid Iran deal blowback",
+      "title": "Trump on arrival at G7 meeting: ‘I’m the boss’",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "Watch live: Trump holds G7 press conference amid Iran deal blowback",
-      "source_url": "https://thehill.com/video-clips/5927689-trump-press-conference-g7-iran"
+      "description": "Trump on arrival at G7 meeting: ‘I’m the boss’",
+      "source_url": "https://thehill.com/homenews/administration/5928174-trump-g7-summit-boss"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "PM Modi seeks 'highest priority' for seafarers in W Asia peace deal in meeting with Trump; US president reiterates he ended 8 wars, mentions G2",
+      "participants": [
+        "Modi",
+        "Asia",
+        "Trump US"
+      ],
+      "date": "",
+      "location": "",
+      "description": "PM Modi seeks 'highest priority' for seafarers in W Asia peace deal in meeting with Trump; US president reiterates he ended 8 wars, mentions G2",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-seeks-highest-priority-for-seafarers-in-w-asia-peace-deal-in-meeting-with-trump-us-president-reiterates-he-ended-8-wars-mentions-g2/articleshow/131812429.cms"
+    },
+    {
+      "title": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
+      "participants": [
+        "Trump Upends G7 Summit",
+        "Statements",
+        "Iran Deal",
+        "Ukraine"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
+      "source_url": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html"
+    },
+    {
+      "title": "Carney: Lack of bilateral meeting with Trump at G7 not a snub",
+      "participants": [
+        "Carney Lack",
+        "Trump"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Carney: Lack of bilateral meeting with Trump at G7 not a snub",
+      "source_url": "https://thehill.com/policy/international/5927982-trump-carney-g7-canada-usmca"
+    },
     {
       "title": "PM Modi, German Chancellor Merz hold bilateral talks on trade and defence",
       "participants": [
@@ -64,63 +100,9 @@
       "location": "",
       "description": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
       "source_url": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-leaders-of-uk-uae-on-the-sidelines-of-g7-summit/article71110678.ece"
-    },
-    {
-      "title": "G7 Summit: Modi holds talks with Canada’s Carney, aims to visit Canada by year end, sign trade deal soon",
-      "participants": [
-        "Summit Modi",
-        "Canada’s Carney",
-        "Canada"
-      ],
-      "date": "",
-      "location": "",
-      "description": "G7 Summit: Modi holds talks with Canada’s Carney, aims to visit Canada by year end, sign trade deal soon",
-      "source_url": "https://www.thehindu.com/news/national/g7-summit-modi-holds-talks-with-canadas-carney-aims-to-visit-canada-by-year-end-sign-trade-deal-soon/article71110554.ece"
-    },
-    {
-      "title": "Cover Story newsletter: The summit of suspicion",
-      "participants": [
-        "Cover Story"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Cover Story newsletter: The summit of suspicion",
-      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
-    {
-      "title": "Labour MP pushes Burnham to launch leadership bid ‘really quickly’ after Makerfield byelection result – UK politics live",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Labour MP pushes Burnham to launch leadership bid ‘really quickly’ after Makerfield byelection result – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/jun/17/keir-starmer-labour-leadership-contest-andy-burnham-makerfield-byelection-wes-streeting-latest-news-updates"
-    },
-    {
-      "title": "Makerfield: the local election that could change the UK",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Makerfield: the local election that could change the UK",
-      "source_url": "https://www.france24.com/en/video/20260617-makerfield-the-local-election-that-could-change-the-uk"
-    },
-    {
-      "title": "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
-      "source_url": "https://www.aljazeera.com/news/2026/6/17/why-uks-makerfield-by-election-matters-far-beyond-one-parliamentary-seat?traffic_source=rss"
-    },
-    {
-      "title": "Hillary Clinton: Biden reelection campaign a ‘terrible mistake’",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Hillary Clinton: Biden reelection campaign a ‘terrible mistake’",
-      "source_url": "https://thehill.com/homenews/campaign/5926819-biden-hillary-clinton-2024-election"
-    },
     {
       "title": "An explosion of AI deepfakes is redefining American elections",
       "country": "",
@@ -132,90 +114,94 @@
   ],
   "global_events": [
     {
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "summary": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "title": "Read the 14 points of the agreement between Iran and the U.S.",
+      "summary": "Read the 14 points of the agreement between Iran and the U.S.",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "ABC News Intl",
+        "CBS News World",
         "NBC News World",
-        "Sky News World",
-        "NYT World",
+        "Time",
         "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 9,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Russian artist and outspoken Putin critic shot dead days after protest",
-      "summary": "Russian artist and outspoken Putin critic shot dead days after protest",
-      "outlets_covering": [
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-artist-and-outspoken-putin-critic-shot-dead-days-after-protest?traffic_source=rss"
-    },
-    {
-      "title": "G7 leaders back Trump on plan to end Iran war",
-      "summary": "G7 leaders back Trump on plan to end Iran war",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/5927886-g7-leaders-support-trump-iran"
-    },
-    {
-      "title": "Trump says Iran deal not final, will resume bombing \"if they don't behave\"",
-      "summary": "Trump says Iran deal not final, will resume bombing \"if they don't behave\"",
-      "outlets_covering": [
-        "CBS News World",
-        "The Guardian World",
-        "Wash Post World",
         "The Hindu Intl",
         "SCMP",
         "Foreign Policy",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-israel"
-    },
-    {
-      "title": "Israeli air strikes on Lebanon continue despite US-Iran deal",
-      "summary": "Israeli air strikes on Lebanon continue despite US-Iran deal",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss"
+      "source_url": "https://www.cbsnews.com/news/us-iran-deal-memorandum-of-understanding-text"
+    },
+    {
+      "title": "U.S.-Iran Memorandum of Understanding: Full Text",
+      "summary": "U.S.-Iran Memorandum of Understanding: Full Text",
+      "outlets_covering": [
+        "NBC News World",
+        "Time",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "Axios"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://foreignpolicy.com/2026/06/17/trump-us-iran-memorandum-of-understanding-mou-deal-read-full-text"
+    },
+    {
+      "title": "Russian artist who mocked Vladimir Putin shot dead in Poland",
+      "summary": "Russian artist who mocked Vladimir Putin shot dead in Poland",
+      "outlets_covering": [
+        "CBS News World",
+        "Sky News World",
+        "NYT World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/russian-artist-putin-poland-semyon-skrepetsky-dead-b2997115.html"
+    },
+    {
+      "title": "West Asia LIVE: Trump, Iran’s President sign deal to end West Asia war",
+      "summary": "West Asia LIVE: Trump, Iran’s President sign deal to end West Asia war",
+      "outlets_covering": [
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 25,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-israel-conflict-strait-of-hormuz-washington-tehran-sign-peace-deal-live-updates-june-18-2026/article71116282.ece"
+    },
+    {
+      "title": "Trump says he has signed peace deal with Iran at Versailles – US politics live",
+      "summary": "Trump says he has signed peace deal with Iran at Versailles – US politics live",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 40,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
     }
   ]
 }
