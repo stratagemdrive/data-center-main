@@ -1,60 +1,48 @@
 {
-  "last_updated": "2026-06-18T02:40:34.253138Z",
+  "last_updated": "2026-06-18T14:46:39.690920Z",
   "world_org_meetings": [
     {
-      "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "U.S. Details Agreement With Iran as Trump Departs G7 Summit",
-      "source_url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france"
-    },
-    {
-      "title": "NATO wants 'credible' spending plans from members at next month's summit",
+      "title": "Trump’s war secretary tears into UK’s lack of defence plan as Dan Jarvis arrives at Nato summit empty-handed",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "NATO wants 'credible' spending plans from members at next month's summit",
-      "source_url": "https://www.cbc.ca/news/politics/nato-spending-defence-canada-us-criticism-9.7239006?cmp=rss"
+      "description": "Trump’s war secretary tears into UK’s lack of defence plan as Dan Jarvis arrives at Nato summit empty-handed",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-war-nato-spending-europe-hegseth-b2998173.html"
     },
     {
-      "title": "G7 Summit Day 2 highlights: India always on side of peace, places humanity over everything else, says Modi",
+      "title": "Ukraine launches large drone attack on Moscow ahead of NATO meeting",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Ukraine launches large drone attack on Moscow ahead of NATO meeting",
+      "source_url": "https://www.france24.com/en/ukraine-launches-large-drone-attack-on-moscow-ahead-of-nato-meeting"
+    },
+    {
+      "title": "Hegseth lashes out against European Nato allies ahead of summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Hegseth lashes out against European Nato allies ahead of summit",
+      "source_url": "https://www.france24.com/en/hegseth-lashes-out-against-european-nato-allies-ahead-of-summit"
+    },
+    {
+      "title": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
+      "organization": "EU",
+      "date": "",
+      "location": "",
+      "description": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
+      "source_url": "https://abcnews.com/International/wireStory/hungarys-magyar-joins-eu-summit-sidelined-orban-meets-133997504"
+    },
+    {
+      "title": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "G7 Summit Day 2 highlights: India always on side of peace, places humanity over everything else, says Modi",
-      "source_url": "https://www.thehindu.com/news/international/g7-summit-france-day-2-leaders-discuss-west-asia-conflict-ukraine-russia-war-live-updates-june-17-2026/article71111954.ece"
-    },
-    {
-      "title": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
-      "source_url": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html"
-    },
-    {
-      "title": "Trump on arrival at G7 meeting: ‘I’m the boss’",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Trump on arrival at G7 meeting: ‘I’m the boss’",
-      "source_url": "https://thehill.com/homenews/administration/5928174-trump-g7-summit-boss"
+      "description": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
+      "source_url": "https://www.thehindu.com/news/international/kremlin-says-europeans-probably-pumped-trump-with-harmful-ideas-during-g7-summit/article71117556.ece"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "PM Modi seeks 'highest priority' for seafarers in W Asia peace deal in meeting with Trump; US president reiterates he ended 8 wars, mentions G2",
-      "participants": [
-        "Modi",
-        "Asia",
-        "Trump US"
-      ],
-      "date": "",
-      "location": "",
-      "description": "PM Modi seeks 'highest priority' for seafarers in W Asia peace deal in meeting with Trump; US president reiterates he ended 8 wars, mentions G2",
-      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-seeks-highest-priority-for-seafarers-in-w-asia-peace-deal-in-meeting-with-trump-us-president-reiterates-he-ended-8-wars-mentions-g2/articleshow/131812429.cms"
-    },
     {
       "title": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
       "participants": [
@@ -69,17 +57,6 @@
       "source_url": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html"
     },
     {
-      "title": "Carney: Lack of bilateral meeting with Trump at G7 not a snub",
-      "participants": [
-        "Carney Lack",
-        "Trump"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Carney: Lack of bilateral meeting with Trump at G7 not a snub",
-      "source_url": "https://thehill.com/policy/international/5927982-trump-carney-g7-canada-usmca"
-    },
-    {
       "title": "PM Modi, German Chancellor Merz hold bilateral talks on trade and defence",
       "participants": [
         "Modi German Chancellor Merz"
@@ -90,29 +67,76 @@
       "source_url": "https://www.thehindu.com/news/international/pm-modi-german-chancellor-merz-hold-bilateral-talks-on-trade-and-defence/article71114030.ece"
     },
     {
-      "title": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
+      "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
-        "Modi",
-        "U.K UAE",
-        "Summit"
+        "Cover Story"
       ],
       "date": "",
       "location": "",
-      "description": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
-      "source_url": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-leaders-of-uk-uae-on-the-sidelines-of-g7-summit/article71110678.ece"
+      "description": "Cover Story newsletter: The summit of suspicion",
+      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
     }
   ],
   "elections": [
     {
-      "title": "An explosion of AI deepfakes is redefining American elections",
+      "title": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – UK politics live",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "An explosion of AI deepfakes is redefining American elections",
-      "source_url": "https://www.axios.com/2026/06/16/ai-deepfake-ads-campaigns-midterms"
+      "description": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – UK politics live",
+      "source_url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates"
+    },
+    {
+      "title": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
+      "source_url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html"
+    },
+    {
+      "title": "Choppy waters ahead as Iceland gets ready for its own EU referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Choppy waters ahead as Iceland gets ready for its own EU referendum",
+      "source_url": "https://www.theguardian.com/world/2026/jun/17/choppy-waters-ahead-as-iceland-gets-ready-for-eu-referendum"
+    },
+    {
+      "title": "Starmer rival seeks win in UK by-election pivotal to prime minister's fate",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Starmer rival seeks win in UK by-election pivotal to prime minister's fate",
+      "source_url": "https://www.france24.com/en/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate"
+    },
+    {
+      "title": "The ‘King of the North’ wants to lead Britain. First he must beat the far right in a special election.",
+      "country": "Britain",
+      "election_type": "National",
+      "date": "",
+      "description": "The ‘King of the North’ wants to lead Britain. First he must beat the far right in a special election.",
+      "source_url": "https://www.nbcnews.com/world/united-kingdom/andy-burnham-makerfield-election-britain-pm-starmer-labour-rcna350472"
     }
   ],
   "global_events": [
+    {
+      "title": "Hegseth Announces Review of U.S. Troops in Europe and Scolds NATO Allies Amid Rift",
+      "summary": "Hegseth Announces Review of U.S. Troops in Europe and Scolds NATO Allies Amid Rift",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NBC News World",
+        "Wash Post World",
+        "Time",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/06/18/hegseth-us-troops-europe-review-nato-allies-criticism-iran-war"
+    },
     {
       "title": "Read the 14 points of the agreement between Iran and the U.S.",
       "summary": "Read the 14 points of the agreement between Iran and the U.S.",
@@ -120,11 +144,11 @@
         "BBC World",
         "CBS News World",
         "NBC News World",
+        "Sky News World",
         "Time",
         "The Independent",
-        "The Hindu Intl",
+        "DW World",
         "SCMP",
-        "Foreign Policy",
         "The Hill",
         "Axios"
       ],
@@ -134,74 +158,53 @@
       "source_url": "https://www.cbsnews.com/news/us-iran-deal-memorandum-of-understanding-text"
     },
     {
-      "title": "U.S.-Iran Memorandum of Understanding: Full Text",
-      "summary": "U.S.-Iran Memorandum of Understanding: Full Text",
+      "title": "The Latest: US and Iran sign initial deal to end war, ease sanctions and open strait",
+      "summary": "The Latest: US and Iran sign initial deal to end war, ease sanctions and open strait",
       "outlets_covering": [
         "NBC News World",
-        "Time",
-        "Al Jazeera",
+        "NYT World",
+        "The Independent",
         "The Hindu Intl",
-        "Foreign Policy",
+        "SCMP",
+        "The Hill",
         "Axios"
       ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://foreignpolicy.com/2026/06/17/trump-us-iran-memorandum-of-understanding-mou-deal-read-full-text"
-    },
-    {
-      "title": "Russian artist who mocked Vladimir Putin shot dead in Poland",
-      "summary": "Russian artist who mocked Vladimir Putin shot dead in Poland",
-      "outlets_covering": [
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "The Independent"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/russian-artist-putin-poland-semyon-skrepetsky-dead-b2997115.html"
-    },
-    {
-      "title": "West Asia LIVE: Trump, Iran’s President sign deal to end West Asia war",
-      "summary": "West Asia LIVE: Trump, Iran’s President sign deal to end West Asia war",
-      "outlets_covering": [
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 25,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-israel-conflict-strait-of-hormuz-washington-tehran-sign-peace-deal-live-updates-june-18-2026/article71116282.ece"
+      "source_url": "https://www.independent.co.uk/news/world/americas/iran-tehran-pete-hegseth-europe-white-house-b2998377.html"
     },
     {
-      "title": "Trump says he has signed peace deal with Iran at Versailles – US politics live",
-      "summary": "Trump says he has signed peace deal with Iran at Versailles – US politics live",
+      "title": "Poland arrests a suspect in daylight killing of a Russian artist critical of Putin",
+      "summary": "Poland arrests a suspect in daylight killing of a Russian artist critical of Putin",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
+        "ABC News Intl",
+        "Sky News World",
         "NYT World",
-        "The Guardian World",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/poland-arrests-suspect-daylight-killing-russian-artist-critical-133993683"
+    },
+    {
+      "title": "Ukraine drone strike hits major Russian oil refinery near Moscow",
+      "summary": "Ukraine drone strike hits major Russian oil refinery near Moscow",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "Wash Post World",
         "The Independent",
         "Al Jazeera",
-        "France24",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 40,
-      "region": "Middle East",
+      "coverage_count": 8,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
+      "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-drone-strike-moscow-oil-refinery-zelenskyy-putin"
     }
   ]
 }
