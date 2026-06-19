@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-19T02:56:43.088399Z",
+  "last_updated": "2026-06-19T14:42:39.531795Z",
   "world_org_meetings": [
+    {
+      "title": "Delayed US-Iran talks casts shadow over EU summit",
+      "organization": "EU",
+      "date": "",
+      "location": "",
+      "description": "Delayed US-Iran talks casts shadow over EU summit",
+      "source_url": "https://www.france24.com/en/delayed-us-iran-talks-casts-shadow-over-eu-summit"
+    },
+    {
+      "title": "An absence of drama means the G7 summit was a success",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "An absence of drama means the G7 summit was a success",
+      "source_url": "https://www.japantimes.co.jp/editorials/2026/06/19/no-g7-summit"
+    },
     {
       "title": "Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi",
       "organization": "BRICS",
@@ -24,22 +40,6 @@
       "location": "",
       "description": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
       "source_url": "https://abcnews.com/International/wireStory/hungarys-magyar-joins-eu-summit-sidelined-orban-meets-133997504"
-    },
-    {
-      "title": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
-      "source_url": "https://www.thehindu.com/news/international/kremlin-says-europeans-probably-pumped-trump-with-harmful-ideas-during-g7-summit/article71117556.ece"
-    },
-    {
-      "title": "U.S. President Donald Trump to wrap G7 summit facing skepticism at home, jitters overseas over his plan to end Iran war",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "U.S. President Donald Trump to wrap G7 summit facing skepticism at home, jitters overseas over his plan to end Iran war",
-      "source_url": "https://www.thehindu.com/news/international/us-president-donald-trump-to-wrap-g7-summit-facing-skepticism-at-home-jitters-overseas-over-his-plan-to-end-iran-war/article71112465.ece"
     }
   ],
   "diplomatic_visits": [
@@ -69,16 +69,6 @@
       "source_url": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html"
     },
     {
-      "title": "PM Modi, German Chancellor Merz hold bilateral talks on trade and defence",
-      "participants": [
-        "Modi German Chancellor Merz"
-      ],
-      "date": "",
-      "location": "",
-      "description": "PM Modi, German Chancellor Merz hold bilateral talks on trade and defence",
-      "source_url": "https://www.thehindu.com/news/international/pm-modi-german-chancellor-merz-hold-bilateral-talks-on-trade-and-defence/article71114030.ece"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -91,63 +81,61 @@
   ],
   "elections": [
     {
-      "title": "Britain’s Keir Starmer could face imminent challenge as key rival Andy Burnham wins special election",
+      "title": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
       "country": "Britain",
       "election_type": "National",
       "date": "",
-      "description": "Britain’s Keir Starmer could face imminent challenge as key rival Andy Burnham wins special election",
-      "source_url": "https://www.nbcnews.com/world/united-kingdom/britains-keir-starmer-imminent-challenge-key-rival-andy-burnham-rcna350511"
+      "description": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
+      "source_url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
     },
     {
-      "title": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+      "title": "Ahead of Colombia's elections, 'Latin America overall is going to the right'",
+      "country": "Colombia",
+      "election_type": "National",
+      "date": "",
+      "description": "Ahead of Colombia's elections, 'Latin America overall is going to the right'",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260619-ahead-of-colombia-s-elections-latin-america-overall-is-going-to-the-right"
+    },
+    {
+      "title": "U.K. Live Updates: Starmer Under Pressure After Labour Rival Wins Key Election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
-      "source_url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-election.html"
+      "description": "U.K. Live Updates: Starmer Under Pressure After Labour Rival Wins Key Election",
+      "source_url": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham"
     },
     {
-      "title": "Makerfield byelection: Andy Burnham says Labour has ‘final chance to change’ after huge win over Reform UK – UK politics live",
+      "title": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260619-eu-uk-relations-10-years-after-the-referendum-brexit-or-regrexit"
+    },
+    {
+      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Makerfield byelection: Andy Burnham says Labour has ‘final chance to change’ after huge win over Reform UK – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates"
-    },
-    {
-      "title": "Andy Burnham wins huge majority in Makerfield byelection, paving way for Starmer leadership challenge",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Andy Burnham wins huge majority in Makerfield byelection, paving way for Starmer leadership challenge",
-      "source_url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge"
-    },
-    {
-      "title": "Andy Burnham wins crucial UK by-election, in blow to Keir Starmer",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Andy Burnham wins crucial UK by-election, in blow to Keir Starmer",
-      "source_url": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss"
+      "description": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
+      "source_url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "summary": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "title": "Israel and Hezbollah agree to ceasefire, officials say",
+      "summary": "Israel and Hezbollah agree to ceasefire, officials say",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "CBS News World",
         "NBC News World",
-        "Time",
-        "The Hindu Intl",
-        "The Hill"
+        "Wash Post World",
+        "France24",
+        "The Hindu Intl"
       ],
       "coverage_count": 7,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting"
     },
     {
       "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
@@ -158,7 +146,6 @@
         "NBC News World",
         "NYT World",
         "The Independent",
-        "Japan Times",
         "The Hindu Intl"
       ],
       "coverage_count": 9,
@@ -167,31 +154,40 @@
       "source_url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
     },
     {
-      "title": "Read the 14 points of the agreement between Iran and the U.S.",
-      "summary": "Read the 14 points of the agreement between Iran and the U.S.",
+      "title": "US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon | First Thing",
+      "summary": "US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon | First Thing",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "Sky News World",
-        "Time",
-        "The Independent",
-        "DW World",
-        "SCMP",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/us-iran-deal-memorandum-of-understanding-text"
-    },
-    {
-      "title": "US-Iran talks in Switzerland delayed, White House says Vance remains ready to go",
-      "summary": "US-Iran talks in Switzerland delayed, White House says Vance remains ready to go",
-      "outlets_covering": [
-        "CBS News World",
+        "The Guardian World",
         "Al Jazeera",
         "France24",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/us-news/2026/jun/19/first-thing-us-iran-peace-talks-cancelled-israeli-strikes-lebanon"
+    },
+    {
+      "title": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
+      "summary": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "NYT World"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
+    },
+    {
+      "title": "U.S.-Iran talks in Switzerland put on hold",
+      "summary": "U.S.-Iran talks in Switzerland put on hold",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
         "The Hindu Intl",
         "SCMP",
         "Axios"
@@ -199,27 +195,7 @@
       "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3357637/us-iran-talks-switzerland-delayed-white-house-says-vance-remains-ready-go"
-    },
-    {
-      "title": "How Trump’s deal with Iran compares to Obama’s",
-      "summary": "How Trump’s deal with Iran compares to Obama’s",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "The Independent",
-        "DW World",
-        "Japan Times"
-      ],
-      "coverage_count": 54,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/19/world/politics/trump-obama-iran-deal"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-deal-strait-of-hormuz"
     }
   ]
 }
