@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-18T14:46:39.690920Z",
+  "last_updated": "2026-06-19T02:56:43.088399Z",
   "world_org_meetings": [
+    {
+      "title": "Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi",
+      "source_url": "https://www.thehindu.com/news/national/chinese-foreign-minister-wang-yi-to-attend-brics-nsas-meeting-in-delhi/article71118056.ece"
+    },
     {
       "title": "Trump’s war secretary tears into UK’s lack of defence plan as Dan Jarvis arrives at Nato summit empty-handed",
       "organization": "NATO",
@@ -8,22 +16,6 @@
       "location": "",
       "description": "Trump’s war secretary tears into UK’s lack of defence plan as Dan Jarvis arrives at Nato summit empty-handed",
       "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-war-nato-spending-europe-hegseth-b2998173.html"
-    },
-    {
-      "title": "Ukraine launches large drone attack on Moscow ahead of NATO meeting",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Ukraine launches large drone attack on Moscow ahead of NATO meeting",
-      "source_url": "https://www.france24.com/en/ukraine-launches-large-drone-attack-on-moscow-ahead-of-nato-meeting"
-    },
-    {
-      "title": "Hegseth lashes out against European Nato allies ahead of summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Hegseth lashes out against European Nato allies ahead of summit",
-      "source_url": "https://www.france24.com/en/hegseth-lashes-out-against-european-nato-allies-ahead-of-summit"
     },
     {
       "title": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
@@ -40,9 +32,29 @@
       "location": "",
       "description": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
       "source_url": "https://www.thehindu.com/news/international/kremlin-says-europeans-probably-pumped-trump-with-harmful-ideas-during-g7-summit/article71117556.ece"
+    },
+    {
+      "title": "U.S. President Donald Trump to wrap G7 summit facing skepticism at home, jitters overseas over his plan to end Iran war",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "U.S. President Donald Trump to wrap G7 summit facing skepticism at home, jitters overseas over his plan to end Iran war",
+      "source_url": "https://www.thehindu.com/news/international/us-president-donald-trump-to-wrap-g7-summit-facing-skepticism-at-home-jitters-overseas-over-his-plan-to-end-iran-war/article71112465.ece"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Peru’s president announces that Pope Leo will visit in early November",
+      "participants": [
+        "Peru’s",
+        "Pope Leo",
+        "November"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Peru’s president announces that Pope Leo will visit in early November",
+      "source_url": "https://abcnews.com/International/wireStory/perus-president-announces-pope-leo-visit-early-november-134005612"
+    },
     {
       "title": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
       "participants": [
@@ -79,132 +91,135 @@
   ],
   "elections": [
     {
-      "title": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – UK politics live",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates"
-    },
-    {
-      "title": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Why the By-Election in Makerfield Will Have Giant Consequences for the UK",
-      "source_url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html"
-    },
-    {
-      "title": "Choppy waters ahead as Iceland gets ready for its own EU referendum",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Choppy waters ahead as Iceland gets ready for its own EU referendum",
-      "source_url": "https://www.theguardian.com/world/2026/jun/17/choppy-waters-ahead-as-iceland-gets-ready-for-eu-referendum"
-    },
-    {
-      "title": "Starmer rival seeks win in UK by-election pivotal to prime minister's fate",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Starmer rival seeks win in UK by-election pivotal to prime minister's fate",
-      "source_url": "https://www.france24.com/en/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate"
-    },
-    {
-      "title": "The ‘King of the North’ wants to lead Britain. First he must beat the far right in a special election.",
+      "title": "Britain’s Keir Starmer could face imminent challenge as key rival Andy Burnham wins special election",
       "country": "Britain",
       "election_type": "National",
       "date": "",
-      "description": "The ‘King of the North’ wants to lead Britain. First he must beat the far right in a special election.",
-      "source_url": "https://www.nbcnews.com/world/united-kingdom/andy-burnham-makerfield-election-britain-pm-starmer-labour-rcna350472"
+      "description": "Britain’s Keir Starmer could face imminent challenge as key rival Andy Burnham wins special election",
+      "source_url": "https://www.nbcnews.com/world/united-kingdom/britains-keir-starmer-imminent-challenge-key-rival-andy-burnham-rcna350511"
+    },
+    {
+      "title": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+      "source_url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-election.html"
+    },
+    {
+      "title": "Makerfield byelection: Andy Burnham says Labour has ‘final chance to change’ after huge win over Reform UK – UK politics live",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Makerfield byelection: Andy Burnham says Labour has ‘final chance to change’ after huge win over Reform UK – UK politics live",
+      "source_url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates"
+    },
+    {
+      "title": "Andy Burnham wins huge majority in Makerfield byelection, paving way for Starmer leadership challenge",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Andy Burnham wins huge majority in Makerfield byelection, paving way for Starmer leadership challenge",
+      "source_url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge"
+    },
+    {
+      "title": "Andy Burnham wins crucial UK by-election, in blow to Keir Starmer",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Andy Burnham wins crucial UK by-election, in blow to Keir Starmer",
+      "source_url": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Hegseth Announces Review of U.S. Troops in Europe and Scolds NATO Allies Amid Rift",
-      "summary": "Hegseth Announces Review of U.S. Troops in Europe and Scolds NATO Allies Amid Rift",
+      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "summary": "Hegseth renews Nato criticism and says US will review presence in Europe",
       "outlets_covering": [
         "BBC World",
         "NPR World",
+        "CBS News World",
         "NBC News World",
-        "Wash Post World",
         "Time",
-        "Al Jazeera",
+        "The Hindu Intl",
         "The Hill"
       ],
       "coverage_count": 7,
       "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+      "summary": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://time.com/article/2026/06/18/hegseth-us-troops-europe-review-nato-allies-criticism-iran-war"
+      "source_url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
     },
     {
       "title": "Read the 14 points of the agreement between Iran and the U.S.",
       "summary": "Read the 14 points of the agreement between Iran and the U.S.",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "CBS News World",
-        "NBC News World",
         "Sky News World",
         "Time",
         "The Independent",
         "DW World",
         "SCMP",
-        "The Hill",
         "Axios"
       ],
-      "coverage_count": 10,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/us-iran-deal-memorandum-of-understanding-text"
     },
     {
-      "title": "The Latest: US and Iran sign initial deal to end war, ease sanctions and open strait",
-      "summary": "The Latest: US and Iran sign initial deal to end war, ease sanctions and open strait",
+      "title": "US-Iran talks in Switzerland delayed, White House says Vance remains ready to go",
+      "summary": "US-Iran talks in Switzerland delayed, White House says Vance remains ready to go",
       "outlets_covering": [
-        "NBC News World",
-        "NYT World",
-        "The Independent",
+        "CBS News World",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
         "SCMP",
-        "The Hill",
         "Axios"
       ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/iran-tehran-pete-hegseth-europe-white-house-b2998377.html"
-    },
-    {
-      "title": "Poland arrests a suspect in daylight killing of a Russian artist critical of Putin",
-      "summary": "Poland arrests a suspect in daylight killing of a Russian artist critical of Putin",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Sky News World",
-        "NYT World",
-        "DW World",
-        "France24"
-      ],
       "coverage_count": 6,
-      "region": "Europe / Russia",
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/poland-arrests-suspect-daylight-killing-russian-artist-critical-133993683"
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3357637/us-iran-talks-switzerland-delayed-white-house-says-vance-remains-ready-go"
     },
     {
-      "title": "Ukraine drone strike hits major Russian oil refinery near Moscow",
-      "summary": "Ukraine drone strike hits major Russian oil refinery near Moscow",
+      "title": "How Trump’s deal with Iran compares to Obama’s",
+      "summary": "How Trump’s deal with Iran compares to Obama’s",
       "outlets_covering": [
-        "CBC World",
         "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "Fox News World",
         "NYT World",
         "Wash Post World",
+        "Time",
         "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "DW World",
+        "Japan Times"
       ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
+      "coverage_count": 54,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-drone-strike-moscow-oil-refinery-zelenskyy-putin"
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/19/world/politics/trump-obama-iran-deal"
     }
   ]
 }
