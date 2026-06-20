@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-19T14:42:39.531795Z",
+  "last_updated": "2026-06-20T02:29:10.927711Z",
   "world_org_meetings": [
-    {
-      "title": "Delayed US-Iran talks casts shadow over EU summit",
-      "organization": "EU",
-      "date": "",
-      "location": "",
-      "description": "Delayed US-Iran talks casts shadow over EU summit",
-      "source_url": "https://www.france24.com/en/delayed-us-iran-talks-casts-shadow-over-eu-summit"
-    },
     {
       "title": "An absence of drama means the G7 summit was a success",
       "organization": "G7",
@@ -26,47 +18,42 @@
       "source_url": "https://www.thehindu.com/news/national/chinese-foreign-minister-wang-yi-to-attend-brics-nsas-meeting-in-delhi/article71118056.ece"
     },
     {
-      "title": "Trump’s war secretary tears into UK’s lack of defence plan as Dan Jarvis arrives at Nato summit empty-handed",
+      "title": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Kremlin says Europeans probably 'pumped' Trump with harmful ideas during G7 summit",
+      "source_url": "https://www.thehindu.com/news/international/kremlin-says-europeans-probably-pumped-trump-with-harmful-ideas-during-g7-summit/article71117556.ece"
+    },
+    {
+      "title": "NATO wants 'credible' spending plans from members at next month's summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump’s war secretary tears into UK’s lack of defence plan as Dan Jarvis arrives at Nato summit empty-handed",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-war-nato-spending-europe-hegseth-b2998173.html"
+      "description": "NATO wants 'credible' spending plans from members at next month's summit",
+      "source_url": "https://www.cbc.ca/news/politics/nato-spending-defence-canada-us-criticism-9.7239006?cmp=rss"
     },
     {
-      "title": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
-      "organization": "EU",
+      "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
+      "organization": "G7",
       "date": "",
       "location": "",
-      "description": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
-      "source_url": "https://abcnews.com/International/wireStory/hungarys-magyar-joins-eu-summit-sidelined-orban-meets-133997504"
+      "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Peru’s president announces that Pope Leo will visit in early November",
+      "title": "Talks between U.S., Iran called off because of fighting in Lebanon, officials say",
       "participants": [
-        "Peru’s",
-        "Pope Leo",
-        "November"
+        "Talks",
+        "U.S Iran",
+        "Lebanon"
       ],
       "date": "",
       "location": "",
-      "description": "Peru’s president announces that Pope Leo will visit in early November",
-      "source_url": "https://abcnews.com/International/wireStory/perus-president-announces-pope-leo-visit-early-november-134005612"
-    },
-    {
-      "title": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
-      "participants": [
-        "Trump Upends G7 Summit",
-        "Statements",
-        "Iran Deal",
-        "Ukraine"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump Upends G7 Summit With Statements on Iran Deal and Ukraine",
-      "source_url": "https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html"
+      "description": "Talks between U.S., Iran called off because of fighting in Lebanon, officials say",
+      "source_url": "https://www.thehindu.com/news/international/talks-between-us-iran-called-off-because-of-fighting-in-lebanon-officials-say/article71123404.ece"
     },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
@@ -89,36 +76,36 @@
       "source_url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
     },
     {
-      "title": "Ahead of Colombia's elections, 'Latin America overall is going to the right'",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Ahead of Colombia's elections, 'Latin America overall is going to the right'",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260619-ahead-of-colombia-s-elections-latin-america-overall-is-going-to-the-right"
-    },
-    {
-      "title": "U.K. Live Updates: Starmer Under Pressure After Labour Rival Wins Key Election",
+      "title": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "U.K. Live Updates: Starmer Under Pressure After Labour Rival Wins Key Election",
-      "source_url": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham"
+      "description": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
+      "source_url": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html"
     },
     {
-      "title": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
+      "title": "Armenia's opposition faces arrests as it contests the ruling party's election win",
+      "country": "Armenia",
+      "election_type": "National",
+      "date": "",
+      "description": "Armenia's opposition faces arrests as it contests the ruling party's election win",
+      "source_url": "https://abcnews.com/International/wireStory/armenias-opposition-faces-arrests-contests-ruling-partys-election-134037550"
+    },
+    {
+      "title": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+      "source_url": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham/uk-makerfield-election"
+    },
+    {
+      "title": "Bill easing referendum procedures for constitutional amendments clears Lower House",
       "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260619-eu-uk-relations-10-years-after-the-referendum-brexit-or-regrexit"
-    },
-    {
-      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
-      "source_url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss"
+      "description": "Bill easing referendum procedures for constitutional amendments clears Lower House",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/19/japan/politics/constitutional-referendum-bill"
     }
   ],
   "global_events": [
@@ -126,46 +113,21 @@
       "title": "Israel and Hezbollah agree to ceasefire, officials say",
       "summary": "Israel and Hezbollah agree to ceasefire, officials say",
       "outlets_covering": [
+        "BBC World",
         "CBS News World",
         "NBC News World",
+        "The Guardian World",
         "Wash Post World",
+        "Time",
+        "The Independent",
         "France24",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "Axios"
       ],
-      "coverage_count": 7,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting"
-    },
-    {
-      "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-      "summary": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
-    },
-    {
-      "title": "US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon | First Thing",
-      "summary": "US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon | First Thing",
-      "outlets_covering": [
-        "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/19/first-thing-us-iran-peace-talks-cancelled-israeli-strikes-lebanon"
     },
     {
       "title": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
@@ -173,10 +135,9 @@
       "outlets_covering": [
         "NPR World",
         "CBC World",
-        "ABC News Intl",
-        "NYT World"
+        "ABC News Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 3,
       "region": "Europe",
       "category": "Politics",
       "source_url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
@@ -188,14 +149,47 @@
         "NPR World",
         "CBS News World",
         "NBC News World",
+        "Japan Times",
         "The Hindu Intl",
         "SCMP",
         "Axios"
       ],
-      "coverage_count": 6,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-deal-strait-of-hormuz"
+    },
+    {
+      "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+      "summary": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
+    },
+    {
+      "title": "Hegseth announces review of U.S. forces in Europe, blasts \"shameful\" NATO allies",
+      "summary": "Hegseth announces review of U.S. forces in Europe, blasts \"shameful\" NATO allies",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/hegseth-nato-us-forces-europe"
     }
   ]
 }
