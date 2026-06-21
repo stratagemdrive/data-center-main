@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-06-20T13:26:59.649615Z",
+  "last_updated": "2026-06-21T02:44:18.015367Z",
   "world_org_meetings": [
     {
-      "title": "‘Wants to be friends again’: Trump says Meloni repeatedly asked for photo together at G7 Summit",
+      "title": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
       "organization": "G7",
       "date": "",
       "location": "",
-      "description": "‘Wants to be friends again’: Trump says Meloni repeatedly asked for photo together at G7 Summit",
+      "description": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
       "source_url": "https://www.thehindu.com/news/international/trump-response-italy-pm-meloni-photo-war-of-words/article71125913.ece"
     },
     {
-      "title": "'Bharat used during G20 Summit': Central university in Chhattisgarh to replace 'India' in marksheets",
-      "organization": "G20",
+      "title": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
+      "organization": "EU",
       "date": "",
       "location": "",
-      "description": "'Bharat used during G20 Summit': Central university in Chhattisgarh to replace 'India' in marksheets",
-      "source_url": "https://timesofindia.indiatimes.com/india/bharat-used-during-g20-summit-central-university-in-chhattisgarh-to-replace-india-in-marksheets/articleshow/131873457.cms"
-    },
-    {
-      "title": "Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Chinese Foreign Minister Wang Yi to attend BRICS NSAs meeting in Delhi",
-      "source_url": "https://www.thehindu.com/news/national/chinese-foreign-minister-wang-yi-to-attend-brics-nsas-meeting-in-delhi/article71118056.ece"
+      "description": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
+      "source_url": "https://abcnews.com/International/wireStory/hungarys-magyar-joins-eu-summit-sidelined-orban-meets-133997504"
     },
     {
       "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
@@ -40,6 +32,14 @@
       "location": "",
       "description": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-geoeconomic-centers-seven-charts-that-will-define-frances-g7-summit-republished-on-realclearworld"
+    },
+    {
+      "title": "Indian outrage over US killing of sailors mounts as leaders attend G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Indian outrage over US killing of sailors mounts as leaders attend G7 summit",
+      "source_url": "https://www.theguardian.com/world/2026/jun/15/indian-outrage-over-us-killing-of-sailors-mounts-as-leaders-attend-g7-summit"
     }
   ],
   "diplomatic_visits": [
@@ -76,12 +76,20 @@
       "source_url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
     },
     {
-      "title": "Peru: Voters await result of presidential election, the closest in the country's history",
-      "country": "Peru",
+      "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+      "country": "Colombia",
       "election_type": "Presidential",
       "date": "",
-      "description": "Peru: Voters await result of presidential election, the closest in the country's history",
-      "source_url": "https://www.france24.com/en/peru-voters-await-result-of-presidential-election-the-closest-in-the-country-s-history"
+      "description": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+      "source_url": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss"
+    },
+    {
+      "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
+      "source_url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum"
     },
     {
       "title": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
@@ -98,101 +106,90 @@
       "date": "",
       "description": "Armenia's opposition faces arrests as it contests the ruling party's election win",
       "source_url": "https://abcnews.com/International/wireStory/armenias-opposition-faces-arrests-contests-ruling-partys-election-134037550"
-    },
-    {
-      "title": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
-      "source_url": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham/uk-makerfield-election"
     }
   ],
   "global_events": [
     {
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "summary": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
+      "summary": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "NBC News World",
-        "Wash Post World",
-        "France24",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "U.S.-Iran talks in Switzerland put on hold",
-      "summary": "U.S.-Iran talks in Switzerland put on hold",
-      "outlets_covering": [
         "NPR World",
         "CBS News World",
         "NBC News World",
-        "Bloomberg",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-deal-strait-of-hormuz"
-    },
-    {
-      "title": "Hegseth announces review of U.S. forces in Europe, blasts \"shameful\" NATO allies",
-      "summary": "Hegseth announces review of U.S. forces in Europe, blasts \"shameful\" NATO allies",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/hegseth-nato-us-forces-europe"
-    },
-    {
-      "title": "Uncertainty surrounds U.S.-Iran deal as Israel strikes Lebanon",
-      "summary": "Uncertainty surrounds U.S.-Iran deal as Israel strikes Lebanon",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
+        "The Guardian World",
+        "The Independent",
         "Al Jazeera",
-        "DW World",
         "France24",
         "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Vox"
+        "The Hill"
       ],
-      "coverage_count": 13,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/uncertainty-surrounds-us-iran-deal-as-israel-strikes-lebanon"
+      "source_url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire"
     },
     {
-      "title": "Trump said Italy’s prime minister ‘begged’ for a photo. She says that’s false.",
-      "summary": "Trump said Italy’s prime minister ‘begged’ for a photo. She says that’s false.",
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "summary": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "CBS News World",
         "NBC News World",
-        "Wash Post World"
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 19,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
+      "summary": "Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
+      "outlets_covering": [
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/trump-threatens-to-charge-us-tolls-in-strait-of-hormuz-if-final-iran-deal-not-reached-in-60-days/article71127249.ece"
+    },
+    {
+      "title": "Al Jazeera cameraman killed in Gaza months after his journalist brother died in a separate strike",
+      "summary": "Al Jazeera cameraman killed in Gaza months after his journalist brother died in a separate strike",
+      "outlets_covering": [
+        "NBC News World",
+        "The Guardian World",
+        "Al Jazeera"
       ],
       "coverage_count": 3,
-      "region": "Europe",
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/06/19/trump-said-italys-prime-minister-begged-photo-she-says-thats-false"
+      "source_url": "https://www.nbcnews.com/world/gaza/israeli-airstrike-kills-al-jazeera-cameraman-rcna350990"
+    },
+    {
+      "title": "Bolivia declares state of emergency amid blockade crisis",
+      "summary": "Bolivia declares state of emergency amid blockade crisis",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss"
     }
   ]
 }
