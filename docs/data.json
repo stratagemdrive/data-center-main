@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T02:44:18.015367Z",
+  "last_updated": "2026-06-21T13:47:54.759944Z",
   "world_org_meetings": [
     {
       "title": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
@@ -68,128 +68,128 @@
   ],
   "elections": [
     {
-      "title": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
-      "country": "Britain",
+      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain",
-      "source_url": "https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election"
+      "description": "UK's Starmer mulls 'political realities' after Burnham by-election",
+      "source_url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+      "title": "Pressure mounts on UK PM Starmer to quit after Burnham’s by-election win",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Pressure mounts on UK PM Starmer to quit after Burnham’s by-election win",
+      "source_url": "https://www.aljazeera.com/news/2026/6/21/pressure-mounts-on-starmer-to-quit-after-burnhams-by-election-win?traffic_source=rss"
+    },
+    {
+      "title": "Colombia's presidential runoff election will decide how the country continues to tackle drug trafficking",
       "country": "Colombia",
       "election_type": "Presidential",
       "date": "",
-      "description": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
-      "source_url": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss"
+      "description": "Colombia's presidential runoff election will decide how the country continues to tackle drug trafficking",
+      "source_url": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombias-presidential-runoff-election-will-decide-how-the-country-continues-to-tackle-drug-trafficking"
     },
     {
-      "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
+      "title": "Who is Ivan Cepeda, left-wing candidate in Colombia's presidential elections?",
+      "country": "Colombia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Who is Ivan Cepeda, left-wing candidate in Colombia's presidential elections?",
+      "source_url": "https://www.france24.com/en/who-is-ivan-cepeda-left-wing-candidate-in-colombia-s-presidential-elections"
+    },
+    {
+      "title": "Who is Abelardo de la Esperiella, far-right candidate in the Colombian presidential election?",
       "country": "",
-      "election_type": "Referendum",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
-      "source_url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum"
-    },
-    {
-      "title": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
-      "source_url": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html"
-    },
-    {
-      "title": "Armenia's opposition faces arrests as it contests the ruling party's election win",
-      "country": "Armenia",
-      "election_type": "National",
-      "date": "",
-      "description": "Armenia's opposition faces arrests as it contests the ruling party's election win",
-      "source_url": "https://abcnews.com/International/wireStory/armenias-opposition-faces-arrests-contests-ruling-partys-election-134037550"
+      "description": "Who is Abelardo de la Esperiella, far-right candidate in the Colombian presidential election?",
+      "source_url": "https://www.france24.com/en/who-is-abelardo-de-la-esperiella-far-right-candidate-in-the-colombian-presidential-election"
     }
   ],
   "global_events": [
+    {
+      "title": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
+      "summary": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "The Guardian World",
+        "France24",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates"
+    },
+    {
+      "title": "Vance arrives in Switzerland for US-Iran talks",
+      "summary": "Vance arrives in Switzerland for US-Iran talks",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 28,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss"
+    },
     {
       "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
       "summary": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
         "CBS News World",
-        "NBC News World",
         "The Guardian World",
         "The Independent",
-        "Al Jazeera",
         "France24",
         "The Hindu Intl",
-        "The Hill"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 16,
+      "coverage_count": 10,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire"
     },
     {
-      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "summary": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "title": "Los Angeles declares state of emergency as firefighters battle warehouse blaze",
+      "summary": "Los Angeles declares state of emergency as firefighters battle warehouse blaze",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 19,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
-      "summary": "Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
-      "outlets_covering": [
         "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/trump-threatens-to-charge-us-tolls-in-strait-of-hormuz-if-final-iran-deal-not-reached-in-60-days/article71127249.ece"
-    },
-    {
-      "title": "Al Jazeera cameraman killed in Gaza months after his journalist brother died in a separate strike",
-      "summary": "Al Jazeera cameraman killed in Gaza months after his journalist brother died in a separate strike",
-      "outlets_covering": [
-        "NBC News World",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/world/gaza/israeli-airstrike-kills-al-jazeera-cameraman-rcna350990"
-    },
-    {
-      "title": "Bolivia declares state of emergency amid blockade crisis",
-      "summary": "Bolivia declares state of emergency amid blockade crisis",
-      "outlets_covering": [
-        "BBC World",
-        "Al Jazeera",
         "The Hindu Intl"
       ],
       "coverage_count": 4,
       "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire"
+    },
+    {
+      "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza strike",
+      "summary": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza strike",
+      "outlets_covering": [
+        "NBC News World",
+        "The Guardian World",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss"
+      "source_url": "https://www.france24.com/en/middle-east/20260621-israeli-drone-strike-kills-al-jazeera-journalist-in-gaza"
     }
   ]
 }
