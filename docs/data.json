@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T13:47:54.759944Z",
+  "last_updated": "2026-06-22T02:46:23.304008Z",
   "world_org_meetings": [
     {
       "title": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
       "source_url": "https://www.thehindu.com/news/international/trump-response-italy-pm-meloni-photo-war-of-words/article71125913.ece"
-    },
-    {
-      "title": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
-      "organization": "EU",
-      "date": "",
-      "location": "",
-      "description": "As Hungary’s Magyar joins EU summit, sidelined Orban meets with far-right allies",
-      "source_url": "https://abcnews.com/International/wireStory/hungarys-magyar-joins-eu-summit-sidelined-orban-meets-133997504"
     },
     {
       "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
@@ -40,21 +32,17 @@
       "location": "",
       "description": "Indian outrage over US killing of sailors mounts as leaders attend G7 summit",
       "source_url": "https://www.theguardian.com/world/2026/jun/15/indian-outrage-over-us-killing-of-sailors-mounts-as-leaders-attend-g7-summit"
+    },
+    {
+      "title": "Lipsky interviewed in NPR on possible outcomes from the G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Lipsky interviewed in NPR on possible outcomes from the G7 summit",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-interviewed-in-npr-on-possible-outcomes-from-the-g7-summit"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "Talks between U.S., Iran called off because of fighting in Lebanon, officials say",
-      "participants": [
-        "Talks",
-        "U.S Iran",
-        "Lebanon"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Talks between U.S., Iran called off because of fighting in Lebanon, officials say",
-      "source_url": "https://www.thehindu.com/news/international/talks-between-us-iran-called-off-because-of-fighting-in-lebanon-officials-say/article71123404.ece"
-    },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
@@ -68,90 +56,114 @@
   ],
   "elections": [
     {
-      "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
+      "title": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
+      "country": "Colombia",
+      "election_type": "National",
+      "date": "",
+      "description": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
+      "source_url": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election"
+    },
+    {
+      "title": "Colombia elections take place as Abelardo de la Espriella leads polls",
+      "country": "Colombia",
+      "election_type": "National",
+      "date": "",
+      "description": "Colombia elections take place as Abelardo de la Espriella leads polls",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss"
+    },
+    {
+      "title": "Ethiopian prime minister’s party easily wins parliamentary election",
+      "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Ethiopian prime minister’s party easily wins parliamentary election",
+      "source_url": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss"
+    },
+    {
+      "title": "Ethiopia's ruling party retains parliamentary majority in election marred by insecurity",
+      "country": "Ethiopia",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Ethiopia's ruling party retains parliamentary majority in election marred by insecurity",
+      "source_url": "https://abcnews.com/International/wireStory/ethiopias-ruling-party-retains-parliamentary-majority-election-marred-134077083"
+    },
+    {
+      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "UK's Starmer mulls 'political realities' after Burnham by-election",
-      "source_url": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Pressure mounts on UK PM Starmer to quit after Burnham’s by-election win",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Pressure mounts on UK PM Starmer to quit after Burnham’s by-election win",
-      "source_url": "https://www.aljazeera.com/news/2026/6/21/pressure-mounts-on-starmer-to-quit-after-burnhams-by-election-win?traffic_source=rss"
-    },
-    {
-      "title": "Colombia's presidential runoff election will decide how the country continues to tackle drug trafficking",
-      "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Colombia's presidential runoff election will decide how the country continues to tackle drug trafficking",
-      "source_url": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombias-presidential-runoff-election-will-decide-how-the-country-continues-to-tackle-drug-trafficking"
-    },
-    {
-      "title": "Who is Ivan Cepeda, left-wing candidate in Colombia's presidential elections?",
-      "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Who is Ivan Cepeda, left-wing candidate in Colombia's presidential elections?",
-      "source_url": "https://www.france24.com/en/who-is-ivan-cepeda-left-wing-candidate-in-colombia-s-presidential-elections"
-    },
-    {
-      "title": "Who is Abelardo de la Esperiella, far-right candidate in the Colombian presidential election?",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Who is Abelardo de la Esperiella, far-right candidate in the Colombian presidential election?",
-      "source_url": "https://www.france24.com/en/who-is-abelardo-de-la-esperiella-far-right-candidate-in-the-colombian-presidential-election"
+      "description": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
+      "source_url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict"
     }
   ],
   "global_events": [
     {
-      "title": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
-      "summary": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
+      "title": "Russian-held Crimea halts civilian gasoline sales following Ukrainian attacks",
+      "summary": "Russian-held Crimea halts civilian gasoline sales following Ukrainian attacks",
       "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "The Guardian World",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates"
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/world/crimea-halts-gasoline-sales-ukraine-attacks-9.7243579?cmp=rss"
     },
     {
-      "title": "Vance arrives in Switzerland for US-Iran talks",
-      "summary": "Vance arrives in Switzerland for US-Iran talks",
+      "title": "Colombians vote in consequential presidential runoff",
+      "summary": "Colombians vote in consequential presidential runoff",
       "outlets_covering": [
-        "BBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/colombia-electionn-runoff-ivan-cepeda-abelardo-de-la-espriella"
+    },
+    {
+      "title": "Who is Abelardo De La Espriella, Colombia's new right-wing President?",
+      "summary": "Who is Abelardo De La Espriella, Colombia's new right-wing President?",
+      "outlets_covering": [
         "NPR World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/who-is-abelardo-de-la-espriella-colombias-new-right-wing-president/article71131580.ece"
+    },
+    {
+      "title": "U.S. and Iran to talk in Switzerland as Tehran says it closed Strait of Hormuz again",
+      "summary": "U.S. and Iran to talk in Switzerland as Tehran says it closed Strait of Hormuz again",
+      "outlets_covering": [
+        "CBC World",
+        "NBC News World",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/us-and-iran-to-talk-in-switzerland-as-tehran-says-it-closed-strait-of-hormuz-again/article71127410.ece"
+    },
+    {
+      "title": "Iran says Strait of Hormuz ‘closed’ as Israeli strikes on Lebanon continue",
+      "summary": "Iran says Strait of Hormuz ‘closed’ as Israeli strikes on Lebanon continue",
+      "outlets_covering": [
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 28,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss"
-    },
-    {
-      "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
-      "summary": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
         "The Guardian World",
         "The Independent",
         "France24",
@@ -162,34 +174,7 @@
       "coverage_count": 10,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire"
-    },
-    {
-      "title": "Los Angeles declares state of emergency as firefighters battle warehouse blaze",
-      "summary": "Los Angeles declares state of emergency as firefighters battle warehouse blaze",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire"
-    },
-    {
-      "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza strike",
-      "summary": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza strike",
-      "outlets_covering": [
-        "NBC News World",
-        "The Guardian World",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/middle-east/20260621-israeli-drone-strike-kills-al-jazeera-journalist-in-gaza"
+      "source_url": "https://www.thehindu.com/news/international/iran-closes-strait-of-hormuz-us-israel-ceasefire-violations/article71126114.ece"
     }
   ]
 }
