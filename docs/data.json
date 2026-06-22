@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-06-22T02:46:23.304008Z",
+  "last_updated": "2026-06-22T16:27:50.950699Z",
   "world_org_meetings": [
-    {
-      "title": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
-      "source_url": "https://www.thehindu.com/news/international/trump-response-italy-pm-meloni-photo-war-of-words/article71125913.ece"
-    },
     {
       "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
       "organization": "G7",
@@ -44,6 +36,18 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Malaysia vows to strengthen rights of Bangladeshi workers during Prime Minister Tarique Rahman’s visit",
+      "participants": [
+        "Malaysia",
+        "Bangladeshi",
+        "Prime Minister Tarique Rahman’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Malaysia vows to strengthen rights of Bangladeshi workers during Prime Minister Tarique Rahman’s visit",
+      "source_url": "https://www.thehindu.com/news/international/malaysia-vows-to-strengthen-rights-of-bangladeshi-workers-during-prime-minister-tarique-rahmans-visit/article71132135.ece"
+    },
+    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -56,125 +60,122 @@
   ],
   "elections": [
     {
-      "title": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
-      "source_url": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election"
-    },
-    {
-      "title": "Colombia elections take place as Abelardo de la Espriella leads polls",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Colombia elections take place as Abelardo de la Espriella leads polls",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss"
-    },
-    {
-      "title": "Ethiopian prime minister’s party easily wins parliamentary election",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Ethiopian prime minister’s party easily wins parliamentary election",
-      "source_url": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss"
-    },
-    {
-      "title": "Ethiopia's ruling party retains parliamentary majority in election marred by insecurity",
-      "country": "Ethiopia",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Ethiopia's ruling party retains parliamentary majority in election marred by insecurity",
-      "source_url": "https://abcnews.com/International/wireStory/ethiopias-ruling-party-retains-parliamentary-majority-election-marred-134077083"
-    },
-    {
-      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
+      "title": "Plurality in new polling says prediction market betting on elections should be illegal",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict"
+      "description": "Plurality in new polling says prediction market betting on elections should be illegal",
+      "source_url": "https://thehill.com/business/5934236-prediction-markets-poll-results"
+    },
+    {
+      "title": "Starmer went from election landslide to downfall after his supporters deserted him",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Starmer went from election landslide to downfall after his supporters deserted him",
+      "source_url": "https://abcnews.com/International/wireStory/keir-starmer-election-landslide-downfall-after-supporters-deserted-134088147"
+    },
+    {
+      "title": "Change of UK PM likely 'a passing of the crown' while early general election unlikely",
+      "country": "",
+      "election_type": "General",
+      "date": "",
+      "description": "Change of UK PM likely 'a passing of the crown' while early general election unlikely",
+      "source_url": "https://www.france24.com/en/change-of-uk-pm-likely-a-passing-of-the-crown-while-early-general-election-unlikely"
+    },
+    {
+      "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
+      "source_url": "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses"
+    },
+    {
+      "title": "Right-wing candidate holds slim margin in Colombian presidential election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Right-wing candidate holds slim margin in Colombian presidential election",
+      "source_url": "https://www.cbsnews.com/news/colombia-electionn-runoff-ivan-cepeda-abelardo-de-la-espriella"
     }
   ],
   "global_events": [
     {
-      "title": "Russian-held Crimea halts civilian gasoline sales following Ukrainian attacks",
-      "summary": "Russian-held Crimea halts civilian gasoline sales following Ukrainian attacks",
+      "title": "Keir Starmer announces his resignation as U.K. Prime Minister",
+      "summary": "Keir Starmer announces his resignation as U.K. Prime Minister",
       "outlets_covering": [
         "NPR World",
         "CBC World",
         "ABC News Intl",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/crimea-halts-gasoline-sales-ukraine-attacks-9.7243579?cmp=rss"
-    },
-    {
-      "title": "Colombians vote in consequential presidential runoff",
-      "summary": "Colombians vote in consequential presidential runoff",
-      "outlets_covering": [
-        "ABC News Intl",
         "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
         "The Guardian World",
-        "The Hindu Intl"
+        "Wash Post World",
+        "Time"
       ],
-      "coverage_count": 4,
-      "region": "Latin America",
+      "coverage_count": 24,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/colombia-electionn-runoff-ivan-cepeda-abelardo-de-la-espriella"
+      "source_url": "https://www.thehindu.com/news/international/starmer-announces-exit-timetable-as-rival-burnham-heads-to-uk-parliament/article71131866.ece"
     },
     {
-      "title": "Who is Abelardo De La Espriella, Colombia's new right-wing President?",
-      "summary": "Who is Abelardo De La Espriella, Colombia's new right-wing President?",
+      "title": "Abelardo De La Espriella, Right-Wing Outsider, Could Be Colombia’s Next President",
+      "summary": "Abelardo De La Espriella, Right-Wing Outsider, Could Be Colombia’s Next President",
       "outlets_covering": [
         "NPR World",
         "NYT World",
-        "The Guardian World",
         "Al Jazeera",
         "The Hindu Intl"
       ],
       "coverage_count": 6,
       "region": "Latin America",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/who-is-abelardo-de-la-espriella-colombias-new-right-wing-president/article71131580.ece"
+      "source_url": "https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html"
     },
     {
-      "title": "U.S. and Iran to talk in Switzerland as Tehran says it closed Strait of Hormuz again",
-      "summary": "U.S. and Iran to talk in Switzerland as Tehran says it closed Strait of Hormuz again",
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
+      "summary": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
       "outlets_covering": [
         "CBC World",
-        "NBC News World",
-        "The Guardian World",
+        "ABC News Intl",
         "The Independent",
-        "The Hindu Intl",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/us-and-iran-to-talk-in-switzerland-as-tehran-says-it-closed-strait-of-hormuz-again/article71127410.ece"
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/ukrainian-attacks-prompt-russian-held-crimea-halt-civilian-134070513"
     },
     {
-      "title": "Iran says Strait of Hormuz ‘closed’ as Israeli strikes on Lebanon continue",
-      "summary": "Iran says Strait of Hormuz ‘closed’ as Israeli strikes on Lebanon continue",
+      "title": "Vance Says Iran Will Allow Nuclear Watchdog to Restart Inspections",
+      "summary": "Vance Says Iran Will Allow Nuclear Watchdog to Restart Inspections",
       "outlets_covering": [
-        "CBC World",
+        "BBC World",
         "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
+        "NYT World",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 10,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/iran-closes-strait-of-hormuz-us-israel-ceasefire-violations/article71126114.ece"
+      "source_url": "https://www.nytimes.com/2026/06/22/world/middleeast/vance-iran-nuclear-inspections.html"
+    },
+    {
+      "title": "Confirmed Ebola cases in Congo outbreak exceed 1,000, authorities say",
+      "summary": "Confirmed Ebola cases in Congo outbreak exceed 1,000, authorities say",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.cbc.ca/news/health/ebola-cases-congo-outbreak-top-1-000-9.7244385?cmp=rss"
     }
   ]
 }
