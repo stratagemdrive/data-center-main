@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-06-23T02:12:46.280343Z",
+  "last_updated": "2026-06-23T14:27:19.538089Z",
   "world_org_meetings": [
+    {
+      "title": "Turkey arrests more than 200 in crackdown before NATO summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Turkey arrests more than 200 in crackdown before NATO summit",
+      "source_url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
+      "source_url": "https://abcnews.com/International/wireStory/turkey-detains-209-raids-capital-ankara-ahead-julys-134122214"
+    },
+    {
+      "title": "Takaichi to skip NATO summit in July",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Takaichi to skip NATO summit in July",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/23/japan/politics/takaichi-nato-summit-skip"
+    },
     {
       "title": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
       "organization": "NATO",
@@ -16,30 +40,6 @@
       "location": "",
       "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
-    },
-    {
-      "title": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-geoeconomic-centers-seven-charts-that-will-define-frances-g7-summit-republished-on-realclearworld"
-    },
-    {
-      "title": "Indian outrage over US killing of sailors mounts as leaders attend G7 summit",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Indian outrage over US killing of sailors mounts as leaders attend G7 summit",
-      "source_url": "https://www.theguardian.com/world/2026/jun/15/indian-outrage-over-us-killing-of-sailors-mounts-as-leaders-attend-g7-summit"
-    },
-    {
-      "title": "Lipsky interviewed in NPR on possible outcomes from the G7 summit",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Lipsky interviewed in NPR on possible outcomes from the G7 summit",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-interviewed-in-npr-on-possible-outcomes-from-the-g7-summit"
     }
   ],
   "diplomatic_visits": [
@@ -68,12 +68,36 @@
   ],
   "elections": [
     {
-      "title": "SC: Collegium's selection process is not open to judicial scrutiny, RTI",
+      "title": "Protests erupt in Colombia as far-right set to win presidential election",
+      "country": "Colombia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Protests erupt in Colombia as far-right set to win presidential election",
+      "source_url": "https://www.france24.com/en/protests-erupt-in-colombia-as-far-right-set-to-win-presidential-election"
+    },
+    {
+      "title": "Wanted: Jobs, critical minerals as Zambia's election nears",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "SC: Collegium's selection process is not open to judicial scrutiny, RTI",
-      "source_url": "https://timesofindia.indiatimes.com/india/sc-collegiums-selection-process-is-not-open-to-judicial-scrutiny-rti/articleshow/131920285.cms"
+      "description": "Wanted: Jobs, critical minerals as Zambia's election nears",
+      "source_url": "https://www.dw.com/en/wanted-jobs-critical-minerals-as-zambia-s-election-nears/a-77671261?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
+      "country": "Colombia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Why is Israel being accused of meddling in Colombia presidential election?",
+      "source_url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss"
+    },
+    {
+      "title": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-body-that-regulates-ocean-floor-prepares-for-election-amid-debate-over-deep-sea-mining/article68453304.ece"
     },
     {
       "title": "Live results: Maryland House primary elections underway",
@@ -82,49 +106,9 @@
       "date": "",
       "description": "Live results: Maryland House primary elections underway",
       "source_url": "https://thehill.com/homenews/campaign/5923281-live-results-maryland-house-primary-elections"
-    },
-    {
-      "title": "Ethiopian PM's party secures win in national election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Ethiopian PM's party secures win in national election",
-      "source_url": "https://www.france24.com/en/ethiopian-pm-s-party-secures-win-in-national-election"
-    },
-    {
-      "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
-      "source_url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump"
-    },
-    {
-      "title": "Plurality in new polling says prediction market betting on elections should be illegal",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Plurality in new polling says prediction market betting on elections should be illegal",
-      "source_url": "https://thehill.com/business/5934236-prediction-markets-poll-results"
     }
   ],
   "global_events": [
-    {
-      "title": "West Asia war updates: Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
-      "summary": "West Asia war updates: Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "NBC News World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-talks-in-switzerland-live-updates-june-22-2026/article71131544.ece"
-    },
     {
       "title": "Keir Starmer announces his resignation as U.K. Prime Minister",
       "summary": "Keir Starmer announces his resignation as U.K. Prime Minister",
@@ -138,27 +122,46 @@
         "NYT World",
         "Wash Post World",
         "Time",
-        "Al Jazeera"
+        "The Hindu Intl"
       ],
-      "coverage_count": 23,
+      "coverage_count": 18,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/starmer-announces-exit-timetable-as-rival-burnham-heads-to-uk-parliament/article71131866.ece"
     },
     {
-      "title": "Who is Andy Burnham, U.K.’s ‘King of the North’ and likely next prime minister?",
-      "summary": "Who is Andy Burnham, U.K.’s ‘King of the North’ and likely next prime minister?",
+      "title": "Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
+      "summary": "Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
+      "outlets_covering": [
+        "CBC World",
+        "NBC News World",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/vance-says-talks-with-iranian-officials-set-good-foundation-for-a-deal-to-end-the-war/article71135816.ece"
+    },
+    {
+      "title": "How Andy Burnham can become the next UK prime minister",
+      "summary": "How Andy Burnham can become the next UK prime minister",
       "outlets_covering": [
         "CBS News World",
         "NBC News World",
+        "Fox News World",
+        "NYT World",
         "Wash Post World",
         "DW World",
-        "The Hill"
+        "France24",
+        "The Hill",
+        "Vox"
       ],
-      "coverage_count": 5,
-      "region": "Global",
+      "coverage_count": 9,
+      "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/06/22/who-is-andy-burnham-uks-king-north-likely-next-prime-minister"
+      "source_url": "https://www.france24.com/en/how-andy-burnham-can-become-the-next-uk-prime-minister"
     },
     {
       "title": "Confirmed Ebola cases in outbreak zone top 1,000",
@@ -176,24 +179,22 @@
       "source_url": "https://thehill.com/policy/healthcare/5934325-ebola-outbreak-congo"
     },
     {
-      "title": "Keir Starmer Resigns as UK Prime Minister",
-      "summary": "Keir Starmer Resigns as UK Prime Minister",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "summary": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
+        "BBC World",
         "NYT World",
+        "The Guardian World",
         "Wash Post World",
-        "Time",
-        "Al Jazeera"
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 24,
-      "region": "Europe",
+      "coverage_count": 8,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
+      "source_url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
