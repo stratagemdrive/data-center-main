@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-22T16:27:50.950699Z",
+  "last_updated": "2026-06-23T02:12:46.280343Z",
   "world_org_meetings": [
+    {
+      "title": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-is-an-opportunity-for-nato-to-ramp-up-engagement-with-its-southern-neighborhood"
+    },
     {
       "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
       "organization": "G7",
@@ -60,47 +68,63 @@
   ],
   "elections": [
     {
+      "title": "SC: Collegium's selection process is not open to judicial scrutiny, RTI",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "SC: Collegium's selection process is not open to judicial scrutiny, RTI",
+      "source_url": "https://timesofindia.indiatimes.com/india/sc-collegiums-selection-process-is-not-open-to-judicial-scrutiny-rti/articleshow/131920285.cms"
+    },
+    {
+      "title": "Live results: Maryland House primary elections underway",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Live results: Maryland House primary elections underway",
+      "source_url": "https://thehill.com/homenews/campaign/5923281-live-results-maryland-house-primary-elections"
+    },
+    {
+      "title": "Ethiopian PM's party secures win in national election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Ethiopian PM's party secures win in national election",
+      "source_url": "https://www.france24.com/en/ethiopian-pm-s-party-secures-win-in-national-election"
+    },
+    {
+      "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
+      "country": "Colombia",
+      "election_type": "National",
+      "date": "",
+      "description": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
+      "source_url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump"
+    },
+    {
       "title": "Plurality in new polling says prediction market betting on elections should be illegal",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Plurality in new polling says prediction market betting on elections should be illegal",
       "source_url": "https://thehill.com/business/5934236-prediction-markets-poll-results"
-    },
-    {
-      "title": "Starmer went from election landslide to downfall after his supporters deserted him",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Starmer went from election landslide to downfall after his supporters deserted him",
-      "source_url": "https://abcnews.com/International/wireStory/keir-starmer-election-landslide-downfall-after-supporters-deserted-134088147"
-    },
-    {
-      "title": "Change of UK PM likely 'a passing of the crown' while early general election unlikely",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Change of UK PM likely 'a passing of the crown' while early general election unlikely",
-      "source_url": "https://www.france24.com/en/change-of-uk-pm-likely-a-passing-of-the-crown-while-early-general-election-unlikely"
-    },
-    {
-      "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
-      "source_url": "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses"
-    },
-    {
-      "title": "Right-wing candidate holds slim margin in Colombian presidential election",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Right-wing candidate holds slim margin in Colombian presidential election",
-      "source_url": "https://www.cbsnews.com/news/colombia-electionn-runoff-ivan-cepeda-abelardo-de-la-espriella"
     }
   ],
   "global_events": [
+    {
+      "title": "West Asia war updates: Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
+      "summary": "West Asia war updates: Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "NBC News World",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-talks-in-switzerland-live-updates-june-22-2026/article71131544.ece"
+    },
     {
       "title": "Keir Starmer announces his resignation as U.K. Prime Minister",
       "summary": "Keir Starmer announces his resignation as U.K. Prime Minister",
@@ -112,70 +136,64 @@
         "NBC News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
         "Wash Post World",
-        "Time"
+        "Time",
+        "Al Jazeera"
       ],
-      "coverage_count": 24,
+      "coverage_count": 23,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/starmer-announces-exit-timetable-as-rival-burnham-heads-to-uk-parliament/article71131866.ece"
     },
     {
-      "title": "Abelardo De La Espriella, Right-Wing Outsider, Could Be Colombia’s Next President",
-      "summary": "Abelardo De La Espriella, Right-Wing Outsider, Could Be Colombia’s Next President",
+      "title": "Who is Andy Burnham, U.K.’s ‘King of the North’ and likely next prime minister?",
+      "summary": "Who is Andy Burnham, U.K.’s ‘King of the North’ and likely next prime minister?",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Wash Post World",
+        "DW World",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/06/22/who-is-andy-burnham-uks-king-north-likely-next-prime-minister"
+    },
+    {
+      "title": "Confirmed Ebola cases in outbreak zone top 1,000",
+      "summary": "Confirmed Ebola cases in outbreak zone top 1,000",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "The Hindu Intl",
+        "UN News",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://thehill.com/policy/healthcare/5934325-ebola-outbreak-congo"
+    },
+    {
+      "title": "Keir Starmer Resigns as UK Prime Minister",
+      "summary": "Keir Starmer Resigns as UK Prime Minister",
       "outlets_covering": [
         "NPR World",
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html"
-    },
-    {
-      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "summary": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "outlets_covering": [
         "CBC World",
         "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/ukrainian-attacks-prompt-russian-held-crimea-halt-civilian-134070513"
-    },
-    {
-      "title": "Vance Says Iran Will Allow Nuclear Watchdog to Restart Inspections",
-      "summary": "Vance Says Iran Will Allow Nuclear Watchdog to Restart Inspections",
-      "outlets_covering": [
-        "BBC World",
         "CBS News World",
+        "NBC News World",
+        "Fox News World",
         "NYT World",
-        "The Hill",
-        "Axios"
+        "Wash Post World",
+        "Time",
+        "Al Jazeera"
       ],
-      "coverage_count": 6,
-      "region": "Middle East",
+      "coverage_count": 24,
+      "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/06/22/world/middleeast/vance-iran-nuclear-inspections.html"
-    },
-    {
-      "title": "Confirmed Ebola cases in Congo outbreak exceed 1,000, authorities say",
-      "summary": "Confirmed Ebola cases in Congo outbreak exceed 1,000, authorities say",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.cbc.ca/news/health/ebola-cases-congo-outbreak-top-1-000-9.7244385?cmp=rss"
+      "source_url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html"
     }
   ]
 }
