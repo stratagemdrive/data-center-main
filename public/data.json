@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-23T14:27:19.538089Z",
+  "last_updated": "2026-06-24T02:14:22.196963Z",
   "world_org_meetings": [
+    {
+      "title": "Turkey detains 209 in raids in the capital ahead of July’s NATO summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Turkey detains 209 in raids in the capital ahead of July’s NATO summit",
+      "source_url": "https://www.thehindu.com/news/international/turkey-detains-209-in-raids-in-the-capital-ahead-of-julys-nato-summit/article71139464.ece"
+    },
     {
       "title": "Turkey arrests more than 200 in crackdown before NATO summit",
       "organization": "NATO",
@@ -10,12 +18,12 @@
       "source_url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
+      "title": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
-      "source_url": "https://abcnews.com/International/wireStory/turkey-detains-209-raids-capital-ankara-ahead-julys-134122214"
+      "description": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
+      "source_url": "https://www.foxnews.com/world/turkey-detains-200-suspects-including-alleged-isis-militants-sweeping-raid-ahead-nato-summit"
     },
     {
       "title": "Takaichi to skip NATO summit in July",
@@ -32,29 +40,9 @@
       "location": "",
       "description": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
       "source_url": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-is-an-opportunity-for-nato-to-ramp-up-engagement-with-its-southern-neighborhood"
-    },
-    {
-      "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "Malaysia vows to strengthen rights of Bangladeshi workers during Prime Minister Tarique Rahman’s visit",
-      "participants": [
-        "Malaysia",
-        "Bangladeshi",
-        "Prime Minister Tarique Rahman’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Malaysia vows to strengthen rights of Bangladeshi workers during Prime Minister Tarique Rahman’s visit",
-      "source_url": "https://www.thehindu.com/news/international/malaysia-vows-to-strengthen-rights-of-bangladeshi-workers-during-prime-minister-tarique-rahmans-visit/article71132135.ece"
-    },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
@@ -68,133 +56,125 @@
   ],
   "elections": [
     {
-      "title": "Protests erupt in Colombia as far-right set to win presidential election",
-      "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Protests erupt in Colombia as far-right set to win presidential election",
-      "source_url": "https://www.france24.com/en/protests-erupt-in-colombia-as-far-right-set-to-win-presidential-election"
-    },
-    {
-      "title": "Wanted: Jobs, critical minerals as Zambia's election nears",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Wanted: Jobs, critical minerals as Zambia's election nears",
-      "source_url": "https://www.dw.com/en/wanted-jobs-critical-minerals-as-zambia-s-election-nears/a-77671261?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
-      "country": "Colombia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Why is Israel being accused of meddling in Colombia presidential election?",
-      "source_url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss"
-    },
-    {
-      "title": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
-      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-body-that-regulates-ocean-floor-prepares-for-election-amid-debate-over-deep-sea-mining/article68453304.ece"
-    },
-    {
       "title": "Live results: Maryland House primary elections underway",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Live results: Maryland House primary elections underway",
       "source_url": "https://thehill.com/homenews/campaign/5923281-live-results-maryland-house-primary-elections"
+    },
+    {
+      "title": "ACLU plans to monitor election certification with $50M midterms push",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "ACLU plans to monitor election certification with $50M midterms push",
+      "source_url": "https://thehill.com/homenews/campaign/5936861-aclu-monitors-election-certification"
+    },
+    {
+      "title": "Brexit, 10 years later: What a regret-fuelled British town can teach Canada about referendums",
+      "country": "Canada",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Brexit, 10 years later: What a regret-fuelled British town can teach Canada about referendums",
+      "source_url": "https://www.cbc.ca/news/world/10-years-after-brexit-9.7245611?cmp=rss"
+    },
+    {
+      "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
+      "source_url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss"
+    },
+    {
+      "title": "Watch live: Data Nerds track and analyze primary elections in Maryland, New York and Utah",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Watch live: Data Nerds track and analyze primary elections in Maryland, New York and Utah",
+      "source_url": "https://thehill.com/homenews/campaign/data-nerds/5936516-2026-primaries-live-coverage-data-nerds"
     }
   ],
   "global_events": [
     {
-      "title": "Keir Starmer announces his resignation as U.K. Prime Minister",
-      "summary": "Keir Starmer announces his resignation as U.K. Prime Minister",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 18,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/starmer-announces-exit-timetable-as-rival-burnham-heads-to-uk-parliament/article71131866.ece"
-    },
-    {
-      "title": "Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
-      "summary": "Vance says talks with Iranian officials set ’good foundation’ for a deal to end the war",
-      "outlets_covering": [
-        "CBC World",
-        "NBC News World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/vance-says-talks-with-iranian-officials-set-good-foundation-for-a-deal-to-end-the-war/article71135816.ece"
-    },
-    {
-      "title": "How Andy Burnham can become the next UK prime minister",
-      "summary": "How Andy Burnham can become the next UK prime minister",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "DW World",
-        "France24",
-        "The Hill",
-        "Vox"
-      ],
-      "coverage_count": 9,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/how-andy-burnham-can-become-the-next-uk-prime-minister"
-    },
-    {
-      "title": "Confirmed Ebola cases in outbreak zone top 1,000",
-      "summary": "Confirmed Ebola cases in outbreak zone top 1,000",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "The Hindu Intl",
-        "UN News",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://thehill.com/policy/healthcare/5934325-ebola-outbreak-congo"
-    },
-    {
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "summary": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "title": "Israel committed genocide in Gaza, deliberately targeted Palestinian children: UN report",
+      "summary": "Israel committed genocide in Gaza, deliberately targeted Palestinian children: UN report",
       "outlets_covering": [
         "BBC World",
-        "NYT World",
+        "CBC World",
         "The Guardian World",
-        "Wash Post World",
         "The Independent",
+        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "UN News"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/un-report-gaza-children-genocide-9.7246490?cmp=rss"
+    },
+    {
+      "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+      "summary": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "Wash Post World",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hill"
       ],
       "coverage_count": 8,
       "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss"
+    },
+    {
+      "title": "U.S. Senate for the first time approves War Powers resolution in rebuke to Trump over Iran conflict",
+      "summary": "U.S. Senate for the first time approves War Powers resolution in rebuke to Trump over Iran conflict",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/us-senate-for-the-first-time-approves-war-powers-resolution-in-rebuke-to-trump-over-iran-conflict/article71139271.ece"
+    },
+    {
+      "title": "What has Britain's likely next prime minister said about Trump?",
+      "summary": "What has Britain's likely next prime minister said about Trump?",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "DW World",
+        "Vox"
+      ],
+      "coverage_count": 10,
+      "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/news/uk-andy-burnham-what-he-says-about-president-trump"
+    },
+    {
+      "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "summary": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations"
     }
   ]
 }
