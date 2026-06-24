@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T02:14:22.196963Z",
+  "last_updated": "2026-06-24T14:05:51.405125Z",
   "world_org_meetings": [
     {
       "title": "Turkey detains 209 in raids in the capital ahead of July’s NATO summit",
@@ -10,14 +10,6 @@
       "source_url": "https://www.thehindu.com/news/international/turkey-detains-209-in-raids-in-the-capital-ahead-of-julys-nato-summit/article71139464.ece"
     },
     {
-      "title": "Turkey arrests more than 200 in crackdown before NATO summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Turkey arrests more than 200 in crackdown before NATO summit",
-      "source_url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-world-4025-rdf"
-    },
-    {
       "title": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
       "organization": "NATO",
       "date": "",
@@ -26,12 +18,12 @@
       "source_url": "https://www.foxnews.com/world/turkey-detains-200-suspects-including-alleged-isis-militants-sweeping-raid-ahead-nato-summit"
     },
     {
-      "title": "Takaichi to skip NATO summit in July",
+      "title": "Turkiye arrests over 200 before NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Takaichi to skip NATO summit in July",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/23/japan/politics/takaichi-nato-summit-skip"
+      "description": "Turkiye arrests over 200 before NATO summit",
+      "source_url": "https://www.thehindu.com/news/international/turkiye-arrests-over-200-before-nato-summit/article71136832.ece"
     },
     {
       "title": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
@@ -40,6 +32,14 @@
       "location": "",
       "description": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
       "source_url": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-is-an-opportunity-for-nato-to-ramp-up-engagement-with-its-southern-neighborhood"
+    },
+    {
+      "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
     }
   ],
   "diplomatic_visits": [
@@ -55,6 +55,22 @@
     }
   ],
   "elections": [
+    {
+      "title": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
+      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-body-that-regulates-ocean-floor-prepares-for-election-amid-debate-over-deep-sea-mining/article68453304.ece"
+    },
+    {
+      "title": "Keiko Fujimori: Peru’s biggest political loser poised to win election",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Keiko Fujimori: Peru’s biggest political loser poised to win election",
+      "source_url": "https://www.japantimes.co.jp/news/2026/06/24/world/fujimori-peru-election"
+    },
     {
       "title": "Live results: Maryland House primary elections underway",
       "country": "",
@@ -78,103 +94,88 @@
       "date": "",
       "description": "Brexit, 10 years later: What a regret-fuelled British town can teach Canada about referendums",
       "source_url": "https://www.cbc.ca/news/world/10-years-after-brexit-9.7245611?cmp=rss"
-    },
-    {
-      "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
-      "source_url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss"
-    },
-    {
-      "title": "Watch live: Data Nerds track and analyze primary elections in Maryland, New York and Utah",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Watch live: Data Nerds track and analyze primary elections in Maryland, New York and Utah",
-      "source_url": "https://thehill.com/homenews/campaign/data-nerds/5936516-2026-primaries-live-coverage-data-nerds"
     }
   ],
   "global_events": [
     {
-      "title": "Israel committed genocide in Gaza, deliberately targeted Palestinian children: UN report",
-      "summary": "Israel committed genocide in Gaza, deliberately targeted Palestinian children: UN report",
+      "title": "UN nuclear agency boss says inspectors will visit Iran's nuclear sites",
+      "summary": "UN nuclear agency boss says inspectors will visit Iran's nuclear sites",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "The Guardian World",
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
         "The Independent",
-        "Al Jazeera",
-        "Japan Times",
         "The Hindu Intl",
-        "UN News"
+        "Axios"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/nuclear-agency-boss-inspectors-visit-irans-nuclear-sites-134157660"
+    },
+    {
+      "title": "US Senate approves Iran war powers resolution: What that means for Trump",
+      "summary": "US Senate approves Iran war powers resolution: What that means for Trump",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
       ],
       "coverage_count": 9,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/un-report-gaza-children-genocide-9.7246490?cmp=rss"
-    },
-    {
-      "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
-      "summary": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NYT World",
-        "Wash Post World",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss"
+      "source_url": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss"
     },
     {
-      "title": "U.S. Senate for the first time approves War Powers resolution in rebuke to Trump over Iran conflict",
-      "summary": "U.S. Senate for the first time approves War Powers resolution in rebuke to Trump over Iran conflict",
+      "title": "What Has Andy Burnham, Britain's Likely Next Prime Minister, Said About Trump?",
+      "summary": "What Has Andy Burnham, Britain's Likely Next Prime Minister, Said About Trump?",
       "outlets_covering": [
         "CBS News World",
         "NBC News World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-senate-for-the-first-time-approves-war-powers-resolution-in-rebuke-to-trump-over-iran-conflict/article71139271.ece"
-    },
-    {
-      "title": "What has Britain's likely next prime minister said about Trump?",
-      "summary": "What has Britain's likely next prime minister said about Trump?",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
         "Wash Post World",
         "Time",
-        "DW World",
+        "SCMP",
         "Vox"
       ],
-      "coverage_count": 10,
+      "coverage_count": 7,
       "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/uk-andy-burnham-what-he-says-about-president-trump"
+      "source_url": "https://time.com/article/2026/06/23/what-has-andy-burnham-uk-prime-minister-lead-said-about-trump"
     },
     {
-      "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
-      "summary": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "title": "'Genocide': UN report says Israel 'deliberately killed Palestinian children'",
+      "summary": "'Genocide': UN report says Israel 'deliberately killed Palestinian children'",
       "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "The Hindu Intl"
+        "CBC World",
+        "The Guardian World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "UN News"
       ],
-      "coverage_count": 3,
-      "region": "Europe",
+      "coverage_count": 6,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations"
+      "source_url": "https://www.france24.com/en/tv-shows/press-review/20260624-genocide-un-report-says-israel-deliberately-killed-palestinian-children"
+    },
+    {
+      "title": "North Korea commissions warship as Kim eyes nuclear navy",
+      "summary": "North Korea commissions warship as Kim eyes nuclear navy",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss"
     }
   ]
 }
