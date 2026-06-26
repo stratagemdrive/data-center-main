@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-25T14:03:19.723146Z",
+  "last_updated": "2026-06-26T02:27:19.797116Z",
   "world_org_meetings": [
+    {
+      "title": "Turkish journalism groups say independent outlets denied accreditation for a NATO summit in Ankara",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Turkish journalism groups say independent outlets denied accreditation for a NATO summit in Ankara",
+      "source_url": "https://abcnews.com/International/wireStory/turkish-journalism-groups-independent-outlets-denied-accreditation-nato-134217990"
+    },
     {
       "title": "NATO Chief heads to the White House to soothe the president ahead of next month's summit",
       "organization": "NATO",
@@ -16,14 +24,6 @@
       "location": "",
       "description": "US delegation snubs Apec meeting in Macau due to China visa requirements row",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3358259/us-delegation-snubs-apec-meeting-macau-due-china-visa-requirements-row"
-    },
-    {
-      "title": "Trump, Cassidy get testy at Senate GOP meeting; NATO chief defends US goals in Iran: Live updates",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump, Cassidy get testy at Senate GOP meeting; NATO chief defends US goals in Iran: Live updates",
-      "source_url": "https://thehill.com/homenews/administration/5936473-live-updates-trump-senate-state-fair"
     },
     {
       "title": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
@@ -56,6 +56,14 @@
   ],
   "elections": [
     {
+      "title": "Watch live: House Democrats host forum on election threats",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Watch live: House Democrats host forum on election threats",
+      "source_url": "https://thehill.com/video-clips/5941041-watch-live-house-democrats-election-threats-presser"
+    },
+    {
       "title": "Mamdani on election wins: New Yorkers exhausted with ‘status quo politics’",
       "country": "",
       "election_type": "National",
@@ -64,28 +72,12 @@
       "source_url": "https://thehill.com/homenews/campaign/5939932-zohran-mandani-new-york-primaries-democratic-wins-status-quo"
     },
     {
-      "title": "Peru's Keiko Fujimori celebrates election win as opponent alleges fraud",
-      "country": "Peru",
+      "title": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
+      "country": "Japan",
       "election_type": "National",
       "date": "",
-      "description": "Peru's Keiko Fujimori celebrates election win as opponent alleges fraud",
-      "source_url": "https://www.france24.com/en/video/20260625-peru-s-keiko-fujimori-celebrates-election-win-as-opponent-alleges-fraud"
-    },
-    {
-      "title": "Leader of secretive South Korean church arrested in election influence investigation",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Leader of secretive South Korean church arrested in election influence investigation",
-      "source_url": "https://abcnews.com/International/wireStory/leader-secretive-south-korean-church-arrested-election-influence-134170711"
-    },
-    {
-      "title": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "UN body that regulates ocean floor prepares for election amid debate over deep-sea mining",
-      "source_url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-body-that-regulates-ocean-floor-prepares-for-election-amid-debate-over-deep-sea-mining/article68453304.ece"
+      "description": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167812"
     },
     {
       "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
@@ -98,85 +90,82 @@
   ],
   "global_events": [
     {
-      "title": "Senate Republicans reject Iran war powers measure after Trump pressure",
-      "summary": "Senate Republicans reject Iran war powers measure after Trump pressure",
+      "title": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
+      "summary": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
       "outlets_covering": [
         "BBC World",
-        "NBC News World",
+        "CBC World",
+        "Sky News World",
         "The Guardian World",
-        "Time",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
-      "coverage_count": 10,
-      "region": "Middle East",
+      "coverage_count": 7,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/jun/25/senate-republicans-reject-iran-war-powers-trump"
+      "source_url": "https://www.thehindu.com/news/international/un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked/article71147725.ece"
     },
     {
-      "title": "Venezuela Earthquake Death Toll Rises to at Least 164",
-      "summary": "Venezuela Earthquake Death Toll Rises to at Least 164",
+      "title": "Oil tankers exit Strait of Hormuz despite Iran threats",
+      "summary": "Oil tankers exit Strait of Hormuz despite Iran threats",
       "outlets_covering": [
-        "NPR World",
         "CBS News World",
         "The Guardian World",
-        "Bloomberg",
         "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "The Hill"
       ],
-      "coverage_count": 9,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-06-25/venezuela-earthquake-death-toll-rises-to-at-least-164-video"
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/5940531-strait-of-hormuz-iran-war-tensions-oil-tankers"
     },
     {
-      "title": "Venezuela declares state of emergency after deadly twin earthquakes",
-      "summary": "Venezuela declares state of emergency after deadly twin earthquakes",
+      "title": "The Aftermath of Venezuela’s Earthquakes",
+      "summary": "The Aftermath of Venezuela’s Earthquakes",
       "outlets_covering": [
-        "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
-    },
-    {
-      "title": "Powerful earthquakes devastate Venezuela",
-      "summary": "Powerful earthquakes devastate Venezuela",
-      "outlets_covering": [
+        "NPR World",
         "ABC News Intl",
         "CBS News World",
         "NYT World",
-        "The Guardian World",
+        "Time",
         "The Independent",
         "Al Jazeera",
-        "France24",
         "The Hindu Intl",
-        "Axios"
+        "UN News",
+        "Foreign Policy"
       ],
-      "coverage_count": 13,
+      "coverage_count": 15,
       "region": "Latin America",
       "category": "Climate",
-      "source_url": "https://www.axios.com/2026/06/25/venezuela-earthquakes"
+      "source_url": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
     },
     {
-      "title": "North Korean soldier crosses border into South Korea in suspected defection",
-      "summary": "North Korean soldier crosses border into South Korea in suspected defection",
+      "title": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
+      "summary": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
       "outlets_covering": [
-        "CBS News World",
-        "Sky News World",
-        "DW World"
+        "ABC News Intl",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 3,
-      "region": "East / Southeast Asia",
+      "coverage_count": 8,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
+    },
+    {
+      "title": "Supreme court hands Trump administration big win with rulings on key immigration cases – as it happened",
+      "summary": "Supreme court hands Trump administration big win with rulings on key immigration cases – as it happened",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://news.sky.com/story/north-korean-soldier-crosses-border-into-south-korea-in-suspected-defection-13557640"
+      "source_url": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates"
     }
   ]
 }
