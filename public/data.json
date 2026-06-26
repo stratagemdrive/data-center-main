@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-26T02:27:19.797116Z",
+  "last_updated": "2026-06-26T14:02:42.212321Z",
   "world_org_meetings": [
+    {
+      "title": "NATO summit should display unity and pledges to defense, deputy NATO chief tells AP",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "NATO summit should display unity and pledges to defense, deputy NATO chief tells AP",
+      "source_url": "https://abcnews.com/International/wireStory/nato-summit-display-unity-pledges-defense-deputy-nato-134231459"
+    },
     {
       "title": "Turkish journalism groups say independent outlets denied accreditation for a NATO summit in Ankara",
       "organization": "NATO",
@@ -8,14 +16,6 @@
       "location": "",
       "description": "Turkish journalism groups say independent outlets denied accreditation for a NATO summit in Ankara",
       "source_url": "https://abcnews.com/International/wireStory/turkish-journalism-groups-independent-outlets-denied-accreditation-nato-134217990"
-    },
-    {
-      "title": "NATO Chief heads to the White House to soothe the president ahead of next month's summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO Chief heads to the White House to soothe the president ahead of next month's summit",
-      "source_url": "https://www.thehindu.com/news/international/nato-chief-heads-to-the-white-house-to-soothe-the-president-ahead-of-next-months-summit/article71143321.ece"
     },
     {
       "title": "US delegation snubs Apec meeting in Macau due to China visa requirements row",
@@ -44,6 +44,18 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Japanese PM Takaichi to undertake first official visit to India to take part in 16th India-Japan Annual Summit",
+      "participants": [
+        "Japanese PM Takaichi",
+        "India",
+        "India-Japan Annual Summit"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Japanese PM Takaichi to undertake first official visit to India to take part in 16th India-Japan Annual Summit",
+      "source_url": "https://timesofindia.indiatimes.com/india/japanese-pm-takaichi-to-undertake-first-official-visit-to-india-to-take-part-in-16th-india-japan-annual-summit/articleshow/132012412.cms"
+    },
+    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -55,6 +67,14 @@
     }
   ],
   "elections": [
+    {
+      "title": "Elon Musk ordered to give deposition in alleged ‘vote buying’ election scheme",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Elon Musk ordered to give deposition in alleged ‘vote buying’ election scheme",
+      "source_url": "https://thehill.com/regulation/court-battles/5941842-musk-america-pac-lawsuit"
+    },
     {
       "title": "Watch live: House Democrats host forum on election threats",
       "country": "",
@@ -78,94 +98,92 @@
       "date": "",
       "description": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
       "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167812"
-    },
-    {
-      "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
-      "country": "",
-      "election_type": "Local",
-      "date": "",
-      "description": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
-      "source_url": "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses"
     }
   ],
   "global_events": [
     {
-      "title": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
-      "summary": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Sky News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked/article71147725.ece"
-    },
-    {
-      "title": "Oil tankers exit Strait of Hormuz despite Iran threats",
-      "summary": "Oil tankers exit Strait of Hormuz despite Iran threats",
-      "outlets_covering": [
-        "CBS News World",
-        "The Guardian World",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/5940531-strait-of-hormuz-iran-war-tensions-oil-tankers"
-    },
-    {
-      "title": "The Aftermath of Venezuela’s Earthquakes",
-      "summary": "The Aftermath of Venezuela’s Earthquakes",
+      "title": "Venezuela earthquakes latest: Death toll soars to 589 with over 50,000 missing and US military arrives for aid efforts",
+      "summary": "Venezuela earthquakes latest: Death toll soars to 589 with over 50,000 missing and US military arrives for aid efforts",
       "outlets_covering": [
         "NPR World",
-        "ABC News Intl",
-        "CBS News World",
+        "CBC World",
+        "Fox News World",
         "NYT World",
-        "Time",
         "The Independent",
-        "Al Jazeera",
         "The Hindu Intl",
-        "UN News",
-        "Foreign Policy"
+        "The Hill"
       ],
-      "coverage_count": 15,
+      "coverage_count": 8,
       "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html"
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/venezuela-earthquake-caracas-terremoto-death-toll-map-live-b3003427.html"
     },
     {
-      "title": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
-      "summary": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
+      "title": "Venezuela earthquake LIVE updates: Venezuela earthquakes toll more than doubles to 589",
+      "summary": "Venezuela earthquake LIVE updates: Venezuela earthquakes toll more than doubles to 589",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.thehindu.com/news/international/venezuela-earthquakes-terremoto-caracas-magnitude-7-damages-death-toll-live-updates-june-26-2026/article71149145.ece"
+    },
+    {
+      "title": "Everything we know so far about the deadly earthquakes in Venezuela",
+      "summary": "Everything we know so far about the deadly earthquakes in Venezuela",
       "outlets_covering": [
         "ABC News Intl",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
         "Al Jazeera",
-        "France24"
+        "The Hindu Intl",
+        "Foreign Policy",
+        "Axios"
       ],
       "coverage_count": 8,
       "region": "Latin America",
       "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/everything-we-know-so-far-about-the-deadly-earthquakes-in-venezuela-2?traffic_source=rss"
     },
     {
-      "title": "Supreme court hands Trump administration big win with rulings on key immigration cases – as it happened",
-      "summary": "Supreme court hands Trump administration big win with rulings on key immigration cases – as it happened",
+      "title": "Dramatic moment woman pulled from rubble after Venezuela earthquake kills hundreds",
+      "summary": "Dramatic moment woman pulled from rubble after Venezuela earthquake kills hundreds",
       "outlets_covering": [
-        "The Guardian World",
-        "The Hill"
+        "BBC World",
+        "CBS News World",
+        "The Independent",
+        "Al Jazeera"
       ],
       "coverage_count": 4,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates"
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.independent.co.uk/news/world/americas/woman-rubble-venezuela-earthquake-caracas-b3003643.html"
+    },
+    {
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "summary": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
