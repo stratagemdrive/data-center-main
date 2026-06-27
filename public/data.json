@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T02:11:37.861950Z",
+  "last_updated": "2026-06-27T13:09:08.945357Z",
   "world_org_meetings": [
     {
       "title": "NATO summit should display unity and pledges to defense, deputy NATO chief tells AP",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "NATO summit should display unity and pledges to defense, deputy NATO chief tells AP",
       "source_url": "https://abcnews.com/International/wireStory/nato-summit-display-unity-pledges-defense-deputy-nato-134231459"
-    },
-    {
-      "title": "Turkish journalism groups say independent outlets denied accreditation for a NATO summit in Ankara",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Turkish journalism groups say independent outlets denied accreditation for a NATO summit in Ankara",
-      "source_url": "https://abcnews.com/International/wireStory/turkish-journalism-groups-independent-outlets-denied-accreditation-nato-134217990"
     },
     {
       "title": "US delegation snubs Apec meeting in Macau due to China visa requirements row",
@@ -40,6 +32,14 @@
       "location": "",
       "description": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
       "source_url": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-is-an-opportunity-for-nato-to-ramp-up-engagement-with-its-southern-neighborhood"
+    },
+    {
+      "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
     }
   ],
   "diplomatic_visits": [
@@ -55,6 +55,30 @@
     }
   ],
   "elections": [
+    {
+      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+      "source_url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss"
+    },
+    {
+      "title": "Natural Selection",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Natural Selection",
+      "source_url": "https://www.nytimes.com/2026/06/27/briefing/natural-selection.html"
+    },
+    {
+      "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+      "source_url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
+    },
     {
       "title": "Watch live: House Democrats host forum on election threats",
       "country": "",
@@ -74,24 +98,24 @@
   ],
   "global_events": [
     {
-      "title": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
-      "summary": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "US strikes Iran after attack on cargo ship",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "CBC World",
         "CBS News World",
-        "NBC News World",
         "NYT World",
         "The Guardian World",
         "Time",
-        "The Independent",
         "Al Jazeera",
-        "Japan Times"
+        "France24",
+        "Foreign Policy"
       ],
-      "coverage_count": 17,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
+      "source_url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Israel, Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, Rubio says",
@@ -100,64 +124,69 @@
         "BBC World",
         "CBC World",
         "NBC News World",
-        "Al Jazeera",
         "France24",
         "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 9,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/israel-lebanon-framework-agreement-united-states-june-26-2026/article71152028.ece"
     },
     {
-      "title": "U.S. strikes Iran after Trump accuses Tehran of \"foolish violation\" of ceasefire",
-      "summary": "U.S. strikes Iran after Trump accuses Tehran of \"foolish violation\" of ceasefire",
+      "title": "Iran says it struck U.S.-linked targets as Bahrain reports drone attack",
+      "summary": "Iran says it struck U.S.-linked targets as Bahrain reports drone attack",
       "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "Al Jazeera",
-        "France24",
-        "The Hill"
+        "The Guardian World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks"
+      "source_url": "https://www.cbc.ca/news/world/iran-united-states-bahrain-drone-attack-9.7251324?cmp=rss"
     },
     {
-      "title": "U.S. strikes targets in Iran after drone attack on cargo ship",
-      "summary": "U.S. strikes targets in Iran after drone attack on cargo ship",
+      "title": "New US-Lebanon-Israel agreement signed",
+      "summary": "New US-Lebanon-Israel agreement signed",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NBC News World",
+        "France24",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/new-us-lebanon-israel-agreement-signed"
+    },
+    {
+      "title": "A cargo ship in the Strait of Hormuz targeted by Iran",
+      "summary": "A cargo ship in the Strait of Hormuz targeted by Iran",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "CBS News World",
-        "NBC News World",
+        "Sky News World",
         "NYT World",
         "The Guardian World",
         "Time",
-        "Al Jazeera",
-        "Japan Times",
-        "Foreign Policy"
+        "France24",
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 15,
+      "coverage_count": 17,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/us-strikes-iran-drone-attack-cargo-ship-challenge-ceasefire-trump"
-    },
-    {
-      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
-      "summary": "UN rights chief calls for probe into migrant deaths in US detention centres",
-      "outlets_covering": [
-        "Al Jazeera",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss"
+      "source_url": "https://www.france24.com/en/a-cargo-ship-in-the-strait-of-hormuz-targeted-by-iran"
     }
   ]
 }
