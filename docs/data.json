@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T14:02:42.212321Z",
+  "last_updated": "2026-06-27T02:11:37.861950Z",
   "world_org_meetings": [
     {
       "title": "NATO summit should display unity and pledges to defense, deputy NATO chief tells AP",
@@ -44,18 +44,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Japanese PM Takaichi to undertake first official visit to India to take part in 16th India-Japan Annual Summit",
-      "participants": [
-        "Japanese PM Takaichi",
-        "India",
-        "India-Japan Annual Summit"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Japanese PM Takaichi to undertake first official visit to India to take part in 16th India-Japan Annual Summit",
-      "source_url": "https://timesofindia.indiatimes.com/india/japanese-pm-takaichi-to-undertake-first-official-visit-to-india-to-take-part-in-16th-india-japan-annual-summit/articleshow/132012412.cms"
-    },
-    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -68,28 +56,12 @@
   ],
   "elections": [
     {
-      "title": "Elon Musk ordered to give deposition in alleged ‘vote buying’ election scheme",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Elon Musk ordered to give deposition in alleged ‘vote buying’ election scheme",
-      "source_url": "https://thehill.com/regulation/court-battles/5941842-musk-america-pac-lawsuit"
-    },
-    {
       "title": "Watch live: House Democrats host forum on election threats",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Watch live: House Democrats host forum on election threats",
       "source_url": "https://thehill.com/video-clips/5941041-watch-live-house-democrats-election-threats-presser"
-    },
-    {
-      "title": "Mamdani on election wins: New Yorkers exhausted with ‘status quo politics’",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Mamdani on election wins: New Yorkers exhausted with ‘status quo politics’",
-      "source_url": "https://thehill.com/homenews/campaign/5939932-zohran-mandani-new-york-primaries-democratic-wins-status-quo"
     },
     {
       "title": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
@@ -102,88 +74,90 @@
   ],
   "global_events": [
     {
-      "title": "Venezuela earthquakes latest: Death toll soars to 589 with over 50,000 missing and US military arrives for aid efforts",
-      "summary": "Venezuela earthquakes latest: Death toll soars to 589 with over 50,000 missing and US military arrives for aid efforts",
+      "title": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+      "summary": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "Fox News World",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Latin America",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/venezuela-earthquake-caracas-terremoto-death-toll-map-live-b3003427.html"
-    },
-    {
-      "title": "Venezuela earthquake LIVE updates: Venezuela earthquakes toll more than doubles to 589",
-      "summary": "Venezuela earthquake LIVE updates: Venezuela earthquakes toll more than doubles to 589",
-      "outlets_covering": [
-        "NPR World",
+        "BBC World",
         "CBC World",
         "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/venezuela-earthquakes-terremoto-caracas-magnitude-7-damages-death-toll-live-updates-june-26-2026/article71149145.ece"
-    },
-    {
-      "title": "Everything we know so far about the deadly earthquakes in Venezuela",
-      "summary": "Everything we know so far about the deadly earthquakes in Venezuela",
-      "outlets_covering": [
-        "ABC News Intl",
         "NBC News World",
         "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "Axios"
-      ],
-      "coverage_count": 8,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/everything-we-know-so-far-about-the-deadly-earthquakes-in-venezuela-2?traffic_source=rss"
-    },
-    {
-      "title": "Dramatic moment woman pulled from rubble after Venezuela earthquake kills hundreds",
-      "summary": "Dramatic moment woman pulled from rubble after Venezuela earthquake kills hundreds",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.independent.co.uk/news/world/americas/woman-rubble-venezuela-earthquake-caracas-b3003643.html"
-    },
-    {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "summary": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
         "The Guardian World",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
+    },
+    {
+      "title": "Israel, Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, Rubio says",
+      "summary": "Israel, Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, Rubio says",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NBC News World",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
+        "The Hill",
         "Axios"
       ],
       "coverage_count": 9,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.thehindu.com/news/international/israel-lebanon-framework-agreement-united-states-june-26-2026/article71152028.ece"
+    },
+    {
+      "title": "U.S. strikes Iran after Trump accuses Tehran of \"foolish violation\" of ceasefire",
+      "summary": "U.S. strikes Iran after Trump accuses Tehran of \"foolish violation\" of ceasefire",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Al Jazeera",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks"
+    },
+    {
+      "title": "U.S. strikes targets in Iran after drone attack on cargo ship",
+      "summary": "U.S. strikes targets in Iran after drone attack on cargo ship",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "Al Jazeera",
+        "Japan Times",
+        "Foreign Policy"
+      ],
+      "coverage_count": 15,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/us-strikes-iran-drone-attack-cargo-ship-challenge-ceasefire-trump"
+    },
+    {
+      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
+      "summary": "UN rights chief calls for probe into migrant deaths in US detention centres",
+      "outlets_covering": [
+        "Al Jazeera",
+        "The Hindu Intl",
+        "UN News"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss"
     }
   ]
 }
