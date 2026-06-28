@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-28T02:33:11.951937Z",
+  "last_updated": "2026-06-28T13:16:06.436741Z",
   "world_org_meetings": [
+    {
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "source_url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "US delegation snubs Apec meeting in Macau due to China visa requirements row",
       "organization": "APEC",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
-    },
-    {
-      "title": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-geoeconomic-centers-seven-charts-that-will-define-frances-g7-summit-republished-on-realclearworld"
     }
   ],
   "diplomatic_visits": [
@@ -56,6 +56,30 @@
   ],
   "elections": [
     {
+      "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "New Caledonia polls close in French territory's first provincial elections since 2019",
+      "source_url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019"
+    },
+    {
+      "title": "Serbia’s Vučić to resign, opening path to early elections amid political tensions",
+      "country": "Serbia",
+      "election_type": "National",
+      "date": "",
+      "description": "Serbia’s Vučić to resign, opening path to early elections amid political tensions",
+      "source_url": "https://www.france24.com/en/video/20260628-serbia-s-vu%C4%8Di%C4%87-to-resign-opening-path-to-early-elections-amid-political-tensions"
+    },
+    {
+      "title": "New Caledonia election tests territory's future after unrest and deadlock",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "New Caledonia election tests territory's future after unrest and deadlock",
+      "source_url": "https://www.france24.com/en/new-caledonia-election-tests-territory-s-future-after-unrest-and-deadlock"
+    },
+    {
       "title": "Serbia's populist President Vucic says he will resign within weeks as election nears",
       "country": "Serbia",
       "election_type": "National",
@@ -70,111 +94,93 @@
       "date": "",
       "description": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
       "source_url": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election"
-    },
-    {
-      "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "source_url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
-    },
-    {
-      "title": "Natural Selection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Natural Selection",
-      "source_url": "https://www.nytimes.com/2026/06/27/briefing/natural-selection.html"
-    },
-    {
-      "title": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
-      "country": "Japan",
-      "election_type": "National",
-      "date": "",
-      "description": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/06/1167812"
     }
   ],
   "global_events": [
     {
-      "title": "How is framework agreement with Lebanon viewed in Israel?",
-      "summary": "How is framework agreement with Lebanon viewed in Israel?",
+      "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
+      "summary": "Iran attacks Kuwait and Bahrain in response to US strikes",
       "outlets_covering": [
+        "NPR World",
         "CBC World",
+        "CBS News World",
         "NBC News World",
+        "Time",
         "Al Jazeera",
-        "Japan Times",
+        "France24",
         "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "The Hill"
       ],
-      "coverage_count": 9,
+      "coverage_count": 16,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss"
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss"
     },
     {
       "title": "U.S. strikes Iran after Strait of Hormuz attack",
       "summary": "U.S. strikes Iran after Strait of Hormuz attack",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "NYT World",
+        "Wash Post World",
         "Time",
-        "France24",
+        "Al Jazeera",
         "UN News",
-        "Foreign Policy"
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 22,
+      "coverage_count": 18,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/video/u-s-strikes-iran-after-strait-of-hormuz-attack"
     },
     {
-      "title": "Burkina Faso severs diplomatic ties with France",
-      "summary": "Burkina Faso severs diplomatic ties with France",
+      "title": "Israel, Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, Rubio says",
+      "summary": "Israel, Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, Rubio says",
       "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
+        "CBC World",
+        "NBC News World",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
-      "summary": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz"
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/israel-lebanon-framework-agreement-united-states-june-26-2026/article71152028.ece"
     },
     {
-      "title": "Serbian President Aleksandar Vucic says he will resign within weeks",
-      "summary": "Serbian President Aleksandar Vucic says he will resign within weeks",
+      "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
+      "summary": "New Caledonia polls close in French territory's first provincial elections since 2019",
       "outlets_covering": [
-        "ABC News Intl",
+        "The Guardian World",
         "Al Jazeera",
-        "Japan Times"
+        "France24"
       ],
       "coverage_count": 3,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/06/28/world/politics/serbia-aleksandar-vucic-resign"
+      "source_url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019"
+    },
+    {
+      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "summary": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "UN News",
+        "The Hill"
+      ],
+      "coverage_count": 10,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
     }
   ]
 }
