@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T13:16:06.436741Z",
+  "last_updated": "2026-06-29T02:33:14.691231Z",
   "world_org_meetings": [
     {
       "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
       "source_url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US delegation snubs Apec meeting in Macau due to China visa requirements row",
-      "organization": "APEC",
-      "date": "",
-      "location": "",
-      "description": "US delegation snubs Apec meeting in Macau due to China visa requirements row",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3358259/us-delegation-snubs-apec-meeting-macau-due-china-visa-requirements-row"
     },
     {
       "title": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
@@ -40,6 +32,14 @@
       "location": "",
       "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
+    },
+    {
+      "title": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
+      "organization": "G7",
+      "date": "",
+      "location": "",
+      "description": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-geoeconomic-centers-seven-charts-that-will-define-frances-g7-summit-republished-on-realclearworld"
     }
   ],
   "diplomatic_visits": [
@@ -56,12 +56,20 @@
   ],
   "elections": [
     {
-      "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
+      "title": "Natural Selection",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "New Caledonia polls close in French territory's first provincial elections since 2019",
-      "source_url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019"
+      "description": "Natural Selection",
+      "source_url": "https://www.nytimes.com/2026/06/27/briefing/natural-selection.html"
+    },
+    {
+      "title": "Pauline Hanson’s One Nation withdrew more than $800,000 of election spending claims after AEC inquiries",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Pauline Hanson’s One Nation withdrew more than $800,000 of election spending claims after AEC inquiries",
+      "source_url": "https://www.theguardian.com/australia-news/2026/jun/29/one-nation-pauline-hanson-election-funding-withdrawals-aec-ntwnfb"
     },
     {
       "title": "Serbia’s Vučić to resign, opening path to early elections amid political tensions",
@@ -86,35 +94,22 @@
       "date": "",
       "description": "Serbia's populist President Vucic says he will resign within weeks as election nears",
       "source_url": "https://abcnews.com/International/wireStory/serbias-populist-president-vucic-resign-weeks-election-nears-134278518"
-    },
-    {
-      "title": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
-      "source_url": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election"
     }
   ],
   "global_events": [
     {
-      "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
-      "summary": "Iran attacks Kuwait and Bahrain in response to US strikes",
+      "title": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
+      "summary": "Pakistan says it carried out ground operation, strikes along Afghan border; 29 militants killed",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
         "CBS News World",
-        "NBC News World",
-        "Time",
+        "Bloomberg",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss"
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece"
     },
     {
       "title": "U.S. strikes Iran after Strait of Hormuz attack",
@@ -126,12 +121,12 @@
         "NBC News World",
         "Wash Post World",
         "Time",
-        "Al Jazeera",
         "UN News",
         "Foreign Policy",
-        "The Hill"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 18,
+      "coverage_count": 14,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/video/u-s-strikes-iran-after-strait-of-hormuz-attack"
@@ -142,45 +137,44 @@
       "outlets_covering": [
         "CBC World",
         "NBC News World",
+        "Al Jazeera",
         "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/israel-lebanon-framework-agreement-united-states-june-26-2026/article71152028.ece"
     },
     {
-      "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
-      "summary": "New Caledonia polls close in French territory's first provincial elections since 2019",
+      "title": "Iran launches drone, missile attacks targeting Bahrain, Kuwait",
+      "summary": "Iran launches drone, missile attacks targeting Bahrain, Kuwait",
       "outlets_covering": [
-        "The Guardian World",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019"
-    },
-    {
-      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
-      "summary": "Venezuela earthquakes: death toll rises again to more than 1,400",
-      "outlets_covering": [
+        "CBC World",
         "CBS News World",
         "NBC News World",
-        "Fox News World",
-        "The Guardian World",
-        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "UN News",
         "The Hill"
       ],
-      "coverage_count": 10,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez"
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks"
+    },
+    {
+      "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
+      "summary": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
+      "outlets_covering": [
+        "ABC News Intl",
+        "CBS News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/israel-moves-formally-recognize-armenian-wwi-deaths-genocide-134289492"
     }
   ]
 }
