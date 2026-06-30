@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T02:27:48.487013Z",
+  "last_updated": "2026-06-30T13:55:07.645116Z",
   "world_org_meetings": [
     {
       "title": "Can NATO Pull Off a Dull Summit?",
@@ -44,6 +44,16 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "China-EU joint statement on trade",
+      "participants": [
+        "China-EU"
+      ],
+      "date": "",
+      "location": "",
+      "description": "China-EU joint statement on trade",
+      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3358867/china-eu-joint-statement-trade"
+    },
+    {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
         "Cover Story"
@@ -64,12 +74,12 @@
       "source_url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff"
     },
     {
-      "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
-      "country": "Peru",
+      "title": "What to know about the Colorado primary elections in the US",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
-      "source_url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory"
+      "description": "What to know about the Colorado primary elections in the US",
+      "source_url": "https://www.aljazeera.com/news/2026/6/30/what-to-know-about-the-colorado-primary-elections-in-the-us?traffic_source=rss"
     },
     {
       "title": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal",
@@ -78,14 +88,6 @@
       "date": "",
       "description": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal",
       "source_url": "https://abcnews.com/International/wireStory/uk-lawmaker-pleads-guilty-cheating-election-betting-scandal-134314880"
-    },
-    {
-      "title": "Natural Selection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Natural Selection",
-      "source_url": "https://www.nytimes.com/2026/06/27/briefing/natural-selection.html"
     },
     {
       "title": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
@@ -98,6 +100,19 @@
   ],
   "global_events": [
     {
+      "title": "Venezuelans continue search for survivors as earthquake death toll surpasses 1,700",
+      "summary": "Venezuelans continue search for survivors as earthquake death toll surpasses 1,700",
+      "outlets_covering": [
+        "CBS News World",
+        "The Independent",
+        "UN News"
+      ],
+      "coverage_count": 5,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.independent.co.uk/news/world/americas/venezuela-earthquake-death-toll-update-b3005633.html"
+    },
+    {
       "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
       "summary": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
       "outlets_covering": [
@@ -106,68 +121,52 @@
         "ABC News Intl",
         "CBS News World",
         "The Guardian World",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "South Asia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece"
     },
     {
-      "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
-      "summary": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
+      "title": "South Africa deploys police for widespread illegal immigration protests",
+      "summary": "South Africa deploys police for widespread illegal immigration protests",
       "outlets_covering": [
-        "NPR World",
         "ABC News Intl",
-        "CBS News World",
-        "The Hindu Intl"
+        "The Guardian World",
+        "Al Jazeera",
+        "DW World",
+        "France24"
       ],
       "coverage_count": 5,
-      "region": "Middle East",
+      "region": "Africa",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/israel-moves-formally-recognize-armenian-wwi-deaths-genocide-134289492"
+      "source_url": "https://abcnews.com/International/wireStory/south-africa-deploys-police-widespread-protests-groups-opposing-134334125"
     },
     {
-      "title": "Search efforts intensify in Venezuela as death toll from earthquakes rises above 1,700",
-      "summary": "Search efforts intensify in Venezuela as death toll from earthquakes rises above 1,700",
+      "title": "UK ‘Minded to Intervene’ in Paramount’s Deal for Warner Bros",
+      "summary": "UK ‘Minded to Intervene’ in Paramount’s Deal for Warner Bros",
       "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "UN News"
-      ],
-      "coverage_count": 8,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/video/search-efforts-intensify-in-venezuela-as-death-toll-from-earthquakes-rises-above-1700"
-    },
-    {
-      "title": "Over 100 Venezuelans who were deported from U.S. hours before earthquakes are missing",
-      "summary": "Over 100 Venezuelans who were deported from U.S. hours before earthquakes are missing",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/venezuelans-deported-from-us-hours-before-earthquakes-are-missing/article71163394.ece"
-    },
-    {
-      "title": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
-      "summary": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
-      "outlets_covering": [
-        "Al Jazeera",
-        "Japan Times"
+        "The Guardian World",
+        "Bloomberg"
       ],
       "coverage_count": 2,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/6/30/keiko-fujimori-leads-in-peruvian-presidential-race-as-vote-count-concludes?traffic_source=rss"
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-30/uk-minded-to-intervene-in-paramount-s-deal-for-warner-bros"
+    },
+    {
+      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+      "summary": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Guardian World"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
