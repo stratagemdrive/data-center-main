@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-29T15:30:02.454891Z",
+  "last_updated": "2026-06-30T02:27:48.487013Z",
   "world_org_meetings": [
+    {
+      "title": "Can NATO Pull Off a Dull Summit?",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Can NATO Pull Off a Dull Summit?",
+      "source_url": "https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia"
+    },
+    {
+      "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence"
+    },
     {
       "title": "Turkey must be ‘included’ in Europe security structures: Erdogan ahead of NATO summit",
       "organization": "NATO",
@@ -24,22 +40,6 @@
       "location": "",
       "description": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
       "source_url": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-is-an-opportunity-for-nato-to-ramp-up-engagement-with-its-southern-neighborhood"
-    },
-    {
-      "title": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "Chhangani interviewed on BBC explaining the key questions ahead of the G7 summit",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-explaining-the-key-questions-ahead-of-the-g7-summit"
-    },
-    {
-      "title": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
-      "organization": "G7",
-      "date": "",
-      "location": "",
-      "description": "The GeoEconomic Center’s “Seven Charts that will define France’s G7 summit” republished on RealClearWorld",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-geoeconomic-centers-seven-charts-that-will-define-frances-g7-summit-republished-on-realclearworld"
     }
   ],
   "diplomatic_visits": [
@@ -56,12 +56,28 @@
   ],
   "elections": [
     {
-      "title": "France's 2027 presidential election: Can the far-right National Rally win without Le Pen?",
-      "country": "France",
+      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
+      "country": "Peru",
       "election_type": "Presidential",
       "date": "",
-      "description": "France's 2027 presidential election: Can the far-right National Rally win without Le Pen?",
-      "source_url": "https://www.france24.com/en/france/20260629-french-2027-presidential-election-can-the-rn-win-without-le-pen-bardella"
+      "description": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
+      "source_url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff"
+    },
+    {
+      "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
+      "country": "Peru",
+      "election_type": "National",
+      "date": "",
+      "description": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
+      "source_url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory"
+    },
+    {
+      "title": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal",
+      "source_url": "https://abcnews.com/International/wireStory/uk-lawmaker-pleads-guilty-cheating-election-betting-scandal-134314880"
     },
     {
       "title": "Natural Selection",
@@ -78,30 +94,25 @@
       "date": "",
       "description": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
       "source_url": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election"
-    },
-    {
-      "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "source_url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
     }
   ],
   "global_events": [
     {
-      "title": "Russian missile and drone attacks kill at least eight in Ukraine",
-      "summary": "Russian missile and drone attacks kill at least eight in Ukraine",
+      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
+      "summary": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
       "outlets_covering": [
-        "CBC World",
+        "BBC World",
+        "NPR World",
         "ABC News Intl",
-        "Al Jazeera",
+        "CBS News World",
+        "The Guardian World",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
+      "coverage_count": 7,
+      "region": "South Asia",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss"
+      "source_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece"
     },
     {
       "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
@@ -112,58 +123,51 @@
         "CBS News World",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://abcnews.com/International/wireStory/israel-moves-formally-recognize-armenian-wwi-deaths-genocide-134289492"
     },
     {
-      "title": "U.S. strikes targets in Iran after drone attack on cargo ship",
-      "summary": "U.S. strikes targets in Iran after drone attack on cargo ship",
+      "title": "Search efforts intensify in Venezuela as death toll from earthquakes rises above 1,700",
+      "summary": "Search efforts intensify in Venezuela as death toll from earthquakes rises above 1,700",
       "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "Time",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/us-strikes-iran-drone-attack-cargo-ship-challenge-ceasefire-trump"
-    },
-    {
-      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
-      "summary": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "ABC News Intl",
-        "CBS News World",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "South Asia",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say"
-    },
-    {
-      "title": "Iran launches strikes targeting Bahrain, Kuwait, threatens \"complete halt\" to talks",
-      "summary": "Iran launches strikes targeting Bahrain, Kuwait, threatens \"complete halt\" to talks",
-      "outlets_covering": [
-        "CBC World",
         "CBS News World",
         "NBC News World",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "Fox News World",
+        "NYT World",
+        "UN News"
       ],
-      "coverage_count": 6,
-      "region": "Middle East",
+      "coverage_count": 8,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/video/search-efforts-intensify-in-venezuela-as-death-toll-from-earthquakes-rises-above-1700"
+    },
+    {
+      "title": "Over 100 Venezuelans who were deported from U.S. hours before earthquakes are missing",
+      "summary": "Over 100 Venezuelans who were deported from U.S. hours before earthquakes are missing",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.thehindu.com/news/international/venezuelans-deported-from-us-hours-before-earthquakes-are-missing/article71163394.ece"
+    },
+    {
+      "title": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
+      "summary": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
+      "outlets_covering": [
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 2,
+      "region": "Latin America",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/iran-launches-strikes-targeting-bahrain-kuwait-threatens-complete-halt-to-talks"
+      "source_url": "https://www.aljazeera.com/news/2026/6/30/keiko-fujimori-leads-in-peruvian-presidential-race-as-vote-count-concludes?traffic_source=rss"
     }
   ]
 }
