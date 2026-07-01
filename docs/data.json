@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-06-30T13:55:07.645116Z",
+  "last_updated": "2026-07-01T02:34:04.815583Z",
   "world_org_meetings": [
+    {
+      "title": "Next NATO summit in Albania in doubt amid U.S. reluctance and low defense spending",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Next NATO summit in Albania in doubt amid U.S. reluctance and low defense spending",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/01/world/politics/nato-albania-us-defense-spending"
+    },
+    {
+      "title": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3358958/us-hollows-out-g20-agenda-casts-miami-summit-backdrop-trump-xi-meeting-sources"
+    },
+    {
+      "title": "Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo",
+      "source_url": "https://abcnews.com/International/wireStory/cuban-official-talks-us-standstill-announces-debate-us-134352521"
+    },
+    {
+      "title": "Myanmar denies ASEAN request for Suu Kyi meeting",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Myanmar denies ASEAN request for Suu Kyi meeting",
+      "source_url": "https://www.thehindu.com/news/international/myanmar-denies-asean-request-for-suu-kyi-meeting/article71167066.ece"
+    },
     {
       "title": "Can NATO Pull Off a Dull Summit?",
       "organization": "NATO",
@@ -8,38 +40,6 @@
       "location": "",
       "description": "Can NATO Pull Off a Dull Summit?",
       "source_url": "https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia"
-    },
-    {
-      "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence"
-    },
-    {
-      "title": "Turkey must be ‘included’ in Europe security structures: Erdogan ahead of NATO summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Turkey must be ‘included’ in Europe security structures: Erdogan ahead of NATO summit",
-      "source_url": "https://www.thehindu.com/news/international/turkey-must-be-included-in-europe-security-structures-erdogan-ahead-of-nato-summit/article71161429.ece"
-    },
-    {
-      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-      "source_url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-is-an-opportunity-for-nato-to-ramp-up-engagement-with-its-southern-neighborhood"
     }
   ],
   "diplomatic_visits": [
@@ -74,99 +74,112 @@
       "source_url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff"
     },
     {
-      "title": "What to know about the Colorado primary elections in the US",
-      "country": "",
+      "title": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
+      "country": "Israel",
       "election_type": "National",
       "date": "",
-      "description": "What to know about the Colorado primary elections in the US",
-      "source_url": "https://www.aljazeera.com/news/2026/6/30/what-to-know-about-the-colorado-primary-elections-in-the-us?traffic_source=rss"
+      "description": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
+      "source_url": "https://www.thehindu.com/news/international/israel-ex-army-chief-launches-election-campaign-in-bid-to-unseat-netanyahu/article71167684.ece"
     },
     {
-      "title": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal",
-      "country": "",
-      "election_type": "National",
+      "title": "France sets presidential election date as Macron finishes final term",
+      "country": "France",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal",
-      "source_url": "https://abcnews.com/International/wireStory/uk-lawmaker-pleads-guilty-cheating-election-betting-scandal-134314880"
+      "description": "France sets presidential election date as Macron finishes final term",
+      "source_url": "https://www.france24.com/en/europe/20260630-france-sets-presidential-election-date-as-macron-finishes-final-term"
     },
     {
-      "title": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
+      "title": "Live results: Colorado voters head to polls for House primaries",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
-      "source_url": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election"
+      "description": "Live results: Colorado voters head to polls for House primaries",
+      "source_url": "https://thehill.com/homenews/campaign/5928899-live-results-colorado-house-primaries"
+    },
+    {
+      "title": "Watch live: The Hill’s Data Nerds track and analyze Colorado primary elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Watch live: The Hill’s Data Nerds track and analyze Colorado primary elections",
+      "source_url": "https://thehill.com/video-clips/5947954-2026-colorado-primaries-coverage-data-nerds"
     }
   ],
   "global_events": [
     {
-      "title": "Venezuelans continue search for survivors as earthquake death toll surpasses 1,700",
-      "summary": "Venezuelans continue search for survivors as earthquake death toll surpasses 1,700",
+      "title": "U.S. and Iran to Meet with Mediators in Qatar",
+      "summary": "U.S. and Iran to Meet with Mediators in Qatar",
       "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "UN News"
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "France24",
+        "The Hill"
       ],
-      "coverage_count": 5,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.independent.co.uk/news/world/americas/venezuela-earthquake-death-toll-update-b3005633.html"
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz"
+    },
+    {
+      "title": "Pakistan roof collapse kills 14 children at tutoring centre",
+      "summary": "Pakistan roof collapse kills 14 children at tutoring centre",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre"
+    },
+    {
+      "title": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
+      "summary": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Guardian World",
+        "DW World",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 7,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/south-africa-s-anti-migrant-protesters-march-nationwide-after-thousands-flee-violence-1"
+    },
+    {
+      "title": "UK government likely to challenge Paramount takeover of Warner Bros. Discovery",
+      "summary": "UK government likely to challenge Paramount takeover of Warner Bros. Discovery",
+      "outlets_covering": [
+        "The Independent",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260630-uk-government-likely-to-challenge-paramount-takeover-of-warner-bros-discovery"
     },
     {
       "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
       "summary": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
-        "ABC News Intl",
         "CBS News World",
         "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 4,
       "region": "South Asia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece"
-    },
-    {
-      "title": "South Africa deploys police for widespread illegal immigration protests",
-      "summary": "South Africa deploys police for widespread illegal immigration protests",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "Al Jazeera",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 5,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/south-africa-deploys-police-widespread-protests-groups-opposing-134334125"
-    },
-    {
-      "title": "UK ‘Minded to Intervene’ in Paramount’s Deal for Warner Bros",
-      "summary": "UK ‘Minded to Intervene’ in Paramount’s Deal for Warner Bros",
-      "outlets_covering": [
-        "The Guardian World",
-        "Bloomberg"
-      ],
-      "coverage_count": 2,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-06-30/uk-minded-to-intervene-in-paramount-s-deal-for-warner-bros"
-    },
-    {
-      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-      "summary": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "The Guardian World"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
