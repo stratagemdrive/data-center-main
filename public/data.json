@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-07-01T02:34:04.815583Z",
+  "last_updated": "2026-07-01T14:07:06.834491Z",
   "world_org_meetings": [
     {
-      "title": "Next NATO summit in Albania in doubt amid U.S. reluctance and low defense spending",
+      "title": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Next NATO summit in Albania in doubt amid U.S. reluctance and low defense spending",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/01/world/politics/nato-albania-us-defense-spending"
+      "description": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
+      "source_url": "https://abcnews.com/International/wireStory/turkey-tightens-security-showcases-strength-commitment-ahead-nato-134365801"
+    },
+    {
+      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Ahead of NATO summit, Turkey arrests more than 200 activists",
+      "source_url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Myanmar denies ASEAN request for Suu Kyi meeting",
       "source_url": "https://www.thehindu.com/news/international/myanmar-denies-asean-request-for-suu-kyi-meeting/article71167066.ece"
-    },
-    {
-      "title": "Can NATO Pull Off a Dull Summit?",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Can NATO Pull Off a Dull Summit?",
-      "source_url": "https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia"
     }
   ],
   "diplomatic_visits": [
@@ -74,112 +74,108 @@
       "source_url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff"
     },
     {
+      "title": "Myriad of French presidential candidates to face off in late April election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Myriad of French presidential candidates to face off in late April election",
+      "source_url": "https://www.france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election"
+    },
+    {
+      "title": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship",
+      "source_url": "https://abcnews.com/International/wireStory/colombian-election-loser-threatens-civil-disobedience-winner-ditch-134362239"
+    },
+    {
+      "title": "DeGette loses reelection bid to DSA challenger in major upset for Denver-based House seat",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "DeGette loses reelection bid to DSA challenger in major upset for Denver-based House seat",
+      "source_url": "https://thehill.com/homenews/campaign/5945886-diana-degette-loses-relelection-bid"
+    },
+    {
       "title": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
       "country": "Israel",
       "election_type": "National",
       "date": "",
       "description": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
       "source_url": "https://www.thehindu.com/news/international/israel-ex-army-chief-launches-election-campaign-in-bid-to-unseat-netanyahu/article71167684.ece"
-    },
-    {
-      "title": "France sets presidential election date as Macron finishes final term",
-      "country": "France",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "France sets presidential election date as Macron finishes final term",
-      "source_url": "https://www.france24.com/en/europe/20260630-france-sets-presidential-election-date-as-macron-finishes-final-term"
-    },
-    {
-      "title": "Live results: Colorado voters head to polls for House primaries",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Live results: Colorado voters head to polls for House primaries",
-      "source_url": "https://thehill.com/homenews/campaign/5928899-live-results-colorado-house-primaries"
-    },
-    {
-      "title": "Watch live: The Hill’s Data Nerds track and analyze Colorado primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Watch live: The Hill’s Data Nerds track and analyze Colorado primary elections",
-      "source_url": "https://thehill.com/video-clips/5947954-2026-colorado-primaries-coverage-data-nerds"
     }
   ],
   "global_events": [
-    {
-      "title": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary": "U.S. and Iran to Meet with Mediators in Qatar",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz"
-    },
     {
       "title": "Pakistan roof collapse kills 14 children at tutoring centre",
       "summary": "Pakistan roof collapse kills 14 children at tutoring centre",
       "outlets_covering": [
         "BBC World",
         "ABC News Intl",
+        "CBS News World",
         "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "region": "South Asia",
       "category": "Politics",
       "source_url": "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre"
-    },
-    {
-      "title": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
-      "summary": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "The Guardian World",
-        "DW World",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 7,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/south-africa-s-anti-migrant-protesters-march-nationwide-after-thousands-flee-violence-1"
-    },
-    {
-      "title": "UK government likely to challenge Paramount takeover of Warner Bros. Discovery",
-      "summary": "UK government likely to challenge Paramount takeover of Warner Bros. Discovery",
-      "outlets_covering": [
-        "The Independent",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260630-uk-government-likely-to-challenge-paramount-takeover-of-warner-bros-discovery"
     },
     {
       "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
       "summary": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
       "outlets_covering": [
         "NPR World",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "South Asia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece"
+    },
+    {
+      "title": "How Iran could try to control the Strait of Hormuz — and profit from it",
+      "summary": "How Iran could try to control the Strait of Hormuz — and profit from it",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/us-iran-war-strait-of-hormuz-future-shipping"
+    },
+    {
+      "title": "Zelenskyy says Ukraine hits a Russian oil refinery for the second time in a week",
+      "summary": "Zelenskyy says Ukraine hits a Russian oil refinery for the second time in a week",
+      "outlets_covering": [
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 2,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-kyiv-ireland-kremlin-moscow-b3006690.html"
+    },
+    {
+      "title": "At least 14 kids killed as Pakistan tutoring center's roof collapses",
+      "summary": "At least 14 kids killed as Pakistan tutoring center's roof collapses",
+      "outlets_covering": [
+        "ABC News Intl",
         "CBS News World",
         "The Guardian World",
         "The Hindu Intl"
       ],
       "coverage_count": 4,
       "region": "South Asia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece"
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/pakistan-roof-collapse-tutoring-center-lahore-children-deaths"
     }
   ]
 }
