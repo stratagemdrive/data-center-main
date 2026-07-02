@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-01T14:07:06.834491Z",
+  "last_updated": "2026-07-02T02:13:29.952880Z",
   "world_org_meetings": [
+    {
+      "title": "Alliance evolving: The Ankara Summit and NATO Readiness",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Alliance evolving: The Ankara Summit and NATO Readiness",
+      "source_url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/alliance-evolving-the-ankara-summit-and-nato-readiness"
+    },
     {
       "title": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
       "organization": "NATO",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo",
       "source_url": "https://abcnews.com/International/wireStory/cuban-official-talks-us-standstill-announces-debate-us-134352521"
-    },
-    {
-      "title": "Myanmar denies ASEAN request for Suu Kyi meeting",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "Myanmar denies ASEAN request for Suu Kyi meeting",
-      "source_url": "https://www.thehindu.com/news/international/myanmar-denies-asean-request-for-suu-kyi-meeting/article71167066.ece"
     }
   ],
   "diplomatic_visits": [
@@ -66,20 +66,12 @@
   ],
   "elections": [
     {
-      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
-      "source_url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff"
-    },
-    {
-      "title": "Myriad of French presidential candidates to face off in late April election",
+      "title": "White House task force seeking new ‘evidence’ of election fraud: report",
       "country": "",
-      "election_type": "Presidential",
+      "election_type": "National",
       "date": "",
-      "description": "Myriad of French presidential candidates to face off in late April election",
-      "source_url": "https://www.france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election"
+      "description": "White House task force seeking new ‘evidence’ of election fraud: report",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-task-force-election-fraud-claims-b3006841.html"
     },
     {
       "title": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship",
@@ -104,14 +96,36 @@
       "date": "",
       "description": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
       "source_url": "https://www.thehindu.com/news/international/israel-ex-army-chief-launches-election-campaign-in-bid-to-unseat-netanyahu/article71167684.ece"
+    },
+    {
+      "title": "In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
+      "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
+      "source_url": "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html"
     }
   ],
   "global_events": [
+    {
+      "title": "Over 900 Arrested During South African Anti-Migrant Protests. Here's What to Know",
+      "summary": "Over 900 Arrested During South African Anti-Migrant Protests. Here's What to Know",
+      "outlets_covering": [
+        "CBC World",
+        "NBC News World",
+        "Time"
+      ],
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://time.com/article/2026/07/01/south-africa-anti-migrant-protests"
+    },
     {
       "title": "Pakistan roof collapse kills 14 children at tutoring centre",
       "summary": "Pakistan roof collapse kills 14 children at tutoring centre",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
         "ABC News Intl",
         "CBS News World",
         "The Guardian World",
@@ -123,59 +137,40 @@
       "source_url": "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre"
     },
     {
-      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
-      "summary": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, say officials",
+      "title": "Russia strikes Ukraine capital with missiles and drones, wounds five",
+      "summary": "Russia strikes Ukraine capital with missiles and drones, wounds five",
       "outlets_covering": [
-        "NPR World",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "South Asia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/pakistan-ground-operation-strikes-afghanistan-border-casualties-updates/article71159048.ece"
-    },
-    {
-      "title": "How Iran could try to control the Strait of Hormuz — and profit from it",
-      "summary": "How Iran could try to control the Strait of Hormuz — and profit from it",
-      "outlets_covering": [
-        "CBS News World",
         "NYT World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/us-iran-war-strait-of-hormuz-future-shipping"
-    },
-    {
-      "title": "Zelenskyy says Ukraine hits a Russian oil refinery for the second time in a week",
-      "summary": "Zelenskyy says Ukraine hits a Russian oil refinery for the second time in a week",
-      "outlets_covering": [
-        "The Independent",
-        "Al Jazeera"
+        "The Hindu Intl"
       ],
       "coverage_count": 2,
       "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-kyiv-ireland-kremlin-moscow-b3006690.html"
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-capital-with-missiles-and-drones/article71172816.ece"
     },
     {
-      "title": "At least 14 kids killed as Pakistan tutoring center's roof collapses",
-      "summary": "At least 14 kids killed as Pakistan tutoring center's roof collapses",
+      "title": "Traders plot worst-case scenario for yen if currency crisis hits",
+      "summary": "Traders plot worst-case scenario for yen if currency crisis hits",
       "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "The Guardian World",
-        "The Hindu Intl"
+        "Bloomberg",
+        "Japan Times"
       ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/pakistan-roof-collapse-tutoring-center-lahore-children-deaths"
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.japantimes.co.jp/business/2026/07/02/markets/traders-yen-worst-case-scenario"
+    },
+    {
+      "title": "About 2,000 U.S. troops supporting relief efforts after Venezuela earthquakes",
+      "summary": "About 2,000 U.S. troops supporting relief efforts after Venezuela earthquakes",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World"
+      ],
+      "coverage_count": 2,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/about-2000-u-s-troops-supporting-relief-efforts-after-venezuela-earthquakes"
     }
   ]
 }
