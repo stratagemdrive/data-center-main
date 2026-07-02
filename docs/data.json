@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T02:13:29.952880Z",
+  "last_updated": "2026-07-02T13:29:28.697573Z",
   "world_org_meetings": [
     {
       "title": "Alliance evolving: The Ankara Summit and NATO Readiness",
@@ -18,14 +18,6 @@
       "source_url": "https://abcnews.com/International/wireStory/turkey-tightens-security-showcases-strength-commitment-ahead-nato-134365801"
     },
     {
-      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Ahead of NATO summit, Turkey arrests more than 200 activists",
-      "source_url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-world-4025-rdf"
-    },
-    {
       "title": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
       "organization": "G20",
       "date": "",
@@ -34,12 +26,20 @@
       "source_url": "https://www.scmp.com/news/us/diplomacy/article/3358958/us-hollows-out-g20-agenda-casts-miami-summit-backdrop-trump-xi-meeting-sources"
     },
     {
-      "title": "Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo",
-      "organization": "UN",
+      "title": "Myanmar denies ASEAN request for Suu Kyi meeting",
+      "organization": "ASEAN",
       "date": "",
       "location": "",
-      "description": "Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo",
-      "source_url": "https://abcnews.com/International/wireStory/cuban-official-talks-us-standstill-announces-debate-us-134352521"
+      "description": "Myanmar denies ASEAN request for Suu Kyi meeting",
+      "source_url": "https://www.thehindu.com/news/international/myanmar-denies-asean-request-for-suu-kyi-meeting/article71167066.ece"
+    },
+    {
+      "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence"
     }
   ],
   "diplomatic_visits": [
@@ -65,6 +65,14 @@
     }
   ],
   "elections": [
+    {
+      "title": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
+      "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
+      "source_url": "https://abcnews.com/International/wireStory/algerians-vote-parliamentary-elections-facing-cost-living-strains-134399989"
+    },
     {
       "title": "White House task force seeking new ‘evidence’ of election fraud: report",
       "country": "",
@@ -96,81 +104,77 @@
       "date": "",
       "description": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
       "source_url": "https://www.thehindu.com/news/international/israel-ex-army-chief-launches-election-campaign-in-bid-to-unseat-netanyahu/article71167684.ece"
-    },
-    {
-      "title": "In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
-      "source_url": "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html"
     }
   ],
   "global_events": [
     {
-      "title": "Over 900 Arrested During South African Anti-Migrant Protests. Here's What to Know",
-      "summary": "Over 900 Arrested During South African Anti-Migrant Protests. Here's What to Know",
+      "title": "Iran warns of ‘forceful response’ if tankers don’t use approved Strait of Hormuz routes",
+      "summary": "Iran warns of ‘forceful response’ if tankers don’t use approved Strait of Hormuz routes",
       "outlets_covering": [
         "CBC World",
-        "NBC News World",
-        "Time"
+        "NYT World",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/07/01/south-africa-anti-migrant-protests"
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/international/5950982-iran-warning-strait-of-hormuz-routes"
     },
     {
-      "title": "Pakistan roof collapse kills 14 children at tutoring centre",
-      "summary": "Pakistan roof collapse kills 14 children at tutoring centre",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "summary": "'Most massive' Russian attack on Kyiv kills at least 20",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "ABC News Intl",
-        "CBS News World",
         "The Guardian World",
-        "The Hindu Intl"
+        "France24",
+        "Japan Times"
       ],
-      "coverage_count": 6,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre"
-    },
-    {
-      "title": "Russia strikes Ukraine capital with missiles and drones, wounds five",
-      "summary": "Russia strikes Ukraine capital with missiles and drones, wounds five",
-      "outlets_covering": [
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 2,
+      "coverage_count": 8,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-capital-with-missiles-and-drones/article71172816.ece"
+      "source_url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Traders plot worst-case scenario for yen if currency crisis hits",
-      "summary": "Traders plot worst-case scenario for yen if currency crisis hits",
+      "title": "Bomb blast in central Damascus cafe kills several",
+      "summary": "Bomb blast in central Damascus cafe kills several",
       "outlets_covering": [
-        "Bloomberg",
-        "Japan Times"
+        "Al Jazeera",
+        "France24"
       ],
       "coverage_count": 2,
       "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.japantimes.co.jp/business/2026/07/02/markets/traders-yen-worst-case-scenario"
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/middle-east/20260702-bomb-blast-in-central-damascus-cafe-kills-several"
     },
     {
-      "title": "About 2,000 U.S. troops supporting relief efforts after Venezuela earthquakes",
-      "summary": "About 2,000 U.S. troops supporting relief efforts after Venezuela earthquakes",
+      "title": "What’s China’s new ethnic unity law, and what does it mean for minorities?",
+      "summary": "What’s China’s new ethnic unity law, and what does it mean for minorities?",
       "outlets_covering": [
-        "CBS News World",
-        "NBC News World"
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 4,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/7/2/whats-chinas-new-ethnic-unity-law-and-what-does-it-mean-for-minorities?traffic_source=rss"
+    },
+    {
+      "title": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
+      "summary": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
+      "outlets_covering": [
+        "ABC News Intl",
+        "France24"
       ],
       "coverage_count": 2,
-      "region": "Latin America",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/about-2000-u-s-troops-supporting-relief-efforts-after-venezuela-earthquakes"
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/algerians-vote-parliamentary-elections-facing-cost-living-strains-134399989"
     }
   ]
 }
