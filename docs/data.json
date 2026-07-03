@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-03T01:57:55.924341Z",
+  "last_updated": "2026-07-03T13:42:10.182526Z",
   "world_org_meetings": [
+    {
+      "title": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump",
+      "source_url": "https://www.thehindu.com/news/international/nato-leaders-in-ankara-aiming-to-smooth-over-tensions-with-trump/article71177759.ece"
+    },
+    {
+      "title": "China-EU trade, Xi touts ‘global influence’, Nato summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "China-EU trade, Xi touts ‘global influence’, Nato summit",
+      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3359302/china-eu-trade-xi-touts-global-influence-nato-summit"
+    },
+    {
+      "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit"
+    },
     {
       "title": "Which Trump will show up at Nato summit? Odds are it will be the fuming one",
       "organization": "NATO",
@@ -16,30 +40,6 @@
       "location": "",
       "description": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
       "source_url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/from-burden-sharing-to-strategic-delivery-nato-and-turkeys-priorities-ahead-of-the-ankara-summit"
-    },
-    {
-      "title": "Alliance evolving: The Ankara Summit and NATO Readiness",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Alliance evolving: The Ankara Summit and NATO Readiness",
-      "source_url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/alliance-evolving-the-ankara-summit-and-nato-readiness"
-    },
-    {
-      "title": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
-      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3358958/us-hollows-out-g20-agenda-casts-miami-summit-backdrop-trump-xi-meeting-sources"
-    },
-    {
-      "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence"
     }
   ],
   "diplomatic_visits": [
@@ -56,20 +56,20 @@
   ],
   "elections": [
     {
-      "title": "Algerians vote in parliamentary elections",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Algerians vote in parliamentary elections",
-      "source_url": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections"
-    },
-    {
-      "title": "FBI orders 260 staffers to Georgia to assist with 2020 election investigation",
-      "country": "Georgia",
+      "title": "The far-right Alternative for Germany is buoyant as it eyes a slice of power in regional elections",
+      "country": "Germany",
       "election_type": "National",
       "date": "",
-      "description": "FBI orders 260 staffers to Georgia to assist with 2020 election investigation",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/02/fbi-georgia-fulton-county-election-investigation"
+      "description": "The far-right Alternative for Germany is buoyant as it eyes a slice of power in regional elections",
+      "source_url": "https://abcnews.com/International/wireStory/alternative-germany-buoyant-eyes-slice-power-regional-elections-134434539"
+    },
+    {
+      "title": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
+      "country": "Iran",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
+      "source_url": "https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning"
     },
     {
       "title": "Stephen A. Smith: Democratic socialism won’t ‘sell’ in general election",
@@ -82,72 +82,77 @@
   ],
   "global_events": [
     {
-      "title": "West Asia war LIVE: Iran warns oil tankers to use approved routes in Strait of Hormuz or face 'forceful response'",
-      "summary": "West Asia war LIVE: Iran warns oil tankers to use approved routes in Strait of Hormuz or face 'forceful response'",
+      "title": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Descend on Iran",
+      "summary": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Descend on Iran",
       "outlets_covering": [
-        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
         "The Independent",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 6,
+      "coverage_count": 8,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-3-2026-iran-israel-usa-strait-of-hormuz/article71177098.ece"
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html"
     },
     {
-      "title": "At least 27 dead as Russia launches massive drone and missile attack on Kyiv",
-      "summary": "At least 27 dead as Russia launches massive drone and missile attack on Kyiv",
+      "title": "Bus Plunges 70 Feet Into a Ravine in Pakistan, Killing 40",
+      "summary": "Bus Plunges 70 Feet Into a Ravine in Pakistan, Killing 40",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "The Guardian World",
-        "Time",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine"
-    },
-    {
-      "title": "Security guard rescued from rubble 8 days after Venezuela earthquakes",
-      "summary": "Security guard rescued from rubble 8 days after Venezuela earthquakes",
-      "outlets_covering": [
+        "ABC News Intl",
         "CBS News World",
-        "Fox News World",
-        "Al Jazeera"
+        "NYT World",
+        "The Hindu Intl"
       ],
       "coverage_count": 5,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/security-guard-rescued-venezuela-earthquake-rubble-8-days"
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/07/03/world/asia/pakistan-bus-crash.html"
     },
     {
-      "title": "WHO declares cruise ship hantavirus outbreak over",
-      "summary": "WHO declares cruise ship hantavirus outbreak over",
+      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "summary": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
       "outlets_covering": [
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "The Hill"
+        "BBC World",
+        "CBS News World",
+        "Sky News World",
+        "The Independent"
       ],
       "coverage_count": 4,
       "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.thehindu.com/sci-tech/health/who-declares-cruise-ship-hantavirus-outbreak-over/article71175935.ece"
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Algerians vote in parliamentary elections",
-      "summary": "Algerians vote in parliamentary elections",
+      "title": "Trump says U.S. keeping current support levels for NATO would be \"ridiculous\"",
+      "summary": "Trump says U.S. keeping current support levels for NATO would be \"ridiculous\"",
       "outlets_covering": [
-        "ABC News Intl",
-        "France24"
+        "CBS News World",
+        "The Guardian World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 2,
-      "region": "Global",
+      "coverage_count": 3,
+      "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections"
+      "source_url": "https://www.cbsnews.com/news/trump-nato-us-support-ridiculous"
+    },
+    {
+      "title": "West Asia war updates: Iran warns oil tankers to follow its routes in Strait of Hormuz or face action",
+      "summary": "West Asia war updates: Iran warns oil tankers to follow its routes in Strait of Hormuz or face action",
+      "outlets_covering": [
+        "CBC World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-2-2026-trump-israel-west-asia-war/article71172891.ece"
     }
   ]
 }
