@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-02T13:29:28.697573Z",
+  "last_updated": "2026-07-03T01:57:55.924341Z",
   "world_org_meetings": [
+    {
+      "title": "Which Trump will show up at Nato summit? Odds are it will be the fuming one",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Which Trump will show up at Nato summit? Odds are it will be the fuming one",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3359228/which-trump-will-show-nato-summit-odds-are-it-will-be-fuming-one"
+    },
+    {
+      "title": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
+      "source_url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/from-burden-sharing-to-strategic-delivery-nato-and-turkeys-priorities-ahead-of-the-ankara-summit"
+    },
     {
       "title": "Alliance evolving: The Ankara Summit and NATO Readiness",
       "organization": "NATO",
@@ -10,28 +26,12 @@
       "source_url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/alliance-evolving-the-ankara-summit-and-nato-readiness"
     },
     {
-      "title": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
-      "source_url": "https://abcnews.com/International/wireStory/turkey-tightens-security-showcases-strength-commitment-ahead-nato-134365801"
-    },
-    {
       "title": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
       "organization": "G20",
       "date": "",
       "location": "",
       "description": "US hollows out G20 agenda, casts Miami summit as ‘backdrop for Trump-Xi meeting’: sources",
       "source_url": "https://www.scmp.com/news/us/diplomacy/article/3358958/us-hollows-out-g20-agenda-casts-miami-summit-backdrop-trump-xi-meeting-sources"
-    },
-    {
-      "title": "Myanmar denies ASEAN request for Suu Kyi meeting",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "Myanmar denies ASEAN request for Suu Kyi meeting",
-      "source_url": "https://www.thehindu.com/news/international/myanmar-denies-asean-request-for-suu-kyi-meeting/article71167066.ece"
     },
     {
       "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
@@ -43,16 +43,6 @@
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "China-EU joint statement on trade",
-      "participants": [
-        "China-EU"
-      ],
-      "date": "",
-      "location": "",
-      "description": "China-EU joint statement on trade",
-      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3358867/china-eu-joint-statement-trade"
-    },
     {
       "title": "Cover Story newsletter: The summit of suspicion",
       "participants": [
@@ -66,107 +56,90 @@
   ],
   "elections": [
     {
-      "title": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
+      "title": "Algerians vote in parliamentary elections",
       "country": "",
       "election_type": "Parliamentary",
       "date": "",
-      "description": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
-      "source_url": "https://abcnews.com/International/wireStory/algerians-vote-parliamentary-elections-facing-cost-living-strains-134399989"
+      "description": "Algerians vote in parliamentary elections",
+      "source_url": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections"
     },
     {
-      "title": "White House task force seeking new ‘evidence’ of election fraud: report",
+      "title": "FBI orders 260 staffers to Georgia to assist with 2020 election investigation",
+      "country": "Georgia",
+      "election_type": "National",
+      "date": "",
+      "description": "FBI orders 260 staffers to Georgia to assist with 2020 election investigation",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/02/fbi-georgia-fulton-county-election-investigation"
+    },
+    {
+      "title": "Stephen A. Smith: Democratic socialism won’t ‘sell’ in general election",
       "country": "",
-      "election_type": "National",
+      "election_type": "General",
       "date": "",
-      "description": "White House task force seeking new ‘evidence’ of election fraud: report",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-task-force-election-fraud-claims-b3006841.html"
-    },
-    {
-      "title": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Colombian election loser threatens 'civil disobedience' if winner does not ditch US citizenship",
-      "source_url": "https://abcnews.com/International/wireStory/colombian-election-loser-threatens-civil-disobedience-winner-ditch-134362239"
-    },
-    {
-      "title": "DeGette loses reelection bid to DSA challenger in major upset for Denver-based House seat",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "DeGette loses reelection bid to DSA challenger in major upset for Denver-based House seat",
-      "source_url": "https://thehill.com/homenews/campaign/5945886-diana-degette-loses-relelection-bid"
-    },
-    {
-      "title": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "Israel ex-Army chief launches election campaign in bid to unseat Netanyahu",
-      "source_url": "https://www.thehindu.com/news/international/israel-ex-army-chief-launches-election-campaign-in-bid-to-unseat-netanyahu/article71167684.ece"
+      "description": "Stephen A. Smith: Democratic socialism won’t ‘sell’ in general election",
+      "source_url": "https://thehill.com/homenews/campaign/5951296-stephen-a-smith-democratic-socialism"
     }
   ],
   "global_events": [
     {
-      "title": "Iran warns of ‘forceful response’ if tankers don’t use approved Strait of Hormuz routes",
-      "summary": "Iran warns of ‘forceful response’ if tankers don’t use approved Strait of Hormuz routes",
+      "title": "West Asia war LIVE: Iran warns oil tankers to use approved routes in Strait of Hormuz or face 'forceful response'",
+      "summary": "West Asia war LIVE: Iran warns oil tankers to use approved routes in Strait of Hormuz or face 'forceful response'",
       "outlets_covering": [
         "CBC World",
-        "NYT World",
         "The Independent",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/5950982-iran-warning-strait-of-hormuz-routes"
+      "source_url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-3-2026-iran-israel-usa-strait-of-hormuz/article71177098.ece"
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
-      "summary": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "title": "At least 27 dead as Russia launches massive drone and missile attack on Kyiv",
+      "summary": "At least 27 dead as Russia launches massive drone and missile attack on Kyiv",
       "outlets_covering": [
         "BBC World",
         "NPR World",
-        "ABC News Intl",
         "The Guardian World",
-        "France24",
-        "Japan Times"
+        "Time",
+        "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 5,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine"
     },
     {
-      "title": "Bomb blast in central Damascus cafe kills several",
-      "summary": "Bomb blast in central Damascus cafe kills several",
+      "title": "Security guard rescued from rubble 8 days after Venezuela earthquakes",
+      "summary": "Security guard rescued from rubble 8 days after Venezuela earthquakes",
       "outlets_covering": [
-        "Al Jazeera",
-        "France24"
+        "CBS News World",
+        "Fox News World",
+        "Al Jazeera"
       ],
-      "coverage_count": 2,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/middle-east/20260702-bomb-blast-in-central-damascus-cafe-kills-several"
+      "coverage_count": 5,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/security-guard-rescued-venezuela-earthquake-rubble-8-days"
     },
     {
-      "title": "What’s China’s new ethnic unity law, and what does it mean for minorities?",
-      "summary": "What’s China’s new ethnic unity law, and what does it mean for minorities?",
+      "title": "WHO declares cruise ship hantavirus outbreak over",
+      "summary": "WHO declares cruise ship hantavirus outbreak over",
       "outlets_covering": [
-        "The Guardian World",
+        "NYT World",
         "Al Jazeera",
         "The Hindu Intl",
-        "SCMP"
+        "The Hill"
       ],
       "coverage_count": 4,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/7/2/whats-chinas-new-ethnic-unity-law-and-what-does-it-mean-for-minorities?traffic_source=rss"
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://www.thehindu.com/sci-tech/health/who-declares-cruise-ship-hantavirus-outbreak-over/article71175935.ece"
     },
     {
-      "title": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
-      "summary": "Algerians vote in parliamentary elections while facing cost-of-living strains and candidate bans",
+      "title": "Algerians vote in parliamentary elections",
+      "summary": "Algerians vote in parliamentary elections",
       "outlets_covering": [
         "ABC News Intl",
         "France24"
@@ -174,7 +147,7 @@
       "coverage_count": 2,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/algerians-vote-parliamentary-elections-facing-cost-living-strains-134399989"
+      "source_url": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections"
     }
   ]
 }
