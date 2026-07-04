@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-04T01:56:40.136797Z",
+  "last_updated": "2026-07-04T12:59:36.739736Z",
   "world_org_meetings": [
+    {
+      "title": "Trump set to put NATO unity to the test at Turkey summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump set to put NATO unity to the test at Turkey summit",
+      "source_url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf"
+    },
     {
       "title": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
       "organization": "NATO",
@@ -32,25 +40,33 @@
       "location": "",
       "description": "Which Trump will show up at Nato summit? Odds are it will be the fuming one",
       "source_url": "https://www.scmp.com/news/us/diplomacy/article/3359228/which-trump-will-show-nato-summit-odds-are-it-will-be-fuming-one"
-    },
-    {
-      "title": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
-      "source_url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/from-burden-sharing-to-strategic-delivery-nato-and-turkeys-priorities-ahead-of-the-ankara-summit"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
       "country": "Peru",
       "election_type": "Presidential",
       "date": "",
-      "description": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
-      "source_url": "https://abcnews.com/International/wireStory/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-134450980"
+      "description": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
+      "source_url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government"
+    },
+    {
+      "title": "Venezuelans frustrated by quake response want new presidential elections",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Venezuelans frustrated by quake response want new presidential elections",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/venezuela-quake-response-presidential-elections"
     },
     {
       "title": "Argentina Pushes $6 Billion in Repo Maturities Past Election",
@@ -67,105 +83,91 @@
       "date": "",
       "description": "The far-right Alternative for Germany is buoyant as it eyes a slice of power in regional elections",
       "source_url": "https://abcnews.com/International/wireStory/alternative-germany-buoyant-eyes-slice-power-regional-elections-134434539"
-    },
-    {
-      "title": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
-      "country": "Iran",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
-      "source_url": "https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning"
-    },
-    {
-      "title": "Stephen A. Smith: Democratic socialism won’t ‘sell’ in general election",
-      "country": "",
-      "election_type": "General",
-      "date": "",
-      "description": "Stephen A. Smith: Democratic socialism won’t ‘sell’ in general election",
-      "source_url": "https://thehill.com/homenews/campaign/5951296-stephen-a-smith-democratic-socialism"
     }
   ],
   "global_events": [
     {
-      "title": "Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war",
-      "summary": "Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war",
+      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "summary": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 18,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ayatollah-khamenei-funeral-israel-news-b3008826.html"
+    },
+    {
+      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+      "summary": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
       "outlets_covering": [
         "NPR World",
         "CBC World",
         "ABC News Intl",
         "CBS News World",
         "NBC News World",
+        "Sky News World",
         "NYT World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/powerful-general-iran-publicly-tehran-prepares-khameneis-dayslong-134430863"
-    },
-    {
-      "title": "Two jailed for stabbing Iranian journalist in London in attack blamed on Tehran",
-      "summary": "Two jailed for stabbing Iranian journalist in London in attack blamed on Tehran",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/two-jailed-for-stabbing-iranian-journalist-in-london-in-attack-blamed-on-tehran/article71180591.ece"
-    },
-    {
-      "title": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
-      "summary": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
-      "outlets_covering": [
-        "CBS News World",
         "The Guardian World",
         "Time",
-        "The Hindu Intl"
+        "The Independent"
       ],
-      "coverage_count": 4,
-      "region": "Europe",
+      "coverage_count": 26,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit"
+      "source_url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei"
     },
     {
-      "title": "Keiko Fujimori declared winner of Peru presidential race",
-      "summary": "Keiko Fujimori declared winner of Peru presidential race",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "summary": "Ukraine hits major oil terminal in Russia's St Petersburg",
       "outlets_covering": [
+        "BBC World",
+        "CBC World",
         "ABC News Intl",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "DW World"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "summary": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "outlets_covering": [
+        "BBC World",
         "Fox News World",
         "Japan Times"
       ],
       "coverage_count": 3,
       "region": "Latin America",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/keiko-fujimori-declared-winner-peru"
+      "source_url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-      "summary": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+      "title": "China launches coast guard patrol east of Taiwan despite international pushback",
+      "summary": "China launches coast guard patrol east of Taiwan despite international pushback",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "France24"
+        "Bloomberg",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 19,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss"
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/china-launches-coast-guard-patrol-east-of-taiwan-despite-international-pushback/article71181868.ece"
     }
   ]
 }
