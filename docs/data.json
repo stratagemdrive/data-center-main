@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-03T13:42:10.182526Z",
+  "last_updated": "2026-07-04T01:56:40.136797Z",
   "world_org_meetings": [
+    {
+      "title": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
+      "source_url": "https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit"
+    },
     {
       "title": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump",
       "organization": "NATO",
@@ -16,14 +24,6 @@
       "location": "",
       "description": "China-EU trade, Xi touts ‘global influence’, Nato summit",
       "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3359302/china-eu-trade-xi-touts-global-influence-nato-summit"
-    },
-    {
-      "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit"
     },
     {
       "title": "Which Trump will show up at Nato summit? Odds are it will be the fuming one",
@@ -42,19 +42,24 @@
       "source_url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/from-burden-sharing-to-strategic-delivery-nato-and-turkeys-priorities-ahead-of-the-ankara-summit"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "Cover Story newsletter: The summit of suspicion",
-      "participants": [
-        "Cover Story"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Cover Story newsletter: The summit of suspicion",
-      "source_url": "https://www.economist.com/the-world-this-week/2026/05/08/cover-story-newsletter-the-summit-of-suspicion"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
+      "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
+      "source_url": "https://abcnews.com/International/wireStory/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-134450980"
+    },
+    {
+      "title": "Argentina Pushes $6 Billion in Repo Maturities Past Election",
+      "country": "Argentina",
+      "election_type": "National",
+      "date": "",
+      "description": "Argentina Pushes $6 Billion in Repo Maturities Past Election",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-03/argentina-extends-6-billion-in-repo-maturities-beyond-election"
+    },
     {
       "title": "The far-right Alternative for Germany is buoyant as it eyes a slice of power in regional elections",
       "country": "Germany",
@@ -82,77 +87,85 @@
   ],
   "global_events": [
     {
-      "title": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Descend on Iran",
-      "summary": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Descend on Iran",
+      "title": "Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war",
+      "summary": "Iran prepares for dayslong funeral for late Supreme Leader Ayatollah Ali Khamenei, killed in war",
       "outlets_covering": [
+        "NPR World",
+        "CBC World",
         "ABC News Intl",
         "CBS News World",
+        "NBC News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
         "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html"
-    },
-    {
-      "title": "Bus Plunges 70 Feet Into a Ravine in Pakistan, Killing 40",
-      "summary": "Bus Plunges 70 Feet Into a Ravine in Pakistan, Killing 40",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NYT World",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/03/world/asia/pakistan-bus-crash.html"
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/powerful-general-iran-publicly-tehran-prepares-khameneis-dayslong-134430863"
     },
     {
-      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
-      "summary": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "title": "Two jailed for stabbing Iranian journalist in London in attack blamed on Tehran",
+      "summary": "Two jailed for stabbing Iranian journalist in London in attack blamed on Tehran",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "Sky News World",
-        "The Independent"
+        "ABC News Intl",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "Global",
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.thehindu.com/news/international/two-jailed-for-stabbing-iranian-journalist-in-london-in-attack-blamed-on-tehran/article71180591.ece"
     },
     {
-      "title": "Trump says U.S. keeping current support levels for NATO would be \"ridiculous\"",
-      "summary": "Trump says U.S. keeping current support levels for NATO would be \"ridiculous\"",
+      "title": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
+      "summary": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
       "outlets_covering": [
         "CBS News World",
         "The Guardian World",
+        "Time",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/trump-nato-us-support-ridiculous"
+      "source_url": "https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit"
     },
     {
-      "title": "West Asia war updates: Iran warns oil tankers to follow its routes in Strait of Hormuz or face action",
-      "summary": "West Asia war updates: Iran warns oil tankers to follow its routes in Strait of Hormuz or face action",
+      "title": "Keiko Fujimori declared winner of Peru presidential race",
+      "summary": "Keiko Fujimori declared winner of Peru presidential race",
       "outlets_covering": [
-        "CBC World",
-        "The Hindu Intl",
-        "The Hill"
+        "ABC News Intl",
+        "Fox News World",
+        "Japan Times"
       ],
-      "coverage_count": 5,
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/keiko-fujimori-declared-winner-peru"
+    },
+    {
+      "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+      "summary": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 19,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-2-2026-trump-israel-west-asia-war/article71172891.ece"
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss"
     }
   ]
 }
