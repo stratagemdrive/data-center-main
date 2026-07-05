@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T12:59:36.739736Z",
+  "last_updated": "2026-07-05T02:04:18.582916Z",
   "world_org_meetings": [
     {
       "title": "Trump set to put NATO unity to the test at Turkey summit",
@@ -53,6 +53,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Slovaks vote in a referendum on lifelong payments for populist Prime Minister Fico",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Slovaks vote in a referendum on lifelong payments for populist Prime Minister Fico",
+      "source_url": "https://abcnews.com/International/wireStory/slovaks-vote-referendum-lifelong-payments-populist-prime-minister-134465837"
+    },
+    {
       "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
       "country": "",
       "election_type": "National",
@@ -69,47 +77,20 @@
       "source_url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/venezuela-quake-response-presidential-elections"
     },
     {
-      "title": "Argentina Pushes $6 Billion in Repo Maturities Past Election",
-      "country": "Argentina",
-      "election_type": "National",
+      "title": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
+      "country": "Iran",
+      "election_type": "Referendum",
       "date": "",
-      "description": "Argentina Pushes $6 Billion in Repo Maturities Past Election",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-07-03/argentina-extends-6-billion-in-repo-maturities-beyond-election"
-    },
-    {
-      "title": "The far-right Alternative for Germany is buoyant as it eyes a slice of power in regional elections",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "The far-right Alternative for Germany is buoyant as it eyes a slice of power in regional elections",
-      "source_url": "https://abcnews.com/International/wireStory/alternative-germany-buoyant-eyes-slice-power-regional-elections-134434539"
+      "description": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
+      "source_url": "https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning"
     }
   ],
   "global_events": [
     {
-      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
-      "summary": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+      "summary": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
       "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ayatollah-khamenei-funeral-israel-news-b3008826.html"
-    },
-    {
-      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
-      "summary": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
-      "outlets_covering": [
+        "BBC World",
         "NPR World",
         "CBC World",
         "ABC News Intl",
@@ -118,30 +99,64 @@
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "Time",
-        "The Independent"
+        "Time"
       ],
-      "coverage_count": 26,
+      "coverage_count": 33,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei"
+      "source_url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
     },
     {
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "summary": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "summary": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "ABC News Intl",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-israel-ali-khamenei-funeral-hormuz-b3008931.html"
+    },
+    {
+      "title": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
+      "summary": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "ABC News Intl",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "DW World"
+        "Sky News World",
+        "The Guardian World",
+        "DW World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510"
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+      "summary": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "Sky News World",
+        "The Guardian World"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port"
     },
     {
       "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
@@ -155,19 +170,6 @@
       "region": "Latin America",
       "category": "Politics",
       "source_url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "China launches coast guard patrol east of Taiwan despite international pushback",
-      "summary": "China launches coast guard patrol east of Taiwan despite international pushback",
-      "outlets_covering": [
-        "Bloomberg",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/china-launches-coast-guard-patrol-east-of-taiwan-despite-international-pushback/article71181868.ece"
     }
   ]
 }
