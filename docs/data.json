@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-05T02:04:18.582916Z",
+  "last_updated": "2026-07-05T13:07:49.284445Z",
   "world_org_meetings": [
+    {
+      "title": "Iran War Looms Over NATO Summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Iran War Looms Over NATO Summit",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-07-05/iran-war-looms-over-nato-summit-video"
+    },
+    {
+      "title": "Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
+      "source_url": "https://www.france24.com/en/europe/20260705-live-putin-and-zelensky-speak-to-trump-ahead-of-nato-summit-in-turkey"
+    },
     {
       "title": "Trump set to put NATO unity to the test at Turkey summit",
       "organization": "NATO",
@@ -10,36 +26,20 @@
       "source_url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf"
     },
     {
+      "title": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
+      "source_url": "https://abcnews.com/International/wireStory/nato-chief-faces-challenge-summit-trump-demands-loyalty-134493185"
+    },
+    {
       "title": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
       "description": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
       "source_url": "https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit"
-    },
-    {
-      "title": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump",
-      "source_url": "https://www.thehindu.com/news/international/nato-leaders-in-ankara-aiming-to-smooth-over-tensions-with-trump/article71177759.ece"
-    },
-    {
-      "title": "China-EU trade, Xi touts ‘global influence’, Nato summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "China-EU trade, Xi touts ‘global influence’, Nato summit",
-      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3359302/china-eu-trade-xi-touts-global-influence-nato-summit"
-    },
-    {
-      "title": "Which Trump will show up at Nato summit? Odds are it will be the fuming one",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Which Trump will show up at Nato summit? Odds are it will be the fuming one",
-      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3359228/which-trump-will-show-nato-summit-odds-are-it-will-be-fuming-one"
     }
   ],
   "diplomatic_visits": [],
@@ -69,14 +69,6 @@
       "source_url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government"
     },
     {
-      "title": "Venezuelans frustrated by quake response want new presidential elections",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Venezuelans frustrated by quake response want new presidential elections",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/04/world/politics/venezuela-quake-response-presidential-elections"
-    },
-    {
       "title": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
       "country": "Iran",
       "election_type": "Referendum",
@@ -87,28 +79,28 @@
   ],
   "global_events": [
     {
-      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
-      "summary": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
+      "summary": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
         "ABC News Intl",
-        "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "Time"
+        "The Independent",
+        "DW World"
       ],
-      "coverage_count": 33,
+      "coverage_count": 27,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
+      "source_url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent"
     },
     {
-      "title": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
-      "summary": "Iran-US war latest: Mourners gather as six-day funeral for former supreme leader Ali Khamenei starts in Tehran",
+      "title": "Iran-US war latest: Iran’s supreme leader does not appear at father Ali Khamenei’s funeral",
+      "summary": "Iran-US war latest: Iran’s supreme leader does not appear at father Ali Khamenei’s funeral",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -121,55 +113,50 @@
         "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 17,
+      "coverage_count": 24,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-israel-ali-khamenei-funeral-hormuz-b3008931.html"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-trump-khamenei-funeral-mojtaba-live-updates-b3009141.html"
     },
     {
-      "title": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
-      "summary": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
+      "title": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskyy",
+      "summary": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskyy",
       "outlets_covering": [
-        "BBC World",
         "CBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "The Guardian World",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510"
-    },
-    {
-      "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-      "summary": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "The Guardian World"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port"
-    },
-    {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "summary": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "outlets_covering": [
-        "BBC World",
-        "Fox News World",
+        "The Independent",
+        "Al Jazeera",
         "Japan Times"
       ],
-      "coverage_count": 3,
-      "region": "Latin America",
+      "coverage_count": 4,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbc.ca/news/world/trump-putin-ukraine-zelenskyy-9.7259039?cmp=rss"
+    },
+    {
+      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "summary": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "outlets_covering": [
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss"
+    },
+    {
+      "title": "North Korean leader Kim observes weapons tests from new naval destroyer",
+      "summary": "North Korean leader Kim observes weapons tests from new naval destroyer",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "East / Southeast Asia",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/north-korean-leader-kim-observes-weapons-tests-from-new-naval-destroyer/article71185035.ece"
     }
   ]
 }
