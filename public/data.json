@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-07-06T02:09:40.829689Z",
+  "last_updated": "2026-07-06T14:58:25.733171Z",
   "world_org_meetings": [
     {
-      "title": "Journalists arrested in Turkey as NATO summit looms",
+      "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Journalists arrested in Turkey as NATO summit looms",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/06/world/politics/journalists-arrested-turkey-nato-summit"
+      "description": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
+      "source_url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine"
     },
     {
-      "title": "Trump heads to NATO summit to meet Zelenskyy, face wary allies",
+      "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump heads to NATO summit to meet Zelenskyy, face wary allies",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/06/world/trump-nato-summit-zelenskyy-allies"
+      "description": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+      "source_url": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html"
     },
     {
-      "title": "Turkiye gears up for its first NATO summit in 22 years",
+      "title": "Zelensky Urges 'Strong Decisions' at NATO Summit After Russia Launches Another Deadly Attack on Kyiv",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Turkiye gears up for its first NATO summit in 22 years",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss"
+      "description": "Zelensky Urges 'Strong Decisions' at NATO Summit After Russia Launches Another Deadly Attack on Kyiv",
+      "source_url": "https://time.com/article/2026/07/06/ukraine-russia-attack-zelensky-nato-summit-request-trump-putin"
     },
     {
-      "title": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+      "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 21 in overnight strikes on Kyiv – Europe live",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
-      "source_url": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit"
+      "description": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 21 in overnight strikes on Kyiv – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates"
     },
     {
-      "title": "NATO leaders look for unity as Trump attends annual summit",
-      "organization": "NATO",
+      "title": "Meeting of BRICS anti-drug agencies meeting begins in Guwahati",
+      "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "NATO leaders look for unity as Trump attends annual summit",
-      "source_url": "https://www.npr.org/2026/07/05/nx-s1-5877610/nato-leaders-look-for-unity-as-trump-attends-annual-summit"
+      "description": "Meeting of BRICS anti-drug agencies meeting begins in Guwahati",
+      "source_url": "https://www.thehindu.com/news/international/meeting-of-brics-anti-drug-agencies-meeting-begins-in-guwahati/article71189256.ece"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "PM Modi escorted by fighter jets in Indonesia, welcomed by president Subianto at airport",
+      "participants": [
+        "Modi",
+        "Indonesia",
+        "Subianto"
+      ],
+      "date": "",
+      "location": "",
+      "description": "PM Modi escorted by fighter jets in Indonesia, welcomed by president Subianto at airport",
+      "source_url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-escorted-by-fighter-jets-in-indonesia-welcomed-by-president-subianto-at-airport/articleshow/132215432.cms"
+    }
+  ],
   "elections": [
     {
-      "title": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
-      "country": "Peru",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
-      "source_url": "https://abcnews.com/International/wireStory/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-134450980"
-    },
-    {
-      "title": "Slovaks vote in a referendum on lifelong payments for populist Prime Minister Fico",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Slovaks vote in a referendum on lifelong payments for populist Prime Minister Fico",
-      "source_url": "https://abcnews.com/International/wireStory/slovaks-vote-referendum-lifelong-payments-populist-prime-minister-134465837"
-    },
-    {
-      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
+      "title": "Does the French right have a chance of defeating the far right in the election?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
-      "source_url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government"
+      "description": "Does the French right have a chance of defeating the far right in the election?",
+      "source_url": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election"
+    },
+    {
+      "title": "One Nation to contest WA byelection triggered by Labor MP’s resignation – as it happened",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "One Nation to contest WA byelection triggered by Labor MP’s resignation – as it happened",
+      "source_url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb"
+    },
+    {
+      "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
+      "country": "Peru",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
+      "source_url": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election"
     },
     {
       "title": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
@@ -79,90 +92,87 @@
   ],
   "global_events": [
     {
-      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
-      "summary": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "Time"
-      ],
-      "coverage_count": 34,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
-    },
-    {
-      "title": "Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte",
-      "summary": "Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte",
+      "title": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte",
+      "summary": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte",
       "outlets_covering": [
         "ABC News Intl",
         "NYT World",
-        "Bloomberg",
+        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/philippine-senate-opening-the-politically-volatile-impeachment-trial-of-vice-president-sara-duterte/article71187819.ece"
+      "source_url": "https://abcnews.com/International/wireStory/philippine-senate-opening-politically-volatile-impeachment-trial-vice-134505996"
     },
     {
-      "title": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
-      "summary": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
+      "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+      "summary": "Russian missile and drone attack on Ukraine's capital kills at least 12",
       "outlets_covering": [
+        "NPR World",
         "CBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "The Guardian World",
-        "DW World",
+        "CBS News World",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 6,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510"
+      "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-attack-kyiv-missile-drones"
     },
     {
-      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
-      "summary": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
+      "summary": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
       "outlets_covering": [
-        "BBC World",
+        "CBC World",
         "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "The Independent"
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "DW World"
       ],
-      "coverage_count": 8,
+      "coverage_count": 17,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei"
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates"
     },
     {
-      "title": "Massive funeral for Iran's slain supreme leader enters second day",
-      "summary": "Massive funeral for Iran's slain supreme leader enters second day",
+      "title": "Iran begins funeral procession for slain supreme leader",
+      "summary": "Iran begins funeral procession for slain supreme leader",
       "outlets_covering": [
-        "BBC World",
         "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "France24",
-        "Japan Times",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 14,
+      "coverage_count": 17,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral"
+      "source_url": "https://www.cbsnews.com/video/iran-begins-funeral-procession-for-slain-supreme-leader"
+    },
+    {
+      "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
+      "summary": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
+      "outlets_covering": [
+        "NBC News World",
+        "NYT World",
+        "The Guardian World"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine"
     }
   ]
 }
