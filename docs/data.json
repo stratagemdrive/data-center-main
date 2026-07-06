@@ -1,56 +1,56 @@
 {
-  "last_updated": "2026-07-05T13:07:49.284445Z",
+  "last_updated": "2026-07-06T02:09:40.829689Z",
   "world_org_meetings": [
     {
-      "title": "Iran War Looms Over NATO Summit",
+      "title": "Journalists arrested in Turkey as NATO summit looms",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Iran War Looms Over NATO Summit",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-07-05/iran-war-looms-over-nato-summit-video"
+      "description": "Journalists arrested in Turkey as NATO summit looms",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/06/world/politics/journalists-arrested-turkey-nato-summit"
     },
     {
-      "title": "Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
+      "title": "Trump heads to NATO summit to meet Zelenskyy, face wary allies",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
-      "source_url": "https://www.france24.com/en/europe/20260705-live-putin-and-zelensky-speak-to-trump-ahead-of-nato-summit-in-turkey"
+      "description": "Trump heads to NATO summit to meet Zelenskyy, face wary allies",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/06/world/trump-nato-summit-zelenskyy-allies"
     },
     {
-      "title": "Trump set to put NATO unity to the test at Turkey summit",
+      "title": "Turkiye gears up for its first NATO summit in 22 years",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump set to put NATO unity to the test at Turkey summit",
-      "source_url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf"
+      "description": "Turkiye gears up for its first NATO summit in 22 years",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss"
     },
     {
-      "title": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
+      "title": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
-      "source_url": "https://abcnews.com/International/wireStory/nato-chief-faces-challenge-summit-trump-demands-loyalty-134493185"
+      "description": "Trump to huddle with Zelensky, Syrian leader at NATO Summit",
+      "source_url": "https://thehill.com/homenews/administration/5954306-trump-zelensky-al-sharaa-nato-summit"
     },
     {
-      "title": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
+      "title": "NATO leaders look for unity as Trump attends annual summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump Says It’s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
-      "source_url": "https://time.com/article/2026/07/03/trump-nato-defense-spending-row-alliance-summit"
+      "description": "NATO leaders look for unity as Trump attends annual summit",
+      "source_url": "https://www.npr.org/2026/07/05/nx-s1-5877610/nato-leaders-look-for-unity-as-trump-attends-annual-summit"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "title": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
       "country": "Peru",
       "election_type": "Presidential",
       "date": "",
-      "description": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
+      "description": "Conservative candidate Keiko Fujimori wins Peru’s presidential election in a runoff",
+      "source_url": "https://abcnews.com/International/wireStory/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-134450980"
     },
     {
       "title": "Slovaks vote in a referendum on lifelong payments for populist Prime Minister Fico",
@@ -79,84 +79,90 @@
   ],
   "global_events": [
     {
-      "title": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
-      "summary": "Calls for killing of Trump at funeral of Iran supreme leader Ali Khamenei",
+      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+      "summary": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
         "ABC News Intl",
+        "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "The Independent",
-        "DW World"
+        "Time"
       ],
-      "coverage_count": 27,
+      "coverage_count": 34,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent"
+      "source_url": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
     },
     {
-      "title": "Iran-US war latest: Iran’s supreme leader does not appear at father Ali Khamenei’s funeral",
-      "summary": "Iran-US war latest: Iran’s supreme leader does not appear at father Ali Khamenei’s funeral",
+      "title": "Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte",
+      "summary": "Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "ABC News Intl",
-        "NBC News World",
-        "Sky News World",
         "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Japan Times",
+        "Bloomberg",
         "The Hindu Intl"
-      ],
-      "coverage_count": 24,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-trump-khamenei-funeral-mojtaba-live-updates-b3009141.html"
-    },
-    {
-      "title": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskyy",
-      "summary": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskyy",
-      "outlets_covering": [
-        "CBC World",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times"
       ],
       "coverage_count": 4,
-      "region": "Europe / Russia",
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/trump-putin-ukraine-zelenskyy-9.7259039?cmp=rss"
+      "source_url": "https://www.thehindu.com/news/international/philippine-senate-opening-the-politically-volatile-impeachment-trial-of-vice-president-sara-duterte/article71187819.ece"
     },
     {
-      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-      "summary": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "title": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
+      "summary": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
       "outlets_covering": [
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss"
-    },
-    {
-      "title": "North Korean leader Kim observes weapons tests from new naval destroyer",
-      "summary": "North Korean leader Kim observes weapons tests from new naval destroyer",
-      "outlets_covering": [
+        "CBC World",
         "ABC News Intl",
+        "Sky News World",
+        "The Guardian World",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510"
+    },
+    {
+      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "summary": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei"
+    },
+    {
+      "title": "Massive funeral for Iran's slain supreme leader enters second day",
+      "summary": "Massive funeral for Iran's slain supreme leader enters second day",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "France24",
         "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "East / Southeast Asia",
+      "coverage_count": 14,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/north-korean-leader-kim-observes-weapons-tests-from-new-naval-destroyer/article71185035.ece"
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral"
     }
   ]
 }
