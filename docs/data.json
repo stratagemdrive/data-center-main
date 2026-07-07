@@ -1,77 +1,64 @@
 {
-  "last_updated": "2026-07-06T14:58:25.733171Z",
+  "last_updated": "2026-07-07T02:05:02.882465Z",
   "world_org_meetings": [
     {
-      "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
+      "title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
-      "source_url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine"
+      "description": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
+      "source_url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
     },
     {
-      "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+      "title": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
-      "source_url": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html"
+      "description": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
+      "source_url": "https://www.nbcnews.com/nightly-news/video/russia-launches-deadly-attacks-on-ukraine-ahead-of-nato-summit-266263621682"
     },
     {
-      "title": "Zelensky Urges 'Strong Decisions' at NATO Summit After Russia Launches Another Deadly Attack on Kyiv",
+      "title": "Russian strikes kill 24 in Kyiv region on eve of NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Zelensky Urges 'Strong Decisions' at NATO Summit After Russia Launches Another Deadly Attack on Kyiv",
-      "source_url": "https://time.com/article/2026/07/06/ukraine-russia-attack-zelensky-nato-summit-request-trump-putin"
+      "description": "Russian strikes kill 24 in Kyiv region on eve of NATO summit",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/07/world/politics/russia-strikes-kyiv-nato-summit"
     },
     {
-      "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 21 in overnight strikes on Kyiv – Europe live",
+      "title": "What to Expect at the 2026 NATO Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 21 in overnight strikes on Kyiv – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates"
+      "description": "What to Expect at the 2026 NATO Summit",
+      "source_url": "https://foreignpolicy.com/2026/07/06/nato-leaders-summit-trump-defense-spending-iran-russia-ukraine"
     },
     {
-      "title": "Meeting of BRICS anti-drug agencies meeting begins in Guwahati",
-      "organization": "BRICS",
+      "title": "Turkey cracks down on press as NATO leaders gather in Ankara",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Meeting of BRICS anti-drug agencies meeting begins in Guwahati",
-      "source_url": "https://www.thehindu.com/news/international/meeting-of-brics-anti-drug-agencies-meeting-begins-in-guwahati/article71189256.ece"
+      "description": "Turkey cracks down on press as NATO leaders gather in Ankara",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/07/world/politics/turkey-crackdown-press-nato-ankara"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "PM Modi escorted by fighter jets in Indonesia, welcomed by president Subianto at airport",
-      "participants": [
-        "Modi",
-        "Indonesia",
-        "Subianto"
-      ],
-      "date": "",
-      "location": "",
-      "description": "PM Modi escorted by fighter jets in Indonesia, welcomed by president Subianto at airport",
-      "source_url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-escorted-by-fighter-jets-in-indonesia-welcomed-by-president-subianto-at-airport/articleshow/132215432.cms"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Does the French right have a chance of defeating the far right in the election?",
+      "title": "NAACP spending more on midterms than any other election in its history",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Does the French right have a chance of defeating the far right in the election?",
-      "source_url": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election"
+      "description": "NAACP spending more on midterms than any other election in its history",
+      "source_url": "https://thehill.com/homenews/campaign/5955560-naacp-midterms-spending-record"
     },
     {
-      "title": "One Nation to contest WA byelection triggered by Labor MP’s resignation – as it happened",
-      "country": "",
-      "election_type": "National",
+      "title": "Senegal's power struggle: Referendum to decide on constitutional reform",
+      "country": "Senegal",
+      "election_type": "Referendum",
       "date": "",
-      "description": "One Nation to contest WA byelection triggered by Labor MP’s resignation – as it happened",
-      "source_url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb"
+      "description": "Senegal's power struggle: Referendum to decide on constitutional reform",
+      "source_url": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
@@ -80,42 +67,57 @@
       "date": "",
       "description": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
       "source_url": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election"
-    },
-    {
-      "title": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
-      "country": "Iran",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Iran Holds Funerary Processions for Late Supreme Leader in 'Referendum' for Regime",
-      "source_url": "https://time.com/article/2026/07/03/iran-supreme-leader-ayatollah-ali-khamenei-funeral-mass-mourning"
     }
   ],
   "global_events": [
     {
-      "title": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte",
-      "summary": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte",
+      "title": "China test-fires long-range missile into Pacific, rattling U.S. allies",
+      "summary": "China test-fires long-range missile into Pacific, rattling U.S. allies",
       "outlets_covering": [
         "ABC News Intl",
+        "NBC News World",
         "NYT World",
-        "Al Jazeera",
+        "The Guardian World",
+        "Wash Post World",
+        "Time",
         "Japan Times",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/philippine-senate-opening-politically-volatile-impeachment-trial-vice-134505996"
+      "coverage_count": 10,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/national-security/2026/07/06/china-test-fires-long-range-missile-into-pacific-rattling-us-allies"
     },
     {
-      "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
-      "summary": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+      "title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
+      "summary": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
+      "outlets_covering": [
+        "NPR World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Time",
+        "France24",
+        "Japan Times",
+        "Foreign Policy"
+      ],
+      "coverage_count": 11,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
+    },
+    {
+      "title": "Russian missile and drone attack on Ukraine's capital kills at least 22",
+      "summary": "Russian missile and drone attack on Ukraine's capital kills at least 22",
       "outlets_covering": [
         "NPR World",
         "CBC World",
         "CBS News World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "The Guardian World",
+        "The Hindu Intl",
+        "UN News"
       ],
       "coverage_count": 6,
       "region": "Europe / Russia",
@@ -123,56 +125,35 @@
       "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-attack-kyiv-missile-drones"
     },
     {
-      "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
-      "summary": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
+      "title": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
+      "summary": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
       "outlets_covering": [
-        "CBC World",
-        "CBS News World",
+        "NPR World",
         "NBC News World",
-        "Sky News World",
         "NYT World",
-        "The Guardian World",
+        "Wash Post World",
         "Time",
-        "The Independent",
-        "Al Jazeera",
-        "DW World"
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 17,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates"
+      "coverage_count": 10,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.nbcnews.com/nightly-news/video/russia-launches-deadly-attacks-on-ukraine-ahead-of-nato-summit-266263621682"
     },
     {
-      "title": "Iran begins funeral procession for slain supreme leader",
-      "summary": "Iran begins funeral procession for slain supreme leader",
+      "title": "Hamas dissolves its government in Gaza with power set to transfer to UN-backed committee",
+      "summary": "Hamas dissolves its government in Gaza with power set to transfer to UN-backed committee",
       "outlets_covering": [
-        "CBS News World",
         "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
         "The Independent",
-        "Al Jazeera",
-        "DW World",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 17,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/iran-begins-funeral-procession-for-slain-supreme-leader"
-    },
-    {
-      "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
-      "summary": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
-      "outlets_covering": [
-        "NBC News World",
-        "NYT World",
-        "The Guardian World"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/hamas-gaza-government-israel-palestine-b3010082.html"
     }
   ]
 }
