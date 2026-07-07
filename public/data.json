@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-07-07T02:05:02.882465Z",
+  "last_updated": "2026-07-07T14:06:43.228602Z",
   "world_org_meetings": [
-    {
-      "title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
-      "source_url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
-    },
     {
       "title": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
       "organization": "NATO",
@@ -18,142 +10,181 @@
       "source_url": "https://www.nbcnews.com/nightly-news/video/russia-launches-deadly-attacks-on-ukraine-ahead-of-nato-summit-266263621682"
     },
     {
-      "title": "Russian strikes kill 24 in Kyiv region on eve of NATO summit",
+      "title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Russian strikes kill 24 in Kyiv region on eve of NATO summit",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/07/world/politics/russia-strikes-kyiv-nato-summit"
+      "description": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
+      "source_url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
     },
     {
-      "title": "What to Expect at the 2026 NATO Summit",
+      "title": "Trump touches down in Turkey for NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "What to Expect at the 2026 NATO Summit",
-      "source_url": "https://foreignpolicy.com/2026/07/06/nato-leaders-summit-trump-defense-spending-iran-russia-ukraine"
+      "description": "Trump touches down in Turkey for NATO summit",
+      "source_url": "https://thehill.com/policy/international/5956293-donald-trump-turkey-nato-summit-arrival"
     },
     {
-      "title": "Turkey cracks down on press as NATO leaders gather in Ankara",
+      "title": "Watch live: Trump, Erdoğan give remarks as NATO summit begins",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Turkey cracks down on press as NATO leaders gather in Ankara",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/07/world/politics/turkey-crackdown-press-nato-ankara"
+      "description": "Watch live: Trump, Erdoğan give remarks as NATO summit begins",
+      "source_url": "https://thehill.com/video-clips/5956272-watch-live-donald-trump-erdogan-turkey-bilateral-nato-summit"
+    },
+    {
+      "title": "The Memo: Sea of tensions awaits Trump at NATO summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "The Memo: Sea of tensions awaits Trump at NATO summit",
+      "source_url": "https://thehill.com/homenews/administration/5955905-trump-nato-summit-tensions"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "Explosions rock Damascus as French President Macron visits Syria",
+      "participants": [
+        "Explosions",
+        "Damascus",
+        "French President Macron",
+        "Syria"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Explosions rock Damascus as French President Macron visits Syria",
+      "source_url": "https://www.cbc.ca/news/world/macron-syria-damascus-explosion-9.7260905?cmp=rss"
+    }
+  ],
   "elections": [
     {
-      "title": "NAACP spending more on midterms than any other election in its history",
+      "title": "French right-wing leader Marine Le Pen cleared to run in 2027 election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "NAACP spending more on midterms than any other election in its history",
-      "source_url": "https://thehill.com/homenews/campaign/5955560-naacp-midterms-spending-record"
+      "description": "French right-wing leader Marine Le Pen cleared to run in 2027 election",
+      "source_url": "https://www.cbsnews.com/news/france-marine-le-pen-right-wing-leader-cleared-run-presidential-election"
     },
     {
-      "title": "Senegal's power struggle: Referendum to decide on constitutional reform",
-      "country": "Senegal",
-      "election_type": "Referendum",
+      "title": "U.K. Live Updates: Farage Resigns and Says He Will Run Again in Special Election",
+      "country": "",
+      "election_type": "National",
       "date": "",
-      "description": "Senegal's power struggle: Referendum to decide on constitutional reform",
-      "source_url": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-world-4025-rdf"
+      "description": "U.K. Live Updates: Farage Resigns and Says He Will Run Again in Special Election",
+      "source_url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk"
     },
     {
-      "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
-      "country": "Peru",
+      "title": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
+      "source_url": "https://abcnews.com/International/wireStory/reform-uks-nigel-farage-hell-quit-lawmaker-seek-134545305"
+    },
+    {
+      "title": "Britain's Farage resigns as MP to stand for re-election amid furore over gift worth millions",
+      "country": "Britain",
+      "election_type": "National",
+      "date": "",
+      "description": "Britain's Farage resigns as MP to stand for re-election amid furore over gift worth millions",
+      "source_url": "https://www.france24.com/en/europe/20260707-britain-s-farage-says-he-resigns-as-mp-to-stand-for-re-election-amid-furore-over-gift-worth-millions"
+    },
+    {
+      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
+      "country": "",
       "election_type": "Presidential",
       "date": "",
-      "description": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
-      "source_url": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election"
+      "description": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates"
     }
   ],
   "global_events": [
     {
-      "title": "China test-fires long-range missile into Pacific, rattling U.S. allies",
-      "summary": "China test-fires long-range missile into Pacific, rattling U.S. allies",
+      "title": "Ukraine says woman wanted in connection with a Monaco bombing is found dead",
+      "summary": "Ukraine says woman wanted in connection with a Monaco bombing is found dead",
       "outlets_covering": [
+        "BBC World",
+        "CBC World",
         "ABC News Intl",
-        "NBC News World",
+        "Sky News World",
+        "Fox News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP"
+        "The Independent",
+        "DW World",
+        "France24"
       ],
-      "coverage_count": 10,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/national-security/2026/07/06/china-test-fires-long-range-missile-into-pacific-rattling-us-allies"
-    },
-    {
-      "title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
-      "summary": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "France24",
-        "Japan Times",
-        "Foreign Policy"
-      ],
-      "coverage_count": 11,
+      "coverage_count": 9,
       "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/ukraines-security-service-woman-wanted-connection-monaco-bombing-134541933"
     },
     {
-      "title": "Russian missile and drone attack on Ukraine's capital kills at least 22",
-      "summary": "Russian missile and drone attack on Ukraine's capital kills at least 22",
+      "title": "Explosions rock Damascus as French President Macron visits Syria",
+      "summary": "Explosions rock Damascus as French President Macron visits Syria",
       "outlets_covering": [
         "NPR World",
         "CBC World",
         "CBS News World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "UN News"
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-attack-kyiv-missile-drones"
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/macron-syria-damascus-explosion-9.7260905?cmp=rss"
     },
     {
-      "title": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
-      "summary": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
+      "title": "French court opens door for Marine Le Pen to run for president, with ankle monitor",
+      "summary": "French court opens door for Marine Le Pen to run for president, with ankle monitor",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/france-court-marine-le-pen-appeal-9.7261011?cmp=rss"
+    },
+    {
+      "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+      "summary": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
       "outlets_covering": [
         "NPR World",
-        "NBC News World",
+        "Sky News World",
         "NYT World",
         "Wash Post World",
         "Time",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 10,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.nbcnews.com/nightly-news/video/russia-launches-deadly-attacks-on-ukraine-ahead-of-nato-summit-266263621682"
-    },
-    {
-      "title": "Hamas dissolves its government in Gaza with power set to transfer to UN-backed committee",
-      "summary": "Hamas dissolves its government in Gaza with power set to transfer to UN-backed committee",
-      "outlets_covering": [
-        "NBC News World",
         "The Independent",
-        "Japan Times",
+        "DW World",
         "The Hindu Intl"
       ],
+      "coverage_count": 9,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific"
+    },
+    {
+      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
+      "summary": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Sky News World",
+        "The Guardian World",
+        "The Independent",
+        "France24"
+      ],
       "coverage_count": 5,
-      "region": "Middle East",
+      "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/hamas-gaza-government-israel-palestine-b3010082.html"
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates"
     }
   ]
 }
