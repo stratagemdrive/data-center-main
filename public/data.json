@@ -1,21 +1,29 @@
 {
-  "last_updated": "2026-07-07T14:06:43.228602Z",
+  "last_updated": "2026-07-08T01:46:02.199139Z",
   "world_org_meetings": [
     {
-      "title": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
+      "title": "Trump berates NATO and praises Erdogan as summit starts",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Russia launches deadly attacks on Ukraine ahead of NATO summit",
-      "source_url": "https://www.nbcnews.com/nightly-news/video/russia-launches-deadly-attacks-on-ukraine-ahead-of-nato-summit-266263621682"
+      "description": "Trump berates NATO and praises Erdogan as summit starts",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/08/world/politics/trump-nato-erdogan-summit"
     },
     {
-      "title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
+      "title": "Trump renews call for US to take over Greenland as he arrives for Nato summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
-      "source_url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
+      "description": "Trump renews call for US to take over Greenland as he arrives for Nato summit",
+      "source_url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato"
+    },
+    {
+      "title": "Trump still ‘disappointed’ with Nato, says US should control Greenland as summit kicks off",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump still ‘disappointed’ with Nato, says US should control Greenland as summit kicks off",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3359777/trump-still-disappointed-nato-says-us-should-control-greenland-summit-kicks"
     },
     {
       "title": "Trump touches down in Turkey for NATO summit",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Watch live: Trump, Erdoğan give remarks as NATO summit begins",
       "source_url": "https://thehill.com/video-clips/5956272-watch-live-donald-trump-erdogan-turkey-bilateral-nato-summit"
-    },
-    {
-      "title": "The Memo: Sea of tensions awaits Trump at NATO summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "The Memo: Sea of tensions awaits Trump at NATO summit",
-      "source_url": "https://thehill.com/homenews/administration/5955905-trump-nato-summit-tensions"
     }
   ],
   "diplomatic_visits": [
@@ -55,9 +55,30 @@
       "location": "",
       "description": "Explosions rock Damascus as French President Macron visits Syria",
       "source_url": "https://www.cbc.ca/news/world/macron-syria-damascus-explosion-9.7260905?cmp=rss"
+    },
+    {
+      "title": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
+      "participants": [
+        "Video",
+        "Damascus",
+        "French President Macron",
+        "Syrian"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
+      "source_url": "https://www.foxnews.com/world/video-shows-bomb-rock-damascus-hotel-french-president-macron-staying-syrian-state-visit"
     }
   ],
   "elections": [
+    {
+      "title": "US Judge Rejects DOJ Subpoena Over 2020 Georgia Election",
+      "country": "Georgia",
+      "election_type": "National",
+      "date": "",
+      "description": "US Judge Rejects DOJ Subpoena Over 2020 Georgia Election",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-07/us-judge-rejects-doj-subpoena-related-to-2020-georgia-election"
+    },
     {
       "title": "French right-wing leader Marine Le Pen cleared to run in 2027 election",
       "country": "",
@@ -67,124 +88,119 @@
       "source_url": "https://www.cbsnews.com/news/france-marine-le-pen-right-wing-leader-cleared-run-presidential-election"
     },
     {
-      "title": "U.K. Live Updates: Farage Resigns and Says He Will Run Again in Special Election",
+      "title": "Farage wagers he can outrun his troubles with election ploy",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "U.K. Live Updates: Farage Resigns and Says He Will Run Again in Special Election",
+      "description": "Farage wagers he can outrun his troubles with election ploy",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/08/world/politics/farage-election-reform-uk"
+    },
+    {
+      "title": "Labour, Tories and Lib Dems refuse to stand in byelection with Farage’s resignation labelled ‘desperate stunt’ – as it happened",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Labour, Tories and Lib Dems refuse to stand in byelection with Farage’s resignation labelled ‘desperate stunt’ – as it happened",
+      "source_url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates"
+    },
+    {
+      "title": "Farage Resigns and Says He Will Run Again in Special Election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Farage Resigns and Says He Will Run Again in Special Election",
       "source_url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk"
-    },
-    {
-      "title": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
-      "source_url": "https://abcnews.com/International/wireStory/reform-uks-nigel-farage-hell-quit-lawmaker-seek-134545305"
-    },
-    {
-      "title": "Britain's Farage resigns as MP to stand for re-election amid furore over gift worth millions",
-      "country": "Britain",
-      "election_type": "National",
-      "date": "",
-      "description": "Britain's Farage resigns as MP to stand for re-election amid furore over gift worth millions",
-      "source_url": "https://www.france24.com/en/europe/20260707-britain-s-farage-says-he-resigns-as-mp-to-stand-for-re-election-amid-furore-over-gift-worth-millions"
-    },
-    {
-      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates"
     }
   ],
   "global_events": [
     {
-      "title": "Ukraine says woman wanted in connection with a Monaco bombing is found dead",
-      "summary": "Ukraine says woman wanted in connection with a Monaco bombing is found dead",
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "summary": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "ABC News Intl",
+        "CBS News World",
         "Sky News World",
-        "Fox News World",
         "NYT World",
-        "The Independent",
         "DW World",
         "France24"
       ],
-      "coverage_count": 9,
+      "coverage_count": 8,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/ukraines-security-service-woman-wanted-connection-monaco-bombing-134541933"
+      "source_url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Explosions rock Damascus as French President Macron visits Syria",
-      "summary": "Explosions rock Damascus as French President Macron visits Syria",
+      "title": "U.S. launches strikes on Iran after commercial ship attacks in Strait of Hormuz",
+      "summary": "U.S. launches strikes on Iran after commercial ship attacks in Strait of Hormuz",
       "outlets_covering": [
-        "NPR World",
+        "BBC World",
         "CBC World",
         "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 24,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato"
+    },
+    {
+      "title": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
+      "summary": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
         "The Independent",
         "Al Jazeera",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/macron-syria-damascus-explosion-9.7260905?cmp=rss"
-    },
-    {
-      "title": "French court opens door for Marine Le Pen to run for president, with ankle monitor",
-      "summary": "French court opens door for Marine Le Pen to run for president, with ankle monitor",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 7,
+      "coverage_count": 11,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/france-court-marine-le-pen-appeal-9.7261011?cmp=rss"
+      "source_url": "https://www.thehindu.com/news/international/french-far-right-chief-marine-le-pen-cleared-to-run-for-president-but-with-ankle-tag/article71194169.ece"
     },
     {
-      "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
-      "summary": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+      "title": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver",
+      "summary": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver",
       "outlets_covering": [
-        "NPR World",
-        "Sky News World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "The Independent",
-        "DW World",
-        "The Hindu Intl"
+        "NBC News World",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 9,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific"
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://thehill.com/business/5957965-oil-prices-jump-5-percent-after-u-s-revokes-iran-oil-sanctions-waiver"
     },
     {
-      "title": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
-      "summary": "Paris court clears way for Marine Le Pen presidential election run but under conditions she rejects - Europe live",
+      "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
+      "summary": "Marine Le Pen to run for French Presidency despite criminal conviction",
       "outlets_covering": [
-        "ABC News Intl",
-        "Sky News World",
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
         "The Guardian World",
         "The Independent",
-        "France24"
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Europe",
+      "coverage_count": 10,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss"
     }
   ]
 }
