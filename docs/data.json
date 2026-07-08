@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-08T01:46:02.199139Z",
+  "last_updated": "2026-07-08T13:30:08.066664Z",
   "world_org_meetings": [
     {
-      "title": "Trump berates NATO and praises Erdogan as summit starts",
+      "title": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump berates NATO and praises Erdogan as summit starts",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/08/world/politics/trump-nato-erdogan-summit"
+      "description": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
+      "source_url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks"
     },
     {
-      "title": "Trump renews call for US to take over Greenland as he arrives for Nato summit",
+      "title": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump renews call for US to take over Greenland as he arrives for Nato summit",
-      "source_url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato"
+      "description": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
+      "source_url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine"
     },
     {
-      "title": "Trump still ‘disappointed’ with Nato, says US should control Greenland as summit kicks off",
+      "title": "Trump declares ceasefire with Iran over during angry broadside at Nato summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump still ‘disappointed’ with Nato, says US should control Greenland as summit kicks off",
-      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3359777/trump-still-disappointed-nato-says-us-should-control-greenland-summit-kicks"
+      "description": "Trump declares ceasefire with Iran over during angry broadside at Nato summit",
+      "source_url": "https://www.theguardian.com/world/2026/jul/08/trump-declares-ceasefire-iran-over-broadside-nato-summit"
     },
     {
-      "title": "Trump touches down in Turkey for NATO summit",
+      "title": "Russian strikes kill at least 26 in Kyiv region on eve of NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump touches down in Turkey for NATO summit",
-      "source_url": "https://thehill.com/policy/international/5956293-donald-trump-turkey-nato-summit-arrival"
+      "description": "Russian strikes kill at least 26 in Kyiv region on eve of NATO summit",
+      "source_url": "https://www.thehindu.com/news/international/russian-strikes-kill-several-in-kyiv-region-on-eve-of-nato-summit/article71192066.ece"
     },
     {
-      "title": "Watch live: Trump, Erdoğan give remarks as NATO summit begins",
+      "title": "Trump blasts Spain, targets Greenland at NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Watch live: Trump, Erdoğan give remarks as NATO summit begins",
-      "source_url": "https://thehill.com/video-clips/5956272-watch-live-donald-trump-erdogan-turkey-bilateral-nato-summit"
+      "description": "Trump blasts Spain, targets Greenland at NATO summit",
+      "source_url": "https://www.thehindu.com/news/international/nato-summit-in-turkiye-trump-lashes-out-at-allies/article71197466.ece"
     }
   ],
   "diplomatic_visits": [
@@ -72,44 +72,44 @@
   ],
   "elections": [
     {
-      "title": "US Judge Rejects DOJ Subpoena Over 2020 Georgia Election",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "US Judge Rejects DOJ Subpoena Over 2020 Georgia Election",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-07-07/us-judge-rejects-doj-subpoena-related-to-2020-georgia-election"
-    },
-    {
-      "title": "French right-wing leader Marine Le Pen cleared to run in 2027 election",
+      "title": "Main U.K. parties refuse to fight Farage in byelection",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "French right-wing leader Marine Le Pen cleared to run in 2027 election",
-      "source_url": "https://www.cbsnews.com/news/france-marine-le-pen-right-wing-leader-cleared-run-presidential-election"
+      "description": "Main U.K. parties refuse to fight Farage in byelection",
+      "source_url": "https://www.thehindu.com/news/international/reform-uk-s-farage-resigns-as-mp-forces-byelection/article71194301.ece"
     },
     {
-      "title": "Farage wagers he can outrun his troubles with election ploy",
+      "title": "Judge quashes DOJ subpoena for names of Fulton County’s 2020 election staff",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Farage wagers he can outrun his troubles with election ploy",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/08/world/politics/farage-election-reform-uk"
+      "description": "Judge quashes DOJ subpoena for names of Fulton County’s 2020 election staff",
+      "source_url": "https://thehill.com/regulation/court-battles/5957739-judge-denies-doj-election-fraud"
     },
     {
-      "title": "Labour, Tories and Lib Dems refuse to stand in byelection with Farage’s resignation labelled ‘desperate stunt’ – as it happened",
+      "title": "Farage Says He Will Resign From UK’s Parliament, Setting Off a By-Election",
+      "country": "",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Farage Says He Will Resign From UK’s Parliament, Setting Off a By-Election",
+      "source_url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk/nigel-farage-reform-uk"
+    },
+    {
+      "title": "Zimbabwe's 83-year-old president signs law to delay elections and extend his own term",
+      "country": "Zimbabwe",
+      "election_type": "National",
+      "date": "",
+      "description": "Zimbabwe's 83-year-old president signs law to delay elections and extend his own term",
+      "source_url": "https://abcnews.com/International/wireStory/zimbabwes-83-year-president-signs-law-delay-elections-134554317"
+    },
+    {
+      "title": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Labour, Tories and Lib Dems refuse to stand in byelection with Farage’s resignation labelled ‘desperate stunt’ – as it happened",
-      "source_url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates"
-    },
-    {
-      "title": "Farage Resigns and Says He Will Run Again in Special Election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Farage Resigns and Says He Will Run Again in Special Election",
-      "source_url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk"
+      "description": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
+      "source_url": "https://abcnews.com/International/wireStory/reform-uks-nigel-farage-hell-quit-lawmaker-seek-134545305"
     }
   ],
   "global_events": [
@@ -121,35 +121,15 @@
         "CBC World",
         "ABC News Intl",
         "CBS News World",
+        "NBC News World",
         "Sky News World",
         "NYT World",
-        "DW World",
-        "France24"
+        "DW World"
       ],
       "coverage_count": 8,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "U.S. launches strikes on Iran after commercial ship attacks in Strait of Hormuz",
-      "summary": "U.S. launches strikes on Iran after commercial ship attacks in Strait of Hormuz",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 24,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato"
     },
     {
       "title": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
@@ -160,47 +140,70 @@
         "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "Sky News World",
         "The Independent",
-        "Al Jazeera",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 7,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/french-far-right-chief-marine-le-pen-cleared-to-run-for-president-but-with-ankle-tag/article71194169.ece"
     },
     {
-      "title": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver",
-      "summary": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver",
+      "title": "Trump slams Spain with call to suspend all US trade at Nato summit",
+      "summary": "Trump slams Spain with call to suspend all US trade at Nato summit",
       "outlets_covering": [
-        "NBC News World",
-        "The Hill",
-        "Axios"
+        "NYT World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
+      "coverage_count": 9,
+      "region": "Europe",
       "category": "Economy",
-      "source_url": "https://thehill.com/business/5957965-oil-prices-jump-5-percent-after-u-s-revokes-iran-oil-sanctions-waiver"
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-spain-trade-nato-summit-rutte-b3011020.html"
     },
     {
-      "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
-      "summary": "Marine Le Pen to run for French Presidency despite criminal conviction",
+      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "summary": "Trump says ceasefire is 'over' after US and Iran trade strikes",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "Wash Post World",
+        "Bloomberg",
+        "Time"
       ],
-      "coverage_count": 10,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss"
+      "coverage_count": 32,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "U.S. launches strikes against Iran over attacks on 3 ships in Strait of Hormuz",
+      "summary": "U.S. launches strikes against Iran over attacks on 3 ships in Strait of Hormuz",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "DW World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/u-s-launches-strikes-against-iran-to-retaliate-for-attacks-on-3-tankers-in-strait-of-hormuz"
     }
   ]
 }
