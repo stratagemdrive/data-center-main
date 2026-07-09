@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-07-09T01:57:51.638660Z",
+  "last_updated": "2026-07-09T14:30:13.901066Z",
   "world_org_meetings": [
-    {
-      "title": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-air-force-one-qatar-plane-b3011539.html"
-    },
-    {
-      "title": "Trump threatens Iran as NATO summit wraps",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump threatens Iran as NATO summit wraps",
-      "source_url": "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps"
-    },
-    {
-      "title": "Trump Orders U.S. to Cut All Trade With Spain as Feud Escalates at NATO Summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump Orders U.S. to Cut All Trade With Spain as Feud Escalates at NATO Summit",
-      "source_url": "https://time.com/article/2026/07/08/trump-united-states-spain-trade-cuts-nato-feud"
-    },
     {
       "title": "Russian strikes kill at least 26 in Kyiv region on eve of NATO summit",
       "organization": "NATO",
@@ -34,12 +10,36 @@
       "source_url": "https://www.thehindu.com/news/international/russian-strikes-kill-several-in-kyiv-region-on-eve-of-nato-summit/article71192066.ece"
     },
     {
-      "title": "Trump blasts Spain, targets Greenland at NATO summit",
+      "title": "Trump’s NATO Summit, and Everyone Else’s",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump blasts Spain, targets Greenland at NATO summit",
-      "source_url": "https://www.thehindu.com/news/international/nato-summit-in-turkiye-trump-lashes-out-at-allies/article71197466.ece"
+      "description": "Trump’s NATO Summit, and Everyone Else’s",
+      "source_url": "https://www.nytimes.com/2026/07/09/world/europe/nato-trump-turkey-summit.html"
+    },
+    {
+      "title": "Erdogan gives every Nato leader personalised gun as farewell gift at Ankara summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Erdogan gives every Nato leader personalised gun as farewell gift at Ankara summit",
+      "source_url": "https://www.independent.co.uk/news/world/europe/erdogan-guns-nato-summit-gift-b3011695.html"
+    },
+    {
+      "title": "Trump wraps NATO summit on a positive note, after meeting Zelenskyy",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump wraps NATO summit on a positive note, after meeting Zelenskyy",
+      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5887053/trump-nato-zelenskyy"
+    },
+    {
+      "title": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-qatar-jet-air-force-one-nato-summit-b3011630.html"
     }
   ],
   "diplomatic_visits": [
@@ -59,20 +59,20 @@
   ],
   "elections": [
     {
-      "title": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
+      "title": "Farage to face Count Binface in self-triggered byelection amid funding probe",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Farage to face Count Binface in self-triggered byelection amid funding probe",
+      "source_url": "https://www.france24.com/en/video/20260709-farage-to-face-count-binface-in-self-triggered-byelection-amid-funding-probe"
+    },
+    {
+      "title": "With Le Pen sentencing, France's presidential election veers into the extraordinary",
       "country": "France",
       "election_type": "Presidential",
       "date": "",
-      "description": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss"
-    },
-    {
-      "title": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
-      "country": "France",
-      "election_type": "National",
-      "date": "",
-      "description": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
-      "source_url": "https://www.france24.com/en/video/20260708-france-2027-elections-a-clash-of-two-extremes-could-lead-to-easy-le-pen-win"
+      "description": "With Le Pen sentencing, France's presidential election veers into the extraordinary",
+      "source_url": "https://abcnews.com/International/wireStory/le-pen-sentencing-frances-presidential-election-veers-extraordinary-134589242"
     },
     {
       "title": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
@@ -83,113 +83,89 @@
       "source_url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html"
     },
     {
-      "title": "DR Congo: Tensions mount over planned constitutional referendum",
-      "country": "Congo",
+      "title": "DRC faces rising tensions over constitutional referendum",
+      "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "DR Congo: Tensions mount over planned constitutional referendum",
-      "source_url": "https://www.dw.com/en/dr-congo-tensions-mount-over-planned-constitutional-referendum/a-77859643?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Main U.K. parties refuse to fight Farage in byelection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Main U.K. parties refuse to fight Farage in byelection",
-      "source_url": "https://www.thehindu.com/news/international/reform-uk-s-farage-resigns-as-mp-forces-byelection/article71194301.ece"
+      "description": "DRC faces rising tensions over constitutional referendum",
+      "source_url": "https://www.dw.com/en/drc-faces-rising-tensions-over-constitutional-referendum/a-77859643?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
-      "summary": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+      "title": "US and Iran trade most intense strikes since ceasefire extended",
+      "summary": "US and Iran trade most intense strikes since ceasefire extended",
       "outlets_covering": [
-        "CBC World",
         "CBS News World",
         "NBC News World",
-        "NYT World",
         "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
+        "Wash Post World",
         "The Hindu Intl"
       ],
-      "coverage_count": 17,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump"
+      "source_url": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump"
     },
     {
-      "title": "U.S. launches more strikes against Iran after Trump says ceasefire is \"over\"",
-      "summary": "U.S. launches more strikes against Iran after Trump says ceasefire is \"over\"",
+      "title": "US launches strikes on Iran for a second day after Trump says agreement to end the war is ‘over’",
+      "summary": "US launches strikes on Iran for a second day after Trump says agreement to end the war is ‘over’",
       "outlets_covering": [
-        "NPR World",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
         "Time",
         "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 37,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over"
-    },
-    {
-      "title": "Trump moves to remove Syria from US list of state sponsors of terrorism",
-      "summary": "Trump moves to remove Syria from US list of state sponsors of terrorism",
-      "outlets_covering": [
-        "Time",
-        "Al Jazeera",
-        "France24",
+        "Japan Times",
+        "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 14,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/americas/20260708-trump-moves-to-remove-syria-from-us-list-of-state-sponsors-of-terrorism"
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
     },
     {
       "title": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
       "summary": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
         "NBC News World",
         "NYT World",
-        "The Independent",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 11,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Economy",
       "source_url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html"
     },
     {
-      "title": "U.S. military launches second night of strikes against Iran",
-      "summary": "U.S. military launches second night of strikes against Iran",
+      "title": "At least 28 killed in China shoe factory fire, state media reports",
+      "summary": "At least 28 killed in China shoe factory fire, state media reports",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
+      "summary": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
       "outlets_covering": [
         "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Bloomberg",
-        "Time",
-        "Al Jazeera",
-        "France24",
-        "Japan Times"
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 17,
+      "coverage_count": 4,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/iran-strikes-us-military-second-night"
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/gallery/2026/7/9/photos-iran-to-bury-slain-supreme-leader-in-culmination-of-mass-funeral?traffic_source=rss"
     }
   ]
 }
