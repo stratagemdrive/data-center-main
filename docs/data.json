@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-07-08T13:30:08.066664Z",
+  "last_updated": "2026-07-09T01:57:51.638660Z",
   "world_org_meetings": [
     {
-      "title": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
+      "title": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
-      "source_url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks"
+      "description": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-air-force-one-qatar-plane-b3011539.html"
     },
     {
-      "title": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
+      "title": "Trump threatens Iran as NATO summit wraps",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Live Updates: Trump Lashes Out at Europe at NATO Summit",
-      "source_url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine"
+      "description": "Trump threatens Iran as NATO summit wraps",
+      "source_url": "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps"
     },
     {
-      "title": "Trump declares ceasefire with Iran over during angry broadside at Nato summit",
+      "title": "Trump Orders U.S. to Cut All Trade With Spain as Feud Escalates at NATO Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump declares ceasefire with Iran over during angry broadside at Nato summit",
-      "source_url": "https://www.theguardian.com/world/2026/jul/08/trump-declares-ceasefire-iran-over-broadside-nato-summit"
+      "description": "Trump Orders U.S. to Cut All Trade With Spain as Feud Escalates at NATO Summit",
+      "source_url": "https://time.com/article/2026/07/08/trump-united-states-spain-trade-cuts-nato-feud"
     },
     {
       "title": "Russian strikes kill at least 26 in Kyiv region on eve of NATO summit",
@@ -44,19 +44,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Explosions rock Damascus as French President Macron visits Syria",
-      "participants": [
-        "Explosions",
-        "Damascus",
-        "French President Macron",
-        "Syria"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Explosions rock Damascus as French President Macron visits Syria",
-      "source_url": "https://www.cbc.ca/news/world/macron-syria-damascus-explosion-9.7260905?cmp=rss"
-    },
-    {
       "title": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
       "participants": [
         "Video",
@@ -72,138 +59,137 @@
   ],
   "elections": [
     {
+      "title": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
+      "country": "France",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss"
+    },
+    {
+      "title": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
+      "country": "France",
+      "election_type": "National",
+      "date": "",
+      "description": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
+      "source_url": "https://www.france24.com/en/video/20260708-france-2027-elections-a-clash-of-two-extremes-could-lead-to-easy-le-pen-win"
+    },
+    {
+      "title": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
+      "source_url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html"
+    },
+    {
+      "title": "DR Congo: Tensions mount over planned constitutional referendum",
+      "country": "Congo",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "DR Congo: Tensions mount over planned constitutional referendum",
+      "source_url": "https://www.dw.com/en/dr-congo-tensions-mount-over-planned-constitutional-referendum/a-77859643?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "Main U.K. parties refuse to fight Farage in byelection",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Main U.K. parties refuse to fight Farage in byelection",
       "source_url": "https://www.thehindu.com/news/international/reform-uk-s-farage-resigns-as-mp-forces-byelection/article71194301.ece"
-    },
-    {
-      "title": "Judge quashes DOJ subpoena for names of Fulton County’s 2020 election staff",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Judge quashes DOJ subpoena for names of Fulton County’s 2020 election staff",
-      "source_url": "https://thehill.com/regulation/court-battles/5957739-judge-denies-doj-election-fraud"
-    },
-    {
-      "title": "Farage Says He Will Resign From UK’s Parliament, Setting Off a By-Election",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Farage Says He Will Resign From UK’s Parliament, Setting Off a By-Election",
-      "source_url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk/nigel-farage-reform-uk"
-    },
-    {
-      "title": "Zimbabwe's 83-year-old president signs law to delay elections and extend his own term",
-      "country": "Zimbabwe",
-      "election_type": "National",
-      "date": "",
-      "description": "Zimbabwe's 83-year-old president signs law to delay elections and extend his own term",
-      "source_url": "https://abcnews.com/International/wireStory/zimbabwes-83-year-president-signs-law-delay-elections-134554317"
-    },
-    {
-      "title": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Reform UK’s Nigel Farage says he’ll quit as a lawmaker and seek re-election to clear name",
-      "source_url": "https://abcnews.com/International/wireStory/reform-uks-nigel-farage-hell-quit-lawmaker-seek-134545305"
     }
   ],
   "global_events": [
     {
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "summary": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+      "summary": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
       "outlets_covering": [
-        "BBC World",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "Sky News World",
         "NYT World",
-        "DW World"
-      ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
-      "summary": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/french-far-right-chief-marine-le-pen-cleared-to-run-for-president-but-with-ankle-tag/article71194169.ece"
-    },
-    {
-      "title": "Trump slams Spain with call to suspend all US trade at Nato summit",
-      "summary": "Trump slams Spain with call to suspend all US trade at Nato summit",
-      "outlets_covering": [
-        "NYT World",
-        "The Independent",
+        "The Guardian World",
+        "Bloomberg",
         "Al Jazeera",
         "France24",
         "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 9,
-      "region": "Europe",
-      "category": "Economy",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-spain-trade-nato-summit-rutte-b3011020.html"
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump"
     },
     {
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "summary": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "title": "U.S. launches more strikes against Iran after Trump says ceasefire is \"over\"",
+      "summary": "U.S. launches more strikes against Iran after Trump says ceasefire is \"over\"",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
         "Bloomberg",
-        "Time"
+        "Time",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 32,
+      "coverage_count": 37,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over"
     },
     {
-      "title": "U.S. launches strikes against Iran over attacks on 3 ships in Strait of Hormuz",
-      "summary": "U.S. launches strikes against Iran over attacks on 3 ships in Strait of Hormuz",
+      "title": "Trump moves to remove Syria from US list of state sponsors of terrorism",
+      "summary": "Trump moves to remove Syria from US list of state sponsors of terrorism",
+      "outlets_covering": [
+        "Time",
+        "Al Jazeera",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/americas/20260708-trump-moves-to-remove-syria-from-us-list-of-state-sponsors-of-terrorism"
+    },
+    {
+      "title": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
+      "summary": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html"
+    },
+    {
+      "title": "U.S. military launches second night of strikes against Iran",
+      "summary": "U.S. military launches second night of strikes against Iran",
       "outlets_covering": [
         "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "DW World",
-        "The Hindu Intl",
-        "The Hill"
+        "Bloomberg",
+        "Time",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
       ],
-      "coverage_count": 20,
+      "coverage_count": 17,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/u-s-launches-strikes-against-iran-to-retaliate-for-attacks-on-3-tankers-in-strait-of-hormuz"
+      "source_url": "https://www.cbsnews.com/news/iran-strikes-us-military-second-night"
     }
   ]
 }
