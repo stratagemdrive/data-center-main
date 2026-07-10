@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-10T01:56:07.634811Z",
+  "last_updated": "2026-07-10T13:59:00.963263Z",
   "world_org_meetings": [
     {
-      "title": "From threats to praise, Trump keeps allies guessing at NATO summit",
+      "title": "Qatari jet that flew Trump to Nato summit lacks key defense features of old Air Force One, report says",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "From threats to praise, Trump keeps allies guessing at NATO summit",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/10/world/trump-nato-unpredictable-behavior"
+      "description": "Qatari jet that flew Trump to Nato summit lacks key defense features of old Air Force One, report says",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-air-force-one-defense-systems-b3012612.html"
     },
     {
-      "title": "Ukraine-Russia war latest: Zelensky hails ‘productive’ Nato summit after Patriot missile licences agreed with Trump",
+      "title": "NATO weathers another Trump storm but braces for more after Ankara summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Ukraine-Russia war latest: Zelensky hails ‘productive’ Nato summit after Patriot missile licences agreed with Trump",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-fuel-shortage-b3011611.html"
+      "description": "NATO weathers another Trump storm but braces for more after Ankara summit",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/10/world/politics/nato-trump-turbulence-brace"
     },
     {
       "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
@@ -59,126 +59,110 @@
   ],
   "elections": [
     {
-      "title": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
+      "title": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
-      "source_url": "https://www.nytimes.com/2026/07/09/world/middleeast/palestinian-authority-elections-abbas.html"
+      "description": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
+      "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
     },
     {
-      "title": "Bipartisan lawmakers press agencies on AI election threats",
+      "title": "More than half of voters view Farage and Reform as ‘very sleazy’ as Clacton byelection called for 13 August– UK politics live",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Bipartisan lawmakers press agencies on AI election threats",
-      "source_url": "https://thehill.com/policy/technology/5961267-ai-election-threats-2026-midterms"
+      "description": "More than half of voters view Farage and Reform as ‘very sleazy’ as Clacton byelection called for 13 August– UK politics live",
+      "source_url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news"
     },
     {
-      "title": "Farage to face Count Binface in self-triggered byelection amid funding probe",
+      "title": "First Palestinian legislative elections in 20 years announced",
+      "country": "",
+      "election_type": "Legislative",
+      "date": "",
+      "description": "First Palestinian legislative elections in 20 years announced",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/first-palestinian-legislative-elections-in-20-years-announced?traffic_source=rss"
+    },
+    {
+      "title": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
+      "country": "Argentina",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
+      "source_url": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss"
+    },
+    {
+      "title": "One Nation, One Election may be ready for 2029 Lok Sabha polls: House panel chief",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Farage to face Count Binface in self-triggered byelection amid funding probe",
-      "source_url": "https://www.france24.com/en/video/20260709-farage-to-face-count-binface-in-self-triggered-byelection-amid-funding-probe"
-    },
-    {
-      "title": "With Le Pen sentencing, France's presidential election veers into the extraordinary",
-      "country": "France",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "With Le Pen sentencing, France's presidential election veers into the extraordinary",
-      "source_url": "https://abcnews.com/International/wireStory/le-pen-sentencing-frances-presidential-election-veers-extraordinary-134589242"
-    },
-    {
-      "title": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
-      "source_url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html"
+      "description": "One Nation, One Election may be ready for 2029 Lok Sabha polls: House panel chief",
+      "source_url": "https://timesofindia.indiatimes.com/india/one-nation-one-election-may-be-ready-for-2029-lok-sabha-polls-house-panel-chief/articleshow/132307204.cms"
     }
   ],
   "global_events": [
+    {
+      "title": "Israel told U.S. of Iranian plot to assassinate Trump, new report says",
+      "summary": "Israel told U.S. of Iranian plot to assassinate Trump, new report says",
+      "outlets_covering": [
+        "CBS News World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/israel-told-us-of-iranian-plot-to-assassinate-trump-new-report-says"
+    },
     {
       "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
       "summary": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
-        "NYT World",
-        "France24"
+        "NYT World"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html"
     },
     {
-      "title": "Factory fire kills at least 28 in China's 'shoe capital'",
-      "summary": "Factory fire kills at least 28 in China's 'shoe capital'",
+      "title": "Ukrainian spy accused of killing Monaco bombing suspect retracts confession",
+      "summary": "Ukrainian spy accused of killing Monaco bombing suspect retracts confession",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
+        "Sky News World",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/europe/20260710-ukrainian-spy-accused-of-killing-monaco-bombing-suspect-retracts-confession"
+    },
+    {
+      "title": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
+      "summary": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
+      "outlets_covering": [
         "NYT World",
-        "Al Jazeera",
+        "Time",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
+    },
+    {
+      "title": "China successfully tests sea-based rocket booster recovery system",
+      "summary": "China successfully tests sea-based rocket booster recovery system",
+      "outlets_covering": [
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 2,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Can Trump 'Cut Off All Trade' With Spain? Here's What Experts Say",
-      "summary": "Can Trump 'Cut Off All Trade' With Spain? Here's What Experts Say",
-      "outlets_covering": [
-        "NYT World",
-        "Time",
-        "The Independent",
-        "Axios"
-      ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Economy",
-      "source_url": "https://time.com/article/2026/07/09/can-trump-cut-off-all-trade-with-spain-here-s-what-experts-say"
-    },
-    {
-      "title": "U.S. and Iran exchange intense new attacks after Trump says ceasefire is ‘over’",
-      "summary": "U.S. and Iran exchange intense new attacks after Trump says ceasefire is ‘over’",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "Axios"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nbcnews.com/world/iran/us-iran-new-attacks-trump-ceasefire-over-gulf-hormuz-rcna353615"
-    },
-    {
-      "title": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
-      "summary": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Time",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/us-announces-new-strikes-iran-trump-declares-ceasefire-over"
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/10/world/china-rocket-booster-recovery"
     }
   ]
 }
