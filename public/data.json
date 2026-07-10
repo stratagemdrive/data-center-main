@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-09T14:30:13.901066Z",
+  "last_updated": "2026-07-10T01:56:07.634811Z",
   "world_org_meetings": [
     {
-      "title": "Russian strikes kill at least 26 in Kyiv region on eve of NATO summit",
+      "title": "From threats to praise, Trump keeps allies guessing at NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Russian strikes kill at least 26 in Kyiv region on eve of NATO summit",
-      "source_url": "https://www.thehindu.com/news/international/russian-strikes-kill-several-in-kyiv-region-on-eve-of-nato-summit/article71192066.ece"
+      "description": "From threats to praise, Trump keeps allies guessing at NATO summit",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/10/world/trump-nato-unpredictable-behavior"
     },
     {
-      "title": "Trump’s NATO Summit, and Everyone Else’s",
+      "title": "Ukraine-Russia war latest: Zelensky hails ‘productive’ Nato summit after Patriot missile licences agreed with Trump",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump’s NATO Summit, and Everyone Else’s",
-      "source_url": "https://www.nytimes.com/2026/07/09/world/europe/nato-trump-turkey-summit.html"
+      "description": "Ukraine-Russia war latest: Zelensky hails ‘productive’ Nato summit after Patriot missile licences agreed with Trump",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-fuel-shortage-b3011611.html"
     },
     {
-      "title": "Erdogan gives every Nato leader personalised gun as farewell gift at Ankara summit",
+      "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Erdogan gives every Nato leader personalised gun as farewell gift at Ankara summit",
-      "source_url": "https://www.independent.co.uk/news/world/europe/erdogan-guns-nato-summit-gift-b3011695.html"
+      "description": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
+      "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine"
     },
     {
-      "title": "Trump wraps NATO summit on a positive note, after meeting Zelenskyy",
+      "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump wraps NATO summit on a positive note, after meeting Zelenskyy",
-      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5887053/trump-nato-zelenskyy"
+      "description": "Former U.S. envoy reacts to Iran strikes and NATO summit",
+      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit"
     },
     {
-      "title": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
+      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Trump explains why he switched back to old Air Force One from Qatari-gifted jet after leaving NATO summit",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-qatar-jet-air-force-one-nato-summit-b3011630.html"
+      "description": "Where are Iran and Ukraine wars headed after NATO summit?",
+      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit"
     }
   ],
   "diplomatic_visits": [
@@ -58,6 +58,22 @@
     }
   ],
   "elections": [
+    {
+      "title": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
+      "source_url": "https://www.nytimes.com/2026/07/09/world/middleeast/palestinian-authority-elections-abbas.html"
+    },
+    {
+      "title": "Bipartisan lawmakers press agencies on AI election threats",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Bipartisan lawmakers press agencies on AI election threats",
+      "source_url": "https://thehill.com/policy/technology/5961267-ai-election-threats-2026-midterms"
+    },
     {
       "title": "Farage to face Count Binface in self-triggered byelection amid funding probe",
       "country": "",
@@ -81,91 +97,88 @@
       "date": "",
       "description": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
       "source_url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html"
-    },
-    {
-      "title": "DRC faces rising tensions over constitutional referendum",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "DRC faces rising tensions over constitutional referendum",
-      "source_url": "https://www.dw.com/en/drc-faces-rising-tensions-over-constitutional-referendum/a-77859643?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "US and Iran trade most intense strikes since ceasefire extended",
-      "summary": "US and Iran trade most intense strikes since ceasefire extended",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump"
-    },
-    {
-      "title": "US launches strikes on Iran for a second day after Trump says agreement to end the war is ‘over’",
-      "summary": "US launches strikes on Iran for a second day after Trump says agreement to end the war is ‘over’",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Time",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 14,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
-    },
-    {
-      "title": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
-      "summary": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
-      "outlets_covering": [
-        "NBC News World",
-        "NYT World",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html"
-    },
-    {
-      "title": "At least 28 killed in China shoe factory fire, state media reports",
-      "summary": "At least 28 killed in China shoe factory fire, state media reports",
+      "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+      "summary": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
       "outlets_covering": [
         "BBC World",
+        "CBS News World",
         "NYT World",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html"
+    },
+    {
+      "title": "Factory fire kills at least 28 in China's 'shoe capital'",
+      "summary": "Factory fire kills at least 28 in China's 'shoe capital'",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "NYT World",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
-      "summary": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
+      "title": "Can Trump 'Cut Off All Trade' With Spain? Here's What Experts Say",
+      "summary": "Can Trump 'Cut Off All Trade' With Spain? Here's What Experts Say",
       "outlets_covering": [
-        "CBC World",
+        "NYT World",
+        "Time",
         "The Independent",
-        "Al Jazeera"
+        "Axios"
       ],
       "coverage_count": 4,
+      "region": "Europe",
+      "category": "Economy",
+      "source_url": "https://time.com/article/2026/07/09/can-trump-cut-off-all-trade-with-spain-here-s-what-experts-say"
+    },
+    {
+      "title": "U.S. and Iran exchange intense new attacks after Trump says ceasefire is ‘over’",
+      "summary": "U.S. and Iran exchange intense new attacks after Trump says ceasefire is ‘over’",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "Axios"
+      ],
+      "coverage_count": 12,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/gallery/2026/7/9/photos-iran-to-bury-slain-supreme-leader-in-culmination-of-mass-funeral?traffic_source=rss"
+      "category": "Conflict",
+      "source_url": "https://www.nbcnews.com/world/iran/us-iran-new-attacks-trump-ceasefire-over-gulf-hormuz-rcna353615"
+    },
+    {
+      "title": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+      "summary": "U.S. announces new strikes on Iran as Trump declares the ceasefire over",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 16,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/us-announces-new-strikes-iran-trump-declares-ceasefire-over"
     }
   ]
 }
