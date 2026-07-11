@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-10T13:59:00.963263Z",
+  "last_updated": "2026-07-11T01:44:49.517619Z",
   "world_org_meetings": [
+    {
+      "title": "Notes from a NATO Summit: An Estonian Perspective",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Notes from a NATO Summit: An Estonian Perspective",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective"
+    },
+    {
+      "title": "NATO Summit: Europe must 'project decency, credibility' to 'earn respect, attract partners'",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "NATO Summit: Europe must 'project decency, credibility' to 'earn respect, attract partners'",
+      "source_url": "https://www.france24.com/en/video/20260710-nato-summit-europe-must-project-decency-credibility-to-earn-respect-attract-partners"
+    },
     {
       "title": "Qatari jet that flew Trump to Nato summit lacks key defense features of old Air Force One, report says",
       "organization": "NATO",
@@ -24,22 +40,6 @@
       "location": "",
       "description": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine"
-    },
-    {
-      "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Former U.S. envoy reacts to Iran strikes and NATO summit",
-      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit"
-    },
-    {
-      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Where are Iran and Ukraine wars headed after NATO summit?",
-      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit"
     }
   ],
   "diplomatic_visits": [
@@ -67,102 +67,108 @@
       "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
     },
     {
-      "title": "More than half of voters view Farage and Reform as ‘very sleazy’ as Clacton byelection called for 13 August– UK politics live",
+      "title": "South Carolina Republicans sue state to end open primary elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "More than half of voters view Farage and Reform as ‘very sleazy’ as Clacton byelection called for 13 August– UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news"
+      "description": "South Carolina Republicans sue state to end open primary elections",
+      "source_url": "https://thehill.com/regulation/court-battles/5963026-south-carolina-republicans-lawsuit-primary-elections"
     },
     {
-      "title": "First Palestinian legislative elections in 20 years announced",
-      "country": "",
-      "election_type": "Legislative",
+      "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
+      "country": "Britain",
+      "election_type": "National",
       "date": "",
-      "description": "First Palestinian legislative elections in 20 years announced",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/first-palestinian-legislative-elections-in-20-years-announced?traffic_source=rss"
+      "description": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
+      "source_url": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election"
     },
     {
-      "title": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
-      "country": "Argentina",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
-      "source_url": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss"
-    },
-    {
-      "title": "One Nation, One Election may be ready for 2029 Lok Sabha polls: House panel chief",
+      "title": "Bipartisan lawmakers press agencies on AI election threats",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "One Nation, One Election may be ready for 2029 Lok Sabha polls: House panel chief",
-      "source_url": "https://timesofindia.indiatimes.com/india/one-nation-one-election-may-be-ready-for-2029-lok-sabha-polls-house-panel-chief/articleshow/132307204.cms"
+      "description": "Bipartisan lawmakers press agencies on AI election threats",
+      "source_url": "https://thehill.com/policy/technology/5961267-ai-election-threats-2026-midterms"
     }
   ],
   "global_events": [
+    {
+      "title": "Apple sues OpenAI for trade secret theft in pivotal case",
+      "summary": "Apple sues OpenAI for trade secret theft in pivotal case",
+      "outlets_covering": [
+        "BBC World",
+        "Japan Times",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.japantimes.co.jp/business/2026/07/11/tech/apple-sues-openai-secret-theft"
+    },
+    {
+      "title": "Trump again says Iran ceasefire is over, but U.S. will keep talking",
+      "summary": "Trump again says Iran ceasefire is over, but U.S. will keep talking",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "Wash Post World",
+        "Japan Times",
+        "SCMP",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 13,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz"
+    },
+    {
+      "title": "Trump says Iran talks will continue, but ceasefire ‘is OVER!’",
+      "summary": "Trump says Iran talks will continue, but ceasefire ‘is OVER!’",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "Wash Post World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP",
+        "Foreign Policy"
+      ],
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/homenews/administration/5962657-trump-us-iran-ceasefire-talks"
+    },
     {
       "title": "Israel told U.S. of Iranian plot to assassinate Trump, new report says",
       "summary": "Israel told U.S. of Iranian plot to assassinate Trump, new report says",
       "outlets_covering": [
         "CBS News World",
         "The Independent",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/video/israel-told-us-of-iranian-plot-to-assassinate-trump-new-report-says"
     },
     {
-      "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-      "summary": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+      "title": "China again warns Russia not to use nuclear arms against Ukraine",
+      "summary": "China again warns Russia not to use nuclear arms against Ukraine",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NYT World"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html"
-    },
-    {
-      "title": "Ukrainian spy accused of killing Monaco bombing suspect retracts confession",
-      "summary": "Ukrainian spy accused of killing Monaco bombing suspect retracts confession",
-      "outlets_covering": [
-        "BBC World",
-        "Sky News World",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/europe/20260710-ukrainian-spy-accused-of-killing-monaco-bombing-suspect-retracts-confession"
-    },
-    {
-      "title": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
-      "summary": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
-      "outlets_covering": [
-        "NYT World",
-        "Time",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
-    },
-    {
-      "title": "China successfully tests sea-based rocket booster recovery system",
-      "summary": "China successfully tests sea-based rocket booster recovery system",
-      "outlets_covering": [
-        "Japan Times",
-        "The Hindu Intl"
+        "The Independent",
+        "Japan Times"
       ],
       "coverage_count": 2,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/10/world/china-rocket-booster-recovery"
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/china-warns-russia-nuclear-ukraine"
     }
   ]
 }
