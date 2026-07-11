@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-07-11T01:44:49.517619Z",
+  "last_updated": "2026-07-11T12:55:03.156904Z",
   "world_org_meetings": [
     {
-      "title": "Notes from a NATO Summit: An Estonian Perspective",
+      "title": "North Korea condemns NATO summit; says denuclearisation should begin with U.S. allies",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Notes from a NATO Summit: An Estonian Perspective",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective"
-    },
-    {
-      "title": "NATO Summit: Europe must 'project decency, credibility' to 'earn respect, attract partners'",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO Summit: Europe must 'project decency, credibility' to 'earn respect, attract partners'",
-      "source_url": "https://www.france24.com/en/video/20260710-nato-summit-europe-must-project-decency-credibility-to-earn-respect-attract-partners"
+      "description": "North Korea condemns NATO summit; says denuclearisation should begin with U.S. allies",
+      "source_url": "https://www.thehindu.com/news/international/north-korea-condemns-nato-summit-says-denuclearisation-should-begin-with-us-allies/article71209482.ece"
     },
     {
       "title": "Qatari jet that flew Trump to Nato summit lacks key defense features of old Air Force One, report says",
@@ -26,20 +18,28 @@
       "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-air-force-one-defense-systems-b3012612.html"
     },
     {
-      "title": "NATO weathers another Trump storm but braces for more after Ankara summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO weathers another Trump storm but braces for more after Ankara summit",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/10/world/politics/nato-trump-turbulence-brace"
-    },
-    {
       "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "organization": "NATO",
       "date": "",
       "location": "",
       "description": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine"
+    },
+    {
+      "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Former U.S. envoy reacts to Iran strikes and NATO summit",
+      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit"
+    },
+    {
+      "title": "Eleven takeaways from the NATO Summit in Ankara",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Eleven takeaways from the NATO Summit in Ankara",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
     }
   ],
   "diplomatic_visits": [
@@ -93,6 +93,35 @@
   ],
   "global_events": [
     {
+      "title": "U.S. and Iran to continue talks amid heightened tensions",
+      "summary": "U.S. and Iran to continue talks amid heightened tensions",
+      "outlets_covering": [
+        "CBS News World",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz"
+    },
+    {
+      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "summary": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "Al Jazeera",
+        "Times of India"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Apple sues OpenAI for trade secret theft in pivotal case",
       "summary": "Apple sues OpenAI for trade secret theft in pivotal case",
       "outlets_covering": [
@@ -107,68 +136,35 @@
       "source_url": "https://www.japantimes.co.jp/business/2026/07/11/tech/apple-sues-openai-secret-theft"
     },
     {
-      "title": "Trump again says Iran ceasefire is over, but U.S. will keep talking",
-      "summary": "Trump again says Iran ceasefire is over, but U.S. will keep talking",
+      "title": "10 injured in overnight Russian strikes on Kyiv",
+      "summary": "10 injured in overnight Russian strikes on Kyiv",
       "outlets_covering": [
+        "ABC News Intl",
         "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "Wash Post World",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv"
+    },
+    {
+      "title": "Trump agrees to more Iran talks but insists truce is over",
+      "summary": "Trump agrees to more Iran talks but insists truce is over",
+      "outlets_covering": [
+        "Al Jazeera",
+        "France24",
         "Japan Times",
+        "The Hindu Intl",
         "SCMP",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz"
-    },
-    {
-      "title": "Trump says Iran talks will continue, but ceasefire ‘is OVER!’",
-      "summary": "Trump says Iran talks will continue, but ceasefire ‘is OVER!’",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/homenews/administration/5962657-trump-us-iran-ceasefire-talks"
-    },
-    {
-      "title": "Israel told U.S. of Iranian plot to assassinate Trump, new report says",
-      "summary": "Israel told U.S. of Iranian plot to assassinate Trump, new report says",
-      "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/israel-told-us-of-iranian-plot-to-assassinate-trump-new-report-says"
-    },
-    {
-      "title": "China again warns Russia not to use nuclear arms against Ukraine",
-      "summary": "China again warns Russia not to use nuclear arms against Ukraine",
-      "outlets_covering": [
-        "The Independent",
-        "Japan Times"
-      ],
-      "coverage_count": 2,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/china-warns-russia-nuclear-ukraine"
+      "source_url": "https://www.france24.com/en/video/20260711-trump-agrees-to-more-iran-talks-but-insists-truce-is-over"
     }
   ]
 }
