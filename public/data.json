@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T12:55:03.156904Z",
+  "last_updated": "2026-07-12T01:47:09.359852Z",
   "world_org_meetings": [
     {
       "title": "North Korea condemns NATO summit; says denuclearisation should begin with U.S. allies",
@@ -10,14 +10,6 @@
       "source_url": "https://www.thehindu.com/news/international/north-korea-condemns-nato-summit-says-denuclearisation-should-begin-with-us-allies/article71209482.ece"
     },
     {
-      "title": "Qatari jet that flew Trump to Nato summit lacks key defense features of old Air Force One, report says",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Qatari jet that flew Trump to Nato summit lacks key defense features of old Air Force One, report says",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-air-force-one-defense-systems-b3012612.html"
-    },
-    {
       "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "organization": "NATO",
       "date": "",
@@ -26,20 +18,28 @@
       "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine"
     },
     {
-      "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Former U.S. envoy reacts to Iran strikes and NATO summit",
-      "source_url": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit"
-    },
-    {
       "title": "Eleven takeaways from the NATO Summit in Ankara",
       "organization": "NATO",
       "date": "",
       "location": "",
       "description": "Eleven takeaways from the NATO Summit in Ankara",
       "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
+    },
+    {
+      "title": "Was the NATO Summit a success?",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Was the NATO Summit a success?",
+      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
+    },
+    {
+      "title": "Trump surprises Nato allies EU, Ukraine with arms deals as summit ends positively",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump surprises Nato allies EU, Ukraine with arms deals as summit ends positively",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3359902/trump-surprises-nato-allies-arms-deals-and-praise-summit-ends-positively"
     }
   ],
   "diplomatic_visits": [
@@ -67,104 +67,118 @@
       "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
     },
     {
+      "title": "Australia news live: Barnaby Joyce won’t guarantee One Nation policies will be costed before next election",
+      "country": "Australia",
+      "election_type": "National",
+      "date": "",
+      "description": "Australia news live: Barnaby Joyce won’t guarantee One Nation policies will be costed before next election",
+      "source_url": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb"
+    },
+    {
+      "title": "3 UN special rapporteurs flag 'opaque' SIR process; Election Commission dismisses concerns as baseless",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "3 UN special rapporteurs flag 'opaque' SIR process; Election Commission dismisses concerns as baseless",
+      "source_url": "https://timesofindia.indiatimes.com/india/3-un-special-rapporteurs-flag-opaque-sir-process-election-commission-dismisses-concerns-as-baseless/articleshow/132337567.cms"
+    },
+    {
+      "title": "Democrats and democratic socialists should unite for election victories",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Democrats and democratic socialists should unite for election victories",
+      "source_url": "https://thehill.com/opinion/campaign/5962999-democrats-defeat-trump-policies"
+    },
+    {
       "title": "South Carolina Republicans sue state to end open primary elections",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "South Carolina Republicans sue state to end open primary elections",
       "source_url": "https://thehill.com/regulation/court-battles/5963026-south-carolina-republicans-lawsuit-primary-elections"
-    },
-    {
-      "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
-      "country": "Britain",
-      "election_type": "National",
-      "date": "",
-      "description": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
-      "source_url": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election"
-    },
-    {
-      "title": "Bipartisan lawmakers press agencies on AI election threats",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Bipartisan lawmakers press agencies on AI election threats",
-      "source_url": "https://thehill.com/policy/technology/5961267-ai-election-threats-2026-midterms"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. and Iran to continue talks amid heightened tensions",
-      "summary": "U.S. and Iran to continue talks amid heightened tensions",
+      "title": "West Asia war LIVE: U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
+      "summary": "West Asia war LIVE: U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
       "outlets_covering": [
-        "CBS News World",
+        "BBC World",
+        "NPR World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
         "The Hindu Intl",
-        "Foreign Policy",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 5,
+      "coverage_count": 10,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz"
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece"
     },
     {
-      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-      "summary": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "title": "Ro Khanna says he was detained by armed Israeli settlers in West Bank",
+      "summary": "Ro Khanna says he was detained by armed Israeli settlers in West Bank",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://thehill.com/homenews/house/5964095-khanna-detained-israeli-settlers"
+    },
+    {
+      "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+      "summary": "Indian tourists killed after speedboat capsizes in Vietnam",
       "outlets_covering": [
         "BBC World",
         "ABC News Intl",
         "Al Jazeera",
-        "Times of India"
+        "Times of India",
+        "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss"
     },
     {
-      "title": "Apple sues OpenAI for trade secret theft in pivotal case",
-      "summary": "Apple sues OpenAI for trade secret theft in pivotal case",
+      "title": "Bull gores runner in the face at Spain's San Fermin bull run festival",
+      "summary": "Bull gores runner in the face at Spain's San Fermin bull run festival",
       "outlets_covering": [
-        "BBC World",
-        "Japan Times",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.japantimes.co.jp/business/2026/07/11/tech/apple-sues-openai-secret-theft"
-    },
-    {
-      "title": "10 injured in overnight Russian strikes on Kyiv",
-      "summary": "10 injured in overnight Russian strikes on Kyiv",
-      "outlets_covering": [
+        "CBC World",
         "ABC News Intl",
         "CBS News World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/pamplona-spain-bull-run-san-fermin-festival-gore-incident"
+    },
+    {
+      "title": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
+      "summary": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
         "Al Jazeera",
         "France24"
       ],
       "coverage_count": 4,
-      "region": "Europe / Russia",
+      "region": "Africa",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv"
-    },
-    {
-      "title": "Trump agrees to more Iran talks but insists truce is over",
-      "summary": "Trump agrees to more Iran talks but insists truce is over",
-      "outlets_covering": [
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260711-trump-agrees-to-more-iran-talks-but-insists-truce-is-over"
+      "source_url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss"
     }
   ]
 }
