@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-12T12:55:57.773721Z",
+  "last_updated": "2026-07-13T01:49:36.526325Z",
   "world_org_meetings": [
+    {
+      "title": "Volker Sees NATO Summit Strengthening Alliance",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Volker Sees NATO Summit Strengthening Alliance",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-07-12/volker-sees-nato-summit-strengthening-alliance-video"
+    },
     {
       "title": "North Korea condemns NATO summit; says denuclearisation should begin with U.S. allies",
       "organization": "NATO",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Was the NATO Summit a success?",
       "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
-    },
-    {
-      "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how"
     }
   ],
   "diplomatic_visits": [
@@ -59,44 +59,44 @@
   ],
   "elections": [
     {
-      "title": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
+      "title": "The main candidates facing Netanyahu in Israel’s elections",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "The main candidates facing Netanyahu in Israel’s elections",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/13/world/politics/candidates-netanyahu-israel-elections"
+    },
+    {
+      "title": "Israel to hold national elections on October 27, parliament says",
+      "country": "Israel",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Israel to hold national elections on October 27, parliament says",
+      "source_url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
+    },
+    {
+      "title": "Graham’s Democratic reelection challenger calls for ‘setting partisanship aside’",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
-      "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
+      "description": "Graham’s Democratic reelection challenger calls for ‘setting partisanship aside’",
+      "source_url": "https://thehill.com/homenews/campaign/5964839-annie-andrews-condolences-graham"
     },
     {
-      "title": "Democrats and democratic socialists should unite for election victories",
+      "title": "NZ Aims to Sign LNG Import Plant Deal Before November Election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Democrats and democratic socialists should unite for election victories",
-      "source_url": "https://thehill.com/opinion/campaign/5962999-democrats-defeat-trump-policies"
+      "description": "NZ Aims to Sign LNG Import Plant Deal Before November Election",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-12/nz-aims-to-sign-lng-import-plant-deal-before-november-election"
     },
     {
-      "title": "South Carolina Republicans sue state to end open primary elections",
+      "title": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "South Carolina Republicans sue state to end open primary elections",
-      "source_url": "https://thehill.com/regulation/court-battles/5963026-south-carolina-republicans-lawsuit-primary-elections"
-    },
-    {
-      "title": "Nigel Farage's only by-election challenger is self-proclaimed space alien Count Binface",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nigel Farage's only by-election challenger is self-proclaimed space alien Count Binface",
-      "source_url": "https://www.cbc.ca/radio/asithappens/nigel-farage-versus-binface-9.7264908?cmp=rss"
-    },
-    {
-      "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
-      "country": "Britain",
-      "election_type": "National",
-      "date": "",
-      "description": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
-      "source_url": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election"
+      "description": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
+      "source_url": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government"
     }
   ],
   "global_events": [
@@ -111,72 +111,83 @@
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://thehill.com/homenews/house/5964095-khanna-detained-israeli-settlers"
     },
     {
-      "title": "Trump praises Lindsey Graham as ‘one of the greatest people I have ever known’ after senator dies of sudden illness – live",
-      "summary": "Trump praises Lindsey Graham as ‘one of the greatest people I have ever known’ after senator dies of sudden illness – live",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "summary": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
       "outlets_covering": [
         "BBC World",
-        "The Guardian World",
-        "France24",
-        "Japan Times",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/jul/12/lindsey-graham-dies-sudden-illness-trump-politics-live"
-    },
-    {
-      "title": "Iran-US war latest: Strait of Hormuz closed indefinitely after US and Tehran trade fresh strikes",
-      "summary": "Iran-US war latest: Strait of Hormuz closed indefinitely after US and Tehran trade fresh strikes",
-      "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "NBC News World",
         "NYT World",
-        "The Guardian World",
         "Bloomberg",
         "The Independent",
         "Al Jazeera",
-        "France24",
         "Japan Times",
-        "Axios"
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 11,
+      "coverage_count": 15,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-strait-of-hormuz-closed-trump-strikes-israel-b3013367.html"
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bull gores runner in the face at Spain's San Fermin bull run festival",
-      "summary": "Bull gores runner in the face at Spain's San Fermin bull run festival",
+      "title": "Typhoon Bavi weakens but still brings strong winds and rain to China",
+      "summary": "Typhoon Bavi weakens but still brings strong winds and rain to China",
       "outlets_covering": [
-        "CBC World",
         "ABC News Intl",
         "CBS News World",
-        "The Independent"
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 4,
-      "region": "Europe",
+      "coverage_count": 7,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/pamplona-spain-bull-run-san-fermin-festival-gore-incident"
+      "source_url": "https://abcnews.com/International/wireStory/typhoon-bavi-brings-strong-winds-rain-eastern-china-134688080"
     },
     {
-      "title": "South Africa's Jayden Adams, 25, dies after playing in World Cup",
-      "summary": "South Africa's Jayden Adams, 25, dies after playing in World Cup",
+      "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+      "summary": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "France24"
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Africa",
+      "coverage_count": 16,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260712-south-africa-s-jayden-adams-25-dies-after-playing-in-world-cup"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss"
+    },
+    {
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "summary": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
