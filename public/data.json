@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-07-13T01:49:36.526325Z",
+  "last_updated": "2026-07-13T14:05:02.064596Z",
   "world_org_meetings": [
     {
-      "title": "Volker Sees NATO Summit Strengthening Alliance",
+      "title": "Kroenig quoted in Jiji on the NATO Summit",
       "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Volker Sees NATO Summit Strengthening Alliance",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-07-12/volker-sees-nato-summit-strengthening-alliance-video"
-    },
-    {
-      "title": "North Korea condemns NATO summit; says denuclearisation should begin with U.S. allies",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "North Korea condemns NATO summit; says denuclearisation should begin with U.S. allies",
-      "source_url": "https://www.thehindu.com/news/international/north-korea-condemns-nato-summit-says-denuclearisation-should-begin-with-us-allies/article71209482.ece"
+      "description": "Kroenig quoted in Jiji on the NATO Summit",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-jiji-on-the-nato-summit"
     },
     {
       "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
@@ -40,6 +32,14 @@
       "location": "",
       "description": "Was the NATO Summit a success?",
       "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
+    },
+    {
+      "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "NATO can emerge from the Ankara summit stronger. Here’s how.",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how"
     }
   ],
   "diplomatic_visits": [
@@ -59,20 +59,12 @@
   ],
   "elections": [
     {
-      "title": "The main candidates facing Netanyahu in Israel’s elections",
-      "country": "Israel",
+      "title": "Mullin defends move to tie election security to counterterrorism funding",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "The main candidates facing Netanyahu in Israel’s elections",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/13/world/politics/candidates-netanyahu-israel-elections"
-    },
-    {
-      "title": "Israel to hold national elections on October 27, parliament says",
-      "country": "Israel",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Israel to hold national elections on October 27, parliament says",
-      "source_url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
+      "description": "Mullin defends move to tie election security to counterterrorism funding",
+      "source_url": "https://thehill.com/homenews/administration/5965492-trump-fema-election-security"
     },
     {
       "title": "Graham’s Democratic reelection challenger calls for ‘setting partisanship aside’",
@@ -83,58 +75,63 @@
       "source_url": "https://thehill.com/homenews/campaign/5964839-annie-andrews-condolences-graham"
     },
     {
-      "title": "NZ Aims to Sign LNG Import Plant Deal Before November Election",
+      "title": "Democrats and democratic socialists should unite for election victories",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "NZ Aims to Sign LNG Import Plant Deal Before November Election",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-07-12/nz-aims-to-sign-lng-import-plant-deal-before-november-election"
+      "description": "Democrats and democratic socialists should unite for election victories",
+      "source_url": "https://thehill.com/opinion/campaign/5962999-democrats-defeat-trump-policies"
     },
     {
-      "title": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
+      "title": "Nigel Farage's only by-election challenger is self-proclaimed space alien Count Binface",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
-      "source_url": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government"
+      "description": "Nigel Farage's only by-election challenger is self-proclaimed space alien Count Binface",
+      "source_url": "https://www.cbc.ca/radio/asithappens/nigel-farage-versus-binface-9.7264908?cmp=rss"
+    },
+    {
+      "title": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
+      "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
     }
   ],
   "global_events": [
     {
-      "title": "Ro Khanna says he was detained by armed Israeli settlers in West Bank",
-      "summary": "Ro Khanna says he was detained by armed Israeli settlers in West Bank",
+      "title": "U.S. and Iran continue to trade strikes amid battle over Strait of Hormuz",
+      "summary": "U.S. and Iran continue to trade strikes amid battle over Strait of Hormuz",
       "outlets_covering": [
-        "BBC World",
         "CBS News World",
-        "Sky News World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://thehill.com/homenews/house/5964095-khanna-detained-israeli-settlers"
-    },
-    {
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "NBC News World",
         "NYT World",
+        "The Guardian World",
         "Bloomberg",
         "The Independent",
         "Al Jazeera",
-        "Japan Times",
         "The Hindu Intl",
-        "The Hill"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 15,
+      "coverage_count": 16,
       "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.cbsnews.com/video/us-and-iran-continue-to-trade-strikes-amid-battle-over-strait-of-hormuz"
+    },
+    {
+      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "summary": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "outlets_covering": [
+        "NYT World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html"
     },
     {
       "title": "Typhoon Bavi weakens but still brings strong winds and rain to China",
@@ -142,52 +139,46 @@
       "outlets_covering": [
         "ABC News Intl",
         "CBS News World",
-        "Japan Times",
+        "Al Jazeera",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 7,
+      "coverage_count": 5,
       "region": "China",
       "category": "Politics",
       "source_url": "https://abcnews.com/International/wireStory/typhoon-bavi-brings-strong-winds-rain-eastern-china-134688080"
     },
     {
-      "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
-      "summary": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+      "title": "Trump Says US Would 'Keep the Strait' And Run It",
+      "summary": "Trump Says US Would 'Keep the Strait' And Run It",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
+        "CBS News World",
+        "Bloomberg"
+      ],
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-07-13/trump-says-us-would-keep-the-strait-and-run-it-video"
+    },
+    {
+      "title": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
+      "summary": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
+      "outlets_covering": [
         "CBS News World",
         "NBC News World",
         "NYT World",
+        "The Guardian World",
         "Bloomberg",
         "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss"
-    },
-    {
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "summary": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "Time",
-        "The Independent",
         "France24",
-        "Japan Times",
         "The Hindu Intl",
-        "The Hill"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 8,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
     }
   ]
 }
