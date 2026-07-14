@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:05:02.064596Z",
+  "last_updated": "2026-07-14T01:26:31.656613Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -59,6 +59,14 @@
   ],
   "elections": [
     {
+      "title": "Israel sets October date for first elections since Hamas attacks in 2023",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "Israel sets October date for first elections since Hamas attacks in 2023",
+      "source_url": "https://www.theguardian.com/world/2026/jul/13/israel-sets-october-date-first-elections-since-hamas-attacks-2023"
+    },
+    {
       "title": "Mullin defends move to tie election security to counterterrorism funding",
       "country": "",
       "election_type": "National",
@@ -73,97 +81,14 @@
       "date": "",
       "description": "Graham’s Democratic reelection challenger calls for ‘setting partisanship aside’",
       "source_url": "https://thehill.com/homenews/campaign/5964839-annie-andrews-condolences-graham"
-    },
-    {
-      "title": "Democrats and democratic socialists should unite for election victories",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Democrats and democratic socialists should unite for election victories",
-      "source_url": "https://thehill.com/opinion/campaign/5962999-democrats-defeat-trump-policies"
-    },
-    {
-      "title": "Nigel Farage's only by-election challenger is self-proclaimed space alien Count Binface",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nigel Farage's only by-election challenger is self-proclaimed space alien Count Binface",
-      "source_url": "https://www.cbc.ca/radio/asithappens/nigel-farage-versus-binface-9.7264908?cmp=rss"
-    },
-    {
-      "title": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Palestinian Authority to Hold First Major Elections in 20 Years: What to Know",
-      "source_url": "https://time.com/article/2026/07/10/palestinian-authority-elections-gaza-west-bank-east-jerusalem-israel-explainer"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. and Iran continue to trade strikes amid battle over Strait of Hormuz",
-      "summary": "U.S. and Iran continue to trade strikes amid battle over Strait of Hormuz",
+      "title": "Trump orders more Iran strikes after vowing to \"keep\" Strait of Hormuz, charge fees",
+      "summary": "Trump orders more Iran strikes after vowing to \"keep\" Strait of Hormuz, charge fees",
       "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.cbsnews.com/video/us-and-iran-continue-to-trade-strikes-amid-battle-over-strait-of-hormuz"
-    },
-    {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "summary": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "outlets_covering": [
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html"
-    },
-    {
-      "title": "Typhoon Bavi weakens but still brings strong winds and rain to China",
-      "summary": "Typhoon Bavi weakens but still brings strong winds and rain to China",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 5,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/typhoon-bavi-brings-strong-winds-rain-eastern-china-134688080"
-    },
-    {
-      "title": "Trump Says US Would 'Keep the Strait' And Run It",
-      "summary": "Trump Says US Would 'Keep the Strait' And Run It",
-      "outlets_covering": [
-        "CBS News World",
-        "Bloomberg"
-      ],
-      "coverage_count": 2,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-07-13/trump-says-us-would-keep-the-strait-and-run-it-video"
-    },
-    {
-      "title": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
-      "summary": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
-      "outlets_covering": [
+        "NPR World",
         "CBS News World",
         "NBC News World",
         "NYT World",
@@ -171,14 +96,79 @@
         "Bloomberg",
         "The Independent",
         "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 18,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz"
+    },
+    {
+      "title": "Lindsey Graham death latest: Late senator’s sister Darline to be sworn in Tuesday after South Carolina Republican’s death",
+      "summary": "Lindsey Graham death latest: Late senator’s sister Darline to be sworn in Tuesday after South Carolina Republican’s death",
+      "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-dead-age-health-latest-updates-b3013384.html"
+    },
+    {
+      "title": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
+      "summary": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "France24",
         "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 19,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade"
+    },
+    {
+      "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
+      "summary": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "France24",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 11,
+      "coverage_count": 14,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html"
+    },
+    {
+      "title": "Twelve US states sue Paramount to block Warner Bros merger",
+      "summary": "Twelve US states sue Paramount to block Warner Bros merger",
+      "outlets_covering": [
+        "Al Jazeera",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
     }
   ]
 }
