@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T01:26:31.656613Z",
+  "last_updated": "2026-07-14T13:07:28.808207Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -59,67 +59,58 @@
   ],
   "elections": [
     {
-      "title": "Israel sets October date for first elections since Hamas attacks in 2023",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "Israel sets October date for first elections since Hamas attacks in 2023",
-      "source_url": "https://www.theguardian.com/world/2026/jul/13/israel-sets-october-date-first-elections-since-hamas-attacks-2023"
-    },
-    {
       "title": "Mullin defends move to tie election security to counterterrorism funding",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Mullin defends move to tie election security to counterterrorism funding",
       "source_url": "https://thehill.com/homenews/administration/5965492-trump-fema-election-security"
-    },
-    {
-      "title": "Graham’s Democratic reelection challenger calls for ‘setting partisanship aside’",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Graham’s Democratic reelection challenger calls for ‘setting partisanship aside’",
-      "source_url": "https://thehill.com/homenews/campaign/5964839-annie-andrews-condolences-graham"
     }
   ],
   "global_events": [
     {
-      "title": "Trump orders more Iran strikes after vowing to \"keep\" Strait of Hormuz, charge fees",
-      "summary": "Trump orders more Iran strikes after vowing to \"keep\" Strait of Hormuz, charge fees",
+      "title": "Iran-US war latest: Tehran launches missiles on tankers in Strait of Hormuz after more Trump strikes",
+      "summary": "Iran-US war latest: Tehran launches missiles on tankers in Strait of Hormuz after more Trump strikes",
       "outlets_covering": [
         "NPR World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 17,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-strait-hormuz-oil-b3014278.html"
+    },
+    {
+      "title": "U.S. and Iran continue attacks as Trump vows to control Strait of Hormuz",
+      "summary": "U.S. and Iran continue attacks as Trump vows to control Strait of Hormuz",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
         "The Independent",
         "France24",
         "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz"
-    },
-    {
-      "title": "Lindsey Graham death latest: Late senator’s sister Darline to be sworn in Tuesday after South Carolina Republican’s death",
-      "summary": "Lindsey Graham death latest: Late senator’s sister Darline to be sworn in Tuesday after South Carolina Republican’s death",
-      "outlets_covering": [
-        "BBC World",
-        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "UN News",
         "The Hill"
       ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-dead-age-health-latest-updates-b3013384.html"
+      "coverage_count": 20,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/us-and-iran-continue-attacks-as-trump-vows-to-control-strait-of-hormuz"
     },
     {
-      "title": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
-      "summary": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
+      "title": "Trump restarts Iran blockade as U.S. plans 20% Hormuz charge",
+      "summary": "Trump restarts Iran blockade as U.S. plans 20% Hormuz charge",
       "outlets_covering": [
         "NPR World",
         "CBS News World",
@@ -128,14 +119,14 @@
         "The Guardian World",
         "Bloomberg",
         "France24",
+        "Japan Times",
         "The Hindu Intl",
-        "SCMP",
-        "The Hill"
+        "SCMP"
       ],
-      "coverage_count": 19,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade"
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/14/world/politics/us-blockade-iran-shipping-strait-of-hormuz"
     },
     {
       "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
@@ -146,9 +137,9 @@
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
-        "The Independent",
         "France24",
+        "Japan Times",
+        "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
@@ -158,17 +149,16 @@
       "source_url": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html"
     },
     {
-      "title": "Twelve US states sue Paramount to block Warner Bros merger",
-      "summary": "Twelve US states sue Paramount to block Warner Bros merger",
+      "title": "West Asia war LIVE: Lebanon and Israel hold talks in Rome amid renewed West Asia fighting",
+      "summary": "West Asia war LIVE: Lebanon and Israel hold talks in Rome amid renewed West Asia fighting",
       "outlets_covering": [
         "Al Jazeera",
-        "The Hill",
-        "Axios"
+        "The Hindu Intl"
       ],
       "coverage_count": 3,
-      "region": "Global",
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
+      "source_url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-washington-strikes-tehran-donald-trump-peace-deal-strait-of-hormuz-live-updates-july-14-2026/article71219702.ece"
     }
   ]
 }
