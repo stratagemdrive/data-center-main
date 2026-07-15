@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T01:23:03.163150Z",
+  "last_updated": "2026-07-15T13:11:38.620973Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -57,96 +57,98 @@
       "source_url": "https://www.cbc.ca/player/play/9.7269843?cmp=rss"
     }
   ],
-  "elections": [],
+  "elections": [
+    {
+      "title": "Musk may have broken anti-bribery laws with his $1M offer to voters, elections commission finds",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Musk may have broken anti-bribery laws with his $1M offer to voters, elections commission finds",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/musk-wisconsin-supreme-court-bribery-b3015143.html"
+    }
+  ],
   "global_events": [
     {
-      "title": "U.S. resumes Iran port blockade, while Trump scraps proposed Hormuz shipping fee",
-      "summary": "U.S. resumes Iran port blockade, while Trump scraps proposed Hormuz shipping fee",
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "summary": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "outlets_covering": [
+        "BBC World",
+        "Wash Post World",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "India-UK trade deal comes into effect: What’s cheaper in each country now?",
+      "summary": "India-UK trade deal comes into effect: What’s cheaper in each country now?",
+      "outlets_covering": [
+        "Al Jazeera",
+        "Times of India",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Economy",
+      "source_url": "https://www.aljazeera.com/news/2026/7/15/india-uk-trade-deal-comes-into-effect-whats-cheaper-in-each-country-now?traffic_source=rss"
+    },
+    {
+      "title": "Trump threatens strikes on Iran's bridges and power plants",
+      "summary": "Trump threatens strikes on Iran's bridges and power plants",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "Wash Post World",
+        "France24",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/trump-threatens-to-hit-iranian-infrastructure-if-no-deal"
+    },
+    {
+      "title": "U.S. restarts blockade and strikes Iran as Trump seeks control of Strait of Hormuz",
+      "summary": "U.S. restarts blockade and strikes Iran as Trump seeks control of Strait of Hormuz",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
         "CBS News World",
+        "NBC News World",
+        "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "Japan Times",
         "The Hindu Intl",
         "SCMP",
         "Axios"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/15/world/us-iran-blockade-hormuz-fee"
-    },
-    {
-      "title": "Trump restarts Iran blockade as U.S. plans 20% Hormuz charge",
-      "summary": "Trump restarts Iran blockade as U.S. plans 20% Hormuz charge",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 18,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/14/world/politics/us-blockade-iran-shipping-strait-of-hormuz"
-    },
-    {
-      "title": "U.S. blockade on Iran restarts as Trump angles for control over Strait of Hormuz",
-      "summary": "U.S. blockade on Iran restarts as Trump angles for control over Strait of Hormuz",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 26,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz"
     },
     {
-      "title": "Trump threatens to strike Iran power plants unless deal reached – Middle East crisis live",
-      "summary": "Trump threatens to strike Iran power plants unless deal reached – Middle East crisis live",
+      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "summary": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
       "outlets_covering": [
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
-    },
-    {
-      "title": "Trump says ‘strikes on Iran will continue until I say enough’",
-      "summary": "Trump says ‘strikes on Iran will continue until I say enough’",
-      "outlets_covering": [
+        "BBC World",
         "NPR World",
+        "CBC World",
         "CBS News World",
         "NYT World",
-        "The Guardian World",
-        "Time",
-        "Al Jazeera",
-        "The Hill"
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "Axios"
       ],
-      "coverage_count": 8,
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
+      "source_url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates"
     }
   ]
 }
