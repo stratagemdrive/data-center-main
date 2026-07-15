@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T13:07:28.808207Z",
+  "last_updated": "2026-07-15T01:23:03.163150Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -44,121 +44,109 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
+      "title": "Trump says Gulf states will invest ‘billions’ in U.S. during meeting with Iraq’s prime minister",
       "participants": [
-        "Video",
-        "Damascus",
-        "French President Macron",
-        "Syrian"
+        "Trump",
+        "Gulf",
+        "U.S",
+        "Iraq’s"
       ],
       "date": "",
       "location": "",
-      "description": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
-      "source_url": "https://www.foxnews.com/world/video-shows-bomb-rock-damascus-hotel-french-president-macron-staying-syrian-state-visit"
+      "description": "Trump says Gulf states will invest ‘billions’ in U.S. during meeting with Iraq’s prime minister",
+      "source_url": "https://www.cbc.ca/player/play/9.7269843?cmp=rss"
     }
   ],
-  "elections": [
-    {
-      "title": "Mullin defends move to tie election security to counterterrorism funding",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Mullin defends move to tie election security to counterterrorism funding",
-      "source_url": "https://thehill.com/homenews/administration/5965492-trump-fema-election-security"
-    }
-  ],
+  "elections": [],
   "global_events": [
     {
-      "title": "Iran-US war latest: Tehran launches missiles on tankers in Strait of Hormuz after more Trump strikes",
-      "summary": "Iran-US war latest: Tehran launches missiles on tankers in Strait of Hormuz after more Trump strikes",
+      "title": "U.S. resumes Iran port blockade, while Trump scraps proposed Hormuz shipping fee",
+      "summary": "U.S. resumes Iran port blockade, while Trump scraps proposed Hormuz shipping fee",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
+        "CBC World",
         "CBS News World",
-        "NBC News World",
-        "NYT World",
         "The Guardian World",
-        "The Independent",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 17,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-strait-hormuz-oil-b3014278.html"
-    },
-    {
-      "title": "U.S. and Iran continue attacks as Trump vows to control Strait of Hormuz",
-      "summary": "U.S. and Iran continue attacks as Trump vows to control Strait of Hormuz",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
-        "France24",
         "Japan Times",
         "The Hindu Intl",
         "SCMP",
-        "UN News",
-        "The Hill"
+        "Axios"
       ],
-      "coverage_count": 20,
+      "coverage_count": 13,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/us-and-iran-continue-attacks-as-trump-vows-to-control-strait-of-hormuz"
+      "category": "Politics",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/15/world/us-iran-blockade-hormuz-fee"
     },
     {
       "title": "Trump restarts Iran blockade as U.S. plans 20% Hormuz charge",
       "summary": "Trump restarts Iran blockade as U.S. plans 20% Hormuz charge",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Bloomberg",
-        "France24",
         "Japan Times",
         "The Hindu Intl",
-        "SCMP"
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 16,
+      "coverage_count": 18,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.japantimes.co.jp/news/2026/07/14/world/politics/us-blockade-iran-shipping-strait-of-hormuz"
     },
     {
-      "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
-      "summary": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
+      "title": "U.S. blockade on Iran restarts as Trump angles for control over Strait of Hormuz",
+      "summary": "U.S. blockade on Iran restarts as Trump angles for control over Strait of Hormuz",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
+        "CBC World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "France24",
+        "Al Jazeera",
         "Japan Times",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 14,
+      "coverage_count": 26,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html"
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz"
     },
     {
-      "title": "West Asia war LIVE: Lebanon and Israel hold talks in Rome amid renewed West Asia fighting",
-      "summary": "West Asia war LIVE: Lebanon and Israel hold talks in Rome amid renewed West Asia fighting",
+      "title": "Trump threatens to strike Iran power plants unless deal reached – Middle East crisis live",
+      "summary": "Trump threatens to strike Iran power plants unless deal reached – Middle East crisis live",
       "outlets_covering": [
-        "Al Jazeera",
+        "The Guardian World",
         "The Hindu Intl"
       ],
       "coverage_count": 3,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-washington-strikes-tehran-donald-trump-peace-deal-strait-of-hormuz-live-updates-july-14-2026/article71219702.ece"
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
+    },
+    {
+      "title": "Trump says ‘strikes on Iran will continue until I say enough’",
+      "summary": "Trump says ‘strikes on Iran will continue until I say enough’",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
     }
   ]
 }
