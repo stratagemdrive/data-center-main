@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T13:11:38.620973Z",
+  "last_updated": "2026-07-16T01:43:34.874082Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -42,113 +42,118 @@
       "source_url": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "Trump says Gulf states will invest ‘billions’ in U.S. during meeting with Iraq’s prime minister",
-      "participants": [
-        "Trump",
-        "Gulf",
-        "U.S",
-        "Iraq’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump says Gulf states will invest ‘billions’ in U.S. during meeting with Iraq’s prime minister",
-      "source_url": "https://www.cbc.ca/player/play/9.7269843?cmp=rss"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Musk may have broken anti-bribery laws with his $1M offer to voters, elections commission finds",
+      "title": "White House weighs releasing controversial intel on China and U.S. elections, sources say",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Musk may have broken anti-bribery laws with his $1M offer to voters, elections commission finds",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/musk-wisconsin-supreme-court-bribery-b3015143.html"
+      "description": "White House weighs releasing controversial intel on China and U.S. elections, sources say",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/16/world/white-house-intel-china-us-elections"
+    },
+    {
+      "title": "Blanche sidesteps questions on federal agents at election sites",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Blanche sidesteps questions on federal agents at election sites",
+      "source_url": "https://www.axios.com/2026/07/15/todd-blanche-federal-agents-polling-places-voters-ice"
+    },
+    {
+      "title": "Ossoff presses Clayton on who won 2020 election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Ossoff presses Clayton on who won 2020 election",
+      "source_url": "https://thehill.com/homenews/senate/5970373-ossoff-clayton-2020-election"
+    },
+    {
+      "title": "Germany warns US against election interference after it announces grants scheme",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "Germany warns US against election interference after it announces grants scheme",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe"
+    },
+    {
+      "title": "Europe: National elections may bring \"very different Coalition of the Willing next year\"",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Europe: National elections may bring \"very different Coalition of the Willing next year\"",
+      "source_url": "https://www.france24.com/en/video/20260715-europe-national-elections-may-bring-very-different-coalition-of-the-willing-next-year"
     }
   ],
   "global_events": [
     {
-      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "summary": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "title": "US military says it disabled tanker trying to breach blockade amid new wave of strikes on Iran – Middle East crisis live",
+      "summary": "US military says it disabled tanker trying to breach blockade amid new wave of strikes on Iran – Middle East crisis live",
       "outlets_covering": [
-        "BBC World",
-        "Wash Post World",
-        "Al Jazeera",
-        "France24"
+        "NPR World",
+        "The Guardian World"
+      ],
+      "coverage_count": 2,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news"
+    },
+    {
+      "title": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
+      "summary": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "The Hill",
+        "Axios"
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news"
     },
     {
-      "title": "India-UK trade deal comes into effect: What’s cheaper in each country now?",
-      "summary": "India-UK trade deal comes into effect: What’s cheaper in each country now?",
-      "outlets_covering": [
-        "Al Jazeera",
-        "Times of India",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Economy",
-      "source_url": "https://www.aljazeera.com/news/2026/7/15/india-uk-trade-deal-comes-into-effect-whats-cheaper-in-each-country-now?traffic_source=rss"
-    },
-    {
-      "title": "Trump threatens strikes on Iran's bridges and power plants",
-      "summary": "Trump threatens strikes on Iran's bridges and power plants",
+      "title": "Hegseth announces testosterone screening for U.S. troops",
+      "summary": "Hegseth announces testosterone screening for U.S. troops",
       "outlets_covering": [
         "BBC World",
+        "CBC World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/hegseth-announces-testosterone-screening-for-us-troops/article71228291.ece"
+    },
+    {
+      "title": "U.S. and Iran exchange strikes after Trump threatens wider attack",
+      "summary": "U.S. and Iran exchange strikes after Trump threatens wider attack",
+      "outlets_covering": [
         "NYT World",
+        "The Guardian World",
         "Wash Post World",
-        "France24",
-        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/world/2026/07/15/us-hits-dozens-iranian-targets-trump-demands-renewed-negotiations"
+    },
+    {
+      "title": "100 House Democrats vote to cut off aid to Israel, showcasing party shift",
+      "summary": "100 House Democrats vote to cut off aid to Israel, showcasing party shift",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "The Hill",
         "Axios"
       ],
       "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/trump-threatens-to-hit-iranian-infrastructure-if-no-deal"
-    },
-    {
-      "title": "U.S. restarts blockade and strikes Iran as Trump seeks control of Strait of Hormuz",
-      "summary": "U.S. restarts blockade and strikes Iran as Trump seeks control of Strait of Hormuz",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "The Hindu Intl",
-        "SCMP",
-        "Axios"
-      ],
-      "coverage_count": 16,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz"
-    },
-    {
-      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
-      "summary": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "Axios"
-      ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates"
+      "source_url": "https://thehill.com/homenews/house/5970608-pelosi-clark-massie-israel-amendment"
     }
   ]
 }
