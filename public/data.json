@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T01:43:34.874082Z",
+  "last_updated": "2026-07-16T13:19:42.720451Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -45,12 +45,28 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "White House weighs releasing controversial intel on China and U.S. elections, sources say",
+      "title": "One of Stephen Miller’s allies is taking on a bigger role in Arizona’s elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "White House weighs releasing controversial intel on China and U.S. elections, sources say",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/16/world/white-house-intel-china-us-elections"
+      "description": "One of Stephen Miller’s allies is taking on a bigger role in Arizona’s elections",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/maricopa-arizona-election-heap-settlement-b3016058.html"
+    },
+    {
+      "title": "US slaps 25% tariffs on Brazil with election looming",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "US slaps 25% tariffs on Brazil with election looming",
+      "source_url": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Germany warns US against election interference with Maga-aligned grants scheme",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "Germany warns US against election interference with Maga-aligned grants scheme",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe"
     },
     {
       "title": "Blanche sidesteps questions on federal agents at election sites",
@@ -67,93 +83,80 @@
       "date": "",
       "description": "Ossoff presses Clayton on who won 2020 election",
       "source_url": "https://thehill.com/homenews/senate/5970373-ossoff-clayton-2020-election"
-    },
-    {
-      "title": "Germany warns US against election interference after it announces grants scheme",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Germany warns US against election interference after it announces grants scheme",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe"
-    },
-    {
-      "title": "Europe: National elections may bring \"very different Coalition of the Willing next year\"",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Europe: National elections may bring \"very different Coalition of the Willing next year\"",
-      "source_url": "https://www.france24.com/en/video/20260715-europe-national-elections-may-bring-very-different-coalition-of-the-willing-next-year"
     }
   ],
   "global_events": [
     {
-      "title": "US military says it disabled tanker trying to breach blockade amid new wave of strikes on Iran – Middle East crisis live",
-      "summary": "US military says it disabled tanker trying to breach blockade amid new wave of strikes on Iran – Middle East crisis live",
-      "outlets_covering": [
-        "NPR World",
-        "The Guardian World"
-      ],
-      "coverage_count": 2,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news"
-    },
-    {
-      "title": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
-      "summary": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
+      "title": "US imposes a 25 percent tariff on some Brazilian imports, citing unfair trade practices",
+      "summary": "US imposes a 25 percent tariff on some Brazilian imports, citing unfair trade practices",
       "outlets_covering": [
         "CBS News World",
-        "The Guardian World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Latin America",
+      "category": "Economy",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260716-us-imposes-a-25-percent-tariff-on-some-brazilian-imports-citing-unfair-trade-practices"
+    },
+    {
+      "title": "Iran releases U.S. citizen in goodwill gesture, Trump says",
+      "summary": "Iran releases U.S. citizen in goodwill gesture, Trump says",
+      "outlets_covering": [
+        "Wash Post World",
+        "Al Jazeera",
+        "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news"
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/07/16/iran-releases-us-citizen-goodwill-gesture-trump-says"
     },
     {
-      "title": "Hegseth announces testosterone screening for U.S. troops",
-      "summary": "Hegseth announces testosterone screening for U.S. troops",
+      "title": "US intensifies strikes on Iran",
+      "summary": "US intensifies strikes on Iran",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/hegseth-announces-testosterone-screening-for-us-troops/article71228291.ece"
-    },
-    {
-      "title": "U.S. and Iran exchange strikes after Trump threatens wider attack",
-      "summary": "U.S. and Iran exchange strikes after Trump threatens wider attack",
-      "outlets_covering": [
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/07/15/us-hits-dozens-iranian-targets-trump-demands-renewed-negotiations"
-    },
-    {
-      "title": "100 House Democrats vote to cut off aid to Israel, showcasing party shift",
-      "summary": "100 House Democrats vote to cut off aid to Israel, showcasing party shift",
-      "outlets_covering": [
         "CBS News World",
         "NYT World",
-        "The Guardian World",
-        "The Hill",
-        "Axios"
+        "Wash Post World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Atlantic Council",
+        "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://thehill.com/homenews/house/5970608-pelosi-clark-massie-israel-amendment"
+      "source_url": "https://thehill.com/policy/defense/5971315-trump-resumes-hostilities-tehran"
+    },
+    {
+      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+      "summary": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+      "outlets_covering": [
+        "BBC World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ukraine buries its unknown soldiers as families wait for identification",
+      "summary": "Ukraine buries its unknown soldiers as families wait for identification",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent"
+      ],
+      "coverage_count": 2,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/ukraine-buries-unknown-soldiers-families-wait-identification-134807151"
     }
   ]
 }
