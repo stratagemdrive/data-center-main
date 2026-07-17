@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T01:46:56.741915Z",
+  "last_updated": "2026-07-17T13:04:16.609965Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -45,6 +45,30 @@
   "diplomatic_visits": [],
   "elections": [
     {
+      "title": "Knesset dissolves: How will Israel vote in October’s general election?",
+      "country": "Israel",
+      "election_type": "General",
+      "date": "",
+      "description": "Knesset dissolves: How will Israel vote in October’s general election?",
+      "source_url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
+    },
+    {
+      "title": "Israel headed for October election as parliament dissolved",
+      "country": "Israel",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Israel headed for October election as parliament dissolved",
+      "source_url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss"
+    },
+    {
+      "title": "Moira Deeming disendorsed as Victorian Liberal party candidate for upcoming state election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Moira Deeming disendorsed as Victorian Liberal party candidate for upcoming state election",
+      "source_url": "https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb"
+    },
+    {
       "title": "Israeli Government Pushes Through Divisive Laws Before Election",
       "country": "",
       "election_type": "National",
@@ -53,107 +77,99 @@
       "source_url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html"
     },
     {
-      "title": "One of Stephen Miller’s allies is taking on a bigger role in Arizona’s elections",
-      "country": "",
-      "election_type": "National",
+      "title": "Israel's parliament dissolves ahead of Oct. 27 elections",
+      "country": "Israel",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "One of Stephen Miller’s allies is taking on a bigger role in Arizona’s elections",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/maricopa-arizona-election-heap-settlement-b3016058.html"
-    },
-    {
-      "title": "US slaps 25% tariffs on Brazil with election looming",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "US slaps 25% tariffs on Brazil with election looming",
-      "source_url": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Blanche sidesteps questions on federal agents at election sites",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Blanche sidesteps questions on federal agents at election sites",
-      "source_url": "https://www.axios.com/2026/07/15/todd-blanche-federal-agents-polling-places-voters-ice"
-    },
-    {
-      "title": "Kenya's 'political gangs' fuel election fears",
-      "country": "Kenya",
-      "election_type": "National",
-      "date": "",
-      "description": "Kenya's 'political gangs' fuel election fears",
-      "source_url": "https://www.dw.com/en/kenya-s-political-gangs-fuel-election-fears/a-77970615?maca=en-rss-en-world-4025-rdf"
+      "description": "Israel's parliament dissolves ahead of Oct. 27 elections",
+      "source_url": "https://abcnews.com/International/wireStory/israels-parliament-dissolves-ahead-oct-27-elections-134839937"
     }
   ],
   "global_events": [
     {
-      "title": "Iran releases U.S. citizen in goodwill gesture, Trump says",
-      "summary": "Iran releases U.S. citizen in goodwill gesture, Trump says",
+      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
+      "summary": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
       "outlets_covering": [
-        "Wash Post World",
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "DW World"
+      ],
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/keir-starmer-resigns-who-is-andy-burnham-likely-next-uk-prime-minister"
+    },
+    {
+      "title": "Trump revives US election fraud claims",
+      "summary": "Trump revives US election fraud claims",
+      "outlets_covering": [
+        "Sky News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "DW World",
+        "France24",
         "The Hindu Intl",
+        "SCMP",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
+      "coverage_count": 15,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/07/16/iran-releases-us-citizen-goodwill-gesture-trump-says"
+      "source_url": "https://www.dw.com/en/fact-check-trump-revives-us-election-fraud-claims/a-77999807?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
-      "summary": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/17/zelenskyy-defends-sacking-ukraine-defence-minister-mykhailo-fedorov"
-    },
-    {
-      "title": "U.S. imposing 25% tariff on some Brazilian imports starting July 22, citing unfair trade practices",
-      "summary": "U.S. imposing 25% tariff on some Brazilian imports starting July 22, citing unfair trade practices",
+      "title": "5 Takeaways From Trump’s Speech on Elections",
+      "summary": "5 Takeaways From Trump’s Speech on Elections",
       "outlets_covering": [
         "CBS News World",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
+        "Time",
+        "France24",
+        "SCMP",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/us-imposing-25-tariff-on-some-brazilian-imports-starting-july-22-citing-unfair-trade-practices/article71228584.ece"
-    },
-    {
-      "title": "Donald Trump accuses China of ‘sinister election meddling’ in primetime address – live updates",
-      "summary": "Donald Trump accuses China of ‘sinister election meddling’ in primetime address – live updates",
-      "outlets_covering": [
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 2,
-      "region": "China",
+      "coverage_count": 7,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/jul/16/trump-speech-address-iran-election-latest-updates"
+      "source_url": "https://time.com/article/2026/07/17/trump-speech-elections-china-save-act-takeaways"
     },
     {
-      "title": "Iran tells Houthis to close Red Sea gateway if U.S. hits power network, sources say",
-      "summary": "Iran tells Houthis to close Red Sea gateway if U.S. hits power network, sources say",
+      "title": "China slams Trump’s claims over 2020 US election interference",
+      "summary": "China slams Trump’s claims over 2020 US election interference",
       "outlets_covering": [
-        "Fox News World",
+        "BBC World",
+        "CBC World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "France24",
         "Japan Times",
         "The Hindu Intl",
-        "The Hill"
+        "SCMP"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
+      "coverage_count": 20,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/17/world/iran-houthis-red-sea-close"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/china-slams-trumps-claims-over-2020-us-election-interference?traffic_source=rss"
+    },
+    {
+      "title": "Meet Andy Burnham, Britain's next prime minister",
+      "summary": "Meet Andy Burnham, Britain's next prime minister",
+      "outlets_covering": [
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "DW World"
+      ],
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.dw.com/en/meet-andy-burnham-britain-s-next-prime-minister/a-77664543?maca=en-rss-en-world-4025-rdf"
     }
   ]
 }
