@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-18T01:27:27.290577Z",
+  "last_updated": "2026-07-18T12:51:48.196820Z",
   "world_org_meetings": [
+    {
+      "title": "India, Pakistan discuss border security at SCO meeting in Islamabad",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "India, Pakistan discuss border security at SCO meeting in Islamabad",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-pakistan-discuss-border-security-at-sco-meeting-in-islamabad/articleshow/132474025.cms"
+    },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
       "organization": "NATO",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Was the NATO Summit a success?",
       "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
-    },
-    {
-      "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how"
     }
   ],
   "diplomatic_visits": [],
@@ -53,12 +53,28 @@
       "source_url": "https://www.thehindu.com/news/international/israels-parliament-dissolves-ahead-of-october-27-elections/article71235656.ece"
     },
     {
-      "title": "UK by-election sees record 34 candidates as Farage seeks return",
+      "title": "Amid elections, Sao Tome and Principe balances global powers",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "UK by-election sees record 34 candidates as Farage seeks return",
-      "source_url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss"
+      "description": "Amid elections, Sao Tome and Principe balances global powers",
+      "source_url": "https://www.dw.com/en/amid-elections-sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Will Taiwan’s food safety scandal wreck the ruling DPP’s local election hopes?",
+      "country": "Taiwan",
+      "election_type": "Local",
+      "date": "",
+      "description": "Will Taiwan’s food safety scandal wreck the ruling DPP’s local election hopes?",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3361033/will-taiwans-food-safety-scandal-wreck-dpps-local-election-hopes"
+    },
+    {
+      "title": "Why Britain is getting a new prime minister without a general election",
+      "country": "Britain",
+      "election_type": "General",
+      "date": "",
+      "description": "Why Britain is getting a new prime minister without a general election",
+      "source_url": "https://abcnews.com/International/wireStory/britain-new-prime-minister-general-election-134868513"
     },
     {
       "title": "Many allegations, little evidence: unpacking the China election-interference records",
@@ -67,25 +83,24 @@
       "date": "",
       "description": "Many allegations, little evidence: unpacking the China election-interference records",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records"
-    },
-    {
-      "title": "Mullin threatens states as DHS launches widespread review of elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Mullin threatens states as DHS launches widespread review of elections",
-      "source_url": "https://thehill.com/policy/national-security/5974655-mullin-threatens-states-election-security"
-    },
-    {
-      "title": "Watch live: Mullin delivers remarks on election security ahead of midterms",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Watch live: Mullin delivers remarks on election security ahead of midterms",
-      "source_url": "https://thehill.com/video-clips/5973968-watch-live-markwayne-mullin-press-conference-election-security-donald-trump-speech"
     }
   ],
   "global_events": [
+    {
+      "title": "Indian activist on hunger strike for 20 days taken to hospital",
+      "summary": "Indian activist on hunger strike for 20 days taken to hospital",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "NYT World",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/indian-activist-on-hunger-strike-for-20-days-taken-to-hospital"
+    },
     {
       "title": "US strikes hit Iran for seventh consecutive night",
       "summary": "US strikes hit Iran for seventh consecutive night",
@@ -94,70 +109,57 @@
         "CBS News World",
         "The Guardian World",
         "Al Jazeera",
+        "France24",
         "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 9,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
-      "summary": "Trump threatens Canada with higher tariffs over wildfire smoke",
+      "title": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
+      "summary": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
         "CBS News World",
-        "Al Jazeera",
+        "The Independent",
+        "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "Global",
       "category": "Economy",
-      "source_url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke"
+      "source_url": "https://www.thehindu.com/news/international/trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-pollution/article71237257.ece"
     },
     {
-      "title": "Gaza officials say several killed in Israeli strike",
-      "summary": "Gaza officials say several killed in Israeli strike",
+      "title": "Seven killed, more than 50 wounded in Ukrainian drone attack on Russian regions",
+      "summary": "Seven killed, more than 50 wounded in Ukrainian drone attack on Russian regions",
       "outlets_covering": [
-        "NYT World",
-        "The Guardian World",
-        "DW World"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
-      "summary": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NYT World",
-        "The Independent"
+        "NPR World",
+        "ABC News Intl",
+        "France24",
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html"
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/seven-killed-more-than-50-wounded-in-ukrainian-drone-attack-on-russian-regions/article71237647.ece"
     },
     {
-      "title": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
-      "summary": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
+      "title": "Rescuers race to find survivors in the rain after a landslide in China kills at least 8",
+      "summary": "Rescuers race to find survivors in the rain after a landslide in China kills at least 8",
       "outlets_covering": [
         "ABC News Intl",
-        "CBS News World",
-        "NYT World",
-        "DW World",
-        "France24"
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 8,
-      "region": "Europe",
+      "coverage_count": 4,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html"
+      "source_url": "https://abcnews.com/International/wireStory/rescuers-race-find-survivors-rain-after-landslide-china-134869169"
     }
   ]
 }
