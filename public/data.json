@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T01:44:57.123703Z",
+  "last_updated": "2026-07-19T12:53:55.249326Z",
   "world_org_meetings": [
     {
       "title": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
@@ -45,6 +45,14 @@
   "diplomatic_visits": [],
   "elections": [
     {
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "source_url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election"
+    },
+    {
       "title": "Amid elections, Sao Tome and Principe balances global powers",
       "country": "",
       "election_type": "National",
@@ -75,36 +83,28 @@
       "date": "",
       "description": "Many allegations, little evidence: unpacking the China election-interference records",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records"
-    },
-    {
-      "title": "Israel's Parliament dissolves ahead of October 27 elections",
-      "country": "Israel",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Israel's Parliament dissolves ahead of October 27 elections",
-      "source_url": "https://www.thehindu.com/news/international/israels-parliament-dissolves-ahead-of-october-27-elections/article71235656.ece"
     }
   ],
   "global_events": [
     {
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "summary": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "summary": "US and Iran exchange strikes after two US soldiers killed in Jordan",
       "outlets_covering": [
         "BBC World",
+        "CBC World",
         "CBS News World",
         "NBC News World",
         "The Guardian World",
         "Wash Post World",
+        "Bloomberg",
         "The Independent",
         "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "Axios"
+        "Japan Times"
       ],
-      "coverage_count": 11,
+      "coverage_count": 14,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
@@ -114,56 +114,63 @@
         "CBC World",
         "CBS News World",
         "Wash Post World",
-        "The Independent",
         "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Global",
       "category": "Economy",
       "source_url": "https://www.thehindu.com/news/international/trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-pollution/article71237257.ece"
     },
     {
-      "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
-      "summary": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "summary": "Russia launches major ballistic missile attack on Ukrainian cities",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
-        "NYT World",
-        "France24"
+        "CBC World",
+        "CBS News World",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html"
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
-      "summary": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
+      "title": "What to know about the challenges Andy Burnham will face as UK prime minister",
+      "summary": "What to know about the challenges Andy Burnham will face as UK prime minister",
       "outlets_covering": [
+        "ABC News Intl",
         "CBS News World",
         "Fox News World",
-        "NYT World",
-        "DW World"
+        "NYT World"
       ],
       "coverage_count": 6,
       "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/keir-starmer-resigns-who-is-andy-burnham-likely-next-uk-prime-minister"
+      "source_url": "https://abcnews.com/International/wireStory/challenges-andy-burnham-face-uk-prime-minister-134887196"
     },
     {
-      "title": "Mexican president to attend World Cup final at Trump's invitation amid trade tensions",
-      "summary": "Mexican president to attend World Cup final at Trump's invitation amid trade tensions",
+      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
+      "summary": "Two US troops killed and one missing in Jordan after Iranian attacks",
       "outlets_covering": [
+        "BBC World",
         "ABC News Intl",
         "CBS News World",
-        "The Independent"
+        "NBC News World",
+        "The Guardian World",
+        "The Independent",
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.cbsnews.com/news/claudia-sheinbaum-trump-carney-world-cup-final"
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
     }
   ]
 }
