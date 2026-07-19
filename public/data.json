@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-18T12:51:48.196820Z",
+  "last_updated": "2026-07-19T01:44:57.123703Z",
   "world_org_meetings": [
     {
-      "title": "India, Pakistan discuss border security at SCO meeting in Islamabad",
-      "organization": "SCO",
+      "title": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
+      "organization": "UN",
       "date": "",
       "location": "",
-      "description": "India, Pakistan discuss border security at SCO meeting in Islamabad",
-      "source_url": "https://timesofindia.indiatimes.com/india/india-pakistan-discuss-border-security-at-sco-meeting-in-islamabad/articleshow/132474025.cms"
+      "description": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
+      "source_url": "https://thehill.com/homenews/state-watch/5976307-mamdani-floats-arresting-netanyahu-if-he-visits-nyc-for-un-general-assembly"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -45,14 +45,6 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Israel's Parliament dissolves ahead of October 27 elections",
-      "country": "Israel",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Israel's Parliament dissolves ahead of October 27 elections",
-      "source_url": "https://www.thehindu.com/news/international/israels-parliament-dissolves-ahead-of-october-27-elections/article71235656.ece"
-    },
-    {
       "title": "Amid elections, Sao Tome and Principe balances global powers",
       "country": "",
       "election_type": "National",
@@ -83,83 +75,95 @@
       "date": "",
       "description": "Many allegations, little evidence: unpacking the China election-interference records",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records"
+    },
+    {
+      "title": "Israel's Parliament dissolves ahead of October 27 elections",
+      "country": "Israel",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Israel's Parliament dissolves ahead of October 27 elections",
+      "source_url": "https://www.thehindu.com/news/international/israels-parliament-dissolves-ahead-of-october-27-elections/article71235656.ece"
     }
   ],
   "global_events": [
     {
-      "title": "Indian activist on hunger strike for 20 days taken to hospital",
-      "summary": "Indian activist on hunger strike for 20 days taken to hospital",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "NYT World",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 5,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/indian-activist-on-hunger-strike-for-20-days-taken-to-hospital"
-    },
-    {
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "summary": "US strikes hit Iran for seventh consecutive night",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "summary": "Two US troops killed and one missing after Iranian attack in Jordan",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
+        "NBC News World",
         "The Guardian World",
+        "Wash Post World",
+        "The Independent",
         "Al Jazeera",
         "France24",
-        "The Hill"
+        "Japan Times",
+        "Axios"
       ],
-      "coverage_count": 9,
+      "coverage_count": 11,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
       "summary": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
       "outlets_covering": [
         "BBC World",
+        "CBC World",
         "CBS News World",
+        "Wash Post World",
         "The Independent",
         "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 6,
+      "coverage_count": 8,
       "region": "Global",
       "category": "Economy",
       "source_url": "https://www.thehindu.com/news/international/trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-pollution/article71237257.ece"
     },
     {
-      "title": "Seven killed, more than 50 wounded in Ukrainian drone attack on Russian regions",
-      "summary": "Seven killed, more than 50 wounded in Ukrainian drone attack on Russian regions",
+      "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "summary": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
       "outlets_covering": [
-        "NPR World",
+        "BBC World",
         "ABC News Intl",
-        "France24",
-        "The Hindu Intl"
+        "NYT World",
+        "France24"
       ],
       "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/seven-killed-more-than-50-wounded-in-ukrainian-drone-attack-on-russian-regions/article71237647.ece"
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html"
     },
     {
-      "title": "Rescuers race to find survivors in the rain after a landslide in China kills at least 8",
-      "summary": "Rescuers race to find survivors in the rain after a landslide in China kills at least 8",
+      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
+      "summary": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
+      "outlets_covering": [
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "DW World"
+      ],
+      "coverage_count": 6,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/keir-starmer-resigns-who-is-andy-burnham-likely-next-uk-prime-minister"
+    },
+    {
+      "title": "Mexican president to attend World Cup final at Trump's invitation amid trade tensions",
+      "summary": "Mexican president to attend World Cup final at Trump's invitation amid trade tensions",
       "outlets_covering": [
         "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP"
+        "CBS News World",
+        "The Independent"
       ],
-      "coverage_count": 4,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/rescuers-race-find-survivors-rain-after-landslide-china-134869169"
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.cbsnews.com/news/claudia-sheinbaum-trump-carney-world-cup-final"
     }
   ]
 }
