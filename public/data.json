@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T12:53:55.249326Z",
+  "last_updated": "2026-07-20T02:00:41.426737Z",
   "world_org_meetings": [
     {
       "title": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
@@ -53,14 +53,6 @@
       "source_url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election"
     },
     {
-      "title": "Amid elections, Sao Tome and Principe balances global powers",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Amid elections, Sao Tome and Principe balances global powers",
-      "source_url": "https://www.dw.com/en/amid-elections-sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-world-4025-rdf"
-    },
-    {
       "title": "Will Taiwan’s food safety scandal wreck the ruling DPP’s local election hopes?",
       "country": "Taiwan",
       "election_type": "Local",
@@ -69,43 +61,23 @@
       "source_url": "https://www.scmp.com/news/china/politics/article/3361033/will-taiwans-food-safety-scandal-wreck-dpps-local-election-hopes"
     },
     {
-      "title": "Why Britain is getting a new prime minister without a general election",
-      "country": "Britain",
-      "election_type": "General",
-      "date": "",
-      "description": "Why Britain is getting a new prime minister without a general election",
-      "source_url": "https://abcnews.com/International/wireStory/britain-new-prime-minister-general-election-134868513"
-    },
-    {
       "title": "Many allegations, little evidence: unpacking the China election-interference records",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Many allegations, little evidence: unpacking the China election-interference records",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records"
+    },
+    {
+      "title": "Israel's Parliament dissolves ahead of October 27 elections",
+      "country": "Israel",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Israel's Parliament dissolves ahead of October 27 elections",
+      "source_url": "https://www.thehindu.com/news/international/israels-parliament-dissolves-ahead-of-october-27-elections/article71235656.ece"
     }
   ],
   "global_events": [
-    {
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "summary": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times"
-      ],
-      "coverage_count": 14,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
       "summary": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
@@ -113,64 +85,73 @@
         "BBC World",
         "CBC World",
         "CBS News World",
-        "Wash Post World",
         "The Hindu Intl",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "Global",
       "category": "Economy",
       "source_url": "https://www.thehindu.com/news/international/trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-pollution/article71237257.ece"
     },
     {
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "summary": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "title": "Andy Burnham: The likely next U.K. prime minister",
+      "summary": "Andy Burnham: The likely next U.K. prime minister",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "NYT World"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/andy-burnham-the-likely-next-uk-prime-minister"
+    },
+    {
+      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+      "summary": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
+    },
+    {
+      "title": "Russia hits Kyiv with largest ballistic missile barrage",
+      "summary": "Russia hits Kyiv with largest ballistic missile barrage",
       "outlets_covering": [
         "BBC World",
         "CBC World",
-        "CBS News World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "What to know about the challenges Andy Burnham will face as UK prime minister",
-      "summary": "What to know about the challenges Andy Burnham will face as UK prime minister",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "NYT World"
-      ],
-      "coverage_count": 6,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/challenges-andy-burnham-face-uk-prime-minister-134887196"
-    },
-    {
-      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
-      "summary": "Two US troops killed and one missing in Jordan after Iranian attacks",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
+        "NYT World",
         "The Guardian World",
         "The Independent",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "DW World",
+        "Japan Times"
       ],
-      "coverage_count": 10,
-      "region": "Middle East",
+      "coverage_count": 8,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/20/world/russia-kyiv-ballistic-missile-barrage"
+    },
+    {
+      "title": "At least 50 Malian soldiers killed in attack on military convoy",
+      "summary": "At least 50 Malian soldiers killed in attack on military convoy",
+      "outlets_covering": [
+        "CBS News World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss"
     }
   ]
 }
