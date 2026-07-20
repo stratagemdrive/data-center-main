@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-20T02:00:41.426737Z",
+  "last_updated": "2026-07-20T13:47:51.973025Z",
   "world_org_meetings": [
+    {
+      "title": "ASEAN meetings offer chance of China-Japan encounter — for better or worse",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "ASEAN meetings offer chance of China-Japan encounter — for better or worse",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/20/japan/politics/japan-china-motegi-wang-asean"
+    },
     {
       "title": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
       "organization": "UN",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Eleven takeaways from the NATO Summit in Ankara",
       "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
-    },
-    {
-      "title": "Was the NATO Summit a success?",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Was the NATO Summit a success?",
-      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
     }
   ],
   "diplomatic_visits": [],
@@ -79,79 +79,85 @@
   ],
   "global_events": [
     {
-      "title": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
-      "summary": "Trump threatens to increase Canada tariffs over wildfire smoke pollution",
+      "title": "Andy Burnham officially becomes British prime minister",
+      "summary": "Andy Burnham officially becomes British prime minister",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 15,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/uk-burnham-pm-king-charles-starmer-9.7276160?cmp=rss"
+    },
+    {
+      "title": "Pentagon identifies 2 US service members killed in Iran attack on Jordan base",
+      "summary": "Pentagon identifies 2 US service members killed in Iran attack on Jordan base",
+      "outlets_covering": [
+        "NPR World",
         "CBC World",
         "CBS News World",
-        "The Hindu Intl",
-        "The Hill",
+        "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Hill"
+      ],
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/defense/5977739-iranian-attack-kills-two-us-soldiers"
+    },
+    {
+      "title": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live",
+      "summary": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
         "Axios"
       ],
       "coverage_count": 6,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/trump-threatens-to-increase-canada-tariffs-over-wildfire-smoke-pollution/article71237257.ece"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
     },
     {
-      "title": "Andy Burnham: The likely next U.K. prime minister",
-      "summary": "Andy Burnham: The likely next U.K. prime minister",
+      "title": "At least six dead after earthquake hits Peru's Andes",
+      "summary": "At least six dead after earthquake hits Peru's Andes",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "Fox News World",
+        "The Guardian World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 6,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.france24.com/en/at-least-six-dead-after-earthquake-hits-peru-s-andes"
+    },
+    {
+      "title": "At least 930 people have died in Congo's Ebola outbreak",
+      "summary": "At least 930 people have died in Congo's Ebola outbreak",
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
-        "CBS News World",
-        "NYT World"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/andy-burnham-the-likely-next-uk-prime-minister"
-    },
-    {
-      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
-      "summary": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
-    },
-    {
-      "title": "Russia hits Kyiv with largest ballistic missile barrage",
-      "summary": "Russia hits Kyiv with largest ballistic missile barrage",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "DW World",
-        "Japan Times"
-      ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/20/world/russia-kyiv-ballistic-missile-barrage"
-    },
-    {
-      "title": "At least 50 Malian soldiers killed in attack on military convoy",
-      "summary": "At least 50 Malian soldiers killed in attack on military convoy",
-      "outlets_covering": [
-        "CBS News World",
-        "Al Jazeera",
         "The Hindu Intl"
       ],
       "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss"
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.thehindu.com/news/international/at-least-930-people-have-died-in-congos-ebola-outbreak/article71244225.ece"
     }
   ]
 }
