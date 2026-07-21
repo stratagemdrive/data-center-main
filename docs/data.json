@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-21T01:44:50.954054Z",
+  "last_updated": "2026-07-21T13:16:05.499483Z",
   "world_org_meetings": [
     {
-      "title": "Myanmar’s future and Middle East fighting hang over ASEAN talks",
-      "organization": "ASEAN",
+      "title": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
+      "organization": "APEC",
       "date": "",
       "location": "",
-      "description": "Myanmar’s future and Middle East fighting hang over ASEAN talks",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/21/asia-pacific/politics/myanmar-mideast-asean-talks"
+      "description": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3361329/perfume-ban-no-fly-zone-apec-summit-looms-shenzhen-ramping-security"
     },
     {
       "title": "Guterres to visit Cyprus as UN seeks to revive peace talks",
@@ -16,14 +16,6 @@
       "location": "",
       "description": "Guterres to visit Cyprus as UN seeks to revive peace talks",
       "source_url": "https://www.dw.com/en/guterres-to-visit-cyprus-as-un-seeks-to-revive-peace-talks/a-78037819?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "ASEAN meetings offer chance of China-Japan encounter — for better or worse",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "ASEAN meetings offer chance of China-Japan encounter — for better or worse",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/20/japan/politics/japan-china-motegi-wang-asean"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -40,6 +32,14 @@
       "location": "",
       "description": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine"
+    },
+    {
+      "title": "Eleven takeaways from the NATO Summit in Ankara",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Eleven takeaways from the NATO Summit in Ankara",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
     }
   ],
   "diplomatic_visits": [
@@ -57,116 +57,106 @@
   ],
   "elections": [
     {
+      "title": "Colombia, Peru Send Early Policy Signs to Extend Election Rally",
+      "country": "Colombia",
+      "election_type": "National",
+      "date": "",
+      "description": "Colombia, Peru Send Early Policy Signs to Extend Election Rally",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-21/colombia-peru-send-early-policy-signs-to-extend-election-rally"
+    },
+    {
+      "title": "Arizona’s primary elections: Which US races to watch and why they matter",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Arizona’s primary elections: Which US races to watch and why they matter",
+      "source_url": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss"
+    },
+    {
+      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
+      "source_url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary"
+    },
+    {
+      "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
+      "source_url": "https://www.foxnews.com/world/nicaragua-ortega-ends-elections"
+    },
+    {
       "title": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
       "source_url": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html"
-    },
-    {
-      "title": "We'll never have elections again, says long-serving president",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "We'll never have elections again, says long-serving president",
-      "source_url": "https://news.sky.com/story/nicaraguan-president-declares-country-will-never-hold-elections-again-13565457"
-    },
-    {
-      "title": "Nicaragua’s Ortega moves to extend 20-year rule, says no elections anytime soon",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nicaragua’s Ortega moves to extend 20-year rule, says no elections anytime soon",
-      "source_url": "https://abcnews.com/International/wireStory/nicaraguas-president-ortega-moves-extend-20-year-rule-134932447"
-    },
-    {
-      "title": "Nicaragua’s president says country will not hold any more elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nicaragua’s president says country will not hold any more elections",
-      "source_url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections"
-    },
-    {
-      "title": "Gaza residents weigh in on election of new Hamas leader",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Gaza residents weigh in on election of new Hamas leader",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
-      "summary": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
+      "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
+      "summary": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
+        "BBC World",
+        "The Guardian World"
+      ],
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+    },
+    {
+      "title": "Pentagon identifies US service member killed in Iranian attack on Iraq base",
+      "summary": "Pentagon identifies US service member killed in Iranian attack on Iraq base",
+      "outlets_covering": [
         "CBS News World",
         "NBC News World",
         "Fox News World",
-        "NYT World",
-        "The Independent",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 17,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/andy-burnham-new-uk-prime-minister-7th-in-decade-after-keir-starmer"
-    },
-    {
-      "title": "Flash floods kill at least 20 in Afghanistan and leave more than 100 missing",
-      "summary": "Flash floods kill at least 20 in Afghanistan and leave more than 100 missing",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/afghanistan-nuristan-province-flash-floods-kill-several-and-injure-many/article71247841.ece"
-    },
-    {
-      "title": "Merger deal between Paramount and Warner Bros paused by judge",
-      "summary": "Merger deal between Paramount and Warner Bros paused by judge",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The Seventeen U.S. Service Members Killed in the Iran War",
-      "summary": "The Seventeen U.S. Service Members Killed in the Iran War",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "NYT World",
-        "Time",
         "The Independent",
         "The Hill"
       ],
-      "coverage_count": 9,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://time.com/article/2026/07/20/us-service-members-killed-wounded-iran-war-casualties"
+      "source_url": "https://thehill.com/policy/defense/5979954-pentagon-identifies-us-soldier-killed-iraq-iran-war"
     },
     {
-      "title": "China’s Li congratulates Andy Burnham on becoming Britain’s new prime minister",
-      "summary": "China’s Li congratulates Andy Burnham on becoming Britain’s new prime minister",
+      "title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+      "summary": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
+        "ABC News Intl",
+        "Al Jazeera",
+        "DW World"
+      ],
+      "coverage_count": 6,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
+    },
+    {
+      "title": "West Asia war LIVE: U.S. strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz",
+      "summary": "West Asia war LIVE: U.S. strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz",
+      "outlets_covering": [
+        "CBC World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece"
+    },
+    {
+      "title": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
+      "summary": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
+      "outlets_covering": [
         "CBC World",
         "ABC News Intl",
         "CBS News World",
@@ -175,12 +165,13 @@
         "NYT World",
         "The Independent",
         "DW World",
-        "France24"
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 19,
-      "region": "China",
+      "coverage_count": 14,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.scmp.com/news/world/europe/article/3361261/chinas-li-congratulates-andy-burnham-becoming-britains-new-prime-minister"
+      "source_url": "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
     }
   ]
 }
