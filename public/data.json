@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-20T13:47:51.973025Z",
+  "last_updated": "2026-07-21T01:44:50.954054Z",
   "world_org_meetings": [
+    {
+      "title": "Myanmar’s future and Middle East fighting hang over ASEAN talks",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Myanmar’s future and Middle East fighting hang over ASEAN talks",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/21/asia-pacific/politics/myanmar-mideast-asean-talks"
+    },
+    {
+      "title": "Guterres to visit Cyprus as UN seeks to revive peace talks",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Guterres to visit Cyprus as UN seeks to revive peace talks",
+      "source_url": "https://www.dw.com/en/guterres-to-visit-cyprus-as-un-seeks-to-revive-peace-talks/a-78037819?maca=en-rss-en-world-4025-rdf"
+    },
     {
       "title": "ASEAN meetings offer chance of China-Japan encounter — for better or worse",
       "organization": "ASEAN",
@@ -8,14 +24,6 @@
       "location": "",
       "description": "ASEAN meetings offer chance of China-Japan encounter — for better or worse",
       "source_url": "https://www.japantimes.co.jp/news/2026/07/20/japan/politics/japan-china-motegi-wang-asean"
-    },
-    {
-      "title": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
-      "source_url": "https://thehill.com/homenews/state-watch/5976307-mamdani-floats-arresting-netanyahu-if-he-visits-nyc-for-un-general-assembly"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -32,55 +40,67 @@
       "location": "",
       "description": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine"
-    },
-    {
-      "title": "Eleven takeaways from the NATO Summit in Ankara",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Eleven takeaways from the NATO Summit in Ankara",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
+      "participants": [
+        "Russian President Putin",
+        "North Korean"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
+      "source_url": "https://www.independent.co.uk/news/world/americas/vladimir-putin-kim-jong-un-pyongyang-ukraine-south-korea-b3018497.html"
+    }
+  ],
   "elections": [
     {
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "source_url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election"
-    },
-    {
-      "title": "Will Taiwan’s food safety scandal wreck the ruling DPP’s local election hopes?",
-      "country": "Taiwan",
-      "election_type": "Local",
-      "date": "",
-      "description": "Will Taiwan’s food safety scandal wreck the ruling DPP’s local election hopes?",
-      "source_url": "https://www.scmp.com/news/china/politics/article/3361033/will-taiwans-food-safety-scandal-wreck-dpps-local-election-hopes"
-    },
-    {
-      "title": "Many allegations, little evidence: unpacking the China election-interference records",
+      "title": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Many allegations, little evidence: unpacking the China election-interference records",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records"
+      "description": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
+      "source_url": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html"
     },
     {
-      "title": "Israel's Parliament dissolves ahead of October 27 elections",
-      "country": "Israel",
-      "election_type": "Parliamentary",
+      "title": "We'll never have elections again, says long-serving president",
+      "country": "",
+      "election_type": "National",
       "date": "",
-      "description": "Israel's Parliament dissolves ahead of October 27 elections",
-      "source_url": "https://www.thehindu.com/news/international/israels-parliament-dissolves-ahead-of-october-27-elections/article71235656.ece"
+      "description": "We'll never have elections again, says long-serving president",
+      "source_url": "https://news.sky.com/story/nicaraguan-president-declares-country-will-never-hold-elections-again-13565457"
+    },
+    {
+      "title": "Nicaragua’s Ortega moves to extend 20-year rule, says no elections anytime soon",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Nicaragua’s Ortega moves to extend 20-year rule, says no elections anytime soon",
+      "source_url": "https://abcnews.com/International/wireStory/nicaraguas-president-ortega-moves-extend-20-year-rule-134932447"
+    },
+    {
+      "title": "Nicaragua’s president says country will not hold any more elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Nicaragua’s president says country will not hold any more elections",
+      "source_url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections"
+    },
+    {
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Gaza residents weigh in on election of new Hamas leader",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Andy Burnham officially becomes British prime minister",
-      "summary": "Andy Burnham officially becomes British prime minister",
+      "title": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
+      "summary": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
       "outlets_covering": [
         "NPR World",
         "CBC World",
@@ -89,75 +109,78 @@
         "NBC News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
+        "The Independent",
         "DW World",
         "France24"
       ],
-      "coverage_count": 15,
+      "coverage_count": 17,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/uk-burnham-pm-king-charles-starmer-9.7276160?cmp=rss"
+      "source_url": "https://www.cbsnews.com/news/andy-burnham-new-uk-prime-minister-7th-in-decade-after-keir-starmer"
     },
     {
-      "title": "Pentagon identifies 2 US service members killed in Iran attack on Jordan base",
-      "summary": "Pentagon identifies 2 US service members killed in Iran attack on Jordan base",
+      "title": "Flash floods kill at least 20 in Afghanistan and leave more than 100 missing",
+      "summary": "Flash floods kill at least 20 in Afghanistan and leave more than 100 missing",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Hill"
-      ],
-      "coverage_count": 10,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/defense/5977739-iranian-attack-kills-two-us-soldiers"
-    },
-    {
-      "title": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live",
-      "summary": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
-    },
-    {
-      "title": "At least six dead after earthquake hits Peru's Andes",
-      "summary": "At least six dead after earthquake hits Peru's Andes",
-      "outlets_covering": [
-        "CBC World",
         "ABC News Intl",
-        "Fox News World",
         "The Guardian World",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 6,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.france24.com/en/at-least-six-dead-after-earthquake-hits-peru-s-andes"
-    },
-    {
-      "title": "At least 930 people have died in Congo's Ebola outbreak",
-      "summary": "At least 930 people have died in Congo's Ebola outbreak",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.thehindu.com/news/international/at-least-930-people-have-died-in-congos-ebola-outbreak/article71244225.ece"
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.thehindu.com/news/international/afghanistan-nuristan-province-flash-floods-kill-several-and-injure-many/article71247841.ece"
+    },
+    {
+      "title": "Merger deal between Paramount and Warner Bros paused by judge",
+      "summary": "Merger deal between Paramount and Warner Bros paused by judge",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The Seventeen U.S. Service Members Killed in the Iran War",
+      "summary": "The Seventeen U.S. Service Members Killed in the Iran War",
+      "outlets_covering": [
+        "NPR World",
+        "NBC News World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/07/20/us-service-members-killed-wounded-iran-war-casualties"
+    },
+    {
+      "title": "China’s Li congratulates Andy Burnham on becoming Britain’s new prime minister",
+      "summary": "China’s Li congratulates Andy Burnham on becoming Britain’s new prime minister",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Independent",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 19,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.scmp.com/news/world/europe/article/3361261/chinas-li-congratulates-andy-burnham-becoming-britains-new-prime-minister"
     }
   ]
 }
