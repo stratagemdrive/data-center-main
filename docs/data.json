@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T13:16:05.499483Z",
+  "last_updated": "2026-07-22T01:43:53.402609Z",
   "world_org_meetings": [
     {
       "title": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
       "source_url": "https://www.scmp.com/news/china/politics/article/3361329/perfume-ban-no-fly-zone-apec-summit-looms-shenzhen-ramping-security"
-    },
-    {
-      "title": "Guterres to visit Cyprus as UN seeks to revive peace talks",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Guterres to visit Cyprus as UN seeks to revive peace talks",
-      "source_url": "https://www.dw.com/en/guterres-to-visit-cyprus-as-un-seeks-to-revive-peace-talks/a-78037819?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -40,45 +32,41 @@
       "location": "",
       "description": "Eleven takeaways from the NATO Summit in Ankara",
       "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
-    }
-  ],
-  "diplomatic_visits": [
+    },
     {
-      "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
-      "participants": [
-        "Russian President Putin",
-        "North Korean"
-      ],
+      "title": "Was the NATO Summit a success?",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
-      "source_url": "https://www.independent.co.uk/news/world/americas/vladimir-putin-kim-jong-un-pyongyang-ukraine-south-korea-b3018497.html"
+      "description": "Was the NATO Summit a success?",
+      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
     }
   ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Colombia, Peru Send Early Policy Signs to Extend Election Rally",
-      "country": "Colombia",
-      "election_type": "National",
-      "date": "",
-      "description": "Colombia, Peru Send Early Policy Signs to Extend Election Rally",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-07-21/colombia-peru-send-early-policy-signs-to-extend-election-rally"
-    },
-    {
-      "title": "Arizona’s primary elections: Which US races to watch and why they matter",
+      "title": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Arizona’s primary elections: Which US races to watch and why they matter",
-      "source_url": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss"
+      "description": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
+      "source_url": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections"
     },
     {
-      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
+      "title": "Nicaragua’s Ortega moves to abolish elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
-      "source_url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary"
+      "description": "Nicaragua’s Ortega moves to abolish elections",
+      "source_url": "https://thehill.com/policy/international/5980908-nicaragua-daniel-ortega-presidential-elections"
+    },
+    {
+      "title": "Don’t listen to Democrats whining about election interference",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Don’t listen to Democrats whining about election interference",
+      "source_url": "https://thehill.com/opinion/campaign/5978726-us-election-decentralization-explained"
     },
     {
       "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
@@ -89,89 +77,89 @@
       "source_url": "https://www.foxnews.com/world/nicaragua-ortega-ends-elections"
     },
     {
-      "title": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
       "country": "",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
-      "source_url": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html"
+      "description": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "source_url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election"
     }
   ],
   "global_events": [
     {
-      "title": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
-      "summary": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
+      "title": "Zelenskyy replaces Ukraine military chief after protests",
+      "summary": "Zelenskyy replaces Ukraine military chief after protests",
       "outlets_covering": [
-        "BBC World",
-        "The Guardian World"
-      ],
-      "coverage_count": 2,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
-    },
-    {
-      "title": "Pentagon identifies US service member killed in Iranian attack on Iraq base",
-      "summary": "Pentagon identifies US service member killed in Iranian attack on Iraq base",
-      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "Fox News World",
-        "The Independent",
-        "The Hill"
+        "The Guardian World",
+        "Al Jazeera"
       ],
       "coverage_count": 7,
-      "region": "Middle East",
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://thehill.com/policy/defense/5979954-pentagon-identifies-us-soldier-killed-iraq-iran-war"
+      "source_url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss"
     },
     {
-      "title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-      "summary": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+      "title": "India’s youth-led Cockroach movement vows to continue protest after police crackdown",
+      "summary": "India’s youth-led Cockroach movement vows to continue protest after police crackdown",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "ABC News Intl",
-        "Al Jazeera",
         "DW World"
       ],
-      "coverage_count": 6,
+      "coverage_count": 5,
       "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
+      "source_url": "https://abcnews.com/International/wireStory/indias-youth-led-cockroach-movement-vows-continue-protest-134940487"
     },
     {
-      "title": "West Asia war LIVE: U.S. strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz",
-      "summary": "West Asia war LIVE: U.S. strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "summary": "Zelensky sacks Ukraine's top army commander after days of protests",
       "outlets_covering": [
-        "CBC World",
-        "The Independent",
-        "The Hindu Intl"
+        "BBC World",
+        "CBS News World",
+        "NYT World"
       ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece"
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
-      "summary": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
+      "title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
+      "summary": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
       "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
+        "Sky News World",
+        "The Guardian World",
+        "The Independent",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth"
+    },
+    {
+      "title": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
+      "summary": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
+      "outlets_covering": [
         "CBS News World",
         "NBC News World",
         "Fox News World",
         "NYT World",
-        "The Independent",
         "DW World",
-        "France24",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 14,
+      "coverage_count": 10,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
+      "source_url": "https://www.cbsnews.com/news/andy-burnham-new-uk-prime-minister-7th-in-decade-after-keir-starmer"
     }
   ]
 }
