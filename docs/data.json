@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-22T01:43:53.402609Z",
+  "last_updated": "2026-07-22T13:21:19.479990Z",
   "world_org_meetings": [
+    {
+      "title": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss"
+    },
     {
       "title": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
       "organization": "APEC",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Eleven takeaways from the NATO Summit in Ankara",
       "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
-    },
-    {
-      "title": "Was the NATO Summit a success?",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Was the NATO Summit a success?",
-      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
     }
   ],
   "diplomatic_visits": [],
@@ -53,20 +53,20 @@
       "source_url": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections"
     },
     {
+      "title": "Upper House panel approves referendum reform bill",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Upper House panel approves referendum reform bill",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/22/japan/politics/referendum-reform-bill"
+    },
+    {
       "title": "Nicaragua’s Ortega moves to abolish elections",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Nicaragua’s Ortega moves to abolish elections",
       "source_url": "https://thehill.com/policy/international/5980908-nicaragua-daniel-ortega-presidential-elections"
-    },
-    {
-      "title": "Don’t listen to Democrats whining about election interference",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Don’t listen to Democrats whining about election interference",
-      "source_url": "https://thehill.com/opinion/campaign/5978726-us-election-decentralization-explained"
     },
     {
       "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
@@ -87,79 +87,80 @@
   ],
   "global_events": [
     {
-      "title": "Zelenskyy replaces Ukraine military chief after protests",
-      "summary": "Zelenskyy replaces Ukraine military chief after protests",
+      "title": "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
+      "summary": "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
       "outlets_covering": [
+        "BBC World",
         "NPR World",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "NBC News World",
-        "The Guardian World",
         "Al Jazeera"
       ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss"
-    },
-    {
-      "title": "India’s youth-led Cockroach movement vows to continue protest after police crackdown",
-      "summary": "India’s youth-led Cockroach movement vows to continue protest after police crackdown",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "ABC News Intl",
-        "DW World"
-      ],
-      "coverage_count": 5,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/indias-youth-led-cockroach-movement-vows-continue-protest-134940487"
-    },
-    {
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "summary": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NYT World"
-      ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/zelenskyy-replaces-ukraines-commander-in-chief-after-days-of-protests?traffic_source=rss"
     },
     {
-      "title": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
-      "summary": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
+      "title": "Nuclear deal with Saudi Arabia may allow uranium enrichment: Report",
+      "summary": "Nuclear deal with Saudi Arabia may allow uranium enrichment: Report",
       "outlets_covering": [
-        "Sky News World",
-        "The Guardian World",
-        "The Independent",
-        "Japan Times"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/uk-news/2026/jul/21/russian-warship-carries-out-live-fire-exercise-uk-coast-neustrashimy-plymouth"
-    },
-    {
-      "title": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
-      "summary": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
-      "outlets_covering": [
-        "CBS News World",
+        "CBC World",
         "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "DW World",
         "The Hindu Intl",
-        "SCMP"
+        "The Hill"
       ],
-      "coverage_count": 10,
-      "region": "Global",
+      "coverage_count": 4,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/andy-burnham-new-uk-prime-minister-7th-in-decade-after-keir-starmer"
+      "source_url": "https://thehill.com/policy/international/5982724-donald-trump-us-saudi-arabia-potential-nuclear-deal-uranium"
+    },
+    {
+      "title": "Why is Trump targeting Iran’s Pickaxe Mountain nuclear site? Here’s what we know",
+      "summary": "Why is Trump targeting Iran’s Pickaxe Mountain nuclear site? Here’s what we know",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/why-is-trump-targeting-iran-pickaxe-mountain-nuclear-site-july-2026-iran-us-escalations-strait-of-hormuz-news/article71252512.ece"
+    },
+    {
+      "title": "U.S. Secretary of Defence Pete Hegseth estimates cost of Iran war at $37.5 billion",
+      "summary": "U.S. Secretary of Defence Pete Hegseth estimates cost of Iran war at $37.5 billion",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/us-secretary-of-defence-pete-hegseth-estimates-cost-of-iran-war-at-375-billion/article71252254.ece"
+    },
+    {
+      "title": "Mamdani calls Netanyahu ‘a war criminal’ in new video - but admits he can’t arrest him",
+      "summary": "Mamdani calls Netanyahu ‘a war criminal’ in new video - but admits he can’t arrest him",
+      "outlets_covering": [
+        "Time",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/netanyahu-mamdani-arrest-warrant-trump-b3019255.html"
     }
   ]
 }
