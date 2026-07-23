@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-07-23T01:51:36.607751Z",
+  "last_updated": "2026-07-23T13:23:27.438490Z",
   "world_org_meetings": [
-    {
-      "title": "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
-      "organization": "ASEAN",
-      "date": "",
-      "location": "",
-      "description": "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
-      "source_url": "https://www.aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss"
-    },
     {
       "title": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
       "organization": "APEC",
@@ -40,6 +32,14 @@
       "location": "",
       "description": "Eleven takeaways from the NATO Summit in Ankara",
       "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
+    },
+    {
+      "title": "Was the NATO Summit a success?",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Was the NATO Summit a success?",
+      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
     }
   ],
   "diplomatic_visits": [
@@ -57,28 +57,12 @@
   ],
   "elections": [
     {
-      "title": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+      "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
       "country": "",
-      "election_type": "National",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
-      "source_url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss"
-    },
-    {
-      "title": "UN rights chief condemns Nicaragua’s decision to abolish elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "UN rights chief condemns Nicaragua’s decision to abolish elections",
-      "source_url": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss"
-    },
-    {
-      "title": "Upper House panel approves referendum reform bill",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Upper House panel approves referendum reform bill",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/22/japan/politics/referendum-reform-bill"
+      "description": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
+      "source_url": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration"
     },
     {
       "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
@@ -87,20 +71,12 @@
       "date": "",
       "description": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
       "source_url": "https://www.foxnews.com/world/nicaragua-ortega-ends-elections"
-    },
-    {
-      "title": "Nicaragua’s Ortega moves to extend 20-year rule, says no elections anytime soon",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nicaragua’s Ortega moves to extend 20-year rule, says no elections anytime soon",
-      "source_url": "https://abcnews.com/International/wireStory/nicaraguas-president-ortega-moves-extend-20-year-rule-134932447"
     }
   ],
   "global_events": [
     {
-      "title": "Trump signs nuclear sharing deal with Saudi Arabia in policy shift",
-      "summary": "Trump signs nuclear sharing deal with Saudi Arabia in policy shift",
+      "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
+      "summary": "U.S. signs commercial nuclear deal with Saudi Arabia",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -109,40 +85,19 @@
         "NBC News World",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera"
+        "Wash Post World",
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 23,
+      "coverage_count": 27,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/23/world/politics/trump-nuclear-saudi-arabia"
+      "source_url": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia"
     },
     {
-      "title": "US signs landmark nuclear deal with Saudi Arabia that could pave the way for domestic nuclear enrichment",
-      "summary": "US signs landmark nuclear deal with Saudi Arabia that could pave the way for domestic nuclear enrichment",
+      "title": "US signs nuclear agreement with Saudi Arabia that could allow uranium enrichment",
+      "summary": "US signs nuclear agreement with Saudi Arabia that could allow uranium enrichment",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times"
-      ],
-      "coverage_count": 17,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/22/trump-nuclear-agreement-saudi-arabia"
-    },
-    {
-      "title": "U.S. and Saudi Arabia sign nuclear cooperation deal",
-      "summary": "U.S. and Saudi Arabia sign nuclear cooperation deal",
-      "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
         "CBS News World",
@@ -150,49 +105,56 @@
         "Sky News World",
         "NYT World",
         "The Guardian World",
+        "Time",
         "The Independent",
-        "Al Jazeera"
+        "The Hindu Intl"
       ],
-      "coverage_count": 24,
+      "coverage_count": 16,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/us-saudi-arabia-nuclear-agreement-uranium-b3019888.html"
+    },
+    {
+      "title": "Oil prices leap to $100 a barrel after attacks in Red Sea",
+      "summary": "Oil prices leap to $100 a barrel after attacks in Red Sea",
+      "outlets_covering": [
+        "NBC News World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/world/2026/07/23/least-one-saudi-oil-tanker-is-attacked-red-sea-war-risks-widen"
+    },
+    {
+      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "summary": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "Times of India",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/us-deal-saudis-enrich-nuclear-program"
     },
     {
-      "title": "U.S. announces civilian nuclear deal with Saudi Arabia",
-      "summary": "U.S. announces civilian nuclear deal with Saudi Arabia",
+      "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
+      "summary": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
+        "ABC News Intl",
         "The Independent",
-        "Al Jazeera"
+        "The Hindu Intl"
       ],
-      "coverage_count": 24,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/us-announces-civilian-nuclear-deal-with-saudi-arabia/article71255445.ece"
-    },
-    {
-      "title": "Mamdani says he can’t arrest Netanyahu as mayor and urges US to enforce ICC warrant",
-      "summary": "Mamdani says he can’t arrest Netanyahu as mayor and urges US to enforce ICC warrant",
-      "outlets_covering": [
-        "CBC World",
-        "Fox News World",
-        "The Guardian World",
-        "Time",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
+      "coverage_count": 3,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/22/zohran-mamdani-netanyahu-arrest-new-york"
+      "source_url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865"
     }
   ]
 }
