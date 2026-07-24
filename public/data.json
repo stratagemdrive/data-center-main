@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-23T13:23:27.438490Z",
+  "last_updated": "2026-07-24T01:47:12.593170Z",
   "world_org_meetings": [
     {
-      "title": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
-      "organization": "APEC",
+      "title": "India invites Bangladesh PM to Brics Summit",
+      "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Perfume ban, no-fly zone – as Apec summit looms, Shenzhen ramps up security",
-      "source_url": "https://www.scmp.com/news/china/politics/article/3361329/perfume-ban-no-fly-zone-apec-summit-looms-shenzhen-ramping-security"
+      "description": "India invites Bangladesh PM to Brics Summit",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-invites-bangladesh-pm-to-brics-summit/articleshow/132594248.cms"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -57,6 +57,22 @@
   ],
   "elections": [
     {
+      "title": "How the US should respond to Ortega declaring no more elections in Nicaragua",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "How the US should respond to Ortega declaring no more elections in Nicaragua",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/how-the-us-should-respond-to-ortega-declaring-no-more-elections-in-nicaragua"
+    },
+    {
+      "title": "Nicaragua's legislature debates barring opposition from elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Nicaragua's legislature debates barring opposition from elections",
+      "source_url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
       "country": "",
       "election_type": "Parliamentary",
@@ -89,72 +105,76 @@
         "Time",
         "The Independent"
       ],
-      "coverage_count": 27,
+      "coverage_count": 32,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia"
     },
     {
-      "title": "US signs nuclear agreement with Saudi Arabia that could allow uranium enrichment",
-      "summary": "US signs nuclear agreement with Saudi Arabia that could allow uranium enrichment",
+      "title": "Trump vows to punish Iran for Houthi attacks in Red Sea as oil surges over $100",
+      "summary": "Trump vows to punish Iran for Houthi attacks in Red Sea as oil surges over $100",
       "outlets_covering": [
-        "NPR World",
         "CBC World",
+        "NBC News World",
+        "Wash Post World",
+        "Japan Times",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/24/world/trump-iran-red-sea-oil-surge"
+    },
+    {
+      "title": "Trump imposes new double-digit tariffs on dozens of countries",
+      "summary": "Trump imposes new double-digit tariffs on dozens of countries",
+      "outlets_covering": [
+        "BBC World",
+        "NBC News World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss"
+    },
+    {
+      "title": "Trump says Saudi nuclear deal subject to forming Israel ties",
+      "summary": "Trump says Saudi nuclear deal subject to forming Israel ties",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "CBS News World",
         "NBC News World",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
+        "Wash Post World",
         "Time",
         "The Independent",
-        "The Hindu Intl"
+        "Al Jazeera"
       ],
-      "coverage_count": 16,
+      "coverage_count": 27,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/us-saudi-arabia-nuclear-agreement-uranium-b3019888.html"
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/24/world/politics/us-saudi-nuclear-israel"
     },
     {
-      "title": "Oil prices leap to $100 a barrel after attacks in Red Sea",
-      "summary": "Oil prices leap to $100 a barrel after attacks in Red Sea",
-      "outlets_covering": [
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/07/23/least-one-saudi-oil-tanker-is-attacked-red-sea-war-risks-widen"
-    },
-    {
-      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
-      "summary": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "title": "India ‘cockroach’ activist Sonam Wangchuk ends hunger strike as protests spread",
+      "summary": "India ‘cockroach’ activist Sonam Wangchuk ends hunger strike as protests spread",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "Times of India",
-        "The Hindu Intl",
-        "The Hill"
+        "The Guardian World",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 6,
-      "region": "Middle East",
+      "coverage_count": 4,
+      "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/us-deal-saudis-enrich-nuclear-program"
-    },
-    {
-      "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
-      "summary": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865"
+      "source_url": "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike"
     }
   ]
 }
