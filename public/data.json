@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T01:47:09.994848Z",
+  "last_updated": "2026-07-25T13:00:38.725008Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -44,18 +44,38 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Lebanon's prime minister visits shattered border village as phased Israeli withdrawal begins",
+      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
       "participants": [
-        "Lebanon's",
-        "Israeli"
+        "Guterres",
+        "Syria"
       ],
       "date": "",
       "location": "",
-      "description": "Lebanon's prime minister visits shattered border village as phased Israeli withdrawal begins",
-      "source_url": "https://www.cbc.ca/news/world/southern-lebanon-israel-pilot-zones-9.7279515?cmp=rss"
+      "description": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "source_url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss"
+    },
+    {
+      "title": "President Donald Trump says Israeli PM Netanyahu to visit U.S. next week",
+      "participants": [
+        "President Donald Trump",
+        "Israeli PM Netanyahu",
+        "U.S"
+      ],
+      "date": "",
+      "location": "",
+      "description": "President Donald Trump says Israeli PM Netanyahu to visit U.S. next week",
+      "source_url": "https://www.thehindu.com/news/international/president-donald-trump-says-israeli-pm-netanyahu-to-visit-us-next-week/article71265315.ece"
     }
   ],
   "elections": [
+    {
+      "title": "Could you lose your right to vote if you bet on an election?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Could you lose your right to vote if you bet on an election?",
+      "source_url": "https://www.vox.com/politics/496759/wisconsin-kalshi-right-vote-bet-wager-new-york"
+    },
     {
       "title": "Can Pakistan-administered Kashmir elections calm tensions?",
       "country": "Pakistan",
@@ -87,17 +107,28 @@
       "date": "",
       "description": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
       "source_url": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration"
-    },
-    {
-      "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
-      "source_url": "https://www.foxnews.com/world/nicaragua-ortega-ends-elections"
     }
   ],
   "global_events": [
+    {
+      "title": "India education minister resigns after weeks of \"Cockroach\" protests",
+      "summary": "India education minister resigns after weeks of \"Cockroach\" protests",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "Times of India"
+      ],
+      "coverage_count": 9,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/india-protests-education-cockroach-party"
+    },
     {
       "title": "Law student charged after military-grade bomb intercepted near Irish border",
       "summary": "Law student charged after military-grade bomb intercepted near Irish border",
@@ -113,67 +144,47 @@
       "source_url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb"
     },
     {
+      "title": "How the World Is Reacting to Trump's 'Forced Labor' Tariffs",
+      "summary": "How the World Is Reacting to Trump's 'Forced Labor' Tariffs",
+      "outlets_covering": [
+        "NPR World",
+        "Time",
+        "DW World",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://time.com/article/2026/07/24/trump-forced-labor-tariffs-world-reaction"
+    },
+    {
+      "title": "Romania shoots down drone in its airspace for first time",
+      "summary": "Romania shoots down drone in its airspace for first time",
+      "outlets_covering": [
+        "Fox News World",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Technology",
+      "source_url": "https://www.thehindu.com/news/international/romania-shoots-down-drone-in-its-airspace-for-first-time/article71263656.ece"
+    },
+    {
       "title": "Indian Cockroach activist ends hunger strike after 26 days as protests spread",
       "summary": "Indian Cockroach activist ends hunger strike after 26 days as protests spread",
       "outlets_covering": [
         "NPR World",
-        "ABC News Intl",
         "NBC News World",
         "Sky News World",
         "NYT World",
         "The Guardian World"
       ],
-      "coverage_count": 6,
+      "coverage_count": 5,
       "region": "South Asia",
       "category": "Politics",
       "source_url": "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike"
-    },
-    {
-      "title": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
-      "summary": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Time",
-        "DW World",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "Atlantic Council",
-        "The Hill"
-      ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer"
-    },
-    {
-      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-      "summary": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-      "outlets_covering": [
-        "NBC News World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss"
-    },
-    {
-      "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
-      "summary": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Independent",
-        "DW World"
-      ],
-      "coverage_count": 3,
-      "region": "Europe",
-      "category": "Economy",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs"
     }
   ]
 }
