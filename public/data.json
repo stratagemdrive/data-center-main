@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T13:16:55.121408Z",
+  "last_updated": "2026-07-25T01:47:09.994848Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -57,6 +57,14 @@
   ],
   "elections": [
     {
+      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "country": "Pakistan",
+      "election_type": "National",
+      "date": "",
+      "description": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "source_url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "The End of Elections in Nicaragua",
       "country": "",
       "election_type": "National",
@@ -71,14 +79,6 @@
       "date": "",
       "description": "How the US should respond to Ortega declaring no more elections in Nicaragua",
       "source_url": "https://www.atlanticcouncil.org/dispatches/how-the-us-should-respond-to-ortega-declaring-no-more-elections-in-nicaragua"
-    },
-    {
-      "title": "Nicaragua's legislature debates barring opposition from elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nicaragua's legislature debates barring opposition from elections",
-      "source_url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
@@ -99,90 +99,81 @@
   ],
   "global_events": [
     {
-      "title": "Four Palestinians and one Israeli killed during West Bank settler attack",
-      "summary": "Four Palestinians and one Israeli killed during West Bank settler attack",
+      "title": "Law student charged after military-grade bomb intercepted near Irish border",
+      "summary": "Law student charged after military-grade bomb intercepted near Irish border",
       "outlets_covering": [
+        "ABC News Intl",
+        "Sky News World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "UN News"
+        "The Independent"
       ],
       "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting"
-    },
-    {
-      "title": "US allies hit with new tariffs object to Trump's forced labor claims",
-      "summary": "US allies hit with new tariffs object to Trump's forced labor claims",
-      "outlets_covering": [
-        "NPR World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "Japan Times"
-      ],
-      "coverage_count": 6,
       "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction"
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb"
     },
     {
-      "title": "U.S. announces civilian nuclear deal with Saudi Arabia",
-      "summary": "U.S. announces civilian nuclear deal with Saudi Arabia",
+      "title": "Indian Cockroach activist ends hunger strike after 26 days as protests spread",
+      "summary": "Indian Cockroach activist ends hunger strike after 26 days as protests spread",
       "outlets_covering": [
         "NPR World",
-        "CBC World",
-        "CBS News World",
+        "ABC News Intl",
         "NBC News World",
         "Sky News World",
         "NYT World",
-        "Time",
-        "The Independent",
-        "Al Jazeera",
-        "DW World"
-      ],
-      "coverage_count": 25,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/us-announces-civilian-nuclear-deal-with-saudi-arabia/article71255445.ece"
-    },
-    {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike",
-      "summary": "Indian activist Wangchuk ends 26-day hunger strike",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera"
+        "The Guardian World"
       ],
       "coverage_count": 6,
       "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss"
+      "source_url": "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike"
     },
     {
-      "title": "Trump says Saudi nuclear deal subject to forming Israel ties",
-      "summary": "Trump says Saudi nuclear deal subject to forming Israel ties",
+      "title": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
+      "summary": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
+        "CBC World",
         "CBS News World",
         "NBC News World",
-        "Sky News World",
         "NYT World",
         "Time",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times"
+        "DW World",
+        "The Hindu Intl",
+        "Foreign Policy",
+        "Atlantic Council",
+        "The Hill"
       ],
-      "coverage_count": 21,
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/24/world/politics/us-saudi-nuclear-israel"
+      "source_url": "https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer"
+    },
+    {
+      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "summary": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "outlets_covering": [
+        "NBC News World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss"
+    },
+    {
+      "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+      "summary": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Independent",
+        "DW World"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Economy",
+      "source_url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs"
     }
   ]
 }
