@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-25T13:00:38.725008Z",
+  "last_updated": "2026-07-26T01:50:13.005253Z",
   "world_org_meetings": [
+    {
+      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss"
+    },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
       "organization": "NATO",
@@ -32,28 +40,9 @@
       "location": "",
       "description": "Was the NATO Summit a success?",
       "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
-    },
-    {
-      "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-      "participants": [
-        "Guterres",
-        "Syria"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-      "source_url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss"
-    },
     {
       "title": "President Donald Trump says Israeli PM Netanyahu to visit U.S. next week",
       "participants": [
@@ -68,6 +57,14 @@
     }
   ],
   "elections": [
+    {
+      "title": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
+      "source_url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html"
+    },
     {
       "title": "Could you lose your right to vote if you bet on an election?",
       "country": "",
@@ -99,92 +96,77 @@
       "date": "",
       "description": "How the US should respond to Ortega declaring no more elections in Nicaragua",
       "source_url": "https://www.atlanticcouncil.org/dispatches/how-the-us-should-respond-to-ortega-declaring-no-more-elections-in-nicaragua"
-    },
-    {
-      "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
-      "source_url": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration"
     }
   ],
   "global_events": [
     {
-      "title": "India education minister resigns after weeks of \"Cockroach\" protests",
-      "summary": "India education minister resigns after weeks of \"Cockroach\" protests",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "India's 'cockroach' protest called off after education minister quits",
       "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
+        "BBC World",
         "CBS News World",
-        "NBC News World",
         "Sky News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "Times of India"
+        "Time"
       ],
-      "coverage_count": 9,
+      "coverage_count": 7,
       "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/india-protests-education-cockroach-party"
+      "source_url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Law student charged after military-grade bomb intercepted near Irish border",
-      "summary": "Law student charged after military-grade bomb intercepted near Irish border",
+      "title": "Intern arrested in Belgium on suspicion of spying inside NATO military headquarters",
+      "summary": "Intern arrested in Belgium on suspicion of spying inside NATO military headquarters",
       "outlets_covering": [
         "ABC News Intl",
-        "Sky News World",
-        "The Guardian World",
-        "The Independent"
+        "NYT World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Global",
+      "coverage_count": 3,
+      "region": "Europe",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb"
+      "source_url": "https://abcnews.com/International/wireStory/intern-arrested-belgium-suspicion-spying-inside-nato-military-135086561"
     },
     {
-      "title": "How the World Is Reacting to Trump's 'Forced Labor' Tariffs",
-      "summary": "How the World Is Reacting to Trump's 'Forced Labor' Tariffs",
+      "title": "Iran-US war latest: Houthis claim missile attack on Saudi Arabia as Trump insists Tehran can’t have a nuclear weapon",
+      "summary": "Iran-US war latest: Houthis claim missile attack on Saudi Arabia as Trump insists Tehran can’t have a nuclear weapon",
       "outlets_covering": [
-        "NPR World",
-        "Time",
-        "DW World",
-        "The Hill"
+        "BBC World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Foreign Policy"
       ],
       "coverage_count": 5,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://time.com/article/2026/07/24/trump-forced-labor-tariffs-world-reaction"
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-houthis-nuclear-weapon-oil-hormuz-b3021379.html"
     },
     {
-      "title": "Romania shoots down drone in its airspace for first time",
-      "summary": "Romania shoots down drone in its airspace for first time",
+      "title": "Romania shoots down unidentified drone breaching its airspace",
+      "summary": "Romania shoots down unidentified drone breaching its airspace",
       "outlets_covering": [
         "Fox News World",
-        "The Independent",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Global",
       "category": "Technology",
-      "source_url": "https://www.thehindu.com/news/international/romania-shoots-down-drone-in-its-airspace-for-first-time/article71263656.ece"
+      "source_url": "https://thehill.com/policy/international/5988592-romanian-army-investigates-iran-design-drone"
     },
     {
-      "title": "Indian Cockroach activist ends hunger strike after 26 days as protests spread",
-      "summary": "Indian Cockroach activist ends hunger strike after 26 days as protests spread",
+      "title": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say",
+      "summary": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say",
       "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World"
+        "CBC World",
+        "CBS News World"
       ],
-      "coverage_count": 5,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike"
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/berlin-lgbtq-pride-car-crash"
     }
   ]
 }
