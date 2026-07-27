@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T01:57:51.502354Z",
+  "last_updated": "2026-07-27T14:09:42.511876Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -44,15 +44,16 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "U.S. halts strikes on Iran as diplomatic talks move in positive direction",
+      "title": "Britain's new PM Burnham to host Zelensky for first visit by a foreign leader",
       "participants": [
-        "U.S",
-        "Iran"
+        "Britain's",
+        "Burnham",
+        "Zelensky"
       ],
       "date": "",
       "location": "",
-      "description": "U.S. halts strikes on Iran as diplomatic talks move in positive direction",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-middle-east"
+      "description": "Britain's new PM Burnham to host Zelensky for first visit by a foreign leader",
+      "source_url": "https://www.france24.com/en/europe/20260727-burnham-to-welcome-zelensky-on-first-foreign-leader-visit-to-london-since-taking-office"
     },
     {
       "title": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
@@ -63,28 +64,24 @@
       "location": "",
       "description": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
       "source_url": "https://www.cbsnews.com/video/2-day-pause-in-iran-strikes-linked-to-progress-in-diplomatic-talks-sources-say"
-    },
-    {
-      "title": "President Donald Trump says Israeli PM Netanyahu to visit U.S. next week",
-      "participants": [
-        "President Donald Trump",
-        "Israeli PM Netanyahu",
-        "U.S"
-      ],
-      "date": "",
-      "location": "",
-      "description": "President Donald Trump says Israeli PM Netanyahu to visit U.S. next week",
-      "source_url": "https://www.thehindu.com/news/international/president-donald-trump-says-israeli-pm-netanyahu-to-visit-us-next-week/article71265315.ece"
     }
   ],
   "elections": [
     {
-      "title": "Brazil's government denies visas to US officials over upcoming elections",
-      "country": "Brazil",
+      "title": "South Korea’s ex-president found guilty of election disinformation",
+      "country": "South Korea",
       "election_type": "National",
       "date": "",
-      "description": "Brazil's government denies visas to US officials over upcoming elections",
-      "source_url": "https://abcnews.com/International/wireStory/brazils-government-denies-visas-us-officials-upcoming-elections-135093852"
+      "description": "South Korea’s ex-president found guilty of election disinformation",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/27/asia-pacific/south-korea-ex-president-guilty-disinformation"
+    },
+    {
+      "title": "Wildfires ravage Europe | Could Burnham call early election?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Wildfires ravage Europe | Could Burnham call early election?",
+      "source_url": "https://news.sky.com/story/wildfires-ravage-europe-could-burnham-call-early-election-13567271"
     },
     {
       "title": "100 days out from Election Day, our insider shares his intel",
@@ -109,102 +106,90 @@
       "date": "",
       "description": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
       "source_url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html"
-    },
-    {
-      "title": "Could you lose your right to vote if you bet on an election?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Could you lose your right to vote if you bet on an election?",
-      "source_url": "https://www.vox.com/politics/496759/wisconsin-kalshi-right-vote-bet-wager-new-york"
     }
   ],
   "global_events": [
     {
-      "title": "What to know about the Berlin Pride attack and the suspect killed by police",
-      "summary": "What to know about the Berlin Pride attack and the suspect killed by police",
+      "title": "Suspect in Berlin Pride attack shot dead by police",
+      "summary": "Suspect in Berlin Pride attack shot dead by police",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
         "Time",
         "The Independent"
       ],
-      "coverage_count": 28,
+      "coverage_count": 24,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/what-to-know-about-the-berlin-pride-attack-and-the-suspect-killed-by-police"
+      "source_url": "https://www.france24.com/en/video/20260727-suspect-in-berlin-pride-attack-shot-dead-by-police"
     },
     {
-      "title": "Berlin Pride attack suspect killed by police after manhunt",
-      "summary": "Berlin Pride attack suspect killed by police after manhunt",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Time",
-        "The Independent"
-      ],
-      "coverage_count": 27,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/27/world/crime-legal/berlin-pride-attack-manhunt"
-    },
-    {
-      "title": "Search for 17 missing crew after Vietnamese cargo ship sinks in South China Sea",
-      "summary": "Search for 17 missing crew after Vietnamese cargo ship sinks in South China Sea",
+      "title": "15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea",
+      "summary": "15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea",
       "outlets_covering": [
         "ABC News Intl",
-        "Al Jazeera",
-        "Japan Times",
+        "NYT World",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 6,
+      "coverage_count": 5,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/vietnamese-cargo-ship-sinks-in-south-china-sea/article71270513.ece"
+      "source_url": "https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html"
     },
     {
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "summary": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "title": "Honduran ex-president returns home after Trump pardon",
+      "summary": "Honduran ex-president returns home after Trump pardon",
       "outlets_covering": [
-        "BBC World",
         "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Germany: Berlin Pride attack believed to be an act of Islamic extremist terror",
-      "summary": "Germany: Berlin Pride attack believed to be an act of Islamic extremist terror",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "NBC News World",
-        "NYT World",
-        "The Independent",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 9,
-      "region": "Europe",
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260727-honduran-ex-president-returns-home-after-trump-pardon"
+    },
+    {
+      "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+      "summary": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Independent",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 15,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/germany-berlin-pride-attack-believed-to-be-an-act-of-islamic-extremist-terror"
+      "source_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
+    },
+    {
+      "title": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy",
+      "summary": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Bloomberg",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.nbcnews.com/world/iran/oil-prices-slide-us-iran-pause-strikes-trump-diplomacy-hormuz-red-sea-rcna589383"
     }
   ]
 }
