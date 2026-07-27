@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T12:57:36.876536Z",
+  "last_updated": "2026-07-27T01:57:51.502354Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -43,6 +43,27 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "U.S. halts strikes on Iran as diplomatic talks move in positive direction",
+      "participants": [
+        "U.S",
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "U.S. halts strikes on Iran as diplomatic talks move in positive direction",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-middle-east"
+    },
+    {
+      "title": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
+      "participants": [
+        "Iran"
+      ],
+      "date": "",
+      "location": "",
+      "description": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
+      "source_url": "https://www.cbsnews.com/video/2-day-pause-in-iran-strikes-linked-to-progress-in-diplomatic-talks-sources-say"
+    },
     {
       "title": "President Donald Trump says Israeli PM Netanyahu to visit U.S. next week",
       "participants": [
@@ -100,83 +121,90 @@
   ],
   "global_events": [
     {
-      "title": "Israeli settlers set fire to West Bank mosques after deadly clash",
-      "summary": "Israeli settlers set fire to West Bank mosques after deadly clash",
+      "title": "What to know about the Berlin Pride attack and the suspect killed by police",
+      "summary": "What to know about the Berlin Pride attack and the suspect killed by police",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/israeli-settlers-set-fire-to-west-bank-mosques-after-deadly-clash/article71269221.ece"
-    },
-    {
-      "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
-      "summary": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
-      "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 9,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
-    },
-    {
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "summary": "India's 'cockroach' protest called off after education minister quits",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "Sky News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
         "Time",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 9,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Berlin Pride attack latest: Car ramming likely an ‘Islamist attack’ by German citizen, official says as manhunt continues",
-      "summary": "Berlin Pride attack latest: Car ramming likely an ‘Islamist attack’ by German citizen, official says as manhunt continues",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
         "The Independent"
       ],
-      "coverage_count": 5,
+      "coverage_count": 28,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/berlin-pride-attack-parade-suspect-abdul-b-car-latest-news-b3021647.html"
+      "source_url": "https://www.cbsnews.com/video/what-to-know-about-the-berlin-pride-attack-and-the-suspect-killed-by-police"
     },
     {
-      "title": "Eighteen people missing in South China Sea after Vietnamese ship sank",
-      "summary": "Eighteen people missing in South China Sea after Vietnamese ship sank",
+      "title": "Berlin Pride attack suspect killed by police after manhunt",
+      "summary": "Berlin Pride attack suspect killed by police after manhunt",
       "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "The Independent"
+      ],
+      "coverage_count": 27,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/27/world/crime-legal/berlin-pride-attack-manhunt"
+    },
+    {
+      "title": "Search for 17 missing crew after Vietnamese cargo ship sinks in South China Sea",
+      "summary": "Search for 17 missing crew after Vietnamese cargo ship sinks in South China Sea",
+      "outlets_covering": [
+        "ABC News Intl",
         "Al Jazeera",
         "Japan Times",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/7/26/eighteen-people-missing-in-south-china-sea-after-vietnamese-ship-sank?traffic_source=rss"
+      "source_url": "https://www.thehindu.com/news/international/vietnamese-cargo-ship-sinks-in-south-china-sea/article71270513.ece"
+    },
+    {
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "summary": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Germany: Berlin Pride attack believed to be an act of Islamic extremist terror",
+      "summary": "Germany: Berlin Pride attack believed to be an act of Islamic extremist terror",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "NBC News World",
+        "NYT World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/germany-berlin-pride-attack-believed-to-be-an-act-of-islamic-extremist-terror"
     }
   ]
 }
