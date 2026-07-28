@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-28T01:40:43.353173Z",
+  "last_updated": "2026-07-28T13:29:39.703722Z",
   "world_org_meetings": [
     {
-      "title": "US walks out of UN Security Council meeting as France condemns rights vote",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
       "organization": "UN",
       "date": "",
       "location": "",
-      "description": "US walks out of UN Security Council meeting as France condemns rights vote",
-      "source_url": "https://www.france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote"
+      "description": "US walks out of UN Security Council meeting during France's remarks",
+      "source_url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -44,6 +44,17 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Iraq's new prime minister visits Turkey for talks on pipeline and security",
+      "participants": [
+        "Iraq's",
+        "Turkey"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Iraq's new prime minister visits Turkey for talks on pipeline and security",
+      "source_url": "https://abcnews.com/International/wireStory/iraqs-new-prime-minister-visits-turkey-talks-pipeline-135147189"
+    },
+    {
       "title": "French president pledges support on visit to fire zone",
       "participants": [
         "French"
@@ -66,28 +77,12 @@
   ],
   "elections": [
     {
-      "title": "Haiti schedules December presidential election despite security concerns",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Haiti schedules December presidential election despite security concerns",
-      "source_url": "https://www.france24.com/en/americas/20260727-haiti-sets-december-presidential-election-despite-security-concerns"
-    },
-    {
-      "title": "South Korea’s ex-president found guilty of election disinformation",
-      "country": "South Korea",
+      "title": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
+      "country": "Pakistan",
       "election_type": "National",
       "date": "",
-      "description": "South Korea’s ex-president found guilty of election disinformation",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/27/asia-pacific/south-korea-ex-president-guilty-disinformation"
-    },
-    {
-      "title": "Wildfires ravage Europe | Could Burnham call early election?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Wildfires ravage Europe | Could Burnham call early election?",
-      "source_url": "https://news.sky.com/story/wildfires-ravage-europe-could-burnham-call-early-election-13567271"
+      "description": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
     },
     {
       "title": "100 days out from Election Day, our insider shares his intel",
@@ -104,62 +99,56 @@
       "date": "",
       "description": "Can Pakistan-administered Kashmir elections calm tensions?",
       "source_url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
+      "source_url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html"
+    },
+    {
+      "title": "The surprising Wisconsin law that blocks election bettors from voting",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "The surprising Wisconsin law that blocks election bettors from voting",
+      "source_url": "https://www.vox.com/politics/496759/wisconsin-kalshi-right-vote-bet-wager-new-york"
     }
   ],
   "global_events": [
     {
-      "title": "Suspect in Berlin Pride attack shot dead by police",
-      "summary": "Suspect in Berlin Pride attack shot dead by police",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "Time",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 20,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260727-suspect-in-berlin-pride-attack-shot-dead-by-police"
-    },
-    {
-      "title": "Berlin Pride Attack Suspect Dies in Police Confrontation After Daylong Manhunt",
-      "summary": "Berlin Pride Attack Suspect Dies in Police Confrontation After Daylong Manhunt",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "Time",
-        "DW World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 16,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt"
-    },
-    {
-      "title": "15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea",
-      "summary": "15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea",
+      "title": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
+      "summary": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
       "outlets_covering": [
         "ABC News Intl",
         "NYT World",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "China",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html"
+      "source_url": "https://abcnews.com/International/wireStory/survivors-rise-48-missing-after-vietnamese-ship-sinks-135143274"
+    },
+    {
+      "title": "What to know about the Berlin Pride attack and the suspect killed by police",
+      "summary": "What to know about the Berlin Pride attack and the suspect killed by police",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "Time",
+        "DW World"
+      ],
+      "coverage_count": 15,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/what-to-know-about-the-berlin-pride-attack-and-the-suspect-killed-by-police"
     },
     {
       "title": "West Asia War updates: U.S. in 'very deep ‌talks with ‌Iran', ready for military action if diplomacy fails, says Trump",
@@ -169,22 +158,38 @@
         "The Hindu Intl",
         "Axios"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-july-27-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71271253.ece"
     },
     {
-      "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-      "summary": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+      "title": "People trapped and injured after powerful earthquake strikes Japan",
+      "summary": "People trapped and injured after powerful earthquake strikes Japan",
       "outlets_covering": [
-        "Al Jazeera",
-        "Japan Times"
+        "CBS News World",
+        "NBC News World",
+        "Wash Post World"
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued"
+    },
+    {
+      "title": "Trump to meet Netanyahu as his threat to resume strikes looms over Iran",
+      "summary": "Trump to meet Netanyahu as his threat to resume strikes looms over Iran",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "France24",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss"
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman"
     }
   ]
 }
