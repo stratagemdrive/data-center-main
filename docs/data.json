@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-27T14:09:42.511876Z",
+  "last_updated": "2026-07-28T01:40:43.353173Z",
   "world_org_meetings": [
+    {
+      "title": "US walks out of UN Security Council meeting as France condemns rights vote",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "US walks out of UN Security Council meeting as France condemns rights vote",
+      "source_url": "https://www.france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote"
+    },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
       "organization": "NATO",
@@ -32,28 +40,18 @@
       "location": "",
       "description": "Was the NATO Summit a success?",
       "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
-    },
-    {
-      "title": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "NATO can emerge from the Ankara summit stronger. Here’s how.",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/nato-can-emerge-from-the-ankara-summit-stronger-heres-how"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Britain's new PM Burnham to host Zelensky for first visit by a foreign leader",
+      "title": "French president pledges support on visit to fire zone",
       "participants": [
-        "Britain's",
-        "Burnham",
-        "Zelensky"
+        "French"
       ],
       "date": "",
       "location": "",
-      "description": "Britain's new PM Burnham to host Zelensky for first visit by a foreign leader",
-      "source_url": "https://www.france24.com/en/europe/20260727-burnham-to-welcome-zelensky-on-first-foreign-leader-visit-to-london-since-taking-office"
+      "description": "French president pledges support on visit to fire zone",
+      "source_url": "https://abcnews.com/International/wireStory/french-president-pledges-support-visit-fire-zone-vows-135127436"
     },
     {
       "title": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
@@ -67,6 +65,14 @@
     }
   ],
   "elections": [
+    {
+      "title": "Haiti schedules December presidential election despite security concerns",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Haiti schedules December presidential election despite security concerns",
+      "source_url": "https://www.france24.com/en/americas/20260727-haiti-sets-december-presidential-election-despite-security-concerns"
+    },
     {
       "title": "South Korea’s ex-president found guilty of election disinformation",
       "country": "South Korea",
@@ -98,14 +104,6 @@
       "date": "",
       "description": "Can Pakistan-administered Kashmir elections calm tensions?",
       "source_url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
-      "source_url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html"
     }
   ],
   "global_events": [
@@ -116,18 +114,38 @@
         "BBC World",
         "NPR World",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "NBC News World",
         "Fox News World",
         "NYT World",
         "Time",
-        "The Independent"
+        "DW World",
+        "France24"
       ],
-      "coverage_count": 24,
+      "coverage_count": 20,
       "region": "Global",
       "category": "Conflict",
       "source_url": "https://www.france24.com/en/video/20260727-suspect-in-berlin-pride-attack-shot-dead-by-police"
+    },
+    {
+      "title": "Berlin Pride Attack Suspect Dies in Police Confrontation After Daylong Manhunt",
+      "summary": "Berlin Pride Attack Suspect Dies in Police Confrontation After Daylong Manhunt",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "Time",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 16,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/07/26/berlin-pride-attack-suspect-dies-in-police-confrontation-after-daylong-manhunt"
     },
     {
       "title": "15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea",
@@ -144,52 +162,29 @@
       "source_url": "https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html"
     },
     {
-      "title": "Honduran ex-president returns home after Trump pardon",
-      "summary": "Honduran ex-president returns home after Trump pardon",
+      "title": "West Asia War updates: U.S. in 'very deep ‌talks with ‌Iran', ready for military action if diplomacy fails, says Trump",
+      "summary": "West Asia War updates: U.S. in 'very deep ‌talks with ‌Iran', ready for military action if diplomacy fails, says Trump",
       "outlets_covering": [
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260727-honduran-ex-president-returns-home-after-trump-pardon"
-    },
-    {
-      "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-      "summary": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "The Independent",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 15,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
-    },
-    {
-      "title": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy",
-      "summary": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Bloomberg",
-        "France24"
+        "The Guardian World",
+        "The Hindu Intl",
+        "Axios"
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.nbcnews.com/world/iran/oil-prices-slide-us-iran-pause-strikes-trump-diplomacy-hormuz-red-sea-rcna589383"
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-july-27-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71271253.ece"
+    },
+    {
+      "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+      "summary": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+      "outlets_covering": [
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 2,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss"
     }
   ]
 }
