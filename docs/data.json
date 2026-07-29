@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-28T13:29:39.703722Z",
+  "last_updated": "2026-07-29T01:42:03.897529Z",
   "world_org_meetings": [
+    {
+      "title": "US walks out on France at UN meeting to protest human rights criticism",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "US walks out on France at UN meeting to protest human rights criticism",
+      "source_url": "https://thehill.com/policy/international/5993955-us-diplomats-unsc-walkout"
+    },
     {
       "title": "US walks out of UN Security Council meeting during France's remarks",
       "organization": "UN",
@@ -32,14 +40,6 @@
       "location": "",
       "description": "Eleven takeaways from the NATO Summit in Ankara",
       "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
-    },
-    {
-      "title": "Was the NATO Summit a success?",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Was the NATO Summit a success?",
-      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
     }
   ],
   "diplomatic_visits": [
@@ -53,143 +53,117 @@
       "location": "",
       "description": "Iraq's new prime minister visits Turkey for talks on pipeline and security",
       "source_url": "https://abcnews.com/International/wireStory/iraqs-new-prime-minister-visits-turkey-talks-pipeline-135147189"
-    },
-    {
-      "title": "French president pledges support on visit to fire zone",
-      "participants": [
-        "French"
-      ],
-      "date": "",
-      "location": "",
-      "description": "French president pledges support on visit to fire zone",
-      "source_url": "https://abcnews.com/International/wireStory/french-president-pledges-support-visit-fire-zone-vows-135127436"
-    },
-    {
-      "title": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
-      "participants": [
-        "Iran"
-      ],
-      "date": "",
-      "location": "",
-      "description": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
-      "source_url": "https://www.cbsnews.com/video/2-day-pause-in-iran-strikes-linked-to-progress-in-diplomatic-talks-sources-say"
     }
   ],
   "elections": [
     {
-      "title": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
-      "country": "Pakistan",
+      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+      "country": "Peru",
       "election_type": "National",
       "date": "",
-      "description": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
+      "description": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+      "source_url": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated"
     },
     {
-      "title": "100 days out from Election Day, our insider shares his intel",
+      "title": "India slams POK elections, Pakistan's claims over Indus Valley legacy",
+      "country": "India",
+      "election_type": "National",
+      "date": "",
+      "description": "India slams POK elections, Pakistan's claims over Indus Valley legacy",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-slams-pok-elections-pakistans-claims-over-indus-valley-legacy/articleshow/132697250.cms"
+    },
+    {
+      "title": "Special election for Scott’s House seat in Georgia heads to runoff",
+      "country": "Georgia",
+      "election_type": "National",
+      "date": "",
+      "description": "Special election for Scott’s House seat in Georgia heads to runoff",
+      "source_url": "https://thehill.com/homenews/campaign/5972356-marcye-scott-special-election-runoff"
+    },
+    {
+      "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
+      "country": "",
+      "election_type": "Local",
+      "date": "",
+      "description": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
+      "source_url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html"
+    },
+    {
+      "title": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "100 days out from Election Day, our insider shares his intel",
-      "source_url": "https://www.axios.com/2026/07/26/midterm-election-outlook-100-days"
-    },
-    {
-      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "country": "Pakistan",
-      "election_type": "National",
-      "date": "",
-      "description": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "source_url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
-      "source_url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html"
-    },
-    {
-      "title": "The surprising Wisconsin law that blocks election bettors from voting",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "The surprising Wisconsin law that blocks election bettors from voting",
-      "source_url": "https://www.vox.com/politics/496759/wisconsin-kalshi-right-vote-bet-wager-new-york"
+      "description": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
+      "source_url": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says"
     }
   ],
   "global_events": [
+    {
+      "title": "Iran launches surprise attack on U.S. Middle East bases",
+      "summary": "Iran launches surprise attack on U.S. Middle East bases",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nbcnews.com/video/iran-launches-surprise-attack-on-u-s-middle-east-bases-267424837584"
+    },
+    {
+      "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+      "summary": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+      "outlets_covering": [
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/29/world/politics/oman-iran-voluntary-fees-hormuz"
+    },
+    {
+      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
+      "summary": "Powerful earthquake strikes southern Japan; dozens reported missing",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Wash Post World"
+      ],
+      "coverage_count": 6,
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction"
+    },
+    {
+      "title": "Ebola cases in Congo top 3,200, nearing record of the country’s worst outbreak",
+      "summary": "Ebola cases in Congo top 3,200, nearing record of the country’s worst outbreak",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Sky News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.thehindu.com/news/international/ebola-cases-in-congo-top-3200-nearing-record-of-the-countrys-worst-outbreak/article71276382.ece"
+    },
     {
       "title": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
       "summary": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
       "outlets_covering": [
         "ABC News Intl",
         "NYT World",
-        "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "China",
       "category": "Politics",
       "source_url": "https://abcnews.com/International/wireStory/survivors-rise-48-missing-after-vietnamese-ship-sinks-135143274"
-    },
-    {
-      "title": "What to know about the Berlin Pride attack and the suspect killed by police",
-      "summary": "What to know about the Berlin Pride attack and the suspect killed by police",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "NYT World",
-        "Time",
-        "DW World"
-      ],
-      "coverage_count": 15,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/what-to-know-about-the-berlin-pride-attack-and-the-suspect-killed-by-police"
-    },
-    {
-      "title": "West Asia War updates: U.S. in 'very deep ‌talks with ‌Iran', ready for military action if diplomacy fails, says Trump",
-      "summary": "West Asia War updates: U.S. in 'very deep ‌talks with ‌Iran', ready for military action if diplomacy fails, says Trump",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/iran-israel-us-war-july-27-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71271253.ece"
-    },
-    {
-      "title": "People trapped and injured after powerful earthquake strikes Japan",
-      "summary": "People trapped and injured after powerful earthquake strikes Japan",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Wash Post World"
-      ],
-      "coverage_count": 3,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued"
-    },
-    {
-      "title": "Trump to meet Netanyahu as his threat to resume strikes looms over Iran",
-      "summary": "Trump to meet Netanyahu as his threat to resume strikes looms over Iran",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "France24",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman"
     }
   ]
 }
