@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-29T01:42:03.897529Z",
+  "last_updated": "2026-07-29T13:44:46.042105Z",
   "world_org_meetings": [
+    {
+      "title": "An ASEAN Summit Consumed by Middle East Worries",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "An ASEAN Summit Consumed by Middle East Worries",
+      "source_url": "https://foreignpolicy.com/2026/07/29/asean-foreign-ministers-summit-manila-middle-east-war"
+    },
     {
       "title": "US walks out on France at UN meeting to protest human rights criticism",
       "organization": "UN",
@@ -8,14 +16,6 @@
       "location": "",
       "description": "US walks out on France at UN meeting to protest human rights criticism",
       "source_url": "https://thehill.com/policy/international/5993955-us-diplomats-unsc-walkout"
-    },
-    {
-      "title": "US walks out of UN Security Council meeting during France's remarks",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "US walks out of UN Security Council meeting during France's remarks",
-      "source_url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -57,28 +57,20 @@
   ],
   "elections": [
     {
-      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+      "title": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
       "country": "Peru",
       "election_type": "National",
       "date": "",
-      "description": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
-      "source_url": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated"
+      "description": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
+      "source_url": "https://www.thehindu.com/news/international/keiko-fujimori-is-inaugurated-as-perus-president-following-narrow-election-victory/article71280175.ece"
     },
     {
-      "title": "India slams POK elections, Pakistan's claims over Indus Valley legacy",
-      "country": "India",
+      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "India slams POK elections, Pakistan's claims over Indus Valley legacy",
-      "source_url": "https://timesofindia.indiatimes.com/india/india-slams-pok-elections-pakistans-claims-over-indus-valley-legacy/articleshow/132697250.cms"
-    },
-    {
-      "title": "Special election for Scott’s House seat in Georgia heads to runoff",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "Special election for Scott’s House seat in Georgia heads to runoff",
-      "source_url": "https://thehill.com/homenews/campaign/5972356-marcye-scott-special-election-runoff"
+      "description": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+      "source_url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb"
     },
     {
       "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
@@ -89,81 +81,108 @@
       "source_url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html"
     },
     {
-      "title": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
-      "country": "",
+      "title": "The key issues that will shape Israel’s elections",
+      "country": "Israel",
       "election_type": "National",
       "date": "",
-      "description": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
-      "source_url": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says"
+      "description": "The key issues that will shape Israel’s elections",
+      "source_url": "https://www.japantimes.co.jp/news/2026/07/29/world/politics/israel-election-key-issues"
+    },
+    {
+      "title": "Special election for Scott’s House seat in Georgia heads to runoff",
+      "country": "Georgia",
+      "election_type": "National",
+      "date": "",
+      "description": "Special election for Scott’s House seat in Georgia heads to runoff",
+      "source_url": "https://thehill.com/homenews/campaign/5972356-marcye-scott-special-election-runoff"
     }
   ],
   "global_events": [
     {
-      "title": "Iran launches surprise attack on U.S. Middle East bases",
-      "summary": "Iran launches surprise attack on U.S. Middle East bases",
+      "title": "Russia charges Telegram founder with aiding terrorism, assisting Ukraine intelligence",
+      "summary": "Russia charges Telegram founder with aiding terrorism, assisting Ukraine intelligence",
       "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
         "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nbcnews.com/video/iran-launches-surprise-attack-on-u-s-middle-east-bases-267424837584"
-    },
-    {
-      "title": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
-      "summary": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
-      "outlets_covering": [
+        "Sky News World",
+        "NYT World",
+        "Al Jazeera",
         "France24",
-        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Middle East",
+      "coverage_count": 9,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/29/world/politics/oman-iran-voluntary-fees-hormuz"
+      "source_url": "https://www.cbc.ca/news/world/russia-telegram-pavel-dorov-9.7288535?cmp=rss"
     },
     {
-      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
-      "summary": "Powerful earthquake strikes southern Japan; dozens reported missing",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "summary": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "summary": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "The Independent",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Japan's PM says rescuers in 'race against time' after powerful earthquake",
+      "summary": "Japan's PM says rescuers in 'race against time' after powerful earthquake",
       "outlets_covering": [
         "CBC World",
         "CBS News World",
         "NBC News World",
-        "Wash Post World"
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "France24"
       ],
-      "coverage_count": 6,
+      "coverage_count": 9,
       "region": "East / Southeast Asia",
       "category": "Climate",
-      "source_url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction"
+      "source_url": "https://www.cbc.ca/news/world/japan-earthquake-missing-9.7288522?cmp=rss"
     },
     {
-      "title": "Ebola cases in Congo top 3,200, nearing record of the country’s worst outbreak",
-      "summary": "Ebola cases in Congo top 3,200, nearing record of the country’s worst outbreak",
+      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+      "summary": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
       "outlets_covering": [
-        "ABC News Intl",
-        "Sky News World",
-        "The Hindu Intl"
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hill"
       ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.thehindu.com/news/international/ebola-cases-in-congo-top-3200-nearing-record-of-the-countrys-worst-outbreak/article71276382.ece"
-    },
-    {
-      "title": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
-      "summary": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
-      "outlets_covering": [
-        "ABC News Intl",
-        "NYT World",
-        "SCMP"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/survivors-rise-48-missing-after-vietnamese-ship-sinks-135143274"
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
     }
   ]
 }
