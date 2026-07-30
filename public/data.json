@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T01:25:05.923934Z",
+  "last_updated": "2026-07-30T13:26:21.673132Z",
   "world_org_meetings": [
     {
       "title": "An ASEAN Summit Consumed by Middle East Worries",
@@ -45,12 +45,12 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Myanmar court sentences activists to 37 years over election protest",
-      "country": "Myanmar",
+      "title": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Myanmar court sentences activists to 37 years over election protest",
-      "source_url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss"
+      "description": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
+      "source_url": "https://www.axios.com/2026/07/29/trump-senate-republicans-maga-budget-bill"
     },
     {
       "title": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
@@ -59,22 +59,6 @@
       "date": "",
       "description": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
       "source_url": "https://www.thehindu.com/news/international/keiko-fujimori-is-inaugurated-as-perus-president-following-narrow-election-victory/article71280175.ece"
-    },
-    {
-      "title": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
-      "source_url": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss"
-    },
-    {
-      "title": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
-      "source_url": "https://www.axios.com/2026/07/29/trump-senate-republicans-maga-budget-bill"
     },
     {
       "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
@@ -91,79 +75,74 @@
       "summary": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "ABC News Intl",
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
+        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Europe / Russia",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html"
     },
     {
-      "title": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
-      "summary": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NYT World",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html"
-    },
-    {
-      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
-      "summary": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
+      "summary": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
       "outlets_covering": [
         "BBC World",
         "The Independent",
+        "Al Jazeera",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/man-convicted-in-terrorism-trial-over-2022-stabbing-of-author-salman-rushdie/article71283233.ece"
+      "source_url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss"
+    },
+    {
+      "title": "BTS Won’t Enter Music From Comeback Album for Grammy Awards",
+      "summary": "BTS Won’t Enter Music From Comeback Album for Grammy Awards",
+      "outlets_covering": [
+        "CBC World",
+        "NBC News World",
+        "NYT World"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html"
     },
     {
       "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
       "summary": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/iran-resumes-missile-attacks-as-us-and-saudis-strike-tehran-backed-militias-in-iraq/article71283154.ece"
     },
     {
-      "title": "Japan's PM says rescuers in 'race against time' after powerful earthquake",
-      "summary": "Japan's PM says rescuers in 'race against time' after powerful earthquake",
+      "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
+      "summary": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
       "outlets_covering": [
-        "CBC World",
+        "BBC World",
+        "CBS News World",
         "NBC News World",
-        "NYT World",
         "The Guardian World",
-        "Wash Post World"
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 5,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbc.ca/news/world/japan-earthquake-missing-9.7288522?cmp=rss"
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news"
     }
   ]
 }
