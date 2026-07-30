@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T13:44:46.042105Z",
+  "last_updated": "2026-07-30T01:25:05.923934Z",
   "world_org_meetings": [
     {
       "title": "An ASEAN Summit Consumed by Middle East Worries",
@@ -8,14 +8,6 @@
       "location": "",
       "description": "An ASEAN Summit Consumed by Middle East Worries",
       "source_url": "https://foreignpolicy.com/2026/07/29/asean-foreign-ministers-summit-manila-middle-east-war"
-    },
-    {
-      "title": "US walks out on France at UN meeting to protest human rights criticism",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "US walks out on France at UN meeting to protest human rights criticism",
-      "source_url": "https://thehill.com/policy/international/5993955-us-diplomats-unsc-walkout"
     },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -40,22 +32,26 @@
       "location": "",
       "description": "Eleven takeaways from the NATO Summit in Ankara",
       "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
-    }
-  ],
-  "diplomatic_visits": [
+    },
     {
-      "title": "Iraq's new prime minister visits Turkey for talks on pipeline and security",
-      "participants": [
-        "Iraq's",
-        "Turkey"
-      ],
+      "title": "Was the NATO Summit a success?",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Iraq's new prime minister visits Turkey for talks on pipeline and security",
-      "source_url": "https://abcnews.com/International/wireStory/iraqs-new-prime-minister-visits-turkey-talks-pipeline-135147189"
+      "description": "Was the NATO Summit a success?",
+      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
     }
   ],
+  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "country": "Myanmar",
+      "election_type": "National",
+      "date": "",
+      "description": "Myanmar court sentences activists to 37 years over election protest",
+      "source_url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss"
+    },
     {
       "title": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
       "country": "Peru",
@@ -65,12 +61,20 @@
       "source_url": "https://www.thehindu.com/news/international/keiko-fujimori-is-inaugurated-as-perus-president-following-narrow-election-victory/article71280175.ece"
     },
     {
-      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+      "title": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
-      "source_url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb"
+      "description": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
+      "source_url": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss"
+    },
+    {
+      "title": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
+      "source_url": "https://www.axios.com/2026/07/29/trump-senate-republicans-maga-budget-bill"
     },
     {
       "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
@@ -79,28 +83,12 @@
       "date": "",
       "description": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
       "source_url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html"
-    },
-    {
-      "title": "The key issues that will shape Israel’s elections",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "The key issues that will shape Israel’s elections",
-      "source_url": "https://www.japantimes.co.jp/news/2026/07/29/world/politics/israel-election-key-issues"
-    },
-    {
-      "title": "Special election for Scott’s House seat in Georgia heads to runoff",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "Special election for Scott’s House seat in Georgia heads to runoff",
-      "source_url": "https://thehill.com/homenews/campaign/5972356-marcye-scott-special-election-runoff"
     }
   ],
   "global_events": [
     {
-      "title": "Russia charges Telegram founder with aiding terrorism, assisting Ukraine intelligence",
-      "summary": "Russia charges Telegram founder with aiding terrorism, assisting Ukraine intelligence",
+      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+      "summary": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
       "outlets_covering": [
         "BBC World",
         "CBC World",
@@ -108,81 +96,74 @@
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "Al Jazeera",
-        "France24",
+        "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 8,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/russia-telegram-pavel-dorov-9.7288535?cmp=rss"
+      "source_url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html"
     },
     {
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "summary": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "title": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
+      "summary": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "Foreign Policy",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html"
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "summary": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/man-convicted-in-terrorism-trial-over-2022-stabbing-of-author-salman-rushdie/article71283233.ece"
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "summary": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
-        "CBS News World",
-        "NYT World",
-        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "summary": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "The Independent",
-        "The Hindu Intl",
-        "Axios"
-      ],
       "coverage_count": 6,
-      "region": "Europe / Russia",
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.thehindu.com/news/international/iran-resumes-missile-attacks-as-us-and-saudis-strike-tehran-backed-militias-in-iraq/article71283154.ece"
     },
     {
       "title": "Japan's PM says rescuers in 'race against time' after powerful earthquake",
       "summary": "Japan's PM says rescuers in 'race against time' after powerful earthquake",
       "outlets_covering": [
         "CBC World",
-        "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "France24"
+        "Wash Post World"
       ],
-      "coverage_count": 9,
+      "coverage_count": 5,
       "region": "East / Southeast Asia",
       "category": "Climate",
       "source_url": "https://www.cbc.ca/news/world/japan-earthquake-missing-9.7288522?cmp=rss"
-    },
-    {
-      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-      "summary": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
     }
   ]
 }
