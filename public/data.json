@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T01:51:39.556636Z",
+  "last_updated": "2026-07-31T13:39:32.383795Z",
   "world_org_meetings": [
     {
       "title": "An ASEAN Summit Consumed by Middle East Worries",
@@ -24,22 +24,6 @@
       "location": "",
       "description": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
       "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine"
-    },
-    {
-      "title": "Eleven takeaways from the NATO Summit in Ankara",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Eleven takeaways from the NATO Summit in Ankara",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara"
-    },
-    {
-      "title": "Was the NATO Summit a success?",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Was the NATO Summit a success?",
-      "source_url": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success"
     }
   ],
   "diplomatic_visits": [
@@ -99,75 +83,78 @@
   ],
   "global_events": [
     {
-      "title": "Coal mine blast in Pakistan kills at least 32 miners, traps 10 others",
-      "summary": "Coal mine blast in Pakistan kills at least 32 miners, traps 10 others",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/coal-mine-blast-in-pakistan-kills-many-miners-traps-people/article71288808.ece"
-    },
-    {
-      "title": "Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain",
-      "summary": "Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain",
+      "title": "World-renowned climber Nirmal Purja among 10 struck by avalanche on Pakistan mountain",
+      "summary": "World-renowned climber Nirmal Purja among 10 struck by avalanche on Pakistan mountain",
       "outlets_covering": [
         "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "Japan Times",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace"
-    },
-    {
-      "title": "US government map of Africa mislabels every country at global conference",
-      "summary": "US government map of Africa mislabels every country at global conference",
-      "outlets_covering": [
         "NYT World",
         "The Guardian World",
-        "The Independent"
-      ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries"
-    },
-    {
-      "title": "Russian strikes across Ukraine kill 9 and NATO scrambles jets after a missile falls in Poland",
-      "summary": "Russian strikes across Ukraine kill 9 and NATO scrambles jets after a missile falls in Poland",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
+        "The Independent",
+        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/russian-strikes-across-ukraine-kill-9-and-nato-scrambles-jets-after-a-missile-falls-in-poland/article71287476.ece"
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain"
     },
     {
-      "title": "Congo says death toll in fastest-growing Ebola outbreak has passed 1,500",
-      "summary": "Congo says death toll in fastest-growing Ebola outbreak has passed 1,500",
+      "title": "Spain deploys military to Morocco border after migrant crossings; 34 deaths",
+      "summary": "Spain deploys military to Morocco border after migrant crossings; 34 deaths",
       "outlets_covering": [
-        "CBC World",
         "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "Japan Times"
+      ],
+      "coverage_count": 5,
+      "region": "Europe",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/spain-deploys-military-ceuta-morocco-border-migrants"
+    },
+    {
+      "title": "Coal mine blast in Pakistan kills at least 32 miners and traps 10 others",
+      "summary": "Coal mine blast in Pakistan kills at least 32 miners and traps 10 others",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NBC News World",
+        "NYT World",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.nbcnews.com/video/coal-mine-blast-in-pakistan-kills-at-least-32-miners-and-traps-10-others-267580485701"
+    },
+    {
+      "title": "US government mislabels countries on map of Africa at global conference",
+      "summary": "US government mislabels countries on map of Africa at global conference",
+      "outlets_covering": [
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
       "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.cbc.ca/news/health/congo-fastest-growing-ebola-outbreak-9.7290381?cmp=rss"
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss"
+    },
+    {
+      "title": "Southwest China landslide death toll rises to 51 as search and rescue continues",
+      "summary": "Southwest China landslide death toll rises to 51 as search and rescue continues",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NYT World",
+        "The Guardian World",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 6,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3362468/southwest-china-landslide-death-toll-rises-51-search-and-rescue-continues"
     }
   ]
 }
