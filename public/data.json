@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T01:52:38.133246Z",
+  "last_updated": "2026-08-01T12:56:02.540667Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -25,30 +25,6 @@
   ],
   "elections": [
     {
-      "title": "Labour wins decisive victory in Greater Manchester mayoral byelection",
-      "country": "",
-      "election_type": "Mayoral",
-      "date": "",
-      "description": "Labour wins decisive victory in Greater Manchester mayoral byelection",
-      "source_url": "https://www.theguardian.com/politics/2026/jul/31/labour-wins-decisive-victory-in-greater-manchester-mayoral-byelection"
-    },
-    {
-      "title": "Venezuela government and opposition to hold talks aimed at path to election",
-      "country": "Venezuela",
-      "election_type": "National",
-      "date": "",
-      "description": "Venezuela government and opposition to hold talks aimed at path to election",
-      "source_url": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss"
-    },
-    {
-      "title": "Wait goes on for result in Greater Manchester mayoral by-election – as it happened",
-      "country": "",
-      "election_type": "Mayoral",
-      "date": "",
-      "description": "Wait goes on for result in Greater Manchester mayoral by-election – as it happened",
-      "source_url": "https://www.theguardian.com/politics/live/2026/jul/31/andy-burnham-devolution-plan-labour-conservatives-kemi-bedenoch-uk-politics-live"
-    },
-    {
       "title": "2 in 3 worry political leaders will pressure officials to change election outcomes: Gallup",
       "country": "",
       "election_type": "National",
@@ -63,9 +39,74 @@
       "date": "",
       "description": "Selection for next UN chief gets under way with Grynspan early front runner",
       "source_url": "https://www.scmp.com/news/us/diplomacy/article/3362445/selection-next-un-chief-gets-underway-first-straw-poll"
+    },
+    {
+      "title": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
+      "source_url": "https://www.thehindu.com/news/international/tensions-prevail-in-pok-as-clashes-continue-between-security-forces-and-jaac-activists-amid-elections/article71287566.ece"
+    },
+    {
+      "title": "Election fears run rampant as November nears: poll",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Election fears run rampant as November nears: poll",
+      "source_url": "https://www.axios.com/2026/07/30/election-integrity-fears-november-midterms-poll"
+    },
+    {
+      "title": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
+      "source_url": "https://www.axios.com/2026/07/29/trump-senate-republicans-maga-budget-bill"
     }
   ],
   "global_events": [
+    {
+      "title": "Russia batters Ukrainian capital of Kyiv, killing at least 9",
+      "summary": "Russia batters Ukrainian capital of Kyiv, killing at least 9",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/russia-strikes-kyiv-9.7293585?cmp=rss"
+    },
+    {
+      "title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+      "summary": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/spain-morocco-border-crisis-death-toll-in-ceuta/article71294017.ece"
+    },
+    {
+      "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "summary": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "outlets_covering": [
+        "NBC News World",
+        "NYT World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html"
+    },
     {
       "title": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
       "summary": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
@@ -73,12 +114,12 @@
         "BBC World",
         "CBC World",
         "CBS News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
-        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 11,
       "region": "South Asia",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html"
@@ -98,56 +139,10 @@
         "Al Jazeera",
         "France24"
       ],
-      "coverage_count": 19,
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.theguardian.com/news/audio/2026/jul/31/hamas-agrees-trump-plan-disarm-gaza-the-latest"
-    },
-    {
-      "title": "Trump-Gaza latest: US president claims Israel is ‘very happy’ with deal to disarm Hamas",
-      "summary": "Trump-Gaza latest: US president claims Israel is ‘very happy’ with deal to disarm Hamas",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 21,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-gaza-hamas-board-of-peace-b3025058.html"
-    },
-    {
-      "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
-      "summary": "At Least 34 Dead From Coal Mine Blast in Pakistan",
-      "outlets_covering": [
-        "NBC News World",
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html"
-    },
-    {
-      "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-      "summary": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-      "outlets_covering": [
-        "NYT World",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
     }
   ]
 }
