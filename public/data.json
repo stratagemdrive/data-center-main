@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T12:56:02.540667Z",
+  "last_updated": "2026-08-02T01:49:18.466293Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -67,15 +67,46 @@
   ],
   "global_events": [
     {
-      "title": "Russia batters Ukrainian capital of Kyiv, killing at least 9",
-      "summary": "Russia batters Ukrainian capital of Kyiv, killing at least 9",
+      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+      "summary": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 10,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche"
+    },
+    {
+      "title": "Nirmal Purja, 'inspirational' Nepali climber, among 10 killed in avalanche during Pakistan expedition",
+      "summary": "Nirmal Purja, 'inspirational' Nepali climber, among 10 killed in avalanche during Pakistan expedition",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NYT World",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/nepal-climber-nirmal-purja-killed-avalanche-9.7293792?cmp=rss"
+    },
+    {
+      "title": "Russia batters Ukrainian capital of Kyiv, killing at least 10",
+      "summary": "Russia batters Ukrainian capital of Kyiv, killing at least 10",
       "outlets_covering": [
         "CBC World",
         "ABC News Intl",
-        "The Independent",
-        "France24"
+        "The Independent"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Europe / Russia",
       "category": "Politics",
       "source_url": "https://www.cbc.ca/news/world/russia-strikes-kyiv-9.7293585?cmp=rss"
@@ -86,10 +117,11 @@
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
+        "NYT World",
         "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "region": "Europe",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/spain-morocco-border-crisis-death-toll-in-ceuta/article71294017.ece"
@@ -106,43 +138,6 @@
       "region": "South Asia",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html"
-    },
-    {
-      "title": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
-      "summary": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 11,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html"
-    },
-    {
-      "title": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
-      "summary": "Hamas agrees to Trump’s plan to disarm in Gaza – The Latest",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/news/audio/2026/jul/31/hamas-agrees-trump-plan-disarm-gaza-the-latest"
     }
   ]
 }
