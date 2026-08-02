@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T01:49:18.466293Z",
+  "last_updated": "2026-08-02T12:57:52.057592Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -25,28 +25,12 @@
   ],
   "elections": [
     {
-      "title": "2 in 3 worry political leaders will pressure officials to change election outcomes: Gallup",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "2 in 3 worry political leaders will pressure officials to change election outcomes: Gallup",
-      "source_url": "https://thehill.com/homenews/campaign/6000800-midterm-elections-security-concerns-poll"
-    },
-    {
       "title": "Selection for next UN chief gets under way with Grynspan early front runner",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Selection for next UN chief gets under way with Grynspan early front runner",
       "source_url": "https://www.scmp.com/news/us/diplomacy/article/3362445/selection-next-un-chief-gets-underway-first-straw-poll"
-    },
-    {
-      "title": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
-      "source_url": "https://www.thehindu.com/news/international/tensions-prevail-in-pok-as-clashes-continue-between-security-forces-and-jaac-activists-amid-elections/article71287566.ece"
     },
     {
       "title": "Election fears run rampant as November nears: poll",
@@ -67,21 +51,22 @@
   ],
   "global_events": [
     {
-      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-      "summary": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "summary": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
         "CBS News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche"
+      "source_url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Nirmal Purja, 'inspirational' Nepali climber, among 10 killed in avalanche during Pakistan expedition",
@@ -89,55 +74,68 @@
       "outlets_covering": [
         "BBC World",
         "CBC World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "region": "South Asia",
       "category": "Politics",
       "source_url": "https://www.cbc.ca/news/world/nepal-climber-nirmal-purja-killed-avalanche-9.7293792?cmp=rss"
     },
     {
-      "title": "Russia batters Ukrainian capital of Kyiv, killing at least 10",
-      "summary": "Russia batters Ukrainian capital of Kyiv, killing at least 10",
+      "title": "Trump calls off attack on Iran subject to peace deal being \"rapidly\" reached",
+      "summary": "Trump calls off attack on Iran subject to peace deal being \"rapidly\" reached",
       "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "The Independent"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/russia-strikes-kyiv-9.7293585?cmp=rss"
-    },
-    {
-      "title": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-      "summary": "Spain-Morocco border crisis: Death toll in Ceuta reaches 67",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "NYT World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/spain-morocco-border-crisis-death-toll-in-ceuta/article71294017.ece"
-    },
-    {
-      "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
-      "summary": "At Least 34 Dead From Coal Mine Blast in Pakistan",
-      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
         "NBC News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base"
+    },
+    {
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "summary": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "outlets_covering": [
+        "BBC World",
         "NYT World",
+        "Bloomberg",
+        "The Independent",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html"
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+      "summary": "Trump ‘cancels attack on Iran’ saying deal is near",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "Bloomberg",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
     }
   ]
 }
