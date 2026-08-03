@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T01:51:40.713396Z",
+  "last_updated": "2026-08-03T14:15:02.611582Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -12,110 +12,110 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "China voices ‘serious concern’ over new US curbs in trade talks between Bessent and He",
+      "title": "Prime minister visits quake-hit southern Japan as cleanup begins in intense heat",
       "participants": [
-        "China",
-        "Bessent"
+        "Prime",
+        "Japan"
       ],
       "date": "",
       "location": "",
-      "description": "China voices ‘serious concern’ over new US curbs in trade talks between Bessent and He",
-      "source_url": "https://www.scmp.com/news/us/article/3362440/china-voices-serious-concern-over-new-us-curbs-senior-trade-talks"
+      "description": "Prime minister visits quake-hit southern Japan as cleanup begins in intense heat",
+      "source_url": "https://abcnews.com/International/wireStory/prime-minister-visits-quake-hit-southern-japan-cleanup-135318132"
     }
   ],
   "elections": [
     {
-      "title": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
-      "country": "",
+      "title": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
+      "country": "Pakistan",
       "election_type": "National",
       "date": "",
-      "description": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
-      "source_url": "https://thehill.com/homenews/house/6004629-max-miller-denies-abuse-allegations"
+      "description": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
+      "source_url": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss"
     },
     {
-      "title": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
+      "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
+      "country": "Pakistan",
+      "election_type": "National",
+      "date": "",
+      "description": "Pakistan-administered Kashmir elections and protests – all you need to know",
+      "source_url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss"
+    },
+    {
+      "title": "'It's going to be a very close election': Brazil's Lula launches fourth term bid",
       "country": "Brazil",
       "election_type": "National",
       "date": "",
-      "description": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
-      "source_url": "https://abcnews.com/International/wireStory/brazils-lula-launches-reelection-bid-concerns-rise-foreign-135308231"
+      "description": "'It's going to be a very close election': Brazil's Lula launches fourth term bid",
+      "source_url": "https://www.france24.com/en/video/20260803-it-s-going-to-be-a-very-close-election-brazil-s-lula-launches-fourth-term-bid"
     },
     {
-      "title": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
-      "country": "Bangladesh",
-      "election_type": "Presidential",
+      "title": "For his seventh election campaign, Brazil's president focuses on sovereignty",
+      "country": "Brazil",
+      "election_type": "National",
       "date": "",
-      "description": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
-      "source_url": "https://www.thehindu.com/news/international/ruling-bnp-authorises-pm-rahman-to-finalise-nominee-for-bangladeshs-presidential-elections/article71298707.ece"
+      "description": "For his seventh election campaign, Brazil's president focuses on sovereignty",
+      "source_url": "https://www.france24.com/en/lula-launches-seventh-presidential-campaign-centred-around-brazil-s-sovereignty"
     },
     {
-      "title": "Selection for next UN chief gets under way with Grynspan early front runner",
+      "title": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Selection for next UN chief gets under way with Grynspan early front runner",
-      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3362445/selection-next-un-chief-gets-underway-first-straw-poll"
-    },
-    {
-      "title": "Election fears run rampant as November nears: poll",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Election fears run rampant as November nears: poll",
-      "source_url": "https://www.axios.com/2026/07/30/election-integrity-fears-november-midterms-poll"
+      "description": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
+      "source_url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb"
     }
   ],
   "global_events": [
     {
-      "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-      "summary": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
+      "title": "Trump says new talks expected to start with Iran, but Tehran disputes claim",
+      "summary": "Trump says new talks expected to start with Iran, but Tehran disputes claim",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/trump-says-new-talks-expected-to-start-with-iran-but-tehran-disputes-claim"
+    },
+    {
+      "title": "Israel says it has concerns with Hamas disarmament deal as it keeps up Gaza strikes",
+      "summary": "Israel says it has concerns with Hamas disarmament deal as it keeps up Gaza strikes",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
         "ABC News Intl",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
+        "NBC News World",
+        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 11,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
-    },
-    {
-      "title": "U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes",
-      "summary": "U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 9,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base"
+      "source_url": "https://www.nbcnews.com/world/israel/israel-concerns-hamas-disarmament-deal-trump-gaza-strikes-rcna590539"
     },
     {
-      "title": "Israeli strikes kill 18 across Gaza despite Hamas agreeing to disarmament deal",
-      "summary": "Israeli strikes kill 18 across Gaza despite Hamas agreeing to disarmament deal",
+      "title": "Israel says it has serious concerns with Hamas disarmament deal",
+      "summary": "Israel says it has serious concerns with Hamas disarmament deal",
       "outlets_covering": [
         "BBC World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "NBC News World"
       ],
       "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-strikes-gaza-hamas-disarm-deal-trump-b3026114.html"
+      "source_url": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump"
     },
     {
       "title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
@@ -129,24 +129,26 @@
         "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece"
     },
     {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "summary": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "title": "Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche",
+      "summary": "Body of famed international climber Nirmal Purja and 3 more found after Pakistan avalanche",
       "outlets_covering": [
-        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "Fox News World",
         "NYT World",
-        "France24",
+        "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 8,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/body-famed-international-climber-nirmal-purja-3-found-135304378"
     }
   ]
 }
