@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T12:57:52.057592Z",
+  "last_updated": "2026-08-03T01:51:40.713396Z",
   "world_org_meetings": [
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
@@ -25,6 +25,30 @@
   ],
   "elections": [
     {
+      "title": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
+      "source_url": "https://thehill.com/homenews/house/6004629-max-miller-denies-abuse-allegations"
+    },
+    {
+      "title": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
+      "source_url": "https://abcnews.com/International/wireStory/brazils-lula-launches-reelection-bid-concerns-rise-foreign-135308231"
+    },
+    {
+      "title": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
+      "country": "Bangladesh",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
+      "source_url": "https://www.thehindu.com/news/international/ruling-bnp-authorises-pm-rahman-to-finalise-nominee-for-bangladeshs-presidential-elections/article71298707.ece"
+    },
+    {
       "title": "Selection for next UN chief gets under way with Grynspan early front runner",
       "country": "",
       "election_type": "National",
@@ -39,68 +63,76 @@
       "date": "",
       "description": "Election fears run rampant as November nears: poll",
       "source_url": "https://www.axios.com/2026/07/30/election-integrity-fears-november-midterms-poll"
-    },
-    {
-      "title": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Scoop: Inside the White House pitch for pre-election MAGA megabill",
-      "source_url": "https://www.axios.com/2026/07/29/trump-senate-republicans-maga-budget-bill"
     }
   ],
   "global_events": [
     {
-      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "summary": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
+      "summary": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
-        "CBS News World",
+        "ABC News Intl",
         "Fox News World",
         "NYT World",
         "The Guardian World",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
       "coverage_count": 11,
       "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
     },
     {
-      "title": "Nirmal Purja, 'inspirational' Nepali climber, among 10 killed in avalanche during Pakistan expedition",
-      "summary": "Nirmal Purja, 'inspirational' Nepali climber, among 10 killed in avalanche during Pakistan expedition",
+      "title": "U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes",
+      "summary": "U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes",
       "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/nepal-climber-nirmal-purja-killed-avalanche-9.7293792?cmp=rss"
-    },
-    {
-      "title": "Trump calls off attack on Iran subject to peace deal being \"rapidly\" reached",
-      "summary": "Trump calls off attack on Iran subject to peace deal being \"rapidly\" reached",
-      "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Bloomberg",
+        "The Independent",
         "Al Jazeera",
         "France24",
-        "Japan Times"
+        "Japan Times",
+        "The Hindu Intl",
+        "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "region": "Middle East",
-      "category": "Conflict",
+      "category": "Politics",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base"
+    },
+    {
+      "title": "Israeli strikes kill 18 across Gaza despite Hamas agreeing to disarmament deal",
+      "summary": "Israeli strikes kill 18 across Gaza despite Hamas agreeing to disarmament deal",
+      "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-strikes-gaza-hamas-disarm-deal-trump-b3026114.html"
+    },
+    {
+      "title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+      "summary": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece"
     },
     {
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
@@ -108,34 +140,13 @@
       "outlets_covering": [
         "BBC World",
         "NYT World",
-        "Bloomberg",
-        "The Independent",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 5,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-      "summary": "Trump ‘cancels attack on Iran’ saying deal is near",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NYT World",
-        "Bloomberg",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss"
     }
   ]
 }
