@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-04T01:26:46.097869Z",
+  "last_updated": "2026-08-04T13:47:06.629186Z",
   "world_org_meetings": [
+    {
+      "title": "India invites Bangladesh PM Rahman to attend BRICS summit",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "India invites Bangladesh PM Rahman to attend BRICS summit",
+      "source_url": "https://www.thehindu.com/news/national/india-invites-bangladesh-pm-rahman-to-attend-brics-summit/article71305448.ece"
+    },
     {
       "title": "Kroenig quoted in Jiji on the NATO Summit",
       "organization": "NATO",
@@ -25,36 +33,28 @@
   ],
   "elections": [
     {
-      "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
+      "title": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election – UK politics live",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-      "source_url": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election"
+      "description": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election – UK politics live",
+      "source_url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates"
     },
     {
-      "title": "Can Netanyahu survive Israel’s most consequential election?",
-      "country": "Israel",
+      "title": "Despite World Cup success, controversy-marred Infantino faces tough election",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Can Netanyahu survive Israel’s most consequential election?",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss"
+      "description": "Despite World Cup success, controversy-marred Infantino faces tough election",
+      "source_url": "https://www.france24.com/en/despite-world-cup-success-controversy-marred-infantino-loses-election-support"
     },
     {
-      "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-      "country": "Russia",
+      "title": "Modi’s party loses key India by-election in wake of protests",
+      "country": "India",
       "election_type": "National",
       "date": "",
-      "description": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-      "source_url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin"
-    },
-    {
-      "title": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
-      "source_url": "https://abcnews.com/International/wireStory/brazils-lula-launches-reelection-bid-concerns-rise-foreign-135308231"
+      "description": "Modi’s party loses key India by-election in wake of protests",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/04/asia-pacific/politics/modi-india-by-election-protests"
     },
     {
       "title": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
@@ -63,51 +63,50 @@
       "date": "",
       "description": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
       "source_url": "https://thehill.com/homenews/house/6004629-max-miller-denies-abuse-allegations"
+    },
+    {
+      "title": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
+      "country": "Bangladesh",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
+      "source_url": "https://www.thehindu.com/news/international/ruling-bnp-authorises-pm-rahman-to-finalise-nominee-for-bangladeshs-presidential-elections/article71298707.ece"
     }
   ],
   "global_events": [
     {
-      "title": "West Asia LIVE: Trump says new talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes",
-      "summary": "West Asia LIVE: Trump says new talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes",
+      "title": "Iran-US war latest: Tehran claims Trump could ignite World War III after making ‘last chance’ escalation threat",
+      "summary": "Iran-US war latest: Tehran claims Trump could ignite World War III after making ‘last chance’ escalation threat",
       "outlets_covering": [
-        "CBC World",
-        "NYT World",
+        "NBC News World",
         "The Guardian World",
-        "Al Jazeera",
+        "The Independent",
         "The Hindu Intl",
         "SCMP",
         "The Hill"
       ],
-      "coverage_count": 11,
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-hormuz-strikes-b3026895.html"
+    },
+    {
+      "title": "Trump claims Iran talks are underway as Tehran denies it",
+      "summary": "Trump claims Iran talks are underway as Tehran denies it",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "The Hindu Intl",
+        "SCMP",
+        "The Hill"
+      ],
+      "coverage_count": 14,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-strikes-tehran-washington-talks-donald-trump-peace-deal-live-updates-august-4-2026/article71303715.ece"
-    },
-    {
-      "title": "US House ethics panel recommends censure for Republican Chuck Edwards",
-      "summary": "US House ethics panel recommends censure for Republican Chuck Edwards",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/aug/03/house-ethics-panel-north-carolina-chuck-edwards-censure"
-    },
-    {
-      "title": "Two People Have Died in the Cyclospora Outbreak",
-      "summary": "Two People Have Died in the Cyclospora Outbreak",
-      "outlets_covering": [
-        "Time",
-        "Al Jazeera",
-        "Axios"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://time.com/article/2026/08/03/two-people-have-died-in-the-cyclospora-outbreak-michigan"
+      "source_url": "https://www.nbcnews.com/world/iran/trump-iran-clash-hormuz-talks-cargo-ship-attacked-rcna590727"
     },
     {
       "title": "Israel wary of Hamas disarmament deal, citing ‘serious security concerns’",
@@ -115,9 +114,10 @@
       "outlets_covering": [
         "NPR World",
         "CBC World",
+        "Al Jazeera",
         "The Hill"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://thehill.com/policy/international/6005485-netanyahu-expresses-security-concerns-hamas-deal"
@@ -137,6 +137,19 @@
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece"
+    },
+    {
+      "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
+      "summary": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
+      "outlets_covering": [
+        "Fox News World",
+        "NYT World",
+        "The Guardian World"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan"
     }
   ]
 }
