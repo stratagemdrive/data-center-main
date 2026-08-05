@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T13:47:06.629186Z",
+  "last_updated": "2026-08-05T01:40:49.880210Z",
   "world_org_meetings": [
     {
       "title": "India invites Bangladesh PM Rahman to attend BRICS summit",
@@ -8,135 +8,93 @@
       "location": "",
       "description": "India invites Bangladesh PM Rahman to attend BRICS summit",
       "source_url": "https://www.thehindu.com/news/national/india-invites-bangladesh-pm-rahman-to-attend-brics-summit/article71305448.ece"
-    },
-    {
-      "title": "Kroenig quoted in Jiji on the NATO Summit",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Kroenig quoted in Jiji on the NATO Summit",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-jiji-on-the-nato-summit"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Prime minister visits quake-hit southern Japan as cleanup begins in intense heat",
+      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
       "participants": [
-        "Prime",
-        "Japan"
+        "Hezbollah",
+        "Lebanon",
+        "Israel"
       ],
       "date": "",
       "location": "",
-      "description": "Prime minister visits quake-hit southern Japan as cleanup begins in intense heat",
-      "source_url": "https://abcnews.com/International/wireStory/prime-minister-visits-quake-hit-southern-japan-cleanup-135318132"
+      "description": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
+      "source_url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel"
     }
   ],
   "elections": [
     {
-      "title": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election – UK politics live",
+      "title": "Maryland lawmakers approve redistricting referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Maryland lawmakers approve redistricting referendum",
+      "source_url": "https://thehill.com/homenews/campaign/6009593-maryland-redistricting-referendum-approved"
+    },
+    {
+      "title": "Deadly protests overshadow Pakistan’s elections in Kashmir",
+      "country": "Pakistan",
+      "election_type": "National",
+      "date": "",
+      "description": "Deadly protests overshadow Pakistan’s elections in Kashmir",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/05/asia-pacific/politics/protests-pakistan-elections-kashmir"
+    },
+    {
+      "title": "Live results: Michigan voters head to polls for House primaries",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates"
+      "description": "Live results: Michigan voters head to polls for House primaries",
+      "source_url": "https://thehill.com/homenews/campaign/5988817-live-results-michigan-house-primaries"
     },
     {
-      "title": "Despite World Cup success, controversy-marred Infantino faces tough election",
+      "title": "Live results: Kansas holds House primary elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Despite World Cup success, controversy-marred Infantino faces tough election",
-      "source_url": "https://www.france24.com/en/despite-world-cup-success-controversy-marred-infantino-loses-election-support"
+      "description": "Live results: Kansas holds House primary elections",
+      "source_url": "https://thehill.com/homenews/campaign/5987158-live-results-kansas-holds-house-primary-elections"
     },
     {
-      "title": "Modi’s party loses key India by-election in wake of protests",
+      "title": "India’s ruling BJP loses byelection in stronghold after Cockroach student protests",
       "country": "India",
       "election_type": "National",
       "date": "",
-      "description": "Modi’s party loses key India by-election in wake of protests",
-      "source_url": "https://www.japantimes.co.jp/news/2026/08/04/asia-pacific/politics/modi-india-by-election-protests"
-    },
-    {
-      "title": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Miller denies abuse allegations, says he’s ‘not getting out of’ reelection race in face of resignation calls",
-      "source_url": "https://thehill.com/homenews/house/6004629-max-miller-denies-abuse-allegations"
-    },
-    {
-      "title": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
-      "country": "Bangladesh",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Ruling BNP authorises PM Rahman to finalise nominee for Bangladesh's presidential elections",
-      "source_url": "https://www.thehindu.com/news/international/ruling-bnp-authorises-pm-rahman-to-finalise-nominee-for-bangladeshs-presidential-elections/article71298707.ece"
+      "description": "India’s ruling BJP loses byelection in stronghold after Cockroach student protests",
+      "source_url": "https://www.theguardian.com/world/2026/aug/04/india-bjp-rare-byelection-loss-cockroach-student-protests"
     }
   ],
   "global_events": [
     {
-      "title": "Iran-US war latest: Tehran claims Trump could ignite World War III after making ‘last chance’ escalation threat",
-      "summary": "Iran-US war latest: Tehran claims Trump could ignite World War III after making ‘last chance’ escalation threat",
+      "title": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
+      "summary": "Trump administration revokes Brazilian ambassador’s visa in diplomatic dispute",
       "outlets_covering": [
         "NBC News World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-hormuz-strikes-b3026895.html"
-    },
-    {
-      "title": "Trump claims Iran talks are underway as Tehran denies it",
-      "summary": "Trump claims Iran talks are underway as Tehran denies it",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 14,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/world/iran/trump-iran-clash-hormuz-talks-cargo-ship-attacked-rcna590727"
-    },
-    {
-      "title": "Israel wary of Hamas disarmament deal, citing ‘serious security concerns’",
-      "summary": "Israel wary of Hamas disarmament deal, citing ‘serious security concerns’",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
+        "Bloomberg",
         "Al Jazeera",
-        "The Hill"
+        "France24"
       ],
       "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/6005485-netanyahu-expresses-security-concerns-hamas-deal"
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.nbcnews.com/world/brazil/trump-administration-revokes-brazilian-ambassadors-visa-diplomatic-dis-rcna590888"
     },
     {
-      "title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
-      "summary": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+      "title": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike",
+      "summary": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "DW World",
+        "NBC News World",
+        "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece"
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/palestinians-hold-mass-funeral-for-112-bodies-finally-recovered-from-a-2023-gaza-strike/article71307862.ece"
     },
     {
       "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
@@ -146,10 +104,35 @@
         "NYT World",
         "The Guardian World"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "South Asia",
       "category": "Politics",
       "source_url": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan"
+    },
+    {
+      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "summary": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 2,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ukraine accuses Russia of war crime after video shows drone ‘safari’ attack on civilian",
+      "summary": "Ukraine accuses Russia of war crime after video shows drone ‘safari’ attack on civilian",
+      "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/05/world/ukraine-russia-drone-vegetable-seller"
     }
   ]
 }
