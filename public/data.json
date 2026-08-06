@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T13:42:24.871162Z",
+  "last_updated": "2026-08-06T01:29:40.021216Z",
   "world_org_meetings": [
     {
       "title": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
@@ -21,12 +21,36 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Chuck Edwards drops reelection bid after Ethics panel calls for censure",
+      "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Chuck Edwards drops reelection bid after Ethics panel calls for censure",
-      "source_url": "https://thehill.com/homenews/house/6009954-chuck-edwards-withdraws-reelection-bid-house-gop-ethics-censure-sexual-misconduct-claims"
+      "description": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
+      "source_url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment"
+    },
+    {
+      "title": "Abdul El-Sayed narrowly won in Michigan. Here’s what that could mean for progressives in future elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Abdul El-Sayed narrowly won in Michigan. Here’s what that could mean for progressives in future elections",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/abdul-el-sayed-progressives-victory-b3028266.html"
+    },
+    {
+      "title": "Flávio Bolsonaro announces his running mate for Brazil's October election",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Flávio Bolsonaro announces his running mate for Brazil's October election",
+      "source_url": "https://abcnews.com/International/wireStory/flvio-bolsonaro-announces-running-mate-brazils-october-election-135397149"
+    },
+    {
+      "title": "MAGA rep who is accused of sexually harassing staffers announces at 3:30 am he is not seeking reelection",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "MAGA rep who is accused of sexually harassing staffers announces at 3:30 am he is not seeking reelection",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/chuck-edwards-quits-reelection-bid-investigation-b3027962.html"
     },
     {
       "title": "We're headed toward the first true AI election",
@@ -35,97 +59,79 @@
       "date": "",
       "description": "We're headed toward the first true AI election",
       "source_url": "https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028"
-    },
-    {
-      "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Michigan, Missouri, Washington primary elections: Key takeaways",
-      "source_url": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss"
-    },
-    {
-      "title": "Maryland lawmakers approve redistricting referendum",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Maryland lawmakers approve redistricting referendum",
-      "source_url": "https://thehill.com/homenews/campaign/6009593-maryland-redistricting-referendum-approved"
-    },
-    {
-      "title": "Live results: Michigan voters head to polls for House primaries",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Live results: Michigan voters head to polls for House primaries",
-      "source_url": "https://thehill.com/homenews/campaign/5988817-live-results-michigan-house-primaries"
     }
   ],
   "global_events": [
     {
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-      "summary": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "summary": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage"
-    },
-    {
-      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
-      "summary": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – Europe live",
-      "outlets_covering": [
+        "BBC World",
+        "NYT World",
         "The Guardian World",
+        "Bloomberg",
         "The Independent",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates"
-    },
-    {
-      "title": "Republican Chuck Edwards drops bid for re-election after report finding sexual harassment of staffers",
-      "summary": "Republican Chuck Edwards drops bid for re-election after report finding sexual harassment of staffers",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/aug/05/chuck-edwards-sexual-harassment-reelection"
-    },
-    {
-      "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-      "summary": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-      "outlets_covering": [
         "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 2,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss"
+      "source_url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Terrifying': deadly Russian attack on Kyiv overwhelms Ukraine's air defence",
-      "summary": "'Terrifying': deadly Russian attack on Kyiv overwhelms Ukraine's air defence",
+      "title": "US revokes Brazil ambassador’s visa over diplomatic tensions",
+      "summary": "US revokes Brazil ambassador’s visa over diplomatic tensions",
       "outlets_covering": [
-        "NYT World",
+        "NBC News World",
         "The Guardian World",
-        "France24"
+        "The Hill"
       ],
       "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/6012601-us-revokes-brazilian-ambassador-visa"
+    },
+    {
+      "title": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
+      "summary": "Explosive Drone Found at German Airport Used by Ukrainian Carrier",
+      "outlets_covering": [
+        "BBC World",
+        "Fox News World",
+        "NYT World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/08/05/world/europe/germany-explosive-drone-airport.html"
+    },
+    {
+      "title": "Under Patel, FBI forges unprecedented law enforcement ties with China and Russia",
+      "summary": "Under Patel, FBI forges unprecedented law enforcement ties with China and Russia",
+      "outlets_covering": [
+        "The Independent",
+        "Japan Times"
+      ],
+      "coverage_count": 2,
       "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260805-terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defence"
+      "category": "Politics",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/06/world/politics/patel-fbi-law-ties-china-russia"
+    },
+    {
+      "title": "At least 17 killed in Ukraine after Russian strikes on capital of Kyiv and surrounding region",
+      "summary": "At least 17 killed in Ukraine after Russian strikes on capital of Kyiv and surrounding region",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/at-least-17-killed-in-ukraine-after-russian-strikes-on-capital-of-kyiv-and-surrounding-region"
     }
   ]
 }
