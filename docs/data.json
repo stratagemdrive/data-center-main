@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T13:40:29.496017Z",
+  "last_updated": "2026-08-07T02:06:43.918696Z",
   "world_org_meetings": [
     {
       "title": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
@@ -8,18 +8,34 @@
       "location": "",
       "description": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
       "source_url": "https://www.thehindu.com/news/international/what-key-issues-of-the-brics-summit-to-be-held-in-new-delhi-in-september-explained/article71307180.ece"
-    },
-    {
-      "title": "India invites Bangladesh PM Rahman to attend BRICS summit",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "India invites Bangladesh PM Rahman to attend BRICS summit",
-      "source_url": "https://www.thehindu.com/news/national/india-invites-bangladesh-pm-rahman-to-attend-brics-summit/article71305448.ece"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
+      "source_url": "https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-bank-palestinians"
+    },
+    {
+      "title": "Bangladesh to hold presidential election on August 20: EC",
+      "country": "Bangladesh",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Bangladesh to hold presidential election on August 20: EC",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-to-hold-presidential-election-on-august-20-ec/article71315019.ece"
+    },
+    {
+      "title": "Russia ramps up disinformation war as French presidential elections draw nearer",
+      "country": "Russia",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Russia ramps up disinformation war as French presidential elections draw nearer",
+      "source_url": "https://www.france24.com/en/russia-ramps-up-disinformation-war-as-french-presidential-elections-draw-nearer"
+    },
     {
       "title": "After Michigan, Wisconsin Democrats now face a party divide in key gubernatorial and congressional primary elections",
       "country": "",
@@ -29,53 +45,15 @@
       "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-francesca-hong-wisconsin-primary-b3028444.html"
     },
     {
-      "title": "Abdul El-Sayed narrowly won in Michigan. Here’s what that could mean for progressives in future elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Abdul El-Sayed narrowly won in Michigan. Here’s what that could mean for progressives in future elections",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/abdul-el-sayed-progressives-victory-b3028266.html"
-    },
-    {
-      "title": "Flávio Bolsonaro announces his running mate for Brazil's October election",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Flávio Bolsonaro announces his running mate for Brazil's October election",
-      "source_url": "https://abcnews.com/International/wireStory/flvio-bolsonaro-announces-running-mate-brazils-october-election-135397149"
-    },
-    {
       "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
       "source_url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment"
-    },
-    {
-      "title": "MAGA rep who is accused of sexually harassing staffers announces at 3:30 am he is not seeking reelection",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "MAGA rep who is accused of sexually harassing staffers announces at 3:30 am he is not seeking reelection",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/chuck-edwards-quits-reelection-bid-investigation-b3027962.html"
     }
   ],
   "global_events": [
-    {
-      "title": "US Senate committee votes to hold Fauci in contempt",
-      "summary": "US Senate committee votes to hold Fauci in contempt",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "Iran, Oman deal on Strait of Hormuz getting close, Tehran says",
       "summary": "Iran, Oman deal on Strait of Hormuz getting close, Tehran says",
@@ -84,58 +62,77 @@
         "CBS News World",
         "NYT World",
         "The Guardian World",
+        "Wash Post World",
         "Bloomberg",
         "The Independent",
-        "France24",
+        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 12,
+      "coverage_count": 13,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-deal"
     },
     {
-      "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
-      "summary": "Ebola outbreak accelerates as healthcare workers strike over pay",
+      "title": "Carney calls trade talks with US ‘nasty’",
+      "summary": "Carney calls trade talks with US ‘nasty’",
       "outlets_covering": [
         "ABC News Intl",
-        "Al Jazeera",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss"
-    },
-    {
-      "title": "Gianni Infantino lives to see another day after FIFA crisis meeting",
-      "summary": "Gianni Infantino lives to see another day after FIFA crisis meeting",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "France24"
+        "NYT World",
+        "The Hill"
       ],
       "coverage_count": 3,
       "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260806-gianni-infantino-lives-to-see-another-day-after-fifa-crisis-meeting"
+      "category": "Economy",
+      "source_url": "https://thehill.com/policy/international/6015604-carney-canada-trump-trade-negotiations"
     },
     {
-      "title": "Drone with explosive device found at German airport, detonator removed",
-      "summary": "Drone with explosive device found at German airport, detonator removed",
+      "title": "Iran says Hormuz deal with Oman won’t fully reopen strait",
+      "summary": "Iran says Hormuz deal with Oman won’t fully reopen strait",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "Fox News World",
+        "CBS News World",
         "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Japan Times",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/08/06/iran-says-hormuz-deal-with-oman-wont-fully-reopen-strait"
+    },
+    {
+      "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+      "summary": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+      "outlets_covering": [
+        "The Independent",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss"
+    },
+    {
+      "title": "An Explosive Drone Was Found Near Runway at German Airport. Here's What We Know So Far",
+      "summary": "An Explosive Drone Was Found Near Runway at German Airport. Here's What We Know So Far",
+      "outlets_covering": [
+        "NPR World",
+        "NYT World",
+        "Time",
         "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "Europe",
+      "coverage_count": 6,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/drone-with-explosive-device-found-at-german-airport-detonator-removed/article71311984.ece"
+      "source_url": "https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security"
     }
   ]
 }
