@@ -1,17 +1,29 @@
 {
-  "last_updated": "2026-08-07T02:06:43.918696Z",
-  "world_org_meetings": [
+  "last_updated": "2026-08-07T12:39:18.621856Z",
+  "world_org_meetings": [],
+  "diplomatic_visits": [
     {
-      "title": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
-      "organization": "BRICS",
+      "title": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
+      "participants": [
+        "India China",
+        "LAC",
+        "MEA"
+      ],
       "date": "",
       "location": "",
-      "description": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
-      "source_url": "https://www.thehindu.com/news/international/what-key-issues-of-the-brics-summit-to-be-held-in-new-delhi-in-september-explained/article71307180.ece"
+      "description": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
+      "source_url": "https://www.thehindu.com/news/national/india-china-discuss-lac-situation-and-border-management-during-diplomatic-talks-mea/article71316535.ece"
     }
   ],
-  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "USA: Democrats' progressive wing 'can win primaries'; can they win a general election?",
+      "country": "",
+      "election_type": "General",
+      "date": "",
+      "description": "USA: Democrats' progressive wing 'can win primaries'; can they win a general election?",
+      "source_url": "https://www.france24.com/en/video/20260807-usa-democrats-progressive-wing-can-win-primaries-can-they-win-a-general-election"
+    },
     {
       "title": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
       "country": "Israel",
@@ -29,54 +41,74 @@
       "source_url": "https://www.thehindu.com/news/international/bangladesh-to-hold-presidential-election-on-august-20-ec/article71315019.ece"
     },
     {
-      "title": "Russia ramps up disinformation war as French presidential elections draw nearer",
-      "country": "Russia",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Russia ramps up disinformation war as French presidential elections draw nearer",
-      "source_url": "https://www.france24.com/en/russia-ramps-up-disinformation-war-as-french-presidential-elections-draw-nearer"
-    },
-    {
-      "title": "After Michigan, Wisconsin Democrats now face a party divide in key gubernatorial and congressional primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "After Michigan, Wisconsin Democrats now face a party divide in key gubernatorial and congressional primary elections",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-francesca-hong-wisconsin-primary-b3028444.html"
-    },
-    {
       "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
       "source_url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment"
+    },
+    {
+      "title": "We're headed toward the first true AI election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "We're headed toward the first true AI election",
+      "source_url": "https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028"
     }
   ],
   "global_events": [
     {
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "NYT World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html"
+    },
+    {
       "title": "Iran, Oman deal on Strait of Hormuz getting close, Tehran says",
       "summary": "Iran, Oman deal on Strait of Hormuz getting close, Tehran says",
       "outlets_covering": [
-        "BBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 13,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-deal"
     },
     {
-      "title": "Carney calls trade talks with US ‘nasty’",
-      "summary": "Carney calls trade talks with US ‘nasty’",
+      "title": "How explosive drone found near runway at German airport sparked fears of another ‘hybrid’ Russian attack on Nato",
+      "summary": "How explosive drone found near runway at German airport sparked fears of another ‘hybrid’ Russian attack on Nato",
+      "outlets_covering": [
+        "Fox News World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/europe/germany-leipzig-halle-airport-drone-explosive-nato-ukraine-b3029067.html"
+    },
+    {
+      "title": "Carney says US trade talks are 'nasty' after Trump criticizes Canada's leadership",
+      "summary": "Carney says US trade talks are 'nasty' after Trump criticizes Canada's leadership",
       "outlets_covering": [
         "ABC News Intl",
         "NYT World",
@@ -85,54 +117,19 @@
       "coverage_count": 3,
       "region": "Global",
       "category": "Economy",
-      "source_url": "https://thehill.com/policy/international/6015604-carney-canada-trump-trade-negotiations"
+      "source_url": "https://abcnews.com/International/wireStory/carney-us-trade-talks-nasty-after-trump-criticizes-135436569"
     },
     {
-      "title": "Iran says Hormuz deal with Oman won’t fully reopen strait",
-      "summary": "Iran says Hormuz deal with Oman won’t fully reopen strait",
+      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
+      "summary": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy"
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 11,
+      "coverage_count": 2,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/08/06/iran-says-hormuz-deal-with-oman-wont-fully-reopen-strait"
-    },
-    {
-      "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-      "summary": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-      "outlets_covering": [
-        "The Independent",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Latin America",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss"
-    },
-    {
-      "title": "An Explosive Drone Was Found Near Runway at German Airport. Here's What We Know So Far",
-      "summary": "An Explosive Drone Was Found Near Runway at German Airport. Here's What We Know So Far",
-      "outlets_covering": [
-        "NPR World",
-        "NYT World",
-        "Time",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/08/06/germany-airport-explosive-drone-counterterrorism-investigation-europe-security"
+      "source_url": "https://time.com/article/2026/08/07/us-iran-war-munitions-shortage-weapons-leaks-trump"
     }
   ]
 }
