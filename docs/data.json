@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T12:39:18.621856Z",
+  "last_updated": "2026-08-08T00:52:43.772416Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
@@ -17,12 +17,20 @@
   ],
   "elections": [
     {
-      "title": "USA: Democrats' progressive wing 'can win primaries'; can they win a general election?",
-      "country": "",
-      "election_type": "General",
+      "title": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
+      "country": "Peru",
+      "election_type": "National",
       "date": "",
-      "description": "USA: Democrats' progressive wing 'can win primaries'; can they win a general election?",
-      "source_url": "https://www.france24.com/en/video/20260807-usa-democrats-progressive-wing-can-win-primaries-can-they-win-a-general-election"
+      "description": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
+      "source_url": "https://www.thehindu.com/news/international/keiko-fujimori-is-inaugurated-as-perus-president-following-narrow-election-victory/article71280175.ece"
+    },
+    {
+      "title": "Romero interviewed on CNN about prediction markets and elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Romero interviewed on CNN about prediction markets and elections",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/romero-interviewed-on-cnn-about-prediction-markets-and-elections"
     },
     {
       "title": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
@@ -47,89 +55,86 @@
       "date": "",
       "description": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
       "source_url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment"
-    },
-    {
-      "title": "We're headed toward the first true AI election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "We're headed toward the first true AI election",
-      "source_url": "https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028"
     }
   ],
   "global_events": [
     {
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "summary": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
+      "summary": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
       "outlets_covering": [
         "BBC World",
         "ABC News Intl",
+        "CBS News World",
         "NYT World",
         "Al Jazeera",
         "France24",
-        "The Hindu Intl"
+        "Japan Times",
+        "The Hindu Intl",
+        "Atlantic Council"
       ],
-      "coverage_count": 8,
+      "coverage_count": 11,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html"
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/saudi-arabia-turkey-pakistan-defense-pact"
     },
     {
-      "title": "Iran, Oman deal on Strait of Hormuz getting close, Tehran says",
-      "summary": "Iran, Oman deal on Strait of Hormuz getting close, Tehran says",
+      "title": "Carney says U.S. trade talks 'nasty' after Trump criticises Canada's leadership",
+      "summary": "Carney says U.S. trade talks 'nasty' after Trump criticises Canada's leadership",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NYT World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/carney-says-us-trade-talks-nasty-after-trump-criticises-canadas-leadership/article71318315.ece"
+    },
+    {
+      "title": "Spain retaliates with border controls against Italy as migration row intensifies",
+      "summary": "Spain retaliates with border controls against Italy as migration row intensifies",
+      "outlets_covering": [
+        "Sky News World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/spain-italy-border-controls-migrants-ceuta-b3029461.html"
+    },
+    {
+      "title": "Trump Says Voters Are Angry With Republicans—But Not With Him. Here’s What Polls Show",
+      "summary": "Trump Says Voters Are Angry With Republicans—But Not With Him. Here’s What Polls Show",
+      "outlets_covering": [
+        "Time",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://time.com/article/2026/08/07/trump-republicans-polls-approval-rating-midterms-economy-iran-war"
+    },
+    {
+      "title": "Will Iran and Oman jointly control traffic in the Strait of Hormuz?",
+      "summary": "Will Iran and Oman jointly control traffic in the Strait of Hormuz?",
       "outlets_covering": [
         "CBS News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
+        "DW World",
         "The Hindu Intl",
         "Foreign Policy",
+        "Atlantic Council",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-deal"
-    },
-    {
-      "title": "How explosive drone found near runway at German airport sparked fears of another ‘hybrid’ Russian attack on Nato",
-      "summary": "How explosive drone found near runway at German airport sparked fears of another ‘hybrid’ Russian attack on Nato",
-      "outlets_covering": [
-        "Fox News World",
-        "NYT World",
-        "Time",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/germany-leipzig-halle-airport-drone-explosive-nato-ukraine-b3029067.html"
-    },
-    {
-      "title": "Carney says US trade talks are 'nasty' after Trump criticizes Canada's leadership",
-      "summary": "Carney says US trade talks are 'nasty' after Trump criticizes Canada's leadership",
-      "outlets_covering": [
-        "ABC News Intl",
-        "NYT World",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://abcnews.com/International/wireStory/carney-us-trade-talks-nasty-after-trump-criticizes-135436569"
-    },
-    {
-      "title": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
-      "summary": "Trump Vows to Jail ‘Leakers’ Over Reports of Munitions Shortage Amid Iran Talks",
-      "outlets_covering": [
-        "Time",
-        "The Independent"
-      ],
-      "coverage_count": 2,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/08/07/us-iran-war-munitions-shortage-weapons-leaks-trump"
+      "source_url": "https://www.cbsnews.com/video/will-iran-and-oman-jointly-control-traffic-in-the-strait-of-hormuz"
     }
   ]
 }
