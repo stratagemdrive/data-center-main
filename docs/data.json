@@ -1,21 +1,24 @@
 {
-  "last_updated": "2026-08-08T00:52:43.772416Z",
+  "last_updated": "2026-08-08T12:25:44.926839Z",
   "world_org_meetings": [],
-  "diplomatic_visits": [
-    {
-      "title": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
-      "participants": [
-        "India China",
-        "LAC",
-        "MEA"
-      ],
-      "date": "",
-      "location": "",
-      "description": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
-      "source_url": "https://www.thehindu.com/news/national/india-china-discuss-lac-situation-and-border-management-during-diplomatic-talks-mea/article71316535.ece"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Russia’s only anti-war party eyes support boost at elections",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Russia’s only anti-war party eyes support boost at elections",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/russia-anti-war-party"
+    },
+    {
+      "title": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
+      "source_url": "https://www.thehindu.com/news/international/tensions-prevail-in-pok-as-clashes-continue-between-security-forces-and-jaac-activists-amid-elections/article71287566.ece"
+    },
     {
       "title": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
       "country": "Peru",
@@ -39,57 +42,72 @@
       "date": "",
       "description": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
       "source_url": "https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-bank-palestinians"
-    },
-    {
-      "title": "Bangladesh to hold presidential election on August 20: EC",
-      "country": "Bangladesh",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Bangladesh to hold presidential election on August 20: EC",
-      "source_url": "https://www.thehindu.com/news/international/bangladesh-to-hold-presidential-election-on-august-20-ec/article71315019.ece"
-    },
-    {
-      "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
-      "source_url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment"
     }
   ],
   "global_events": [
     {
-      "title": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
-      "summary": "Saudi Arabia, Turkey, Pakistan sign defense pact amid regional war",
+      "title": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
+      "summary": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
       "outlets_covering": [
         "BBC World",
         "ABC News Intl",
         "CBS News World",
         "NYT World",
-        "Al Jazeera",
-        "France24",
         "Japan Times",
-        "The Hindu Intl",
-        "Atlantic Council"
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/pakistan-saudi-and-turkiye-sign-joint-defence-agreement/article71317632.ece"
+    },
+    {
+      "title": "Iran targets ship in Strait of Hormuz even as it says deal is close",
+      "summary": "Iran targets ship in Strait of Hormuz even as it says deal is close",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "DW World",
+        "Foreign Policy",
+        "Atlantic Council",
+        "The Hill"
       ],
       "coverage_count": 11,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/saudi-arabia-turkey-pakistan-defense-pact"
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks"
     },
     {
-      "title": "Carney says U.S. trade talks 'nasty' after Trump criticises Canada's leadership",
-      "summary": "Carney says U.S. trade talks 'nasty' after Trump criticises Canada's leadership",
+      "title": "At least three killed in Russian strikes in Kyiv region, official says",
+      "summary": "At least three killed in Russian strikes in Kyiv region, official says",
       "outlets_covering": [
-        "ABC News Intl",
-        "NYT World",
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/russia-strikes-attack-on-ukraine-updates-toll-august-8-2026/article71320452.ece"
+    },
+    {
+      "title": "U.S. Senate passes Russia sanctions championed by late Lindsey Graham",
+      "summary": "U.S. Senate passes Russia sanctions championed by late Lindsey Graham",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Japan Times",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 4,
-      "region": "Global",
+      "coverage_count": 5,
+      "region": "Europe / Russia",
       "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/carney-says-us-trade-talks-nasty-after-trump-criticises-canadas-leadership/article71318315.ece"
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/us-senate-russia-sanctions"
     },
     {
       "title": "Spain retaliates with border controls against Italy as migration row intensifies",
@@ -103,38 +121,6 @@
       "region": "Europe",
       "category": "Politics",
       "source_url": "https://www.independent.co.uk/news/world/europe/spain-italy-border-controls-migrants-ceuta-b3029461.html"
-    },
-    {
-      "title": "Trump Says Voters Are Angry With Republicans—But Not With Him. Here’s What Polls Show",
-      "summary": "Trump Says Voters Are Angry With Republicans—But Not With Him. Here’s What Polls Show",
-      "outlets_covering": [
-        "Time",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/08/07/trump-republicans-polls-approval-rating-midterms-economy-iran-war"
-    },
-    {
-      "title": "Will Iran and Oman jointly control traffic in the Strait of Hormuz?",
-      "summary": "Will Iran and Oman jointly control traffic in the Strait of Hormuz?",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "DW World",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "Atlantic Council",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/will-iran-and-oman-jointly-control-traffic-in-the-strait-of-hormuz"
     }
   ]
 }
