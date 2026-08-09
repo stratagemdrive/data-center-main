@@ -1,15 +1,6 @@
 {
-  "last_updated": "2026-08-09T00:55:47.040163Z",
-  "world_org_meetings": [
-    {
-      "title": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
-      "source_url": "https://www.thehindu.com/news/international/what-key-issues-of-the-brics-summit-to-be-held-in-new-delhi-in-september-explained/article71307180.ece"
-    }
-  ],
+  "last_updated": "2026-08-09T12:28:27.644190Z",
+  "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
     {
@@ -19,14 +10,6 @@
       "date": "",
       "description": "Bangladesh to hold presidential election on August 20: EC",
       "source_url": "https://www.thehindu.com/news/international/bangladesh-to-hold-presidential-election-on-august-20-ec/article71315019.ece"
-    },
-    {
-      "title": "Russia’s only anti-war party eyes support boost at elections",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Russia’s only anti-war party eyes support boost at elections",
-      "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/russia-anti-war-party"
     },
     {
       "title": "Romero interviewed on CNN about prediction markets and elections",
@@ -55,6 +38,25 @@
   ],
   "global_events": [
     {
+      "title": "Israel rejects Trump’s Gaza peace plan and won’t withdraw until Hamas disarms",
+      "summary": "Israel rejects Trump’s Gaza peace plan and won’t withdraw until Hamas disarms",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/israel-trump-gaza-peace-plan-netanyahu-b3029970.html"
+    },
+    {
       "title": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
       "summary": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
       "outlets_covering": [
@@ -63,75 +65,63 @@
         "CBS News World",
         "Fox News World",
         "NYT World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
         "Atlantic Council",
         "The Hill"
       ],
-      "coverage_count": 14,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://abcnews.com/International/wireStory/turkey-defense-pact-saudi-arabia-pakistan-aimed-iran-135488875"
     },
     {
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "summary": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "title": "China issues red alert as Typhoon Dolphin hits its eastern coast",
+      "summary": "China issues red alert as Typhoon Dolphin hits its eastern coast",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Guardian World",
-        "Wash Post World",
+        "ABC News Intl",
+        "Bloomberg",
         "DW World",
+        "France24",
         "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "Atlantic Council",
-        "The Hill"
+        "The Hindu Intl"
       ],
-      "coverage_count": 15,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 7,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/china-typhoon-dolphin-hits-eastern-coast/article71324655.ece"
     },
     {
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "summary": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "title": "Iran, Oman near deal on Strait of Hormuz",
+      "summary": "Iran, Oman near deal on Strait of Hormuz",
       "outlets_covering": [
         "BBC World",
-        "CBS News World"
-      ],
-      "coverage_count": 2,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "U.S. Senate passes Russia sanctions championed by late Lindsey Graham",
-      "summary": "U.S. Senate passes Russia sanctions championed by late Lindsey Graham",
-      "outlets_covering": [
+        "NPR World",
         "CBS News World",
         "NBC News World",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "DW World",
+        "France24"
       ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Economy",
-      "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/us-senate-russia-sanctions"
+      "coverage_count": 19,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz"
     },
     {
-      "title": "FIFA warns of efforts to undermine Gianni Infantino amid leadership crisis",
-      "summary": "FIFA warns of efforts to undermine Gianni Infantino amid leadership crisis",
+      "title": "Yemen’s Houthis claim attack on Aramco facility as Saudi says fire extinguished",
+      "summary": "Yemen’s Houthis claim attack on Aramco facility as Saudi says fire extinguished",
       "outlets_covering": [
-        "Sky News World",
-        "Japan Times"
+        "NPR World",
+        "ABC News Intl",
+        "NYT World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 2,
-      "region": "Global",
+      "coverage_count": 4,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/sports/2026/08/09/soccer/fifa-backs-infantino-against-allegations"
+      "source_url": "https://www.thehindu.com/news/international/fire-extinguished-at-aramco-facility-in-jizan-says-saudi-arabia/article71324246.ece"
     }
   ]
 }
