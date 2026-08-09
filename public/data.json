@@ -1,8 +1,25 @@
 {
-  "last_updated": "2026-08-08T12:25:44.926839Z",
-  "world_org_meetings": [],
+  "last_updated": "2026-08-09T00:55:47.040163Z",
+  "world_org_meetings": [
+    {
+      "title": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "What are the key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
+      "source_url": "https://www.thehindu.com/news/international/what-key-issues-of-the-brics-summit-to-be-held-in-new-delhi-in-september-explained/article71307180.ece"
+    }
+  ],
   "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Bangladesh to hold presidential election on August 20: EC",
+      "country": "Bangladesh",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Bangladesh to hold presidential election on August 20: EC",
+      "source_url": "https://www.thehindu.com/news/international/bangladesh-to-hold-presidential-election-on-august-20-ec/article71315019.ece"
+    },
     {
       "title": "Russia’s only anti-war party eyes support boost at elections",
       "country": "Russia",
@@ -10,22 +27,6 @@
       "date": "",
       "description": "Russia’s only anti-war party eyes support boost at elections",
       "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/russia-anti-war-party"
-    },
-    {
-      "title": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections",
-      "source_url": "https://www.thehindu.com/news/international/tensions-prevail-in-pok-as-clashes-continue-between-security-forces-and-jaac-activists-amid-elections/article71287566.ece"
-    },
-    {
-      "title": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
-      "country": "Peru",
-      "election_type": "National",
-      "date": "",
-      "description": "Keiko Fujimori is inaugurated as Peru's President following narrow election victory",
-      "source_url": "https://www.thehindu.com/news/international/keiko-fujimori-is-inaugurated-as-perus-president-following-narrow-election-victory/article71280175.ece"
     },
     {
       "title": "Romero interviewed on CNN about prediction markets and elections",
@@ -42,57 +43,68 @@
       "date": "",
       "description": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
       "source_url": "https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-bank-palestinians"
+    },
+    {
+      "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Rep. Chuck Edwards drops re-election bid after censure recommendation",
+      "source_url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment"
     }
   ],
   "global_events": [
     {
-      "title": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
-      "summary": "Pakistan, Saudi Arabia, Turkiye sign joint defence agreement",
+      "title": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
+      "summary": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
       "outlets_covering": [
         "BBC World",
         "ABC News Intl",
         "CBS News World",
+        "Fox News World",
         "NYT World",
+        "Al Jazeera",
+        "France24",
         "Japan Times",
-        "The Hindu Intl"
+        "Atlantic Council",
+        "The Hill"
       ],
-      "coverage_count": 6,
+      "coverage_count": 14,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/pakistan-saudi-and-turkiye-sign-joint-defence-agreement/article71317632.ece"
+      "source_url": "https://abcnews.com/International/wireStory/turkey-defense-pact-saudi-arabia-pakistan-aimed-iran-135488875"
     },
     {
-      "title": "Iran targets ship in Strait of Hormuz even as it says deal is close",
-      "summary": "Iran targets ship in Strait of Hormuz even as it says deal is close",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "summary": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
       "outlets_covering": [
-        "NPR World",
+        "BBC World",
         "CBS News World",
-        "NYT World",
         "The Guardian World",
         "Wash Post World",
         "DW World",
+        "Japan Times",
+        "The Hindu Intl",
         "Foreign Policy",
         "Atlantic Council",
         "The Hill"
       ],
-      "coverage_count": 11,
+      "coverage_count": 15,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks"
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "At least three killed in Russian strikes in Kyiv region, official says",
-      "summary": "At least three killed in Russian strikes in Kyiv region, official says",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "summary": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "The Hindu Intl"
+        "CBS News World"
       ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
+      "coverage_count": 2,
+      "region": "Latin America",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/russia-strikes-attack-on-ukraine-updates-toll-august-8-2026/article71320452.ece"
+      "source_url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "U.S. Senate passes Russia sanctions championed by late Lindsey Graham",
@@ -110,17 +122,16 @@
       "source_url": "https://www.japantimes.co.jp/news/2026/08/08/world/politics/us-senate-russia-sanctions"
     },
     {
-      "title": "Spain retaliates with border controls against Italy as migration row intensifies",
-      "summary": "Spain retaliates with border controls against Italy as migration row intensifies",
+      "title": "FIFA warns of efforts to undermine Gianni Infantino amid leadership crisis",
+      "summary": "FIFA warns of efforts to undermine Gianni Infantino amid leadership crisis",
       "outlets_covering": [
         "Sky News World",
-        "The Independent",
-        "France24"
+        "Japan Times"
       ],
-      "coverage_count": 3,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/spain-italy-border-controls-migrants-ceuta-b3029461.html"
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/sports/2026/08/09/soccer/fifa-backs-infantino-against-allegations"
     }
   ]
 }
