@@ -1,23 +1,44 @@
 {
-  "last_updated": "2026-08-10T00:57:49.081664Z",
+  "last_updated": "2026-08-10T12:43:40.939860Z",
   "world_org_meetings": [],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
+      "participants": [
+        "India China",
+        "LAC",
+        "MEA"
+      ],
+      "date": "",
+      "location": "",
+      "description": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
+      "source_url": "https://www.thehindu.com/news/national/india-china-discuss-lac-situation-and-border-management-during-diplomatic-talks-mea/article71316535.ece"
+    }
+  ],
   "elections": [
     {
-      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-      "country": "Israel",
-      "election_type": "National",
+      "title": "Count Binface seeks Parliament seat in Britain's wackiest election",
+      "country": "Britain",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "Concerns mount over integrity of Israel’s upcoming October elections",
-      "source_url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss"
+      "description": "Count Binface seeks Parliament seat in Britain's wackiest election",
+      "source_url": "https://abcnews.com/International/wireStory/count-binface-man-plan-seeks-parliament-seat-britains-135508257"
     },
     {
-      "title": "Bangladesh to hold presidential election on August 20: EC",
-      "country": "Bangladesh",
-      "election_type": "Presidential",
+      "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group's boycott call",
+      "country": "Pakistan",
+      "election_type": "National",
       "date": "",
-      "description": "Bangladesh to hold presidential election on August 20: EC",
-      "source_url": "https://www.thehindu.com/news/international/bangladesh-to-hold-presidential-election-on-august-20-ec/article71315019.ece"
+      "description": "Final election phase begins in Pakistan-administered Kashmir despite banned group's boycott call",
+      "source_url": "https://abcnews.com/International/wireStory/final-election-phase-begins-pakistan-administered-kashmir-despite-135509585"
+    },
+    {
+      "title": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters",
+      "source_url": "https://abcnews.com/International/wireStory/new-zealanders-abroad-urged-enroll-election-new-law-135508898"
     },
     {
       "title": "Romero interviewed on CNN about prediction markets and elections",
@@ -52,14 +73,30 @@
         "Time",
         "The Independent"
       ],
-      "coverage_count": 15,
+      "coverage_count": 14,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
     },
     {
-      "title": "Netanyahu rejects Trump-backed Gaza peace plan",
-      "summary": "Netanyahu rejects Trump-backed Gaza peace plan",
+      "title": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
+      "summary": "Ukrainian drone attack on Russian city of Nizhnekamsk kills 13, authorities say",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "NYT World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/ukrainian-drone-attack-on-the-russian-city-of-nizhnekamsk-kills-13-authorities-say/article71328013.ece"
+    },
+    {
+      "title": "Netanyahu rejects US-backed 15-point Gaza peace plan | First Thing",
+      "summary": "Netanyahu rejects US-backed 15-point Gaza peace plan | First Thing",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -67,32 +104,15 @@
         "NBC News World",
         "Sky News World",
         "Fox News World",
-        "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "Time"
+        "Time",
+        "The Independent"
       ],
-      "coverage_count": 17,
+      "coverage_count": 15,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
-      "summary": "Defense pact with Saudi Arabia, Pakistan not aimed at Iran, Turkey says",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "Al Jazeera",
-        "Atlantic Council",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/turkey-defense-pact-saudi-arabia-pakistan-aimed-iran-135488875"
+      "source_url": "https://www.theguardian.com/us-news/2026/aug/10/first-thing-netanyahu-rejects-us-backed-gaza-peace-plan"
     },
     {
       "title": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news",
@@ -109,24 +129,17 @@
       "source_url": "https://abcnews.com/International/wireStory/yemens-houthis-claim-attack-aramco-oil-facility-saudi-135496001"
     },
     {
-      "title": "Iran, Oman near deal on Strait of Hormuz",
-      "summary": "Iran, Oman near deal on Strait of Hormuz",
+      "title": "Turkey says Iran not target of pact with Saudi Arabia, Pakistan",
+      "summary": "Turkey says Iran not target of pact with Saudi Arabia, Pakistan",
       "outlets_covering": [
-        "BBC World",
-        "NBC News World",
         "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "DW World",
-        "France24",
-        "The Hindu Intl",
-        "Foreign Policy"
+        "Atlantic Council",
+        "The Hill"
       ],
-      "coverage_count": 16,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz"
+      "source_url": "https://thehill.com/policy/international/6018834-turkey-says-iran-not-target-of-pact-with-saudi-arabia-pakistan"
     }
   ]
 }
