@@ -1,6 +1,15 @@
 {
-  "last_updated": "2026-08-11T00:57:11.694366Z",
-  "world_org_meetings": [],
+  "last_updated": "2026-08-11T12:40:28.911696Z",
+  "world_org_meetings": [
+    {
+      "title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
+      "source_url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece"
+    }
+  ],
   "diplomatic_visits": [
     {
       "title": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
@@ -17,12 +26,20 @@
   ],
   "elections": [
     {
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "title": "What to know about South Carolina’s election to replace Lindsey Graham",
       "country": "",
-      "election_type": "Parliamentary",
+      "election_type": "National",
       "date": "",
-      "description": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "source_url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss"
+      "description": "What to know about South Carolina’s election to replace Lindsey Graham",
+      "source_url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss"
+    },
+    {
+      "title": "Zambia prepares for 8th general election since its return to a multi-party democracy",
+      "country": "",
+      "election_type": "General",
+      "date": "",
+      "description": "Zambia prepares for 8th general election since its return to a multi-party democracy",
+      "source_url": "https://www.france24.com/en/video/20260811-zambia-prepares-for-8th-general-election-since-its-return-to-a-multi-party-democracy"
     },
     {
       "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
@@ -33,57 +50,83 @@
       "source_url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html"
     },
     {
+      "title": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
+      "country": "Pakistan",
+      "election_type": "National",
+      "date": "",
+      "description": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
+      "source_url": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott"
+    },
+    {
       "title": "Count Binface seeks Parliament seat in Britain's wackiest election",
       "country": "Britain",
       "election_type": "Parliamentary",
       "date": "",
       "description": "Count Binface seeks Parliament seat in Britain's wackiest election",
       "source_url": "https://abcnews.com/International/wireStory/count-binface-man-plan-seeks-parliament-seat-britains-135508257"
-    },
-    {
-      "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group's boycott call",
-      "country": "Pakistan",
-      "election_type": "National",
-      "date": "",
-      "description": "Final election phase begins in Pakistan-administered Kashmir despite banned group's boycott call",
-      "source_url": "https://abcnews.com/International/wireStory/final-election-phase-begins-pakistan-administered-kashmir-despite-135509585"
-    },
-    {
-      "title": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters",
-      "source_url": "https://abcnews.com/International/wireStory/new-zealanders-abroad-urged-enroll-election-new-law-135508898"
     }
   ],
   "global_events": [
     {
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "summary": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "title": "Former Syrian President Assad sentenced to death in absentia",
+      "summary": "Former Syrian President Assad sentenced to death in absentia",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
-        "NBC News World",
-        "Sky News World",
+        "CBC World",
+        "ABC News Intl",
+        "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "Al Jazeera",
-        "DW World",
-        "Foreign Policy"
+        "The Hindu Intl"
       ],
-      "coverage_count": 12,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://abcnews.com/International/wireStory/former-syrian-president-assad-sentenced-death-absentia-135538421"
     },
     {
-      "title": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
-      "summary": "Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened",
+      "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+      "summary": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "Fox News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "DW World",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza"
+    },
+    {
+      "title": "What We Know About the Earthquake in Colombia",
+      "summary": "What We Know About the Earthquake in Colombia",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "The Independent",
+        "DW World",
+        "France24"
+      ],
+      "coverage_count": 17,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html"
+    },
+    {
+      "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+      "summary": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+      "outlets_covering": [
         "CBS News World",
         "NBC News World",
         "Sky News World",
@@ -91,63 +134,29 @@
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "Time"
+        "Time",
+        "DW World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 16,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+      "source_url": "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
-      "summary": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
+      "title": "Rescuers race to find Colombia earthquake survivors as death toll rises",
+      "summary": "Rescuers race to find Colombia earthquake survivors as death toll rises",
       "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
         "CBS News World",
-        "NYT World",
-        "The Guardian World",
         "Wash Post World",
-        "The Independent",
         "DW World",
-        "France24"
-      ],
-      "coverage_count": 10,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news"
-    },
-    {
-      "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "summary": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NYT World",
+        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/ukrainian-drone-attack-russian-city-nizhnekamsk-kills-12-135509497"
-    },
-    {
-      "title": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening",
-      "summary": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Time",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/defense/6021575-iran-oman-hormuz-strait-deal"
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors"
     }
   ]
 }
