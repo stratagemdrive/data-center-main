@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-11T12:40:28.911696Z",
+  "last_updated": "2026-08-12T01:04:05.145668Z",
   "world_org_meetings": [
+    {
+      "title": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
+      "source_url": "https://www.cbsnews.com/video/trump-took-secret-flight-turkey-nato-summit-last-month-due-iranian-missile-threat"
+    },
+    {
+      "title": "Trump hid in catering truck, departed NATO summit via decoy aircraft amid Iran threat: Report",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump hid in catering truck, departed NATO summit via decoy aircraft amid Iran threat: Report",
+      "source_url": "https://thehill.com/homenews/administration/6021771-donald-trump-security-concerns-air-force-one-plane-switch-nato-summit-third-air-force-one"
+    },
     {
       "title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
       "organization": "NATO",
@@ -26,20 +42,36 @@
   ],
   "elections": [
     {
-      "title": "What to know about South Carolina’s election to replace Lindsey Graham",
+      "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "What to know about South Carolina’s election to replace Lindsey Graham",
-      "source_url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss"
+      "description": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
+      "source_url": "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister"
     },
     {
-      "title": "Zambia prepares for 8th general election since its return to a multi-party democracy",
+      "title": "Justice Department sends team to monitor Minnesota primary elections",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Justice Department sends team to monitor Minnesota primary elections",
+      "source_url": "https://thehill.com/homenews/state-watch/6023428-doj-monitors-minnesota-primary"
+    },
+    {
+      "title": "Watch live: DDHQ, The Hill track and analyze primary elections in WI, SC, MN and more",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Watch live: DDHQ, The Hill track and analyze primary elections in WI, SC, MN and more",
+      "source_url": "https://thehill.com/homenews/6020347-watch-live-ddhq-the-hill-primary-coverage"
+    },
+    {
+      "title": "Key issues in Zambia's 2026 general election",
       "country": "",
       "election_type": "General",
       "date": "",
-      "description": "Zambia prepares for 8th general election since its return to a multi-party democracy",
-      "source_url": "https://www.france24.com/en/video/20260811-zambia-prepares-for-8th-general-election-since-its-return-to-a-multi-party-democracy"
+      "description": "Key issues in Zambia's 2026 general election",
+      "source_url": "https://www.dw.com/en/key-issues-in-zambia-s-2026-general-election/a-78320087?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
@@ -48,115 +80,84 @@
       "date": "",
       "description": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
       "source_url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html"
-    },
-    {
-      "title": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-      "country": "Pakistan",
-      "election_type": "National",
-      "date": "",
-      "description": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-      "source_url": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott"
-    },
-    {
-      "title": "Count Binface seeks Parliament seat in Britain's wackiest election",
-      "country": "Britain",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Count Binface seeks Parliament seat in Britain's wackiest election",
-      "source_url": "https://abcnews.com/International/wireStory/count-binface-man-plan-seeks-parliament-seat-britains-135508257"
     }
   ],
   "global_events": [
     {
-      "title": "Former Syrian President Assad sentenced to death in absentia",
-      "summary": "Former Syrian President Assad sentenced to death in absentia",
+      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+      "summary": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
       "outlets_covering": [
         "NPR World",
         "CBC World",
         "ABC News Intl",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/former-syrian-president-assad-sentenced-death-absentia-135538421"
+      "source_url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
     },
     {
-      "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
-      "summary": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "DW World",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza"
-    },
-    {
-      "title": "What We Know About the Earthquake in Colombia",
-      "summary": "What We Know About the Earthquake in Colombia",
+      "title": "Ukraine says Russia fired North Korean missiles in deadly attack",
+      "summary": "Ukraine says Russia fired North Korean missiles in deadly attack",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
+        "CBC World",
         "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "The Independent",
-        "DW World",
-        "France24"
-      ],
-      "coverage_count": 17,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html"
-    },
-    {
-      "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-      "summary": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "DW World",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-rdf"
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/ukraine-says-russia-fired-north-korean-missiles-in-deadly-attack/article71333786.ece"
     },
     {
-      "title": "Rescuers race to find Colombia earthquake survivors as death toll rises",
-      "summary": "Rescuers race to find Colombia earthquake survivors as death toll rises",
+      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+      "summary": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
       "outlets_covering": [
+        "BBC World",
         "CBS News World",
-        "Wash Post World",
+        "NBC News World",
+        "NYT World",
         "DW World",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 10,
       "region": "Latin America",
       "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors"
+      "source_url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
+    },
+    {
+      "title": "U.S. and Iran close to \"peace arrangement or a deal,\" Pakistan says",
+      "summary": "U.S. and Iran close to \"peace arrangement or a deal,\" Pakistan says",
+      "outlets_covering": [
+        "CBS News World",
+        "Bloomberg",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-compensation-negotiation"
+    },
+    {
+      "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+      "summary": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+      "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
     }
   ]
 }
