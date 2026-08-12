@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-12T01:04:05.145668Z",
+  "last_updated": "2026-08-12T12:43:42.693046Z",
   "world_org_meetings": [
+    {
+      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "organization": "NATO",
+      "date": "",
+      "location": "",
+      "description": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "source_url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
       "organization": "NATO",
@@ -8,22 +16,6 @@
       "location": "",
       "description": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
       "source_url": "https://www.cbsnews.com/video/trump-took-secret-flight-turkey-nato-summit-last-month-due-iranian-missile-threat"
-    },
-    {
-      "title": "Trump hid in catering truck, departed NATO summit via decoy aircraft amid Iran threat: Report",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump hid in catering truck, departed NATO summit via decoy aircraft amid Iran threat: Report",
-      "source_url": "https://thehill.com/homenews/administration/6021771-donald-trump-security-concerns-air-force-one-plane-switch-nato-summit-third-air-force-one"
-    },
-    {
-      "title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
-      "source_url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece"
     }
   ],
   "diplomatic_visits": [
@@ -42,44 +34,44 @@
   ],
   "elections": [
     {
-      "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
-      "source_url": "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister"
-    },
-    {
-      "title": "Justice Department sends team to monitor Minnesota primary elections",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Justice Department sends team to monitor Minnesota primary elections",
-      "source_url": "https://thehill.com/homenews/state-watch/6023428-doj-monitors-minnesota-primary"
-    },
-    {
-      "title": "Watch live: DDHQ, The Hill track and analyze primary elections in WI, SC, MN and more",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Watch live: DDHQ, The Hill track and analyze primary elections in WI, SC, MN and more",
-      "source_url": "https://thehill.com/homenews/6020347-watch-live-ddhq-the-hill-primary-coverage"
-    },
-    {
-      "title": "Key issues in Zambia's 2026 general election",
-      "country": "",
+      "title": "New Zealand PM survives second challenge to leadership just weeks before general election",
+      "country": "New Zealand",
       "election_type": "General",
       "date": "",
-      "description": "Key issues in Zambia's 2026 general election",
-      "source_url": "https://www.dw.com/en/key-issues-in-zambia-s-2026-general-election/a-78320087?maca=en-rss-en-world-4025-rdf"
+      "description": "New Zealand PM survives second challenge to leadership just weeks before general election",
+      "source_url": "https://www.independent.co.uk/news/world/australasia/new-zealand-christopher-luxon-national-party-caucus-meeting-b3031630.html"
     },
     {
-      "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
+      "title": "Zambia’s president rallies for second term ahead of election",
       "country": "",
-      "election_type": "Parliamentary",
+      "election_type": "National",
       "date": "",
-      "description": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
-      "source_url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html"
+      "description": "Zambia’s president rallies for second term ahead of election",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss"
+    },
+    {
+      "title": "Zambia to vote in elections, a southern African country rich in critical minerals",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia to vote in elections, a southern African country rich in critical minerals",
+      "source_url": "https://abcnews.com/International/wireStory/guide-weeks-election-zambia-southern-african-country-rich-135569358"
+    },
+    {
+      "title": "Luxon survives another leadership vote months before New Zealand's election",
+      "country": "New Zealand",
+      "election_type": "National",
+      "date": "",
+      "description": "Luxon survives another leadership vote months before New Zealand's election",
+      "source_url": "https://abcnews.com/International/wireStory/luxon-survives-leadership-vote-months-new-zealands-election-135563644"
+    },
+    {
+      "title": "Zambia's 2026 election: Key issues to watch",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia's 2026 election: Key issues to watch",
+      "source_url": "https://www.dw.com/en/zambia-s-2026-election-key-issues-to-watch/a-78320087?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
@@ -89,75 +81,81 @@
       "outlets_covering": [
         "NPR World",
         "CBC World",
-        "ABC News Intl",
         "Fox News World",
         "NYT World",
         "The Guardian World",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
     },
     {
-      "title": "Ukraine says Russia fired North Korean missiles in deadly attack",
-      "summary": "Ukraine says Russia fired North Korean missiles in deadly attack",
+      "title": "Zhu Rongji, former China Premier who championed reforms and closer economic ties with India, dies aged 97",
+      "summary": "Zhu Rongji, former China Premier who championed reforms and closer economic ties with India, dies aged 97",
       "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "France24",
-        "The Hindu Intl"
+        "NPR World",
+        "NYT World",
+        "Wash Post World",
+        "The Hindu Intl",
+        "SCMP"
       ],
       "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/ukraine-says-russia-fired-north-korean-missiles-in-deadly-attack/article71333786.ece"
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/former-chinese-premier-zhu-rongji-dies-of-illness-at-98/article71336220.ece"
     },
     {
-      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-      "summary": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+      "title": "North Korea launches another missile towards sea ahead of U.S.-South Korean military drills",
+      "summary": "North Korea launches another missile towards sea ahead of U.S.-South Korean military drills",
       "outlets_covering": [
-        "BBC World",
+        "ABC News Intl",
+        "Fox News World",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/north-korea-launches-another-missile-towards-sea-ahead-of-us-south-korean-military-drills/article71335042.ece"
+    },
+    {
+      "title": "Death toll rises after Colombia earthquake",
+      "summary": "Death toll rises after Colombia earthquake",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "Fox News World",
+        "NYT World",
+        "DW World",
+        "France24",
+        "The Hindu Intl",
+        "UN News",
+        "The Hill"
+      ],
+      "coverage_count": 14,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.france24.com/en/death-toll-rises-after-colombia-earthquake"
+    },
+    {
+      "title": "Searching for Survivors After Colombia’s Earthquake",
+      "summary": "Searching for Survivors After Colombia’s Earthquake",
+      "outlets_covering": [
+        "NPR World",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "DW World",
         "France24",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "UN News"
       ],
-      "coverage_count": 10,
+      "coverage_count": 14,
       "region": "Latin America",
       "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
-    },
-    {
-      "title": "U.S. and Iran close to \"peace arrangement or a deal,\" Pakistan says",
-      "summary": "U.S. and Iran close to \"peace arrangement or a deal,\" Pakistan says",
-      "outlets_covering": [
-        "CBS News World",
-        "Bloomberg",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-compensation-negotiation"
-    },
-    {
-      "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
-      "summary": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
-      "outlets_covering": [
-        "BBC World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
+      "source_url": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html"
     }
   ]
 }
