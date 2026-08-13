@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-08-12T12:43:42.693046Z",
+  "last_updated": "2026-08-13T01:05:10.542463Z",
   "world_org_meetings": [
-    {
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "source_url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
       "organization": "NATO",
@@ -16,22 +8,17 @@
       "location": "",
       "description": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
       "source_url": "https://www.cbsnews.com/video/trump-took-secret-flight-turkey-nato-summit-last-month-due-iranian-missile-threat"
-    }
-  ],
-  "diplomatic_visits": [
+    },
     {
-      "title": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
-      "participants": [
-        "India China",
-        "LAC",
-        "MEA"
-      ],
+      "title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "India, China discuss LAC situation and border management during diplomatic talks: MEA",
-      "source_url": "https://www.thehindu.com/news/national/india-china-discuss-lac-situation-and-border-management-during-diplomatic-talks-mea/article71316535.ece"
+      "description": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
+      "source_url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece"
     }
   ],
+  "diplomatic_visits": [],
   "elections": [
     {
       "title": "New Zealand PM survives second challenge to leadership just weeks before general election",
@@ -42,70 +29,39 @@
       "source_url": "https://www.independent.co.uk/news/world/australasia/new-zealand-christopher-luxon-national-party-caucus-meeting-b3031630.html"
     },
     {
-      "title": "Zambia’s president rallies for second term ahead of election",
+      "title": "Can Count Binface defeat Britain's Nigel Farage in this byelection? | About That",
+      "country": "Britain",
+      "election_type": "National",
+      "date": "",
+      "description": "Can Count Binface defeat Britain's Nigel Farage in this byelection? | About That",
+      "source_url": "https://www.cbc.ca/player/play/9.7305322?cmp=rss"
+    },
+    {
+      "title": "What to Watch in Zambia’s Elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Zambia’s president rallies for second term ahead of election",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss"
+      "description": "What to Watch in Zambia’s Elections",
+      "source_url": "https://foreignpolicy.com/2026/08/12/zambia-elections-hichilema-economic-policy-us-china-copper-mines"
     },
     {
-      "title": "Zambia to vote in elections, a southern African country rich in critical minerals",
+      "title": "Russia: Why is the Yabloko party barred from the elections?",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Russia: Why is the Yabloko party barred from the elections?",
+      "source_url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "RFK Jr claims he can’t vote in an election because he is homeless",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Zambia to vote in elections, a southern African country rich in critical minerals",
-      "source_url": "https://abcnews.com/International/wireStory/guide-weeks-election-zambia-southern-african-country-rich-135569358"
-    },
-    {
-      "title": "Luxon survives another leadership vote months before New Zealand's election",
-      "country": "New Zealand",
-      "election_type": "National",
-      "date": "",
-      "description": "Luxon survives another leadership vote months before New Zealand's election",
-      "source_url": "https://abcnews.com/International/wireStory/luxon-survives-leadership-vote-months-new-zealands-election-135563644"
-    },
-    {
-      "title": "Zambia's 2026 election: Key issues to watch",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Zambia's 2026 election: Key issues to watch",
-      "source_url": "https://www.dw.com/en/zambia-s-2026-election-key-issues-to-watch/a-78320087?maca=en-rss-en-world-4025-rdf"
+      "description": "RFK Jr claims he can’t vote in an election because he is homeless",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/rfk-jr-homeless-voting-los-angeles-b3031915.html"
     }
   ],
   "global_events": [
-    {
-      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "summary": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
-    },
-    {
-      "title": "Zhu Rongji, former China Premier who championed reforms and closer economic ties with India, dies aged 97",
-      "summary": "Zhu Rongji, former China Premier who championed reforms and closer economic ties with India, dies aged 97",
-      "outlets_covering": [
-        "NPR World",
-        "NYT World",
-        "Wash Post World",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 5,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/former-chinese-premier-zhu-rongji-dies-of-illness-at-98/article71336220.ece"
-    },
     {
       "title": "North Korea launches another missile towards sea ahead of U.S.-South Korean military drills",
       "summary": "North Korea launches another missile towards sea ahead of U.S.-South Korean military drills",
@@ -121,41 +77,62 @@
       "source_url": "https://www.thehindu.com/news/international/north-korea-launches-another-missile-towards-sea-ahead-of-us-south-korean-military-drills/article71335042.ece"
     },
     {
-      "title": "Death toll rises after Colombia earthquake",
-      "summary": "Death toll rises after Colombia earthquake",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "DW World",
-        "France24",
-        "The Hindu Intl",
-        "UN News",
-        "The Hill"
-      ],
-      "coverage_count": 14,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.france24.com/en/death-toll-rises-after-colombia-earthquake"
-    },
-    {
-      "title": "Searching for Survivors After Colombia’s Earthquake",
-      "summary": "Searching for Survivors After Colombia’s Earthquake",
+      "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
+      "summary": "Colombia earthquake death toll rises as frantic search for survivors continues",
       "outlets_covering": [
         "NPR World",
         "CBS News World",
         "NBC News World",
         "NYT World",
-        "DW World",
-        "France24",
         "The Hindu Intl",
         "UN News"
       ],
-      "coverage_count": 14,
+      "coverage_count": 11,
       "region": "Latin America",
       "category": "Climate",
-      "source_url": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html"
+      "source_url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors"
+    },
+    {
+      "title": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
+      "summary": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "Wash Post World",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 6,
+      "region": "China",
+      "category": "Economy",
+      "source_url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
+    },
+    {
+      "title": "Desperate search for earthquake survivors",
+      "summary": "Desperate search for earthquake survivors",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "NYT World"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.nbcnews.com/nightly-news/video/desperate-search-for-earthquake-survivors-268218949710"
+    },
+    {
+      "title": "Israeli militants besiege two Palestinian families in their West Bank homes",
+      "summary": "Israeli militants besiege two Palestinian families in their West Bank homes",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes"
     }
   ]
 }
