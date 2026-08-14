@@ -1,130 +1,140 @@
 {
-  "last_updated": "2026-08-14T01:04:10.916356Z",
+  "last_updated": "2026-08-14T12:40:46.745835Z",
   "world_org_meetings": [
     {
-      "title": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
-      "organization": "NATO",
+      "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
+      "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
-      "source_url": "https://www.cbsnews.com/video/trump-took-secret-flight-turkey-nato-summit-last-month-due-iranian-missile-threat"
+      "description": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
+      "source_url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-to-visit-india-for-brics-summit-amid-middle-east-tensions/articleshow/133235023.cms"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
+      "participants": [
+        "Iran",
+        "Pezeshkian",
+        "India",
+        "BRICS"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
+      "source_url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-to-visit-india-for-brics-summit-amid-middle-east-tensions/articleshow/133235023.cms"
+    }
+  ],
   "elections": [
     {
-      "title": "What’s at stake in Zambia’s elections?",
+      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "What’s at stake in Zambia’s elections?",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss"
+      "description": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
+      "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
     },
     {
-      "title": "Polls close in Clacton byelection where Nigel Farage faces slew of fringe candidates",
+      "title": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
       "country": "",
-      "election_type": "National",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "Polls close in Clacton byelection where Nigel Farage faces slew of fringe candidates",
-      "source_url": "https://www.theguardian.com/politics/2026/aug/13/clacton-byelection-polls-open"
+      "description": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
+      "source_url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates"
     },
     {
-      "title": "What happens if election deniers run elections?",
+      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "What happens if election deniers run elections?",
-      "source_url": "https://www.vox.com/politics/498994/election-deniers-2026-governor-tom-tiffany"
+      "description": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "source_url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
     },
     {
-      "title": "Nigel Farage faces off against Count Binface in special election denounced as a stunt",
-      "country": "",
+      "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+      "country": "Iran",
       "election_type": "National",
       "date": "",
-      "description": "Nigel Farage faces off against Count Binface in special election denounced as a stunt",
-      "source_url": "https://abcnews.com/International/wireStory/nigel-farage-faces-off-count-binface-special-election-135600658"
+      "description": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+      "source_url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
     },
     {
-      "title": "How money actually works in American elections",
+      "title": "UK far-right leader Farage re-elected in boycotted by-election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "How money actually works in American elections",
-      "source_url": "https://www.vox.com/politics/498848/midterms-campaign-elections-aipac-elsayed-michigan-wisconsin-democrats-republicans"
+      "description": "UK far-right leader Farage re-elected in boycotted by-election",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
-      "summary": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "US says dozens of countries helped China dodge Trump's tariffs",
       "outlets_covering": [
-        "CBS News World",
-        "France24",
-        "The Hindu Intl",
-        "Atlantic Council"
+        "BBC World",
+        "Al Jazeera",
+        "Japan Times",
+        "SCMP",
+        "The Hill"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it"
+      "coverage_count": 5,
+      "region": "China",
+      "category": "Economy",
+      "source_url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
-      "summary": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "title": "Ukraine-Russia war latest: Kyiv says civilian casualties hit highest monthly toll since start of Putin’s war",
+      "summary": "Ukraine-Russia war latest: Kyiv says civilian casualties hit highest monthly toll since start of Putin’s war",
       "outlets_covering": [
-        "CBS News World",
-        "Fox News World",
-        "The Guardian World",
         "The Independent",
-        "France24"
+        "France24",
+        "UN News"
       ],
-      "coverage_count": 6,
+      "coverage_count": 3,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm"
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-nato-jet-crimea-b3032927.html"
     },
     {
-      "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-      "summary": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+      "title": "Poland says it thwarted Russian assassination attempt on U.S. citizen in Warsaw",
+      "summary": "Poland says it thwarted Russian assassination attempt on U.S. citizen in Warsaw",
       "outlets_covering": [
-        "NPR World",
-        "The Independent",
+        "CBS News World",
+        "Wash Post World"
+      ],
+      "coverage_count": 2,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/world/2026/08/14/poland-says-it-thwarted-russian-assassination-attempt-us-citizen-warsaw"
+    },
+    {
+      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
+      "summary": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
         "France24",
-        "Japan Times",
         "The Hindu Intl"
       ],
       "coverage_count": 5,
-      "region": "East / Southeast Asia",
+      "region": "Europe",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest"
+      "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
     },
     {
-      "title": "Search for survivors of Colombia earthquake enters \"final phase\"",
-      "summary": "Search for survivors of Colombia earthquake enters \"final phase\"",
+      "title": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
+      "summary": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
       "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "DW World"
+        "ABC News Intl",
+        "Fox News World",
+        "Japan Times",
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/colombia-earthquake-survivors-search-final-phase"
-    },
-    {
-      "title": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
-      "summary": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "Wash Post World",
-        "The Hindu Intl",
-        "SCMP"
-      ],
-      "coverage_count": 7,
-      "region": "China",
-      "category": "Economy",
-      "source_url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/north-korea-slams-us-south-korea-military-drills-threatens-to-exercise-self-defence/article71343931.ece"
     }
   ]
 }
