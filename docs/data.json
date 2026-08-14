@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T12:44:42.725360Z",
+  "last_updated": "2026-08-14T01:04:10.916356Z",
   "world_org_meetings": [
     {
       "title": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
@@ -8,18 +8,34 @@
       "location": "",
       "description": "Trump took secret flight from Turkey NATO summit last month due to Iranian missile threat",
       "source_url": "https://www.cbsnews.com/video/trump-took-secret-flight-turkey-nato-summit-last-month-due-iranian-missile-threat"
-    },
-    {
-      "title": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Trump secretly flew out of Turkiye after NATO summit because of Iran threat: report",
-      "source_url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "What’s at stake in Zambia’s elections?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "What’s at stake in Zambia’s elections?",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss"
+    },
+    {
+      "title": "Polls close in Clacton byelection where Nigel Farage faces slew of fringe candidates",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Polls close in Clacton byelection where Nigel Farage faces slew of fringe candidates",
+      "source_url": "https://www.theguardian.com/politics/2026/aug/13/clacton-byelection-polls-open"
+    },
+    {
+      "title": "What happens if election deniers run elections?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "What happens if election deniers run elections?",
+      "source_url": "https://www.vox.com/politics/498994/election-deniers-2026-governor-tom-tiffany"
+    },
     {
       "title": "Nigel Farage faces off against Count Binface in special election denounced as a stunt",
       "country": "",
@@ -29,53 +45,58 @@
       "source_url": "https://abcnews.com/International/wireStory/nigel-farage-faces-off-count-binface-special-election-135600658"
     },
     {
-      "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates"
-    },
-    {
       "title": "How money actually works in American elections",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "How money actually works in American elections",
       "source_url": "https://www.vox.com/politics/498848/midterms-campaign-elections-aipac-elsayed-michigan-wisconsin-democrats-republicans"
-    },
-    {
-      "title": "The election deniers coming to a swing state near you",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "The election deniers coming to a swing state near you",
-      "source_url": "https://www.vox.com/politics/498994/election-deniers-2026-governor-tom-tiffany"
-    },
-    {
-      "title": "What to Know About Today’s U.K. Special Election: Farage vs. Binface",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "What to Know About Today’s U.K. Special Election: Farage vs. Binface",
-      "source_url": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-      "summary": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+      "title": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
+      "summary": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
+      "outlets_covering": [
+        "CBS News World",
+        "France24",
+        "The Hindu Intl",
+        "Atlantic Council"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it"
+    },
+    {
+      "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "summary": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "outlets_covering": [
+        "CBS News World",
+        "Fox News World",
+        "The Guardian World",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm"
+    },
+    {
+      "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+      "summary": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
       "outlets_covering": [
         "NPR World",
-        "Sky News World",
-        "Al Jazeera",
+        "The Independent",
         "France24",
+        "Japan Times",
         "The Hindu Intl"
       ],
       "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers"
+      "region": "East / Southeast Asia",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest"
     },
     {
       "title": "Search for survivors of Colombia earthquake enters \"final phase\"",
@@ -83,31 +104,12 @@
       "outlets_covering": [
         "CBS News World",
         "NBC News World",
-        "NYT World",
-        "Al Jazeera",
-        "DW World",
-        "France24"
+        "DW World"
       ],
-      "coverage_count": 9,
+      "coverage_count": 4,
       "region": "Latin America",
       "category": "Climate",
       "source_url": "https://www.cbsnews.com/news/colombia-earthquake-survivors-search-final-phase"
-    },
-    {
-      "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
-      "summary": "Colombia earthquake death toll rises as frantic search for survivors continues",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "France24",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 13,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors"
     },
     {
       "title": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
@@ -123,19 +125,6 @@
       "region": "China",
       "category": "Economy",
       "source_url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
-    },
-    {
-      "title": "Human rights groups sue Trump administration over ICC sanctions",
-      "summary": "Human rights groups sue Trump administration over ICC sanctions",
-      "outlets_covering": [
-        "CBC World",
-        "The Guardian World",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://thehill.com/regulation/court-battles/6024836-human-rights-groups-sue-trump-icc-sanctions"
     }
   ]
 }
