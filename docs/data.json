@@ -1,31 +1,24 @@
 {
-  "last_updated": "2026-08-14T12:40:46.745835Z",
-  "world_org_meetings": [
-    {
-      "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
-      "source_url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-to-visit-india-for-brics-summit-amid-middle-east-tensions/articleshow/133235023.cms"
-    }
-  ],
-  "diplomatic_visits": [
-    {
-      "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
-      "participants": [
-        "Iran",
-        "Pezeshkian",
-        "India",
-        "BRICS"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
-      "source_url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-to-visit-india-for-brics-summit-amid-middle-east-tensions/articleshow/133235023.cms"
-    }
-  ],
+  "last_updated": "2026-08-15T00:38:44.035854Z",
+  "world_org_meetings": [],
+  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+      "source_url": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss"
+    },
+    {
+      "title": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
+      "source_url": "https://www.independent.co.uk/news/world/africa/zambia-election-vote-count-suspended-violence-b3033268.html"
+    },
     {
       "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
       "country": "",
@@ -35,106 +28,91 @@
       "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
     },
     {
-      "title": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
-      "country": "",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
-      "source_url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates"
-    },
-    {
-      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "title": "What to Know About the U.K. Special Election: Farage vs. Binface",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-      "source_url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
+      "description": "What to Know About the U.K. Special Election: Farage vs. Binface",
+      "source_url": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html"
     },
     {
-      "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-      "country": "Iran",
-      "election_type": "National",
-      "date": "",
-      "description": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-      "source_url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
-    },
-    {
-      "title": "UK far-right leader Farage re-elected in boycotted by-election",
+      "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "country": "",
-      "election_type": "National",
+      "election_type": "Presidential",
       "date": "",
-      "description": "UK far-right leader Farage re-elected in boycotted by-election",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss"
+      "description": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
+      "source_url": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html"
     }
   ],
   "global_events": [
     {
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "summary": "US says dozens of countries helped China dodge Trump's tariffs",
+      "title": "Son of Mexico’s former President López Obrador says US revoked his visa",
+      "summary": "Son of Mexico’s former President López Obrador says US revoked his visa",
       "outlets_covering": [
-        "BBC World",
+        "ABC News Intl",
+        "The Independent",
         "Al Jazeera",
-        "Japan Times",
-        "SCMP",
         "The Hill"
       ],
-      "coverage_count": 5,
-      "region": "China",
-      "category": "Economy",
-      "source_url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 4,
+      "region": "Latin America",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/andres-manuel-lopez-obrador-son-us-visa-b3033399.html"
     },
     {
-      "title": "Ukraine-Russia war latest: Kyiv says civilian casualties hit highest monthly toll since start of Putin’s war",
-      "summary": "Ukraine-Russia war latest: Kyiv says civilian casualties hit highest monthly toll since start of Putin’s war",
-      "outlets_covering": [
-        "The Independent",
-        "France24",
-        "UN News"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-nato-jet-crimea-b3032927.html"
-    },
-    {
-      "title": "Poland says it thwarted Russian assassination attempt on U.S. citizen in Warsaw",
-      "summary": "Poland says it thwarted Russian assassination attempt on U.S. citizen in Warsaw",
+      "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
+      "summary": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
       "outlets_covering": [
         "CBS News World",
-        "Wash Post World"
+        "The Independent",
+        "France24"
       ],
-      "coverage_count": 2,
-      "region": "Europe / Russia",
+      "coverage_count": 3,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/08/14/poland-says-it-thwarted-russian-assassination-attempt-us-citizen-warsaw"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas"
     },
     {
-      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
-      "summary": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
+      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "summary": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
       "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "France24",
-        "The Hindu Intl"
+        "CBS News World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Atlantic Council"
       ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss"
     },
     {
-      "title": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
-      "summary": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
+      "title": "Woman charged over vandalism of DC’s World War II memorial, DOJ says",
+      "summary": "Woman charged over vandalism of DC’s World War II memorial, DOJ says",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/crime/wwii-memorial-melissa-farris-arrested-b3033287.html"
+    },
+    {
+      "title": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
+      "summary": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
       "outlets_covering": [
         "ABC News Intl",
-        "Fox News World",
-        "Japan Times",
-        "The Hindu Intl"
+        "NYT World",
+        "The Independent",
+        "France24"
       ],
       "coverage_count": 4,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/north-korea-slams-us-south-korea-military-drills-threatens-to-exercise-self-defence/article71343931.ece"
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/africa/zambia-election-vote-count-suspended-violence-b3033268.html"
     }
   ]
 }
