@@ -1,16 +1,8 @@
 {
-  "last_updated": "2026-08-15T00:38:44.035854Z",
+  "last_updated": "2026-08-15T12:17:12.781536Z",
   "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
-    {
-      "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
-      "source_url": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss"
-    },
     {
       "title": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
       "country": "",
@@ -28,36 +20,50 @@
       "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
     },
     {
-      "title": "What to Know About the U.K. Special Election: Farage vs. Binface",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "What to Know About the U.K. Special Election: Farage vs. Binface",
-      "source_url": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html"
-    },
-    {
       "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "country": "",
       "election_type": "Presidential",
       "date": "",
       "description": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "source_url": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html"
+    },
+    {
+      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "source_url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
+    },
+    {
+      "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+      "country": "Iran",
+      "election_type": "National",
+      "date": "",
+      "description": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+      "source_url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
     }
   ],
   "global_events": [
     {
-      "title": "Son of Mexico’s former President López Obrador says US revoked his visa",
-      "summary": "Son of Mexico’s former President López Obrador says US revoked his visa",
+      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "summary": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "ABC News Intl",
-        "The Independent",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
         "Al Jazeera",
-        "The Hill"
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/andres-manuel-lopez-obrador-son-us-visa-b3033399.html"
+      "coverage_count": 13,
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
@@ -73,46 +79,46 @@
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas"
     },
     {
-      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "summary": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "outlets_covering": [
-        "CBS News World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "Atlantic Council"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss"
-    },
-    {
-      "title": "Woman charged over vandalism of DC’s World War II memorial, DOJ says",
-      "summary": "Woman charged over vandalism of DC’s World War II memorial, DOJ says",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/crime/wwii-memorial-melissa-farris-arrested-b3033287.html"
-    },
-    {
-      "title": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
-      "summary": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
+      "title": "Son of Mexico’s former President López Obrador says US revoked his visa",
+      "summary": "Son of Mexico’s former President López Obrador says US revoked his visa",
       "outlets_covering": [
         "ABC News Intl",
-        "NYT World",
         "The Independent",
-        "France24"
+        "The Hill"
       ],
-      "coverage_count": 4,
-      "region": "Global",
+      "coverage_count": 3,
+      "region": "Latin America",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/africa/zambia-election-vote-count-suspended-violence-b3033268.html"
+      "source_url": "https://www.independent.co.uk/news/world/americas/andres-manuel-lopez-obrador-son-us-visa-b3033399.html"
+    },
+    {
+      "title": "Trump ally Nigel Farage beats Count Binface in special UK election",
+      "summary": "Trump ally Nigel Farage beats Count Binface in special UK election",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NYT World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/6029389-nigel-farage-count-binface-uk-special-election-reform-party"
+    },
+    {
+      "title": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
+      "summary": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
+      "outlets_covering": [
+        "ABC News Intl",
+        "Fox News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/north-korea-slams-us-south-korea-military-drills-threatens-to-exercise-self-defence/article71343931.ece"
     }
   ]
 }
