@@ -1,24 +1,8 @@
 {
-  "last_updated": "2026-08-15T12:17:12.781536Z",
+  "last_updated": "2026-08-16T00:40:46.469681Z",
   "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
-    {
-      "title": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Zambia election chaos erupts as vote count halted over alleged violence and ballot paper theft",
-      "source_url": "https://www.independent.co.uk/news/world/africa/zambia-election-vote-count-suspended-violence-b3033268.html"
-    },
-    {
-      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
-      "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
-    },
     {
       "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "country": "",
@@ -26,6 +10,14 @@
       "date": "",
       "description": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "source_url": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html"
+    },
+    {
+      "title": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
+      "source_url": "https://abcnews.com/International/wireStory/zambia-suspends-vote-counting-election-reports-violence-theft-135637262"
     },
     {
       "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
@@ -42,83 +34,98 @@
       "date": "",
       "description": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
       "source_url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
+    },
+    {
+      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
+      "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "summary": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 47 and toppling buildings",
+      "summary": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 47 and toppling buildings",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.thehindu.com/news/international/indonesia-earthquake-august-15-2026/article71347456.ece"
+    },
+    {
+      "title": "Iran calls Trump's plan to turn Strait of Hormuz into U.S. territory \"delusions\"",
+      "summary": "Iran calls Trump's plan to turn Strait of Hormuz into U.S. territory \"delusions\"",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "The Hindu Intl",
+        "Atlantic Council",
+        "The Hill"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/video/iran-calls-trumps-plan-to-turn-strait-of-hormuz-into-us-territory-delusions"
+    },
+    {
+      "title": "Powerful 7.7 magnitude earthquake devastates Indonesia",
+      "summary": "Powerful 7.7 magnitude earthquake devastates Indonesia",
       "outlets_covering": [
         "BBC World",
         "NPR World",
+        "CBC World",
         "ABC News Intl",
         "CBS News World",
         "NBC News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 13,
+      "coverage_count": 12,
       "region": "East / Southeast Asia",
       "category": "Climate",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/video/powerful-77-magnitude-earthquake-devastates-indonesia"
     },
     {
-      "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
-      "summary": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
+      "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "summary": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
       "outlets_covering": [
-        "CBS News World",
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "NYT World",
+        "The Guardian World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate"
+    },
+    {
+      "title": "Hawaii bracing for ‘enormous’ storm as Lala strengthens into a hurricane",
+      "summary": "Hawaii bracing for ‘enormous’ storm as Lala strengthens into a hurricane",
+      "outlets_covering": [
+        "CBC World",
         "The Independent",
-        "France24"
+        "Al Jazeera"
       ],
       "coverage_count": 3,
       "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas"
-    },
-    {
-      "title": "Son of Mexico’s former President López Obrador says US revoked his visa",
-      "summary": "Son of Mexico’s former President López Obrador says US revoked his visa",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Latin America",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/andres-manuel-lopez-obrador-son-us-visa-b3033399.html"
-    },
-    {
-      "title": "Trump ally Nigel Farage beats Count Binface in special UK election",
-      "summary": "Trump ally Nigel Farage beats Count Binface in special UK election",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NYT World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/6029389-nigel-farage-count-binface-uk-special-election-reform-party"
-    },
-    {
-      "title": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
-      "summary": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Fox News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/north-korea-slams-us-south-korea-military-drills-threatens-to-exercise-self-defence/article71343931.ece"
+      "category": "Climate",
+      "source_url": "https://www.independent.co.uk/news/world/americas/hurricane-lala-hawaii-big-island-forecast-b3033686.html"
     }
   ]
 }
