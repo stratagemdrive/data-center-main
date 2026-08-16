@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-08-16T00:40:46.469681Z",
+  "last_updated": "2026-08-16T12:18:07.958860Z",
   "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Evening newswrap: Flyer’s pistol ‘accidentally’ goes off at Varanasi airport; Netanyahu's litmus test in Israel election &amp; more",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "Evening newswrap: Flyer’s pistol ‘accidentally’ goes off at Varanasi airport; Netanyahu's litmus test in Israel election &amp; more",
+      "source_url": "https://timesofindia.indiatimes.com/india/evening-newswrap-flyers-pistol-accidentally-goes-off-at-varanasi-airport-netanyahus-litmus-test-in-israel-election-more/articleshow/133273856.cms"
+    },
+    {
+      "title": "Brazil election: Lula and the new face of Bolsonaro's right",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Brazil election: Lula and the new face of Bolsonaro's right",
+      "source_url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right"
+    },
+    {
+      "title": "A nation divided: What do Israelis want in October’s elections?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "A nation divided: What do Israelis want in October’s elections?",
+      "source_url": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss"
+    },
     {
       "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "country": "",
@@ -12,55 +36,43 @@
       "source_url": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html"
     },
     {
-      "title": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
-      "source_url": "https://abcnews.com/International/wireStory/zambia-suspends-vote-counting-election-reports-violence-theft-135637262"
-    },
-    {
       "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "source_url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
-    },
-    {
-      "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-      "country": "Iran",
-      "election_type": "National",
-      "date": "",
-      "description": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-      "source_url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
-    },
-    {
-      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
-      "source_url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 47 and toppling buildings",
-      "summary": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, killing at least 47 and toppling buildings",
+      "title": "Australian state reeling from Bondi shooting to start gun buyback scheme in November",
+      "summary": "Australian state reeling from Bondi shooting to start gun buyback scheme in November",
       "outlets_covering": [
+        "BBC World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/australasia/australia-gun-buyback-scheme-nsw-bondi-attack-b3033799.html"
+    },
+    {
+      "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
+      "summary": "Ukraine launches one of the largest aerial attacks on Russia yet",
+      "outlets_covering": [
+        "BBC World",
         "NPR World",
-        "CBC World",
         "ABC News Intl",
         "CBS News World",
-        "NBC News World",
-        "NYT World",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/indonesia-earthquake-august-15-2026/article71347456.ece"
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries"
     },
     {
       "title": "Iran calls Trump's plan to turn Strait of Hormuz into U.S. territory \"delusions\"",
@@ -72,30 +84,10 @@
         "Atlantic Council",
         "The Hill"
       ],
-      "coverage_count": 6,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/video/iran-calls-trumps-plan-to-turn-strait-of-hormuz-into-us-territory-delusions"
-    },
-    {
-      "title": "Powerful 7.7 magnitude earthquake devastates Indonesia",
-      "summary": "Powerful 7.7 magnitude earthquake devastates Indonesia",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 12,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/video/powerful-77-magnitude-earthquake-devastates-indonesia"
     },
     {
       "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
@@ -115,17 +107,20 @@
       "source_url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate"
     },
     {
-      "title": "Hawaii bracing for ‘enormous’ storm as Lala strengthens into a hurricane",
-      "summary": "Hawaii bracing for ‘enormous’ storm as Lala strengthens into a hurricane",
+      "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
+      "summary": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
       "outlets_covering": [
         "CBC World",
-        "The Independent",
-        "Al Jazeera"
+        "ABC News Intl",
+        "Sky News World",
+        "The Guardian World",
+        "DW World",
+        "France24"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.independent.co.uk/news/world/americas/hurricane-lala-hawaii-big-island-forecast-b3033686.html"
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/israeli-airstrikes-southern-lebanon-kill-11-people-test-135667085"
     }
   ]
 }
