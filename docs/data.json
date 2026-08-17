@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-17T00:39:04.730454Z",
+  "last_updated": "2026-08-17T12:21:41.707810Z",
   "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Brazil election: Lula and the new face of Bolsonaro's right",
-      "country": "Brazil",
+      "title": "Smriti Irani gets key party role: Why BJP has turned to its 'giant killer' before UP elections",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Brazil election: Lula and the new face of Bolsonaro's right",
-      "source_url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right"
+      "description": "Smriti Irani gets key party role: Why BJP has turned to its 'giant killer' before UP elections",
+      "source_url": "https://timesofindia.indiatimes.com/india/smriti-irani-gets-key-party-role-why-bjp-has-turned-to-its-giant-killer-before-up-elections/articleshow/133295057.cms"
     },
     {
       "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
@@ -18,22 +18,6 @@
       "date": "",
       "description": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
       "source_url": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html"
-    },
-    {
-      "title": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
-      "source_url": "https://abcnews.com/International/wireStory/zambia-suspends-vote-counting-election-reports-violence-theft-135637262"
-    },
-    {
-      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-      "source_url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
     },
     {
       "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
@@ -46,86 +30,89 @@
   ],
   "global_events": [
     {
-      "title": "Ukraine Launches One of the War’s Largest Drone Attacks, Killing 6",
-      "summary": "Ukraine Launches One of the War’s Largest Drone Attacks, Killing 6",
+      "title": "Trump orders US to scale back South Korea military drills",
+      "summary": "Trump orders US to scale back South Korea military drills",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 16,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss"
+    },
+    {
+      "title": "Kushner meets with Netanyahu after rare Hamas talks over stalled Gaza plan",
+      "summary": "Kushner meets with Netanyahu after rare Hamas talks over stalled Gaza plan",
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
-        "CBS News World",
-        "Time",
-        "France24"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://time.com/article/2026/08/16/ukraine-launches-one-of-the-wars-largest-drone-attacks-killing-6"
-    },
-    {
-      "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-      "summary": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
         "The Independent",
         "Al Jazeera",
         "France24",
-        "The Hindu Intl",
-        "Axios"
+        "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 16,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html"
+      "source_url": "https://www.nbcnews.com/world/gaza/kushner-netanyahu-hamas-talks-gaza-plan-peace-trump-rcna592871"
     },
     {
-      "title": "Democratic Republic of Congo's Ebola outbreak is now the deadliest in its history",
-      "summary": "Democratic Republic of Congo's Ebola outbreak is now the deadliest in its history",
+      "title": "Ukraine launches one of its largest drone attacks on Russia",
+      "summary": "Ukraine launches one of its largest drone attacks on Russia",
       "outlets_covering": [
-        "CBC World",
-        "Sky News World",
-        "The Guardian World"
-      ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.cbc.ca/news/world/drc-ebola-outbreak-deadliest-in-history-9.7309296?cmp=rss"
-    },
-    {
-      "title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53",
-      "summary": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World"
-      ],
-      "coverage_count": 4,
-      "region": "East / Southeast Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning"
-    },
-    {
-      "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-      "summary": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-      "outlets_covering": [
-        "BBC World",
         "NPR World",
         "ABC News Intl",
         "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
+        "Time",
         "The Independent",
-        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260817-ukraine-launches-one-of-its-largest-drone-attacks-on-russia"
+    },
+    {
+      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "summary": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Guardian World",
+        "The Independent",
         "France24"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting"
+      "coverage_count": 5,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history"
+    },
+    {
+      "title": "After killing hundreds in boat strikes, U.S. military expands campaign on land in Latin America",
+      "summary": "After killing hundreds in boat strikes, U.S. military expands campaign on land in Latin America",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/after-killing-hundreds-in-boat-strikes-us-military-expands-campaign-on-land-in-latin-america/article71355658.ece"
     }
   ]
 }
