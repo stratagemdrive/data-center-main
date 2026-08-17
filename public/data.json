@@ -1,16 +1,8 @@
 {
-  "last_updated": "2026-08-16T12:18:07.958860Z",
+  "last_updated": "2026-08-17T00:39:04.730454Z",
   "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
-    {
-      "title": "Evening newswrap: Flyer’s pistol ‘accidentally’ goes off at Varanasi airport; Netanyahu's litmus test in Israel election &amp; more",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "Evening newswrap: Flyer’s pistol ‘accidentally’ goes off at Varanasi airport; Netanyahu's litmus test in Israel election &amp; more",
-      "source_url": "https://timesofindia.indiatimes.com/india/evening-newswrap-flyers-pistol-accidentally-goes-off-at-varanasi-airport-netanyahus-litmus-test-in-israel-election-more/articleshow/133273856.cms"
-    },
     {
       "title": "Brazil election: Lula and the new face of Bolsonaro's right",
       "country": "Brazil",
@@ -18,14 +10,6 @@
       "date": "",
       "description": "Brazil election: Lula and the new face of Bolsonaro's right",
       "source_url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right"
-    },
-    {
-      "title": "A nation divided: What do Israelis want in October’s elections?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "A nation divided: What do Israelis want in October’s elections?",
-      "source_url": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss"
     },
     {
       "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
@@ -36,91 +20,112 @@
       "source_url": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html"
     },
     {
+      "title": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia suspends vote counting in election over reports of violence and the theft of ballot papers",
+      "source_url": "https://abcnews.com/International/wireStory/zambia-suspends-vote-counting-election-reports-violence-theft-135637262"
+    },
+    {
       "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "source_url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
+    },
+    {
+      "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+      "country": "Iran",
+      "election_type": "National",
+      "date": "",
+      "description": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+      "source_url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
     }
   ],
   "global_events": [
     {
-      "title": "Australian state reeling from Bondi shooting to start gun buyback scheme in November",
-      "summary": "Australian state reeling from Bondi shooting to start gun buyback scheme in November",
+      "title": "Ukraine Launches One of the War’s Largest Drone Attacks, Killing 6",
+      "summary": "Ukraine Launches One of the War’s Largest Drone Attacks, Killing 6",
       "outlets_covering": [
-        "BBC World",
-        "The Independent",
-        "Al Jazeera"
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "Time",
+        "France24"
       ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/australasia/australia-gun-buyback-scheme-nsw-bondi-attack-b3033799.html"
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/08/16/ukraine-launches-one-of-the-wars-largest-drone-attacks-killing-6"
     },
     {
-      "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
-      "summary": "Ukraine launches one of the largest aerial attacks on Russia yet",
+      "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+      "summary": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html"
+    },
+    {
+      "title": "Democratic Republic of Congo's Ebola outbreak is now the deadliest in its history",
+      "summary": "Democratic Republic of Congo's Ebola outbreak is now the deadliest in its history",
+      "outlets_covering": [
+        "CBC World",
+        "Sky News World",
+        "The Guardian World"
+      ],
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.cbc.ca/news/world/drc-ebola-outbreak-deadliest-in-history-9.7309296?cmp=rss"
+    },
+    {
+      "title": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53",
+      "summary": "Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World"
+      ],
+      "coverage_count": 4,
+      "region": "East / Southeast Asia",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning"
+    },
+    {
+      "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+      "summary": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "ABC News Intl",
         "CBS News World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries"
-    },
-    {
-      "title": "Iran calls Trump's plan to turn Strait of Hormuz into U.S. territory \"delusions\"",
-      "summary": "Iran calls Trump's plan to turn Strait of Hormuz into U.S. territory \"delusions\"",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "The Hindu Intl",
-        "Atlantic Council",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/video/iran-calls-trumps-plan-to-turn-strait-of-hormuz-into-us-territory-delusions"
-    },
-    {
-      "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-      "summary": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "ABC News Intl",
         "NYT World",
         "The Guardian World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate"
-    },
-    {
-      "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-      "summary": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "The Guardian World",
-        "DW World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
         "France24"
       ],
-      "coverage_count": 6,
+      "coverage_count": 13,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/israeli-airstrikes-southern-lebanon-kill-11-people-test-135667085"
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting"
     }
   ]
 }
