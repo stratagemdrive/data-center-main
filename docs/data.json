@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T00:38:35.076880Z",
+  "last_updated": "2026-08-18T12:23:38.212551Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
@@ -18,130 +18,128 @@
   ],
   "elections": [
     {
-      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-      "source_url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss"
-    },
-    {
-      "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-      "country": "Israel",
-      "election_type": "General",
-      "date": "",
-      "description": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-      "source_url": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss"
-    },
-    {
-      "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
+      "title": "Zambia's election marred by irregularities and 'militia' arrests",
       "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
-      "source_url": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html"
-    },
-    {
-      "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-      "country": "Iran",
       "election_type": "National",
       "date": "",
-      "description": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-      "source_url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum"
+      "description": "Zambia's election marred by irregularities and 'militia' arrests",
+      "source_url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Zambia's president re-elected to 2nd term following election-night violence",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia's president re-elected to 2nd term following election-night violence",
+      "source_url": "https://www.cbc.ca/news/world/zambia-president-re-elected-2nd-term-9.7310524?cmp=rss"
+    },
+    {
+      "title": "Election officials say Zambian President Hakainde Hichilema has been reelected to a second five-year term",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Election officials say Zambian President Hakainde Hichilema has been reelected to a second five-year term",
+      "source_url": "https://abcnews.com/International/wireStory/election-officials-zambian-president-hakainde-hichilema-reelected-year-135725553"
+    },
+    {
+      "title": "Zambia Says President Won Re-election After Tumultuous Campaign",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia Says President Won Re-election After Tumultuous Campaign",
+      "source_url": "https://www.nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html"
+    },
+    {
+      "title": "Rights group urges FIFA to block Infantino reelection bid over term limits",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Rights group urges FIFA to block Infantino reelection bid over term limits",
+      "source_url": "https://www.japantimes.co.jp/sports/2026/08/18/soccer/rights-group-fifa-block-infantino"
     }
   ],
   "global_events": [
     {
-      "title": "Trump threatens to bomb Oman if it interferes with Strait of Hormuz deal",
-      "summary": "Trump threatens to bomb Oman if it interferes with Strait of Hormuz deal",
+      "title": "Trump threatens to bomb Oman if it gets in way of Iran deal",
+      "summary": "Trump threatens to bomb Oman if it gets in way of Iran deal",
       "outlets_covering": [
         "BBC World",
         "CBC World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 12,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.nbcnews.com/video/trump-threatens-to-bomb-oman-if-it-interferes-with-strait-of-hormuz-deal-268428869615"
-    },
-    {
-      "title": "DR Congo Ebola outbreak becomes country’s deadliest",
-      "summary": "DR Congo Ebola outbreak becomes country’s deadliest",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "ABC News Intl",
-        "The Guardian World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 9,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://www.france24.com/en/dr-congo-ebola-outbreak-becomes-country-s-deadliest"
-    },
-    {
-      "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
-      "summary": "At least 6 dead after Ukraine launches aerial attack on Russia",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
         "CBS News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia"
-    },
-    {
-      "title": "Trump defends his move to cut back U.S.-South Korea military exercises",
-      "summary": "Trump defends his move to cut back U.S.-South Korea military exercises",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
         "NBC News World",
-        "Sky News World",
-        "NYT World",
         "The Guardian World",
         "Wash Post World",
+        "Time",
         "The Independent",
         "Al Jazeera",
-        "Japan Times"
+        "France24"
       ],
-      "coverage_count": 15,
-      "region": "East / Southeast Asia",
+      "coverage_count": 16,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises"
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/18/world/politics/trump-oman-iran-deal"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Kyiv launches one of biggest attacks yet on Moscow with 620 drones",
+      "summary": "Ukraine-Russia war latest: Kyiv launches one of biggest attacks yet on Moscow with 620 drones",
+      "outlets_covering": [
+        "CBS News World",
+        "Time",
+        "The Independent",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-uk-threat-zelensky-drones-b3034637.html"
+    },
+    {
+      "title": "West Bank village of Qusra under siege by extremist Israeli settlers",
+      "summary": "West Bank village of Qusra under siege by extremist Israeli settlers",
+      "outlets_covering": [
+        "NPR World",
+        "NBC News World",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/west-bank-village-of-qusra-under-siege-by-extremist-israeli-settlers"
     },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "summary": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
         "NBC News World",
         "Sky News World",
         "NYT World",
+        "The Guardian World",
         "Wash Post World",
         "The Independent",
-        "Al Jazeera",
-        "France24",
-        "Japan Times"
+        "The Hindu Intl",
+        "Foreign Policy",
+        "The Hill"
       ],
-      "coverage_count": 16,
+      "coverage_count": 13,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
+      "summary": "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "Wash Post World",
+        "The Hindu Intl",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/kushner-has-rare-meeting-with-hamas-chief-on-gaza-road-map-to-meet-netanyahu-next/article71354694.ece"
     }
   ]
 }
