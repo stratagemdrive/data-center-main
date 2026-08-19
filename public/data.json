@@ -1,15 +1,6 @@
 {
-  "last_updated": "2026-08-19T00:38:36.437696Z",
-  "world_org_meetings": [
-    {
-      "title": "BRICS nations oppose EU carbon border tax at the group's environment ministers’ meeting",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "BRICS nations oppose EU carbon border tax at the group's environment ministers’ meeting",
-      "source_url": "https://timesofindia.indiatimes.com/india/brics-nations-oppose-eu-carbon-border-tax-at-the-groups-environment-ministers-meeting/articleshow/133329012.cms"
-    }
-  ],
+  "last_updated": "2026-08-19T12:23:27.093966Z",
+  "world_org_meetings": [],
   "diplomatic_visits": [
     {
       "title": "Xi hits out at ‘outside interference’ in Latin America in meeting with Ecuador’s president",
@@ -38,66 +29,92 @@
   ],
   "elections": [
     {
-      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
-      "country": "Ukraine",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "country": "",
       "election_type": "Presidential",
       "date": "",
-      "description": "Ukraine’s dismissed defence minister calls for wartime presidential election",
-      "source_url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election"
+      "description": "Sacked Ukrainian defence minister calls for presidential election",
+      "source_url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Japan and OAS award Haiti $3M to help troubled country prepare for long-awaited elections",
-      "country": "Japan",
+      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine",
+      "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Japan and OAS award Haiti $3M to help troubled country prepare for long-awaited elections",
-      "source_url": "https://abcnews.com/International/wireStory/japan-oas-award-haiti-3m-troubled-country-prepare-135751106"
+      "description": "Defense minister dismissed by Zelensky demands elections in Ukraine",
+      "source_url": "https://www.washingtonpost.com/world/2026/08/19/mykhailo-fedorov-dismissed-by-zelensky-demands-elections-ukraine"
     },
     {
-      "title": "Iceland’s E.U. Referendum, Explained",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Iceland’s E.U. Referendum, Explained",
-      "source_url": "https://time.com/article/2026/08/11/iceland-european-union-referendum-what-it-means"
-    },
-    {
-      "title": "Manchin calls for change in elections: ‘There’s no competition’",
-      "country": "",
+      "title": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
+      "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Manchin calls for change in elections: ‘There’s no competition’",
-      "source_url": "https://thehill.com/homenews/campaign/6034754-joe-manchin-elections-open-primaries"
+      "description": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-defence-minister-fedorov-zelensky-elections-b3035378.html"
     },
     {
-      "title": "Zambia election marred by irregularities, 'militia' arrests",
+      "title": "Zelenskyy's office is probed for corruption as fired defense minister demands elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Zambia election marred by irregularities, 'militia' arrests",
-      "source_url": "https://www.dw.com/en/zambia-election-marred-by-irregularities-militia-arrests/a-78400154?maca=en-rss-en-world-4025-rdf"
+      "description": "Zelenskyy's office is probed for corruption as fired defense minister demands elections",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-kyiv-vladimir-putin-kherson-b3035520.html"
+    },
+    {
+      "title": "'This is done because Punjab election is coming up': AAP leader Satyendar Jain cries foul after arrest",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "'This is done because Punjab election is coming up': AAP leader Satyendar Jain cries foul after arrest",
+      "source_url": "https://timesofindia.indiatimes.com/india/this-is-done-because-punjab-election-is-coming-up-aap-leader-satyendar-jain-cries-foul-after-arrest/articleshow/133343434.cms"
     }
   ],
   "global_events": [
     {
-      "title": "Trump threatens to bomb Oman if it gets in way of Iran deal",
-      "summary": "Trump threatens to bomb Oman if it gets in way of Iran deal",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Sacked Ukrainian defence minister calls for presidential election",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ebola in the Democratic Republic of Congo: What's going on and why is the outbreak so alarming?",
+      "summary": "Ebola in the Democratic Republic of Congo: What's going on and why is the outbreak so alarming?",
       "outlets_covering": [
         "CBC World",
-        "CBS News World",
-        "NBC News World",
         "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "Al Jazeera",
+        "UN News",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://www.cbc.ca/news/world/ebola-drc-explainer-9.7310743?cmp=rss"
+    },
+    {
+      "title": "Donald Trump pauses 50% tariffs on Canadian goods for three days",
+      "summary": "Donald Trump pauses 50% tariffs on Canadian goods for three days",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
         "Japan Times",
         "The Hindu Intl",
-        "SCMP"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 11,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/08/18/world/politics/trump-oman-iran-deal"
+      "coverage_count": 7,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/donald-trump-pauses-50-tariffs-on-canadian-goods-for-three-days/article71363396.ece"
     },
     {
       "title": "Is Trump choosing North Korea over South Korea? | About That",
@@ -105,60 +122,39 @@
       "outlets_covering": [
         "BBC World",
         "CBC World",
+        "CBS News World",
         "NBC News World",
-        "Sky News World",
         "NYT World",
         "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
         "DW World",
-        "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy"
+        "France24"
       ],
-      "coverage_count": 12,
+      "coverage_count": 16,
       "region": "East / Southeast Asia",
       "category": "Politics",
       "source_url": "https://www.cbc.ca/player/play/9.7311746?cmp=rss"
     },
     {
-      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "summary": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "title": "U.S., South Korea cut short their joint military drills at Trump's direction",
+      "summary": "U.S., South Korea cut short their joint military drills at Trump's direction",
       "outlets_covering": [
-        "BBC World",
+        "CBC World",
         "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Palestinian American challenges Israeli army outside his home in the West Bank",
-      "summary": "Palestinian American challenges Israeli army outside his home in the West Bank",
-      "outlets_covering": [
-        "NPR World",
         "CBS News World",
         "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
         "France24"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank"
-    },
-    {
-      "title": "Navy destroyer went days without power in the South China Sea, leaving sailors without toilets",
-      "summary": "Navy destroyer went days without power in the South China Sea, leaving sailors without toilets",
-      "outlets_covering": [
-        "CBS News World",
-        "Wash Post World",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/defense/6036514-uss-benfold-south-china-sea-engineering-casualty"
+      "coverage_count": 17,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/u-s-south-korea-cut-short-joint-military-drills-trump"
     }
   ]
 }
