@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-18T12:23:38.212551Z",
-  "world_org_meetings": [],
+  "last_updated": "2026-08-19T00:38:36.437696Z",
+  "world_org_meetings": [
+    {
+      "title": "BRICS nations oppose EU carbon border tax at the group's environment ministers’ meeting",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "BRICS nations oppose EU carbon border tax at the group's environment ministers’ meeting",
+      "source_url": "https://timesofindia.indiatimes.com/india/brics-nations-oppose-eu-carbon-border-tax-at-the-groups-environment-ministers-meeting/articleshow/133329012.cms"
+    }
+  ],
   "diplomatic_visits": [
+    {
+      "title": "Xi hits out at ‘outside interference’ in Latin America in meeting with Ecuador’s president",
+      "participants": [
+        "Latin America",
+        "Ecuador’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Xi hits out at ‘outside interference’ in Latin America in meeting with Ecuador’s president",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3364465/xi-hits-out-outside-interference-latin-america-meeting-ecuadors-president"
+    },
     {
       "title": "South Korea hopes for talks between U.S. and North Korea after Trump downsizes military drills",
       "participants": [
@@ -18,44 +38,44 @@
   ],
   "elections": [
     {
-      "title": "Zambia's election marred by irregularities and 'militia' arrests",
-      "country": "",
-      "election_type": "National",
+      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
+      "country": "Ukraine",
+      "election_type": "Presidential",
       "date": "",
-      "description": "Zambia's election marred by irregularities and 'militia' arrests",
-      "source_url": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-world-4025-rdf"
+      "description": "Ukraine’s dismissed defence minister calls for wartime presidential election",
+      "source_url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election"
     },
     {
-      "title": "Zambia's president re-elected to 2nd term following election-night violence",
-      "country": "",
+      "title": "Japan and OAS award Haiti $3M to help troubled country prepare for long-awaited elections",
+      "country": "Japan",
       "election_type": "National",
       "date": "",
-      "description": "Zambia's president re-elected to 2nd term following election-night violence",
-      "source_url": "https://www.cbc.ca/news/world/zambia-president-re-elected-2nd-term-9.7310524?cmp=rss"
+      "description": "Japan and OAS award Haiti $3M to help troubled country prepare for long-awaited elections",
+      "source_url": "https://abcnews.com/International/wireStory/japan-oas-award-haiti-3m-troubled-country-prepare-135751106"
     },
     {
-      "title": "Election officials say Zambian President Hakainde Hichilema has been reelected to a second five-year term",
+      "title": "Iceland’s E.U. Referendum, Explained",
       "country": "",
-      "election_type": "National",
+      "election_type": "Referendum",
       "date": "",
-      "description": "Election officials say Zambian President Hakainde Hichilema has been reelected to a second five-year term",
-      "source_url": "https://abcnews.com/International/wireStory/election-officials-zambian-president-hakainde-hichilema-reelected-year-135725553"
+      "description": "Iceland’s E.U. Referendum, Explained",
+      "source_url": "https://time.com/article/2026/08/11/iceland-european-union-referendum-what-it-means"
     },
     {
-      "title": "Zambia Says President Won Re-election After Tumultuous Campaign",
+      "title": "Manchin calls for change in elections: ‘There’s no competition’",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Zambia Says President Won Re-election After Tumultuous Campaign",
-      "source_url": "https://www.nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html"
+      "description": "Manchin calls for change in elections: ‘There’s no competition’",
+      "source_url": "https://thehill.com/homenews/campaign/6034754-joe-manchin-elections-open-primaries"
     },
     {
-      "title": "Rights group urges FIFA to block Infantino reelection bid over term limits",
+      "title": "Zambia election marred by irregularities, 'militia' arrests",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Rights group urges FIFA to block Infantino reelection bid over term limits",
-      "source_url": "https://www.japantimes.co.jp/sports/2026/08/18/soccer/rights-group-fifa-block-infantino"
+      "description": "Zambia election marred by irregularities, 'militia' arrests",
+      "source_url": "https://www.dw.com/en/zambia-election-marred-by-irregularities-militia-arrests/a-78400154?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
@@ -63,83 +83,82 @@
       "title": "Trump threatens to bomb Oman if it gets in way of Iran deal",
       "summary": "Trump threatens to bomb Oman if it gets in way of Iran deal",
       "outlets_covering": [
-        "BBC World",
         "CBC World",
         "CBS News World",
         "NBC News World",
         "The Guardian World",
         "Wash Post World",
         "Time",
-        "The Independent",
         "Al Jazeera",
-        "France24"
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 16,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.japantimes.co.jp/news/2026/08/18/world/politics/trump-oman-iran-deal"
     },
     {
-      "title": "Ukraine-Russia war latest: Kyiv launches one of biggest attacks yet on Moscow with 620 drones",
-      "summary": "Ukraine-Russia war latest: Kyiv launches one of biggest attacks yet on Moscow with 620 drones",
-      "outlets_covering": [
-        "CBS News World",
-        "Time",
-        "The Independent",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-uk-threat-zelensky-drones-b3034637.html"
-    },
-    {
-      "title": "West Bank village of Qusra under siege by extremist Israeli settlers",
-      "summary": "West Bank village of Qusra under siege by extremist Israeli settlers",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/west-bank-village-of-qusra-under-siege-by-extremist-israeli-settlers"
-    },
-    {
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "summary": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "title": "Is Trump choosing North Korea over South Korea? | About That",
+      "summary": "Is Trump choosing North Korea over South Korea? | About That",
       "outlets_covering": [
         "BBC World",
+        "CBC World",
         "NBC News World",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
         "Wash Post World",
-        "The Independent",
+        "DW World",
+        "Japan Times",
         "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
+        "Foreign Policy"
       ],
-      "coverage_count": 13,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 12,
+      "region": "East / Southeast Asia",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/player/play/9.7311746?cmp=rss"
     },
     {
-      "title": "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
-      "summary": "Kushner has rare meeting with Hamas chief on Gaza road map; to meet Netanyahu next",
+      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "summary": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Palestinian American challenges Israeli army outside his home in the West Bank",
+      "summary": "Palestinian American challenges Israeli army outside his home in the West Bank",
       "outlets_covering": [
         "NPR World",
-        "ABC News Intl",
-        "Wash Post World",
-        "The Hindu Intl",
-        "Axios"
+        "CBS News World",
+        "NBC News World",
+        "France24"
       ],
-      "coverage_count": 8,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/kushner-has-rare-meeting-with-hamas-chief-on-gaza-road-map-to-meet-netanyahu-next/article71354694.ece"
+      "source_url": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank"
+    },
+    {
+      "title": "Navy destroyer went days without power in the South China Sea, leaving sailors without toilets",
+      "summary": "Navy destroyer went days without power in the South China Sea, leaving sailors without toilets",
+      "outlets_covering": [
+        "CBS News World",
+        "Wash Post World",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/defense/6036514-uss-benfold-south-china-sea-engineering-casualty"
     }
   ]
 }
