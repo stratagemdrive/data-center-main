@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T00:41:09.309149Z",
+  "last_updated": "2026-08-21T12:25:12.788044Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
@@ -35,6 +35,14 @@
       "source_url": "https://www.washingtonpost.com/world/2026/08/19/mykhailo-fedorov-dismissed-by-zelensky-demands-elections-ukraine"
     },
     {
+      "title": "Brethren church denies paying far-right activists to stage election stunts targeting Albanese and others",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Brethren church denies paying far-right activists to stage election stunts targeting Albanese and others",
+      "source_url": "https://www.theguardian.com/australia-news/2026/aug/21/brethren-church-denies-paying-far-right-activists-to-stage-election-stunts-targeting-albanese-and-others-ntwnfb"
+    },
+    {
       "title": "Russia bombards Kyiv as fight over elections shatters political unity in Ukraine",
       "country": "Ukraine",
       "election_type": "National",
@@ -57,90 +65,77 @@
       "date": "",
       "description": "Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots",
       "source_url": "https://www.thehindu.com/news/international/bangladesh-presidential-election-voting-results-august-20-2026/article71368465.ece"
-    },
-    {
-      "title": "Ex-defence minister's call for a wartime election puts pressure on Ukraine's Zelenskyy",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "Ex-defence minister's call for a wartime election puts pressure on Ukraine's Zelenskyy",
-      "source_url": "https://www.cbc.ca/news/world/zelenskyy-fedorov-ukraine-politics-war-9.7312955?cmp=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Woman Charged in Alleged Plot to Bomb the New York State Capitol",
-      "summary": "Woman Charged in Alleged Plot to Bomb the New York State Capitol",
-      "outlets_covering": [
-        "BBC World",
-        "Time",
-        "Al Jazeera",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://time.com/article/2026/08/20/new-york-state-capitol-alleged-isis-bomb-plot"
-    },
-    {
-      "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "summary": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html"
-    },
-    {
-      "title": "Iran dismisses Trump's \"economic D-Day\" threat as more \"failed policies\"",
-      "summary": "Iran dismisses Trump's \"economic D-Day\" threat as more \"failed policies\"",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "Time",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat"
-    },
-    {
-      "title": "Cameroon’s Aging President Returns From Monthslong Stay Abroad",
-      "summary": "Cameroon’s Aging President Returns From Monthslong Stay Abroad",
+      "title": "Hopes fade after Central African Republic gold mine collapse kills dozens",
+      "summary": "Hopes fade after Central African Republic gold mine collapse kills dozens",
       "outlets_covering": [
         "ABC News Intl",
         "NYT World",
         "France24"
       ],
       "coverage_count": 3,
-      "region": "Global",
+      "region": "Africa",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html"
+      "source_url": "https://www.france24.com/en/video/20260821-hopes-fade-after-central-african-republic-gold-mine-collapse-kills-dozens"
     },
     {
-      "title": "Powerful earthquake strikes Peru’s southern Andes, USGS says",
-      "summary": "Powerful earthquake strikes Peru’s southern Andes, USGS says",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "summary": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Strong 6.7-magnitude earthquake strikes southern Peru, damaging homes and schools",
+      "summary": "Strong 6.7-magnitude earthquake strikes southern Peru, damaging homes and schools",
       "outlets_covering": [
         "ABC News Intl",
         "The Independent",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "region": "Latin America",
       "category": "Climate",
-      "source_url": "https://www.independent.co.uk/news/world/americas/peru-earthquake-magnitude-andes-usgs-b3036623.html"
+      "source_url": "https://www.france24.com/en/americas/20260821-strong-6-7-magnitude-earthquake-strikes-southern-peru-damaging-homes-and-schools"
+    },
+    {
+      "title": "8 killed in plane crash at remote Alaska radar site: US military",
+      "summary": "8 killed in plane crash at remote Alaska radar site: US military",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/homenews/state-watch/6043055-plane-crash-alaska-8-killed"
+    },
+    {
+      "title": "USS Lincoln heads home after extended deployment to the Middle East",
+      "summary": "USS Lincoln heads home after extended deployment to the Middle East",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639"
     }
   ]
 }
