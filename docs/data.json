@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T12:25:32.469669Z",
+  "last_updated": "2026-08-21T00:41:09.309149Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
@@ -35,12 +35,20 @@
       "source_url": "https://www.washingtonpost.com/world/2026/08/19/mykhailo-fedorov-dismissed-by-zelensky-demands-elections-ukraine"
     },
     {
-      "title": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
+      "title": "Russia bombards Kyiv as fight over elections shatters political unity in Ukraine",
       "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Ukraine’s ousted defence minister challenges Zelensky and calls for wartime elections",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-defence-minister-fedorov-zelensky-elections-b3035378.html"
+      "description": "Russia bombards Kyiv as fight over elections shatters political unity in Ukraine",
+      "source_url": "https://www.washingtonpost.com/world/2026/08/20/election-fight-cracks-political-unity-ukraine-russia-bombards-kyiv"
+    },
+    {
+      "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
+      "country": "Sudan",
+      "election_type": "National",
+      "date": "",
+      "description": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/08/1168173"
     },
     {
       "title": "Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots",
@@ -57,97 +65,82 @@
       "date": "",
       "description": "Ex-defence minister's call for a wartime election puts pressure on Ukraine's Zelenskyy",
       "source_url": "https://www.cbc.ca/news/world/zelenskyy-fedorov-ukraine-politics-war-9.7312955?cmp=rss"
-    },
-    {
-      "title": "Bangladesh holds presidential election in first contested vote in 35 years",
-      "country": "Bangladesh",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Bangladesh holds presidential election in first contested vote in 35 years",
-      "source_url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Russian missile, drone barrage kills at least 16 in Ukraine's Kyiv region",
-      "summary": "Russian missile, drone barrage kills at least 16 in Ukraine's Kyiv region",
+      "title": "Woman Charged in Alleged Plot to Bomb the New York State Capitol",
+      "summary": "Woman Charged in Alleged Plot to Bomb the New York State Capitol",
       "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
+        "BBC World",
+        "Time",
         "Al Jazeera",
         "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-kills-at-least-16-in-ukraines-kyiv-region/article71368973.ece"
-    },
-    {
-      "title": "Trump says will meet North Korea's Kim later this year",
-      "summary": "Trump says will meet North Korea's Kim later this year",
-      "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "France24",
-        "Japan Times",
-        "Foreign Policy",
         "The Hill"
       ],
-      "coverage_count": 12,
-      "region": "East / Southeast Asia",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/trump-says-will-meet-north-korea-s-kim-later-this-year"
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/08/20/new-york-state-capitol-alleged-isis-bomb-plot"
     },
     {
-      "title": "Israel orders criminal probe into killing of 5-year-old Hind Rajab in Gaza",
-      "summary": "Israel orders criminal probe into killing of 5-year-old Hind Rajab in Gaza",
+      "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+      "summary": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
       "outlets_covering": [
         "CBC World",
         "CBS News World",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "France24"
+        "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/israel-hind-rajab-palestinian-girl-killed-gaza-criminal-investigation-idf"
+      "source_url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html"
     },
     {
-      "title": "North Korea fires up to 10 ballistic missiles toward sea, hours after Trump speaks of re-engagement",
-      "summary": "North Korea fires up to 10 ballistic missiles toward sea, hours after Trump speaks of re-engagement",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "The Guardian World",
-        "DW World",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 7,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/north-korea-missile-launch-ulchi-freedom-trump-9.7313643?cmp=rss"
-    },
-    {
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "summary": "Former Liberian vice-president charged in drug-trafficking probe",
+      "title": "Iran dismisses Trump's \"economic D-Day\" threat as more \"failed policies\"",
+      "summary": "Iran dismisses Trump's \"economic D-Day\" threat as more \"failed policies\"",
       "outlets_covering": [
         "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat"
+    },
+    {
+      "title": "Cameroon’s Aging President Returns From Monthslong Stay Abroad",
+      "summary": "Cameroon’s Aging President Returns From Monthslong Stay Abroad",
+      "outlets_covering": [
         "ABC News Intl",
-        "The Independent"
+        "NYT World",
+        "France24"
       ],
       "coverage_count": 3,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html"
+    },
+    {
+      "title": "Powerful earthquake strikes Peru’s southern Andes, USGS says",
+      "summary": "Powerful earthquake strikes Peru’s southern Andes, USGS says",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Latin America",
+      "category": "Climate",
+      "source_url": "https://www.independent.co.uk/news/world/americas/peru-earthquake-magnitude-andes-usgs-b3036623.html"
     }
   ]
 }
