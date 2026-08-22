@@ -1,46 +1,23 @@
 {
-  "last_updated": "2026-08-21T12:25:12.788044Z",
+  "last_updated": "2026-08-22T00:38:18.531128Z",
   "world_org_meetings": [],
-  "diplomatic_visits": [
-    {
-      "title": "Kim Jong Un’s sister ‘unaware’ of talks between US, North Korea",
-      "participants": [
-        "Kim Jong Un’s",
-        "North Korea"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Kim Jong Un’s sister ‘unaware’ of talks between US, North Korea",
-      "source_url": "https://thehill.com/policy/international/6040217-kim-yo-jong-denies-trump-talks"
-    },
-    {
-      "title": "Xi hits out at ‘outside interference’ in Latin America in meeting with Ecuador’s president",
-      "participants": [
-        "Latin America",
-        "Ecuador’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Xi hits out at ‘outside interference’ in Latin America in meeting with Ecuador’s president",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3364465/xi-hits-out-outside-interference-latin-america-meeting-ecuadors-president"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "Defense minister dismissed by Zelensky demands elections in Ukraine",
-      "source_url": "https://www.washingtonpost.com/world/2026/08/19/mykhailo-fedorov-dismissed-by-zelensky-demands-elections-ukraine"
-    },
-    {
-      "title": "Brethren church denies paying far-right activists to stage election stunts targeting Albanese and others",
+      "title": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Brethren church denies paying far-right activists to stage election stunts targeting Albanese and others",
-      "source_url": "https://www.theguardian.com/australia-news/2026/aug/21/brethren-church-denies-paying-far-right-activists-to-stage-election-stunts-targeting-albanese-and-others-ntwnfb"
+      "description": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election"
+    },
+    {
+      "title": "Zambia’s Democratic Facade Fractures in Post-Election Crackdown",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia’s Democratic Facade Fractures in Post-Election Crackdown",
+      "source_url": "https://www.nytimes.com/2026/08/21/world/africa/zambia-election-crackdown.html"
     },
     {
       "title": "Russia bombards Kyiv as fight over elections shatters political unity in Ukraine",
@@ -69,59 +46,45 @@
   ],
   "global_events": [
     {
-      "title": "Hopes fade after Central African Republic gold mine collapse kills dozens",
-      "summary": "Hopes fade after Central African Republic gold mine collapse kills dozens",
-      "outlets_covering": [
-        "ABC News Intl",
-        "NYT World",
-        "France24"
-      ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260821-hopes-fade-after-central-african-republic-gold-mine-collapse-kills-dozens"
-    },
-    {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "summary": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+      "summary": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
       "outlets_covering": [
         "BBC World",
         "The Guardian World",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Strong 6.7-magnitude earthquake strikes southern Peru, damaging homes and schools",
-      "summary": "Strong 6.7-magnitude earthquake strikes southern Peru, damaging homes and schools",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 5,
-      "region": "Latin America",
-      "category": "Climate",
-      "source_url": "https://www.france24.com/en/americas/20260821-strong-6-7-magnitude-earthquake-strikes-southern-peru-damaging-homes-and-schools"
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss"
     },
     {
-      "title": "8 killed in plane crash at remote Alaska radar site: US military",
-      "summary": "8 killed in plane crash at remote Alaska radar site: US military",
+      "title": "West Asia war highlights: Iran’s President says time to end war while in position of strength",
+      "summary": "West Asia war highlights: Iran’s President says time to end war while in position of strength",
+      "outlets_covering": [
+        "The Independent",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-economic-sanctions-strait-of-hormuz-ceasefire-deal/article71372035.ece"
+    },
+    {
+      "title": "One killed, three wounded in sword attack at Swedish high school",
+      "summary": "One killed, three wounded in sword attack at Swedish high school",
       "outlets_covering": [
         "BBC World",
-        "Al Jazeera",
-        "The Hill"
+        "Sky News World",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://thehill.com/homenews/state-watch/6043055-plane-crash-alaska-8-killed"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss"
     },
     {
       "title": "USS Lincoln heads home after extended deployment to the Middle East",
@@ -129,13 +92,25 @@
       "outlets_covering": [
         "CBS News World",
         "NBC News World",
-        "The Independent",
         "The Hill"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639"
+    },
+    {
+      "title": "Russian missile, drone barrage kills at least 16 in Ukraine's Kyiv region",
+      "summary": "Russian missile, drone barrage kills at least 16 in Ukraine's Kyiv region",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-kills-at-least-16-in-ukraines-kyiv-region/article71368973.ece"
     }
   ]
 }
