@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-22T12:18:18.276050Z",
+  "last_updated": "2026-08-23T00:41:34.172063Z",
   "world_org_meetings": [],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
-      "country": "",
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "country": "Russia",
       "election_type": "National",
       "date": "",
-      "description": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election"
+      "description": "Kazakhstan's future after the elections: Russia, EU or China",
+      "source_url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Zambia’s Democratic Facade Fractures in Post-Election Crackdown",
@@ -18,14 +18,6 @@
       "date": "",
       "description": "Zambia’s Democratic Facade Fractures in Post-Election Crackdown",
       "source_url": "https://www.nytimes.com/2026/08/21/world/africa/zambia-election-crackdown.html"
-    },
-    {
-      "title": "Russia bombards Kyiv as fight over elections shatters political unity in Ukraine",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "Russia bombards Kyiv as fight over elections shatters political unity in Ukraine",
-      "source_url": "https://www.washingtonpost.com/world/2026/08/20/election-fight-cracks-political-unity-ukraine-russia-bombards-kyiv"
     },
     {
       "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
@@ -42,85 +34,89 @@
       "date": "",
       "description": "Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots",
       "source_url": "https://www.thehindu.com/news/international/bangladesh-presidential-election-voting-results-august-20-2026/article71368465.ece"
+    },
+    {
+      "title": "Chinese national charged with voter fraud during 2024 US presidential election",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Chinese national charged with voter fraud during 2024 US presidential election",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3364618/chinese-national-charged-voter-fraud-during-2024-us-presidential-election"
     }
   ],
   "global_events": [
     {
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "summary": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
+      "summary": "Swedish police identify 17-year-old girl as victim in school sword attack",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
         "Sky News World",
-        "NYT World",
         "The Guardian World",
-        "The Independent",
-        "France24",
-        "Foreign Policy",
-        "Axios"
+        "Al Jazeera"
       ],
-      "coverage_count": 10,
+      "coverage_count": 6,
       "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss"
     },
     {
-      "title": "Congo receives more than 16,000 doses of Ebola vaccine amid unprecedented outbreak",
-      "summary": "Congo receives more than 16,000 doses of Ebola vaccine amid unprecedented outbreak",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "summary": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "outlets_covering": [
-        "ABC News Intl",
+        "BBC World",
+        "NBC News World",
         "Sky News World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "UN News"
+        "NYT World",
+        "Bloomberg",
+        "Axios"
       ],
       "coverage_count": 7,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://abcnews.com/International/wireStory/congo-receives-16000-doses-ebola-vaccine-grapples-unprecedented-135860726"
-    },
-    {
-      "title": "Victim of sword attack at Swedish school was a 17-year-old girl",
-      "summary": "Victim of sword attack at Swedish school was a 17-year-old girl",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "Sky News World"
-      ],
-      "coverage_count": 3,
       "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734"
+      "category": "Economy",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
-      "summary": "Canada-U.S. Trade War Escalates as Talks Collapse",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "Foreign Policy",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
-    },
-    {
-      "title": "USS Lincoln heads home after extended deployment to the Middle East",
-      "summary": "USS Lincoln heads home after extended deployment to the Middle East",
+      "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "summary": "Iran war live: Tehran warns neighbours against joining US economic war",
       "outlets_covering": [
         "CBS News World",
-        "NBC News World",
-        "The Hill"
+        "The Independent",
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639"
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
+    },
+    {
+      "title": "Canada retaliates as trade war with U.S. escalates",
+      "summary": "Canada retaliates as trade war with U.S. escalates",
+      "outlets_covering": [
+        "NYT World",
+        "Japan Times",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece"
+    },
+    {
+      "title": "Russian and Ukrainian attacks kill at least 10 after deadly mall drone strike",
+      "summary": "Russian and Ukrainian attacks kill at least 10 after deadly mall drone strike",
+      "outlets_covering": [
+        "ABC News Intl",
+        "CBS News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-mall"
     }
   ]
 }
