@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T12:18:37.159339Z",
+  "last_updated": "2026-08-24T00:40:09.772853Z",
   "world_org_meetings": [
     {
       "title": "Washington pushes ‘America First’ agenda in Apec talks ahead of Chinese leader’s visit",
@@ -10,62 +10,93 @@
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3364959/washington-pushes-america-first-agenda-apec-talks-ahead-chinese-leaders-visit"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "DR Congo, M23 fighters agree roadmap for peace talks: joint statement",
+      "participants": [
+        "Congo M23"
+      ],
+      "date": "",
+      "location": "",
+      "description": "DR Congo, M23 fighters agree roadmap for peace talks: joint statement",
+      "source_url": "https://www.thehindu.com/news/international/dr-congo-m23-fighters-agree-roadmap-for-peace-talks-joint-statement/article71381809.ece"
+    }
+  ],
   "elections": [
     {
-      "title": "Ukraine: Zelenskyy rejects wartime elections",
+      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
       "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Ukraine: Zelenskyy rejects wartime elections",
-      "source_url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf"
+      "description": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "source_url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine"
     },
     {
-      "title": "Kazakhstan votes in parliamentary election expected to strengthen president’s grip on power",
+      "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
       "country": "Kazakhstan",
-      "election_type": "Parliamentary",
+      "election_type": "National",
       "date": "",
-      "description": "Kazakhstan votes in parliamentary election expected to strengthen president’s grip on power",
-      "source_url": "https://abcnews.com/International/wireStory/kazakhstan-votes-parliamentary-election-expected-strengthen-presidents-grip-135879339"
+      "description": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss"
     },
     {
-      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+      "title": "Ukraine-Russia war latest: Zelensky claims Putin is drafting 300,000 troops and gives warning on wartime elections",
       "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-      "source_url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy"
+      "description": "Ukraine-Russia war latest: Zelensky claims Putin is drafting 300,000 troops and gives warning on wartime elections",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-missiles-ambassador-b3037670.html"
     },
     {
-      "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
-      "country": "Kazakhstan",
-      "election_type": "Parliamentary",
+      "title": "Thousands rally in Sweden to protest climate policies ahead of general election",
+      "country": "Sweden",
+      "election_type": "General",
       "date": "",
-      "description": "Kazakhstan parliamentary elections begin: What’s at stake?",
-      "source_url": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss"
+      "description": "Thousands rally in Sweden to protest climate policies ahead of general election",
+      "source_url": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election"
     },
     {
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "country": "Russia",
+      "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+      "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Kazakhstan's future after the elections: Russia, EU or China",
-      "source_url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-world-4025-rdf"
+      "description": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+      "source_url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine"
     }
   ],
   "global_events": [
     {
-      "title": "‘Wants benefits of a State, without being one’: Trump hits back at Canada over retaliatory tariffs on U.S.",
-      "summary": "‘Wants benefits of a State, without being one’: Trump hits back at Canada over retaliatory tariffs on U.S.",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "outlets_covering": [
         "BBC World",
+        "CBC World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "summary": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "DW World",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/trump-hits-back-at-canada-after-retaliatory-tariffs-announcement/article71380257.ece"
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine"
     },
     {
       "title": "Girl, 17, killed in Swedish sword attack, police say",
@@ -74,57 +105,40 @@
         "BBC World",
         "ABC News Intl",
         "CBS News World",
-        "Sky News World",
-        "The Guardian World"
+        "Sky News World"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "Global",
       "category": "Conflict",
       "source_url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ukraine: Zelenskyy rejects wartime elections",
-      "summary": "Ukraine: Zelenskyy rejects wartime elections",
+      "title": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
+      "summary": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
       "outlets_covering": [
         "CBS News World",
-        "The Guardian World",
-        "DW World",
+        "France24",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 4,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/china-abruptly-postpones-ambitious-change-7-lunar-mission-launch/article71382366.ece"
+    },
+    {
+      "title": "Canada Digs In as US Trade Fight Escalates",
+      "summary": "Canada Digs In as US Trade Fight Escalates",
+      "outlets_covering": [
+        "NYT World",
+        "Bloomberg",
+        "Japan Times",
         "The Hindu Intl"
       ],
       "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Canada retaliates as trade war with U.S. escalates",
-      "summary": "Canada retaliates as trade war with U.S. escalates",
-      "outlets_covering": [
-        "NYT World",
-        "The Guardian World",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy",
-        "The Hill"
-      ],
-      "coverage_count": 10,
       "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece"
-    },
-    {
-      "title": "Russian and Ukrainian attacks kill at least 10 after deadly mall drone strike",
-      "summary": "Russian and Ukrainian attacks kill at least 10 after deadly mall drone strike",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/ukraine-russia-war-mall"
+      "category": "Economy",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-08-23/canada-digs-in-as-us-trade-fight-escalates-video"
     }
   ]
 }
