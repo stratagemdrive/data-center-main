@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-24T00:40:09.772853Z",
+  "last_updated": "2026-08-24T12:25:45.010489Z",
   "world_org_meetings": [
     {
-      "title": "Washington pushes ‘America First’ agenda in Apec talks ahead of Chinese leader’s visit",
+      "title": "Washington pushes ‘America first’ agenda in Apec talks ahead of Chinese leader’s visit",
       "organization": "APEC",
       "date": "",
       "location": "",
-      "description": "Washington pushes ‘America First’ agenda in Apec talks ahead of Chinese leader’s visit",
+      "description": "Washington pushes ‘America first’ agenda in Apec talks ahead of Chinese leader’s visit",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3364959/washington-pushes-america-first-agenda-apec-talks-ahead-chinese-leaders-visit"
     }
   ],
@@ -24,47 +24,62 @@
   ],
   "elections": [
     {
-      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "source_url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy"
+    },
+    {
+      "title": "A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections",
       "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
-      "source_url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine"
+      "description": "A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections",
+      "source_url": "https://time.com/article/2026/08/24/volodymyr-zelensky-elections-ukraine-wartime-mykhailo-fedorov"
     },
     {
-      "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
+      "title": "'Monstrous, mindless': Chidambaram criticises 'One Nation, One Election' plan at House panel meet",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "'Monstrous, mindless': Chidambaram criticises 'One Nation, One Election' plan at House panel meet",
+      "source_url": "https://timesofindia.indiatimes.com/india/monstrous-mindless-chidambaram-criticises-one-nation-one-election-plan-at-house-panel-meet/articleshow/133464380.cms"
+    },
+    {
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Access to Zambian courts prevented as election petition deadline looms",
+      "source_url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
       "country": "Kazakhstan",
-      "election_type": "National",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "Tokayev allies head for landslide victory in Kazakhstan elections",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Zelensky claims Putin is drafting 300,000 troops and gives warning on wartime elections",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "Ukraine-Russia war latest: Zelensky claims Putin is drafting 300,000 troops and gives warning on wartime elections",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-missiles-ambassador-b3037670.html"
-    },
-    {
-      "title": "Thousands rally in Sweden to protest climate policies ahead of general election",
-      "country": "Sweden",
-      "election_type": "General",
-      "date": "",
-      "description": "Thousands rally in Sweden to protest climate policies ahead of general election",
-      "source_url": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election"
-    },
-    {
-      "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-      "source_url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine"
+      "description": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
+      "source_url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss"
     }
   ],
   "global_events": [
+    {
+      "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "summary": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "outlets_covering": [
+        "CBS News World",
+        "Time",
+        "DW World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy"
+    },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "summary": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -84,33 +99,30 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
-      "summary": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "title": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
+      "summary": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
       "outlets_covering": [
-        "CBS News World",
-        "NYT World",
-        "DW World",
-        "France24",
+        "ABC News Intl",
+        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine"
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/article71384197.ece"
     },
     {
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "summary": "Girl, 17, killed in Swedish sword attack, police say",
+      "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
+      "summary": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
       "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Sky News World"
+        "Sky News World",
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
+      "coverage_count": 3,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss"
     },
     {
       "title": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
@@ -125,20 +137,6 @@
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.thehindu.com/news/international/china-abruptly-postpones-ambitious-change-7-lunar-mission-launch/article71382366.ece"
-    },
-    {
-      "title": "Canada Digs In as US Trade Fight Escalates",
-      "summary": "Canada Digs In as US Trade Fight Escalates",
-      "outlets_covering": [
-        "NYT World",
-        "Bloomberg",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-08-23/canada-digs-in-as-us-trade-fight-escalates-video"
     }
   ]
 }
