@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-25T00:39:56.999132Z",
+  "last_updated": "2026-08-25T12:26:30.419550Z",
   "world_org_meetings": [
+    {
+      "title": "Evening news wrap: Xi expected to visit India for Brics summit; Mojtaba makes rare appearance &amp; more",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Evening news wrap: Xi expected to visit India for Brics summit; Mojtaba makes rare appearance &amp; more",
+      "source_url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-xi-expected-to-visit-india-for-brics-summit-mojtaba-makes-rare-appearance-more/articleshow/133508359.cms"
+    },
     {
       "title": "Washington pushes ‘America first’ agenda in Apec talks ahead of Chinese leader’s visit",
       "organization": "APEC",
@@ -11,6 +19,18 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "A new President, a possible visit: What next for Delhi-Dhaka?",
+      "participants": [
+        "President",
+        "What",
+        "Delhi-Dhaka?"
+      ],
+      "date": "",
+      "location": "",
+      "description": "A new President, a possible visit: What next for Delhi-Dhaka?",
+      "source_url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-a-new-president-a-possible-visit-what-next-for-delhi-dhaka/article71384090.ece"
+    },
     {
       "title": "DR Congo, M23 fighters agree roadmap for peace talks: joint statement",
       "participants": [
@@ -24,20 +44,20 @@
   ],
   "elections": [
     {
-      "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
-      "source_url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy"
-    },
-    {
       "title": "Zelensky says wartime election would ‘destroy’ Ukraine",
       "country": "Ukraine",
       "election_type": "National",
       "date": "",
       "description": "Zelensky says wartime election would ‘destroy’ Ukraine",
       "source_url": "https://thehill.com/policy/international/6047727-zelensky-opposes-wartime-elections"
+    },
+    {
+      "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "source_url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy"
     },
     {
       "title": "America's elections are getting caught in a fight over the mail",
@@ -56,94 +76,90 @@
       "source_url": "https://abcnews.com/International/wireStory/kazakhstans-pro-government-party-wins-parliamentary-election-boosting-135901780"
     },
     {
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Access to Zambian courts prevented as election petition deadline looms",
-      "source_url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss"
+      "description": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+      "source_url": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html"
     }
   ],
   "global_events": [
     {
-      "title": "U.S. unveils new Iran sanctions after Trump threatened \"economic D-Day\"",
-      "summary": "U.S. unveils new Iran sanctions after Trump threatened \"economic D-Day\"",
-      "outlets_covering": [
-        "NPR World",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "SCMP",
-        "Foreign Policy"
-      ],
-      "coverage_count": 20,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz"
-    },
-    {
-      "title": "2 UN peacekeepers killed in an ambush in South Sudan",
-      "summary": "2 UN peacekeepers killed in an ambush in South Sudan",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 5,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/2-peacekeepers-killed-ambush-south-sudan-135906419"
-    },
-    {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "summary": "US removes Syria from list of state sponsors of terrorism",
-      "outlets_covering": [
-        "BBC World",
-        "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
-      "summary": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
+      "title": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
+      "summary": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
       "outlets_covering": [
         "Fox News World",
+        "The Independent",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/middle-east/20260824-israel-netanyahu-says-iran-tried-kill-son"
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-son-children-iran-threat-b3038675.html"
     },
     {
-      "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
-      "summary": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+      "title": "Canada expected to announce retaliatory tariffs on Tuesday",
+      "summary": "Canada expected to announce retaliatory tariffs on Tuesday",
+      "outlets_covering": [
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://thehill.com/policy/international/6048418-canada-retaliatory-tariffs-us-carney-trump-trade-war"
+    },
+    {
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "summary": "China denounces US threat of sanctions over trade with Iran",
       "outlets_covering": [
         "BBC World",
+        "NBC News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Al Jazeera",
+        "Japan Times"
+      ],
+      "coverage_count": 7,
+      "region": "China",
+      "category": "Economy",
+      "source_url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil"
+    },
+    {
+      "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "summary": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "outlets_covering": [
         "NPR World",
+        "ABC News Intl",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/uk-ukraine-make-long-range-missiles-sharing-classified-135904459"
+    },
+    {
+      "title": "What to know about Trump's Canada tariffs and the escalating trade war",
+      "summary": "What to know about Trump's Canada tariffs and the escalating trade war",
+      "outlets_covering": [
+        "BBC World",
         "CBS News World",
         "NYT World",
         "The Guardian World",
+        "Wash Post World",
         "Time",
         "The Independent",
+        "France24",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 15,
+      "coverage_count": 25,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html"
+      "source_url": "https://www.france24.com/en/americas/20260825-what-to-know-about-trump-s-tariffs-on-canadian-goods-as-neigbours-spiral-into-trade-war"
     }
   ]
 }
