@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T12:25:45.010489Z",
+  "last_updated": "2026-08-25T00:39:56.999132Z",
   "world_org_meetings": [
     {
       "title": "Washington pushes ‘America first’ agenda in Apec talks ahead of Chinese leader’s visit",
@@ -32,20 +32,28 @@
       "source_url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy"
     },
     {
-      "title": "A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections",
+      "title": "Zelensky says wartime election would ‘destroy’ Ukraine",
       "country": "Ukraine",
       "election_type": "National",
       "date": "",
-      "description": "A ‘Tsunami’ for Ukraine: Zelensky Rejects Wartime Elections",
-      "source_url": "https://time.com/article/2026/08/24/volodymyr-zelensky-elections-ukraine-wartime-mykhailo-fedorov"
+      "description": "Zelensky says wartime election would ‘destroy’ Ukraine",
+      "source_url": "https://thehill.com/policy/international/6047727-zelensky-opposes-wartime-elections"
     },
     {
-      "title": "'Monstrous, mindless': Chidambaram criticises 'One Nation, One Election' plan at House panel meet",
+      "title": "America's elections are getting caught in a fight over the mail",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "'Monstrous, mindless': Chidambaram criticises 'One Nation, One Election' plan at House panel meet",
-      "source_url": "https://timesofindia.indiatimes.com/india/monstrous-mindless-chidambaram-criticises-one-nation-one-election-plan-at-house-panel-meet/articleshow/133464380.cms"
+      "description": "America's elections are getting caught in a fight over the mail",
+      "source_url": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting"
+    },
+    {
+      "title": "Kazakhstan's pro-government party wins parliamentary election",
+      "country": "Kazakhstan",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Kazakhstan's pro-government party wins parliamentary election",
+      "source_url": "https://abcnews.com/International/wireStory/kazakhstans-pro-government-party-wins-parliamentary-election-boosting-135901780"
     },
     {
       "title": "Access to Zambian courts prevented as election petition deadline looms",
@@ -54,89 +62,88 @@
       "date": "",
       "description": "Access to Zambian courts prevented as election petition deadline looms",
       "source_url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
-      "country": "Kazakhstan",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
-      "source_url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
-      "summary": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "title": "U.S. unveils new Iran sanctions after Trump threatened \"economic D-Day\"",
+      "summary": "U.S. unveils new Iran sanctions after Trump threatened \"economic D-Day\"",
       "outlets_covering": [
+        "NPR World",
         "CBS News World",
-        "Time",
-        "DW World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy"
-    },
-    {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "summary": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Sky News World",
         "NYT World",
         "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
         "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "SCMP",
+        "Foreign Policy"
       ],
-      "coverage_count": 9,
-      "region": "Global",
+      "coverage_count": 20,
+      "region": "Middle East",
       "category": "Economy",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz"
     },
     {
-      "title": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
-      "summary": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
+      "title": "2 UN peacekeepers killed in an ambush in South Sudan",
+      "summary": "2 UN peacekeepers killed in an ambush in South Sudan",
       "outlets_covering": [
         "ABC News Intl",
         "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "UN News"
+      ],
+      "coverage_count": 5,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/2-peacekeepers-killed-ambush-south-sudan-135906419"
+    },
+    {
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "summary": "US removes Syria from list of state sponsors of terrorism",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
+      "summary": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
+      "outlets_covering": [
+        "Fox News World",
+        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 3,
       "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/article71384197.ece"
-    },
-    {
-      "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-      "summary": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-      "outlets_covering": [
-        "Sky News World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss"
+      "source_url": "https://www.france24.com/en/middle-east/20260824-israel-netanyahu-says-iran-tried-kill-son"
     },
     {
-      "title": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
-      "summary": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
+      "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+      "summary": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
       "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "CBS News World",
-        "France24",
-        "The Hindu Intl",
-        "SCMP"
+        "NYT World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 4,
-      "region": "China",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/china-abruptly-postpones-ambitious-change-7-lunar-mission-launch/article71382366.ece"
+      "coverage_count": 15,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html"
     }
   ]
 }
