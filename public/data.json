@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-08-25T12:26:30.419550Z",
+  "last_updated": "2026-08-26T00:40:30.458699Z",
   "world_org_meetings": [
-    {
-      "title": "Evening news wrap: Xi expected to visit India for Brics summit; Mojtaba makes rare appearance &amp; more",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Evening news wrap: Xi expected to visit India for Brics summit; Mojtaba makes rare appearance &amp; more",
-      "source_url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-xi-expected-to-visit-india-for-brics-summit-mojtaba-makes-rare-appearance-more/articleshow/133508359.cms"
-    },
     {
       "title": "Washington pushes ‘America first’ agenda in Apec talks ahead of Chinese leader’s visit",
       "organization": "APEC",
@@ -30,136 +22,138 @@
       "location": "",
       "description": "A new President, a possible visit: What next for Delhi-Dhaka?",
       "source_url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-a-new-president-a-possible-visit-what-next-for-delhi-dhaka/article71384090.ece"
-    },
-    {
-      "title": "DR Congo, M23 fighters agree roadmap for peace talks: joint statement",
-      "participants": [
-        "Congo M23"
-      ],
-      "date": "",
-      "location": "",
-      "description": "DR Congo, M23 fighters agree roadmap for peace talks: joint statement",
-      "source_url": "https://www.thehindu.com/news/international/dr-congo-m23-fighters-agree-roadmap-for-peace-talks-joint-statement/article71381809.ece"
     }
   ],
   "elections": [
     {
-      "title": "Zelensky says wartime election would ‘destroy’ Ukraine",
-      "country": "Ukraine",
+      "title": "Live results: Georgia holds special election runoff for David Scott’s House seat",
+      "country": "Georgia",
       "election_type": "National",
       "date": "",
-      "description": "Zelensky says wartime election would ‘destroy’ Ukraine",
-      "source_url": "https://thehill.com/policy/international/6047727-zelensky-opposes-wartime-elections"
+      "description": "Live results: Georgia holds special election runoff for David Scott’s House seat",
+      "source_url": "https://thehill.com/homenews/campaign/6040955-live-results-georgia-house-special-election"
     },
     {
-      "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+      "title": "Wisconsin district attorney declines to charge Elon Musk over $1M election giveaways",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
-      "source_url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy"
+      "description": "Wisconsin district attorney declines to charge Elon Musk over $1M election giveaways",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-wisconsin-supreme-court-election-b3039128.html"
     },
     {
-      "title": "America's elections are getting caught in a fight over the mail",
+      "title": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "America's elections are getting caught in a fight over the mail",
-      "source_url": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting"
+      "description": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
+      "source_url": "https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections"
     },
     {
-      "title": "Kazakhstan's pro-government party wins parliamentary election",
-      "country": "Kazakhstan",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Kazakhstan's pro-government party wins parliamentary election",
-      "source_url": "https://abcnews.com/International/wireStory/kazakhstans-pro-government-party-wins-parliamentary-election-boosting-135901780"
-    },
-    {
-      "title": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
+      "title": "Hochul predicts Mamdani will ‘be helpful’ in her reelection bid",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-      "source_url": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html"
+      "description": "Hochul predicts Mamdani will ‘be helpful’ in her reelection bid",
+      "source_url": "https://thehill.com/homenews/campaign/6049687-hochul-mamdani-endorsement-boost"
+    },
+    {
+      "title": "Shapiro holds 16-point lead in reelection bid polling",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Shapiro holds 16-point lead in reelection bid polling",
+      "source_url": "https://thehill.com/homenews/campaign/6049300-josh-shapiro-pennsylvania-reelection-bid-survey"
     }
   ],
   "global_events": [
     {
-      "title": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
-      "summary": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
-      "outlets_covering": [
-        "Fox News World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-son-children-iran-threat-b3038675.html"
-    },
-    {
-      "title": "Canada expected to announce retaliatory tariffs on Tuesday",
-      "summary": "Canada expected to announce retaliatory tariffs on Tuesday",
-      "outlets_covering": [
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://thehill.com/policy/international/6048418-canada-retaliatory-tariffs-us-carney-trump-trade-war"
-    },
-    {
-      "title": "China denounces US threat of sanctions over trade with Iran",
-      "summary": "China denounces US threat of sanctions over trade with Iran",
-      "outlets_covering": [
-        "BBC World",
-        "NBC News World",
-        "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
-        "Japan Times"
-      ],
-      "coverage_count": 7,
-      "region": "China",
-      "category": "Economy",
-      "source_url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil"
-    },
-    {
-      "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-      "summary": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/uk-ukraine-make-long-range-missiles-sharing-classified-135904459"
-    },
-    {
-      "title": "What to know about Trump's Canada tariffs and the escalating trade war",
-      "summary": "What to know about Trump's Canada tariffs and the escalating trade war",
+      "title": "Canada announces retaliatory tariffs on U.S. products as trade war deepens",
+      "summary": "Canada announces retaliatory tariffs on U.S. products as trade war deepens",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
+        "Sky News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
         "Time",
         "The Independent",
         "France24",
+        "Foreign Policy"
+      ],
+      "coverage_count": 20,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/business/2026/08/25/canada-issues-retaliatory-tariffs-up-50-percent-us-imports"
+    },
+    {
+      "title": "The U.S. threatens Iran with ‘economic D-Day’ | About That",
+      "summary": "The U.S. threatens Iran with ‘economic D-Day’ | About That",
+      "outlets_covering": [
+        "CBC World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Bloomberg",
+        "Time",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/player/play/9.7320175?cmp=rss"
+    },
+    {
+      "title": "Canada Retaliates Against Trump’s Tariffs With Levies of Up to 50% on U.S. Goods",
+      "summary": "Canada Retaliates Against Trump’s Tariffs With Levies of Up to 50% on U.S. Goods",
+      "outlets_covering": [
+        "NBC News World",
+        "Sky News World",
+        "NYT World",
+        "Time",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies"
+    },
+    {
+      "title": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
+      "summary": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
+      "outlets_covering": [
+        "CBS News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "France24",
+        "Foreign Policy",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 25,
+      "coverage_count": 13,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/americas/20260825-what-to-know-about-trump-s-tariffs-on-canadian-goods-as-neigbours-spiral-into-trade-war"
+      "source_url": "https://www.washingtonpost.com/politics/2026/08/25/trump-says-us-could-rename-lake-ontario-amid-canada-trade-war"
+    },
+    {
+      "title": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
+      "summary": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
+      "outlets_covering": [
+        "Fox News World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-son-children-iran-threat-b3038675.html"
     }
   ]
 }
