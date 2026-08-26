@@ -1,15 +1,6 @@
 {
-  "last_updated": "2026-08-26T00:40:30.458699Z",
-  "world_org_meetings": [
-    {
-      "title": "Washington pushes ‘America first’ agenda in Apec talks ahead of Chinese leader’s visit",
-      "organization": "APEC",
-      "date": "",
-      "location": "",
-      "description": "Washington pushes ‘America first’ agenda in Apec talks ahead of Chinese leader’s visit",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3364959/washington-pushes-america-first-agenda-apec-talks-ahead-chinese-leaders-visit"
-    }
-  ],
+  "last_updated": "2026-08-26T12:29:09.605229Z",
+  "world_org_meetings": [],
   "diplomatic_visits": [
     {
       "title": "A new President, a possible visit: What next for Delhi-Dhaka?",
@@ -26,12 +17,12 @@
   ],
   "elections": [
     {
-      "title": "Live results: Georgia holds special election runoff for David Scott’s House seat",
+      "title": "David Scott’s daughter defeated in Georgia House special election for open seat",
       "country": "Georgia",
       "election_type": "National",
       "date": "",
-      "description": "Live results: Georgia holds special election runoff for David Scott’s House seat",
-      "source_url": "https://thehill.com/homenews/campaign/6040955-live-results-georgia-house-special-election"
+      "description": "David Scott’s daughter defeated in Georgia House special election for open seat",
+      "source_url": "https://thehill.com/homenews/campaign/6047844-blair-wins-georgia-house-special-election"
     },
     {
       "title": "Wisconsin district attorney declines to charge Elon Musk over $1M election giveaways",
@@ -68,92 +59,92 @@
   ],
   "global_events": [
     {
-      "title": "Canada announces retaliatory tariffs on U.S. products as trade war deepens",
-      "summary": "Canada announces retaliatory tariffs on U.S. products as trade war deepens",
+      "title": "At least 14 newborns killed in Pakistan nursery hospital fire",
+      "summary": "At least 14 newborns killed in Pakistan nursery hospital fire",
       "outlets_covering": [
         "BBC World",
-        "CBS News World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "The Independent",
-        "France24",
-        "Foreign Policy"
-      ],
-      "coverage_count": 20,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/business/2026/08/25/canada-issues-retaliatory-tariffs-up-50-percent-us-imports"
-    },
-    {
-      "title": "The U.S. threatens Iran with ‘economic D-Day’ | About That",
-      "summary": "The U.S. threatens Iran with ‘economic D-Day’ | About That",
-      "outlets_covering": [
+        "NPR World",
         "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Wash Post World",
-        "Bloomberg",
-        "Time",
         "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "SCMP"
+        "The Hindu Intl"
       ],
-      "coverage_count": 12,
-      "region": "Middle East",
+      "coverage_count": 11,
+      "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/player/play/9.7320175?cmp=rss"
+      "source_url": "https://www.foxnews.com/world/least-14-newborns-killed-pakistan-nursery-hospital-fire"
     },
     {
-      "title": "Canada Retaliates Against Trump’s Tariffs With Levies of Up to 50% on U.S. Goods",
-      "summary": "Canada Retaliates Against Trump’s Tariffs With Levies of Up to 50% on U.S. Goods",
+      "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
+      "summary": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
       "outlets_covering": [
-        "NBC News World",
-        "Sky News World",
-        "NYT World",
-        "Time",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 9,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies"
-    },
-    {
-      "title": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
-      "summary": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
-      "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "CBS News World",
         "NYT World",
         "Wash Post World",
-        "Time",
+        "The Independent",
         "France24",
         "Foreign Policy",
         "The Hill",
-        "Axios"
+        "Vox"
       ],
-      "coverage_count": 13,
+      "coverage_count": 14,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/politics/2026/08/25/trump-says-us-could-rename-lake-ontario-amid-canada-trade-war"
+      "source_url": "https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates"
     },
     {
-      "title": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
-      "summary": "Israel’s Netanyahu claims Iran tried to murder one of his sons",
+      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+      "summary": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
       "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods"
+    },
+    {
+      "title": "Pakistan: At least 14 newborns die in hospital fire",
+      "summary": "Pakistan: At least 14 newborns die in hospital fire",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
         "Fox News World",
-        "The Independent",
+        "NYT World",
+        "The Guardian World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 11,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260826-pakistan-at-least-14-newborns-die-in-hospital-fire"
+    },
+    {
+      "title": "Kremlin says U.S. spy chief held talks with Russian counterparts during Moscow visit",
+      "summary": "Kremlin says U.S. spy chief held talks with Russian counterparts during Moscow visit",
+      "outlets_covering": [
+        "CBS News World",
+        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 3,
-      "region": "Middle East",
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-son-children-iran-threat-b3038675.html"
+      "source_url": "https://www.thehindu.com/news/international/kremlin-says-us-spy-chief-held-talks-with-russian-counterparts-during-moscow-visit/article71392469.ece"
     }
   ]
 }
