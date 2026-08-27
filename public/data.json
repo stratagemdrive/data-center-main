@@ -1,36 +1,44 @@
 {
-  "last_updated": "2026-08-26T12:29:09.605229Z",
+  "last_updated": "2026-08-27T05:45:11.585843Z",
   "world_org_meetings": [],
   "diplomatic_visits": [
     {
-      "title": "A new President, a possible visit: What next for Delhi-Dhaka?",
+      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
       "participants": [
-        "President",
-        "What",
-        "Delhi-Dhaka?"
+        "Qatar’s",
+        "Tehran",
+        "US-Iran"
       ],
       "date": "",
       "location": "",
-      "description": "A new President, a possible visit: What next for Delhi-Dhaka?",
-      "source_url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-a-new-president-a-possible-visit-what-next-for-delhi-dhaka/article71384090.ece"
+      "description": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "source_url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss"
     }
   ],
   "elections": [
     {
-      "title": "David Scott’s daughter defeated in Georgia House special election for open seat",
-      "country": "Georgia",
-      "election_type": "National",
-      "date": "",
-      "description": "David Scott’s daughter defeated in Georgia House special election for open seat",
-      "source_url": "https://thehill.com/homenews/campaign/6047844-blair-wins-georgia-house-special-election"
-    },
-    {
-      "title": "Wisconsin district attorney declines to charge Elon Musk over $1M election giveaways",
+      "title": "Dingell: November election isn’t about Hasan Piker",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Wisconsin district attorney declines to charge Elon Musk over $1M election giveaways",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-wisconsin-supreme-court-election-b3039128.html"
+      "description": "Dingell: November election isn’t about Hasan Piker",
+      "source_url": "https://thehill.com/homenews/campaign/6053835-dingell-frustrated-hasan-piker"
+    },
+    {
+      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "source_url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What Iceland’s referendum means for the EU’s future",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "What Iceland’s referendum means for the EU’s future",
+      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/what-icelands-referendum-means-for-the-eus-future"
     },
     {
       "title": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
@@ -41,81 +49,58 @@
       "source_url": "https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections"
     },
     {
-      "title": "Hochul predicts Mamdani will ‘be helpful’ in her reelection bid",
+      "title": "America's elections are getting caught in a fight over the mail",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Hochul predicts Mamdani will ‘be helpful’ in her reelection bid",
-      "source_url": "https://thehill.com/homenews/campaign/6049687-hochul-mamdani-endorsement-boost"
-    },
-    {
-      "title": "Shapiro holds 16-point lead in reelection bid polling",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Shapiro holds 16-point lead in reelection bid polling",
-      "source_url": "https://thehill.com/homenews/campaign/6049300-josh-shapiro-pennsylvania-reelection-bid-survey"
+      "description": "America's elections are getting caught in a fight over the mail",
+      "source_url": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting"
     }
   ],
   "global_events": [
     {
-      "title": "At least 14 newborns killed in Pakistan nursery hospital fire",
-      "summary": "At least 14 newborns killed in Pakistan nursery hospital fire",
+      "title": "Scores killed, Americans among hundreds missing after Nepal, Tibet flash floods",
+      "summary": "Scores killed, Americans among hundreds missing after Nepal, Tibet flash floods",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
-        "ABC News Intl",
         "CBS News World",
-        "Fox News World",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 11,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://www.foxnews.com/world/least-14-newborns-killed-pakistan-nursery-hospital-fire"
-    },
-    {
-      "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
-      "summary": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBS News World",
-        "NYT World",
         "Wash Post World",
-        "The Independent",
-        "France24",
-        "Foreign Policy",
-        "The Hill",
-        "Vox"
-      ],
-      "coverage_count": 14,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates"
-    },
-    {
-      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
-      "summary": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
+        "Time",
         "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "France24"
       ],
-      "coverage_count": 7,
+      "coverage_count": 23,
       "region": "South Asia",
       "category": "Climate",
-      "source_url": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods"
+      "source_url": "https://www.cbsnews.com/news/nepal-flash-flood-tourists-missing-including-americans"
     },
     {
-      "title": "Pakistan: At least 14 newborns die in hospital fire",
-      "summary": "Pakistan: At least 14 newborns die in hospital fire",
+      "title": "Anthony Albanese says 34 Australians missing in deadly Nepal flash floods",
+      "summary": "Anthony Albanese says 34 Australians missing in deadly Nepal flash floods",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 20,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods"
+    },
+    {
+      "title": "Fire at hospital nursery in Pakistan’s capital kills 14 newborns, officials say",
+      "summary": "Fire at hospital nursery in Pakistan’s capital kills 14 newborns, officials say",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -124,27 +109,44 @@
         "CBS News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 9,
       "region": "South Asia",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260826-pakistan-at-least-14-newborns-die-in-hospital-fire"
+      "source_url": "https://abcnews.com/International/wireStory/fire-hospital-nursery-pakistans-capital-kills-14-newborns-135961329"
     },
     {
-      "title": "Kremlin says U.S. spy chief held talks with Russian counterparts during Moscow visit",
-      "summary": "Kremlin says U.S. spy chief held talks with Russian counterparts during Moscow visit",
+      "title": "CIA director warned Russia not to attack NATO members: U.S. media",
+      "summary": "CIA director warned Russia not to attack NATO members: U.S. media",
       "outlets_covering": [
         "CBS News World",
         "France24",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/kremlin-says-us-spy-chief-held-talks-with-russian-counterparts-during-moscow-visit/article71392469.ece"
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/cia-director-warned-russia-not-to-attack-nato-members-us-media/article71394848.ece"
+    },
+    {
+      "title": "Over 100 Indian Pilgrims Are Among the Missing in Nepal Floods",
+      "summary": "Over 100 Indian Pilgrims Are Among the Missing in Nepal Floods",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 14,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.nytimes.com/2026/08/26/world/asia/over-100-indian-pilgrims-are-among-the-missing-in-deadly-nepal-floods.html"
     }
   ]
 }
