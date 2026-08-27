@@ -1,152 +1,139 @@
 {
-  "last_updated": "2026-08-27T05:45:11.585843Z",
-  "world_org_meetings": [],
-  "diplomatic_visits": [
+  "last_updated": "2026-08-27T21:26:10.037486Z",
+  "world_org_meetings": [
     {
-      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
-      "participants": [
-        "Qatar’s",
-        "Tehran",
-        "US-Iran"
-      ],
+      "title": "PM Modi to meet Russia's Putin on SCO meeting sidelines",
+      "organization": "SCO",
       "date": "",
       "location": "",
-      "description": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
-      "source_url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss"
+      "description": "PM Modi to meet Russia's Putin on SCO meeting sidelines",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-to-meet-russias-putin-on-sco-meeting-sidelines/articleshow/133578096.cms"
     }
   ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Dingell: November election isn’t about Hasan Piker",
+      "title": "Laura Ingraham: Election cycle will be ‘brutal’ for Republicans",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Dingell: November election isn’t about Hasan Piker",
-      "source_url": "https://thehill.com/homenews/campaign/6053835-dingell-frustrated-hasan-piker"
+      "description": "Laura Ingraham: Election cycle will be ‘brutal’ for Republicans",
+      "source_url": "https://thehill.com/homenews/media/6055884-ingraham-predicts-brutal-gop-midterm-elections"
     },
     {
-      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
-      "source_url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "What Iceland’s referendum means for the EU’s future",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "What Iceland’s referendum means for the EU’s future",
-      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/what-icelands-referendum-means-for-the-eus-future"
-    },
-    {
-      "title": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
+      "title": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
-      "source_url": "https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections"
+      "description": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
+      "source_url": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss"
     },
     {
-      "title": "America's elections are getting caught in a fight over the mail",
+      "title": "French presidential candidates clash at first debate before upcoming elections",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "French presidential candidates clash at first debate before upcoming elections",
+      "source_url": "https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections"
+    },
+    {
+      "title": "Bipartisan lawmakers turn up pressure on Serbian president as elections loom",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "America's elections are getting caught in a fight over the mail",
-      "source_url": "https://www.axios.com/2026/08/24/trump-usps-federal-power-state-elections-mail-voting"
+      "description": "Bipartisan lawmakers turn up pressure on Serbian president as elections loom",
+      "source_url": "https://thehill.com/homenews/house/6054232-joe-wilson-bill-keating-aleksandar-vucic-serbia-warning-protests-elections-loom"
+    },
+    {
+      "title": "What does Saxony-Anhalt's election mean for migrants?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "What does Saxony-Anhalt's election mean for migrants?",
+      "source_url": "https://www.dw.com/en/what-does-saxony-anhalt-s-election-mean-for-migrants/a-78504553?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
     {
-      "title": "Scores killed, Americans among hundreds missing after Nepal, Tibet flash floods",
-      "summary": "Scores killed, Americans among hundreds missing after Nepal, Tibet flash floods",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Time",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 23,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/nepal-flash-flood-tourists-missing-including-americans"
-    },
-    {
-      "title": "Anthony Albanese says 34 Australians missing in deadly Nepal flash floods",
-      "summary": "Anthony Albanese says 34 Australians missing in deadly Nepal flash floods",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 20,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods"
-    },
-    {
-      "title": "Fire at hospital nursery in Pakistan’s capital kills 14 newborns, officials say",
-      "summary": "Fire at hospital nursery in Pakistan’s capital kills 14 newborns, officials say",
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "summary": "What we know about deadly Nepal-Tibet floods",
       "outlets_covering": [
         "BBC World",
         "NPR World",
         "CBC World",
         "ABC News Intl",
         "CBS News World",
-        "Fox News World",
+        "NBC News World",
         "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "South Asia",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/fire-hospital-nursery-pakistans-capital-kills-14-newborns-135961329"
-    },
-    {
-      "title": "CIA director warned Russia not to attack NATO members: U.S. media",
-      "summary": "CIA director warned Russia not to attack NATO members: U.S. media",
-      "outlets_covering": [
-        "CBS News World",
-        "France24",
+        "The Guardian World",
         "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/cia-director-warned-russia-not-to-attack-nato-members-us-media/article71394848.ece"
+      "coverage_count": 21,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Over 100 Indian Pilgrims Are Among the Missing in Nepal Floods",
-      "summary": "Over 100 Indian Pilgrims Are Among the Missing in Nepal Floods",
+      "title": "30 Canadians and permanent residents among missing after Nepal, Tibet floods: Global Affairs",
+      "summary": "30 Canadians and permanent residents among missing after Nepal, Tibet floods: Global Affairs",
       "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "CBC World",
+        "ABC News Intl",
         "CBS News World",
         "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
+        "Japan Times"
       ],
       "coverage_count": 14,
       "region": "South Asia",
       "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/08/26/world/asia/over-100-indian-pilgrims-are-among-the-missing-in-deadly-nepal-floods.html"
+      "source_url": "https://www.cbc.ca/news/world/livestory/nepal-tibet-floods-rescue-efforts-9.7322361?cmp=rss"
+    },
+    {
+      "title": "Death Toll Rises in Nepal-Tibet Flash Flood",
+      "summary": "Death Toll Rises in Nepal-Tibet Flash Flood",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NYT World",
+        "The Guardian World",
+        "Japan Times",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 14,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://foreignpolicy.com/2026/08/27/nepal-tibet-flash-floods-death-toll-missing-glacier-global-warming"
+    },
+    {
+      "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
+      "summary": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
+      "outlets_covering": [
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume?traffic_source=rss"
+    },
+    {
+      "title": "Chinese foreign minister calls for Washington, Beijing to ‘overcome obstacles’ ahead of summit",
+      "summary": "Chinese foreign minister calls for Washington, Beijing to ‘overcome obstacles’ ahead of summit",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/6054943-chinese-foreign-minister-wang-yi-us-relations-trump-xi-summit"
     }
   ]
 }
