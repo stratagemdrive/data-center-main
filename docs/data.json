@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T21:26:10.037486Z",
+  "last_updated": "2026-08-28T07:53:55.078864Z",
   "world_org_meetings": [
     {
       "title": "PM Modi to meet Russia's Putin on SCO meeting sidelines",
@@ -13,20 +13,20 @@
   "diplomatic_visits": [],
   "elections": [
     {
+      "title": "Zambia opposition leader sought refuge following disputed elections. Now he's accused of treason",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Zambia opposition leader sought refuge following disputed elections. Now he's accused of treason",
+      "source_url": "https://abcnews.com/International/wireStory/zambia-opposition-leader-sought-refuge-disputed-elections-now-136014580"
+    },
+    {
       "title": "Laura Ingraham: Election cycle will be ‘brutal’ for Republicans",
       "country": "",
       "election_type": "National",
       "date": "",
       "description": "Laura Ingraham: Election cycle will be ‘brutal’ for Republicans",
       "source_url": "https://thehill.com/homenews/media/6055884-ingraham-predicts-brutal-gop-midterm-elections"
-    },
-    {
-      "title": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
-      "source_url": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss"
     },
     {
       "title": "French presidential candidates clash at first debate before upcoming elections",
@@ -55,72 +55,19 @@
   ],
   "global_events": [
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "summary": "What we know about deadly Nepal-Tibet floods",
+      "title": "Bosnian Serb war criminal Ratko Mladic dies in hospital",
+      "summary": "Bosnian Serb war criminal Ratko Mladic dies in hospital",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
         "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "NYT World",
-        "The Guardian World",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 21,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "30 Canadians and permanent residents among missing after Nepal, Tibet floods: Global Affairs",
-      "summary": "30 Canadians and permanent residents among missing after Nepal, Tibet floods: Global Affairs",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NYT World",
-        "The Guardian World",
+        "DW World",
         "Japan Times"
       ],
-      "coverage_count": 14,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbc.ca/news/world/livestory/nepal-tibet-floods-rescue-efforts-9.7322361?cmp=rss"
-    },
-    {
-      "title": "Death Toll Rises in Nepal-Tibet Flash Flood",
-      "summary": "Death Toll Rises in Nepal-Tibet Flash Flood",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "NYT World",
-        "The Guardian World",
-        "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 14,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://foreignpolicy.com/2026/08/27/nepal-tibet-flash-floods-death-toll-missing-glacier-global-warming"
-    },
-    {
-      "title": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
-      "summary": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
-      "outlets_covering": [
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume?traffic_source=rss"
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/28/world/ratko-mladic-bosnia-serbia-dead"
     },
     {
       "title": "Chinese foreign minister calls for Washington, Beijing to ‘overcome obstacles’ ahead of summit",
@@ -134,6 +81,50 @@
       "region": "China",
       "category": "Politics",
       "source_url": "https://thehill.com/policy/international/6054943-chinese-foreign-minister-wang-yi-us-relations-trump-xi-summit"
+    },
+    {
+      "title": "30 Canadians and permanent residents among missing after Nepal, Tibet floods: Global Affairs",
+      "summary": "30 Canadians and permanent residents among missing after Nepal, Tibet floods: Global Affairs",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NYT World",
+        "The Guardian World"
+      ],
+      "coverage_count": 11,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.cbc.ca/news/world/livestory/nepal-tibet-floods-rescue-efforts-9.7322361?cmp=rss"
+    },
+    {
+      "title": "Glacial collapse caused seismic activity, ‘catastrophic’ Nepal floods: USGS",
+      "summary": "Glacial collapse caused seismic activity, ‘catastrophic’ Nepal floods: USGS",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.thehindu.com/news/international/glacial-collapse-caused-seismic-activity-catastrophic-nepal-floods-usgs/article71394824.ece"
+    },
+    {
+      "title": "Pakistani investigators visiting hospital nursery where fire killed 14 newborns",
+      "summary": "Pakistani investigators visiting hospital nursery where fire killed 14 newborns",
+      "outlets_covering": [
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World"
+      ],
+      "coverage_count": 3,
+      "region": "South Asia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/pakistani-investigators-visiting-hospital-nursery-fire-killed-14-135996263"
     }
   ]
 }
