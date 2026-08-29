@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-28T21:35:03.680807Z",
+  "last_updated": "2026-08-29T04:46:39.992908Z",
   "world_org_meetings": [
+    {
+      "title": "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-begins-four-day-uzbekistan-kyrgyzstan-visit-for-sco-summit-whats-on-agenda/articleshow/133603378.cms"
+    },
     {
       "title": "Xi-Trump summit plans, Nepal disaster, SCO summit",
       "organization": "SCO",
@@ -29,14 +37,6 @@
       "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/public-citizen-corporate-campaign-donations-b3040895.html"
     },
     {
-      "title": "Zambia opposition leader sought refuge following disputed elections. Now he's accused of treason",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Zambia opposition leader sought refuge following disputed elections. Now he's accused of treason",
-      "source_url": "https://abcnews.com/International/wireStory/zambia-opposition-leader-sought-refuge-disputed-elections-now-136014580"
-    },
-    {
       "title": "Laura Ingraham: Election cycle will be ‘brutal’ for Republicans",
       "country": "",
       "election_type": "National",
@@ -55,84 +55,68 @@
   ],
   "global_events": [
     {
-      "title": "Hundreds killed, over 1,000 missing after flash floods in Nepal and Tibet",
-      "summary": "Hundreds killed, over 1,000 missing after flash floods in Nepal and Tibet",
+      "title": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
+      "summary": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
       "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "Wash Post World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 18,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.npr.org/2026/08/28/nx-s1-5946732/hundreds-killed-over-1-000-missing-after-flash-floods-in-nepal-and-tibet"
-    },
-    {
-      "title": "Iran War Hits 6 Month Mark",
-      "summary": "Iran War Hits 6 Month Mark",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "Bloomberg"
+        "The Guardian World"
       ],
       "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-08-28/iran-war-hits-6-month-mark-video"
-    },
-    {
-      "title": "At least 90 Americans missing in Nepal flood among 2,000 unaccounted for",
-      "summary": "At least 90 Americans missing in Nepal flood among 2,000 unaccounted for",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "The Guardian World",
-        "The Independent",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill"
-      ],
-      "coverage_count": 11,
       "region": "South Asia",
       "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/2026/aug/28/nepal-flood-missing-americans"
+      "source_url": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll"
     },
     {
-      "title": "Trapped Nepali workers pulled from hydropower tunnel after catastrophic flooding",
-      "summary": "Trapped Nepali workers pulled from hydropower tunnel after catastrophic flooding",
+      "title": "Former Ecuadorian President Lenín Moreno sentenced to 5 years for corruption",
+      "summary": "Former Ecuadorian President Lenín Moreno sentenced to 5 years for corruption",
       "outlets_covering": [
-        "NBC News World",
-        "Fox News World"
+        "ABC News Intl",
+        "The Independent"
       ],
       "coverage_count": 2,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.foxnews.com/world/trapped-nepali-workers-pulled-hydropower-tunnel-catastrophic-flooding"
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/former-ecuadorian-president-lenn-moreno-sentenced-5-years-136048771"
     },
     {
-      "title": "Nepal flash floods LIVE: Death toll rises to 579; nearly 2,000 people still missing",
-      "summary": "Nepal flash floods LIVE: Death toll rises to 579; nearly 2,000 people still missing",
+      "title": "China removes high-ranking officers from key military body",
+      "summary": "China removes high-ranking officers from key military body",
+      "outlets_covering": [
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 2,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/29/asia-pacific/politics/china-top-officers-removed"
+    },
+    {
+      "title": "Judge throws out confession of Khalid Sheikh Mohammed, man accused of plotting 9/11 attack",
+      "summary": "Judge throws out confession of Khalid Sheikh Mohammed, man accused of plotting 9/11 attack",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World"
+      ],
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/judge-throws-out-confession-of-man-accused-of-plotting-911-attack"
+    },
+    {
+      "title": "Japanese family of five believed missing in Nepal flash floods",
+      "summary": "Japanese family of five believed missing in Nepal flash floods",
       "outlets_covering": [
         "NPR World",
-        "CBC World",
         "CBS News World",
         "The Guardian World",
-        "France24",
-        "The Hindu Intl",
-        "Foreign Policy"
+        "Japan Times",
+        "The Hindu Intl"
       ],
-      "coverage_count": 12,
+      "coverage_count": 5,
       "region": "South Asia",
       "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece"
+      "source_url": "https://www.japantimes.co.jp/news/2026/08/29/japan/japanese-nepal-flash-floods"
     }
   ]
 }
