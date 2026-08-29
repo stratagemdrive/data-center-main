@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-29T04:46:39.992908Z",
+  "last_updated": "2026-08-29T15:55:47.686122Z",
   "world_org_meetings": [
     {
-      "title": "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
-      "organization": "SCO",
+      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
+      "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda",
-      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-begins-four-day-uzbekistan-kyrgyzstan-visit-for-sco-summit-whats-on-agenda/articleshow/133603378.cms"
+      "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
+      "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
     },
     {
       "title": "Xi-Trump summit plans, Nepal disaster, SCO summit",
@@ -21,102 +21,122 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Serbia: Keeping EU, Russia in play ahead of key election",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Serbia: Keeping EU, Russia in play ahead of key election",
-      "source_url": "https://www.dw.com/en/serbia-keeping-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Corporate America pours record $646 million into midterms as election spending explodes",
+      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Corporate America pours record $646 million into midterms as election spending explodes",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/public-citizen-corporate-campaign-donations-b3040895.html"
+      "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
+      "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
     },
     {
-      "title": "Laura Ingraham: Election cycle will be ‘brutal’ for Republicans",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Laura Ingraham: Election cycle will be ‘brutal’ for Republicans",
-      "source_url": "https://thehill.com/homenews/media/6055884-ingraham-predicts-brutal-gop-midterm-elections"
-    },
-    {
-      "title": "What Iceland’s referendum means for the EU’s future",
+      "title": "Referendum on EU membership: An ‘existential question’ for Icelanders",
       "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "What Iceland’s referendum means for the EU’s future",
-      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/what-icelands-referendum-means-for-the-eus-future"
+      "description": "Referendum on EU membership: An ‘existential question’ for Icelanders",
+      "source_url": "https://www.france24.com/en/referendum-on-eu-membership-an-existential-question-for-icelanders"
+    },
+    {
+      "title": "Serbia keeps EU, Russia in play ahead of key election",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Serbia keeps EU, Russia in play ahead of key election",
+      "source_url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Icelanders vote in tight referendum on restarting EU membership talks",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Icelanders vote in tight referendum on restarting EU membership talks",
+      "source_url": "https://www.france24.com/en/europe/20260829-icelanders-vote-in-referendum-on-whether-to-resume-eu-membership-talks"
+    },
+    {
+      "title": "Icelanders head to polls for referendum on whether to resume talks to join EU",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Icelanders head to polls for referendum on whether to resume talks to join EU",
+      "source_url": "https://news.sky.com/story/icelanders-head-to-polls-for-referendum-on-whether-to-resume-talks-to-join-eu-13578427"
     }
   ],
   "global_events": [
     {
-      "title": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
-      "summary": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "summary": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
       "outlets_covering": [
         "NPR World",
         "CBC World",
-        "The Guardian World"
-      ],
-      "coverage_count": 4,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll"
-    },
-    {
-      "title": "Former Ecuadorian President Lenín Moreno sentenced to 5 years for corruption",
-      "summary": "Former Ecuadorian President Lenín Moreno sentenced to 5 years for corruption",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent"
-      ],
-      "coverage_count": 2,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/former-ecuadorian-president-lenn-moreno-sentenced-5-years-136048771"
-    },
-    {
-      "title": "China removes high-ranking officers from key military body",
-      "summary": "China removes high-ranking officers from key military body",
-      "outlets_covering": [
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 2,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/08/29/asia-pacific/politics/china-top-officers-removed"
-    },
-    {
-      "title": "Judge throws out confession of Khalid Sheikh Mohammed, man accused of plotting 9/11 attack",
-      "summary": "Judge throws out confession of Khalid Sheikh Mohammed, man accused of plotting 9/11 attack",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World"
-      ],
-      "coverage_count": 2,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/judge-throws-out-confession-of-man-accused-of-plotting-911-attack"
-    },
-    {
-      "title": "Japanese family of five believed missing in Nepal flash floods",
-      "summary": "Japanese family of five believed missing in Nepal flash floods",
-      "outlets_covering": [
-        "NPR World",
         "CBS News World",
         "The Guardian World",
-        "Japan Times",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
+    },
+    {
+      "title": "Iceland votes on whether to start EU membership talks in shadow of Trump's Greenland threats",
+      "summary": "Iceland votes on whether to start EU membership talks in shadow of Trump's Greenland threats",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 5,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/iceland-vote-eu-membership-9.7325448?cmp=rss"
+    },
+    {
+      "title": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
+      "summary": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://abcnews.com/International/wireStory/russian-attack-hits-ukraines-kyiv-region-killing-27-136052346"
+    },
+    {
+      "title": "🔴 Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
+      "summary": "🔴 Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
+      "outlets_covering": [
+        "NPR World",
+        "Fox News World",
+        "The Guardian World",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 10,
       "region": "South Asia",
       "category": "Climate",
-      "source_url": "https://www.japantimes.co.jp/news/2026/08/29/japan/japanese-nepal-flash-floods"
+      "source_url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing"
+    },
+    {
+      "title": "Former Ecuadorian President Lenin Moreno sentenced to 5 years for corruption",
+      "summary": "Former Ecuadorian President Lenin Moreno sentenced to 5 years for corruption",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/former-ecuadorian-president-lenin-moreno-sentenced-to-5-years-for-corruption/article71403553.ece"
     }
   ]
 }
