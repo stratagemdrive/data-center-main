@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-29T15:55:47.686122Z",
+  "last_updated": "2026-08-30T02:25:02.379451Z",
   "world_org_meetings": [
+    {
+      "title": "Will work with SCO to free region from terror: PM ahead of summit",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "Will work with SCO to free region from terror: PM ahead of summit",
+      "source_url": "https://timesofindia.indiatimes.com/india/will-work-with-sco-to-free-region-from-terror-pm-ahead-of-summit/articleshow/133619538.cms"
+    },
     {
       "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
       "organization": "BRICS",
@@ -18,8 +26,37 @@
       "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
+      "participants": [
+        "BJP",
+        "Delhi MPs",
+        "Sajjan Kumar’s"
+      ],
+      "date": "",
+      "location": "",
+      "description": "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
+      "source_url": "https://timesofindia.indiatimes.com/india/bjp-president-pulls-up-3-delhi-mps-for-visiting-sajjan-kumars-house/articleshow/133619553.cms"
+    }
+  ],
   "elections": [
+    {
+      "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
+      "country": "Australia",
+      "election_type": "National",
+      "date": "",
+      "description": "One Nation claims victory in Secret Harbour byelection in Western Australia",
+      "source_url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia"
+    },
+    {
+      "title": "Voting closes in Iceland’s knife-edge EU referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Voting closes in Iceland’s knife-edge EU referendum",
+      "source_url": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss"
+    },
     {
       "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
       "country": "",
@@ -43,25 +80,70 @@
       "date": "",
       "description": "Serbia keeps EU, Russia in play ahead of key election",
       "source_url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Icelanders vote in tight referendum on restarting EU membership talks",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Icelanders vote in tight referendum on restarting EU membership talks",
-      "source_url": "https://www.france24.com/en/europe/20260829-icelanders-vote-in-referendum-on-whether-to-resume-eu-membership-talks"
-    },
-    {
-      "title": "Icelanders head to polls for referendum on whether to resume talks to join EU",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Icelanders head to polls for referendum on whether to resume talks to join EU",
-      "source_url": "https://news.sky.com/story/icelanders-head-to-polls-for-referendum-on-whether-to-resume-talks-to-join-eu-13578427"
     }
   ],
   "global_events": [
+    {
+      "title": "Nepal flash flood death toll nears 700, with around 3,000 still missing",
+      "summary": "Nepal flash flood death toll nears 700, with around 3,000 still missing",
+      "outlets_covering": [
+        "NPR World",
+        "CBS News World",
+        "Fox News World",
+        "DW World",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl",
+        "Foreign Policy"
+      ],
+      "coverage_count": 12,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/nepal-flash-flood-death-missing-americans-rescue"
+    },
+    {
+      "title": "Israeli settlers attack international news team in occupied West Bank",
+      "summary": "Israeli settlers attack international news team in occupied West Bank",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NBC News World",
+        "Sky News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
+    },
+    {
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "summary": "Former Ecuadorian president imprisoned for corruption",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump's Greenland threats cast shadow on Iceland EU vote",
+      "summary": "Trump's Greenland threats cast shadow on Iceland EU vote",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/trumps-greenland-threats-cast-shadow-icelands-vote-trigger-136051151"
+    },
     {
       "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
       "summary": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
@@ -70,73 +152,13 @@
         "CBC World",
         "CBS News World",
         "The Guardian World",
-        "Al Jazeera",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
-    },
-    {
-      "title": "Iceland votes on whether to start EU membership talks in shadow of Trump's Greenland threats",
-      "summary": "Iceland votes on whether to start EU membership talks in shadow of Trump's Greenland threats",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "ABC News Intl",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/iceland-vote-eu-membership-9.7325448?cmp=rss"
-    },
-    {
-      "title": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
-      "summary": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/russian-attack-hits-ukraines-kyiv-region-killing-27-136052346"
-    },
-    {
-      "title": "🔴 Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
-      "summary": "🔴 Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
-      "outlets_covering": [
-        "NPR World",
-        "Fox News World",
-        "The Guardian World",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 10,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing"
-    },
-    {
-      "title": "Former Ecuadorian President Lenin Moreno sentenced to 5 years for corruption",
-      "summary": "Former Ecuadorian President Lenin Moreno sentenced to 5 years for corruption",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/former-ecuadorian-president-lenin-moreno-sentenced-to-5-years-for-corruption/article71403553.ece"
     }
   ]
 }
