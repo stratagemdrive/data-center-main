@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-30T02:25:02.379451Z",
+  "last_updated": "2026-08-30T15:42:23.334120Z",
   "world_org_meetings": [
     {
-      "title": "Will work with SCO to free region from terror: PM ahead of summit",
-      "organization": "SCO",
+      "title": "Iceland Votes to Steer Clear of European Union Talks",
+      "organization": "EU",
       "date": "",
       "location": "",
-      "description": "Will work with SCO to free region from terror: PM ahead of summit",
-      "source_url": "https://timesofindia.indiatimes.com/india/will-work-with-sco-to-free-region-from-terror-pm-ahead-of-summit/articleshow/133619538.cms"
+      "description": "Iceland Votes to Steer Clear of European Union Talks",
+      "source_url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html"
     },
     {
       "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
@@ -26,36 +26,31 @@
       "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
-      "participants": [
-        "BJP",
-        "Delhi MPs",
-        "Sajjan Kumar’s"
-      ],
-      "date": "",
-      "location": "",
-      "description": "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
-      "source_url": "https://timesofindia.indiatimes.com/india/bjp-president-pulls-up-3-delhi-mps-for-visiting-sajjan-kumars-house/articleshow/133619553.cms"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
-      "country": "Australia",
-      "election_type": "National",
-      "date": "",
-      "description": "One Nation claims victory in Secret Harbour byelection in Western Australia",
-      "source_url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia"
-    },
-    {
-      "title": "Voting closes in Iceland’s knife-edge EU referendum",
+      "title": "Iceland rejects EU accession talks after divisive referendum campaign",
       "country": "",
       "election_type": "Referendum",
       "date": "",
-      "description": "Voting closes in Iceland’s knife-edge EU referendum",
-      "source_url": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss"
+      "description": "Iceland rejects EU accession talks after divisive referendum campaign",
+      "source_url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result"
+    },
+    {
+      "title": "Icelanders vote to stay out of EU in close-fought referendum",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Icelanders vote to stay out of EU in close-fought referendum",
+      "source_url": "https://www.cbc.ca/news/world/iceland-votes-against-eu-accession-talks-9.7325797?cmp=rss"
+    },
+    {
+      "title": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
+      "country": "Venezuela",
+      "election_type": "National",
+      "date": "",
+      "description": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
+      "source_url": "https://www.nbcnews.com/politics/congress/ted-cruz-elections-venezuela-oil-maduro-delcy-rodriguez-rcna595110"
     },
     {
       "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
@@ -64,14 +59,6 @@
       "date": "",
       "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
       "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
-    },
-    {
-      "title": "Referendum on EU membership: An ‘existential question’ for Icelanders",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Referendum on EU membership: An ‘existential question’ for Icelanders",
-      "source_url": "https://www.france24.com/en/referendum-on-eu-membership-an-existential-question-for-icelanders"
     },
     {
       "title": "Serbia keeps EU, Russia in play ahead of key election",
@@ -84,39 +71,36 @@
   ],
   "global_events": [
     {
-      "title": "Nepal flash flood death toll nears 700, with around 3,000 still missing",
-      "summary": "Nepal flash flood death toll nears 700, with around 3,000 still missing",
+      "title": "Nepal warns of more possible floods as communities grapple with devastation",
+      "summary": "Nepal warns of more possible floods as communities grapple with devastation",
       "outlets_covering": [
         "NPR World",
-        "CBS News World",
-        "Fox News World",
-        "DW World",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 12,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/nepal-flash-flood-death-missing-americans-rescue"
-    },
-    {
-      "title": "Israeli settlers attack international news team in occupied West Bank",
-      "summary": "Israeli settlers attack international news team in occupied West Bank",
-      "outlets_covering": [
-        "BBC World",
         "CBC World",
-        "NBC News World",
-        "Sky News World",
-        "The Guardian World",
-        "Al Jazeera",
+        "ABC News Intl",
+        "NYT World",
         "The Hindu Intl"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
+      "coverage_count": 5,
+      "region": "South Asia",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
+      "source_url": "https://abcnews.com/International/wireStory/nepal-warns-floods-communities-grapple-devastation-136066465"
+    },
+    {
+      "title": "Iceland rejects EU accession talks",
+      "summary": "Iceland rejects EU accession talks",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 9,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260830-iceland-rejects-eu-accession-talks"
     },
     {
       "title": "Former Ecuadorian president imprisoned for corruption",
@@ -132,33 +116,33 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Israeli settlers attack home in occupied West Bank's Qusra: witnesses",
+      "summary": "Israeli settlers attack home in occupied West Bank's Qusra: witnesses",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "NBC News World",
+        "Sky News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/world/israeli-settlers-attack-west-bank-9.7325510?cmp=rss"
+    },
+    {
       "title": "Trump's Greenland threats cast shadow on Iceland EU vote",
       "summary": "Trump's Greenland threats cast shadow on Iceland EU vote",
       "outlets_covering": [
         "CBC World",
         "ABC News Intl",
+        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Europe",
       "category": "Politics",
       "source_url": "https://abcnews.com/International/wireStory/trumps-greenland-threats-cast-shadow-icelands-vote-trigger-136051151"
-    },
-    {
-      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-      "summary": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "The Guardian World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
     }
   ]
 }
