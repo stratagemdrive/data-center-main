@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-08-31T02:19:35.595078Z",
+  "last_updated": "2026-08-31T18:25:20.366856Z",
   "world_org_meetings": [
     {
-      "title": "US Treasury bars certain journalists from G20 meeting in North Carolina",
+      "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
       "organization": "G20",
       "date": "",
       "location": "",
-      "description": "US Treasury bars certain journalists from G20 meeting in North Carolina",
-      "source_url": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20"
+      "description": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+      "source_url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html"
+    },
+    {
+      "title": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit"
+    },
+    {
+      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years"
     },
     {
       "title": "Iceland Votes to Steer Clear of European Union Talks",
@@ -24,53 +40,66 @@
       "location": "",
       "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
       "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
-    },
-    {
-      "title": "Xi-Trump summit plans, Nepal disaster, SCO summit",
-      "organization": "SCO",
-      "date": "",
-      "location": "",
-      "description": "Xi-Trump summit plans, Nepal disaster, SCO summit",
-      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "PM Modi likely to hold bilateral talks with Iranian president",
+      "title": "China Is the Star at a Summit With the Leaders of Russia, India and Iran",
       "participants": [
-        "Modi",
-        "Iranian"
+        "China",
+        "Star",
+        "Summit",
+        "Leaders"
       ],
       "date": "",
       "location": "",
-      "description": "PM Modi likely to hold bilateral talks with Iranian president",
-      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-likely-to-hold-bilateral-talks-with-iranian-president/articleshow/133636865.cms"
+      "description": "China Is the Star at a Summit With the Leaders of Russia, India and Iran",
+      "source_url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
+    },
+    {
+      "title": "PM Modi-Putin hit the road together again, share car ride after bilateral talks in Bishkek",
+      "participants": [
+        "Modi-Putin",
+        "Bishkek"
+      ],
+      "date": "",
+      "location": "",
+      "description": "PM Modi-Putin hit the road together again, share car ride after bilateral talks in Bishkek",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-putin-hit-the-road-together-again-share-car-ride-after-bilateral-talks-in-bishkek/articleshow/133657011.cms"
     }
   ],
   "elections": [
     {
-      "title": "Iceland rejects EU accession talks after divisive referendum campaign",
+      "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
       "country": "",
-      "election_type": "Referendum",
+      "election_type": "National",
       "date": "",
-      "description": "Iceland rejects EU accession talks after divisive referendum campaign",
-      "source_url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result"
+      "description": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
+      "source_url": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt"
     },
     {
-      "title": "Icelanders vote to stay out of EU in close-fought referendum",
+      "title": "As Icelanders say no to resuming EU talks, what issues weighed in the election?",
       "country": "",
-      "election_type": "Referendum",
+      "election_type": "National",
       "date": "",
-      "description": "Icelanders vote to stay out of EU in close-fought referendum",
-      "source_url": "https://www.cbc.ca/news/world/iceland-votes-against-eu-accession-talks-9.7325797?cmp=rss"
+      "description": "As Icelanders say no to resuming EU talks, what issues weighed in the election?",
+      "source_url": "https://www.france24.com/en/as-icelanders-say-no-to-resuming-eu-talks-what-issues-weighed-in-the-election"
     },
     {
-      "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
-      "country": "",
-      "election_type": "Referendum",
+      "title": "France's politicians look to close gap with far right ahead of key election",
+      "country": "France",
+      "election_type": "National",
       "date": "",
-      "description": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
-      "source_url": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss"
+      "description": "France's politicians look to close gap with far right ahead of key election",
+      "source_url": "https://www.france24.com/en/france-s-politicians-look-to-close-gap-with-far-right-ahead-of-key-election"
+    },
+    {
+      "title": "France gears up for an election year defined by a fragmented left",
+      "country": "France",
+      "election_type": "National",
+      "date": "",
+      "description": "France gears up for an election year defined by a fragmented left",
+      "source_url": "https://www.france24.com/en/france-gears-up-for-an-election-year-defined-by-a-fragmented-left"
     },
     {
       "title": "Guinea-Bissau votes in a referendum on granting the president expanded powers",
@@ -79,101 +108,81 @@
       "date": "",
       "description": "Guinea-Bissau votes in a referendum on granting the president expanded powers",
       "source_url": "https://abcnews.com/International/wireStory/guinea-bissau-votes-referendum-granting-president-expanded-powers-136066466"
-    },
-    {
-      "title": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
-      "country": "Venezuela",
-      "election_type": "National",
-      "date": "",
-      "description": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
-      "source_url": "https://www.nbcnews.com/politics/congress/ted-cruz-elections-venezuela-oil-maduro-delcy-rodriguez-rcna595110"
     }
   ],
   "global_events": [
     {
-      "title": "Flash flood in Grand Canyon National Park leaves about 15 missing",
-      "summary": "Flash flood in Grand Canyon National Park leaves about 15 missing",
+      "title": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon",
+      "summary": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon",
       "outlets_covering": [
         "BBC World",
         "CBC World",
+        "Sky News World",
         "The Guardian World",
         "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 9,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.france24.com/en/americas/20260831-grand-canyon-national-park-flash-flood-missing"
-    },
-    {
-      "title": "US hits Iranian rocket launchers off the Strait of Hormuz in first new attack in weeks",
-      "summary": "US hits Iranian rocket launchers off the Strait of Hormuz in first new attack in weeks",
-      "outlets_covering": [
-        "BBC World",
-        "The Guardian World",
-        "Bloomberg",
-        "The Independent",
-        "France24",
+        "Time",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/us-iran-attack-rocket-launchers-strait-of-hormuz-b3041881.html"
-    },
-    {
-      "title": "Approximately 15 people may be missing after Grand Canyon flash flood: Parks service",
-      "summary": "Approximately 15 people may be missing after Grand Canyon flash flood: Parks service",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "The Guardian World",
-        "Bloomberg",
-        "The Independent",
-        "Al Jazeera",
-        "France24",
-        "The Hill"
-      ],
       "coverage_count": 9,
       "region": "Global",
       "category": "Climate",
-      "source_url": "https://thehill.com/homenews/state-watch/6060286-grand-canyon-flash-floods-missing"
+      "source_url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
     },
     {
       "title": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
       "summary": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
       "outlets_covering": [
-        "CBC World",
         "CBS News World",
         "NBC News World",
-        "Sky News World",
         "The Guardian World",
+        "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/video/israeli-settlers-attack-nbc-news-crew-palestinian-woman-west-bank"
     },
     {
-      "title": "Nepal warns of more possible floods as communities grapple with devastation",
-      "summary": "Nepal warns of more possible floods as communities grapple with devastation",
+      "title": "Trump says more coming as U.S., Iran trade strikes for first time in weeks",
+      "summary": "Trump says more coming as U.S., Iran trade strikes for first time in weeks",
       "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "NYT World",
-        "Al Jazeera",
-        "The Hindu Intl"
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time"
       ],
-      "coverage_count": 7,
-      "region": "South Asia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/nepal-warns-floods-communities-grapple-devastation-136066465"
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island"
+    },
+    {
+      "title": "Fifteen Britons among 261 foreigners missing in China after floods",
+      "summary": "Fifteen Britons among 261 foreigners missing in China after floods",
+      "outlets_covering": [
+        "NYT World",
+        "The Guardian World",
+        "SCMP"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Climate",
+      "source_url": "https://www.theguardian.com/world/2026/aug/30/britons-foreigners-missing-china-tibet-nepal-floods"
+    },
+    {
+      "title": "Trump sending message to Iran with AI Kharg Island video, says Vance",
+      "summary": "Trump sending message to Iran with AI Kharg Island video, says Vance",
+      "outlets_covering": [
+        "The Independent",
+        "Al Jazeera",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Technology",
+      "source_url": "https://thehill.com/homenews/6061484-vance-trump-ai-iran-message"
     }
   ]
 }
