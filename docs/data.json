@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-30T15:42:23.334120Z",
+  "last_updated": "2026-08-31T02:19:35.595078Z",
   "world_org_meetings": [
+    {
+      "title": "US Treasury bars certain journalists from G20 meeting in North Carolina",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "US Treasury bars certain journalists from G20 meeting in North Carolina",
+      "source_url": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20"
+    },
     {
       "title": "Iceland Votes to Steer Clear of European Union Talks",
       "organization": "EU",
@@ -26,7 +34,19 @@
       "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3365584/xi-trump-summit-plans-nepal-disaster-sco-summit"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "PM Modi likely to hold bilateral talks with Iranian president",
+      "participants": [
+        "Modi",
+        "Iranian"
+      ],
+      "date": "",
+      "location": "",
+      "description": "PM Modi likely to hold bilateral talks with Iranian president",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-likely-to-hold-bilateral-talks-with-iranian-president/articleshow/133636865.cms"
+    }
+  ],
   "elections": [
     {
       "title": "Iceland rejects EU accession talks after divisive referendum campaign",
@@ -45,31 +65,100 @@
       "source_url": "https://www.cbc.ca/news/world/iceland-votes-against-eu-accession-talks-9.7325797?cmp=rss"
     },
     {
+      "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "source_url": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss"
+    },
+    {
+      "title": "Guinea-Bissau votes in a referendum on granting the president expanded powers",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Guinea-Bissau votes in a referendum on granting the president expanded powers",
+      "source_url": "https://abcnews.com/International/wireStory/guinea-bissau-votes-referendum-granting-president-expanded-powers-136066466"
+    },
+    {
       "title": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
       "country": "Venezuela",
       "election_type": "National",
       "date": "",
       "description": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
       "source_url": "https://www.nbcnews.com/politics/congress/ted-cruz-elections-venezuela-oil-maduro-delcy-rodriguez-rcna595110"
-    },
-    {
-      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-      "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
-    },
-    {
-      "title": "Serbia keeps EU, Russia in play ahead of key election",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Serbia keeps EU, Russia in play ahead of key election",
-      "source_url": "https://www.dw.com/en/serbia-keeps-eu-russia-in-play-ahead-of-key-election/a-78543495?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "global_events": [
+    {
+      "title": "Flash flood in Grand Canyon National Park leaves about 15 missing",
+      "summary": "Flash flood in Grand Canyon National Park leaves about 15 missing",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://www.france24.com/en/americas/20260831-grand-canyon-national-park-flash-flood-missing"
+    },
+    {
+      "title": "US hits Iranian rocket launchers off the Strait of Hormuz in first new attack in weeks",
+      "summary": "US hits Iranian rocket launchers off the Strait of Hormuz in first new attack in weeks",
+      "outlets_covering": [
+        "BBC World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/us-iran-attack-rocket-launchers-strait-of-hormuz-b3041881.html"
+    },
+    {
+      "title": "Approximately 15 people may be missing after Grand Canyon flash flood: Parks service",
+      "summary": "Approximately 15 people may be missing after Grand Canyon flash flood: Parks service",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "The Guardian World",
+        "Bloomberg",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 9,
+      "region": "Global",
+      "category": "Climate",
+      "source_url": "https://thehill.com/homenews/state-watch/6060286-grand-canyon-flash-floods-missing"
+    },
+    {
+      "title": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
+      "summary": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
+      "outlets_covering": [
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Sky News World",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/israeli-settlers-attack-nbc-news-crew-palestinian-woman-west-bank"
+    },
     {
       "title": "Nepal warns of more possible floods as communities grapple with devastation",
       "summary": "Nepal warns of more possible floods as communities grapple with devastation",
@@ -78,71 +167,13 @@
         "CBC World",
         "ABC News Intl",
         "NYT World",
+        "Al Jazeera",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 7,
       "region": "South Asia",
       "category": "Conflict",
       "source_url": "https://abcnews.com/International/wireStory/nepal-warns-floods-communities-grapple-devastation-136066465"
-    },
-    {
-      "title": "Iceland rejects EU accession talks",
-      "summary": "Iceland rejects EU accession talks",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "Sky News World",
-        "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 9,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260830-iceland-rejects-eu-accession-talks"
-    },
-    {
-      "title": "Former Ecuadorian president imprisoned for corruption",
-      "summary": "Former Ecuadorian president imprisoned for corruption",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Israeli settlers attack home in occupied West Bank's Qusra: witnesses",
-      "summary": "Israeli settlers attack home in occupied West Bank's Qusra: witnesses",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "NBC News World",
-        "Sky News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/israeli-settlers-attack-west-bank-9.7325510?cmp=rss"
-    },
-    {
-      "title": "Trump's Greenland threats cast shadow on Iceland EU vote",
-      "summary": "Trump's Greenland threats cast shadow on Iceland EU vote",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/trumps-greenland-threats-cast-shadow-icelands-vote-trigger-136051151"
     }
   ]
 }
