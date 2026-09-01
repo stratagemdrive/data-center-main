@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-09-01T02:36:54.164007Z",
+  "last_updated": "2026-09-01T15:45:09.844725Z",
   "world_org_meetings": [
     {
-      "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+      "title": "Trump faces huge backlash for inviting Russian finance minister to G20 talks after years of exile",
       "organization": "G20",
       "date": "",
       "location": "",
-      "description": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-      "source_url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss"
-    },
-    {
-      "title": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
-      "organization": "SCO",
-      "date": "",
-      "location": "",
-      "description": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit"
-    },
-    {
-      "title": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit"
+      "description": "Trump faces huge backlash for inviting Russian finance minister to G20 talks after years of exile",
+      "source_url": "https://www.independent.co.uk/news/world/europe/trump-russia-finance-minister-exile-b3042610.html"
     },
     {
       "title": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
@@ -34,12 +18,28 @@
       "source_url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html"
     },
     {
+      "title": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit"
+    },
+    {
       "title": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
       "organization": "SCO",
       "date": "",
       "location": "",
       "description": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit"
+    },
+    {
+      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years"
     }
   ],
   "diplomatic_visits": [
@@ -59,6 +59,30 @@
   ],
   "elections": [
     {
+      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Echoes of cold war as US accused of meddling in another Brazilian election",
+      "source_url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election"
+    },
+    {
+      "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
+      "country": "France",
+      "election_type": "National",
+      "date": "",
+      "description": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
+      "source_url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571"
+    },
+    {
+      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "",
+      "description": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
+      "source_url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney"
+    },
+    {
       "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
       "country": "",
       "election_type": "National",
@@ -67,118 +91,89 @@
       "source_url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html"
     },
     {
-      "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
+      "title": "Chinese script evolved like a living organism driven by natural selection: study",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
-      "source_url": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt"
-    },
-    {
-      "title": "As Icelanders say no to resuming EU talks, what issues weighed in the election?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "As Icelanders say no to resuming EU talks, what issues weighed in the election?",
-      "source_url": "https://www.france24.com/en/as-icelanders-say-no-to-resuming-eu-talks-what-issues-weighed-in-the-election"
-    },
-    {
-      "title": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
-      "country": "Venezuela",
-      "election_type": "National",
-      "date": "",
-      "description": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
-      "source_url": "https://www.nbcnews.com/politics/congress/ted-cruz-elections-venezuela-oil-maduro-delcy-rodriguez-rcna595110"
-    },
-    {
-      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-      "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
+      "description": "Chinese script evolved like a living organism driven by natural selection: study",
+      "source_url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study"
     }
   ],
   "global_events": [
     {
-      "title": "Two people dead and nearly 80 rescued after Grand Canyon flash flood",
-      "summary": "Two people dead and nearly 80 rescued after Grand Canyon flash flood",
+      "title": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
+      "summary": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "DW World"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html"
+    },
+    {
+      "title": "Former prime minister Keir Starmer says he’ll leave Parliament",
+      "summary": "Former prime minister Keir Starmer says he’ll leave Parliament",
+      "outlets_covering": [
+        "NYT World",
+        "Wash Post World",
+        "Time"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/09/01/former-prime-minister-keir-starmer-says-hell-leave-parliament"
+    },
+    {
+      "title": "Donald Trump vows to hit Iran ‘hard’ after first exchange of fire in weeks",
+      "summary": "Donald Trump vows to hit Iran ‘hard’ after first exchange of fire in weeks",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.thehindu.com/news/international/donald-trump-vows-to-hit-iran-hard-after-first-exchange-of-fire-in-weeks/article71413458.ece"
+    },
+    {
+      "title": "US and Iran trade strikes for first time in weeks",
+      "summary": "US and Iran trade strikes for first time in weeks",
       "outlets_covering": [
         "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "The Independent"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Grand Canyon flash flood leaves one dead, around 15 missing",
+      "summary": "Grand Canyon flash flood leaves one dead, around 15 missing",
+      "outlets_covering": [
         "CBC World",
+        "CBS News World",
         "Sky News World",
-        "The Guardian World",
         "Time",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 9,
+      "coverage_count": 6,
       "region": "Global",
       "category": "Climate",
-      "source_url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
-    },
-    {
-      "title": "Trump says more coming as U.S., Iran trade strikes for first time in weeks",
-      "summary": "Trump says more coming as U.S., Iran trade strikes for first time in weeks",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Time",
-        "The Independent",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island"
-    },
-    {
-      "title": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
-      "summary": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "DW World"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/israeli-settlers-attack-nbc-news-crew-palestinian-woman-west-bank"
-    },
-    {
-      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-      "summary": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-      "outlets_covering": [
-        "CBS News World",
-        "Wash Post World",
-        "Time",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss"
-    },
-    {
-      "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-      "summary": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "France24",
-        "Japan Times"
-      ],
-      "coverage_count": 4,
-      "region": "China",
-      "category": "Climate",
-      "source_url": "https://www.france24.com/en/hundreds-feared-stuck-in-hydropower-tunnels-as-flood-deaths-surpass-950-in-nepal-and-china"
+      "source_url": "https://www.thehindu.com/news/international/flash-flood-in-grand-canyon-several-dead-and-many-people-missing/article71410663.ece"
     }
   ]
 }
