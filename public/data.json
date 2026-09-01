@@ -1,12 +1,36 @@
 {
-  "last_updated": "2026-08-31T18:25:20.366856Z",
+  "last_updated": "2026-09-01T02:36:54.164007Z",
   "world_org_meetings": [
     {
-      "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+      "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
       "organization": "G20",
       "date": "",
       "location": "",
-      "description": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+      "description": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+      "source_url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss"
+    },
+    {
+      "title": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit"
+    },
+    {
+      "title": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit"
+    },
+    {
+      "title": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
       "source_url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html"
     },
     {
@@ -16,59 +40,32 @@
       "location": "",
       "description": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit"
-    },
-    {
-      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
-      "organization": "SCO",
-      "date": "",
-      "location": "",
-      "description": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years"
-    },
-    {
-      "title": "Iceland Votes to Steer Clear of European Union Talks",
-      "organization": "EU",
-      "date": "",
-      "location": "",
-      "description": "Iceland Votes to Steer Clear of European Union Talks",
-      "source_url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html"
-    },
-    {
-      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-      "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "China Is the Star at a Summit With the Leaders of Russia, India and Iran",
+      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
       "participants": [
-        "China",
-        "Star",
         "Summit",
-        "Leaders"
+        "Russia India",
+        "Iran Shows Leverage Wars",
+        "Given Xi"
       ],
       "date": "",
       "location": "",
-      "description": "China Is the Star at a Summit With the Leaders of Russia, India and Iran",
+      "description": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
       "source_url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
-    },
-    {
-      "title": "PM Modi-Putin hit the road together again, share car ride after bilateral talks in Bishkek",
-      "participants": [
-        "Modi-Putin",
-        "Bishkek"
-      ],
-      "date": "",
-      "location": "",
-      "description": "PM Modi-Putin hit the road together again, share car ride after bilateral talks in Bishkek",
-      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-putin-hit-the-road-together-again-share-car-ride-after-bilateral-talks-in-bishkek/articleshow/133657011.cms"
     }
   ],
   "elections": [
+    {
+      "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
+      "source_url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html"
+    },
     {
       "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
       "country": "",
@@ -86,40 +83,31 @@
       "source_url": "https://www.france24.com/en/as-icelanders-say-no-to-resuming-eu-talks-what-issues-weighed-in-the-election"
     },
     {
-      "title": "France's politicians look to close gap with far right ahead of key election",
-      "country": "France",
+      "title": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
+      "country": "Venezuela",
       "election_type": "National",
       "date": "",
-      "description": "France's politicians look to close gap with far right ahead of key election",
-      "source_url": "https://www.france24.com/en/france-s-politicians-look-to-close-gap-with-far-right-ahead-of-key-election"
+      "description": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
+      "source_url": "https://www.nbcnews.com/politics/congress/ted-cruz-elections-venezuela-oil-maduro-delcy-rodriguez-rcna595110"
     },
     {
-      "title": "France gears up for an election year defined by a fragmented left",
-      "country": "France",
-      "election_type": "National",
-      "date": "",
-      "description": "France gears up for an election year defined by a fragmented left",
-      "source_url": "https://www.france24.com/en/france-gears-up-for-an-election-year-defined-by-a-fragmented-left"
-    },
-    {
-      "title": "Guinea-Bissau votes in a referendum on granting the president expanded powers",
+      "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
       "country": "",
-      "election_type": "Referendum",
+      "election_type": "National",
       "date": "",
-      "description": "Guinea-Bissau votes in a referendum on granting the president expanded powers",
-      "source_url": "https://abcnews.com/International/wireStory/guinea-bissau-votes-referendum-granting-president-expanded-powers-136066466"
+      "description": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
+      "source_url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece"
     }
   ],
   "global_events": [
     {
-      "title": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon",
-      "summary": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon",
+      "title": "Two people dead and nearly 80 rescued after Grand Canyon flash flood",
+      "summary": "Two people dead and nearly 80 rescued after Grand Canyon flash flood",
       "outlets_covering": [
         "BBC World",
         "CBC World",
         "Sky News World",
         "The Guardian World",
-        "Bloomberg",
         "Time",
         "The Hindu Intl",
         "The Hill"
@@ -130,59 +118,67 @@
       "source_url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
     },
     {
-      "title": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
-      "summary": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "The Guardian World",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/video/israeli-settlers-attack-nbc-news-crew-palestinian-woman-west-bank"
-    },
-    {
       "title": "Trump says more coming as U.S., Iran trade strikes for first time in weeks",
       "summary": "Trump says more coming as U.S., Iran trade strikes for first time in weeks",
       "outlets_covering": [
         "BBC World",
         "CBS News World",
         "NBC News World",
-        "Time"
+        "Time",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Economy",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island"
     },
     {
-      "title": "Fifteen Britons among 261 foreigners missing in China after floods",
-      "summary": "Fifteen Britons among 261 foreigners missing in China after floods",
+      "title": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
+      "summary": "Israeli settlers attack NBC News crew, Palestinian woman in West Bank",
       "outlets_covering": [
-        "NYT World",
+        "CBS News World",
+        "NBC News World",
         "The Guardian World",
-        "SCMP"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Climate",
-      "source_url": "https://www.theguardian.com/world/2026/aug/30/britons-foreigners-missing-china-tibet-nepal-floods"
-    },
-    {
-      "title": "Trump sending message to Iran with AI Kharg Island video, says Vance",
-      "summary": "Trump sending message to Iran with AI Kharg Island video, says Vance",
-      "outlets_covering": [
-        "The Independent",
-        "Al Jazeera",
-        "The Hill"
+        "DW World"
       ],
       "coverage_count": 5,
       "region": "Middle East",
-      "category": "Technology",
-      "source_url": "https://thehill.com/homenews/6061484-vance-trump-ai-iran-message"
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/video/israeli-settlers-attack-nbc-news-crew-palestinian-woman-west-bank"
+    },
+    {
+      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "summary": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "outlets_covering": [
+        "CBS News World",
+        "Wash Post World",
+        "Time",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss"
+    },
+    {
+      "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+      "summary": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+      "outlets_covering": [
+        "CBC World",
+        "ABC News Intl",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
+      "region": "China",
+      "category": "Climate",
+      "source_url": "https://www.france24.com/en/hundreds-feared-stuck-in-hydropower-tunnels-as-flood-deaths-surpass-950-in-nepal-and-china"
     }
   ]
 }
