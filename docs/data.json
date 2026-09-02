@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-09-02T01:58:09.499771Z",
+  "last_updated": "2026-09-02T15:36:11.637156Z",
   "world_org_meetings": [
     {
-      "title": "U.S. urges hands-off approach to AI regulation at G20 tech meeting",
-      "organization": "G20",
+      "title": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
+      "organization": "SCO",
       "date": "",
       "location": "",
-      "description": "U.S. urges hands-off approach to AI regulation at G20 tech meeting",
-      "source_url": "https://www.japantimes.co.jp/business/2026/09/02/tech/us-ai-regulation-g20"
-    },
-    {
-      "title": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
-      "organization": "APEC",
-      "date": "",
-      "location": "",
-      "description": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says"
-    },
-    {
-      "title": "G20 finance leaders close talks marked by U.S. welcoming Russia",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "G20 finance leaders close talks marked by U.S. welcoming Russia",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/02/world/politics/g20-finance-talks-us-russia"
+      "description": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366139/bishkek-us-envoys-shadow-sco-summit-challenge-beijing-and-moscows-turf"
     },
     {
       "title": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
@@ -34,15 +18,53 @@
       "source_url": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
     },
     {
+      "title": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
+      "organization": "APEC",
+      "date": "",
+      "location": "",
+      "description": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says"
+    },
+    {
       "title": "Scott Bessent pitches Trump-inspired finance competition at G20 ministers meeting",
       "organization": "G20",
       "date": "",
       "location": "",
       "description": "Scott Bessent pitches Trump-inspired finance competition at G20 ministers meeting",
       "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/scott-bessent-g20-financial-literacy-competition-trump-b3043066.html"
+    },
+    {
+      "title": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
+      "source_url": "https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "French president to open Bayeux Tapestry exhibition as he starts UK visit",
+      "participants": [
+        "French",
+        "Bayeux Tapestry"
+      ],
+      "date": "",
+      "location": "",
+      "description": "French president to open Bayeux Tapestry exhibition as he starts UK visit",
+      "source_url": "https://www.france24.com/en/video/20260902-french-president-to-open-bayeux-tapestry-exhibition-as-he-starts-uk-visit"
+    },
+    {
+      "title": "Chinese President Xi makes first visit to Egypt in a decade",
+      "participants": [
+        "Chinese President Xi",
+        "Egypt"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Chinese President Xi makes first visit to Egypt in a decade",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss"
+    },
     {
       "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
       "participants": [
@@ -59,6 +81,30 @@
   ],
   "elections": [
     {
+      "title": "Guinea-Bissau referendum tests democratic future",
+      "country": "",
+      "election_type": "Referendum",
+      "date": "",
+      "description": "Guinea-Bissau referendum tests democratic future",
+      "source_url": "https://www.dw.com/en/guinea-bissau-referendum-tests-democratic-future/a-78646043?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "‘Not democratically elected’: SC says Manan Kumar Mishra only ‘pro tem’ BCI chairman till fresh election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "‘Not democratically elected’: SC says Manan Kumar Mishra only ‘pro tem’ BCI chairman till fresh election",
+      "source_url": "https://timesofindia.indiatimes.com/india/not-democratically-elected-sc-says-manan-mishra-only-pro-tem-bci-chairman-till-fresh-election/articleshow/133709513.cms"
+    },
+    {
+      "title": "Reviled in the U.S., data centers win support in Brazil’s presidential election",
+      "country": "Brazil",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Reviled in the U.S., data centers win support in Brazil’s presidential election",
+      "source_url": "https://www.japantimes.co.jp/business/2026/09/02/tech/data-centers-us-brazil-election"
+    },
+    {
       "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
       "country": "",
       "election_type": "National",
@@ -73,72 +119,46 @@
       "date": "",
       "description": "What’s at stake for the AfD and Merz in Germany’s three September elections",
       "source_url": "https://www.atlanticcouncil.org/dispatches/whats-at-stake-for-the-afd-and-merz-in-germanys-three-september-elections"
-    },
-    {
-      "title": "Guinea-Bissau referendum nods to expansion of presidential powers",
-      "country": "",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Guinea-Bissau referendum nods to expansion of presidential powers",
-      "source_url": "https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss"
-    },
-    {
-      "title": "House passes short-term funding bill to avoid another shutdown before the election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "House passes short-term funding bill to avoid another shutdown before the election",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/house-gop-short-term-spending-bill-b3043009.html"
-    },
-    {
-      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Echoes of cold war as US accused of meddling in another Brazilian election",
-      "source_url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election"
     }
   ],
   "global_events": [
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "summary": "Germany says Russia behind Leipzig airport drone attack",
+      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
+      "summary": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "CBC World",
         "ABC News Intl",
         "Sky News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
         "Wash Post World",
         "The Independent",
-        "Al Jazeera"
+        "DW World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 16,
+      "coverage_count": 12,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack"
     },
     {
-      "title": "Germany blames Russia for drone attack on airport, announces countermeasures",
-      "summary": "Germany blames Russia for drone attack on airport, announces countermeasures",
+      "title": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
+      "summary": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
       "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "CBC World",
         "ABC News Intl",
-        "Sky News World",
-        "Fox News World",
         "NYT World",
-        "The Guardian World",
         "Wash Post World",
         "The Independent",
-        "Al Jazeera"
+        "DW World",
+        "The Hindu Intl"
       ],
-      "coverage_count": 16,
+      "coverage_count": 9,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.washingtonpost.com/world/2026/09/01/germany-blames-russia-drone-attack-airport-announces-countermeasures"
+      "source_url": "https://abcnews.com/International/wireStory/eus-kallas-calls-alleged-russian-drone-plot-state-136136530"
     },
     {
       "title": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
@@ -159,27 +179,28 @@
       "summary": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
       "outlets_covering": [
         "ABC News Intl",
-        "The Guardian World",
         "Wash Post World",
         "The Independent"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html"
     },
     {
-      "title": "Former prime minister Keir Starmer says he’ll leave Parliament",
-      "summary": "Former prime minister Keir Starmer says he’ll leave Parliament",
+      "title": "Nepal PM links deadly floods to climate change",
+      "summary": "Nepal PM links deadly floods to climate change",
       "outlets_covering": [
-        "NYT World",
-        "Wash Post World",
-        "Time"
+        "BBC World",
+        "NPR World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "Foreign Policy"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/09/01/former-prime-minister-keir-starmer-says-hell-leave-parliament"
+      "coverage_count": 6,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss"
     }
   ]
 }
