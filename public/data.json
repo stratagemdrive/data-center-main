@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-01T15:45:09.844725Z",
+  "last_updated": "2026-09-02T01:58:09.499771Z",
   "world_org_meetings": [
     {
-      "title": "Trump faces huge backlash for inviting Russian finance minister to G20 talks after years of exile",
+      "title": "U.S. urges hands-off approach to AI regulation at G20 tech meeting",
       "organization": "G20",
       "date": "",
       "location": "",
-      "description": "Trump faces huge backlash for inviting Russian finance minister to G20 talks after years of exile",
-      "source_url": "https://www.independent.co.uk/news/world/europe/trump-russia-finance-minister-exile-b3042610.html"
+      "description": "U.S. urges hands-off approach to AI regulation at G20 tech meeting",
+      "source_url": "https://www.japantimes.co.jp/business/2026/09/02/tech/us-ai-regulation-g20"
     },
     {
-      "title": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
+      "title": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
+      "organization": "APEC",
+      "date": "",
+      "location": "",
+      "description": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says"
+    },
+    {
+      "title": "G20 finance leaders close talks marked by U.S. welcoming Russia",
       "organization": "G20",
       "date": "",
       "location": "",
-      "description": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
-      "source_url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html"
+      "description": "G20 finance leaders close talks marked by U.S. welcoming Russia",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/02/world/politics/g20-finance-talks-us-russia"
     },
     {
-      "title": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
+      "title": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
       "organization": "G20",
       "date": "",
       "location": "",
-      "description": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit"
+      "description": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
+      "source_url": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
     },
     {
-      "title": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
-      "organization": "SCO",
+      "title": "Scott Bessent pitches Trump-inspired finance competition at G20 ministers meeting",
+      "organization": "G20",
       "date": "",
       "location": "",
-      "description": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit"
-    },
-    {
-      "title": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
-      "organization": "SCO",
-      "date": "",
-      "location": "",
-      "description": "Xi is in Bishkek for SCO summit. How does bloc fit China’s Eurasian strategy 25 years on?",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365768/xi-bishkek-sco-summit-how-does-bloc-fit-chinas-eurasian-strategy-25-years"
+      "description": "Scott Bessent pitches Trump-inspired finance competition at G20 ministers meeting",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/scott-bessent-g20-financial-literacy-competition-trump-b3043066.html"
     }
   ],
   "diplomatic_visits": [
@@ -59,30 +59,6 @@
   ],
   "elections": [
     {
-      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Echoes of cold war as US accused of meddling in another Brazilian election",
-      "source_url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election"
-    },
-    {
-      "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
-      "country": "France",
-      "election_type": "National",
-      "date": "",
-      "description": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
-      "source_url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571"
-    },
-    {
-      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "",
-      "description": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
-      "source_url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney"
-    },
-    {
       "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
       "country": "",
       "election_type": "National",
@@ -91,15 +67,93 @@
       "source_url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html"
     },
     {
-      "title": "Chinese script evolved like a living organism driven by natural selection: study",
+      "title": "What’s at stake for the AfD and Merz in Germany’s three September elections",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "What’s at stake for the AfD and Merz in Germany’s three September elections",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/whats-at-stake-for-the-afd-and-merz-in-germanys-three-september-elections"
+    },
+    {
+      "title": "Guinea-Bissau referendum nods to expansion of presidential powers",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Guinea-Bissau referendum nods to expansion of presidential powers",
+      "source_url": "https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss"
+    },
+    {
+      "title": "House passes short-term funding bill to avoid another shutdown before the election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Chinese script evolved like a living organism driven by natural selection: study",
-      "source_url": "https://www.scmp.com/news/china/science/article/3365849/chinese-script-evolved-living-organism-driven-natural-selection-study"
+      "description": "House passes short-term funding bill to avoid another shutdown before the election",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/house-gop-short-term-spending-bill-b3043009.html"
+    },
+    {
+      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Echoes of cold war as US accused of meddling in another Brazilian election",
+      "source_url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election"
     }
   ],
   "global_events": [
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "summary": "Germany says Russia behind Leipzig airport drone attack",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "Sky News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 16,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Germany blames Russia for drone attack on airport, announces countermeasures",
+      "summary": "Germany blames Russia for drone attack on airport, announces countermeasures",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
+        "Sky News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 16,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.washingtonpost.com/world/2026/09/01/germany-blames-russia-drone-attack-airport-announces-countermeasures"
+    },
+    {
+      "title": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
+      "summary": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NYT World",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Economy",
+      "source_url": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html"
+    },
     {
       "title": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
       "summary": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
@@ -107,10 +161,9 @@
         "ABC News Intl",
         "The Guardian World",
         "Wash Post World",
-        "The Independent",
-        "DW World"
+        "The Independent"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html"
@@ -127,53 +180,6 @@
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.washingtonpost.com/world/2026/09/01/former-prime-minister-keir-starmer-says-hell-leave-parliament"
-    },
-    {
-      "title": "Donald Trump vows to hit Iran ‘hard’ after first exchange of fire in weeks",
-      "summary": "Donald Trump vows to hit Iran ‘hard’ after first exchange of fire in weeks",
-      "outlets_covering": [
-        "CBS News World",
-        "The Guardian World",
-        "Time",
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/donald-trump-vows-to-hit-iran-hard-after-first-exchange-of-fire-in-weeks/article71413458.ece"
-    },
-    {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "summary": "US and Iran trade strikes for first time in weeks",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Time",
-        "The Independent"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Grand Canyon flash flood leaves one dead, around 15 missing",
-      "summary": "Grand Canyon flash flood leaves one dead, around 15 missing",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
-        "Time",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/flash-flood-in-grand-canyon-several-dead-and-many-people-missing/article71410663.ece"
     }
   ]
 }
