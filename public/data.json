@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T15:36:11.637156Z",
+  "last_updated": "2026-09-03T02:03:07.086688Z",
   "world_org_meetings": [
     {
       "title": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
@@ -26,60 +26,40 @@
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says"
     },
     {
-      "title": "Scott Bessent pitches Trump-inspired finance competition at G20 ministers meeting",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Scott Bessent pitches Trump-inspired finance competition at G20 ministers meeting",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/scott-bessent-g20-financial-literacy-competition-trump-b3043066.html"
-    },
-    {
       "title": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
       "organization": "UN",
       "date": "",
       "location": "",
       "description": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
       "source_url": "https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president"
-    }
-  ],
-  "diplomatic_visits": [
-    {
-      "title": "French president to open Bayeux Tapestry exhibition as he starts UK visit",
-      "participants": [
-        "French",
-        "Bayeux Tapestry"
-      ],
-      "date": "",
-      "location": "",
-      "description": "French president to open Bayeux Tapestry exhibition as he starts UK visit",
-      "source_url": "https://www.france24.com/en/video/20260902-french-president-to-open-bayeux-tapestry-exhibition-as-he-starts-uk-visit"
     },
     {
-      "title": "Chinese President Xi makes first visit to Egypt in a decade",
-      "participants": [
-        "Chinese President Xi",
-        "Egypt"
-      ],
+      "title": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
+      "organization": "G20",
       "date": "",
       "location": "",
-      "description": "Chinese President Xi makes first visit to Egypt in a decade",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss"
-    },
-    {
-      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "participants": [
-        "Summit",
-        "Russia India",
-        "Iran Shows Leverage Wars",
-        "Given Xi"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "source_url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
+      "description": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
+      "source_url": "https://www.nbcnews.com/news/us-news/russia-finance-minister-g20-bessent-meeting-ukraine-war-europe-rcna595474"
     }
   ],
+  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Morocco’s ruling allies turn on each other before election campaign begins",
+      "country": "Morocco",
+      "election_type": "National",
+      "date": "",
+      "description": "Morocco’s ruling allies turn on each other before election campaign begins",
+      "source_url": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss"
+    },
+    {
+      "title": "Green party members back Zack Polanski to stand in London byelection",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Green party members back Zack Polanski to stand in London byelection",
+      "source_url": "https://www.theguardian.com/politics/2026/sep/02/green-party-members-back-zack-polanski-to-stand-in-london-byelection"
+    },
     {
       "title": "Guinea-Bissau referendum tests democratic future",
       "country": "",
@@ -89,20 +69,12 @@
       "source_url": "https://www.dw.com/en/guinea-bissau-referendum-tests-democratic-future/a-78646043?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "‘Not democratically elected’: SC says Manan Kumar Mishra only ‘pro tem’ BCI chairman till fresh election",
+      "title": "Repression of political opposition surges in post-election Zambia",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "‘Not democratically elected’: SC says Manan Kumar Mishra only ‘pro tem’ BCI chairman till fresh election",
-      "source_url": "https://timesofindia.indiatimes.com/india/not-democratically-elected-sc-says-manan-mishra-only-pro-tem-bci-chairman-till-fresh-election/articleshow/133709513.cms"
-    },
-    {
-      "title": "Reviled in the U.S., data centers win support in Brazil’s presidential election",
-      "country": "Brazil",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "Reviled in the U.S., data centers win support in Brazil’s presidential election",
-      "source_url": "https://www.japantimes.co.jp/business/2026/09/02/tech/data-centers-us-brazil-election"
+      "description": "Repression of political opposition surges in post-election Zambia",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168267"
     },
     {
       "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
@@ -111,96 +83,76 @@
       "date": "",
       "description": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
       "source_url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html"
-    },
-    {
-      "title": "What’s at stake for the AfD and Merz in Germany’s three September elections",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "What’s at stake for the AfD and Merz in Germany’s three September elections",
-      "source_url": "https://www.atlanticcouncil.org/dispatches/whats-at-stake-for-the-afd-and-merz-in-germanys-three-september-elections"
     }
   ],
   "global_events": [
-    {
-      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
-      "summary": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "Sky News World",
-        "Fox News World",
-        "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 12,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack"
-    },
     {
       "title": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
       "summary": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
       "outlets_covering": [
         "NPR World",
-        "CBC World",
         "ABC News Intl",
         "NYT World",
         "Wash Post World",
-        "The Independent",
         "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 9,
+      "coverage_count": 6,
       "region": "Europe / Russia",
       "category": "Conflict",
       "source_url": "https://abcnews.com/International/wireStory/eus-kallas-calls-alleged-russian-drone-plot-state-136136530"
     },
     {
-      "title": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
-      "summary": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
+      "title": "Republican Senator Calls On Trump to Replace Defense Secretary Pete Hegseth",
+      "summary": "Republican Senator Calls On Trump to Replace Defense Secretary Pete Hegseth",
       "outlets_covering": [
-        "ABC News Intl",
-        "NYT World",
+        "Time",
         "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://time.com/article/2026/09/02/trump-hegseth-tillis-driscoll-resignation-pentagon"
+    },
+    {
+      "title": "Ebola death toll tops 3,000 in Congo outbreak",
+      "summary": "Ebola death toll tops 3,000 in Congo outbreak",
+      "outlets_covering": [
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Africa",
+      "category": "Health",
+      "source_url": "https://thehill.com/policy/healthcare/6066460-ebola-death-toll-tops-3000-congo"
+    },
+    {
+      "title": "Nepal flash floods aftermath updates: Death toll near 1,250 as more than 4,000 still missing",
+      "summary": "Nepal flash floods aftermath updates: Death toll near 1,250 as more than 4,000 still missing",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "The Hindu Intl",
+        "UN News"
+      ],
+      "coverage_count": 9,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-rescue-operations-relief-death-toll-missing-persons-news-september-2-2026/article71417912.ece"
+    },
+    {
+      "title": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
+      "summary": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
+      "outlets_covering": [
+        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 4,
-      "region": "Global",
-      "category": "Economy",
-      "source_url": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html"
-    },
-    {
-      "title": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
-      "summary": "Canada’s Liberals sweep special elections as voters back Carney’s crusade against Trump",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Wash Post World",
-        "The Independent"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/canada-special-elections-liberals-mark-carney-b3042843.html"
-    },
-    {
-      "title": "Nepal PM links deadly floods to climate change",
-      "summary": "Nepal PM links deadly floods to climate change",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "Foreign Policy"
-      ],
-      "coverage_count": 6,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss"
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine"
     }
   ]
 }
