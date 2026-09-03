@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-03T02:03:07.086688Z",
+  "last_updated": "2026-09-03T15:27:55.777451Z",
   "world_org_meetings": [
+    {
+      "title": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+      "organization": "SCO",
+      "date": "",
+      "location": "",
+      "description": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+      "source_url": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss"
+    },
     {
       "title": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
       "organization": "SCO",
@@ -32,127 +40,113 @@
       "location": "",
       "description": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
       "source_url": "https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president"
-    },
-    {
-      "title": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
-      "source_url": "https://www.nbcnews.com/news/us-news/russia-finance-minister-g20-bessent-meeting-ukraine-war-europe-rcna595474"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Morocco’s ruling allies turn on each other before election campaign begins",
-      "country": "Morocco",
-      "election_type": "National",
-      "date": "",
-      "description": "Morocco’s ruling allies turn on each other before election campaign begins",
-      "source_url": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss"
-    },
-    {
-      "title": "Green party members back Zack Polanski to stand in London byelection",
+      "title": "Would Another War Help Netanyahu Win Reelection?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Green party members back Zack Polanski to stand in London byelection",
-      "source_url": "https://www.theguardian.com/politics/2026/sep/02/green-party-members-back-zack-polanski-to-stand-in-london-byelection"
+      "description": "Would Another War Help Netanyahu Win Reelection?",
+      "source_url": "https://foreignpolicy.com/2026/09/03/israel-war-netanyahu-turkey-gaza-west-bank-election"
     },
     {
-      "title": "Guinea-Bissau referendum tests democratic future",
-      "country": "",
-      "election_type": "Referendum",
-      "date": "",
-      "description": "Guinea-Bissau referendum tests democratic future",
-      "source_url": "https://www.dw.com/en/guinea-bissau-referendum-tests-democratic-future/a-78646043?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Repression of political opposition surges in post-election Zambia",
+      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Repression of political opposition surges in post-election Zambia",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168267"
+      "description": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+      "source_url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
     },
     {
-      "title": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
+      "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election",
-      "source_url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html"
+      "description": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
+      "source_url": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss"
+    },
+    {
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "country": "Israel",
+      "election_type": "National",
+      "date": "",
+      "description": "U.S.-Israel relations are on the rocks ahead of elections",
+      "source_url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections"
+    },
+    {
+      "title": "What separates heckling from unlawful interference during election campaigns?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "What separates heckling from unlawful interference during election campaigns?",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/03/japan/politics/public-protest-campaign"
     }
   ],
   "global_events": [
     {
-      "title": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
-      "summary": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
+      "title": "Russia to close German cultural centers after airport drone plot accusation",
+      "summary": "Russia to close German cultural centers after airport drone plot accusation",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/russia-close-german-cultural-centers-after-berlin-blames-136164210"
+    },
+    {
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "summary": "Xi visits Egypt as China seeks deeper influence across the Mideast",
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
-        "NYT World",
-        "Wash Post World",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://abcnews.com/International/wireStory/eus-kallas-calls-alleged-russian-drone-plot-state-136136530"
-    },
-    {
-      "title": "Republican Senator Calls On Trump to Replace Defense Secretary Pete Hegseth",
-      "summary": "Republican Senator Calls On Trump to Replace Defense Secretary Pete Hegseth",
-      "outlets_covering": [
-        "Time",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://time.com/article/2026/09/02/trump-hegseth-tillis-driscoll-resignation-pentagon"
-    },
-    {
-      "title": "Ebola death toll tops 3,000 in Congo outbreak",
-      "summary": "Ebola death toll tops 3,000 in Congo outbreak",
-      "outlets_covering": [
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Health",
-      "source_url": "https://thehill.com/policy/healthcare/6066460-ebola-death-toll-tops-3000-congo"
-    },
-    {
-      "title": "Nepal flash floods aftermath updates: Death toll near 1,250 as more than 4,000 still missing",
-      "summary": "Nepal flash floods aftermath updates: Death toll near 1,250 as more than 4,000 still missing",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "The Hindu Intl",
-        "UN News"
-      ],
-      "coverage_count": 9,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-rescue-operations-relief-death-toll-missing-persons-news-september-2-2026/article71417912.ece"
-    },
-    {
-      "title": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
-      "summary": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
-      "outlets_covering": [
-        "France24",
         "The Hindu Intl"
       ],
       "coverage_count": 4,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt"
+    },
+    {
+      "title": "India ready to extend help ‘in any manner’ to end Russia-Ukraine war: Jaishankar in Kyiv",
+      "summary": "India ready to extend help ‘in any manner’ to end Russia-Ukraine war: Jaishankar in Kyiv",
+      "outlets_covering": [
+        "Times of India",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 2,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine"
+      "source_url": "https://www.thehindu.com/news/national/jaishankar-visit-india-on-ukraine-russia-war/article71423638.ece"
+    },
+    {
+      "title": "Ceuta crisis: ‘No evidence Morocco behind border surge’",
+      "summary": "Ceuta crisis: ‘No evidence Morocco behind border surge’",
+      "outlets_covering": [
+        "ABC News Intl",
+        "France24"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260903-ceuta-crisis-no-evidence-morocco-behind-border-surge-1"
+    },
+    {
+      "title": "Putin cites chance of peace deal but says Ukrainian aviation warning makes it harder",
+      "summary": "Putin cites chance of peace deal but says Ukrainian aviation warning makes it harder",
+      "outlets_covering": [
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/putin-cites-chance-of-peace-deal-but-says-ukrainian-aviation-warning-makes-it-harder/article71423393.ece"
     }
   ]
 }
