@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T01:59:05.011670Z",
+  "last_updated": "2026-09-04T15:25:41.984850Z",
   "world_org_meetings": [
     {
       "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
@@ -45,12 +45,20 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Ladakh to have seven hill councils now, elections for new LAHDCs soon",
+      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
+      "source_url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt?traffic_source=rss"
+    },
+    {
+      "title": "Can a Country Really Hold an Election in the Middle of a Gang War?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Ladakh to have seven hill councils now, elections for new LAHDCs soon",
-      "source_url": "https://timesofindia.indiatimes.com/india/ladakh-to-have-seven-hill-councils-now-elections-for-new-lahdcs-soon/articleshow/133743936.cms"
+      "description": "Can a Country Really Hold an Election in the Middle of a Gang War?",
+      "source_url": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html"
     },
     {
       "title": "Democrats press DHS on election security funding",
@@ -75,29 +83,48 @@
       "date": "",
       "description": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
       "source_url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
-    },
-    {
-      "title": "U.S.-Israel relations are on the rocks ahead of elections",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "U.S.-Israel relations are on the rocks ahead of elections",
-      "source_url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections"
     }
   ],
   "global_events": [
     {
-      "title": "Russia to close German cultural centers after airport drone plot accusation",
-      "summary": "Russia to close German cultural centers after airport drone plot accusation",
+      "title": "2 Nepal workers rescued from tunnel 9 days after floods; more voices heard",
+      "summary": "2 Nepal workers rescued from tunnel 9 days after floods; more voices heard",
       "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/russia-close-german-cultural-centers-after-berlin-blames-136164210"
+      "coverage_count": 10,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/2-trapped-workers-rescued-from-nepal-hydropower-tunnel-9-days-after-floods"
+    },
+    {
+      "title": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
+      "summary": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 10,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues"
     },
     {
       "title": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party",
@@ -106,7 +133,7 @@
         "BBC World",
         "CBS News World",
         "The Independent",
-        "Japan Times",
+        "Al Jazeera",
         "The Hill"
       ],
       "coverage_count": 6,
@@ -115,42 +142,30 @@
       "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-dismisses-diplomacy-tehran-says-wedding-hit-in-strike"
     },
     {
-      "title": "Pacific Leaders Criticize China’s Recent Ballistic Missile Test",
-      "summary": "Pacific Leaders Criticize China’s Recent Ballistic Missile Test",
-      "outlets_covering": [
-        "ABC News Intl",
-        "Bloomberg",
-        "Japan Times"
-      ],
-      "coverage_count": 3,
-      "region": "China",
-      "category": "Conflict",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/pacific-leaders-criticize-china-s-recent-ballistic-missile-test"
-    },
-    {
-      "title": "Russian drones struck Coca-Cola plant outside Kyiv, Zelenskyy says",
-      "summary": "Russian drones struck Coca-Cola plant outside Kyiv, Zelenskyy says",
+      "title": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
+      "summary": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
       "outlets_covering": [
         "CBC World",
-        "The Independent"
+        "NYT World",
+        "The Guardian World",
+        "France24"
       ],
-      "coverage_count": 2,
+      "coverage_count": 6,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/coca-cola-ukraine-plant-attacked-drones-9.7331619?cmp=rss"
+      "source_url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv"
     },
     {
-      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
-      "summary": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+      "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
+      "summary": "Israel releases five detainees to Lebanon after US-mediated negotiations",
       "outlets_covering": [
-        "NYT World",
-        "The Independent",
-        "DW World"
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
+      "coverage_count": 2,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html"
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss"
     }
   ]
 }
