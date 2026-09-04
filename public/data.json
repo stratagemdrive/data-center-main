@@ -1,13 +1,37 @@
 {
-  "last_updated": "2026-09-03T15:27:55.777451Z",
+  "last_updated": "2026-09-04T01:59:05.011670Z",
   "world_org_meetings": [
     {
-      "title": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
-      "organization": "SCO",
+      "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
+      "organization": "G20",
       "date": "",
       "location": "",
-      "description": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
-      "source_url": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss"
+      "description": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-washington-post-on-bessent-bringing-iran-issue-to-g20-summit"
+    },
+    {
+      "title": "Lipsky interviewed on NPR Morning Edition on the G20 finance ministers meeting in North Carolina",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "Lipsky interviewed on NPR Morning Edition on the G20 finance ministers meeting in North Carolina",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-interviewed-on-npr-morning-edition-on-the-g20-finance-ministers-meeting-in-north-carolina"
+    },
+    {
+      "title": "Chhangani interviewed on BBC on the key issues of the G20 Finance meeting in Asheville",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "Chhangani interviewed on BBC on the key issues of the G20 Finance meeting in Asheville",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-on-the-key-issues-of-the-g20-finance-meeting-in-asheville"
+    },
+    {
+      "title": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168276"
     },
     {
       "title": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
@@ -16,34 +40,26 @@
       "location": "",
       "description": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366139/bishkek-us-envoys-shadow-sco-summit-challenge-beijing-and-moscows-turf"
-    },
-    {
-      "title": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
-      "source_url": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html"
-    },
-    {
-      "title": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
-      "organization": "APEC",
-      "date": "",
-      "location": "",
-      "description": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says"
-    },
-    {
-      "title": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
-      "source_url": "https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Ladakh to have seven hill councils now, elections for new LAHDCs soon",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Ladakh to have seven hill councils now, elections for new LAHDCs soon",
+      "source_url": "https://timesofindia.indiatimes.com/india/ladakh-to-have-seven-hill-councils-now-elections-for-new-lahdcs-soon/articleshow/133743936.cms"
+    },
+    {
+      "title": "Democrats press DHS on election security funding",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Democrats press DHS on election security funding",
+      "source_url": "https://thehill.com/homenews/senate/6069220-cisa-funding-delay-ei-isac"
+    },
     {
       "title": "Would Another War Help Netanyahu Win Reelection?",
       "country": "",
@@ -61,28 +77,12 @@
       "source_url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
     },
     {
-      "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
-      "source_url": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss"
-    },
-    {
       "title": "U.S.-Israel relations are on the rocks ahead of elections",
       "country": "Israel",
       "election_type": "National",
       "date": "",
       "description": "U.S.-Israel relations are on the rocks ahead of elections",
       "source_url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections"
-    },
-    {
-      "title": "What separates heckling from unlawful interference during election campaigns?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "What separates heckling from unlawful interference during election campaigns?",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/03/japan/politics/public-protest-campaign"
     }
   ],
   "global_events": [
@@ -100,53 +100,57 @@
       "source_url": "https://abcnews.com/International/wireStory/russia-close-german-cultural-centers-after-berlin-blames-136164210"
     },
     {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "summary": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "title": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party",
+      "summary": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party",
       "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "The Hindu Intl"
+        "BBC World",
+        "CBS News World",
+        "The Independent",
+        "Japan Times",
+        "The Hill"
       ],
-      "coverage_count": 4,
-      "region": "China",
+      "coverage_count": 6,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt"
+      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-dismisses-diplomacy-tehran-says-wedding-hit-in-strike"
     },
     {
-      "title": "India ready to extend help ‘in any manner’ to end Russia-Ukraine war: Jaishankar in Kyiv",
-      "summary": "India ready to extend help ‘in any manner’ to end Russia-Ukraine war: Jaishankar in Kyiv",
+      "title": "Pacific Leaders Criticize China’s Recent Ballistic Missile Test",
+      "summary": "Pacific Leaders Criticize China’s Recent Ballistic Missile Test",
       "outlets_covering": [
-        "Times of India",
-        "The Hindu Intl"
+        "ABC News Intl",
+        "Bloomberg",
+        "Japan Times"
+      ],
+      "coverage_count": 3,
+      "region": "China",
+      "category": "Conflict",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/pacific-leaders-criticize-china-s-recent-ballistic-missile-test"
+    },
+    {
+      "title": "Russian drones struck Coca-Cola plant outside Kyiv, Zelenskyy says",
+      "summary": "Russian drones struck Coca-Cola plant outside Kyiv, Zelenskyy says",
+      "outlets_covering": [
+        "CBC World",
+        "The Independent"
       ],
       "coverage_count": 2,
       "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/national/jaishankar-visit-india-on-ukraine-russia-war/article71423638.ece"
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/coca-cola-ukraine-plant-attacked-drones-9.7331619?cmp=rss"
     },
     {
-      "title": "Ceuta crisis: ‘No evidence Morocco behind border surge’",
-      "summary": "Ceuta crisis: ‘No evidence Morocco behind border surge’",
+      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+      "summary": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
       "outlets_covering": [
-        "ABC News Intl",
-        "France24"
+        "NYT World",
+        "The Independent",
+        "DW World"
       ],
       "coverage_count": 3,
-      "region": "Global",
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260903-ceuta-crisis-no-evidence-morocco-behind-border-surge-1"
-    },
-    {
-      "title": "Putin cites chance of peace deal but says Ukrainian aviation warning makes it harder",
-      "summary": "Putin cites chance of peace deal but says Ukrainian aviation warning makes it harder",
-      "outlets_covering": [
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 2,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/putin-cites-chance-of-peace-deal-but-says-ukrainian-aviation-warning-makes-it-harder/article71423393.ece"
+      "source_url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html"
     }
   ]
 }
