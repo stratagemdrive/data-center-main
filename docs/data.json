@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-04T15:25:41.984850Z",
+  "last_updated": "2026-09-05T01:59:30.335599Z",
   "world_org_meetings": [
+    {
+      "title": "UN General Assembly endorses a new world map that shows more accurately Africa's size",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "UN General Assembly endorses a new world map that shows more accurately Africa's size",
+      "source_url": "https://abcnews.com/International/wireStory/general-assembly-endorses-new-world-map-shows-accurately-136217039"
+    },
     {
       "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
       "organization": "G20",
@@ -32,25 +40,17 @@
       "location": "",
       "description": "General Assembly backs creation of new UN learning institute under UN80 reforms",
       "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168276"
-    },
-    {
-      "title": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
-      "organization": "SCO",
-      "date": "",
-      "location": "",
-      "description": "In Bishkek, US envoys shadow the SCO summit in challenge on Beijing and Moscow’s turf",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366139/bishkek-us-envoys-shadow-sco-summit-challenge-beijing-and-moscows-turf"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
-      "country": "Germany",
+      "title": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
-      "source_url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt?traffic_source=rss"
+      "description": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation"
     },
     {
       "title": "Can a Country Really Hold an Election in the Middle of a Gang War?",
@@ -61,12 +61,20 @@
       "source_url": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html"
     },
     {
-      "title": "Democrats press DHS on election security funding",
+      "title": "NC elections officials alter mail ballot rules just before they’re mailed out",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Democrats press DHS on election security funding",
-      "source_url": "https://thehill.com/homenews/senate/6069220-cisa-funding-delay-ei-isac"
+      "description": "NC elections officials alter mail ballot rules just before they’re mailed out",
+      "source_url": "https://thehill.com/homenews/state-watch/6071775-nc-approves-new-mail-in-ballot-guidelines"
+    },
+    {
+      "title": "Germany's far-right AfD party is poised for power in a state election",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "Germany's far-right AfD party is poised for power in a state election",
+      "source_url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election"
     },
     {
       "title": "Would Another War Help Netanyahu Win Reelection?",
@@ -75,25 +83,36 @@
       "date": "",
       "description": "Would Another War Help Netanyahu Win Reelection?",
       "source_url": "https://foreignpolicy.com/2026/09/03/israel-war-netanyahu-turkey-gaza-west-bank-election"
-    },
-    {
-      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-      "source_url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
     }
   ],
   "global_events": [
     {
-      "title": "2 Nepal workers rescued from tunnel 9 days after floods; more voices heard",
-      "summary": "2 Nepal workers rescued from tunnel 9 days after floods; more voices heard",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "summary": "UN votes to adopt new world map to reflect Africa's true size",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "ABC News Intl",
+        "Sky News World",
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Workers Rescued From Tunnel in Nepal 9 Days After Flood",
+      "summary": "Workers Rescued From Tunnel in Nepal 9 Days After Flood",
       "outlets_covering": [
         "NPR World",
         "CBC World",
+        "ABC News Intl",
         "CBS News World",
-        "NBC News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
@@ -101,10 +120,28 @@
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "region": "South Asia",
       "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/2-trapped-workers-rescued-from-nepal-hydropower-tunnel-9-days-after-floods"
+      "source_url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-floods-rescue-tunnel-worker.html"
+    },
+    {
+      "title": "Trump calls Iran conflict 'small potatoes', says he agrees with Vance that it's not 'war'",
+      "summary": "Trump calls Iran conflict 'small potatoes', says he agrees with Vance that it's not 'war'",
+      "outlets_covering": [
+        "CBS News World",
+        "The Guardian World",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/trump-calls-iran-conflict-small-potatoes-says-he-agrees-with-vance-that-its-not-war/article71429847.ece"
     },
     {
       "title": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
@@ -112,60 +149,35 @@
       "outlets_covering": [
         "NPR World",
         "CBC World",
+        "ABC News Intl",
         "CBS News World",
         "NBC News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
-        "France24",
-        "The Hindu Intl"
+        "France24"
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "region": "South Asia",
       "category": "Climate",
       "source_url": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues"
     },
     {
-      "title": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party",
-      "summary": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party",
+      "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – live",
+      "summary": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – live",
       "outlets_covering": [
-        "BBC World",
         "CBS News World",
+        "The Guardian World",
         "The Independent",
         "Al Jazeera",
-        "The Hill"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-dismisses-diplomacy-tehran-says-wedding-hit-in-strike"
-    },
-    {
-      "title": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
-      "summary": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
-      "outlets_covering": [
-        "CBC World",
-        "NYT World",
-        "The Guardian World",
-        "France24"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv"
-    },
-    {
-      "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
-      "summary": "Israel releases five detainees to Lebanon after US-mediated negotiations",
-      "outlets_covering": [
-        "Al Jazeera",
+        "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 2,
+      "coverage_count": 7,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss"
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates"
     }
   ]
 }
