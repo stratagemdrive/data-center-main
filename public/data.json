@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T14:13:16.264953Z",
+  "last_updated": "2026-09-06T01:54:58.666062Z",
   "world_org_meetings": [
     {
       "title": "UN General Assembly endorses a new world map that shows more accurately Africa's size",
@@ -45,36 +45,36 @@
   "diplomatic_visits": [],
   "elections": [
     {
+      "title": "Germany’s far-right AfD eyes historic first in state election",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "Germany’s far-right AfD eyes historic first in state election",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss"
+    },
+    {
+      "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+      "source_url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them"
+    },
+    {
+      "title": "Presidential campaigning kicks off in France ahead of 2027 elections",
+      "country": "France",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "Presidential campaigning kicks off in France ahead of 2027 elections",
+      "source_url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260905-presidential-campaigning-kicks-off-in-france-ahead-of-2027-elections"
+    },
+    {
       "title": "Serbia's ruling populists propose President Vucic switch to prime minister after election",
       "country": "Serbia",
       "election_type": "National",
       "date": "",
       "description": "Serbia's ruling populists propose President Vucic switch to prime minister after election",
       "source_url": "https://abcnews.com/International/wireStory/serbias-ruling-populists-propose-president-vucic-switch-prime-136223674"
-    },
-    {
-      "title": "Germany: AfD eyes historic state election win",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Germany: AfD eyes historic state election win",
-      "source_url": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win"
-    },
-    {
-      "title": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
-      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation"
-    },
-    {
-      "title": "Can a Country Really Hold an Election in the Middle of a Gang War?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Can a Country Really Hold an Election in the Middle of a Gang War?",
-      "source_url": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html"
     },
     {
       "title": "NC elections officials alter mail ballot rules just before they’re mailed out",
@@ -86,6 +86,26 @@
     }
   ],
   "global_events": [
+    {
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "summary": "US envoys meet Putin in Moscow for Ukraine talks",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "Fox News World",
+        "NYT World",
+        "Wash Post World",
+        "Time",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 15,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "The U.N. backed a map that shows Africa true to size. The U.S. was sole objector.",
       "summary": "The U.N. backed a map that shows Africa true to size. The U.S. was sole objector.",
@@ -106,6 +126,46 @@
       "source_url": "https://www.washingtonpost.com/world/2026/09/05/un-endorses-map-change-represent-africa-more-accurately"
     },
     {
+      "title": "U.S. envoys meet Putin in Moscow, pressing Russia-Ukraine peace talks",
+      "summary": "U.S. envoys meet Putin in Moscow, pressing Russia-Ukraine peace talks",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "Fox News World",
+        "Wash Post World",
+        "Time",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 17,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin"
+    },
+    {
+      "title": "U.S. strikes Iranian oil tankers in retaliation for Iran targeting warships",
+      "summary": "U.S. strikes Iranian oil tankers in retaliation for Iran targeting warships",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
+        "NYT World",
+        "Bloomberg",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 12,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day"
+    },
+    {
       "title": "2 more rescued from debris in Nepal 10 days after devastating floods",
       "summary": "2 more rescued from debris in Nepal 10 days after devastating floods",
       "outlets_covering": [
@@ -115,60 +175,13 @@
         "NYT World",
         "Wash Post World",
         "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 11,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/nepal-floods-rescue-tunnel-man-woman"
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "summary": "At least two dead in blast at Bolivia military barracks",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Sky News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Workers Rescued From Tunnel in Nepal 9 Days After Flood",
-      "summary": "Workers Rescued From Tunnel in Nepal 9 Days After Flood",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 11,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-floods-rescue-tunnel-worker.html"
-    },
-    {
-      "title": "Trump envoys land in Moscow for Russia-Ukraine peace push",
-      "summary": "Trump envoys land in Moscow for Russia-Ukraine peace push",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "The Independent",
-        "France24",
         "Japan Times",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/trump-says-witkoff-kushner-heading-abroad-to-discuss-ukraine-peace/article71430897.ece"
+      "coverage_count": 12,
+      "region": "South Asia",
+      "category": "Climate",
+      "source_url": "https://www.cbsnews.com/news/nepal-floods-rescue-tunnel-man-woman"
     }
   ]
 }
