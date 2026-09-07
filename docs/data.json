@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T14:36:38.173458Z",
+  "last_updated": "2026-09-07T01:52:12.306218Z",
   "world_org_meetings": [
     {
       "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
@@ -45,128 +45,134 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Alternative for Germany looks for big boost in regional elections in Germany",
+      "title": "Germany’s far-right party AfD surges to historic victory in state election",
       "country": "Germany",
       "election_type": "National",
       "date": "",
-      "description": "Alternative for Germany looks for big boost in regional elections in Germany",
+      "description": "Germany’s far-right party AfD surges to historic victory in state election",
+      "source_url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election"
+    },
+    {
+      "title": "Exit polls put German far-right party ahead in regional election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Exit polls put German far-right party ahead in regional election",
+      "source_url": "https://www.cbsnews.com/news/afd-germany-saxony-anhalt-election-europe-far-right"
+    },
+    {
+      "title": "Far-right AfD wins historic victory in German state election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Far-right AfD wins historic victory in German state election",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/07/world/politics/far-right-afd-german-election"
+    },
+    {
+      "title": "Infantino to stand for re-election as FIFA president despite failed World Cup sell-off plan",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Infantino to stand for re-election as FIFA president despite failed World Cup sell-off plan",
+      "source_url": "https://www.cbc.ca/sports/soccer/fifa-infantino-to-stand-for-reelection-sept-6-9.7334302?cmp=rss"
+    },
+    {
+      "title": "Nationalist AfD party scores first-place in key regional election in Germany",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "Nationalist AfD party scores first-place in key regional election in Germany",
       "source_url": "https://www.washingtonpost.com/world/2026/09/06/alternative-germany-looks-big-boost-regional-elections-germany"
-    },
-    {
-      "title": "FIFA confirms Infantino to stand for re-election as president",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "FIFA confirms Infantino to stand for re-election as president",
-      "source_url": "https://news.sky.com/story/fifa-confirms-gianni-infantino-to-stand-for-re-election-as-president-13582281"
-    },
-    {
-      "title": "Far-right AfD predicted to win big in crucial German state election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Far-right AfD predicted to win big in crucial German state election",
-      "source_url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany"
-    },
-    {
-      "title": "Anti-migrant AfD seeks to break Germany’s political ‘firewall’ in historic state election",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Anti-migrant AfD seeks to break Germany’s political ‘firewall’ in historic state election",
-      "source_url": "https://www.foxnews.com/world/anti-migrant-afd-seeks-break-germanys-political-firewall-historic-state-election"
-    },
-    {
-      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
-      "source_url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
     }
   ],
   "global_events": [
     {
-      "title": "The U.N. backed a map that shows Africa true to size. The U.S. was sole objector.",
-      "summary": "The U.N. backed a map that shows Africa true to size. The U.S. was sole objector.",
+      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+      "summary": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
+        "CBC World",
         "CBS News World",
-        "Sky News World",
-        "The Guardian World",
-        "Wash Post World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/09/05/un-endorses-map-change-represent-africa-more-accurately"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Putin ally warns West of ‘start of real war’ as Trump envoys meet Zelensky",
-      "summary": "Ukraine-Russia war latest: Putin ally warns West of ‘start of real war’ as Trump envoys meet Zelensky",
-      "outlets_covering": [
-        "BBC World",
         "Fox News World",
-        "Wash Post World",
-        "Time",
-        "The Independent",
-        "The Hill",
+        "NYT World",
+        "DW World",
         "Axios"
       ],
       "coverage_count": 7,
       "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-talks-witkoff-kushner-b3045408.html"
+      "source_url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
     },
     {
-      "title": "Israeli strikes kill 4 in southern Lebanon",
-      "summary": "Israeli strikes kill 4 in southern Lebanon",
+      "title": "UN votes to approve new world map which will show true size of Africa",
+      "summary": "UN votes to approve new world map which will show true size of Africa",
       "outlets_covering": [
-        "CBC World",
-        "Sky News World",
-        "NYT World",
-        "Al Jazeera",
-        "France24"
+        "BBC World",
+        "CBS News World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Independent",
+        "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 7,
+      "region": "Africa",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/israeli-strikes-southern-lebanon-9.7334203?cmp=rss"
+      "source_url": "https://www.independent.co.uk/news/world/new-world-map-un-africa-mercator-b3045558.html"
     },
     {
-      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-      "summary": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+      "title": "Germany’s far-right party AfD surges to historic victory in state election",
+      "summary": "Germany’s far-right party AfD surges to historic victory in state election",
       "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "ABC News Intl",
         "CBS News World",
         "Fox News World",
         "NYT World",
         "The Guardian World",
-        "Axios"
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
+      "coverage_count": 16,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election"
     },
     {
-      "title": "2 more rescued from debris in Nepal 10 days after devastating floods",
-      "summary": "2 more rescued from debris in Nepal 10 days after devastating floods",
+      "title": "Exit polls put German far-right party ahead in regional election",
+      "summary": "Exit polls put German far-right party ahead in regional election",
       "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "CBS News World",
+        "Fox News World",
+        "The Independent",
+        "Japan Times"
+      ],
+      "coverage_count": 6,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/afd-germany-saxony-anhalt-election-europe-far-right"
+    },
+    {
+      "title": "Far-right AfD wins historic victory in German state election",
+      "summary": "Far-right AfD wins historic victory in German state election",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
         "CBC World",
         "ABC News Intl",
         "CBS News World",
+        "Fox News World",
         "NYT World",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
+        "The Guardian World",
+        "The Independent",
+        "France24"
       ],
-      "coverage_count": 8,
-      "region": "South Asia",
-      "category": "Climate",
-      "source_url": "https://www.cbsnews.com/news/nepal-floods-rescue-tunnel-man-woman"
+      "coverage_count": 14,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/07/world/politics/far-right-afd-german-election"
     }
   ]
 }
