@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T01:52:12.306218Z",
+  "last_updated": "2026-09-07T16:50:45.255340Z",
   "world_org_meetings": [
     {
       "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
@@ -34,39 +34,31 @@
       "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168276"
     },
     {
-      "title": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
-      "organization": "UN",
+      "title": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
+      "organization": "G20",
       "date": "",
       "location": "",
-      "description": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
-      "source_url": "https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president"
+      "description": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
+      "source_url": "https://www.nbcnews.com/news/us-news/russia-finance-minister-g20-bessent-meeting-ukraine-war-europe-rcna595474"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Germany’s far-right party AfD surges to historic victory in state election",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Germany’s far-right party AfD surges to historic victory in state election",
-      "source_url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election"
-    },
-    {
-      "title": "Exit polls put German far-right party ahead in regional election",
+      "title": "German chancellor faces pressure after far-right party wins in state election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Exit polls put German far-right party ahead in regional election",
-      "source_url": "https://www.cbsnews.com/news/afd-germany-saxony-anhalt-election-europe-far-right"
+      "description": "German chancellor faces pressure after far-right party wins in state election",
+      "source_url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211"
     },
     {
-      "title": "Far-right AfD wins historic victory in German state election",
+      "title": "Far-right AfD wins crushing victory in German state election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Far-right AfD wins historic victory in German state election",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/07/world/politics/far-right-afd-german-election"
+      "description": "Far-right AfD wins crushing victory in German state election",
+      "source_url": "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election"
     },
     {
       "title": "Infantino to stand for re-election as FIFA president despite failed World Cup sell-off plan",
@@ -77,86 +69,26 @@
       "source_url": "https://www.cbc.ca/sports/soccer/fifa-infantino-to-stand-for-reelection-sept-6-9.7334302?cmp=rss"
     },
     {
-      "title": "Nationalist AfD party scores first-place in key regional election in Germany",
-      "country": "Germany",
+      "title": "German far-right party candidate thanks Musk after state election win",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Nationalist AfD party scores first-place in key regional election in Germany",
-      "source_url": "https://www.washingtonpost.com/world/2026/09/06/alternative-germany-looks-big-boost-regional-elections-germany"
+      "description": "German far-right party candidate thanks Musk after state election win",
+      "source_url": "https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk"
+    },
+    {
+      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
+      "source_url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates"
     }
   ],
   "global_events": [
     {
-      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-      "summary": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-      "outlets_covering": [
-        "CBC World",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "DW World",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-    },
-    {
-      "title": "UN votes to approve new world map which will show true size of Africa",
-      "summary": "UN votes to approve new world map which will show true size of Africa",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/new-world-map-un-africa-mercator-b3045558.html"
-    },
-    {
-      "title": "Germany’s far-right party AfD surges to historic victory in state election",
-      "summary": "Germany’s far-right party AfD surges to historic victory in state election",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera"
-      ],
-      "coverage_count": 16,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election"
-    },
-    {
-      "title": "Exit polls put German far-right party ahead in regional election",
-      "summary": "Exit polls put German far-right party ahead in regional election",
-      "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "The Independent",
-        "Japan Times"
-      ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/afd-germany-saxony-anhalt-election-europe-far-right"
-    },
-    {
-      "title": "Far-right AfD wins historic victory in German state election",
-      "summary": "Far-right AfD wins historic victory in German state election",
+      "title": "German chancellor faces pressure after far-right party wins in state election",
+      "summary": "German chancellor faces pressure after far-right party wins in state election",
       "outlets_covering": [
         "BBC World",
         "NPR World",
@@ -165,14 +97,76 @@
         "CBS News World",
         "Fox News World",
         "NYT World",
-        "The Guardian World",
+        "Time",
         "The Independent",
         "France24"
       ],
-      "coverage_count": 14,
+      "coverage_count": 15,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/07/world/politics/far-right-afd-german-election"
+      "source_url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211"
+    },
+    {
+      "title": "Israeli strikes on southern Lebanon kill 11",
+      "summary": "Israeli strikes on southern Lebanon kill 11",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "Sky News World",
+        "NYT World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 11,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/video/20260907-israeli-strikes-on-southern-lebanon-kill-11"
+    },
+    {
+      "title": "Russia and North Korea open the first road link across shared border",
+      "summary": "Russia and North Korea open the first road link across shared border",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/russia-north-korea-open-road-link-shared-border-136254045"
+    },
+    {
+      "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+      "summary": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+      "outlets_covering": [
+        "NBC News World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss"
+    },
+    {
+      "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
+      "summary": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "Wash Post World",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 10,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss"
     }
   ]
 }
