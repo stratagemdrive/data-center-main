@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-08T02:03:10.766193Z",
+  "last_updated": "2026-09-08T15:38:52.017994Z",
   "world_org_meetings": [
+    {
+      "title": "No rooms, Rs 2.3 lakh a night: BRICS Summit sends Delhi hotel rates soaring",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "No rooms, Rs 2.3 lakh a night: BRICS Summit sends Delhi hotel rates soaring",
+      "source_url": "https://timesofindia.indiatimes.com/india/no-rooms-rs-2-3-lakh-a-night-brics-summit-sends-delhi-hotel-rates-soaring/articleshow/133928166.cms"
+    },
+    {
+      "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "BRICS summit may be the only place another Iran ceasefire can be built",
+      "source_url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss"
+    },
     {
       "title": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
       "organization": "UN",
@@ -24,39 +40,18 @@
       "location": "",
       "description": "Lipsky interviewed on NPR Morning Edition on the G20 finance ministers meeting in North Carolina",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-interviewed-on-npr-morning-edition-on-the-g20-finance-ministers-meeting-in-north-carolina"
-    },
-    {
-      "title": "Chhangani interviewed on BBC on the key issues of the G20 Finance meeting in Asheville",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Chhangani interviewed on BBC on the key issues of the G20 Finance meeting in Asheville",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-on-the-key-issues-of-the-g20-finance-meeting-in-asheville"
-    },
-    {
-      "title": "General Assembly backs creation of new UN learning institute under UN80 reforms",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "General Assembly backs creation of new UN learning institute under UN80 reforms",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168276"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "As Xi-Trump summit looms, Takaichi eyes meeting with U.S. president",
-      "participants": [
-        "Xi-Trump",
-        "Takaichi",
-        "U.S"
-      ],
-      "date": "",
-      "location": "",
-      "description": "As Xi-Trump summit looms, Takaichi eyes meeting with U.S. president",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/08/japan/politics/japan-takaichi-trump-meet-china"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "German far-right party candidate thanks Musk after state election win",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "German far-right party candidate thanks Musk after state election win",
+      "source_url": "https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk"
+    },
     {
       "title": "German chancellor faces pressure after far-right party wins in state election",
       "country": "",
@@ -74,108 +69,99 @@
       "source_url": "https://abcnews.com/International/wireStory/pope-returns-sanctuary-prayed-after-election-unveils-fresco-136257345"
     },
     {
-      "title": "Germany’s far-right party AfD surges to historic victory in state election",
+      "title": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
       "country": "Germany",
       "election_type": "National",
       "date": "",
-      "description": "Germany’s far-right party AfD surges to historic victory in state election",
-      "source_url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election"
+      "description": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
+      "source_url": "https://www.thehindu.com/news/international/far-right-alternative-for-germany-party-wins-big-in-regional-election-but-falls-short-of-majority/article71437378.ece"
     },
     {
-      "title": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
-      "source_url": "https://www.independent.co.uk/news/world/europe/germany-state-elections-2026-afd-saxony-anhalt-b3045489.html"
-    },
-    {
-      "title": "Kushner attributes the lack of progress on Gaza to upcoming Israeli elections",
+      "title": "How voters can overcome election sabotage: show up and vote early",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Kushner attributes the lack of progress on Gaza to upcoming Israeli elections",
-      "source_url": "https://www.cbsnews.com/news/jared-kushner-gaza-peace-deal-israel-elections"
+      "description": "How voters can overcome election sabotage: show up and vote early",
+      "source_url": "https://thehill.com/opinion/campaign/6073686-mass-voter-mobilization-election-threats"
     }
   ],
   "global_events": [
     {
-      "title": "German chancellor faces pressure after far-right party wins in state election",
-      "summary": "German chancellor faces pressure after far-right party wins in state election",
+      "title": "Russia and North Korea open the first road across their shared border",
+      "summary": "Russia and North Korea open the first road across their shared border",
       "outlets_covering": [
         "BBC World",
         "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "CBS News World",
-        "Fox News World",
-        "NYT World",
         "The Guardian World",
-        "Time",
-        "The Independent"
+        "Japan Times"
       ],
-      "coverage_count": 14,
-      "region": "Global",
+      "coverage_count": 4,
+      "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211"
+      "source_url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border"
     },
     {
-      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-      "summary": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+      "title": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements",
+      "summary": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements",
       "outlets_covering": [
+        "NPR World",
+        "NYT World",
         "The Guardian World",
+        "Wash Post World",
         "The Independent",
-        "Al Jazeera"
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 3,
+      "coverage_count": 11,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss"
+      "source_url": "https://www.washingtonpost.com/world/2026/09/08/uk-bar-imports-west-bank-growing-rift-with-israel"
+    },
+    {
+      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "summary": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "The Independent"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Serbia accused of glorifying convicted war criminal Ratko Mladic by allowing elaborate military funeral",
       "summary": "Serbia accused of glorifying convicted war criminal Ratko Mladic by allowing elaborate military funeral",
       "outlets_covering": [
+        "CBC World",
         "NBC News World",
         "The Independent",
         "Al Jazeera",
         "DW World",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 7,
       "region": "Global",
       "category": "Conflict",
       "source_url": "https://www.independent.co.uk/news/world/europe/serbia-ratko-mladic-funeral-glorifying-b3045878.html"
     },
     {
-      "title": "Witkoff touts ‘substantive progress’ after peace talks with Ukraine, Russia",
-      "summary": "Witkoff touts ‘substantive progress’ after peace talks with Ukraine, Russia",
+      "title": "German far-right party candidate thanks Musk after state election win",
+      "summary": "German far-right party candidate thanks Musk after state election win",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
+        "ABC News Intl",
+        "Fox News World",
         "NYT World",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/6075212-witkoff-progress-russia-ukraine-talks"
-    },
-    {
-      "title": "Israeli strikes on southern Lebanon kill 11",
-      "summary": "Israeli strikes on southern Lebanon kill 11",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Sky News World",
-        "France24",
-        "The Hindu Intl"
+        "Time",
+        "The Hill"
       ],
       "coverage_count": 6,
-      "region": "Middle East",
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/video/20260907-israeli-strikes-on-southern-lebanon-kill-11"
+      "source_url": "https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk"
     }
   ]
 }
