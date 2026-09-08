@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-07T16:50:45.255340Z",
+  "last_updated": "2026-09-08T02:03:10.766193Z",
   "world_org_meetings": [
+    {
+      "title": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
+      "source_url": "https://www.npr.org/2026/09/07/nx-s1-5954226/the-un-passed-resolution-ahead-of-general-assembly-calling-for-end-to-child-marriage"
+    },
     {
       "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
       "organization": "G20",
@@ -32,17 +40,22 @@
       "location": "",
       "description": "General Assembly backs creation of new UN learning institute under UN80 reforms",
       "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168276"
-    },
-    {
-      "title": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Allies bristle as sanctioned Russian finance minister attends U.S.-hosted G20 summit",
-      "source_url": "https://www.nbcnews.com/news/us-news/russia-finance-minister-g20-bessent-meeting-ukraine-war-europe-rcna595474"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "As Xi-Trump summit looms, Takaichi eyes meeting with U.S. president",
+      "participants": [
+        "Xi-Trump",
+        "Takaichi",
+        "U.S"
+      ],
+      "date": "",
+      "location": "",
+      "description": "As Xi-Trump summit looms, Takaichi eyes meeting with U.S. president",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/08/japan/politics/japan-takaichi-trump-meet-china"
+    }
+  ],
   "elections": [
     {
       "title": "German chancellor faces pressure after far-right party wins in state election",
@@ -53,36 +66,36 @@
       "source_url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211"
     },
     {
-      "title": "Far-right AfD wins crushing victory in German state election",
+      "title": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Far-right AfD wins crushing victory in German state election",
-      "source_url": "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election"
+      "description": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
+      "source_url": "https://abcnews.com/International/wireStory/pope-returns-sanctuary-prayed-after-election-unveils-fresco-136257345"
     },
     {
-      "title": "Infantino to stand for re-election as FIFA president despite failed World Cup sell-off plan",
-      "country": "",
+      "title": "Germany’s far-right party AfD surges to historic victory in state election",
+      "country": "Germany",
       "election_type": "National",
       "date": "",
-      "description": "Infantino to stand for re-election as FIFA president despite failed World Cup sell-off plan",
-      "source_url": "https://www.cbc.ca/sports/soccer/fifa-infantino-to-stand-for-reelection-sept-6-9.7334302?cmp=rss"
+      "description": "Germany’s far-right party AfD surges to historic victory in state election",
+      "source_url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election"
     },
     {
-      "title": "German far-right party candidate thanks Musk after state election win",
-      "country": "",
+      "title": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
+      "country": "Germany",
       "election_type": "National",
       "date": "",
-      "description": "German far-right party candidate thanks Musk after state election win",
-      "source_url": "https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk"
+      "description": "‘Shocked’ Merz warns far-right AfD’s election win in Germany will have international impact",
+      "source_url": "https://www.independent.co.uk/news/world/europe/germany-state-elections-2026-afd-saxony-anhalt-b3045489.html"
     },
     {
-      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
+      "title": "Kushner attributes the lack of progress on Gaza to upcoming Israeli elections",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
-      "source_url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates"
+      "description": "Kushner attributes the lack of progress on Gaza to upcoming Israeli elections",
+      "source_url": "https://www.cbsnews.com/news/jared-kushner-gaza-peace-deal-israel-elections"
     }
   ],
   "global_events": [
@@ -97,14 +110,57 @@
         "CBS News World",
         "Fox News World",
         "NYT World",
+        "The Guardian World",
         "Time",
-        "The Independent",
-        "France24"
+        "The Independent"
       ],
-      "coverage_count": 15,
+      "coverage_count": 14,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211"
+    },
+    {
+      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+      "summary": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Independent",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss"
+    },
+    {
+      "title": "Serbia accused of glorifying convicted war criminal Ratko Mladic by allowing elaborate military funeral",
+      "summary": "Serbia accused of glorifying convicted war criminal Ratko Mladic by allowing elaborate military funeral",
+      "outlets_covering": [
+        "NBC News World",
+        "The Independent",
+        "Al Jazeera",
+        "DW World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/europe/serbia-ratko-mladic-funeral-glorifying-b3045878.html"
+    },
+    {
+      "title": "Witkoff touts ‘substantive progress’ after peace talks with Ukraine, Russia",
+      "summary": "Witkoff touts ‘substantive progress’ after peace talks with Ukraine, Russia",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/6075212-witkoff-progress-russia-ukraine-talks"
     },
     {
       "title": "Israeli strikes on southern Lebanon kill 11",
@@ -113,60 +169,13 @@
         "BBC World",
         "CBC World",
         "Sky News World",
-        "NYT World",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 11,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Politics",
       "source_url": "https://www.france24.com/en/video/20260907-israeli-strikes-on-southern-lebanon-kill-11"
-    },
-    {
-      "title": "Russia and North Korea open the first road link across shared border",
-      "summary": "Russia and North Korea open the first road link across shared border",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/russia-north-korea-open-road-link-shared-border-136254045"
-    },
-    {
-      "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-      "summary": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-      "outlets_covering": [
-        "NBC News World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss"
-    },
-    {
-      "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
-      "summary": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "NYT World",
-        "Wash Post World",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 10,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss"
     }
   ]
 }
