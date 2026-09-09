@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-09-08T15:38:52.017994Z",
+  "last_updated": "2026-09-09T02:08:11.545282Z",
   "world_org_meetings": [
     {
-      "title": "No rooms, Rs 2.3 lakh a night: BRICS Summit sends Delhi hotel rates soaring",
+      "title": "India Shuns Pomp In Favor Of Restraint at Subdued BRICS Summit",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "No rooms, Rs 2.3 lakh a night: BRICS Summit sends Delhi hotel rates soaring",
-      "source_url": "https://timesofindia.indiatimes.com/india/no-rooms-rs-2-3-lakh-a-night-brics-summit-sends-delhi-hotel-rates-soaring/articleshow/133928166.cms"
+      "description": "India Shuns Pomp In Favor Of Restraint at Subdued BRICS Summit",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-09/india-shuns-pomp-in-favor-of-restraint-at-subdued-brics-summit"
     },
     {
-      "title": "BRICS summit may be the only place another Iran ceasefire can be built",
+      "title": "Strategic autonomy in motion as India hosts Brics summit",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "BRICS summit may be the only place another Iran ceasefire can be built",
-      "source_url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss"
-    },
-    {
-      "title": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
-      "source_url": "https://www.npr.org/2026/09/07/nx-s1-5954226/the-un-passed-resolution-ahead-of-general-assembly-calling-for-end-to-child-marriage"
+      "description": "Strategic autonomy in motion as India hosts Brics summit",
+      "source_url": "https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms"
     },
     {
       "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
@@ -40,9 +32,42 @@
       "location": "",
       "description": "Lipsky interviewed on NPR Morning Edition on the G20 finance ministers meeting in North Carolina",
       "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-interviewed-on-npr-morning-edition-on-the-g20-finance-ministers-meeting-in-north-carolina"
+    },
+    {
+      "title": "Chhangani interviewed on BBC on the key issues of the G20 Finance meeting in Asheville",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "Chhangani interviewed on BBC on the key issues of the G20 Finance meeting in Asheville",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chhangani-interviewed-on-bbc-on-the-key-issues-of-the-g20-finance-meeting-in-asheville"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
+      "participants": [
+        "Indian",
+        "Paris BAPS"
+      ],
+      "date": "",
+      "location": "",
+      "description": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20260908-was-this-a-state-visit-indian-opposition-leader-raises-serious-questions-over-paris-baps-temple"
+    },
+    {
+      "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
+      "participants": [
+        "Secretary",
+        "State Rubio",
+        "Colombia",
+        "China"
+      ],
+      "date": "",
+      "location": "",
+      "description": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366833/us-secretary-state-rubio-arrives-colombia-clarify-china-ties-sign-minerals-deal"
+    }
+  ],
   "elections": [
     {
       "title": "German far-right party candidate thanks Musk after state election win",
@@ -53,28 +78,20 @@
       "source_url": "https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk"
     },
     {
-      "title": "German chancellor faces pressure after far-right party wins in state election",
+      "title": "Anti-AfD protesters rally in Cologne after far-right election win",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "German chancellor faces pressure after far-right party wins in state election",
-      "source_url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211"
+      "description": "Anti-AfD protesters rally in Cologne after far-right election win",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss"
     },
     {
-      "title": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
+      "title": "German economy frets about Saxony-Anhalt election results",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
-      "source_url": "https://abcnews.com/International/wireStory/pope-returns-sanctuary-prayed-after-election-unveils-fresco-136257345"
-    },
-    {
-      "title": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
-      "source_url": "https://www.thehindu.com/news/international/far-right-alternative-for-germany-party-wins-big-in-regional-election-but-falls-short-of-majority/article71437378.ece"
+      "description": "German economy frets about Saxony-Anhalt election results",
+      "source_url": "https://www.dw.com/en/german-economy-frets-about-saxony-anhalt-election-results/a-79162871?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "How voters can overcome election sabotage: show up and vote early",
@@ -83,85 +100,98 @@
       "date": "",
       "description": "How voters can overcome election sabotage: show up and vote early",
       "source_url": "https://thehill.com/opinion/campaign/6073686-mass-voter-mobilization-election-threats"
+    },
+    {
+      "title": "Pope Leo unveils new fresco at sanctuary where he prayed after his election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Pope Leo unveils new fresco at sanctuary where he prayed after his election",
+      "source_url": "https://www.cbsnews.com/news/pope-leo-unveils-fresco-genazzano-sanctuary"
     }
   ],
   "global_events": [
     {
-      "title": "Russia and North Korea open the first road across their shared border",
-      "summary": "Russia and North Korea open the first road across their shared border",
+      "title": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
+      "summary": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "The Guardian World",
-        "Japan Times"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border"
-    },
-    {
-      "title": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements",
-      "summary": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements",
-      "outlets_covering": [
-        "NPR World",
+        "CBC World",
+        "NBC News World",
         "NYT World",
         "The Guardian World",
         "Wash Post World",
         "The Independent",
         "Al Jazeera",
-        "France24"
+        "The Hill"
       ],
       "coverage_count": 11,
       "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.washingtonpost.com/world/2026/09/08/uk-bar-imports-west-bank-growing-rift-with-israel"
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html"
     },
     {
-      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-      "summary": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "NYT World",
-        "The Independent"
-      ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Economy",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Serbia accused of glorifying convicted war criminal Ratko Mladic by allowing elaborate military funeral",
-      "summary": "Serbia accused of glorifying convicted war criminal Ratko Mladic by allowing elaborate military funeral",
+      "title": "U.S. military says it destroyed 5 more Iranian oil tankers in latest escalation",
+      "summary": "U.S. military says it destroyed 5 more Iranian oil tankers in latest escalation",
       "outlets_covering": [
         "CBC World",
         "NBC News World",
-        "The Independent",
-        "Al Jazeera",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/europe/serbia-ratko-mladic-funeral-glorifying-b3045878.html"
-    },
-    {
-      "title": "German far-right party candidate thanks Musk after state election win",
-      "summary": "German far-right party candidate thanks Musk after state election win",
-      "outlets_covering": [
-        "BBC World",
-        "ABC News Intl",
-        "Fox News World",
         "NYT World",
-        "Time",
+        "The Guardian World",
+        "Wash Post World",
+        "Al Jazeera",
+        "Japan Times",
         "The Hill"
       ],
-      "coverage_count": 6,
+      "coverage_count": 10,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/world/us-military-5-oil-tankers-iran-strikes-jordan-9.7336574?cmp=rss"
+    },
+    {
+      "title": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
+      "summary": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
+      "outlets_covering": [
+        "CBC World",
+        "NYT World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
       "region": "Global",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk"
+      "category": "Conflict",
+      "source_url": "https://www.nytimes.com/2026/09/08/world/middleeast/israel-netanyahu-2023-hamas-attack.html"
+    },
+    {
+      "title": "UK, France, ⁠Canada sanction Israeli West Bank goods",
+      "summary": "UK, France, ⁠Canada sanction Israeli West Bank goods",
+      "outlets_covering": [
+        "NPR World",
+        "CBC World",
+        "Time",
+        "The Independent",
+        "France24",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260908-uk-france-canada-sanction-israeli-west-bank-goods"
+    },
+    {
+      "title": "Why the U.K., Canada, and France Are Banning Trade With Israeli Settlements",
+      "summary": "Why the U.K., Canada, and France Are Banning Trade With Israeli Settlements",
+      "outlets_covering": [
+        "CBC World",
+        "NYT World",
+        "Time",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Economy",
+      "source_url": "https://time.com/article/2026/09/08/why-the-u-k-canada-and-france-are-banning-trade-with-israeli-settlements"
     }
   ]
 }
