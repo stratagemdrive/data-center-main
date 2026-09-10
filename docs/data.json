@@ -1,13 +1,37 @@
 {
-  "last_updated": "2026-09-10T02:05:18.859677Z",
+  "last_updated": "2026-09-10T15:28:45.288704Z",
   "world_org_meetings": [
     {
-      "title": "Brics to kick off with talks to boost multilateralism",
+      "title": "China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Brics to kick off with talks to boost multilateralism",
-      "source_url": "https://timesofindia.indiatimes.com/india/brics-to-kick-off-with-talks-to-boost-multilateralism/articleshow/133985269.cms"
+      "description": "China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years",
+      "source_url": "https://timesofindia.indiatimes.com/india/china-confirms-xi-jinpings-india-visit-for-brics-summit-on-september-12-13-first-trip-in-7-years/articleshow/134003370.cms"
+    },
+    {
+      "title": "Brics Summit 2026: PM Modi says 'all set'; Putin to arrive in few hours - top developments",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Brics Summit 2026: PM Modi says 'all set'; Putin to arrive in few hours - top developments",
+      "source_url": "https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms"
+    },
+    {
+      "title": "Evening Newswrap: Red Fort bomber’s original target revealed; Xi Jinping to visit India for Brics summit, and more",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Evening Newswrap: Red Fort bomber’s original target revealed; Xi Jinping to visit India for Brics summit, and more",
+      "source_url": "https://timesofindia.indiatimes.com/india/evening-newswrap-red-fort-bombers-original-target-revealed-xi-jinping-to-visit-india-for-brics-summit-and-more/articleshow/134008881.cms"
+    },
+    {
+      "title": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India",
+      "source_url": "https://www.thehindu.com/news/international/un-chief-to-stress-multipolarity-unsc-reforms-at-brics-summit-in-india/article71450463.ece"
     },
     {
       "title": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
@@ -16,44 +40,9 @@
       "location": "",
       "description": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
       "source_url": "https://www.atlanticcouncil.org/blogs/econographics/the-five-issues-to-watch-at-next-months-imf-world-bank-annual-meetings"
-    },
-    {
-      "title": "Bangladesh Foreign Minister keeps mum on PM Rahman’s participation in India-hosted BRICS summit",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Bangladesh Foreign Minister keeps mum on PM Rahman’s participation in India-hosted BRICS summit",
-      "source_url": "https://www.thehindu.com/news/international/bangladesh-foreign-minister-keeps-mum-on-pm-rahmans-participation-in-india-hosted-brics-summit/article71446617.ece"
-    },
-    {
-      "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-washington-post-on-bessent-bringing-iran-issue-to-g20-summit"
-    },
-    {
-      "title": "Lipsky interviewed on NPR Morning Edition on the G20 finance ministers meeting in North Carolina",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Lipsky interviewed on NPR Morning Edition on the G20 finance ministers meeting in North Carolina",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-interviewed-on-npr-morning-edition-on-the-g20-finance-ministers-meeting-in-north-carolina"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "Ukrainian President Volodymyr Zelenskyy visits Canada",
-      "participants": [
-        "Ukrainian President Volodymyr Zelenskyy",
-        "Canada"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Ukrainian President Volodymyr Zelenskyy visits Canada",
-      "source_url": "https://www.cbc.ca/news/politics/ukraine-president-volodymyr-zelenskky-canada-visit-2026-9.7338072?cmp=rss"
-    },
     {
       "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
       "participants": [
@@ -70,12 +59,28 @@
   ],
   "elections": [
     {
-      "title": "Labour picks former child refugee to stand in byelection for Starmer’s seat",
+      "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Labour picks former child refugee to stand in byelection for Starmer’s seat",
-      "source_url": "https://www.theguardian.com/politics/2026/sep/09/former-child-refugee-selected-as-labour-candidate-in-byelection-for-starmers-old-seat"
+      "description": "Multicultural Malmo: Swedish city loathed by far right braces for election",
+      "source_url": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss"
+    },
+    {
+      "title": "France withdraws support for Infantino in FIFA presidential election",
+      "country": "France",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "France withdraws support for Infantino in FIFA presidential election",
+      "source_url": "https://www.france24.com/en/video/20260910-france-withdraws-support-for-infantino-in-fifa-presidential-election"
+    },
+    {
+      "title": "BSP's family drama: Why no 'Anand' for Mayawati ahead of Uttar Pradesh elections?",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "BSP's family drama: Why no 'Anand' for Mayawati ahead of Uttar Pradesh elections?",
+      "source_url": "https://timesofindia.indiatimes.com/india/a-sanyas-condition-for-bsps-anand-can-mayawati-afford-family-drama-ahead-of-up-elections/articleshow/134001540.cms"
     },
     {
       "title": "AI is making it harder to trust your own eyes this election",
@@ -92,95 +97,91 @@
       "date": "",
       "description": "Elections won’t fix America’s political divisions",
       "source_url": "https://thehill.com/opinion/campaign/6076926-overcoming-us-political-polarization"
-    },
-    {
-      "title": "Your primer on Sweden’s upcoming parliamentary elections",
-      "country": "Sweden",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Your primer on Sweden’s upcoming parliamentary elections",
-      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/your-primer-on-swedens-upcoming-parliamentary-elections"
-    },
-    {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "source_url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Iran Ready to Escalate War Trump Says Will End After US Election",
-      "summary": "Iran Ready to Escalate War Trump Says Will End After US Election",
+      "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
+      "summary": "Iran strikes U.S. jets after Trump promises war to end after midterms",
       "outlets_covering": [
-        "NYT World",
-        "Bloomberg",
-        "Al Jazeera",
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "Japan Times",
         "The Hindu Intl",
         "The Hill"
       ],
       "coverage_count": 9,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-09-10/iran-ready-to-escalate-war-video"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price"
     },
     {
-      "title": "UN nuclear watchdog board reports Iran to UN Security Council for the first time in 20 years",
-      "summary": "UN nuclear watchdog board reports Iran to UN Security Council for the first time in 20 years",
+      "title": "Cargo Ship Fire in Eastern China Kills 25",
+      "summary": "Cargo Ship Fire in Eastern China Kills 25",
       "outlets_covering": [
         "BBC World",
-        "ABC News Intl",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
         "Al Jazeera",
-        "The Hindu Intl"
+        "DW World",
+        "The Hindu Intl",
+        "SCMP"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
+      "coverage_count": 8,
+      "region": "China",
       "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/un-nuclear-watchdog-board-reports-iran-to-un-security-council-for-the-first-time-in-20-years/article71449985.ece"
+      "source_url": "https://www.nytimes.com/2026/09/10/world/asia/china-cargo-ship-fire-qingdao.html"
     },
     {
-      "title": "Flight carrying Zelenskyy to Norway was delayed in Moldova because of drone incursion",
-      "summary": "Flight carrying Zelenskyy to Norway was delayed in Moldova because of drone incursion",
+      "title": "25 people killed in fire on cargo ship docked in China, state media reports",
+      "summary": "25 people killed in fire on cargo ship docked in China, state media reports",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "CBS News World",
+        "NYT World",
+        "Al Jazeera",
+        "DW World",
+        "The Hindu Intl",
+        "SCMP"
+      ],
+      "coverage_count": 8,
+      "region": "China",
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/fire-cargo-ship-chinese-port-dead-missing-ocean-melody"
+    },
+    {
+      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+      "summary": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
       "outlets_covering": [
         "ABC News Intl",
         "NBC News World",
-        "Wash Post World",
-        "The Hindu Intl"
+        "NYT World"
       ],
-      "coverage_count": 4,
+      "coverage_count": 3,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/flight-carrying-zelenskyy-norway-delayed-moldova-drone-incursion-136318552"
+      "source_url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html"
     },
     {
-      "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
-      "summary": "Iran war looms over Trump at Republican midterm convention in Dallas",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "summary": "Iran war won't end until after crucial November elections, says Trump",
       "outlets_covering": [
-        "Bloomberg",
-        "Al Jazeera",
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "Japan Times",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss"
-    },
-    {
-      "title": "Can Canada actually win a trade war with the U.S.? | About That",
-      "summary": "Can Canada actually win a trade war with the U.S.? | About That",
-      "outlets_covering": [
-        "CBC World",
-        "Time",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/player/play/9.7337970?cmp=rss"
+      "source_url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
