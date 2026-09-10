@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-09T15:32:56.545363Z",
+  "last_updated": "2026-09-10T02:05:18.859677Z",
   "world_org_meetings": [
     {
-      "title": "Brics summit in Delhi on September 12-13: Agenda, schedule and other details",
+      "title": "Brics to kick off with talks to boost multilateralism",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Brics summit in Delhi on September 12-13: Agenda, schedule and other details",
-      "source_url": "https://timesofindia.indiatimes.com/india/brics-summit-in-delhi-on-september-12-13-agenda-schedule-and-other-details/articleshow/133973488.cms"
+      "description": "Brics to kick off with talks to boost multilateralism",
+      "source_url": "https://timesofindia.indiatimes.com/india/brics-to-kick-off-with-talks-to-boost-multilateralism/articleshow/133985269.cms"
     },
     {
-      "title": "Brics Summit: Delhi on high alert with 4,800 cops, 35+ roads face curbs",
-      "organization": "BRICS",
+      "title": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
+      "organization": "IMF",
       "date": "",
       "location": "",
-      "description": "Brics Summit: Delhi on high alert with 4,800 cops, 35+ roads face curbs",
-      "source_url": "https://timesofindia.indiatimes.com/india/brics-summit-4800-traffic-cops-35-roads-under-restrictions-as-delhi-braces-for-vvip-movement/articleshow/133967956.cms"
+      "description": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
+      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/the-five-issues-to-watch-at-next-months-imf-world-bank-annual-meetings"
     },
     {
       "title": "Bangladesh Foreign Minister keeps mum on PM Rahman’s participation in India-hosted BRICS summit",
@@ -44,6 +44,17 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Ukrainian President Volodymyr Zelenskyy visits Canada",
+      "participants": [
+        "Ukrainian President Volodymyr Zelenskyy",
+        "Canada"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Ukrainian President Volodymyr Zelenskyy visits Canada",
+      "source_url": "https://www.cbc.ca/news/politics/ukraine-president-volodymyr-zelenskky-canada-visit-2026-9.7338072?cmp=rss"
+    },
+    {
       "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
       "participants": [
         "Secretary",
@@ -59,12 +70,28 @@
   ],
   "elections": [
     {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "country": "Germany",
+      "title": "Labour picks former child refugee to stand in byelection for Starmer’s seat",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "source_url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
+      "description": "Labour picks former child refugee to stand in byelection for Starmer’s seat",
+      "source_url": "https://www.theguardian.com/politics/2026/sep/09/former-child-refugee-selected-as-labour-candidate-in-byelection-for-starmers-old-seat"
+    },
+    {
+      "title": "AI is making it harder to trust your own eyes this election",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "AI is making it harder to trust your own eyes this election",
+      "source_url": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections"
+    },
+    {
+      "title": "Elections won’t fix America’s political divisions",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Elections won’t fix America’s political divisions",
+      "source_url": "https://thehill.com/opinion/campaign/6076926-overcoming-us-political-polarization"
     },
     {
       "title": "Your primer on Sweden’s upcoming parliamentary elections",
@@ -75,105 +102,85 @@
       "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/your-primer-on-swedens-upcoming-parliamentary-elections"
     },
     {
-      "title": "Serbia's Vucic calls snap elections after nearly two years of protests",
-      "country": "Serbia",
-      "election_type": "Snap",
-      "date": "",
-      "description": "Serbia's Vucic calls snap elections after nearly two years of protests",
-      "source_url": "https://www.france24.com/en/europe/20260909-serbia-vucic-calls-snap-elections-after-nearly-two-years-protests"
-    },
-    {
-      "title": "German far-right party taunts chancellor after its election triumph. He says it won't win a majority",
-      "country": "",
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "country": "Germany",
       "election_type": "National",
       "date": "",
-      "description": "German far-right party taunts chancellor after its election triumph. He says it won't win a majority",
-      "source_url": "https://abcnews.com/International/wireStory/german-party-taunts-chancellor-after-election-triumph-win-136295634"
-    },
-    {
-      "title": "Israel’s Election Campaign Is Heating Up. Here’s Who’s Running.",
-      "country": "Israel",
-      "election_type": "National",
-      "date": "",
-      "description": "Israel’s Election Campaign Is Heating Up. Here’s Who’s Running.",
-      "source_url": "https://www.nytimes.com/2026/09/09/world/middleeast/israels-election-campaign-is-heating-up-heres-whos-running.html"
+      "description": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "source_url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "summary": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "title": "Iran Ready to Escalate War Trump Says Will End After US Election",
+      "summary": "Iran Ready to Escalate War Trump Says Will End After US Election",
       "outlets_covering": [
-        "BBC World",
-        "Fox News World",
         "NYT World",
-        "The Independent"
-      ],
-      "coverage_count": 5,
-      "region": "Europe",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "summary": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
+        "Bloomberg",
+        "Al Jazeera",
         "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian"
-    },
-    {
-      "title": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
-      "summary": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
-      "outlets_covering": [
-        "CBC World",
-        "NYT World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.nytimes.com/2026/09/08/world/middleeast/israel-netanyahu-2023-hamas-attack.html"
-    },
-    {
-      "title": "U.S. military says it destroyed five Iranian oil tankers; Tehran hits back at American targets in Jordan",
-      "summary": "U.S. military says it destroyed five Iranian oil tankers; Tehran hits back at American targets in Jordan",
-      "outlets_covering": [
-        "NPR World",
-        "CBC World",
-        "NYT World",
-        "The Guardian World",
-        "Time",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-five-iranian-oil-tankers-tehran-hits-back-at-american-targets-in-jordan/article71445527.ece"
-    },
-    {
-      "title": "Canada, France, UK to ban imports from Israeli settlements",
-      "summary": "Canada, France, UK to ban imports from Israeli settlements",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "NYT World",
-        "Wash Post World",
-        "Time",
-        "France24",
         "The Hill"
       ],
       "coverage_count": 9,
       "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-09-10/iran-ready-to-escalate-war-video"
+    },
+    {
+      "title": "UN nuclear watchdog board reports Iran to UN Security Council for the first time in 20 years",
+      "summary": "UN nuclear watchdog board reports Iran to UN Security Council for the first time in 20 years",
+      "outlets_covering": [
+        "BBC World",
+        "ABC News Intl",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/6077070-canada-france-uk-to-ban-imports-from-israeli-settlements"
+      "source_url": "https://www.thehindu.com/news/international/un-nuclear-watchdog-board-reports-iran-to-un-security-council-for-the-first-time-in-20-years/article71449985.ece"
+    },
+    {
+      "title": "Flight carrying Zelenskyy to Norway was delayed in Moldova because of drone incursion",
+      "summary": "Flight carrying Zelenskyy to Norway was delayed in Moldova because of drone incursion",
+      "outlets_covering": [
+        "ABC News Intl",
+        "NBC News World",
+        "Wash Post World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/flight-carrying-zelenskyy-norway-delayed-moldova-drone-incursion-136318552"
+    },
+    {
+      "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+      "summary": "Iran war looms over Trump at Republican midterm convention in Dallas",
+      "outlets_covering": [
+        "Bloomberg",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss"
+    },
+    {
+      "title": "Can Canada actually win a trade war with the U.S.? | About That",
+      "summary": "Can Canada actually win a trade war with the U.S.? | About That",
+      "outlets_covering": [
+        "CBC World",
+        "Time",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/player/play/9.7337970?cmp=rss"
     }
   ]
 }
