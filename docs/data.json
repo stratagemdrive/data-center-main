@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-09-10T15:28:45.288704Z",
+  "last_updated": "2026-09-11T02:02:25.372218Z",
   "world_org_meetings": [
     {
-      "title": "China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years",
+      "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years",
-      "source_url": "https://timesofindia.indiatimes.com/india/china-confirms-xi-jinpings-india-visit-for-brics-summit-on-september-12-13-first-trip-in-7-years/articleshow/134003370.cms"
+      "description": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+      "source_url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece"
     },
     {
-      "title": "Brics Summit 2026: PM Modi says 'all set'; Putin to arrive in few hours - top developments",
+      "title": "Recent Brics summits didn't benefit India, says PC; BJP hits back",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Brics Summit 2026: PM Modi says 'all set'; Putin to arrive in few hours - top developments",
-      "source_url": "https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms"
+      "description": "Recent Brics summits didn't benefit India, says PC; BJP hits back",
+      "source_url": "https://timesofindia.indiatimes.com/india/recent-brics-summits-didnt-benefit-india-says-pc-bjp-hits-back/articleshow/134030618.cms"
     },
     {
-      "title": "Evening Newswrap: Red Fort bomber’s original target revealed; Xi Jinping to visit India for Brics summit, and more",
+      "title": "China’s Xi Jinping to make first trip to India in 7 years for Brics summit",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Evening Newswrap: Red Fort bomber’s original target revealed; Xi Jinping to visit India for Brics summit, and more",
-      "source_url": "https://timesofindia.indiatimes.com/india/evening-newswrap-red-fort-bombers-original-target-revealed-xi-jinping-to-visit-india-for-brics-summit-and-more/articleshow/134008881.cms"
+      "description": "China’s Xi Jinping to make first trip to India in 7 years for Brics summit",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367062/chinas-xi-jinping-make-first-trip-india-7-years-brics-summit"
     },
     {
       "title": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India",
@@ -44,6 +44,18 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+      "participants": [
+        "Russian President Vladimir Putin",
+        "Delhi",
+        "BRICS"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+      "source_url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece"
+    },
+    {
       "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
       "participants": [
         "Secretary",
@@ -59,28 +71,36 @@
   ],
   "elections": [
     {
-      "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
+      "title": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Multicultural Malmo: Swedish city loathed by far right braces for election",
-      "source_url": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss"
+      "description": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
+      "source_url": "https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude"
     },
     {
-      "title": "France withdraws support for Infantino in FIFA presidential election",
+      "title": "Missouri justices find elections chief in contempt, but change to old map clears him",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Missouri justices find elections chief in contempt, but change to old map clears him",
+      "source_url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court"
+    },
+    {
+      "title": "NATO will stay ‘strong’ whoever wins French election: Rutte",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "NATO will stay ‘strong’ whoever wins French election: Rutte",
+      "source_url": "https://www.thehindu.com/news/international/nato-will-stay-strong-whoever-wins-french-election-rutte/article71453017.ece"
+    },
+    {
+      "title": "Infantino's FIFA re-election bid faces setback as France withdraws support",
       "country": "France",
-      "election_type": "Presidential",
-      "date": "",
-      "description": "France withdraws support for Infantino in FIFA presidential election",
-      "source_url": "https://www.france24.com/en/video/20260910-france-withdraws-support-for-infantino-in-fifa-presidential-election"
-    },
-    {
-      "title": "BSP's family drama: Why no 'Anand' for Mayawati ahead of Uttar Pradesh elections?",
-      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "BSP's family drama: Why no 'Anand' for Mayawati ahead of Uttar Pradesh elections?",
-      "source_url": "https://timesofindia.indiatimes.com/india/a-sanyas-condition-for-bsps-anand-can-mayawati-afford-family-drama-ahead-of-up-elections/articleshow/134001540.cms"
+      "description": "Infantino's FIFA re-election bid faces setback as France withdraws support",
+      "source_url": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support"
     },
     {
       "title": "AI is making it harder to trust your own eyes this election",
@@ -89,34 +109,9 @@
       "date": "",
       "description": "AI is making it harder to trust your own eyes this election",
       "source_url": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections"
-    },
-    {
-      "title": "Elections won’t fix America’s political divisions",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Elections won’t fix America’s political divisions",
-      "source_url": "https://thehill.com/opinion/campaign/6076926-overcoming-us-political-polarization"
     }
   ],
   "global_events": [
-    {
-      "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
-      "summary": "Iran strikes U.S. jets after Trump promises war to end after midterms",
-      "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Time",
-        "Japan Times",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price"
-    },
     {
       "title": "Cargo Ship Fire in Eastern China Kills 25",
       "summary": "Cargo Ship Fire in Eastern China Kills 25",
@@ -125,15 +120,45 @@
         "CBC World",
         "CBS News World",
         "NYT World",
-        "Al Jazeera",
         "DW World",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/09/10/world/asia/china-cargo-ship-fire-qingdao.html"
+    },
+    {
+      "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
+      "summary": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
+      "outlets_covering": [
+        "NYT World",
+        "Wash Post World",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran"
+    },
+    {
+      "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
+      "summary": "Iran strikes U.S. jets after Trump promises war to end after midterms",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price"
     },
     {
       "title": "25 people killed in fire on cargo ship docked in China, state media reports",
@@ -143,28 +168,14 @@
         "CBC World",
         "CBS News World",
         "NYT World",
-        "Al Jazeera",
         "DW World",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/fire-cargo-ship-chinese-port-dead-missing-ocean-melody"
-    },
-    {
-      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
-      "summary": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
-      "outlets_covering": [
-        "ABC News Intl",
-        "NBC News World",
-        "NYT World"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html"
     },
     {
       "title": "Iran war won't end until after crucial November elections, says Trump",
@@ -174,11 +185,10 @@
         "CBS News World",
         "NBC News World",
         "Time",
-        "Japan Times",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
