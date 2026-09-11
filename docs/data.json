@@ -1,161 +1,145 @@
 {
-  "last_updated": "2026-09-11T02:02:25.372218Z",
+  "last_updated": "2026-09-11T15:30:48.980956Z",
   "world_org_meetings": [
     {
-      "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+      "title": "At BRICS Summit, China and India Vie for Influence",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
-      "source_url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece"
+      "description": "At BRICS Summit, China and India Vie for Influence",
+      "source_url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html"
     },
     {
-      "title": "Recent Brics summits didn't benefit India, says PC; BJP hits back",
+      "title": "'Trade barriers rising globally, India building bridges': PM Modi at Brics business forum",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Recent Brics summits didn't benefit India, says PC; BJP hits back",
-      "source_url": "https://timesofindia.indiatimes.com/india/recent-brics-summits-didnt-benefit-india-says-pc-bjp-hits-back/articleshow/134030618.cms"
+      "description": "'Trade barriers rising globally, India building bridges': PM Modi at Brics business forum",
+      "source_url": "https://timesofindia.indiatimes.com/india/trade-barriers-rising-globally-india-building-bridges-pm-modi-at-brics-business-forum/articleshow/134074099.cms"
     },
     {
-      "title": "China’s Xi Jinping to make first trip to India in 7 years for Brics summit",
+      "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "China’s Xi Jinping to make first trip to India in 7 years for Brics summit",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367062/chinas-xi-jinping-make-first-trip-india-7-years-brics-summit"
+      "description": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+      "source_url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions"
     },
     {
-      "title": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India",
-      "organization": "UN",
+      "title": "Building Brics: PM Modi-Putin talks, a Thirukkural gift and Xi's big return - key points",
+      "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India",
-      "source_url": "https://www.thehindu.com/news/international/un-chief-to-stress-multipolarity-unsc-reforms-at-brics-summit-in-india/article71450463.ece"
+      "description": "Building Brics: PM Modi-Putin talks, a Thirukkural gift and Xi's big return - key points",
+      "source_url": "https://timesofindia.indiatimes.com/india/building-brics-pm-modi-putin-talks-a-thirukkural-gift-and-xis-big-return-key-points/articleshow/134062793.cms"
     },
     {
-      "title": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
-      "organization": "IMF",
+      "title": "Brics summit: PM Modi gifts Putin Russian translation of Thirukkural",
+      "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
-      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/the-five-issues-to-watch-at-next-months-imf-world-bank-annual-meetings"
+      "description": "Brics summit: PM Modi gifts Putin Russian translation of Thirukkural",
+      "source_url": "https://timesofindia.indiatimes.com/india/brics-summit-pm-modi-gifts-putin-russian-translation-of-thirukkural/articleshow/134061866.cms"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+      "title": "Russian President Vladimir Putin begins 3-day India visit",
       "participants": [
         "Russian President Vladimir Putin",
-        "Delhi",
-        "BRICS"
+        "India"
       ],
       "date": "",
       "location": "",
-      "description": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+      "description": "Russian President Vladimir Putin begins 3-day India visit",
       "source_url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece"
-    },
-    {
-      "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
-      "participants": [
-        "Secretary",
-        "State Rubio",
-        "Colombia",
-        "China"
-      ],
-      "date": "",
-      "location": "",
-      "description": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366833/us-secretary-state-rubio-arrives-colombia-clarify-china-ties-sign-minerals-deal"
     }
   ],
   "elections": [
     {
-      "title": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
+      "title": "Sweden's election could mark major milestone for Europe's populist right",
+      "country": "Sweden",
+      "election_type": "National",
+      "date": "",
+      "description": "Sweden's election could mark major milestone for Europe's populist right",
+      "source_url": "https://www.cbsnews.com/news/sweden-democrats-election-populist-right-europe"
+    },
+    {
+      "title": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
-      "source_url": "https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude"
+      "description": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden"
     },
     {
-      "title": "Missouri justices find elections chief in contempt, but change to old map clears him",
+      "title": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Missouri justices find elections chief in contempt, but change to old map clears him",
-      "source_url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court"
+      "description": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
+      "source_url": "https://www.france24.com/en/french-far-right-leader-polling-ahead-for-2027-election-should-the-eu-be-afraid"
     },
     {
-      "title": "NATO will stay ‘strong’ whoever wins French election: Rutte",
+      "title": "People ‘incensed’ by North Sea plans can vote Green in byelection, says Zack Polanski",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "NATO will stay ‘strong’ whoever wins French election: Rutte",
-      "source_url": "https://www.thehindu.com/news/international/nato-will-stay-strong-whoever-wins-french-election-rutte/article71453017.ece"
+      "description": "People ‘incensed’ by North Sea plans can vote Green in byelection, says Zack Polanski",
+      "source_url": "https://www.theguardian.com/politics/2026/sep/11/zack-polanski-selected-green-party-holborn-st-pancras-byelection"
     },
     {
-      "title": "Infantino's FIFA re-election bid faces setback as France withdraws support",
-      "country": "France",
-      "election_type": "National",
-      "date": "",
-      "description": "Infantino's FIFA re-election bid faces setback as France withdraws support",
-      "source_url": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support"
-    },
-    {
-      "title": "AI is making it harder to trust your own eyes this election",
+      "title": "Inside the RNC's legal fight over \"election integrity\"",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "AI is making it harder to trust your own eyes this election",
-      "source_url": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections"
+      "description": "Inside the RNC's legal fight over \"election integrity\"",
+      "source_url": "https://www.axios.com/2026/09/11/republicans-trump-election-lawsuits"
     }
   ],
   "global_events": [
     {
-      "title": "Cargo Ship Fire in Eastern China Kills 25",
-      "summary": "Cargo Ship Fire in Eastern China Kills 25",
+      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
+      "summary": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
       "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "CBS News World",
-        "NYT World",
-        "DW World",
-        "The Hindu Intl",
-        "SCMP"
+        "NPR World",
+        "ABC News Intl",
+        "Wash Post World",
+        "Time",
+        "The Hindu Intl"
       ],
-      "coverage_count": 7,
-      "region": "China",
+      "coverage_count": 5,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/09/10/world/asia/china-cargo-ship-fire-qingdao.html"
+      "source_url": "https://abcnews.com/International/wireStory/iran-backed-houthi-rebels-strategic-port-city-yemen-136336641"
     },
     {
-      "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
-      "summary": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "summary": "Israel says it has destroyed major underground Hezbollah base",
       "outlets_covering": [
+        "BBC World",
         "NYT World",
-        "Wash Post World",
         "The Independent",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
+      "coverage_count": 5,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran"
+      "source_url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
       "summary": "Iran strikes U.S. jets after Trump promises war to end after midterms",
       "outlets_covering": [
-        "BBC World",
         "CBS News World",
         "NBC News World",
         "Time",
+        "France24",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price"
@@ -164,34 +148,29 @@
       "title": "25 people killed in fire on cargo ship docked in China, state media reports",
       "summary": "25 people killed in fire on cargo ship docked in China, state media reports",
       "outlets_covering": [
-        "BBC World",
         "CBC World",
         "CBS News World",
         "NYT World",
-        "DW World",
         "The Hindu Intl",
         "SCMP"
       ],
-      "coverage_count": 7,
+      "coverage_count": 5,
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/fire-cargo-ship-chinese-port-dead-missing-ocean-melody"
     },
     {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "summary": "Iran war won't end until after crucial November elections, says Trump",
+      "title": "Trump uses 9/11 memorial speech to defend Iran war as families commemorate victims of attack – live",
+      "summary": "Trump uses 9/11 memorial speech to defend Iran war as families commemorate victims of attack – live",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Time",
-        "The Hindu Intl",
+        "The Guardian World",
+        "France24",
         "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 3,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live"
     }
   ]
 }
