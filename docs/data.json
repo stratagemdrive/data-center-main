@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T02:08:00.532987Z",
+  "last_updated": "2026-09-12T14:37:37.154336Z",
   "world_org_meetings": [
     {
       "title": "At BRICS Summit, China and India Vie for Influence",
@@ -10,39 +10,60 @@
       "source_url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html"
     },
     {
-      "title": "India to present 37 deep-tech ventures at Brics forum",
+      "title": "Iranian president, Abu Dhabi crown prince meet on sidelines of Brics summit in India",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "India to present 37 deep-tech ventures at Brics forum",
-      "source_url": "https://timesofindia.indiatimes.com/india/india-to-present-37-deep-tech-ventures-at-brics-forum/articleshow/134098708.cms"
+      "description": "Iranian president, Abu Dhabi crown prince meet on sidelines of Brics summit in India",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367318/iranian-president-abu-dhabi-crown-prince-meet-sidelines-brics-summit-india"
     },
     {
-      "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+      "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-      "source_url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions"
+      "description": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+      "source_url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations"
     },
     {
-      "title": "BRICS nations should link payment systems, trade in local currencies: Piyush Goyal at BRICS Business Forum",
+      "title": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "BRICS nations should link payment systems, trade in local currencies: Piyush Goyal at BRICS Business Forum",
-      "source_url": "https://www.thehindu.com/business/Economy/brics-nations-should-link-payment-systems-trade-in-local-currencies-piyush-goyal-at-brics-business-forum/article71455149.ece"
+      "description": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
+      "source_url": "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance"
     },
     {
-      "title": "New Delhi residents face traffic chaos as India prepares to host BRICS summit",
+      "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "New Delhi residents face traffic chaos as India prepares to host BRICS summit",
-      "source_url": "https://abcnews.com/International/wireStory/new-delhi-residents-face-traffic-chaos-india-prepares-136355733"
+      "description": "India’s Modi calls for empowerment of Global South at BRICS Summit",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "'Have opportunity to discuss cooperation': PM Modi welcomes Xi; bilateral talks begin",
+      "participants": [
+        "Modi"
+      ],
+      "date": "",
+      "location": "",
+      "description": "'Have opportunity to discuss cooperation': PM Modi welcomes Xi; bilateral talks begin",
+      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-xi-jinping-hold-bilateral-meeting-after-brics-declaration-in-new-delhi/articleshow/134132494.cms"
+    },
+    {
+      "title": "Lebanon’s president makes a rare visit to southern city as fears of Israeli attacks grow",
+      "participants": [
+        "Lebanon’s",
+        "Israeli"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Lebanon’s president makes a rare visit to southern city as fears of Israeli attacks grow",
+      "source_url": "https://www.independent.co.uk/news/world/americas/lebanon-israeli-hezbollah-beirut-iran-b3049024.html"
+    },
     {
       "title": "Russian President Vladimir Putin begins 3-day India visit",
       "participants": [
@@ -57,28 +78,20 @@
   ],
   "elections": [
     {
-      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
-      "source_url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss"
-    },
-    {
-      "title": "What to know about Sunday's election in Sweden, NATO's newest member",
+      "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
       "country": "Sweden",
       "election_type": "National",
       "date": "",
-      "description": "What to know about Sunday's election in Sweden, NATO's newest member",
-      "source_url": "https://abcnews.com/International/wireStory/sundays-election-sweden-natos-newest-member-136357765"
+      "description": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
+      "source_url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss"
     },
     {
-      "title": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
-      "country": "Russia",
+      "title": "Sweden’s extremely close election could see far right enter government",
+      "country": "Sweden",
       "election_type": "National",
       "date": "",
-      "description": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
-      "source_url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates"
+      "description": "Sweden’s extremely close election could see far right enter government",
+      "source_url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government"
     },
     {
       "title": "Sweden's election could mark major milestone for Europe's populist right",
@@ -89,86 +102,93 @@
       "source_url": "https://www.cbsnews.com/news/sweden-democrats-election-populist-right-europe"
     },
     {
-      "title": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
+      "title": "Inside the RNC's legal fight over \"election integrity\"",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden"
+      "description": "Inside the RNC's legal fight over \"election integrity\"",
+      "source_url": "https://www.axios.com/2026/09/11/republicans-trump-election-lawsuits"
+    },
+    {
+      "title": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
+      "source_url": "https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude"
     }
   ],
   "global_events": [
     {
-      "title": "Iran-backed Houthis take control of Red Sea coastline in Yemen",
-      "summary": "Iran-backed Houthis take control of Red Sea coastline in Yemen",
+      "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
+      "summary": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "The Guardian World",
+        "Bloomberg",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
+    },
+    {
+      "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+      "summary": "BRICS leaders meet in India as wars and US tensions test the bloc",
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
-        "CBS News World",
-        "NBC News World",
-        "Wash Post World",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nbcnews.com/video/iran-backed-houthis-take-control-of-red-sea-coastline-in-yemen-269743173909"
-    },
-    {
-      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-      "summary": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-      "outlets_covering": [
         "The Independent",
-        "Al Jazeera",
-        "France24"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss"
-    },
-    {
-      "title": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
-      "summary": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
-      "outlets_covering": [
-        "BBC World",
-        "NYT World",
-        "The Independent",
+        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html"
+      "coverage_count": 5,
+      "region": "South Asia",
+      "category": "Conflict",
+      "source_url": "https://www.france24.com/en/video/20260912-brics-leaders-meet-in-india-as-wars-and-us-tensions-test-the-bloc"
     },
     {
-      "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-      "summary": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+      "title": "North Korea launches ballistic missiles toward sea after military drill it sees as threat",
+      "summary": "North Korea launches ballistic missiles toward sea after military drill it sees as threat",
       "outlets_covering": [
-        "The Guardian World",
-        "France24",
+        "ABC News Intl",
+        "The Hindu Intl",
         "The Hill"
       ],
       "coverage_count": 4,
-      "region": "Middle East",
+      "region": "East / Southeast Asia",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial"
+      "source_url": "https://www.thehindu.com/news/international/north-korea-launches-ballistic-missiles-toward-sea-after-military-drill-it-sees-as-threat/article71458990.ece"
     },
     {
-      "title": "25 people killed in fire on cargo ship docked in China, state media reports",
-      "summary": "25 people killed in fire on cargo ship docked in China, state media reports",
+      "title": "Iran-backed Houthis tighten grip on key oil shipping lane",
+      "summary": "Iran-backed Houthis tighten grip on key oil shipping lane",
       "outlets_covering": [
-        "CBC World",
         "CBS News World",
-        "NYT World",
-        "The Hindu Intl",
-        "SCMP"
+        "NBC News World",
+        "France24"
       ],
-      "coverage_count": 5,
-      "region": "China",
+      "coverage_count": 3,
+      "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/fire-cargo-ship-chinese-port-dead-missing-ocean-melody"
+      "source_url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea"
+    },
+    {
+      "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+      "summary": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+      "outlets_covering": [
+        "NBC News World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 2,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss"
     }
   ]
 }
