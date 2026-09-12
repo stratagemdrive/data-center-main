@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T15:30:48.980956Z",
+  "last_updated": "2026-09-12T02:08:00.532987Z",
   "world_org_meetings": [
     {
       "title": "At BRICS Summit, China and India Vie for Influence",
@@ -10,12 +10,12 @@
       "source_url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html"
     },
     {
-      "title": "'Trade barriers rising globally, India building bridges': PM Modi at Brics business forum",
+      "title": "India to present 37 deep-tech ventures at Brics forum",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "'Trade barriers rising globally, India building bridges': PM Modi at Brics business forum",
-      "source_url": "https://timesofindia.indiatimes.com/india/trade-barriers-rising-globally-india-building-bridges-pm-modi-at-brics-business-forum/articleshow/134074099.cms"
+      "description": "India to present 37 deep-tech ventures at Brics forum",
+      "source_url": "https://timesofindia.indiatimes.com/india/india-to-present-37-deep-tech-ventures-at-brics-forum/articleshow/134098708.cms"
     },
     {
       "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
@@ -26,20 +26,20 @@
       "source_url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions"
     },
     {
-      "title": "Building Brics: PM Modi-Putin talks, a Thirukkural gift and Xi's big return - key points",
+      "title": "BRICS nations should link payment systems, trade in local currencies: Piyush Goyal at BRICS Business Forum",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Building Brics: PM Modi-Putin talks, a Thirukkural gift and Xi's big return - key points",
-      "source_url": "https://timesofindia.indiatimes.com/india/building-brics-pm-modi-putin-talks-a-thirukkural-gift-and-xis-big-return-key-points/articleshow/134062793.cms"
+      "description": "BRICS nations should link payment systems, trade in local currencies: Piyush Goyal at BRICS Business Forum",
+      "source_url": "https://www.thehindu.com/business/Economy/brics-nations-should-link-payment-systems-trade-in-local-currencies-piyush-goyal-at-brics-business-forum/article71455149.ece"
     },
     {
-      "title": "Brics summit: PM Modi gifts Putin Russian translation of Thirukkural",
+      "title": "New Delhi residents face traffic chaos as India prepares to host BRICS summit",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Brics summit: PM Modi gifts Putin Russian translation of Thirukkural",
-      "source_url": "https://timesofindia.indiatimes.com/india/brics-summit-pm-modi-gifts-putin-russian-translation-of-thirukkural/articleshow/134061866.cms"
+      "description": "New Delhi residents face traffic chaos as India prepares to host BRICS summit",
+      "source_url": "https://abcnews.com/International/wireStory/new-delhi-residents-face-traffic-chaos-india-prepares-136355733"
     }
   ],
   "diplomatic_visits": [
@@ -57,6 +57,30 @@
   ],
   "elections": [
     {
+      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "source_url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss"
+    },
+    {
+      "title": "What to know about Sunday's election in Sweden, NATO's newest member",
+      "country": "Sweden",
+      "election_type": "National",
+      "date": "",
+      "description": "What to know about Sunday's election in Sweden, NATO's newest member",
+      "source_url": "https://abcnews.com/International/wireStory/sundays-election-sweden-natos-newest-member-136357765"
+    },
+    {
+      "title": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
+      "source_url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates"
+    },
+    {
       "title": "Sweden's election could mark major milestone for Europe's populist right",
       "country": "Sweden",
       "election_type": "National",
@@ -71,78 +95,65 @@
       "date": "",
       "description": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
       "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden"
-    },
-    {
-      "title": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
-      "source_url": "https://www.france24.com/en/french-far-right-leader-polling-ahead-for-2027-election-should-the-eu-be-afraid"
-    },
-    {
-      "title": "People ‘incensed’ by North Sea plans can vote Green in byelection, says Zack Polanski",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "People ‘incensed’ by North Sea plans can vote Green in byelection, says Zack Polanski",
-      "source_url": "https://www.theguardian.com/politics/2026/sep/11/zack-polanski-selected-green-party-holborn-st-pancras-byelection"
-    },
-    {
-      "title": "Inside the RNC's legal fight over \"election integrity\"",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Inside the RNC's legal fight over \"election integrity\"",
-      "source_url": "https://www.axios.com/2026/09/11/republicans-trump-election-lawsuits"
     }
   ],
   "global_events": [
     {
-      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
-      "summary": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
+      "title": "Iran-backed Houthis take control of Red Sea coastline in Yemen",
+      "summary": "Iran-backed Houthis take control of Red Sea coastline in Yemen",
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
+        "CBS News World",
+        "NBC News World",
         "Wash Post World",
-        "Time",
-        "The Hindu Intl"
+        "Al Jazeera",
+        "France24"
       ],
-      "coverage_count": 5,
+      "coverage_count": 8,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/iran-backed-houthi-rebels-strategic-port-city-yemen-136336641"
+      "source_url": "https://www.nbcnews.com/video/iran-backed-houthis-take-control-of-red-sea-coastline-in-yemen-269743173909"
     },
     {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "summary": "Israel says it has destroyed major underground Hezbollah base",
+      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+      "summary": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+      "outlets_covering": [
+        "The Independent",
+        "Al Jazeera",
+        "France24"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss"
+    },
+    {
+      "title": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
+      "summary": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
       "outlets_covering": [
         "BBC World",
         "NYT World",
         "The Independent",
-        "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html"
     },
     {
-      "title": "Iran strikes U.S. jets after Trump promises war to end after midterms",
-      "summary": "Iran strikes U.S. jets after Trump promises war to end after midterms",
+      "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+      "summary": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
       "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "Time",
+        "The Guardian World",
         "France24",
-        "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 7,
+      "coverage_count": 4,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price"
+      "source_url": "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial"
     },
     {
       "title": "25 people killed in fire on cargo ship docked in China, state media reports",
@@ -158,19 +169,6 @@
       "region": "China",
       "category": "Politics",
       "source_url": "https://www.cbsnews.com/news/fire-cargo-ship-chinese-port-dead-missing-ocean-melody"
-    },
-    {
-      "title": "Trump uses 9/11 memorial speech to defend Iran war as families commemorate victims of attack – live",
-      "summary": "Trump uses 9/11 memorial speech to defend Iran war as families commemorate victims of attack – live",
-      "outlets_covering": [
-        "The Guardian World",
-        "France24",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live"
     }
   ]
 }
