@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-13T02:03:46.590807Z",
+  "last_updated": "2026-09-13T15:17:22.863074Z",
   "world_org_meetings": [
+    {
+      "title": "BRICS summit: What came out of the New Delhi meeting",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "BRICS summit: What came out of the New Delhi meeting",
+      "source_url": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting"
+    },
     {
       "title": "At BRICS Summit, China and India Vie for Influence",
       "organization": "BRICS",
@@ -10,69 +18,73 @@
       "source_url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html"
     },
     {
-      "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+      "title": "From PM Modi-Putin car ride to Pezeshkian hug: 5 unmissable moments of Brics Summit 2026",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Iran, UAE hold first talks at BRICS summit since conflict began",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
+      "description": "From PM Modi-Putin car ride to Pezeshkian hug: 5 unmissable moments of Brics Summit 2026",
+      "source_url": "https://timesofindia.indiatimes.com/india/5-unmissable-moments-of-brics-2026-summit/articleshow/134201432.cms"
     },
     {
-      "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+      "title": "Modi-Xi's Ukraine offer to Putin, strong message to West &amp; new Brics playbook: Key outcomes of summit",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-      "source_url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations"
+      "description": "Modi-Xi's Ukraine offer to Putin, strong message to West &amp; new Brics playbook: Key outcomes of summit",
+      "source_url": "https://timesofindia.indiatimes.com/india/modi-xis-ukraine-offer-to-putin-strong-message-to-west-new-brics-playbook-key-outcomes-of-summit/articleshow/134197086.cms"
     },
     {
-      "title": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
+      "title": "BRICS summit 2026: What are the key takeaways?",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
-      "source_url": "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance"
-    },
-    {
-      "title": "Russia's Putin arrives in India as BRICS leaders begin talks",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Russia's Putin arrives in India as BRICS leaders begin talks",
-      "source_url": "https://www.france24.com/en/video/20260912-russia-s-putin-arrives-in-india-as-brics-leaders-begin-talks"
+      "description": "BRICS summit 2026: What are the key takeaways?",
+      "source_url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "BRICS: What is in the joint statement from the 11 members?",
+      "title": "Trump team rants at reporter for pointing out Natalie Harp with president on Ireland visit",
       "participants": [
-        "BRICS What"
+        "Trump",
+        "Natalie Harp",
+        "Ireland"
       ],
       "date": "",
       "location": "",
-      "description": "BRICS: What is in the joint statement from the 11 members?",
-      "source_url": "https://www.france24.com/en/video/20260912-brics-what-is-in-the-joint-statement-from-the-11-members"
+      "description": "Trump team rants at reporter for pointing out Natalie Harp with president on Ireland visit",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/white-house-natalie-harp-reporter-b3049411.html"
     },
     {
-      "title": "Lebanon’s president makes a rare visit to southern city as fears of Israeli attacks grow",
+      "title": "U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian",
       "participants": [
-        "Lebanon’s",
-        "Israeli"
+        "U.P",
+        "Shia",
+        "India-Iran",
+        "President Pezeshkian"
       ],
       "date": "",
       "location": "",
-      "description": "Lebanon’s president makes a rare visit to southern city as fears of Israeli attacks grow",
-      "source_url": "https://www.independent.co.uk/news/world/americas/lebanon-israeli-hezbollah-beirut-iran-b3049024.html"
+      "description": "U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian",
+      "source_url": "https://www.thehindu.com/news/national/up-top-shia-leader-pushes-for-stronger-india-iran-ties-in-meeting-with-president-pezeshkian/article71460722.ece"
     }
   ],
   "elections": [
     {
-      "title": "Sweden’s extremely close election could see far right enter government",
+      "title": "Sweden general election: close race as far right eyes role in government – Europe live",
+      "country": "Sweden",
+      "election_type": "General",
+      "date": "",
+      "description": "Sweden general election: close race as far right eyes role in government – Europe live",
+      "source_url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
+    },
+    {
+      "title": "Sweden votes in tight election that could see far-right party enter government",
       "country": "Sweden",
       "election_type": "National",
       "date": "",
-      "description": "Sweden’s extremely close election could see far right enter government",
-      "source_url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government"
+      "description": "Sweden votes in tight election that could see far-right party enter government",
+      "source_url": "https://news.sky.com/story/sweden-votes-in-tight-election-that-could-see-far-right-party-enter-government-13585281"
     },
     {
       "title": "Sweden's election could mark major milestone for Europe's populist right",
@@ -83,89 +95,76 @@
       "source_url": "https://www.cbsnews.com/news/sweden-democrats-election-populist-right-europe"
     },
     {
-      "title": "Inside the RNC's legal fight over \"election integrity\"",
+      "title": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Inside the RNC's legal fight over \"election integrity\"",
-      "source_url": "https://www.axios.com/2026/09/11/republicans-trump-election-lawsuits"
+      "description": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins"
     },
     {
-      "title": "AI is making it harder to trust your own eyes this election",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "AI is making it harder to trust your own eyes this election",
-      "source_url": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections"
-    },
-    {
-      "title": "Your primer on Sweden’s upcoming parliamentary elections",
+      "title": "Sweden votes as migration, crime and economy dominate high-stakes election",
       "country": "Sweden",
-      "election_type": "Parliamentary",
+      "election_type": "National",
       "date": "",
-      "description": "Your primer on Sweden’s upcoming parliamentary elections",
-      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/your-primer-on-swedens-upcoming-parliamentary-elections"
+      "description": "Sweden votes as migration, crime and economy dominate high-stakes election",
+      "source_url": "https://www.foxnews.com/world/sweden-votes-migration-crime-economy-dominate-high-stakes-election"
     }
   ],
   "global_events": [
+    {
+      "title": "Sweden general election: close race as far right eyes role in government – Europe live",
+      "summary": "Sweden general election: close race as far right eyes role in government – Europe live",
+      "outlets_covering": [
+        "CBS News World",
+        "Sky News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
+    },
+    {
+      "title": "Nato jet scrambled to Lithuania ‘drone threat’",
+      "summary": "Nato jet scrambled to Lithuania ‘drone threat’",
+      "outlets_covering": [
+        "Sky News World",
+        "The Independent"
+      ],
+      "coverage_count": 2,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/europe/nato-jets-lithuania-airport-drone-birds-vilnius-b3049354.html"
+    },
+    {
+      "title": "Iranian ship attacked near Strait of Hormuz: Iranian state media",
+      "summary": "Iranian ship attacked near Strait of Hormuz: Iranian state media",
+      "outlets_covering": [
+        "CBC World",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://thehill.com/policy/international/6086615-iranian-cargo-ship-struck-hormuz"
+    },
     {
       "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
       "summary": "BRICS leaders meet in India as wars and US tensions test the bloc",
       "outlets_covering": [
         "NPR World",
         "ABC News Intl",
-        "The Independent",
-        "France24",
         "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "South Asia",
-      "category": "Conflict",
-      "source_url": "https://www.france24.com/en/video/20260912-brics-leaders-meet-in-india-as-wars-and-us-tensions-test-the-bloc"
-    },
-    {
-      "title": "Putin warns Europe against sending troops to Ukraine",
-      "summary": "Putin warns Europe against sending troops to Ukraine",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "The Independent",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/putin-warns-europe-sending-troops-ukraine"
-    },
-    {
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "summary": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "outlets_covering": [
-        "BBC World",
-        "Al Jazeera",
-        "Axios"
       ],
       "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-      "summary": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "ABC News Intl",
-        "The Guardian World",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
+      "region": "South Asia",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india"
     },
     {
       "title": "CDC declares cyclospora outbreak over",
