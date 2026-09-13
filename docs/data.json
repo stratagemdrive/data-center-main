@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T14:37:37.154336Z",
+  "last_updated": "2026-09-13T02:03:46.590807Z",
   "world_org_meetings": [
     {
       "title": "At BRICS Summit, China and India Vie for Influence",
@@ -10,12 +10,12 @@
       "source_url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html"
     },
     {
-      "title": "Iranian president, Abu Dhabi crown prince meet on sidelines of Brics summit in India",
+      "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Iranian president, Abu Dhabi crown prince meet on sidelines of Brics summit in India",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367318/iranian-president-abu-dhabi-crown-prince-meet-sidelines-brics-summit-india"
+      "description": "Iran, UAE hold first talks at BRICS summit since conflict began",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss"
     },
     {
       "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
@@ -34,24 +34,24 @@
       "source_url": "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance"
     },
     {
-      "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
+      "title": "Russia's Putin arrives in India as BRICS leaders begin talks",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "India’s Modi calls for empowerment of Global South at BRICS Summit",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss"
+      "description": "Russia's Putin arrives in India as BRICS leaders begin talks",
+      "source_url": "https://www.france24.com/en/video/20260912-russia-s-putin-arrives-in-india-as-brics-leaders-begin-talks"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "'Have opportunity to discuss cooperation': PM Modi welcomes Xi; bilateral talks begin",
+      "title": "BRICS: What is in the joint statement from the 11 members?",
       "participants": [
-        "Modi"
+        "BRICS What"
       ],
       "date": "",
       "location": "",
-      "description": "'Have opportunity to discuss cooperation': PM Modi welcomes Xi; bilateral talks begin",
-      "source_url": "https://timesofindia.indiatimes.com/india/pm-modi-xi-jinping-hold-bilateral-meeting-after-brics-declaration-in-new-delhi/articleshow/134132494.cms"
+      "description": "BRICS: What is in the joint statement from the 11 members?",
+      "source_url": "https://www.france24.com/en/video/20260912-brics-what-is-in-the-joint-statement-from-the-11-members"
     },
     {
       "title": "Lebanon’s president makes a rare visit to southern city as fears of Israeli attacks grow",
@@ -63,28 +63,9 @@
       "location": "",
       "description": "Lebanon’s president makes a rare visit to southern city as fears of Israeli attacks grow",
       "source_url": "https://www.independent.co.uk/news/world/americas/lebanon-israeli-hezbollah-beirut-iran-b3049024.html"
-    },
-    {
-      "title": "Russian President Vladimir Putin begins 3-day India visit",
-      "participants": [
-        "Russian President Vladimir Putin",
-        "India"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Russian President Vladimir Putin begins 3-day India visit",
-      "source_url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece"
     }
   ],
   "elections": [
-    {
-      "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
-      "country": "Sweden",
-      "election_type": "National",
-      "date": "",
-      "description": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
-      "source_url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss"
-    },
     {
       "title": "Sweden’s extremely close election could see far right enter government",
       "country": "Sweden",
@@ -110,33 +91,23 @@
       "source_url": "https://www.axios.com/2026/09/11/republicans-trump-election-lawsuits"
     },
     {
-      "title": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
+      "title": "AI is making it harder to trust your own eyes this election",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Voters Are Turning to AI for Election Help. The Answers Aren't Always Right",
-      "source_url": "https://time.com/article/2026/09/10/election-voting-gemini-chatgpt-claude"
+      "description": "AI is making it harder to trust your own eyes this election",
+      "source_url": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections"
+    },
+    {
+      "title": "Your primer on Sweden’s upcoming parliamentary elections",
+      "country": "Sweden",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Your primer on Sweden’s upcoming parliamentary elections",
+      "source_url": "https://www.atlanticcouncil.org/content-series/eye-on-europes-elections/your-primer-on-swedens-upcoming-parliamentary-elections"
     }
   ],
   "global_events": [
-    {
-      "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-      "summary": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "The Guardian World",
-        "Bloomberg",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
-    },
     {
       "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
       "summary": "BRICS leaders meet in India as wars and US tensions test the bloc",
@@ -153,42 +124,61 @@
       "source_url": "https://www.france24.com/en/video/20260912-brics-leaders-meet-in-india-as-wars-and-us-tensions-test-the-bloc"
     },
     {
-      "title": "North Korea launches ballistic missiles toward sea after military drill it sees as threat",
-      "summary": "North Korea launches ballistic missiles toward sea after military drill it sees as threat",
+      "title": "Putin warns Europe against sending troops to Ukraine",
+      "summary": "Putin warns Europe against sending troops to Ukraine",
       "outlets_covering": [
         "ABC News Intl",
-        "The Hindu Intl",
-        "The Hill"
+        "CBS News World",
+        "The Independent",
+        "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "East / Southeast Asia",
+      "coverage_count": 6,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/north-korea-launches-ballistic-missiles-toward-sea-after-military-drill-it-sees-as-threat/article71458990.ece"
+      "source_url": "https://www.cbsnews.com/news/putin-warns-europe-sending-troops-ukraine"
     },
     {
-      "title": "Iran-backed Houthis tighten grip on key oil shipping lane",
-      "summary": "Iran-backed Houthis tighten grip on key oil shipping lane",
+      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "summary": "Afghan woman deported from US in first use of 'alien terrorist' court",
       "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
-        "France24"
+        "BBC World",
+        "Al Jazeera",
+        "Axios"
       ],
       "coverage_count": 3,
-      "region": "Middle East",
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea"
+      "source_url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
-      "summary": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+      "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
+      "summary": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
       "outlets_covering": [
-        "NBC News World",
-        "Al Jazeera"
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "ABC News Intl",
+        "The Guardian World",
+        "Al Jazeera",
+        "The Hindu Intl"
       ],
-      "coverage_count": 2,
+      "coverage_count": 7,
       "region": "Middle East",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss"
+      "source_url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
+    },
+    {
+      "title": "CDC declares cyclospora outbreak over",
+      "summary": "CDC declares cyclospora outbreak over",
+      "outlets_covering": [
+        "Time",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Health",
+      "source_url": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over"
     }
   ]
 }
