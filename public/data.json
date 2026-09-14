@@ -1,48 +1,73 @@
 {
-  "last_updated": "2026-09-13T15:17:22.863074Z",
+  "last_updated": "2026-09-14T02:22:13.253641Z",
   "world_org_meetings": [
     {
-      "title": "BRICS summit: What came out of the New Delhi meeting",
-      "organization": "BRICS",
+      "title": "US hosts G20 energy talks in Texas as Iran war disrupts global fuel markets",
+      "organization": "G20",
       "date": "",
       "location": "",
-      "description": "BRICS summit: What came out of the New Delhi meeting",
-      "source_url": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting"
+      "description": "US hosts G20 energy talks in Texas as Iran war disrupts global fuel markets",
+      "source_url": "https://www.france24.com/en/americas/20260914-us-g20-energy-talks-iran-war"
     },
     {
-      "title": "At BRICS Summit, China and India Vie for Influence",
+      "title": "Xi pitches AI Vision at BRICS summit as China duels with U.S.",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "At BRICS Summit, China and India Vie for Influence",
-      "source_url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html"
+      "description": "Xi pitches AI Vision at BRICS summit as China duels with U.S.",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/14/world/politics/xi-ai-brics-summit-china-us"
     },
     {
-      "title": "From PM Modi-Putin car ride to Pezeshkian hug: 5 unmissable moments of Brics Summit 2026",
+      "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "From PM Modi-Putin car ride to Pezeshkian hug: 5 unmissable moments of Brics Summit 2026",
-      "source_url": "https://timesofindia.indiatimes.com/india/5-unmissable-moments-of-brics-2026-summit/articleshow/134201432.cms"
+      "description": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+      "source_url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways"
     },
     {
-      "title": "Modi-Xi's Ukraine offer to Putin, strong message to West &amp; new Brics playbook: Key outcomes of summit",
+      "title": "Brics summit ends with Xi’s AI offer, Modi’s warning on critical minerals as weapons",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Modi-Xi's Ukraine offer to Putin, strong message to West &amp; new Brics playbook: Key outcomes of summit",
-      "source_url": "https://timesofindia.indiatimes.com/india/modi-xis-ukraine-offer-to-putin-strong-message-to-west-new-brics-playbook-key-outcomes-of-summit/articleshow/134197086.cms"
+      "description": "Brics summit ends with Xi’s AI offer, Modi’s warning on critical minerals as weapons",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367341/chinese-leader-pledges-help-brics-nations-ai-and-smart-manufacturing"
     },
     {
-      "title": "BRICS summit 2026: What are the key takeaways?",
+      "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "BRICS summit 2026: What are the key takeaways?",
-      "source_url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss"
+      "description": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+      "source_url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’",
+      "participants": [
+        "Talks",
+        "Iran",
+        "Gulf",
+        "Oman"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’",
+      "source_url": "https://www.thehindu.com/news/international/talks-between-iran-and-gulf-countries-in-oman-postponed-in-the-interests-of-consensus/article71464526.ece"
+    },
+    {
+      "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
+      "participants": [
+        "Want",
+        "India",
+        "Bangladesh"
+      ],
+      "date": "",
+      "location": "",
+      "description": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
+      "source_url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece"
+    },
     {
       "title": "Trump team rants at reporter for pointing out Natalie Harp with president on Ireland visit",
       "participants": [
@@ -71,12 +96,20 @@
   ],
   "elections": [
     {
-      "title": "Sweden general election: close race as far right eyes role in government – Europe live",
-      "country": "Sweden",
-      "election_type": "General",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "country": "",
+      "election_type": "National",
       "date": "",
-      "description": "Sweden general election: close race as far right eyes role in government – Europe live",
-      "source_url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
+      "description": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "source_url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Swedes vote in election that could see far-right in government",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Swedes vote in election that could see far-right in government",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss"
     },
     {
       "title": "Sweden votes in tight election that could see far-right party enter government",
@@ -87,47 +120,23 @@
       "source_url": "https://news.sky.com/story/sweden-votes-in-tight-election-that-could-see-far-right-party-enter-government-13585281"
     },
     {
-      "title": "Sweden's election could mark major milestone for Europe's populist right",
-      "country": "Sweden",
-      "election_type": "National",
+      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
+      "country": "Philippines",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "Sweden's election could mark major milestone for Europe's populist right",
-      "source_url": "https://www.cbsnews.com/news/sweden-democrats-election-populist-right-europe"
+      "description": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
+      "source_url": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss"
     },
     {
-      "title": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
+      "title": "Swedish election in dead heat as voters question liberal traditions",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins"
-    },
-    {
-      "title": "Sweden votes as migration, crime and economy dominate high-stakes election",
-      "country": "Sweden",
-      "election_type": "National",
-      "date": "",
-      "description": "Sweden votes as migration, crime and economy dominate high-stakes election",
-      "source_url": "https://www.foxnews.com/world/sweden-votes-migration-crime-economy-dominate-high-stakes-election"
+      "description": "Swedish election in dead heat as voters question liberal traditions",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/14/world/politics/swedish-election-liberal-traditions"
     }
   ],
   "global_events": [
-    {
-      "title": "Sweden general election: close race as far right eyes role in government – Europe live",
-      "summary": "Sweden general election: close race as far right eyes role in government – Europe live",
-      "outlets_covering": [
-        "CBS News World",
-        "Sky News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 7,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
-    },
     {
       "title": "Nato jet scrambled to Lithuania ‘drone threat’",
       "summary": "Nato jet scrambled to Lithuania ‘drone threat’",
@@ -141,30 +150,17 @@
       "source_url": "https://www.independent.co.uk/news/world/europe/nato-jets-lithuania-airport-drone-birds-vilnius-b3049354.html"
     },
     {
-      "title": "Iranian ship attacked near Strait of Hormuz: Iranian state media",
-      "summary": "Iranian ship attacked near Strait of Hormuz: Iranian state media",
+      "title": "Putin warns Europe against sending troops to Ukraine",
+      "summary": "Putin warns Europe against sending troops to Ukraine",
       "outlets_covering": [
-        "CBC World",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://thehill.com/policy/international/6086615-iranian-cargo-ship-struck-hormuz"
-    },
-    {
-      "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-      "summary": "BRICS leaders meet in India as wars and US tensions test the bloc",
-      "outlets_covering": [
-        "NPR World",
         "ABC News Intl",
+        "CBS News World",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "South Asia",
+      "coverage_count": 4,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india"
+      "source_url": "https://www.cbsnews.com/news/putin-warns-europe-sending-troops-ukraine"
     },
     {
       "title": "CDC declares cyclospora outbreak over",
@@ -178,6 +174,32 @@
       "region": "Global",
       "category": "Health",
       "source_url": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over"
+    },
+    {
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "summary": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World"
+      ],
+      "coverage_count": 2,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "summary": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "outlets_covering": [
+        "NPR World",
+        "Bloomberg",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss"
     }
   ]
 }
