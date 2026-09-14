@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-09-14T02:22:13.253641Z",
+  "last_updated": "2026-09-14T17:14:12.177944Z",
   "world_org_meetings": [
     {
-      "title": "US hosts G20 energy talks in Texas as Iran war disrupts global fuel markets",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "US hosts G20 energy talks in Texas as Iran war disrupts global fuel markets",
-      "source_url": "https://www.france24.com/en/americas/20260914-us-g20-energy-talks-iran-war"
-    },
-    {
-      "title": "Xi pitches AI Vision at BRICS summit as China duels with U.S.",
+      "title": "Why the BRICS summit was a major diplomatic win for India",
       "organization": "BRICS",
       "date": "",
       "location": "",
-      "description": "Xi pitches AI Vision at BRICS summit as China duels with U.S.",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/14/world/politics/xi-ai-brics-summit-china-us"
+      "description": "Why the BRICS summit was a major diplomatic win for India",
+      "source_url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece"
     },
     {
       "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
@@ -40,21 +32,29 @@
       "location": "",
       "description": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
       "source_url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations"
+    },
+    {
+      "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
+      "source_url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’",
+      "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
       "participants": [
         "Talks",
         "Iran",
         "Gulf",
-        "Oman"
+        "Strait"
       ],
       "date": "",
       "location": "",
-      "description": "Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’",
-      "source_url": "https://www.thehindu.com/news/international/talks-between-iran-and-gulf-countries-in-oman-postponed-in-the-interests-of-consensus/article71464526.ece"
+      "description": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
+      "source_url": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed"
     },
     {
       "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
@@ -67,117 +67,54 @@
       "location": "",
       "description": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
       "source_url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece"
-    },
-    {
-      "title": "Trump team rants at reporter for pointing out Natalie Harp with president on Ireland visit",
-      "participants": [
-        "Trump",
-        "Natalie Harp",
-        "Ireland"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Trump team rants at reporter for pointing out Natalie Harp with president on Ireland visit",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/white-house-natalie-harp-reporter-b3049411.html"
-    },
-    {
-      "title": "U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian",
-      "participants": [
-        "U.P",
-        "Shia",
-        "India-Iran",
-        "President Pezeshkian"
-      ],
-      "date": "",
-      "location": "",
-      "description": "U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian",
-      "source_url": "https://www.thehindu.com/news/national/up-top-shia-leader-pushes-for-stronger-india-iran-ties-in-meeting-with-president-pezeshkian/article71460722.ece"
     }
   ],
   "elections": [
     {
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "source_url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Swedes vote in election that could see far-right in government",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Swedes vote in election that could see far-right in government",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss"
-    },
-    {
-      "title": "Sweden votes in tight election that could see far-right party enter government",
+      "title": "Election in Sweden Is Too Close to Call",
       "country": "Sweden",
       "election_type": "National",
       "date": "",
-      "description": "Sweden votes in tight election that could see far-right party enter government",
-      "source_url": "https://news.sky.com/story/sweden-votes-in-tight-election-that-could-see-far-right-party-enter-government-13585281"
+      "description": "Election in Sweden Is Too Close to Call",
+      "source_url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
     },
     {
-      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
-      "country": "Philippines",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
-      "source_url": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss"
-    },
-    {
-      "title": "Swedish election in dead heat as voters question liberal traditions",
+      "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Swedish election in dead heat as voters question liberal traditions",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/14/world/politics/swedish-election-liberal-traditions"
+      "description": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
+      "source_url": "https://abcnews.com/International/wireStory/swedish-voters-polls-choose-new-parliament-hard-bids-136400161"
+    },
+    {
+      "title": "Sweden faces political uncertainty as election deals far-right a blow",
+      "country": "Sweden",
+      "election_type": "National",
+      "date": "",
+      "description": "Sweden faces political uncertainty as election deals far-right a blow",
+      "source_url": "https://www.cbsnews.com/news/sweden-election-results-far-right-down-left-up"
+    },
+    {
+      "title": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
+      "source_url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates"
+    },
+    {
+      "title": "French 2027 presidential elections: Why Gen Z has mobilised for Mélenchon",
+      "country": "",
+      "election_type": "Presidential",
+      "date": "",
+      "description": "French 2027 presidential elections: Why Gen Z has mobilised for Mélenchon",
+      "source_url": "https://www.france24.com/en/video/20260914-french-2027-presidential-elections-why-gen-z-has-mobilised-for-m%C3%A9lenchon"
     }
   ],
   "global_events": [
     {
-      "title": "Nato jet scrambled to Lithuania ‘drone threat’",
-      "summary": "Nato jet scrambled to Lithuania ‘drone threat’",
-      "outlets_covering": [
-        "Sky News World",
-        "The Independent"
-      ],
-      "coverage_count": 2,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/nato-jets-lithuania-airport-drone-birds-vilnius-b3049354.html"
-    },
-    {
-      "title": "Putin warns Europe against sending troops to Ukraine",
-      "summary": "Putin warns Europe against sending troops to Ukraine",
-      "outlets_covering": [
-        "ABC News Intl",
-        "CBS News World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/news/putin-warns-europe-sending-troops-ukraine"
-    },
-    {
-      "title": "CDC declares cyclospora outbreak over",
-      "summary": "CDC declares cyclospora outbreak over",
-      "outlets_covering": [
-        "Time",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Health",
-      "source_url": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over"
-    },
-    {
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "summary": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "title": "Election in Sweden Is Too Close to Call",
+      "summary": "Election in Sweden Is Too Close to Call",
       "outlets_covering": [
         "BBC World",
         "NYT World"
@@ -185,21 +122,60 @@
       "coverage_count": 2,
       "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
     },
     {
-      "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
-      "summary": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+      "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
+      "summary": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
       "outlets_covering": [
-        "NPR World",
-        "Bloomberg",
-        "Al Jazeera",
+        "CBC World",
+        "ABC News Intl",
         "The Hindu Intl"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://abcnews.com/International/wireStory/swedish-voters-polls-choose-new-parliament-hard-bids-136400161"
+    },
+    {
+      "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, says attacks causing shortage",
+      "summary": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, says attacks causing shortage",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Europe / Russia",
       "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss"
+      "source_url": "https://www.thehindu.com/news/international/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-fuel-says-attacks-causing-shortage/article71464691.ece"
+    },
+    {
+      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
+      "summary": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NYT World",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train"
+    },
+    {
+      "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – Europe live",
+      "summary": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – Europe live",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Hill"
+      ],
+      "coverage_count": 2,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
     }
   ]
 }
