@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T17:14:12.177944Z",
+  "last_updated": "2026-09-15T02:27:08.961267Z",
   "world_org_meetings": [
     {
       "title": "Why the BRICS summit was a major diplomatic win for India",
@@ -79,103 +79,108 @@
       "source_url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
     },
     {
-      "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
+      "title": "Swedish election ends in near dead heat; preliminary results give opposition 1-seat majority",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
-      "source_url": "https://abcnews.com/International/wireStory/swedish-voters-polls-choose-new-parliament-hard-bids-136400161"
+      "description": "Swedish election ends in near dead heat; preliminary results give opposition 1-seat majority",
+      "source_url": "https://www.thehindu.com/news/international/swedish-election-ends-in-near-dead-heat-preliminary-results-give-opposition-1-seat-majority/article71465312.ece"
     },
     {
-      "title": "Sweden faces political uncertainty as election deals far-right a blow",
+      "title": "Sweden election is too close to call as far right loses ground",
       "country": "Sweden",
       "election_type": "National",
       "date": "",
-      "description": "Sweden faces political uncertainty as election deals far-right a blow",
-      "source_url": "https://www.cbsnews.com/news/sweden-election-results-far-right-down-left-up"
+      "description": "Sweden election is too close to call as far right loses ground",
+      "source_url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss"
     },
     {
-      "title": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
+      "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
+      "description": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
       "source_url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates"
     },
     {
-      "title": "French 2027 presidential elections: Why Gen Z has mobilised for Mélenchon",
+      "title": "The 2020 election deniers running in swing states",
       "country": "",
-      "election_type": "Presidential",
+      "election_type": "National",
       "date": "",
-      "description": "French 2027 presidential elections: Why Gen Z has mobilised for Mélenchon",
-      "source_url": "https://www.france24.com/en/video/20260914-french-2027-presidential-elections-why-gen-z-has-mobilised-for-m%C3%A9lenchon"
+      "description": "The 2020 election deniers running in swing states",
+      "source_url": "https://www.vox.com/podcasts/502662/election-deniers-governors-swing-states"
     }
   ],
   "global_events": [
+    {
+      "title": "Gavin Newsom reveals he won’t run for president in 2028 if a certain other Democrat does",
+      "summary": "Gavin Newsom reveals he won’t run for president in 2028 if a certain other Democrat does",
+      "outlets_covering": [
+        "The Guardian World",
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/gavin-newsom-2028-president-kamala-harris-b3050194.html"
+    },
+    {
+      "title": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms",
+      "summary": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms",
+      "outlets_covering": [
+        "CBC World",
+        "The Independent",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.cbc.ca/news/world/donald-trump-jr-wife-wedding-russian-oligarch-9.7343617?cmp=rss"
+    },
+    {
+      "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+      "summary": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+      "outlets_covering": [
+        "NPR World",
+        "NYT World",
+        "The Guardian World",
+        "Al Jazeera",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss"
+    },
+    {
+      "title": "Multiple vehicle road crash in South Africa kills 21",
+      "summary": "Multiple vehicle road crash in South Africa kills 21",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "Al Jazeera",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Africa",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss"
+    },
     {
       "title": "Election in Sweden Is Too Close to Call",
       "summary": "Election in Sweden Is Too Close to Call",
       "outlets_covering": [
         "BBC World",
-        "NYT World"
+        "NYT World",
+        "Al Jazeera"
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "region": "Global",
       "category": "Politics",
       "source_url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
-    },
-    {
-      "title": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
-      "summary": "Swedish election ends in tight finale. Preliminary results give opposition a 3-seat majority",
-      "outlets_covering": [
-        "CBC World",
-        "ABC News Intl",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://abcnews.com/International/wireStory/swedish-voters-polls-choose-new-parliament-hard-bids-136400161"
-    },
-    {
-      "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, says attacks causing shortage",
-      "summary": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, says attacks causing shortage",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-fuel-says-attacks-causing-shortage/article71464691.ece"
-    },
-    {
-      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-      "summary": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "NYT World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train"
-    },
-    {
-      "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – Europe live",
-      "summary": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – Europe live",
-      "outlets_covering": [
-        "The Guardian World",
-        "The Hill"
-      ],
-      "coverage_count": 2,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
     }
   ]
 }
