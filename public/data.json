@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-09-15T02:27:08.961267Z",
+  "last_updated": "2026-09-15T15:53:49.322796Z",
   "world_org_meetings": [
     {
-      "title": "Why the BRICS summit was a major diplomatic win for India",
-      "organization": "BRICS",
+      "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
+      "organization": "NATO",
       "date": "",
       "location": "",
-      "description": "Why the BRICS summit was a major diplomatic win for India",
-      "source_url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece"
-    },
-    {
-      "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
-      "source_url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways"
+      "description": "Jaguar Land Rover in talks to sell Defender to Nato countries",
+      "source_url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr"
     },
     {
       "title": "Brics summit ends with Xi’s AI offer, Modi’s warning on critical minerals as weapons",
@@ -40,36 +32,42 @@
       "location": "",
       "description": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
       "source_url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions"
-    }
-  ],
-  "diplomatic_visits": [
-    {
-      "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
-      "participants": [
-        "Talks",
-        "Iran",
-        "Gulf",
-        "Strait"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
-      "source_url": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed"
     },
     {
-      "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
-      "participants": [
-        "Want",
-        "India",
-        "Bangladesh"
-      ],
+      "title": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
+      "organization": "IMF",
       "date": "",
       "location": "",
-      "description": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
-      "source_url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece"
+      "description": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
+      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/the-five-issues-to-watch-at-next-months-imf-world-bank-annual-meetings"
     }
   ],
+  "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Brazil’s Election Won’t Fix Its Biggest Problems",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Brazil’s Election Won’t Fix Its Biggest Problems",
+      "source_url": "https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt"
+    },
+    {
+      "title": "The 2020 election deniers running in swing states",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "The 2020 election deniers running in swing states",
+      "source_url": "https://www.vox.com/podcasts/502662/election-deniers-governors-swing-states"
+    },
+    {
+      "title": "Sweden faces political uncertainty as election deals far-right a blow",
+      "country": "Sweden",
+      "election_type": "National",
+      "date": "",
+      "description": "Sweden faces political uncertainty as election deals far-right a blow",
+      "source_url": "https://www.cbsnews.com/news/sweden-election-results-far-right-down-left-up"
+    },
     {
       "title": "Election in Sweden Is Too Close to Call",
       "country": "Sweden",
@@ -79,108 +77,89 @@
       "source_url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
     },
     {
-      "title": "Swedish election ends in near dead heat; preliminary results give opposition 1-seat majority",
+      "title": "Early results in Swedish election show one-seat advantage for left bloc",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Swedish election ends in near dead heat; preliminary results give opposition 1-seat majority",
-      "source_url": "https://www.thehindu.com/news/international/swedish-election-ends-in-near-dead-heat-preliminary-results-give-opposition-1-seat-majority/article71465312.ece"
-    },
-    {
-      "title": "Sweden election is too close to call as far right loses ground",
-      "country": "Sweden",
-      "election_type": "National",
-      "date": "",
-      "description": "Sweden election is too close to call as far right loses ground",
-      "source_url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss"
-    },
-    {
-      "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
-      "source_url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates"
-    },
-    {
-      "title": "The 2020 election deniers running in swing states",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "The 2020 election deniers running in swing states",
-      "source_url": "https://www.vox.com/podcasts/502662/election-deniers-governors-swing-states"
+      "description": "Early results in Swedish election show one-seat advantage for left bloc",
+      "source_url": "https://news.sky.com/story/sweden-election-preliminary-results-show-one-seat-advantage-for-left-wing-bloc-13585683"
     }
   ],
   "global_events": [
     {
-      "title": "Gavin Newsom reveals he won’t run for president in 2028 if a certain other Democrat does",
-      "summary": "Gavin Newsom reveals he won’t run for president in 2028 if a certain other Democrat does",
+      "title": "What are ‘space weapons’, which US says it has deployed into orbit?",
+      "summary": "What are ‘space weapons’, which US says it has deployed into orbit?",
       "outlets_covering": [
         "The Guardian World",
-        "The Independent",
-        "The Hill"
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/gavin-newsom-2028-president-kamala-harris-b3050194.html"
+      "category": "Technology",
+      "source_url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss"
     },
     {
-      "title": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms",
-      "summary": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms",
+      "title": "Militias in Iraq remain defiant as the last US troops pack up to leave",
+      "summary": "Militias in Iraq remain defiant as the last US troops pack up to leave",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Independent",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/middle-east/iraq-us-troops-withdrawal-militia-weapons-b3050557.html"
+    },
+    {
+      "title": "NATO jets shoot down drone in Lithuanian airspace as Russia grows 'increasingly reckless,' Rutte says",
+      "summary": "NATO jets shoot down drone in Lithuanian airspace as Russia grows 'increasingly reckless,' Rutte says",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "Fox News World",
+        "The Guardian World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 5,
+      "region": "Europe / Russia",
+      "category": "Technology",
+      "source_url": "https://www.foxnews.com/world/nato-jets-shoot-down-drone-lithuanian-airspace-russia-grows-increasingly-reckless-rutte-says"
+    },
+    {
+      "title": "Who is Umar Kremlev? The Russian oligarch who helped bankroll Donald Trump Jr’s wedding",
+      "summary": "Who is Umar Kremlev? The Russian oligarch who helped bankroll Donald Trump Jr’s wedding",
       "outlets_covering": [
         "CBC World",
+        "The Guardian World",
         "The Independent",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "region": "Europe / Russia",
       "category": "Politics",
-      "source_url": "https://www.cbc.ca/news/world/donald-trump-jr-wife-wedding-russian-oligarch-9.7343617?cmp=rss"
+      "source_url": "https://www.independent.co.uk/news/world/europe/umar-kremlev-donald-trump-jr-wedding-russian-b3050331.html"
     },
     {
-      "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-      "summary": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-      "outlets_covering": [
-        "NPR World",
-        "NYT World",
-        "The Guardian World",
-        "Al Jazeera",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss"
-    },
-    {
-      "title": "Multiple vehicle road crash in South Africa kills 21",
-      "summary": "Multiple vehicle road crash in South Africa kills 21",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Independent",
-        "Al Jazeera",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 5,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss"
-    },
-    {
-      "title": "Election in Sweden Is Too Close to Call",
-      "summary": "Election in Sweden Is Too Close to Call",
+      "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+      "summary": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
       "outlets_covering": [
         "BBC World",
+        "NPR World",
+        "CBC World",
+        "Fox News World",
         "NYT World",
-        "Al Jazeera"
+        "The Guardian World",
+        "France24",
+        "The Hindu Intl"
       ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
+      "coverage_count": 9,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
     }
   ]
 }
