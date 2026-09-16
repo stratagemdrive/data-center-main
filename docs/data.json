@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-16T02:20:42.518364Z",
+  "last_updated": "2026-09-16T15:45:31.186763Z",
   "world_org_meetings": [
+    {
+      "title": "The world comes to New York: What’s at stake at UN General Assembly high-level week",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "The world comes to New York: What’s at stake at UN General Assembly high-level week",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168344"
+    },
     {
       "title": "Why I am grateful for Asean’s endless meetings",
       "organization": "ASEAN",
@@ -8,22 +16,6 @@
       "location": "",
       "description": "Why I am grateful for Asean’s endless meetings",
       "source_url": "https://www.scmp.com/opinion/asia-opinion/article/3367076/why-i-am-grateful-aseans-endless-meetings"
-    },
-    {
-      "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-      "organization": "NATO",
-      "date": "",
-      "location": "",
-      "description": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-      "source_url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr"
-    },
-    {
-      "title": "Brics summit ends with Xi’s AI offer, Modi’s warning on critical minerals as weapons",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Brics summit ends with Xi’s AI offer, Modi’s warning on critical minerals as weapons",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367341/chinese-leader-pledges-help-brics-nations-ai-and-smart-manufacturing"
     },
     {
       "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
@@ -40,125 +32,144 @@
       "location": "",
       "description": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
       "source_url": "https://www.atlanticcouncil.org/blogs/econographics/the-five-issues-to-watch-at-next-months-imf-world-bank-annual-meetings"
+    },
+    {
+      "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
+      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-washington-post-on-bessent-bringing-iran-issue-to-g20-summit"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Mapped: Sweden’s right and left blocs neck-and-neck in critical general election",
-      "country": "Sweden",
-      "election_type": "General",
-      "date": "",
-      "description": "Mapped: Sweden’s right and left blocs neck-and-neck in critical general election",
-      "source_url": "https://www.independent.co.uk/news/world/europe/sweden-general-election-2026-mapped-b3049774.html"
-    },
-    {
-      "title": "Brazil’s Election Won’t Fix Its Biggest Problems",
-      "country": "Brazil",
+      "title": "House votes for a third time to end Iran war in symbolic move as conflict drags on – US politics live",
+      "country": "Iran",
       "election_type": "National",
       "date": "",
-      "description": "Brazil’s Election Won’t Fix Its Biggest Problems",
-      "source_url": "https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt"
+      "description": "House votes for a third time to end Iran war in symbolic move as conflict drags on – US politics live",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates"
     },
     {
-      "title": "Sweden faces political uncertainty as election deals far-right a blow",
-      "country": "Sweden",
-      "election_type": "National",
-      "date": "",
-      "description": "Sweden faces political uncertainty as election deals far-right a blow",
-      "source_url": "https://www.cbsnews.com/news/sweden-election-results-far-right-down-left-up"
-    },
-    {
-      "title": "Election in Sweden Is Too Close to Call",
-      "country": "Sweden",
-      "election_type": "National",
-      "date": "",
-      "description": "Election in Sweden Is Too Close to Call",
-      "source_url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
-    },
-    {
-      "title": "Early results in Swedish election show one-seat advantage for left bloc",
+      "title": "Why are election officials in the US preparing for chaos before midterms?",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Early results in Swedish election show one-seat advantage for left bloc",
-      "source_url": "https://news.sky.com/story/sweden-election-preliminary-results-show-one-seat-advantage-for-left-wing-bloc-13585683"
+      "description": "Why are election officials in the US preparing for chaos before midterms?",
+      "source_url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss"
+    },
+    {
+      "title": "Former Muslim rebels lead results in first election held in southern Philippine region",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Former Muslim rebels lead results in first election held in southern Philippine region",
+      "source_url": "https://abcnews.com/International/wireStory/former-muslim-rebels-lead-results-election-held-southern-136485281"
+    },
+    {
+      "title": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "",
+      "description": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.",
+      "source_url": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html"
+    },
+    {
+      "title": "In Sweden, many breathe sigh of relief as far right suffers election losses",
+      "country": "Sweden",
+      "election_type": "National",
+      "date": "",
+      "description": "In Sweden, many breathe sigh of relief as far right suffers election losses",
+      "source_url": "https://www.aljazeera.com/features/2026/9/16/in-sweden-many-breathe-sigh-of-relief-as-far-right-suffers-election-losses?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Air Force Secretary confirms US deployed weapons in space",
-      "summary": "Air Force Secretary confirms US deployed weapons in space",
+      "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
+      "summary": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
       "outlets_covering": [
-        "BBC World",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Technology",
-      "source_url": "https://thehill.com/homenews/6091851-air-force-secretary-weapons-space-newsletter"
-    },
-    {
-      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
-      "summary": "NATO jet shoots down suspected Russian drone over Lithuania",
-      "outlets_covering": [
-        "BBC World",
         "NPR World",
         "CBC World",
+        "ABC News Intl",
+        "Sky News World",
+        "NYT World",
         "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "The Independent",
+        "DW World",
+        "France24"
       ],
-      "coverage_count": 7,
-      "region": "Europe / Russia",
+      "coverage_count": 10,
+      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+      "source_url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
     },
     {
-      "title": "Militias in Iraq remain defiant as the last US troops pack up to leave",
-      "summary": "Militias in Iraq remain defiant as the last US troops pack up to leave",
+      "title": "Saudi Arabia accuses Houthis of attacking Mecca, warns holy city is a ‘red line’",
+      "summary": "Saudi Arabia accuses Houthis of attacking Mecca, warns holy city is a ‘red line’",
       "outlets_covering": [
-        "ABC News Intl",
+        "NPR World",
+        "NBC News World",
+        "The Guardian World",
         "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 3,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/middle-east/iraq-us-troops-withdrawal-militia-weapons-b3050557.html"
+      "source_url": "https://www.nbcnews.com/world/middle-east/saudi-arabia-mecca-houthis-drone-iran-war-trump-oil-gas-prices-rcna598075"
     },
     {
-      "title": "NATO jets shoot down drone in Lithuanian airspace as Russia grows 'increasingly reckless,' Rutte says",
-      "summary": "NATO jets shoot down drone in Lithuanian airspace as Russia grows 'increasingly reckless,' Rutte says",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "Fox News World",
+        "CBC World",
+        "CBS News World",
+        "Sky News World",
         "The Guardian World",
-        "The Hindu Intl"
+        "Al Jazeera"
       ],
-      "coverage_count": 5,
-      "region": "Europe / Russia",
-      "category": "Technology",
-      "source_url": "https://www.foxnews.com/world/nato-jets-shoot-down-drone-lithuanian-airspace-russia-grows-increasingly-reckless-rutte-says"
+      "coverage_count": 6,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "War on Iran cost U.S. more than $38 billion: Congressional Budget Office",
-      "summary": "War on Iran cost U.S. more than $38 billion: Congressional Budget Office",
+      "title": "EU opens door for Canada to become first 'associate member'",
+      "summary": "EU opens door for Canada to become first 'associate member'",
       "outlets_covering": [
-        "CBS News World",
-        "Time",
-        "Al Jazeera",
+        "BBC World",
+        "CBC World",
+        "Sky News World",
+        "The Independent",
+        "France24",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 5,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.thehindu.com/news/international/war-on-iran-cost-us-more-than-38b-congressional-budget-office/article71469949.ece"
+      "coverage_count": 7,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "http://www.france24.com/en/video/20260916-eu-opens-door-for-canada-to-become-first-associate-member"
+    },
+    {
+      "title": "EU chief wants Canada as bloc’s first associate member",
+      "summary": "EU chief wants Canada as bloc’s first associate member",
+      "outlets_covering": [
+        "BBC World",
+        "CBC World",
+        "Sky News World",
+        "The Independent",
+        "Al Jazeera",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 8,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://thehill.com/policy/international/6092548-ursula-von-der-leyen-mark-carney-european-union-bloc-canada"
     }
   ]
 }
