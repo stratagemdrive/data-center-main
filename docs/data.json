@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-15T15:53:49.322796Z",
+  "last_updated": "2026-09-16T02:20:42.518364Z",
   "world_org_meetings": [
+    {
+      "title": "Why I am grateful for Asean’s endless meetings",
+      "organization": "ASEAN",
+      "date": "",
+      "location": "",
+      "description": "Why I am grateful for Asean’s endless meetings",
+      "source_url": "https://www.scmp.com/opinion/asia-opinion/article/3367076/why-i-am-grateful-aseans-endless-meetings"
+    },
     {
       "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
       "organization": "NATO",
@@ -16,14 +24,6 @@
       "location": "",
       "description": "Brics summit ends with Xi’s AI offer, Modi’s warning on critical minerals as weapons",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367341/chinese-leader-pledges-help-brics-nations-ai-and-smart-manufacturing"
-    },
-    {
-      "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
-      "source_url": "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations"
     },
     {
       "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
@@ -45,20 +45,20 @@
   "diplomatic_visits": [],
   "elections": [
     {
+      "title": "Mapped: Sweden’s right and left blocs neck-and-neck in critical general election",
+      "country": "Sweden",
+      "election_type": "General",
+      "date": "",
+      "description": "Mapped: Sweden’s right and left blocs neck-and-neck in critical general election",
+      "source_url": "https://www.independent.co.uk/news/world/europe/sweden-general-election-2026-mapped-b3049774.html"
+    },
+    {
       "title": "Brazil’s Election Won’t Fix Its Biggest Problems",
       "country": "Brazil",
       "election_type": "National",
       "date": "",
       "description": "Brazil’s Election Won’t Fix Its Biggest Problems",
       "source_url": "https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt"
-    },
-    {
-      "title": "The 2020 election deniers running in swing states",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "The 2020 election deniers running in swing states",
-      "source_url": "https://www.vox.com/podcasts/502662/election-deniers-governors-swing-states"
     },
     {
       "title": "Sweden faces political uncertainty as election deals far-right a blow",
@@ -87,18 +87,35 @@
   ],
   "global_events": [
     {
-      "title": "What are ‘space weapons’, which US says it has deployed into orbit?",
-      "summary": "What are ‘space weapons’, which US says it has deployed into orbit?",
+      "title": "Air Force Secretary confirms US deployed weapons in space",
+      "summary": "Air Force Secretary confirms US deployed weapons in space",
       "outlets_covering": [
+        "BBC World",
+        "France24",
+        "The Hindu Intl",
+        "The Hill"
+      ],
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Technology",
+      "source_url": "https://thehill.com/homenews/6091851-air-force-secretary-weapons-space-newsletter"
+    },
+    {
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "summary": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
         "The Guardian World",
         "Al Jazeera",
         "France24",
         "The Hindu Intl"
       ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Technology",
-      "source_url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss"
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
     },
     {
       "title": "Militias in Iraq remain defiant as the last US troops pack up to leave",
@@ -129,37 +146,19 @@
       "source_url": "https://www.foxnews.com/world/nato-jets-shoot-down-drone-lithuanian-airspace-russia-grows-increasingly-reckless-rutte-says"
     },
     {
-      "title": "Who is Umar Kremlev? The Russian oligarch who helped bankroll Donald Trump Jr’s wedding",
-      "summary": "Who is Umar Kremlev? The Russian oligarch who helped bankroll Donald Trump Jr’s wedding",
+      "title": "War on Iran cost U.S. more than $38 billion: Congressional Budget Office",
+      "summary": "War on Iran cost U.S. more than $38 billion: Congressional Budget Office",
       "outlets_covering": [
-        "CBC World",
-        "The Guardian World",
-        "The Independent",
+        "CBS News World",
+        "Time",
+        "Al Jazeera",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/europe/umar-kremlev-donald-trump-jr-wedding-russian-b3050331.html"
-    },
-    {
-      "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-      "summary": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "Fox News World",
-        "NYT World",
-        "The Guardian World",
-        "France24",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 9,
-      "region": "Europe / Russia",
+      "coverage_count": 5,
+      "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
+      "source_url": "https://www.thehindu.com/news/international/war-on-iran-cost-us-more-than-38b-congressional-budget-office/article71469949.ece"
     }
   ]
 }
