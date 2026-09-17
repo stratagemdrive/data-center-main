@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-09-16T15:45:31.186763Z",
+  "last_updated": "2026-09-17T02:24:52.667197Z",
   "world_org_meetings": [
+    {
+      "title": "U.S. denies visas to Palestinian delegation for 2nd year in a row for UN assembly in New York",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "U.S. denies visas to Palestinian delegation for 2nd year in a row for UN assembly in New York",
+      "source_url": "https://www.cbc.ca/news/world/palestinian-visas-denied-un-general-assembly-9.7347425?cmp=rss"
+    },
+    {
+      "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
+      "source_url": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss"
+    },
+    {
+      "title": "Xi suffered stroke &amp; fainted at Brics Summit, claims China Democracy Party chief; post gets community note",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Xi suffered stroke &amp; fainted at Brics Summit, claims China Democracy Party chief; post gets community note",
+      "source_url": "https://timesofindia.indiatimes.com/india/xi-suffered-stroke-fainted-at-brics-summit-claims-china-democracy-party-chief-post-gets-community-note/articleshow/134292434.cms"
+    },
     {
       "title": "The world comes to New York: What’s at stake at UN General Assembly high-level week",
       "organization": "UN",
@@ -16,57 +40,25 @@
       "location": "",
       "description": "Why I am grateful for Asean’s endless meetings",
       "source_url": "https://www.scmp.com/opinion/asia-opinion/article/3367076/why-i-am-grateful-aseans-endless-meetings"
-    },
-    {
-      "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-      "source_url": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions"
-    },
-    {
-      "title": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
-      "organization": "IMF",
-      "date": "",
-      "location": "",
-      "description": "The five issues to watch at next month’s IMF-World Bank Annual Meetings",
-      "source_url": "https://www.atlanticcouncil.org/blogs/econographics/the-five-issues-to-watch-at-next-months-imf-world-bank-annual-meetings"
-    },
-    {
-      "title": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit",
-      "source_url": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-washington-post-on-bessent-bringing-iran-issue-to-g20-summit"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "House votes for a third time to end Iran war in symbolic move as conflict drags on – US politics live",
-      "country": "Iran",
-      "election_type": "National",
+      "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
+      "country": "Ukraine",
+      "election_type": "Parliamentary",
       "date": "",
-      "description": "House votes for a third time to end Iran war in symbolic move as conflict drags on – US politics live",
-      "source_url": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates"
+      "description": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
+      "source_url": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war"
     },
     {
-      "title": "Why are election officials in the US preparing for chaos before midterms?",
-      "country": "",
+      "title": "Sweden's centre-left opposition wins election, SVT says",
+      "country": "Sweden",
       "election_type": "National",
       "date": "",
-      "description": "Why are election officials in the US preparing for chaos before midterms?",
-      "source_url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss"
-    },
-    {
-      "title": "Former Muslim rebels lead results in first election held in southern Philippine region",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Former Muslim rebels lead results in first election held in southern Philippine region",
-      "source_url": "https://abcnews.com/International/wireStory/former-muslim-rebels-lead-results-election-held-southern-136485281"
+      "description": "Sweden's centre-left opposition wins election, SVT says",
+      "source_url": "http://www.france24.com/en/sweden-s-centre-left-opposition-wins-election-svt-says"
     },
     {
       "title": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.",
@@ -77,99 +69,106 @@
       "source_url": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html"
     },
     {
-      "title": "In Sweden, many breathe sigh of relief as far right suffers election losses",
-      "country": "Sweden",
+      "title": "Former Muslim rebels lead results in first election held in southern Philippine region",
+      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "In Sweden, many breathe sigh of relief as far right suffers election losses",
-      "source_url": "https://www.aljazeera.com/features/2026/9/16/in-sweden-many-breathe-sigh-of-relief-as-far-right-suffers-election-losses?traffic_source=rss"
+      "description": "Former Muslim rebels lead results in first election held in southern Philippine region",
+      "source_url": "https://abcnews.com/International/wireStory/former-muslim-rebels-lead-results-election-held-southern-136485281"
+    },
+    {
+      "title": "South Sudan president fires head of electoral body months before first election",
+      "country": "Sudan",
+      "election_type": "National",
+      "date": "",
+      "description": "South Sudan president fires head of electoral body months before first election",
+      "source_url": "https://abcnews.com/International/wireStory/south-sudan-president-fires-head-electoral-body-months-136491063"
     }
   ],
   "global_events": [
     {
-      "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
-      "summary": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
+      "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
+      "summary": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
       "outlets_covering": [
         "NPR World",
         "CBC World",
         "ABC News Intl",
         "Sky News World",
         "NYT World",
-        "The Guardian World",
         "The Independent",
         "DW World",
-        "France24"
-      ],
-      "coverage_count": 10,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
-    },
-    {
-      "title": "Saudi Arabia accuses Houthis of attacking Mecca, warns holy city is a ‘red line’",
-      "summary": "Saudi Arabia accuses Houthis of attacking Mecca, warns holy city is a ‘red line’",
-      "outlets_covering": [
-        "NPR World",
-        "NBC News World",
-        "The Guardian World",
-        "The Independent",
         "The Hindu Intl"
       ],
-      "coverage_count": 6,
-      "region": "Middle East",
+      "coverage_count": 8,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.nbcnews.com/world/middle-east/saudi-arabia-mecca-houthis-drone-iran-war-trump-oil-gas-prices-rcna598075"
+      "source_url": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html"
     },
     {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "summary": "EU chief backs plan for Canada to become 'associate member'",
       "outlets_covering": [
         "BBC World",
-        "CBC World",
-        "CBS News World",
-        "Sky News World",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "EU opens door for Canada to become first 'associate member'",
-      "summary": "EU opens door for Canada to become first 'associate member'",
-      "outlets_covering": [
-        "BBC World",
-        "CBC World",
-        "Sky News World",
-        "The Independent",
-        "France24",
-        "The Hindu Intl",
-        "The Hill"
-      ],
-      "coverage_count": 7,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "http://www.france24.com/en/video/20260916-eu-opens-door-for-canada-to-become-first-associate-member"
-    },
-    {
-      "title": "EU chief wants Canada as bloc’s first associate member",
-      "summary": "EU chief wants Canada as bloc’s first associate member",
-      "outlets_covering": [
-        "BBC World",
+        "NPR World",
         "CBC World",
         "Sky News World",
         "The Independent",
         "Al Jazeera",
-        "France24",
+        "Japan Times",
         "The Hindu Intl",
         "The Hill"
       ],
-      "coverage_count": 8,
+      "coverage_count": 10,
       "region": "Europe",
       "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/6092548-ursula-von-der-leyen-mark-carney-european-union-bloc-canada"
+      "source_url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "House passes Russia sanctions bill, overcoming Democratic opposition",
+      "summary": "House passes Russia sanctions bill, overcoming Democratic opposition",
+      "outlets_covering": [
+        "CBS News World",
+        "NBC News World",
+        "Al Jazeera",
+        "The Hindu Intl",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 7,
+      "region": "Europe / Russia",
+      "category": "Economy",
+      "source_url": "https://www.cbsnews.com/news/house-votes-russia-sanctions-bill"
+    },
+    {
+      "title": "War-damaged Gaza building collapses, killing 20 people sheltering inside",
+      "summary": "War-damaged Gaza building collapses, killing 20 people sheltering inside",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "Sky News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.thehindu.com/news/international/war-damaged-gaza-building-collapses-death-toll/article71474151.ece"
+    },
+    {
+      "title": "Saudi Arabia Calls Mecca a ‘Red Line’ After Alleged Houthi Drone Attack",
+      "summary": "Saudi Arabia Calls Mecca a ‘Red Line’ After Alleged Houthi Drone Attack",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "NBC News World",
+        "Time",
+        "The Independent",
+        "France24",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 9,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://time.com/article/2026/09/16/saudi-arabia-declares-mecca-a-red-line-as-houthis-deny-targeting-holy-site"
     }
   ]
 }
