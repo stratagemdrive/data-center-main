@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-09-18T02:10:17.036915Z",
+  "last_updated": "2026-09-18T15:26:18.868363Z",
   "world_org_meetings": [
-    {
-      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "source_url": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss"
-    },
     {
       "title": "Trump administration denies visas for Palestinian delegation to attend UN General Assembly for second year",
       "organization": "UN",
@@ -18,20 +10,28 @@
       "source_url": "https://thehill.com/homenews/administration/6096022-trump-denies-plo-pa-visas"
     },
     {
+      "title": "What the BRICS Summit Meant for Brazil",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "What the BRICS Summit Meant for Brazil",
+      "source_url": "https://foreignpolicy.com/2026/09/18/brazil-brics-summit-new-delhi-diplomacy-climate"
+    },
+    {
+      "title": "Xi-Trump summit, China AI at Brics, Asian Games",
+      "organization": "BRICS",
+      "date": "",
+      "location": "",
+      "description": "Xi-Trump summit, China AI at Brics, Asian Games",
+      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368001/xi-trump-summit-china-ai-brics-asian-games"
+    },
+    {
       "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
       "organization": "UN",
       "date": "",
       "location": "",
       "description": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
       "source_url": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
-    },
-    {
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "US will allow ‘core’ Iranian delegation join United Nations summit in New York",
@@ -44,57 +44,57 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Trump to greet Xi at Joint Base Andrews ahead of state visit",
+      "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
       "participants": [
-        "Trump",
-        "Joint Base Andrews"
+        "Real Madrid President",
+        "Ceuta"
       ],
       "date": "",
       "location": "",
-      "description": "Trump to greet Xi at Joint Base Andrews ahead of state visit",
-      "source_url": "https://thehill.com/homenews/administration/6095241-xi-joins-trump-washington"
+      "description": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+      "source_url": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss"
     }
   ],
   "elections": [
     {
-      "title": "Sweden’s PM resigns after centre-left bloc wins slim majority in election",
-      "country": "Sweden",
-      "election_type": "National",
-      "date": "",
-      "description": "Sweden’s PM resigns after centre-left bloc wins slim majority in election",
-      "source_url": "https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns"
-    },
-    {
-      "title": "Swedish PM Kristersson resigns after election loss",
+      "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Swedish PM Kristersson resigns after election loss",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss"
+      "description": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
+      "source_url": "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb"
     },
     {
-      "title": "Russia election: Could other parties challenge United Russia?",
+      "title": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
       "country": "Russia",
       "election_type": "National",
       "date": "",
-      "description": "Russia election: Could other parties challenge United Russia?",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss"
+      "description": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
+      "source_url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html"
     },
     {
-      "title": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
-      "source_url": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201"
-    },
-    {
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
+      "title": "Russian elections: 'Even the facade of opposition has gone'",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Klopp wants to 'reclaim' flag amid German elections",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss"
+      "description": "Russian elections: 'Even the facade of opposition has gone'",
+      "source_url": "https://www.france24.com/en/video/20260918-russian-elections-even-the-facade-of-opposition-has-gone"
+    },
+    {
+      "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
+      "country": "Russia",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
+      "source_url": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss"
+    },
+    {
+      "title": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
+      "source_url": "https://www.france24.com/en/russian-elections-a-veneer-of-democracy-with-opposition-barred-from-running"
     }
   ],
   "global_events": [
@@ -108,69 +108,74 @@
         "CBS News World",
         "NBC News World",
         "Sky News World",
+        "Time",
+        "Al Jazeera",
         "The Hindu Intl",
-        "The Hill",
-        "Axios"
+        "The Hill"
       ],
-      "coverage_count": 10,
+      "coverage_count": 12,
       "region": "Middle East",
       "category": "Conflict",
       "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal"
     },
     {
-      "title": "Village votes to leave U.K. in symbolic protest of plan to house asylum seekers",
-      "summary": "Village votes to leave U.K. in symbolic protest of plan to house asylum seekers",
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman after 56 years",
+      "summary": "Warren Buffett steps down as Berkshire Hathaway chairman after 56 years",
       "outlets_covering": [
-        "CBS News World",
-        "DW World",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/piddington-village-vote-leave-uk-asylum-seekers"
-    },
-    {
-      "title": "Canada’s Carney pushes ‘new alliance’ with EU despite Trump threats",
-      "summary": "Canada’s Carney pushes ‘new alliance’ with EU despite Trump threats",
-      "outlets_covering": [
-        "CBS News World",
-        "Wash Post World",
-        "Japan Times",
-        "The Hindu Intl"
-      ],
-      "coverage_count": 4,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.thehindu.com/news/international/canadas-carney-pushes-new-alliance-with-eu-despite-trump-threats/article71478031.ece"
-    },
-    {
-      "title": "House passes Russia sanctions bill, overcoming Democratic opposition",
-      "summary": "House passes Russia sanctions bill, overcoming Democratic opposition",
-      "outlets_covering": [
-        "CBS News World",
-        "NBC News World",
+        "The Independent",
         "The Hindu Intl",
+        "The Hill",
         "Axios"
       ],
-      "coverage_count": 6,
-      "region": "Europe / Russia",
-      "category": "Economy",
-      "source_url": "https://www.cbsnews.com/news/house-votes-russia-sanctions-bill"
+      "coverage_count": 4,
+      "region": "Global",
+      "category": "Conflict",
+      "source_url": "https://www.independent.co.uk/news/world/americas/warren-buffett-resigns-berkshire-hathaway-chairman-b3052489.html"
     },
     {
-      "title": "Carney: Canada welcomes proposal to become EU associate member",
-      "summary": "Carney: Canada welcomes proposal to become EU associate member",
+      "title": "United Nations says US may have committed war crimes in Iran: What it means",
+      "summary": "United Nations says US may have committed war crimes in Iran: What it means",
+      "outlets_covering": [
+        "BBC World",
+        "CBS News World",
+        "NBC News World",
+        "Time",
+        "Al Jazeera",
+        "The Hill",
+        "Axios"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss"
+    },
+    {
+      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+      "summary": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
       "outlets_covering": [
         "BBC World",
         "NPR World",
-        "Atlantic Council",
-        "The Hill"
+        "CBS News World",
+        "Sky News World",
+        "Time",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 7,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes"
+    },
+    {
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "summary": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "outlets_covering": [
+        "BBC World",
+        "France24"
       ],
       "coverage_count": 5,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://thehill.com/policy/international/6094818-carney-canada-european-union-association"
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
