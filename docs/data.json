@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-09-18T15:26:18.868363Z",
+  "last_updated": "2026-09-19T02:13:45.475863Z",
   "world_org_meetings": [
     {
-      "title": "Trump administration denies visas for Palestinian delegation to attend UN General Assembly for second year",
+      "title": "US weighs delaying Taiwan arms sales until after Apec and G20 summits",
+      "organization": "G20",
+      "date": "",
+      "location": "",
+      "description": "US weighs delaying Taiwan arms sales until after Apec and G20 summits",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3368060/us-weighs-delaying-taiwan-arms-sales-until-after-apec-and-g20-summits"
+    },
+    {
+      "title": "🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly",
       "organization": "UN",
       "date": "",
       "location": "",
-      "description": "Trump administration denies visas for Palestinian delegation to attend UN General Assembly for second year",
-      "source_url": "https://thehill.com/homenews/administration/6096022-trump-denies-plo-pa-visas"
+      "description": "🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly",
+      "source_url": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly"
     },
     {
       "title": "What the BRICS Summit Meant for Brazil",
@@ -18,164 +26,135 @@
       "source_url": "https://foreignpolicy.com/2026/09/18/brazil-brics-summit-new-delhi-diplomacy-climate"
     },
     {
+      "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168375"
+    },
+    {
       "title": "Xi-Trump summit, China AI at Brics, Asian Games",
       "organization": "BRICS",
       "date": "",
       "location": "",
       "description": "Xi-Trump summit, China AI at Brics, Asian Games",
       "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368001/xi-trump-summit-china-ai-brics-asian-games"
-    },
-    {
-      "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
-      "source_url": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
-    },
-    {
-      "title": "US will allow ‘core’ Iranian delegation join United Nations summit in New York",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "US will allow ‘core’ Iranian delegation join United Nations summit in New York",
-      "source_url": "https://thehill.com/policy/international/6096801-us-allows-iranian-un-delegation"
     }
   ],
-  "diplomatic_visits": [
-    {
-      "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-      "participants": [
-        "Real Madrid President",
-        "Ceuta"
-      ],
-      "date": "",
-      "location": "",
-      "description": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-      "source_url": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss"
-    }
-  ],
+  "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
-      "country": "",
+      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+      "country": "Brazil",
       "election_type": "National",
       "date": "",
-      "description": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
-      "source_url": "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb"
+      "description": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+      "source_url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election"
     },
     {
-      "title": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
-      "source_url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html"
-    },
-    {
-      "title": "Russian elections: 'Even the facade of opposition has gone'",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Russian elections: 'Even the facade of opposition has gone'",
-      "source_url": "https://www.france24.com/en/video/20260918-russian-elections-even-the-facade-of-opposition-has-gone"
-    },
-    {
-      "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
+      "title": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
       "country": "Russia",
       "election_type": "Parliamentary",
       "date": "",
-      "description": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
-      "source_url": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss"
+      "description": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
+      "source_url": "https://www.thehindu.com/news/international/russia-begins-3-days-of-voting-in-a-parliamentary-election-set-to-cement-the-kremlins-power/article71481955.ece"
     },
     {
-      "title": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
-      "country": "",
+      "title": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured",
+      "country": "Russia",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured",
+      "source_url": "https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin"
+    },
+    {
+      "title": "Russia’s Parliamentary Elections Offer Rituals, Not Results",
+      "country": "Russia",
+      "election_type": "Parliamentary",
+      "date": "",
+      "description": "Russia’s Parliamentary Elections Offer Rituals, Not Results",
+      "source_url": "https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine"
+    },
+    {
+      "title": "Do elections in Russia make a difference?",
+      "country": "Russia",
       "election_type": "National",
       "date": "",
-      "description": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
-      "source_url": "https://www.france24.com/en/russian-elections-a-veneer-of-democracy-with-opposition-barred-from-running"
+      "description": "Do elections in Russia make a difference?",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss"
     }
   ],
   "global_events": [
     {
-      "title": "U.N. experts say U.S. may have committed war crimes with 2 Iran strikes",
-      "summary": "U.N. experts say U.S. may have committed war crimes with 2 Iran strikes",
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "summary": "Warren Buffett steps down as Berkshire Hathaway chairman",
       "outlets_covering": [
         "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Sky News World",
-        "Time",
+        "The Independent",
         "Al Jazeera",
         "The Hindu Intl",
-        "The Hill"
+        "The Hill",
+        "Axios"
       ],
-      "coverage_count": 12,
-      "region": "Middle East",
+      "coverage_count": 6,
+      "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal"
+      "source_url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss"
     },
     {
-      "title": "Warren Buffett steps down as Berkshire Hathaway chairman after 56 years",
-      "summary": "Warren Buffett steps down as Berkshire Hathaway chairman after 56 years",
+      "title": "Trump claims security, military deal with Denmark over Greenland",
+      "summary": "Trump claims security, military deal with Denmark over Greenland",
       "outlets_covering": [
-        "The Independent",
-        "The Hindu Intl",
-        "The Hill",
+        "CBC World",
+        "France24",
+        "SCMP",
         "Axios"
       ],
       "coverage_count": 4,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.independent.co.uk/news/world/americas/warren-buffett-resigns-berkshire-hathaway-chairman-b3052489.html"
+      "source_url": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal"
     },
     {
-      "title": "United Nations says US may have committed war crimes in Iran: What it means",
-      "summary": "United Nations says US may have committed war crimes in Iran: What it means",
+      "title": "U.S. May Have Committed War Crimes in Iran, U.N. Report Says",
+      "summary": "U.S. May Have Committed War Crimes in Iran, U.N. Report Says",
       "outlets_covering": [
-        "BBC World",
-        "CBS News World",
-        "NBC News World",
-        "Time",
-        "Al Jazeera",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss"
-    },
-    {
-      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-      "summary": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-      "outlets_covering": [
-        "BBC World",
-        "NPR World",
         "CBS News World",
         "Sky News World",
         "Time",
-        "The Hindu Intl"
+        "The Hindu Intl",
+        "Axios"
       ],
-      "coverage_count": 7,
+      "coverage_count": 6,
       "region": "Middle East",
       "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes"
+      "source_url": "https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report"
     },
     {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "summary": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "title": "U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others",
+      "summary": "U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others",
       "outlets_covering": [
-        "BBC World",
-        "France24"
+        "CBS News World",
+        "The Hindu Intl",
+        "Axios"
       ],
-      "coverage_count": 5,
+      "coverage_count": 3,
       "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss"
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece"
+    },
+    {
+      "title": "Trump claims Don Jr. is paying back Putin-tied Russian oligarch for lavish wedding",
+      "summary": "Trump claims Don Jr. is paying back Putin-tied Russian oligarch for lavish wedding",
+      "outlets_covering": [
+        "The Independent",
+        "The Hill"
+      ],
+      "coverage_count": 2,
+      "region": "Europe / Russia",
+      "category": "Politics",
+      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-donald-jr-paying-back-umar-kremlev-putin-b3052789.html"
     }
   ]
 }
