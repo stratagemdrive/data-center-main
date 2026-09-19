@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-19T02:13:45.475863Z",
+  "last_updated": "2026-09-19T15:01:26.685446Z",
   "world_org_meetings": [
+    {
+      "title": "Why the UN General Assembly still matters",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Why the UN General Assembly still matters",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168361"
+    },
     {
       "title": "US weighs delaying Taiwan arms sales until after Apec and G20 summits",
       "organization": "G20",
@@ -8,14 +16,6 @@
       "location": "",
       "description": "US weighs delaying Taiwan arms sales until after Apec and G20 summits",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3368060/us-weighs-delaying-taiwan-arms-sales-until-after-apec-and-g20-summits"
-    },
-    {
-      "title": "🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly",
-      "source_url": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly"
     },
     {
       "title": "What the BRICS Summit Meant for Brazil",
@@ -45,14 +45,6 @@
   "diplomatic_visits": [],
   "elections": [
     {
-      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-      "source_url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election"
-    },
-    {
       "title": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
       "country": "Russia",
       "election_type": "Parliamentary",
@@ -61,100 +53,109 @@
       "source_url": "https://www.thehindu.com/news/international/russia-begins-3-days-of-voting-in-a-parliamentary-election-set-to-cement-the-kremlins-power/article71481955.ece"
     },
     {
-      "title": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured",
-      "country": "Russia",
-      "election_type": "Parliamentary",
+      "title": "Russian election observer loses consciousness during arrest by police, opposition party says",
+      "country": "",
+      "election_type": "National",
       "date": "",
-      "description": "Why the Outcome of Russia's First Parliamentary Elections in Years Is All But Assured",
-      "source_url": "https://time.com/article/2026/09/18/russia-elections-parliament-state-duma-putin"
+      "description": "Russian election observer loses consciousness during arrest by police, opposition party says",
+      "source_url": "https://abcnews.com/International/wireStory/russian-election-observer-loses-consciousness-arrest-police-opposition-136585736"
     },
     {
-      "title": "Russia’s Parliamentary Elections Offer Rituals, Not Results",
-      "country": "Russia",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Russia’s Parliamentary Elections Offer Rituals, Not Results",
-      "source_url": "https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine"
-    },
-    {
-      "title": "Do elections in Russia make a difference?",
+      "title": "In Russia, the election result is easy to guess. Much else there is uncertain.",
       "country": "Russia",
       "election_type": "National",
       "date": "",
-      "description": "Do elections in Russia make a difference?",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss"
+      "description": "In Russia, the election result is easy to guess. Much else there is uncertain.",
+      "source_url": "https://www.washingtonpost.com/world/2026/09/19/russia-election-result-is-easy-guess-much-else-there-is-uncertain"
+    },
+    {
+      "title": "Germany cuts energy tax to lower petrol prices as Merz faces state key elections",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "",
+      "description": "Germany cuts energy tax to lower petrol prices as Merz faces state key elections",
+      "source_url": "https://www.france24.com/en/europe/20260919-germany-cuts-energy-tax-to-lower-soaring-petrol-prices"
+    },
+    {
+      "title": "Russians fear Putin will send them to war once election is over",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Russians fear Putin will send them to war once election is over",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/russians-putin-war-election"
     }
   ],
   "global_events": [
     {
-      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-      "summary": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "summary": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "outlets_covering": [
+        "NPR World",
+        "ABC News Intl",
+        "NBC News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "Europe / Russia",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+    },
+    {
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "summary": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "outlets_covering": [
         "BBC World",
-        "The Independent",
-        "Al Jazeera",
+        "Sky News World",
+        "Axios"
+      ],
+      "coverage_count": 3,
+      "region": "Europe",
+      "category": "Politics",
+      "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump signs Russia sanctions bill into law",
+      "summary": "Trump signs Russia sanctions bill into law",
+      "outlets_covering": [
+        "BBC World",
+        "NYT World",
+        "Times of India",
         "The Hindu Intl",
+        "SCMP",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 6,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss"
+      "coverage_count": 8,
+      "region": "Europe / Russia",
+      "category": "Economy",
+      "source_url": "https://www.thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece"
     },
     {
-      "title": "Trump claims security, military deal with Denmark over Greenland",
-      "summary": "Trump claims security, military deal with Denmark over Greenland",
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "summary": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
       "outlets_covering": [
-        "CBC World",
-        "France24",
-        "SCMP",
+        "BBC World",
+        "The Hindu Intl",
+        "The Hill",
         "Axios"
       ],
       "coverage_count": 4,
       "region": "Global",
       "category": "Conflict",
-      "source_url": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal"
+      "source_url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "U.S. May Have Committed War Crimes in Iran, U.N. Report Says",
-      "summary": "U.S. May Have Committed War Crimes in Iran, U.N. Report Says",
+      "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
+      "summary": "Fear and anger in South Africa as bodies of nine women found: What we know",
       "outlets_covering": [
-        "CBS News World",
-        "Sky News World",
-        "Time",
-        "The Hindu Intl",
-        "Axios"
-      ],
-      "coverage_count": 6,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://time.com/article/2026/09/18/us-iran-israel-war-crimes-strike-minab-school-un-report"
-    },
-    {
-      "title": "U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others",
-      "summary": "U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others",
-      "outlets_covering": [
-        "CBS News World",
-        "The Hindu Intl",
-        "Axios"
+        "BBC World",
+        "Wash Post World",
+        "Al Jazeera"
       ],
       "coverage_count": 3,
-      "region": "Europe / Russia",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece"
-    },
-    {
-      "title": "Trump claims Don Jr. is paying back Putin-tied Russian oligarch for lavish wedding",
-      "summary": "Trump claims Don Jr. is paying back Putin-tied Russian oligarch for lavish wedding",
-      "outlets_covering": [
-        "The Independent",
-        "The Hill"
-      ],
-      "coverage_count": 2,
-      "region": "Europe / Russia",
+      "region": "Africa",
       "category": "Politics",
-      "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-donald-jr-paying-back-umar-kremlev-putin-b3052789.html"
+      "source_url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss"
     }
   ]
 }
