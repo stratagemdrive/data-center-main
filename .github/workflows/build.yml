@@ -23,16 +23,7 @@ jobs:
           pip install feedparser requests python-dateutil
 
       - name: Run Scraper Script
-        run: |
-          # Finds and runs the Python script dynamically if named script.py, main.py, or scrape.py
-          SCRIPT_PATH=$(find . -maxdepth 2 -type f \( -name "script.py" -o -name "main.py" -o -name "scrape.py" \) | head -n 1)
-          if [ -n "$SCRIPT_PATH" ]; then
-            echo "Running $SCRIPT_PATH..."
-            python "$SCRIPT_PATH"
-          else
-            echo "Error: Could not locate Python script in repository."
-            exit 1
-          fi
+        run: python scripts/build_data_json.py
 
       - name: Strip global_events from JSON
         run: |
