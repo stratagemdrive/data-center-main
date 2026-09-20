@@ -51,12 +51,12 @@
       "source_url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit"
     },
     {
-      "title": "Macron and Carney to hold talks on strengthening Canada-France economic and defense ties",
+      "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
       "visiting_leader": "",
       "host_country": "France",
       "date": "2026-09-20",
-      "description": "French President Emmanuel Macron and Canadian Prime Minister Mark Carney are set to meet to deepen economic and security ties on the North Atlantic archipelago of Saint-Pierre-et-Miquelon",
-      "source_url": "https://abcnews.com/International/wireStory/macron-carney-hold-talks-strengthening-canada-france-economic-136596498"
+      "description": "French President ​Emmanuel Macron and Canadian Prime Minister Mark Carney on ​Sunday called for stronger bilateral ties in the face of new global threats at a meeting on Saint Pierre and Miquelon, a French territory off Canada's Newfoundland. The first-ever visit by a Canadian leader to the North Atlantic archipelago came as both countries have increasingly awkward relations with the US.",
+      "source_url": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting"
     },
     {
       "title": "Charles Spencer on the royal fallout following Princess Diana's death",
@@ -65,14 +65,6 @@
       "date": "2026-09-20",
       "description": "In his first interview about his new book, \"Swan Song: Diana, My Sister,\" Charles Spencer talks about his attempt to set down what he calls the definitive story of Princess Diana.",
       "source_url": "https://www.cbsnews.com/news/charles-spencers-striking-claims-about-the-royal-fallout-following-princess-dianas-death"
-    },
-    {
-      "title": "Charles Spencer's striking claims about the royal fallout following Princess Diana's death",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-20",
-      "description": "In his first interview about his new book, \"Swan Song: Diana, My Sister,\" Charles Spencer talks with correspondent Mark Phillips about his attempt to set down what he calls the true history of the life of his sister, Princess Diana. He also talks about Prince Harry's grief after Diana's death, suggesting that a \"more understanding treatment\" of the young prince at the time might have led to \"a happier course ahead.\"",
-      "source_url": "https://www.cbsnews.com/video/charles-spencers-striking-claims-about-the-royal-fallout-following-princess-dianas-death"
     },
     {
       "title": "10-year Treasury yield tops 5% as oil surges and diesel hits all-time high",
@@ -90,15 +82,7 @@
       "election_type": "National",
       "date": "2026-09-20",
       "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "2026-09-20",
-      "description": "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made significant gains.",
-      "source_url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat"
+      "source_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o"
     },
     {
       "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
@@ -114,16 +98,24 @@
       "election_type": "National",
       "date": "2026-09-20",
       "description": "Russia's ruling United Russia party was on track to easily win a parliamentary election that President Vladimir Putin has cast as a test of support for the war in Ukraine, partial official results showed on Sunday, after Ukraine launched a massive ‌drone attack on the Russian capital.",
-      "source_url": "https://www.cbc.ca/news/world/russia-election-putin-9.7351526?cmp=rss"
+      "source_url": "https://www.cbc.ca/news/world/russia-election-putin-9.7351526"
     },
     {
-      "title": "Germany's Merz vows to press on with reforms despite state election losses to far-right AfD",
-      "country": "Germany",
+      "title": "Canada's top general is up for a senior NATO post. Will Trump get in her way?",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-09-18",
+      "description": "Canada's Gen. Jennie Carignan faces Germany's Gen. Carsten Breuer on Saturday in a secret-ballot contest to chair NATO's Military Committee. A victory would make Carignan the first woman to hold the post and return Canada to the chair after nearly two decades, amid Ottawa's push for deeper ties with Europe.",
+      "source_url": "https://www.cbc.ca/news/politics/nato-canada-us-military-europe-9.7348767"
+    },
+    {
+      "title": "Russia's first wartime parliamentary election shows Kremlin dominance all but assured",
+      "country": "Russia",
       "election_type": "National",
       "date": "2026-09-20",
-      "description": "German Chancellor Friedrich Merz suffered a bruising electoral setback in two state elections on Sunday, including a historic defeat for his party, but vowed to press ahead with potentially painful reforms to Europe's biggest economy.",
-      "source_url": "https://www.cbc.ca/news/world/friedrich-merz-germany-afd-agenda-9.7351429?cmp=rss"
+      "description": "The election was virtually devoid of opposition to President Putin's policies.",
+      "source_url": "https://abcnews.com/International/wireStory/russia-wraps-wartime-parliamentary-election-kremlin-dominance-assured-136599037"
     }
   ],
-  "last_updated": "2026-09-20T22:38:22.340923+00:00"
+  "last_updated": "2026-09-20T22:41:33.216577+00:00"
 }
