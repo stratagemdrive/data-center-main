@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *'  # Runs every 6 hours
   workflow_dispatch:      # Allows manual triggers from GitHub Actions UI
 
+permissions:
+  contents: write
+
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
@@ -27,12 +30,12 @@ jobs:
 
       - name: Strip global_events from JSON
         run: |
-          if [ -f public/data.json ]; then
-            jq 'del(.global_events)' public/data.json > public/data.tmp.json && mv public/data.tmp.json public/data.json
+          if [ -f docs/data.json ]; then
+            jq 'del(.global_events)' docs/data.json > docs/data.tmp.json && mv docs/data.tmp.json docs/data.json
           fi
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update news data (exclude global events)"
-          file_pattern: "public/data.json"
+          file_pattern: "docs/data.json"
