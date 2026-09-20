@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-20T02:21:53.287348Z",
+  "last_updated": "2026-09-20T15:05:16.036460Z",
   "world_org_meetings": [
+    {
+      "title": "Global Conflicts Shape High Stakes UN Meetings",
+      "organization": "UN",
+      "date": "",
+      "location": "",
+      "description": "Global Conflicts Shape High Stakes UN Meetings",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-09-20/global-conflicts-shape-high-stakes-un-meetings-video"
+    },
     {
       "title": "Why the UN General Assembly still matters",
       "organization": "UN",
@@ -32,18 +40,26 @@
       "location": "",
       "description": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
       "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168375"
-    },
-    {
-      "title": "Xi-Trump summit, China AI at Brics, Asian Games",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "Xi-Trump summit, China AI at Brics, Asian Games",
-      "source_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368001/xi-trump-summit-china-ai-brics-asian-games"
     }
   ],
   "diplomatic_visits": [],
   "elections": [
+    {
+      "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+      "country": "Ukraine",
+      "election_type": "National",
+      "date": "",
+      "description": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+      "source_url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+    },
+    {
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "German elections under way which could decide fate of Chancellor Merz",
+      "source_url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
       "country": "Brazil",
@@ -53,36 +69,20 @@
       "source_url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election"
     },
     {
-      "title": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
+      "title": "How Prediction Markets Upstaged Election Polls",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "How Prediction Markets Upstaged Election Polls",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-20/how-prediction-markets-upstaged-election-polls"
+    },
+    {
+      "title": "Russia reports mass cyberattacks targeting elections",
       "country": "Russia",
-      "election_type": "Parliamentary",
-      "date": "",
-      "description": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
-      "source_url": "https://www.thehindu.com/news/international/russia-begins-3-days-of-voting-in-a-parliamentary-election-set-to-cement-the-kremlins-power/article71481955.ece"
-    },
-    {
-      "title": "Newsom signs laws aimed at preventing election interference",
-      "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Newsom signs laws aimed at preventing election interference",
-      "source_url": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Polls set close in Russian election as Moscow reports online attacks on electoral system",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "",
-      "description": "Ukraine-Russia war latest: Polls set close in Russian election as Moscow reports online attacks on electoral system",
-      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-election-elections-putin-zelensky-poland-nato-cyber-attack-b3052875.html"
-    },
-    {
-      "title": "Russian election observer loses consciousness during arrest, opposition party says",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Russian election observer loses consciousness during arrest, opposition party says",
-      "source_url": "https://abcnews.com/International/wireStory/russian-election-observer-loses-consciousness-arrest-police-opposition-136585736"
+      "description": "Russia reports mass cyberattacks targeting elections",
+      "source_url": "https://www.thehindu.com/news/international/russia-reports-mass-cyberattacks-targeting-elections/article71488329.ece"
     }
   ],
   "global_events": [
@@ -101,60 +101,70 @@
       "source_url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
     },
     {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "summary": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "title": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
+      "summary": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
       "outlets_covering": [
-        "BBC World",
-        "Sky News World",
-        "Axios"
-      ],
-      "coverage_count": 3,
-      "region": "Europe",
-      "category": "Politics",
-      "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Saudi-led coalition says Houthis fired ballistic missile at Riyadh",
-      "summary": "Saudi-led coalition says Houthis fired ballistic missile at Riyadh",
-      "outlets_covering": [
-        "BBC World",
+        "NYT World",
         "Al Jazeera",
         "France24",
-        "Japan Times"
+        "The Hindu Intl"
       ],
       "coverage_count": 4,
       "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/20/world/saudi-houthis-ballistic-missile-riyadh"
-    },
-    {
-      "title": "Dutch riot police break up violent far-right protest in The Hague",
-      "summary": "Dutch riot police break up violent far-right protest in The Hague",
-      "outlets_covering": [
-        "ABC News Intl",
-        "The Guardian World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Global",
       "category": "Politics",
-      "source_url": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld"
+      "source_url": "https://www.nytimes.com/2026/09/20/world/middleeast/israeli-killed-west-bank-attack.html"
     },
     {
-      "title": "Trump signs Russia sanctions bill into law",
-      "summary": "Trump signs Russia sanctions bill into law",
+      "title": "North Korea fires two ballistic missiles off east coast in three hours",
+      "summary": "North Korea fires two ballistic missiles off east coast in three hours",
+      "outlets_covering": [
+        "CBC World",
+        "France24",
+        "Japan Times",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 4,
+      "region": "East / Southeast Asia",
+      "category": "Conflict",
+      "source_url": "https://www.cbc.ca/news/world/north-korea-fires-ballistic-missiles-9.7351274?cmp=rss"
+    },
+    {
+      "title": "Ukraine launches 1,000 drones at Russia, including hundreds fired at Moscow",
+      "summary": "Ukraine launches 1,000 drones at Russia, including hundreds fired at Moscow",
       "outlets_covering": [
         "BBC World",
-        "NYT World",
-        "The Hindu Intl",
-        "SCMP",
-        "The Hill",
-        "Axios"
+        "NPR World",
+        "CBC World",
+        "CBS News World",
+        "NBC News World",
+        "Fox News World",
+        "The Guardian World",
+        "Al Jazeera",
+        "France24",
+        "Times of India"
       ],
-      "coverage_count": 6,
+      "coverage_count": 11,
       "region": "Europe / Russia",
-      "category": "Economy",
-      "source_url": "https://www.thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece"
+      "category": "Politics",
+      "source_url": "https://www.cbsnews.com/news/ukraine-drone-attack-moscow-russia"
+    },
+    {
+      "title": "Saudi Arabia says Houthis tried to attack its capital",
+      "summary": "Saudi Arabia says Houthis tried to attack its capital",
+      "outlets_covering": [
+        "BBC World",
+        "NPR World",
+        "CBC World",
+        "Sky News World",
+        "NYT World",
+        "The Guardian World",
+        "Wash Post World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 8,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital"
     }
   ]
 }
