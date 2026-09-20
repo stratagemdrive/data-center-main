@@ -4,7 +4,7 @@
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "organization": "NATO",
       "date": "2026-09-19",
-      "location": "",
+      "location": "Global",
       "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
     },
@@ -20,7 +20,7 @@
       "title": "The new lines of southern Lebanon",
       "organization": "UN",
       "date": "2026-09-19",
-      "location": "",
+      "location": "Global",
       "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah \u2014 the militant group created in 1982 to counter a second Israeli invasion.",
       "source_url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
     },
@@ -36,7 +36,7 @@
       "title": "North Korea fires two ballistic missiles off east coast in three hours",
       "organization": "UN",
       "date": "June 25",
-      "location": "",
+      "location": "Global",
       "description": "<img alt=\"A rocket is launched from the back of a truck.\" height=\"349\" src=\"https://i.cbc.ca/ais/20354211-e697-41b9-a1ab-b1ef4b3961b7,1789910564657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6912%2C3888%29%3B\" title=\"A rocket launcher fires a munition during tests, involving an upgraded version of a 240-mm, 24-tube multiple rocket launcher system, tactical ballistic missiles, and a 155-mm self-propelled howitzer, overseen by North Korean leader Kim Jong Un in North Korea, June 25, 2026.\" width=\"620\" /><p>North Korea launched two missiles off its eastern coast on Sunday, its second set of tests in roughly a week and days after Pyongyang accused the U.S. of driving tensions on the Korean Peninsula through a series of military drills.</p>",
       "source_url": "https://www.cbc.ca/news/world/north-korea-fires-ballistic-missiles-9.7351274?cmp=rss"
     }
@@ -61,7 +61,7 @@
     {
       "title": "Why Prince Harry and Meghan face more challenges after their return to the U.K.",
       "visiting_leader": "",
-      "host_country": "",
+      "host_country": "Global",
       "date": "SEPTEMBER 17",
       "description": "<img alt=\"A person talks to other people wearing military uniforms.\" height=\"349\" src=\"https://i.cbc.ca/ais/8de3b396-8830-48f6-8ebe-f6fd4db14362,1789758798088/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C74%2C1024%2C576%29%3B\" title=\"LONDON, ENGLAND - SEPTEMBER 17: Prince Harry, Duke of Sussex speaks to members of the Irish Guards&apos; Band as he arrives at the Invictus Games Foundation&apos;s inaugural Invictus Spirit Awards at Old Royal Naval College in Greenwich on September 17, 2026 in London, England. (Photo by Aaron Chown-Pool/Getty Images)\" width=\"620\" /><p>Issues that arose when Prince Harry and Meghan, Duchess of Sussex, stepped back from official duties in 2020, along with new challenges around concerns such as security, are front and centre after their return to Britain.</p>",
       "source_url": "https://www.cbc.ca/news/world/prince-harry-meghan-return-challenges-king-charles-ai-9.7350038?cmp=rss"
@@ -77,7 +77,7 @@
     {
       "title": "Charles Spencer on the royal fallout following Princess Diana's death",
       "visiting_leader": "",
-      "host_country": "",
+      "host_country": "Global",
       "date": "2026-09-20",
       "description": "In his first interview about his new book, \"Swan Song: Diana, My Sister,\" Charles Spencer talks about his attempt to set down what he calls the definitive story of Princess Diana.",
       "source_url": "https://www.cbsnews.com/news/charles-spencers-striking-claims-about-the-royal-fallout-following-princess-dianas-death"
@@ -127,17 +127,6 @@
   ],
   "global_events": [
     {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "outlets_covering": [
-        "BBC World"
-      ],
-      "coverage_count": 1,
-      "region": "Germany",
-      "category": "General",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "outlets_covering": [
@@ -163,9 +152,13 @@
       "title": "Trump says triumphal arch will be military complex with drones and snipers",
       "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
       "outlets_covering": [
-        "BBC World"
+        "BBC World",
+        "NPR News",
+        "FT World",
+        "SCMP Asia",
+        "The Hill"
       ],
-      "coverage_count": 1,
+      "coverage_count": 5,
       "region": "Global",
       "category": "General",
       "source_url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
@@ -174,13 +167,27 @@
       "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
       "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
       "outlets_covering": [
-        "BBC World"
+        "BBC World",
+        "The Guardian World"
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "region": "Global",
       "category": "General",
       "source_url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "summary": "Aleema Khanum is accused of mobilising her brother\u2019s supporters ahead of country-wide protests.",
+      "outlets_covering": [
+        "BBC World",
+        "Sky News World",
+        "The Hindu Intl"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "General",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "last_updated": "2026-09-20T22:15:14.398415+00:00"
+  "last_updated": "2026-09-20T22:25:09.145513+00:00"
 }
