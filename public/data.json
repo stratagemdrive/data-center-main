@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T15:01:26.685446Z",
+  "last_updated": "2026-09-20T02:21:53.287348Z",
   "world_org_meetings": [
     {
       "title": "Why the UN General Assembly still matters",
@@ -45,6 +45,14 @@
   "diplomatic_visits": [],
   "elections": [
     {
+      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "",
+      "description": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+      "source_url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election"
+    },
+    {
       "title": "Russia begins 3 days of voting in a parliamentary election set to cement the Kremlin’s power",
       "country": "Russia",
       "election_type": "Parliamentary",
@@ -53,36 +61,28 @@
       "source_url": "https://www.thehindu.com/news/international/russia-begins-3-days-of-voting-in-a-parliamentary-election-set-to-cement-the-kremlins-power/article71481955.ece"
     },
     {
-      "title": "Russian election observer loses consciousness during arrest by police, opposition party says",
+      "title": "Newsom signs laws aimed at preventing election interference",
       "country": "",
       "election_type": "National",
       "date": "",
-      "description": "Russian election observer loses consciousness during arrest by police, opposition party says",
+      "description": "Newsom signs laws aimed at preventing election interference",
+      "source_url": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Polls set close in Russian election as Moscow reports online attacks on electoral system",
+      "country": "Ukraine",
+      "election_type": "National",
+      "date": "",
+      "description": "Ukraine-Russia war latest: Polls set close in Russian election as Moscow reports online attacks on electoral system",
+      "source_url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-election-elections-putin-zelensky-poland-nato-cyber-attack-b3052875.html"
+    },
+    {
+      "title": "Russian election observer loses consciousness during arrest, opposition party says",
+      "country": "",
+      "election_type": "National",
+      "date": "",
+      "description": "Russian election observer loses consciousness during arrest, opposition party says",
       "source_url": "https://abcnews.com/International/wireStory/russian-election-observer-loses-consciousness-arrest-police-opposition-136585736"
-    },
-    {
-      "title": "In Russia, the election result is easy to guess. Much else there is uncertain.",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "",
-      "description": "In Russia, the election result is easy to guess. Much else there is uncertain.",
-      "source_url": "https://www.washingtonpost.com/world/2026/09/19/russia-election-result-is-easy-guess-much-else-there-is-uncertain"
-    },
-    {
-      "title": "Germany cuts energy tax to lower petrol prices as Merz faces state key elections",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "",
-      "description": "Germany cuts energy tax to lower petrol prices as Merz faces state key elections",
-      "source_url": "https://www.france24.com/en/europe/20260919-germany-cuts-energy-tax-to-lower-soaring-petrol-prices"
-    },
-    {
-      "title": "Russians fear Putin will send them to war once election is over",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "Russians fear Putin will send them to war once election is over",
-      "source_url": "https://www.japantimes.co.jp/news/2026/09/19/world/politics/russians-putin-war-election"
     }
   ],
   "global_events": [
@@ -114,48 +114,47 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Saudi-led coalition says Houthis fired ballistic missile at Riyadh",
+      "summary": "Saudi-led coalition says Houthis fired ballistic missile at Riyadh",
+      "outlets_covering": [
+        "BBC World",
+        "Al Jazeera",
+        "France24",
+        "Japan Times"
+      ],
+      "coverage_count": 4,
+      "region": "Middle East",
+      "category": "Conflict",
+      "source_url": "https://www.japantimes.co.jp/news/2026/09/20/world/saudi-houthis-ballistic-missile-riyadh"
+    },
+    {
+      "title": "Dutch riot police break up violent far-right protest in The Hague",
+      "summary": "Dutch riot police break up violent far-right protest in The Hague",
+      "outlets_covering": [
+        "ABC News Intl",
+        "The Guardian World",
+        "Al Jazeera"
+      ],
+      "coverage_count": 3,
+      "region": "Global",
+      "category": "Politics",
+      "source_url": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld"
+    },
+    {
       "title": "Trump signs Russia sanctions bill into law",
       "summary": "Trump signs Russia sanctions bill into law",
       "outlets_covering": [
         "BBC World",
         "NYT World",
-        "Times of India",
         "The Hindu Intl",
         "SCMP",
         "The Hill",
         "Axios"
       ],
-      "coverage_count": 8,
+      "coverage_count": 6,
       "region": "Europe / Russia",
       "category": "Economy",
       "source_url": "https://www.thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece"
-    },
-    {
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "summary": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "outlets_covering": [
-        "BBC World",
-        "The Hindu Intl",
-        "The Hill",
-        "Axios"
-      ],
-      "coverage_count": 4,
-      "region": "Global",
-      "category": "Conflict",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
-      "summary": "Fear and anger in South Africa as bodies of nine women found: What we know",
-      "outlets_covering": [
-        "BBC World",
-        "Wash Post World",
-        "Al Jazeera"
-      ],
-      "coverage_count": 3,
-      "region": "Africa",
-      "category": "Politics",
-      "source_url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss"
     }
   ]
 }
