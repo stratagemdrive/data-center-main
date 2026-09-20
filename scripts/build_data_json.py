@@ -26,7 +26,7 @@ MAX_RETRIES = 1
 RETRY_SLEEP = 1.0
 WINDOW_HOURS = 168  # 7 days
 
-# 100 Reliable and Free Global News RSS Feeds
+# Reliable and Free Global News RSS Feeds
 RSS_FEEDS: Dict[str, str] = {
     # Global Wire Services & Major International Outlets
     "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -159,7 +159,9 @@ _SUFFIX_DROPS = [
 def clean_headline(title: str) -> str:
     if not title:
         return ""
-    t = title.strip()
+    # Strip HTML tags
+    t = re.sub(r"<[^>]+>", "", title)
+    t = t.strip()
     for p in _PREFIX_DROPS:
         t = re.sub(p, "", t, flags=re.IGNORECASE)
     for p in _SUFFIX_DROPS:
@@ -243,7 +245,11 @@ _DATE_PAT = re.compile(rf"\b(?:\d{{1,2}}\s+{_MONTHS}|\d{{4}}-\d{{2}}-\d{{2}}|{_M
 def _extract_date(text: str, pub_dt: Optional[datetime] = None) -> str:
     m = _DATE_PAT.search(text)
     if m:
-        return m.group(0)
+        try:
+            parsed_date = dtparser.parse(m.group(0), default=datetime.now(timezone.utc))
+            return parsed_date.strftime("%Y-%m-%d")
+        except Exception:
+            pass
     if pub_dt:
         return pub_dt.strftime("%Y-%m-%d")
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -302,7 +308,6 @@ def process_sections(entries: List[dict]) -> dict:
     org_items = []
     diplomatic_items = []
     election_items = []
-    global_items = []
 
     _DIPLOMATIC_KW = [r"\bvisit\b", r"\bmeets?\b", r"\bmet\b", r"\btalks\b", r"\bsummit\b", r"\btravels to\b", r"\barrives in\b"]
     _ELECTION_KW = [r"\belection\b", r"\bpresidential vote\b", r"\bparliamentary vote\b", r"\bballots\b"]
@@ -314,7 +319,6 @@ def process_sections(entries: List[dict]) -> dict:
         d = entry["description"]
         pub_dt = entry["publishedAt"]
         url = entry["link"]
-        src = entry["source"]
         full_text = f"{t} {d}"
 
         # 1. World Org Meetings
@@ -359,41 +363,11 @@ def process_sections(entries: List[dict]) -> dict:
                 assigned_urls.add(url)
                 continue
 
-        # 4. Global Events Coverage Aggregation
-        if url not in assigned_urls:
-            # Check if story exists in global_items to consolidate source coverage
-            matched = False
-            for g_item in global_items:
-                # Basic token-overlap similarity check for multi-outlet coverage
-                t_words = set(re.findall(r"\w+", t.lower()))
-                g_words = set(re.findall(r"\w+", g_item["title"].lower()))
-                overlap = len(t_words & g_words) / max(len(t_words), 1)
-                
-                if overlap > 0.6:
-                    if src not in g_item["outlets_covering"]:
-                        g_item["outlets_covering"].append(src)
-                        g_item["coverage_count"] += 1
-                    matched = True
-                    assigned_urls.add(url)
-                    break
-            
-            if not matched and len(global_items) < 5:
-                global_items.append({
-                    "title": t,
-                    "summary": d,
-                    "outlets_covering": [src],
-                    "coverage_count": 1,
-                    "region": _infer_country(full_text) or "Global",
-                    "category": "General",
-                    "source_url": url
-                })
-                assigned_urls.add(url)
-
+    # Notice: 'global_events' is omitted entirely
     return {
         "world_org_meetings": org_items,
         "diplomatic_visits": diplomatic_items,
-        "elections": election_items,
-        "global_events": global_items
+        "elections": election_items
     }
 
 def apply_carry_forward(new_data: dict, file_path: str = "public/data.json") -> dict:
@@ -407,7 +381,7 @@ def apply_carry_forward(new_data: dict, file_path: str = "public/data.json") -> 
     except Exception:
         return new_data
 
-    sections = ["world_org_meetings", "diplomatic_visits", "elections", "global_events"]
+    sections = ["world_org_meetings", "diplomatic_visits", "elections"]
     
     for sec in sections:
         current_list = new_data.get(sec, [])
@@ -425,6 +399,9 @@ def apply_carry_forward(new_data: dict, file_path: str = "public/data.json") -> 
                 
         new_data[sec] = current_list
 
+    # Force purge global_events from existing data if it was cached
+    new_data.pop("global_events", None)
+
     return new_data
 
 def main():
@@ -438,7 +415,7 @@ def main():
     os.makedirs("public", exist_ok=True)
     with open("public/data.json", "w") as f:
         json.dump(final_data, f, indent=2)
-    print(f"Successfully processed {len(entries)} entries across 100 feeds and updated public/data.json")
+    print(f"Successfully processed {len(entries)} entries across feeds and updated public/data.json")
 
 if __name__ == "__main__":
     main()
