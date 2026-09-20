@@ -1,170 +1,186 @@
 {
-  "last_updated": "2026-09-20T15:05:16.036460Z",
   "world_org_meetings": [
     {
-      "title": "Global Conflicts Shape High Stakes UN Meetings",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "organization": "NATO",
+      "date": "2026-09-19",
+      "location": "",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "organization": "NATO",
+      "date": "2026-09-18",
+      "location": "Russia",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The new lines of southern Lebanon",
       "organization": "UN",
-      "date": "",
+      "date": "2026-09-19",
       "location": "",
-      "description": "Global Conflicts Shape High Stakes UN Meetings",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-09-20/global-conflicts-shape-high-stakes-un-meetings-video"
+      "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah \u2014 the militant group created in 1982 to counter a second Israeli invasion.",
+      "source_url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
     },
     {
-      "title": "Why the UN General Assembly still matters",
+      "title": "Head of European Investment Bank eyes Canada opportunities as Carney pushes EU ties",
+      "organization": "EU",
+      "date": "2026-09-20",
+      "location": "Ukraine",
+      "description": "<img alt=\"President of the European Investment Bank Nadia Calvino\" height=\"349\" src=\"https://i.cbc.ca/ais/99d8ab9c-0806-410b-af70-c37e8ce6e824,1789922324803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C225%2C8297%2C4667%29%3B\" title=\"President of the European Investment Bank Nadia Calvino speaks during the briefing with Ukrainian President Volodymyr Zelenskyy in Kyiv, Ukraine, Monday, Feb. 10, 2025. (AP Photo/Efrem Lukatsky)\" width=\"620\" /><p>The president of the European Union's investment bank says \"the time is ripe\" to deepen its co-operation with Canada by exploring how to finance Canadian projects \u2014 comments that come as Prime Minister Mark Carney pushes for more EU ties.</p>",
+      "source_url": "https://www.cbc.ca/news/politics/european-investment-bank-carney-eu-nadia-calvino-canadian-projects-9.7351408?cmp=rss"
+    },
+    {
+      "title": "North Korea fires two ballistic missiles off east coast in three hours",
       "organization": "UN",
-      "date": "",
+      "date": "June 25",
       "location": "",
-      "description": "Why the UN General Assembly still matters",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168361"
-    },
-    {
-      "title": "US weighs delaying Taiwan arms sales until after Apec and G20 summits",
-      "organization": "G20",
-      "date": "",
-      "location": "",
-      "description": "US weighs delaying Taiwan arms sales until after Apec and G20 summits",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3368060/us-weighs-delaying-taiwan-arms-sales-until-after-apec-and-g20-summits"
-    },
-    {
-      "title": "What the BRICS Summit Meant for Brazil",
-      "organization": "BRICS",
-      "date": "",
-      "location": "",
-      "description": "What the BRICS Summit Meant for Brazil",
-      "source_url": "https://foreignpolicy.com/2026/09/18/brazil-brics-summit-new-delhi-diplomacy-climate"
-    },
-    {
-      "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
-      "organization": "UN",
-      "date": "",
-      "location": "",
-      "description": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
-      "source_url": "https://news.un.org/feed/view/en/story/2026/09/1168375"
+      "description": "<img alt=\"A rocket is launched from the back of a truck.\" height=\"349\" src=\"https://i.cbc.ca/ais/20354211-e697-41b9-a1ab-b1ef4b3961b7,1789910564657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6912%2C3888%29%3B\" title=\"A rocket launcher fires a munition during tests, involving an upgraded version of a 240-mm, 24-tube multiple rocket launcher system, tactical ballistic missiles, and a 155-mm self-propelled howitzer, overseen by North Korean leader Kim Jong Un in North Korea, June 25, 2026.\" width=\"620\" /><p>North Korea launched two missiles off its eastern coast on Sunday, its second set of tests in roughly a week and days after Pyongyang accused the U.S. of driving tensions on the Korean Peninsula through a series of military drills.</p>",
+      "source_url": "https://www.cbc.ca/news/world/north-korea-fires-ballistic-missiles-9.7351274?cmp=rss"
     }
   ],
-  "diplomatic_visits": [],
+  "diplomatic_visits": [
+    {
+      "title": "Defining global leadership in AI at Trump-Xi summit",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-20",
+      "description": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
+      "source_url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit"
+    },
+    {
+      "title": "Protection for women who defy the Mafia is changing in Italy. Does it go far enough?",
+      "visiting_leader": "",
+      "host_country": "Italy",
+      "date": "January 19",
+      "description": "<img alt=\"People stand outside near a tall metal fence.\" height=\"349\" src=\"https://i.cbc.ca/ais/22735337-1f93-476b-9ef8-279799ed7a88,1789751045551/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C427%2C8195%2C4609%29%3B\" title=\"Reporters wait on January 19, 2023 outside a special bunker court in Caltanissetta, Sicily, where mafia boss Matteo Messina Denaro is expected to appear via videolink, for the 1992 Via D&apos;Amelio bombing in Palermo, and the 1992 Capaci bombing. - Messina Denaro, 60, a convicted killer, was caught during a visit to the clinic on January 16, 2023 after 30 years on the run, after being forced to seek treatment for cancer. The 1992 Palermo bombing killed anti-mafia Italian magistrate Paolo Borsellino, as the Capaci bombing killed Italian magistrate Giovanni Falcone, his wife Francesca Morvillo, and three police escort agents.\" width=\"620\" /><p>For women speaking out against the Mafia, the protection offered can be both practically and emotionally challenging. A new Italian law extending protection from organized crime to children and the adults caring for them \u2014 often their mothers \u2014 is designed to address some of that gap.</p>",
+      "source_url": "https://www.cbc.ca/news/world/italy-mafia-women-protection-free-to-choose-law-9.7349744?cmp=rss"
+    },
+    {
+      "title": "Why Prince Harry and Meghan face more challenges after their return to the U.K.",
+      "visiting_leader": "",
+      "host_country": "",
+      "date": "SEPTEMBER 17",
+      "description": "<img alt=\"A person talks to other people wearing military uniforms.\" height=\"349\" src=\"https://i.cbc.ca/ais/8de3b396-8830-48f6-8ebe-f6fd4db14362,1789758798088/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C74%2C1024%2C576%29%3B\" title=\"LONDON, ENGLAND - SEPTEMBER 17: Prince Harry, Duke of Sussex speaks to members of the Irish Guards&apos; Band as he arrives at the Invictus Games Foundation&apos;s inaugural Invictus Spirit Awards at Old Royal Naval College in Greenwich on September 17, 2026 in London, England. (Photo by Aaron Chown-Pool/Getty Images)\" width=\"620\" /><p>Issues that arose when Prince Harry and Meghan, Duchess of Sussex, stepped back from official duties in 2020, along with new challenges around concerns such as security, are front and centre after their return to Britain.</p>",
+      "source_url": "https://www.cbc.ca/news/world/prince-harry-meghan-return-challenges-king-charles-ai-9.7350038?cmp=rss"
+    },
+    {
+      "title": "Macron and Carney to hold talks on strengthening Canada-France economic and defense ties",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-09-20",
+      "description": "French President Emmanuel Macron and Canadian Prime Minister Mark Carney are set to meet to deepen economic and security ties on the North Atlantic archipelago of Saint-Pierre-et-Miquelon",
+      "source_url": "https://abcnews.com/International/wireStory/macron-carney-hold-talks-strengthening-canada-france-economic-136596498"
+    },
+    {
+      "title": "Charles Spencer on the royal fallout following Princess Diana's death",
+      "visiting_leader": "",
+      "host_country": "",
+      "date": "2026-09-20",
+      "description": "In his first interview about his new book, \"Swan Song: Diana, My Sister,\" Charles Spencer talks about his attempt to set down what he calls the definitive story of Princess Diana.",
+      "source_url": "https://www.cbsnews.com/news/charles-spencers-striking-claims-about-the-royal-fallout-following-princess-dianas-death"
+    }
+  ],
   "elections": [
     {
-      "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
-      "country": "Ukraine",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "country": "Germany",
       "election_type": "National",
-      "date": "",
-      "description": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
-      "source_url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+      "date": "2026-09-20",
+      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "country": "",
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "country": "Germany",
       "election_type": "National",
-      "date": "",
-      "description": "German elections under way which could decide fate of Chancellor Merz",
-      "source_url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+      "date": "2026-09-20",
+      "description": "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made significant gains.",
+      "source_url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat"
     },
     {
-      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "",
-      "description": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-      "source_url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election"
-    },
-    {
-      "title": "How Prediction Markets Upstaged Election Polls",
-      "country": "",
-      "election_type": "National",
-      "date": "",
-      "description": "How Prediction Markets Upstaged Election Polls",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-20/how-prediction-markets-upstaged-election-polls"
-    },
-    {
-      "title": "Russia reports mass cyberattacks targeting elections",
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
       "country": "Russia",
       "election_type": "National",
-      "date": "",
-      "description": "Russia reports mass cyberattacks targeting elections",
-      "source_url": "https://www.thehindu.com/news/international/russia-reports-mass-cyberattacks-targeting-elections/article71488329.ece"
+      "date": "2026-09-19",
+      "description": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
+      "source_url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+    },
+    {
+      "title": "Putin's ruling party on track to comfortably win wartime Russian election",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "September 20",
+      "description": "<img alt=\"Election workers pour ballots onto a table.\" height=\"349\" src=\"https://i.cbc.ca/ais/4ad666e3-0636-4ba7-ae57-a5a67c88065e,1789939763738/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C35%2C6000%2C3375%29%3B\" title=\"Members of a local electoral commission empty a ballot box before counting votes as they stand near portraits of Russian President Vladimir Putin and Denis Pushilin, Moscow-installed leader of the Russian-controlled parts of the Donetsk region, on the final day of Russia&apos;s three-day parliamentary election, amid the Russia-Ukraine conflict in Donetsk, a Russian-controlled city of Ukraine, September 20, 2026. REUTERS/Alexander Ermochenko TPX IMAGES OF THE DAY\" width=\"620\" /><p>Russia's ruling United Russia party was on track to easily win a parliamentary election that President Vladimir Putin has cast as a test of support for the war in Ukraine, partial official results showed on Sunday, after Ukraine launched a massive \u200cdrone attack on the Russian capital.</p>",
+      "source_url": "https://www.cbc.ca/news/world/russia-election-putin-9.7351526?cmp=rss"
+    },
+    {
+      "title": "Germany's Merz vows to press on with reforms despite state election losses to far-right AfD",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "2026-09-20",
+      "description": "<img alt=\"A person speaks at a news conference.\" height=\"349\" src=\"https://i.cbc.ca/ais/f4541d1c-e735-444f-9836-de4e5da1ee3f,1789924301235/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C279%2C8640%2C4860%29%3B\" title=\"German Chancellor Friedrich Merz speaks to media at the Christian Democratic Union party headquarters in Berlin, Germany, Sunday, Sept. 20, 2026. (AP Photo/Markus Schreiber)\" width=\"620\" /><p>German Chancellor Friedrich Merz suffered a bruising electoral setback in two state elections on Sunday, including a historic defeat for his party, but vowed to press ahead with potentially painful reforms to Europe's biggest economy.</p>",
+      "source_url": "https://www.cbc.ca/news/world/friedrich-merz-germany-afd-agenda-9.7351429?cmp=rss"
     }
   ],
   "global_events": [
     {
-      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-      "summary": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "outlets_covering": [
-        "NPR World",
-        "ABC News Intl",
-        "NBC News World",
-        "The Hindu Intl"
+        "BBC World"
       ],
-      "coverage_count": 4,
-      "region": "Europe / Russia",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+      "coverage_count": 1,
+      "region": "Germany",
+      "category": "General",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
-      "summary": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "outlets_covering": [
-        "NYT World",
-        "Al Jazeera",
-        "France24",
-        "The Hindu Intl"
+        "BBC World"
       ],
-      "coverage_count": 4,
-      "region": "Middle East",
-      "category": "Politics",
-      "source_url": "https://www.nytimes.com/2026/09/20/world/middleeast/israeli-killed-west-bank-attack.html"
+      "coverage_count": 1,
+      "region": "Ukraine",
+      "category": "General",
+      "source_url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "North Korea fires two ballistic missiles off east coast in three hours",
-      "summary": "North Korea fires two ballistic missiles off east coast in three hours",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
       "outlets_covering": [
-        "CBC World",
-        "France24",
-        "Japan Times",
-        "The Hindu Intl"
+        "BBC World"
       ],
-      "coverage_count": 4,
-      "region": "East / Southeast Asia",
-      "category": "Conflict",
-      "source_url": "https://www.cbc.ca/news/world/north-korea-fires-ballistic-missiles-9.7351274?cmp=rss"
+      "coverage_count": 1,
+      "region": "Global",
+      "category": "General",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ukraine launches 1,000 drones at Russia, including hundreds fired at Moscow",
-      "summary": "Ukraine launches 1,000 drones at Russia, including hundreds fired at Moscow",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "CBS News World",
-        "NBC News World",
-        "Fox News World",
-        "The Guardian World",
-        "Al Jazeera",
-        "France24",
-        "Times of India"
+        "BBC World"
       ],
-      "coverage_count": 11,
-      "region": "Europe / Russia",
-      "category": "Politics",
-      "source_url": "https://www.cbsnews.com/news/ukraine-drone-attack-moscow-russia"
+      "coverage_count": 1,
+      "region": "Global",
+      "category": "General",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Saudi Arabia says Houthis tried to attack its capital",
-      "summary": "Saudi Arabia says Houthis tried to attack its capital",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
       "outlets_covering": [
-        "BBC World",
-        "NPR World",
-        "CBC World",
-        "Sky News World",
-        "NYT World",
-        "The Guardian World",
-        "Wash Post World",
-        "The Hindu Intl"
+        "BBC World"
       ],
-      "coverage_count": 8,
-      "region": "Middle East",
-      "category": "Conflict",
-      "source_url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital"
+      "coverage_count": 1,
+      "region": "Global",
+      "category": "General",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss"
     }
-  ]
+  ],
+  "last_updated": "2026-09-20T22:15:14.398415+00:00"
 }
