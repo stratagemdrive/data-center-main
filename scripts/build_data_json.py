@@ -11,6 +11,10 @@ import feedparser
 import requests
 from dateutil import parser as dtparser
 
+# Ensure docs directory resolution works whether run from root or inside /scripts
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DOCS_DATA_PATH = REPO_ROOT / "docs" / "data.json"
+
 # Configuration
 HEADERS = {
     "User-Agent": (
@@ -363,16 +367,15 @@ def process_sections(entries: List[dict]) -> dict:
                 assigned_urls.add(url)
                 continue
 
-    # Notice: 'global_events' is omitted entirely
     return {
         "world_org_meetings": org_items,
         "diplomatic_visits": diplomatic_items,
         "elections": election_items
     }
 
-def apply_carry_forward(new_data: dict, file_path: str = "public/data.json") -> dict:
+def apply_carry_forward(new_data: dict, file_path: Path = DOCS_DATA_PATH) -> dict:
     """Carries forward historical records if fresh scrape yields fewer than 5 items."""
-    if not os.path.exists(file_path):
+    if not file_path.exists():
         return new_data
 
     try:
@@ -399,7 +402,6 @@ def apply_carry_forward(new_data: dict, file_path: str = "public/data.json") -> 
                 
         new_data[sec] = current_list
 
-    # Force purge global_events from existing data if it was cached
     new_data.pop("global_events", None)
 
     return new_data
@@ -408,14 +410,13 @@ def main():
     entries = fetch_all_feed_entries()
     fresh_data = process_sections(entries)
     
-    # Preserve 5-slot targets using existing JSON data
-    final_data = apply_carry_forward(fresh_data, "public/data.json")
+    final_data = apply_carry_forward(fresh_data)
     final_data["last_updated"] = datetime.now(timezone.utc).isoformat()
 
-    os.makedirs("public", exist_ok=True)
-    with open("public/data.json", "w") as f:
+    DOCS_DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(DOCS_DATA_PATH, "w") as f:
         json.dump(final_data, f, indent=2)
-    print(f"Successfully processed {len(entries)} entries across feeds and updated public/data.json")
+    print(f"Successfully processed {len(entries)} entries across feeds and updated {DOCS_DATA_PATH}")
 
 if __name__ == "__main__":
     main()
