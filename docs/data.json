@@ -1,12 +1,28 @@
 {
   "world_org_meetings": [
     {
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "organization": "UN",
+      "date": "2026-09-21",
+      "location": "Global",
+      "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo"
+    },
+    {
       "title": "What to know as world leaders converge at the United Nations this week",
       "organization": "UN",
       "date": "2026-09-21",
       "location": "Ukraine",
       "description": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
       "source_url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly"
+    },
+    {
+      "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+      "organization": "UN",
+      "date": "2026-09-21",
+      "location": "Global",
+      "description": "Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.",
+      "source_url": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss"
     },
     {
       "title": "Trump to meet Macron in New York before UN General Assembly",
@@ -23,22 +39,6 @@
       "location": "Global",
       "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "organization": "NATO",
-      "date": "2026-09-18",
-      "location": "Russia",
-      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The new lines of southern Lebanon",
-      "organization": "UN",
-      "date": "2026-09-19",
-      "location": "Global",
-      "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
-      "source_url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
     }
   ],
   "diplomatic_visits": [
@@ -85,14 +85,6 @@
   ],
   "elections": [
     {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "country": "Germany",
-      "election_type": "National",
-      "date": "2026-09-21",
-      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o"
-    },
-    {
       "title": "'No surprises' as results emerge in Russian parliamentary election",
       "country": "Russia",
       "election_type": "National",
@@ -109,12 +101,20 @@
       "source_url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine"
     },
     {
-      "title": "Main Kremlin party keeps control of Russia’s parliament after orchestrated vote",
-      "country": "Russia",
+      "title": "REPLAY: German Chancellor Friedrich Merz in post-vote comments",
+      "country": "Germany",
       "election_type": "National",
       "date": "2026-09-21",
-      "description": "Election officials say the Kremlin's main party has retained its majority in Russia&rsquo;s parliament",
-      "source_url": "https://abcnews.com/International/wireStory/main-kremlin-party-control-russias-parliament-after-carefully-136611904"
+      "description": "German Chancellor Friedrich Merz and CDU representatives held a press conference on Monday, September 21, after the party suffered its worst regional election defeat in postwar Germany. Merz called the result in Mecklenburg-Western Pomerania a “disaster”, as the CDU fell below the 5% threshold for entering the state parliament. According to FRANCE 24 Europe editor Armen Georgian, Merz and his party’s Berlin candidate, Stefan Evers, offered no concrete solutions to address the historic defeat, despite pledging to keep the coalition together in the name of a “democratic future.”",
+      "source_url": "https://www.france24.com/en/replay-german-chancellor-friedrich-merz-in-post-vote-comments"
+    },
+    {
+      "title": "Midterm elections: Trump looms large over 2026 vote as Democrats eye gains",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-21",
+      "description": "With the US midterm elections now just six weeks away, we’ll speak to our Washington correspondent Fraser Jackson about whether President Donald Trump could help or hurt his party’s chances. Polls have pointed to what some are calling a “blue wave”, with Democrats potentially regaining control of the House, while the Senate race remains more uncertain. Trump has ramped up campaigning, including spending heavily on advertising and proposing $5,000 payments to voters who support Republicans. But with his approval ratings under pressure amid the war in Iran and the Middle East, and rising oil, gasoline and commodity prices compared with before he took office, the political landscape could still shift significantly in the coming weeks.",
+      "source_url": "https://www.france24.com/en/midterm-elections-trump-looms-large-over-2026-vote-as-democrats-eye-gains"
     },
     {
       "title": "Regional losses for Germany's ruling CDU",
@@ -125,5 +125,5 @@
       "source_url": "https://www.france24.com/en/regional-losses-for-germany-s-ruling-cdu"
     }
   ],
-  "last_updated": "2026-09-21T11:29:41.467624+00:00"
+  "last_updated": "2026-09-21T17:28:01.984694+00:00"
 }
