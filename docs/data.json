@@ -51,12 +51,28 @@
       "source_url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit"
     },
     {
+      "title": "Carney touts Arctic alliance with Norway during PM's visit to Ottawa, amid Russia threat",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-09-21",
+      "description": "Prime Minister Mark Carney is courting deeper defence ties with Norway, as well as investment from its massive, petroleum-based sovereign wealth fund.",
+      "source_url": "https://www.cbc.ca/news/politics/carney-norway-arctic-9.7351679"
+    },
+    {
+      "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-18",
+      "description": "Taiwan&rsquo;s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed",
+      "source_url": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853"
+    },
+    {
       "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
       "visiting_leader": "",
       "host_country": "France",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "description": "French President ​Emmanuel Macron and Canadian Prime Minister Mark Carney on ​Sunday called for stronger bilateral ties in the face of new global threats at a meeting on Saint Pierre and Miquelon, a French territory off Canada's Newfoundland. The first-ever visit by a Canadian leader to the North Atlantic archipelago came as both countries have increasingly awkward relations with the US.",
-      "source_url": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting"
+      "source_url": "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting"
     },
     {
       "title": "Charles Spencer on the royal fallout following Princess Diana's death",
@@ -65,14 +81,6 @@
       "date": "2026-09-20",
       "description": "In his first interview about his new book, \"Swan Song: Diana, My Sister,\" Charles Spencer talks about his attempt to set down what he calls the definitive story of Princess Diana.",
       "source_url": "https://www.cbsnews.com/news/charles-spencers-striking-claims-about-the-royal-fallout-following-princess-dianas-death"
-    },
-    {
-      "title": "10-year Treasury yield tops 5% as oil surges and diesel hits all-time high",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-14",
-      "description": "Talks between Iran and Gulf countries about the future of the Strait of Hormuz were delayed after a key Saudi pipeline was hit.",
-      "source_url": "https://www.nbcnews.com/business/business-news/diesel-oil-prices-jump-saudi-pipeline-shut-hormuz-talks-postponed-iran-rcna597579"
     }
   ],
   "elections": [
@@ -81,7 +89,7 @@
       "country": "Germany",
       "election_type": "National",
       "date": "2026-09-20",
-      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
       "source_url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o"
     },
     {
@@ -101,21 +109,21 @@
       "source_url": "https://www.cbc.ca/news/world/russia-election-putin-9.7351526"
     },
     {
-      "title": "Canada's top general is up for a senior NATO post. Will Trump get in her way?",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "2026-09-18",
-      "description": "Canada's Gen. Jennie Carignan faces Germany's Gen. Carsten Breuer on Saturday in a secret-ballot contest to chair NATO's Military Committee. A victory would make Carignan the first woman to hold the post and return Canada to the chair after nearly two decades, amid Ottawa's push for deeper ties with Europe.",
-      "source_url": "https://www.cbc.ca/news/politics/nato-canada-us-military-europe-9.7348767"
-    },
-    {
-      "title": "Russia's first wartime parliamentary election shows Kremlin dominance all but assured",
+      "title": "Early returns show main Kremlin party leading Russia’s parliamentary election",
       "country": "Russia",
       "election_type": "National",
       "date": "2026-09-20",
       "description": "The election was virtually devoid of opposition to President Putin's policies.",
       "source_url": "https://abcnews.com/International/wireStory/russia-wraps-wartime-parliamentary-election-kremlin-dominance-assured-136599037"
+    },
+    {
+      "title": "AfD threatens fresh blow to Merz: Two German states hold key vote",
+      "country": "Germany",
+      "election_type": "National",
+      "date": "2026-09-20",
+      "description": "Two German states are heading to the polls today – in Berlin and the state of Mecklenburg-Western Pomerania. The far-right AfD party is expected to make further gains after securing a historic win in Saxony-Anhalt two weeks ago, though it has no realistic path to power in Berlin. Sunday's vote is a key test for Chancellor Friedrich Merz, one that could determine whether he can hold on to power. Details with Jamie Smith-Maillet, FRANCE 24 international affairs editor.",
+      "source_url": "https://www.france24.com/en/afd-threatens-fresh-blow-to-merz-two-german-states-hold-key-vote"
     }
   ],
-  "last_updated": "2026-09-20T22:41:33.216577+00:00"
+  "last_updated": "2026-09-21T02:26:59.147752+00:00"
 }
