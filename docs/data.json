@@ -1,20 +1,12 @@
 {
   "world_org_meetings": [
     {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "organization": "UN",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "organization": "G7",
       "date": "2026-09-22",
       "location": "Global",
-      "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo"
-    },
-    {
-      "title": "Manchester to host world leaders at G20 summit in 2027",
-      "organization": "G20",
-      "date": "2026-09-21",
-      "location": "Global",
-      "description": "Prime Minister Andy Burnham said he was pleased he would be welcoming US President Donald Trump to the city.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv4g503n374jo"
+      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo"
     },
     {
       "title": "What to know as world leaders converge at the United Nations this week",
@@ -25,23 +17,39 @@
       "source_url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly"
     },
     {
-      "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+      "title": "US networks halt Trump coverage after three media outlets banned",
       "organization": "UN",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "location": "Global",
-      "description": "Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.",
-      "source_url": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss"
+      "description": "US television networks on Monday effectively boycotted coverage of President Donald Trump in protest at his decision to ban three leading outlets - CNN, MS NOW and Politico - from the White House. As a result, Trump's opening of his cherished new White House helipad and his trip to the United Nations General Assembly proceeded without live television coverage.",
+      "source_url": "https://www.france24.com/en/video/20260922-us-networks-halt-trump-coverage-after-three-media-outlets-banned"
     },
     {
-      "title": "Trump to meet Macron in New York before UN General Assembly",
+      "title": "World leaders gather at UN amid wars, AI fears and global divisions",
       "organization": "UN",
-      "date": "2026-09-21",
-      "location": "France",
-      "description": "US President Donald Trump will meet with French President Emmanuel Macron on Monday in New York, where both leaders will be attending the United Nations General Assembly this week, the White House said.",
-      "source_url": "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly"
+      "date": "2026-09-22",
+      "location": "Ukraine",
+      "description": "World leaders are gathering at the United Nations this week against a backdrop of wars in the Middle East and Ukraine, rising fears over artificial intelligence and mounting economic and climate pressures. The annual General Assembly will test whether the 193-member body can still bring countries together to tackle crises that increasingly transcend borders.",
+      "source_url": "https://www.france24.com/en/americas/20260922-world-leaders-gather-at-un-amid-wars-ai-fears-and-global-divisions"
+    },
+    {
+      "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Russia",
+      "description": "Overnight missile and drone attacks hit several Ukrainian regions as world leaders gather in New York, US.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "As Trump-Xi summit nears, Europe is caught in middle of US-China rivalry",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-09-21",
+      "description": "China's Xi Jinping is traveling to Washington this week. Regardless of what comes from his talks with US President Trump, the EU will likely remain stuck between erratic US trade policy and Beijing's export machine.",
+      "source_url": "https://www.dw.com/en/as-trump-xi-summit-nears-europe-is-caught-in-middle-of-us-china-rivalry/a-79356540?maca=en-rss-en-world-4025-rdf"
+    },
     {
       "title": "Defining global leadership in AI at Trump-Xi summit",
       "visiting_leader": "",
@@ -73,14 +81,6 @@
       "date": "2026-09-18",
       "description": "Taiwan&rsquo;s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed",
       "source_url": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853"
-    },
-    {
-      "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-09-21",
-      "description": "French President ​Emmanuel Macron and Canadian Prime Minister Mark Carney on ​Sunday called for stronger bilateral ties in the face of new global threats at a meeting on Saint Pierre and Miquelon, a French territory off Canada's Newfoundland. The first-ever visit by a Canadian leader to the North Atlantic archipelago came as both countries have increasingly awkward relations with the US.",
-      "source_url": "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting"
     }
   ],
   "elections": [
@@ -93,27 +93,11 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro"
     },
     {
-      "title": "How Russia's parliamentary election might affect the war in Ukraine",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-09-21",
-      "description": "NPR's Steve Inskeep asks Russian foreign policy expert Hanna Notte about the results of Russia's parliamentary election and what it means for Moscow's war in Ukraine.",
-      "source_url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine"
-    },
-    {
-      "title": "Main Kremlin party keeps control of Russia’s parliament after orchestrated vote",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-09-21",
-      "description": "Election officials say the Kremlin's main party has retained its majority in Russia&rsquo;s parliament",
-      "source_url": "https://abcnews.com/International/wireStory/main-kremlin-party-control-russias-parliament-after-carefully-136611904"
-    },
-    {
       "title": "Ethiopia's main armed groups form anti-government alliance",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-21",
-      "description": "In tonight's edition, a coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, I speak to the deputy chief of the UN's peacekeeping mission in DR Congo. And with just a few days to go before the legislative elections, young Moroccans are torn between hope and skepticism ahead of the crucial vote.",
+      "description": "In tonight's edition: A coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, we speak to the deputy chief of the UN's peacekeeping mission in DR Congo. And with just a few days to go before legislative elections, young Moroccans are torn between hope and scepticism ahead of the crucial vote.",
       "source_url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance"
     },
     {
@@ -121,9 +105,25 @@
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-21",
-      "description": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's Attorney General said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
+      "description": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's attorney general said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
       "source_url": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition"
+    },
+    {
+      "title": "Russians abroad voted eight to one against Putin's party, defying official results",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-09-22",
+      "description": "Two independent exit polls covering 27 countries put New People first with around 45% and United Russia as low as 2.8%, the reverse of official results inside Russia, where Putin's party took nearly 58%. Exit poll organisers said the gap \"destroys the image of supposed support for the authorities.\"",
+      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results"
+    },
+    {
+      "title": "Brazil election: Lula and Flavio Bolsonaro tied in latest polls",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-22",
+      "description": "Luiz Inacio Lula da Silva is running in October&#039;s election for a fourth non-consecutive term as Brazil&#039;s president.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-22T02:30:11.185793+00:00"
+  "last_updated": "2026-09-22T10:37:03.115925+00:00"
 }
