@@ -9,6 +9,22 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo"
     },
     {
+      "title": "REPLAY: UN chief Guterres makes final address to the General Assembly",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "United Nations Secretary-General Antonio Guterres used ​his final address to the General Assembly on Tuesday to urge world leaders to regulate artificial intelligence, end wars, focus on climate change and overhaul UN institutions he warned are struggling to confront mounting global challenges. Watch his speech in full above.",
+      "source_url": "https://www.france24.com/en/video/20260922-replay-un-chief-guterres-makes-final-address-to-the-general-assembly"
+    },
+    {
+      "title": "Wars, AI and climate on agenda as world leaders meet at UN",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "In the face of an unrelenting succession of global crises, this year's United Nations General Assembly has chosen as its theme “Restoring trust, managing transformation: A United Nations that delivers for all”. From AI to climate change and ongoing wars, France 24 takes a look at what’s on the agenda.",
+      "source_url": "https://www.france24.com/en/video/20260922-wars-ai-and-climate-on-agenda-as-world-leaders-meet-at-un"
+    },
+    {
       "title": "What to know as world leaders converge at the United Nations this week",
       "organization": "UN",
       "date": "2026-09-21",
@@ -23,22 +39,6 @@
       "location": "Global",
       "description": "US television networks on Monday effectively boycotted coverage of President Donald Trump in protest at his decision to ban three leading outlets - CNN, MS NOW and Politico - from the White House. As a result, Trump's opening of his cherished new White House helipad and his trip to the United Nations General Assembly proceeded without live television coverage.",
       "source_url": "https://www.france24.com/en/video/20260922-us-networks-halt-trump-coverage-after-three-media-outlets-banned"
-    },
-    {
-      "title": "World leaders gather at UN amid wars, AI fears and global divisions",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Ukraine",
-      "description": "World leaders are gathering at the United Nations this week against a backdrop of wars in the Middle East and Ukraine, rising fears over artificial intelligence and mounting economic and climate pressures. The annual General Assembly will test whether the 193-member body can still bring countries together to tackle crises that increasingly transcend borders.",
-      "source_url": "https://www.france24.com/en/americas/20260922-world-leaders-gather-at-un-amid-wars-ai-fears-and-global-divisions"
-    },
-    {
-      "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Russia",
-      "description": "Overnight missile and drone attacks hit several Ukrainian regions as world leaders gather in New York, US.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
@@ -85,6 +85,22 @@
   ],
   "elections": [
     {
+      "title": "Russians abroad voted eight to one against Putin's party, defying official results",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-09-22",
+      "description": "Two independent exit polls covering 27 countries put New People first with around 45% and United Russia as low as 2.8%, the reverse of official results inside Russia, where Putin's party took nearly 58%. Exit poll organisers said the gap \"destroys the image of supposed support for the authorities.\"",
+      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results"
+    },
+    {
+      "title": "Who actually has power at the United Nations?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-22",
+      "description": "Every country at the UN gets a vote. But five countries have a power the other 188 don’t: the power of veto in the UNSC.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/who-actually-has-power-at-the-united-nations-2?traffic_source=rss"
+    },
+    {
       "title": "'No surprises' as results emerge in Russian parliamentary election",
       "country": "Russia",
       "election_type": "National",
@@ -107,23 +123,7 @@
       "date": "2026-09-21",
       "description": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's attorney general said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
       "source_url": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition"
-    },
-    {
-      "title": "Russians abroad voted eight to one against Putin's party, defying official results",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-09-22",
-      "description": "Two independent exit polls covering 27 countries put New People first with around 45% and United Russia as low as 2.8%, the reverse of official results inside Russia, where Putin's party took nearly 58%. Exit poll organisers said the gap \"destroys the image of supposed support for the authorities.\"",
-      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results"
-    },
-    {
-      "title": "Brazil election: Lula and Flavio Bolsonaro tied in latest polls",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-22",
-      "description": "Luiz Inacio Lula da Silva is running in October&#039;s election for a fourth non-consecutive term as Brazil&#039;s president.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-22T10:37:03.115925+00:00"
+  "last_updated": "2026-09-22T15:58:08.790480+00:00"
 }
