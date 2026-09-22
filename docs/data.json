@@ -9,39 +9,47 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo"
     },
     {
+      "title": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "France",
+      "description": "French President Emmanuel Macron used his last address before the UN General Assembly as France's leader to urge the world's nations to stand alongside the United Nations in the face of a resurgent \"law of the jungle\". Macron also called for a moratorium on strikes on civilian and energy infrastructure in the Russia-Ukraine war and an \"open-source\" model for frontier AI independent of China and the US.",
+      "source_url": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech"
+    },
+    {
+      "title": "Trump's world? Leaders navigate consequences of US policy",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "A year ago, Donald Trump went to the rostrum of the United Nations General Assembly - and after taxing an axe to US aid and development funding, read the world the riot act. One Iran war later, the US president sticking to script with a speech that borrowed much of the language of last year. With citizens on five continents now feeling the pain at the pump, we'll ask what it will take to tame a global energy crisis whose potential spiral mirrors the contagion of hostilities from the Strait of Hormuz to the mouth of the Red Sea?",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy"
+    },
+    {
+      "title": "Iran: Trump believes in an agreement after US midterms",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East. He added that he believed an agreement was possible after the US midterm elections in November.",
+      "source_url": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
+    },
+    {
       "title": "REPLAY: UN chief Guterres makes final address to the General Assembly",
       "organization": "UN",
       "date": "2026-09-22",
       "location": "Global",
       "description": "United Nations Secretary-General Antonio Guterres used ​his final address to the General Assembly on Tuesday to urge world leaders to regulate artificial intelligence, end wars, focus on climate change and overhaul UN institutions he warned are struggling to confront mounting global challenges. Watch his speech in full above.",
       "source_url": "https://www.france24.com/en/video/20260922-replay-un-chief-guterres-makes-final-address-to-the-general-assembly"
-    },
-    {
-      "title": "Wars, AI and climate on agenda as world leaders meet at UN",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "In the face of an unrelenting succession of global crises, this year's United Nations General Assembly has chosen as its theme “Restoring trust, managing transformation: A United Nations that delivers for all”. From AI to climate change and ongoing wars, France 24 takes a look at what’s on the agenda.",
-      "source_url": "https://www.france24.com/en/video/20260922-wars-ai-and-climate-on-agenda-as-world-leaders-meet-at-un"
-    },
-    {
-      "title": "What to know as world leaders converge at the United Nations this week",
-      "organization": "UN",
-      "date": "2026-09-21",
-      "location": "Ukraine",
-      "description": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
-      "source_url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly"
-    },
-    {
-      "title": "US networks halt Trump coverage after three media outlets banned",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "US television networks on Monday effectively boycotted coverage of President Donald Trump in protest at his decision to ban three leading outlets - CNN, MS NOW and Politico - from the White House. As a result, Trump's opening of his cherished new White House helipad and his trip to the United Nations General Assembly proceeded without live television coverage.",
-      "source_url": "https://www.france24.com/en/video/20260922-us-networks-halt-trump-coverage-after-three-media-outlets-banned"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "'What he's doing is positively un-American': Late-night hosts react to Trump media ban",
+      "visiting_leader": "",
+      "host_country": "United States",
+      "date": "2026-09-22",
+      "description": "The comedians of late-night television have a vested interest in protecting the First Amendment. So when U.S. President Donald Trump announced he was banning news outlets CNN, MS NOW, and Politico from the White House last Friday, they came out swinging.",
+      "source_url": "https://www.cbc.ca/news/entertainment/late-night-white-house-media-ban-9.7353577"
+    },
     {
       "title": "As Trump-Xi summit nears, Europe is caught in middle of US-China rivalry",
       "visiting_leader": "",
@@ -73,17 +81,17 @@
       "date": "2026-09-21",
       "description": "As part of a consortium of 26 media outlets coordinated by Forbidden Stories, FRANCE 24 and RFI spent seven months investigating the secret deals struck between the administration of US President Donald Trump and several African countries. These “third countries” have agreed to host undocumented migrants detained by ICE and deported from the United States.",
       "source_url": "https://www.france24.com/en/africa/20260921-deported-to-africa-an-international-investigation-into-trump-s-migrant-policy"
-    },
-    {
-      "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-18",
-      "description": "Taiwan&rsquo;s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed",
-      "source_url": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853"
     }
   ],
   "elections": [
+    {
+      "title": "Morocco holds elections after mass migration attempts and deadly youth protests. Here's what to know",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-22",
+      "description": "Moroccan voters are heading to the polls to elect a new parliament, with a focus on jobs, wages, and inequality",
+      "source_url": "https://abcnews.com/International/wireStory/morocco-holds-elections-after-mass-migration-attempts-deadly-136645757"
+    },
     {
       "title": "Russians abroad voted eight to one against Putin's party, defying official results",
       "country": "Russia",
@@ -115,15 +123,7 @@
       "date": "2026-09-21",
       "description": "In tonight's edition: A coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, we speak to the deputy chief of the UN's peacekeeping mission in DR Congo. And with just a few days to go before legislative elections, young Moroccans are torn between hope and scepticism ahead of the crucial vote.",
       "source_url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance"
-    },
-    {
-      "title": "Paramount, US states settle antitrust lawsuit over Warner Bros. acquisition",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-21",
-      "description": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's attorney general said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition"
     }
   ],
-  "last_updated": "2026-09-22T15:58:08.790480+00:00"
+  "last_updated": "2026-09-22T20:40:21.872281+00:00"
 }
