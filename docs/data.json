@@ -3,10 +3,18 @@
     {
       "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo"
+    },
+    {
+      "title": "Manchester to host world leaders at G20 summit in 2027",
+      "organization": "G20",
       "date": "2026-09-21",
       "location": "Global",
-      "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo"
+      "description": "Prime Minister Andy Burnham said he was pleased he would be welcoming US President Donald Trump to the city.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv4g503n374jo"
     },
     {
       "title": "What to know as world leaders converge at the United Nations this week",
@@ -31,14 +39,6 @@
       "location": "France",
       "description": "US President Donald Trump will meet with French President Emmanuel Macron on Monday in New York, where both leaders will be attending the United Nations General Assembly this week, the White House said.",
       "source_url": "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly"
-    },
-    {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "organization": "NATO",
-      "date": "2026-09-19",
-      "location": "Global",
-      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "diplomatic_visits": [
@@ -101,29 +101,29 @@
       "source_url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine"
     },
     {
-      "title": "REPLAY: German Chancellor Friedrich Merz in post-vote comments",
-      "country": "Germany",
+      "title": "Main Kremlin party keeps control of Russia’s parliament after orchestrated vote",
+      "country": "Russia",
       "election_type": "National",
       "date": "2026-09-21",
-      "description": "German Chancellor Friedrich Merz and CDU representatives held a press conference on Monday, September 21, after the party suffered its worst regional election defeat in postwar Germany. Merz called the result in Mecklenburg-Western Pomerania a “disaster”, as the CDU fell below the 5% threshold for entering the state parliament. According to FRANCE 24 Europe editor Armen Georgian, Merz and his party’s Berlin candidate, Stefan Evers, offered no concrete solutions to address the historic defeat, despite pledging to keep the coalition together in the name of a “democratic future.”",
-      "source_url": "https://www.france24.com/en/replay-german-chancellor-friedrich-merz-in-post-vote-comments"
+      "description": "Election officials say the Kremlin's main party has retained its majority in Russia&rsquo;s parliament",
+      "source_url": "https://abcnews.com/International/wireStory/main-kremlin-party-control-russias-parliament-after-carefully-136611904"
     },
     {
-      "title": "Midterm elections: Trump looms large over 2026 vote as Democrats eye gains",
+      "title": "Ethiopia's main armed groups form anti-government alliance",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-21",
-      "description": "With the US midterm elections now just six weeks away, we’ll speak to our Washington correspondent Fraser Jackson about whether President Donald Trump could help or hurt his party’s chances. Polls have pointed to what some are calling a “blue wave”, with Democrats potentially regaining control of the House, while the Senate race remains more uncertain. Trump has ramped up campaigning, including spending heavily on advertising and proposing $5,000 payments to voters who support Republicans. But with his approval ratings under pressure amid the war in Iran and the Middle East, and rising oil, gasoline and commodity prices compared with before he took office, the political landscape could still shift significantly in the coming weeks.",
-      "source_url": "https://www.france24.com/en/midterm-elections-trump-looms-large-over-2026-vote-as-democrats-eye-gains"
+      "description": "In tonight's edition, a coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, I speak to the deputy chief of the UN's peacekeeping mission in DR Congo. And with just a few days to go before the legislative elections, young Moroccans are torn between hope and skepticism ahead of the crucial vote.",
+      "source_url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance"
     },
     {
-      "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
+      "title": "Paramount, US states settle antitrust lawsuit over Warner Bros. acquisition",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-21",
-      "description": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss"
+      "description": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's Attorney General said that while the settlement addressed concerns over competition and protection, it did not mean a vote of support for the deal.",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition"
     }
   ],
-  "last_updated": "2026-09-21T21:26:09.732426+00:00"
+  "last_updated": "2026-09-22T02:30:11.185793+00:00"
 }
