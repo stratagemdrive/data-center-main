@@ -1,14 +1,6 @@
 {
   "world_org_meetings": [
     {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "organization": "G7",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo"
-    },
-    {
       "title": "Watch: Threats, deals and passionate speeches at UNGA event",
       "organization": "UN",
       "date": "2026-09-22",
@@ -25,6 +17,14 @@
       "source_url": "https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything"
     },
     {
+      "title": "AI risks, Iran war dominate agenda at UN",
+      "organization": "UN",
+      "date": "2026-09-23",
+      "location": "Global",
+      "description": "France convenes a UN Security Council meeting Wednesday on artificial intelligence (AI) and international security, which includes briefings by leading industry figures, including the heads of OpenAI and Anthropic. The meeting comes as world leaders jostle over how to address the risks of the new technology. On the second day of the UN General Assembly, the Iran war is also set to dominate the agenda.",
+      "source_url": "https://www.france24.com/en/middle-east/20260923-ai-risks-iran-war-to-take-center-stage-at-un"
+    },
+    {
       "title": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
       "organization": "UN",
       "date": "2026-09-22",
@@ -37,7 +37,7 @@
       "organization": "UN",
       "date": "2026-09-22",
       "location": "Global",
-      "description": "A year ago, Donald Trump went to the rostrum of the United Nations General Assembly - and after taxing an axe to US aid and development funding, read the world the riot act. One Iran war later, the US president sticking to script with a speech that borrowed much of the language of last year. With citizens on five continents now feeling the pain at the pump, we'll ask what it will take to tame a global energy crisis whose potential spiral mirrors the contagion of hostilities from the Strait of Hormuz to the mouth of the Red Sea?",
+      "description": "A year ago, Donald Trump went to the rostrum of the United Nations General Assembly and after taking an axe to US aid and development funding, he read the world the riot act. One Iran war later, the US president is sticking to script, with a speech that borrowed much of the language from last year. With citizens on five continents now feeling the pain at the pump, we ask what it will take to tame a global energy crisis whose potential spiral mirrors the contagion of hostilities from the Strait of Hormuz to the mouth of the Red Sea.",
       "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy"
     }
   ],
@@ -59,12 +59,12 @@
       "source_url": "https://www.cbc.ca/news/entertainment/late-night-white-house-media-ban-9.7353577"
     },
     {
-      "title": "As Trump-Xi summit nears, Europe is caught in middle of US-China rivalry",
+      "title": "Taiwan watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-09-21",
-      "description": "China's Xi Jinping is traveling to Washington this week. Regardless of what comes from his talks with US President Trump, the EU will likely remain stuck between erratic US trade policy and Beijing's export machine.",
-      "source_url": "https://www.dw.com/en/as-trump-xi-summit-nears-europe-is-caught-in-middle-of-us-china-rivalry/a-79356540?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-09-23",
+      "description": "Taiwan is expressing confidence that U.S. arms sales to the island will continue despite China's pressure as China&rsquo;s Xi Jinping arrives in Washington to meet with U.S. President Donald Trump",
+      "source_url": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213"
     },
     {
       "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
@@ -85,12 +85,20 @@
   ],
   "elections": [
     {
-      "title": "Morocco holds elections after mass migration attempts and deadly youth protests. Here's what to know",
+      "title": "What's at stake as Morocco votes after mass migration attempts and deadly youth protests",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "description": "Moroccan voters are heading to the polls to elect a new parliament, with a focus on jobs, wages, and inequality",
       "source_url": "https://abcnews.com/International/wireStory/morocco-holds-elections-after-mass-migration-attempts-deadly-136645757"
+    },
+    {
+      "title": "Moroccans vote in parliamentary elections after migrant rush to Ceuta",
+      "country": "Spain",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "Moroccan voters are choosing a new parliament Wednesday in elections dominated by economic concerns after a mass migration surge to the Spanish enclave of Ceuta in the summer highlighted concerns over rising youth unemployment and the cost of living. Nearly 16 million Moroccans have registered to elect 395 members of the House of Representatives.",
+      "source_url": "https://www.france24.com/en/africa/20260923-moroccans-vote-in-parliamentary-elections-after-migrant-rush-to-ceuta"
     },
     {
       "title": "Russians abroad voted eight to one against Putin's party, defying official results",
@@ -115,15 +123,7 @@
       "date": "2026-09-21",
       "description": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
       "source_url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro"
-    },
-    {
-      "title": "Ethiopia's main armed groups form anti-government alliance",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-21",
-      "description": "In tonight's edition: A coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, we speak to the deputy chief of the UN's peacekeeping mission in DR Congo. And with just a few days to go before legislative elections, young Moroccans are torn between hope and scepticism ahead of the crucial vote.",
-      "source_url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance"
     }
   ],
-  "last_updated": "2026-09-23T02:30:14.035354+00:00"
+  "last_updated": "2026-09-23T10:29:47.743420+00:00"
 }
