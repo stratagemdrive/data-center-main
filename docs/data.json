@@ -17,12 +17,20 @@
       "source_url": "https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything"
     },
     {
-      "title": "Zelenskyy to address UN, Rubio to meet Russian counterpart — but few breakthroughs expected",
+      "title": "Zelenskyy addresses UN as Rubio of U.S. says Ukraine, Russia have interest in limited ceasefire",
       "organization": "UN",
       "date": "2026-09-23",
-      "location": "Russia",
-      "description": "Russia pounded Kyiv with drone strikes on Wednesday, hitting railway infrastructure, warehouses and fuel stations, just hours before Ukrainian President Volodymyr Zelenskyy addresses the United Nations General Assembly in New York.",
+      "location": "Ukraine",
+      "description": "Russia pounded Kyiv with drone strikes on Wednesday, hitting railway infrastructure, warehouses and fuel stations, just hours before Ukrainian President Volodymyr Zelenskyy addressed the United Nations General Assembly in New York.",
       "source_url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849"
+    },
+    {
+      "title": "Trump administration invites Putin to attend G20 summit in Miami",
+      "organization": "G20",
+      "date": "2026-09-23",
+      "location": "Russia",
+      "description": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss"
     },
     {
       "title": "UN General Assembly enters second day with key speeches ahead",
@@ -31,24 +39,16 @@
       "location": "Ukraine",
       "description": "It’s Day Two of the United Nations General Assembly in New York, with a packed programme including speeches by Iranian President Masoud Pezeshkian and Ukrainian President Volodymyr Zelensky. Some of the biggest names in artificial intelligence will also address the UN Security Council. France 24’s Jessica Le Masurier is covering the gathering for us.",
       "source_url": "https://www.france24.com/en/un-general-assembly-enters-second-day-with-key-speeches-ahead"
-    },
-    {
-      "title": "World leaders weigh AI worries, regulations",
-      "organization": "UN",
-      "date": "2026-09-23",
-      "location": "Global",
-      "description": "AI leaders are due to brief the UN Security Council at an emergency session later today. The meeting comes after weeks of warnings about the potentially uncontrollable risks posed by artificial intelligence. Delano D’Souza reports.",
-      "source_url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "U.S. ambassador to the U.N. discusses progress on key issues",
+      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-09-23",
-      "description": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's visit to the U.N. General Assembly and whether progress has been made on key issues.",
-      "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues"
+      "description": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
+      "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship"
     },
     {
       "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
@@ -59,14 +59,6 @@
       "source_url": "https://www.cbc.ca/news/politics/modi-canada-trade-deal-visit-9.7354352"
     },
     {
-      "title": "'What he's doing is positively un-American': Late-night hosts react to Trump media ban",
-      "visiting_leader": "",
-      "host_country": "United States",
-      "date": "2026-09-22",
-      "description": "The comedians of late-night television have a vested interest in protecting the First Amendment. So when U.S. President Donald Trump announced he was banning news outlets CNN, MS NOW, and Politico from the White House last Friday, they came out swinging.",
-      "source_url": "https://www.cbc.ca/news/entertainment/late-night-white-house-media-ban-9.7353577"
-    },
-    {
       "title": "Taiwan watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
       "visiting_leader": "",
       "host_country": "Global",
@@ -75,12 +67,20 @@
       "source_url": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213"
     },
     {
-      "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
+      "title": "U.S. ambassador to the U.N. discusses progress on key issues",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-09-23",
-      "description": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss"
+      "description": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's visit to the U.N. General Assembly and whether progress has been made on key issues.",
+      "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues"
+    },
+    {
+      "title": "'What he's doing is positively un-American': Late-night hosts react to Trump media ban",
+      "visiting_leader": "",
+      "host_country": "United States",
+      "date": "2026-09-22",
+      "description": "The comedians of late-night television have a vested interest in protecting the First Amendment. So when U.S. President Donald Trump announced he was banning news outlets CNN, MS NOW, and Politico from the White House last Friday, they came out swinging.",
+      "source_url": "https://www.cbc.ca/news/entertainment/late-night-white-house-media-ban-9.7353577"
     }
   ],
   "elections": [
@@ -101,6 +101,14 @@
       "source_url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
     },
     {
+      "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "President Vladimir Putin says Russia&rsquo;s first wartime parliamentary election, which further strengthened the Kremlin&rsquo;s already-overwhelming legislative control, was a sign of public support for his policies",
+      "source_url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040"
+    },
+    {
       "title": "International watchdog calls for protection of journalists ahead of Serbia election",
       "country": "Global",
       "election_type": "National",
@@ -115,15 +123,7 @@
       "date": "2026-09-23",
       "description": "In this edition we welcome CNN's correspondent in France, Melissa Bell. Melissa is the author of \"Sous l'influence americaine\", an investigation into American interference in France and Europe. She tells us about the ways in which American interference is being felt in Europe and France and what we should expect during the 2027 French presidential election campaign.",
       "source_url": "https://www.france24.com/en/tv-shows/entre-nous/20260923-how-us-players-are-reshaping-france-and-the-continent"
-    },
-    {
-      "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.",
-      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
     }
   ],
-  "last_updated": "2026-09-23T15:48:40.798018+00:00"
+  "last_updated": "2026-09-23T20:52:35.568437+00:00"
 }
