@@ -9,6 +9,22 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo"
     },
     {
+      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko"
+    },
+    {
+      "title": "The United Nations General Assembly is meeting. Is it accomplishing anything?",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "NPR's Mary Louise Kelly speaks with Michael Froman, Council on Foreign Relations president, at the UN General Assembly.",
+      "source_url": "https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything"
+    },
+    {
       "title": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
       "organization": "UN",
       "date": "2026-09-22",
@@ -23,25 +39,17 @@
       "location": "Global",
       "description": "A year ago, Donald Trump went to the rostrum of the United Nations General Assembly - and after taxing an axe to US aid and development funding, read the world the riot act. One Iran war later, the US president sticking to script with a speech that borrowed much of the language of last year. With citizens on five continents now feeling the pain at the pump, we'll ask what it will take to tame a global energy crisis whose potential spiral mirrors the contagion of hostilities from the Strait of Hormuz to the mouth of the Red Sea?",
       "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy"
-    },
-    {
-      "title": "Iran: Trump believes in an agreement after US midterms",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East. He added that he believed an agreement was possible after the US midterm elections in November.",
-      "source_url": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
-    },
-    {
-      "title": "REPLAY: UN chief Guterres makes final address to the General Assembly",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "United Nations Secretary-General Antonio Guterres used ​his final address to the General Assembly on Tuesday to urge world leaders to regulate artificial intelligence, end wars, focus on climate change and overhaul UN institutions he warned are struggling to confront mounting global challenges. Watch his speech in full above.",
-      "source_url": "https://www.france24.com/en/video/20260922-replay-un-chief-guterres-makes-final-address-to-the-general-assembly"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
+      "visiting_leader": "",
+      "host_country": "India",
+      "date": "2026-09-22",
+      "description": "Indian Prime Minister Narendra Modi is expected to visit Canada in December, Prime Minister Mark Carney confirmed on Tuesday, as the two countries look to reach a trade deal by the end of the year — further signs that the once deep diplomatic chasm between the two governments is being bridged.",
+      "source_url": "https://www.cbc.ca/news/politics/modi-canada-trade-deal-visit-9.7354352"
+    },
     {
       "title": "'What he's doing is positively un-American': Late-night hosts react to Trump media ban",
       "visiting_leader": "",
@@ -59,28 +67,20 @@
       "source_url": "https://www.dw.com/en/as-trump-xi-summit-nears-europe-is-caught-in-middle-of-us-china-rivalry/a-79356540?maca=en-rss-en-world-4025-rdf"
     },
     {
+      "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-09-23",
+      "description": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss"
+    },
+    {
       "title": "Defining global leadership in AI at Trump-Xi summit",
       "visiting_leader": "",
       "host_country": "China",
       "date": "2026-09-20",
       "description": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
       "source_url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit"
-    },
-    {
-      "title": "Carney touts Arctic alliance with Norway during PM's visit to Ottawa, amid Russia threat",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-09-21",
-      "description": "Prime Minister Mark Carney is courting deeper defence ties with Norway, as well as investment from its massive, petroleum-based sovereign wealth fund.",
-      "source_url": "https://www.cbc.ca/news/politics/carney-norway-arctic-9.7351679"
-    },
-    {
-      "title": "Deported to Africa: An international investigation into Trump’s migrant policy",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-21",
-      "description": "As part of a consortium of 26 media outlets coordinated by Forbidden Stories, FRANCE 24 and RFI spent seven months investigating the secret deals struck between the administration of US President Donald Trump and several African countries. These “third countries” have agreed to host undocumented migrants detained by ICE and deported from the United States.",
-      "source_url": "https://www.france24.com/en/africa/20260921-deported-to-africa-an-international-investigation-into-trump-s-migrant-policy"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance"
     }
   ],
-  "last_updated": "2026-09-22T20:40:21.872281+00:00"
+  "last_updated": "2026-09-23T02:30:14.035354+00:00"
 }
