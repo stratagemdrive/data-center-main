@@ -17,31 +17,39 @@
       "source_url": "https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything"
     },
     {
-      "title": "AI risks, Iran war dominate agenda at UN",
+      "title": "Zelenskyy to address UN, Rubio to meet Russian counterpart — but few breakthroughs expected",
+      "organization": "UN",
+      "date": "2026-09-23",
+      "location": "Russia",
+      "description": "Russia pounded Kyiv with drone strikes on Wednesday, hitting railway infrastructure, warehouses and fuel stations, just hours before Ukrainian President Volodymyr Zelenskyy addresses the United Nations General Assembly in New York.",
+      "source_url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849"
+    },
+    {
+      "title": "UN General Assembly enters second day with key speeches ahead",
+      "organization": "UN",
+      "date": "2026-09-23",
+      "location": "Ukraine",
+      "description": "It’s Day Two of the United Nations General Assembly in New York, with a packed programme including speeches by Iranian President Masoud Pezeshkian and Ukrainian President Volodymyr Zelensky. Some of the biggest names in artificial intelligence will also address the UN Security Council. France 24’s Jessica Le Masurier is covering the gathering for us.",
+      "source_url": "https://www.france24.com/en/un-general-assembly-enters-second-day-with-key-speeches-ahead"
+    },
+    {
+      "title": "World leaders weigh AI worries, regulations",
       "organization": "UN",
       "date": "2026-09-23",
       "location": "Global",
-      "description": "France convenes a UN Security Council meeting Wednesday on artificial intelligence (AI) and international security, which includes briefings by leading industry figures, including the heads of OpenAI and Anthropic. The meeting comes as world leaders jostle over how to address the risks of the new technology. On the second day of the UN General Assembly, the Iran war is also set to dominate the agenda.",
-      "source_url": "https://www.france24.com/en/middle-east/20260923-ai-risks-iran-war-to-take-center-stage-at-un"
-    },
-    {
-      "title": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "France",
-      "description": "French President Emmanuel Macron used his last address before the UN General Assembly as France's leader to urge the world's nations to stand alongside the United Nations in the face of a resurgent \"law of the jungle\". Macron also called for a moratorium on strikes on civilian and energy infrastructure in the Russia-Ukraine war and an \"open-source\" model for frontier AI independent of China and the US.",
-      "source_url": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech"
-    },
-    {
-      "title": "Trump's world? Leaders navigate consequences of US policy",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "A year ago, Donald Trump went to the rostrum of the United Nations General Assembly and after taking an axe to US aid and development funding, he read the world the riot act. One Iran war later, the US president is sticking to script, with a speech that borrowed much of the language from last year. With citizens on five continents now feeling the pain at the pump, we ask what it will take to tame a global energy crisis whose potential spiral mirrors the contagion of hostilities from the Strait of Hormuz to the mouth of the Red Sea.",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy"
+      "description": "AI leaders are due to brief the UN Security Council at an emergency session later today. The meeting comes after weeks of warnings about the potentially uncontrollable risks posed by artificial intelligence. Delano D’Souza reports.",
+      "source_url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "U.S. ambassador to the U.N. discusses progress on key issues",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-09-23",
+      "description": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's visit to the U.N. General Assembly and whether progress has been made on key issues.",
+      "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues"
+    },
     {
       "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
       "visiting_leader": "",
@@ -73,57 +81,49 @@
       "date": "2026-09-23",
       "description": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss"
-    },
-    {
-      "title": "Defining global leadership in AI at Trump-Xi summit",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-20",
-      "description": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
-      "source_url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit"
     }
   ],
   "elections": [
     {
-      "title": "What's at stake as Morocco votes after mass migration attempts and deadly youth protests",
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-23",
-      "description": "Moroccan voters are heading to the polls to elect a new parliament, with a focus on jobs, wages, and inequality",
-      "source_url": "https://abcnews.com/International/wireStory/morocco-holds-elections-after-mass-migration-attempts-deadly-136645757"
+      "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o"
     },
     {
-      "title": "Moroccans vote in parliamentary elections after migrant rush to Ceuta",
-      "country": "Spain",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "Moroccan voters are choosing a new parliament Wednesday in elections dominated by economic concerns after a mass migration surge to the Spanish enclave of Ceuta in the summer highlighted concerns over rising youth unemployment and the cost of living. Nearly 16 million Moroccans have registered to elect 395 members of the House of Representatives.",
-      "source_url": "https://www.france24.com/en/africa/20260923-moroccans-vote-in-parliamentary-elections-after-migrant-rush-to-ceuta"
-    },
-    {
-      "title": "Russians abroad voted eight to one against Putin's party, defying official results",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-09-22",
-      "description": "Two independent exit polls covering 27 countries put New People first with around 45% and United Russia as low as 2.8%, the reverse of official results inside Russia, where Putin's party took nearly 58%. Exit poll organisers said the gap \"destroys the image of supposed support for the authorities.\"",
-      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results"
-    },
-    {
-      "title": "Who actually has power at the United Nations?",
+      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-09-22",
-      "description": "Every country at the UN gets a vote. But five countries have a power the other 188 don’t: the power of veto in the UNSC.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/who-actually-has-power-at-the-united-nations-2?traffic_source=rss"
+      "date": "2026-09-23",
+      "description": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
+      "source_url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
     },
     {
-      "title": "'No surprises' as results emerge in Russian parliamentary election",
-      "country": "Russia",
+      "title": "International watchdog calls for protection of journalists ahead of Serbia election",
+      "country": "Global",
       "election_type": "National",
-      "date": "2026-09-21",
-      "description": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro"
+      "date": "2026-09-23",
+      "description": "An international media watchdog says that journalists in Serbia are increasingly under threat of violence and hostility ahead of a high-stakes early parliamentary election that will test populist President Aleksandar Vucic&rsquo;s rule",
+      "source_url": "https://abcnews.com/International/wireStory/international-media-watchdog-calls-protection-journalists-serbia-ahead-136681762"
+    },
+    {
+      "title": "How US players are reshaping France and the continent",
+      "country": "United States",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "In this edition we welcome CNN's correspondent in France, Melissa Bell. Melissa is the author of \"Sous l'influence americaine\", an investigation into American interference in France and Europe. She tells us about the ways in which American interference is being felt in Europe and France and what we should expect during the 2027 French presidential election campaign.",
+      "source_url": "https://www.france24.com/en/tv-shows/entre-nous/20260923-how-us-players-are-reshaping-france-and-the-continent"
+    },
+    {
+      "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.",
+      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
     }
   ],
-  "last_updated": "2026-09-23T10:29:47.743420+00:00"
+  "last_updated": "2026-09-23T15:48:40.798018+00:00"
 }
