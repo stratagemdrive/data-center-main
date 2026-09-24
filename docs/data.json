@@ -1,22 +1,6 @@
 {
   "world_org_meetings": [
     {
-      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko"
-    },
-    {
-      "title": "The United Nations General Assembly is meeting. Is it accomplishing anything?",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "NPR's Mary Louise Kelly speaks with Michael Froman, Council on Foreign Relations president, at the UN General Assembly.",
-      "source_url": "https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything"
-    },
-    {
       "title": "Zelenskyy addresses UN as Rubio of U.S. says Ukraine, Russia have interest in limited ceasefire",
       "organization": "UN",
       "date": "2026-09-23",
@@ -25,12 +9,28 @@
       "source_url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849"
     },
     {
+      "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
+      "organization": "UN",
+      "date": "2026-09-23",
+      "location": "Global",
+      "description": "Donald Trump’s UN address was packed with claims that are misleading, false or exaggerated. He said the US has more munitions than it could ever use, despite reports of depleting stocks. He claimed the US and Venezuela hold 60% of the world’s oil, despite the numbers not adding up, and he said he had ended the war in Gaza despite ongoing Israeli strikes and deaths since last year's ceasefire. Vedika Bahl fact-checks the speech in Truth or Fake.",
+      "source_url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1"
+    },
+    {
       "title": "Trump administration invites Putin to attend G20 summit in Miami",
       "organization": "G20",
       "date": "2026-09-23",
       "location": "Russia",
       "description": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
       "source_url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss"
+    },
+    {
+      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
+      "organization": "UN",
+      "date": "2026-09-22",
+      "location": "Global",
+      "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko"
     },
     {
       "title": "UN General Assembly enters second day with key speeches ahead",
@@ -49,6 +49,14 @@
       "date": "2026-09-23",
       "description": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
       "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship"
+    },
+    {
+      "title": "Trump greets Xi on tarmac as Chinese leader arrives for state visit",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-23",
+      "description": "Chinese President Xi Jinping arrived in Washington on Wednesday, where he was met with a rare planeside greeting from U.S. President Donald Trump after their top officials agreed to extend a trade truce until January.",
+      "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
     },
     {
       "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
@@ -73,25 +81,9 @@
       "date": "2026-09-23",
       "description": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's visit to the U.N. General Assembly and whether progress has been made on key issues.",
       "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues"
-    },
-    {
-      "title": "'What he's doing is positively un-American': Late-night hosts react to Trump media ban",
-      "visiting_leader": "",
-      "host_country": "United States",
-      "date": "2026-09-22",
-      "description": "The comedians of late-night television have a vested interest in protecting the First Amendment. So when U.S. President Donald Trump announced he was banning news outlets CNN, MS NOW, and Politico from the White House last Friday, they came out swinging.",
-      "source_url": "https://www.cbc.ca/news/entertainment/late-night-white-house-media-ban-9.7353577"
     }
   ],
   "elections": [
-    {
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o"
-    },
     {
       "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
       "country": "Global",
@@ -117,13 +109,21 @@
       "source_url": "https://abcnews.com/International/wireStory/international-media-watchdog-calls-protection-journalists-serbia-ahead-136681762"
     },
     {
-      "title": "How US players are reshaping France and the continent",
-      "country": "United States",
+      "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
+      "country": "Global",
       "election_type": "National",
       "date": "2026-09-23",
-      "description": "In this edition we welcome CNN's correspondent in France, Melissa Bell. Melissa is the author of \"Sous l'influence americaine\", an investigation into American interference in France and Europe. She tells us about the ways in which American interference is being felt in Europe and France and what we should expect during the 2027 French presidential election campaign.",
-      "source_url": "https://www.france24.com/en/tv-shows/entre-nous/20260923-how-us-players-are-reshaping-france-and-the-continent"
+      "description": "Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.",
+      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
+    },
+    {
+      "title": "Russians abroad voted eight to one against Putin's party, defying official results",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-09-22",
+      "description": "Two independent exit polls covering 27 countries put New People first with around 45% and United Russia as low as 2.8%, the reverse of official results inside Russia, where Putin's party took nearly 58%. Exit poll organisers said the gap \"destroys the image of supposed support for the authorities.\"",
+      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results"
     }
   ],
-  "last_updated": "2026-09-23T20:52:35.568437+00:00"
+  "last_updated": "2026-09-24T02:19:30.541404+00:00"
 }
