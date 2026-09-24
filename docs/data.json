@@ -17,6 +17,14 @@
       "source_url": "https://abcnews.com/International/wireStory/syrian-leader-lashes-israel-speech-golan-inseparable-part-136689962"
     },
     {
+      "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+      "organization": "BRICS",
+      "date": "2026-09-24",
+      "location": "Global",
+      "description": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
+      "source_url": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
       "organization": "UN",
       "date": "2026-09-23",
@@ -31,24 +39,16 @@
       "location": "Russia",
       "description": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
       "source_url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss"
-    },
-    {
-      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
-      "organization": "UN",
-      "date": "2026-09-22",
-      "location": "Global",
-      "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+      "title": "Watch: Trump anticipated Xi's visit for months",
       "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-23",
-      "description": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
-      "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship"
+      "host_country": "China",
+      "date": "2026-09-24",
+      "description": "The BBC's Sarah Smith is at the White House, explaining how President Donald Trump prepared for Chinese President Xi Jinping's visit.",
+      "source_url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo"
     },
     {
       "title": "Trump greets Xi on tarmac as Chinese leader arrives for state visit",
@@ -59,28 +59,28 @@
       "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
     },
     {
-      "title": "Trump welcomes China's Xi to Washington",
+      "title": "Taiwan: Home of semiconductor giants at the centre of AI race",
       "visiting_leader": "",
       "host_country": "China",
       "date": "2026-09-24",
-      "description": "US President Donald Trump welcomes Chinese President Xi Jinping to the White House on Thursday for a lavish state summit expected to be heavy on symbolism but light on substance, with both leaders keen to showcase stable ties despite a deep underlying rivalry. Trump greeted Xi on arrival on Wednesday evening, the first time a US president has welcomed a foreign leader at Joint Base Andrews in 11 years.",
-      "source_url": "https://www.france24.com/en/video/20260924-trump-welcomes-china-s-xi-to-washington"
+      "description": "The topic of artificial intelligence looms large as Chinese President Xi Jinping begins his highly anticipated state visit to Washington. The fate of Taiwan – coveted by its larger neighbour, China – will also be on the table. It's the global leader in superconductor research and development. These powerful chips can be found in smartphones, computers, and above all in AI development. Our France 2 colleagues take a rare look inside one of Taiwan's state-of-the-art laboratories.",
+      "source_url": "https://www.france24.com/en/tv-shows/focus/20260924-taiwan-home-of-semiconductor-giants-at-the-centre-of-ai-race"
     },
     {
-      "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
+      "title": "Why is Trump rolling out the red carpet for China's Xi?",
       "visiting_leader": "",
-      "host_country": "India",
-      "date": "2026-09-22",
-      "description": "Indian Prime Minister Narendra Modi is expected to visit Canada in December, Prime Minister Mark Carney confirmed on Tuesday, as the two countries look to reach a trade deal by the end of the year — further signs that the once deep diplomatic chasm between the two governments is being bridged.",
-      "source_url": "https://www.cbc.ca/news/politics/modi-canada-trade-deal-visit-9.7354352"
+      "host_country": "China",
+      "date": "2026-09-24",
+      "description": "US President Donald Trump will host Chinese leader Xi Jinping at the White House on Thursday for a day full of pageantry. Trump personally greeted Xi on the tarmac after his arrival on Wednesday, the first time in more than six decades that a US president has welcomed a foreign political leader at Joint Base Andrews near Washington. But Trump's decision to roll out the red carpet has ruffled feathers among both Democrats and Republicans.",
+      "source_url": "https://www.france24.com/en/video/20260924-why-is-trump-rolling-out-the-red-carpet-for-china-s-xi"
     },
     {
-      "title": "Taiwan watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
+      "title": "Does the future belong to China?",
       "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-23",
-      "description": "Taiwan is expressing confidence that U.S. arms sales to the island will continue despite China's pressure as China&rsquo;s Xi Jinping arrives in Washington to meet with U.S. President Donald Trump",
-      "source_url": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213"
+      "host_country": "China",
+      "date": "2026-09-24",
+      "description": "US President Donald Trump is rolling out the red carpet for his Chinese counterpart Xi Jinping ahead of Thursday's summit in Washington. But is China's leader overconfident in thinking the future belongs to Beijing? FRANCE 24's Yinka Oyetade speaks to Rex Li from King's College London.",
+      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260924-does-the-future-belong-to-china"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
     }
   ],
-  "last_updated": "2026-09-24T10:46:25.077616+00:00"
+  "last_updated": "2026-09-24T16:10:11.281222+00:00"
 }
