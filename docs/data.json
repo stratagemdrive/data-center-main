@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Actors Susan Sarandon, Hannah Einbinder among detained protestors outside Netanyahu's UN speech",
+      "organization": "UN",
+      "date": "2026-09-24",
+      "location": "Global",
+      "description": "Actors Susan Sarandon and Hannah Einbinder were among the protestors detained in New York City on Thursday as Israel Prime Minister Benjamin Netanyahu delivered a speech to the United Nations General Assembly.",
+      "source_url": "https://www.cbc.ca/news/entertainment/benjamin-netanyahu-un-speech-celebrities-detained-new-york-city-9.7357238"
+    },
+    {
       "title": "Zelenskyy addresses UN as Rubio of U.S. says Ukraine, Russia have interest in limited ceasefire",
       "organization": "UN",
       "date": "2026-09-23",
@@ -25,29 +33,21 @@
       "source_url": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
-      "organization": "UN",
-      "date": "2026-09-23",
-      "location": "Global",
-      "description": "Donald Trump’s UN address was packed with claims that are misleading, false or exaggerated. He said the US has more munitions than it could ever use, despite reports of depleting stocks. He claimed the US and Venezuela hold 60% of the world’s oil, despite the numbers not adding up, and he said he had ended the war in Gaza despite ongoing Israeli strikes and deaths since last year's ceasefire. Vedika Bahl fact-checks the speech in Truth or Fake.",
-      "source_url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1"
-    },
-    {
-      "title": "Trump administration invites Putin to attend G20 summit in Miami",
+      "title": "Trump invites Putin to Miami G20: Why that matters",
       "organization": "G20",
-      "date": "2026-09-23",
-      "location": "Russia",
-      "description": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss"
+      "date": "2026-09-24",
+      "location": "Global",
+      "description": "US Secretary of State Rubio said the summit would be an &#039;opportunity&#039; for Putin to engage with other world leaders.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/24/trump-invites-putin-to-miami-g20-why-that-matters?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Watch: Trump anticipated Xi's visit for months",
+      "title": "Watch: Why has Trump been so eager to welcome Xi?",
       "visiting_leader": "",
       "host_country": "China",
       "date": "2026-09-24",
-      "description": "The BBC's Sarah Smith is at the White House, explaining how President Donald Trump prepared for Chinese President Xi Jinping's visit.",
+      "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
       "source_url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo"
     },
     {
@@ -57,6 +57,14 @@
       "date": "2026-09-23",
       "description": "Chinese President Xi Jinping arrived in Washington on Wednesday, where he was met with a rare planeside greeting from U.S. President Donald Trump after their top officials agreed to extend a trade truce until January.",
       "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
+    },
+    {
+      "title": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-24",
+      "description": "It’s their AI world and we’re just living in it. If that's the feeling of those who suffer from AI anxiety, it may worsen watching the Chinese president’s first state visit to Washington in nine years. If there's one issue where the planet's biggest superpowers agree on, it's now’s not the time for global regulation of artificial intelligence. As they sit down to a White House dinner hours after news that OpenAI had hacked the Australian government, we’ll ask who will call to task the US tech titans at the table.",
+      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight"
     },
     {
       "title": "Taiwan: Home of semiconductor giants at the centre of AI race",
@@ -73,25 +81,9 @@
       "date": "2026-09-24",
       "description": "US President Donald Trump will host Chinese leader Xi Jinping at the White House on Thursday for a day full of pageantry. Trump personally greeted Xi on the tarmac after his arrival on Wednesday, the first time in more than six decades that a US president has welcomed a foreign political leader at Joint Base Andrews near Washington. But Trump's decision to roll out the red carpet has ruffled feathers among both Democrats and Republicans.",
       "source_url": "https://www.france24.com/en/video/20260924-why-is-trump-rolling-out-the-red-carpet-for-china-s-xi"
-    },
-    {
-      "title": "Does the future belong to China?",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-24",
-      "description": "US President Donald Trump is rolling out the red carpet for his Chinese counterpart Xi Jinping ahead of Thursday's summit in Washington. But is China's leader overconfident in thinking the future belongs to Beijing? FRANCE 24's Yinka Oyetade speaks to Rex Li from King's College London.",
-      "source_url": "https://www.france24.com/en/tv-shows/a-propos/20260924-does-the-future-belong-to-china"
     }
   ],
   "elections": [
-    {
-      "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "President Vladimir Putin says Russia&rsquo;s first wartime parliamentary election, which further strengthened the Kremlin&rsquo;s already-overwhelming legislative control, was a sign of public support for his policies",
-      "source_url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040"
-    },
     {
       "title": "International watchdog calls for protection of journalists ahead of Serbia election",
       "country": "Global",
@@ -99,6 +91,14 @@
       "date": "2026-09-23",
       "description": "An international media watchdog says that journalists in Serbia are increasingly under threat of violence and hostility ahead of a high-stakes early parliamentary election that will test populist President Aleksandar Vucic&rsquo;s rule",
       "source_url": "https://abcnews.com/International/wireStory/international-media-watchdog-calls-protection-journalists-serbia-ahead-136681762"
+    },
+    {
+      "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "President Vladimir Putin says Russia&rsquo;s first wartime parliamentary election, which further strengthened the Kremlin&rsquo;s already-overwhelming legislative control, was a sign of public support for his policies",
+      "source_url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040"
     },
     {
       "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
@@ -125,5 +125,5 @@
       "source_url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
     }
   ],
-  "last_updated": "2026-09-24T16:10:11.281222+00:00"
+  "last_updated": "2026-09-24T20:57:01.124587+00:00"
 }
