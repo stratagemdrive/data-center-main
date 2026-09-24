@@ -9,6 +9,14 @@
       "source_url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849"
     },
     {
+      "title": "Syrian leader lashes out at Israel in UN speech, says Golan is inseparable part of Syria",
+      "organization": "UN",
+      "date": "2026-09-24",
+      "location": "Global",
+      "description": "Syria's leader has lashed out at Israel in a speech to the United Nations General Assembly",
+      "source_url": "https://abcnews.com/International/wireStory/syrian-leader-lashes-israel-speech-golan-inseparable-part-136689962"
+    },
+    {
       "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
       "organization": "UN",
       "date": "2026-09-23",
@@ -31,14 +39,6 @@
       "location": "Global",
       "description": "Delegations from across the world attended the United Nations General Assembly in New York.",
       "source_url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko"
-    },
-    {
-      "title": "UN General Assembly enters second day with key speeches ahead",
-      "organization": "UN",
-      "date": "2026-09-23",
-      "location": "Ukraine",
-      "description": "It’s Day Two of the United Nations General Assembly in New York, with a packed programme including speeches by Iranian President Masoud Pezeshkian and Ukrainian President Volodymyr Zelensky. Some of the biggest names in artificial intelligence will also address the UN Security Council. France 24’s Jessica Le Masurier is covering the gathering for us.",
-      "source_url": "https://www.france24.com/en/un-general-assembly-enters-second-day-with-key-speeches-ahead"
     }
   ],
   "diplomatic_visits": [
@@ -59,6 +59,14 @@
       "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
     },
     {
+      "title": "Trump welcomes China's Xi to Washington",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-24",
+      "description": "US President Donald Trump welcomes Chinese President Xi Jinping to the White House on Thursday for a lavish state summit expected to be heavy on symbolism but light on substance, with both leaders keen to showcase stable ties despite a deep underlying rivalry. Trump greeted Xi on arrival on Wednesday evening, the first time a US president has welcomed a foreign leader at Joint Base Andrews in 11 years.",
+      "source_url": "https://www.france24.com/en/video/20260924-trump-welcomes-china-s-xi-to-washington"
+    },
+    {
       "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
       "visiting_leader": "",
       "host_country": "India",
@@ -73,25 +81,9 @@
       "date": "2026-09-23",
       "description": "Taiwan is expressing confidence that U.S. arms sales to the island will continue despite China's pressure as China&rsquo;s Xi Jinping arrives in Washington to meet with U.S. President Donald Trump",
       "source_url": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213"
-    },
-    {
-      "title": "U.S. ambassador to the U.N. discusses progress on key issues",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-23",
-      "description": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's visit to the U.N. General Assembly and whether progress has been made on key issues.",
-      "source_url": "https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues"
     }
   ],
   "elections": [
-    {
-      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
-      "source_url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
-    },
     {
       "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
       "country": "Russia",
@@ -117,13 +109,21 @@
       "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
     },
     {
-      "title": "Russians abroad voted eight to one against Putin's party, defying official results",
-      "country": "Russia",
+      "title": "Gaza watches Israel’s elections with fear and antipathy",
+      "country": "Global",
       "election_type": "National",
-      "date": "2026-09-22",
-      "description": "Two independent exit polls covering 27 countries put New People first with around 45% and United Russia as low as 2.8%, the reverse of official results inside Russia, where Putin's party took nearly 58%. Exit poll organisers said the gap \"destroys the image of supposed support for the authorities.\"",
-      "source_url": "https://www.euronews.com/2026/09/22/russians-abroad-voted-eight-to-one-against-putins-party-defying-official-results"
+      "date": "2026-09-24",
+      "description": "Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
+    },
+    {
+      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
+      "source_url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
     }
   ],
-  "last_updated": "2026-09-24T02:19:30.541404+00:00"
+  "last_updated": "2026-09-24T10:46:25.077616+00:00"
 }
