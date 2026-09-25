@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
+      "organization": "UN",
+      "date": "2026-09-25",
+      "location": "Global",
+      "description": "NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
+      "source_url": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga"
+    },
+    {
       "title": "Actors Susan Sarandon, Hannah Einbinder among detained protesters outside Netanyahu's UN speech",
       "organization": "UN",
       "date": "2026-09-24",
@@ -17,14 +25,6 @@
       "source_url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849"
     },
     {
-      "title": "Syrian leader lashes out at Israel in UN speech, says Golan is inseparable part of Syria",
-      "organization": "UN",
-      "date": "2026-09-24",
-      "location": "Global",
-      "description": "Syria's leader has lashed out at Israel in a speech to the United Nations General Assembly",
-      "source_url": "https://abcnews.com/International/wireStory/syrian-leader-lashes-israel-speech-golan-inseparable-part-136689962"
-    },
-    {
       "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
       "organization": "BRICS",
       "date": "2026-09-24",
@@ -33,23 +33,15 @@
       "source_url": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Trump invites Putin to Miami G20: Why that matters",
-      "organization": "G20",
+      "title": "Syrian leader lashes out at Israel in UN speech, says Golan is inseparable part of Syria",
+      "organization": "UN",
       "date": "2026-09-24",
       "location": "Global",
-      "description": "US Secretary of State Rubio said the summit would be an &#039;opportunity&#039; for Putin to engage with other world leaders.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/24/trump-invites-putin-to-miami-g20-why-that-matters?traffic_source=rss"
+      "description": "Syria's leader has lashed out at Israel in a speech to the United Nations General Assembly",
+      "source_url": "https://abcnews.com/International/wireStory/syrian-leader-lashes-israel-speech-golan-inseparable-part-136689962"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-25",
-      "description": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo"
-    },
     {
       "title": "Fanfare surrounds Trump-Xi summit at White House, but no breakthroughs expected",
       "visiting_leader": "",
@@ -75,15 +67,39 @@
       "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
     },
     {
-      "title": "Live: Pope heads to France on first state visit in 18 years",
+      "title": "France: Pope Leo XIV welcomed by Macron at the Élysée",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-09-25",
-      "description": "Pope Leo XIV flies to France on Friday for the Vatican's first state visit to the European nation in 18 years, with artificial intelligence and young believers near the top of his agenda. President Emmanuel Macron and his wife Brigitte will be on the tarmac to greet the 71-year-old pope.",
-      "source_url": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years"
+      "description": "President Emmanuel Macron welcomed Pope Leo XIV to the Élysée Palace on Friday, 25 September, at the start of the pontiff's four-day visit to France. The Pope entered the courtyard to a ceremonial welcome, walked the red carpet, shook hands with President Macron and First Lady Brigitte Macron, before climbing the palace steps for a brief meeting at the Élysée.",
+      "source_url": "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-welcomed-by-macron-at-the-%C3%A9lys%C3%A9e"
+    },
+    {
+      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-25",
+      "description": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo"
     }
   ],
   "elections": [
+    {
+      "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.",
+      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
+    },
+    {
+      "title": "Switzerland’s neutrality vote is asking the wrong question",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-25",
+      "description": "The real question is what neutrality can still do for Switzerland.",
+      "source_url": "https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question?traffic_source=rss"
+    },
     {
       "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
       "country": "Russia",
@@ -101,29 +117,13 @@
       "source_url": "https://abcnews.com/International/wireStory/international-media-watchdog-calls-protection-journalists-serbia-ahead-136681762"
     },
     {
-      "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.",
-      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
-    },
-    {
       "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-25",
       "description": "Luiz Inacio Lula da Silva is up two points, but that&#039;s still within the poll&#039;s margin of error.",
       "source_url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss"
-    },
-    {
-      "title": "Gaza watches Israel’s elections with fear and antipathy",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-24",
-      "description": "Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-25T02:35:49.040723+00:00"
+  "last_updated": "2026-09-25T10:51:24.143017+00:00"
 }
