@@ -1,7 +1,7 @@
 {
   "world_org_meetings": [
     {
-      "title": "Actors Susan Sarandon, Hannah Einbinder among detained protestors outside Netanyahu's UN speech",
+      "title": "Actors Susan Sarandon, Hannah Einbinder among detained protesters outside Netanyahu's UN speech",
       "organization": "UN",
       "date": "2026-09-24",
       "location": "Global",
@@ -43,12 +43,28 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Watch: Why has Trump been so eager to welcome Xi?",
+      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-25",
+      "description": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo"
+    },
+    {
+      "title": "Fanfare surrounds Trump-Xi summit at White House, but no breakthroughs expected",
       "visiting_leader": "",
       "host_country": "China",
       "date": "2026-09-24",
-      "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
-      "source_url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo"
+      "description": "U.S. President Donald Trump welcomed Chinese President Xi Jinping to the White House on Thursday for a lavish state summit that was heavy on symbolism but light on substance, with no sign that a closed-door meeting yielded breakthroughs on thorny issues such as AI, trade, Taiwan and the war with Iran.",
+      "source_url": "https://www.cbc.ca/news/world/trump-xi-summit-washington-9.7357449"
+    },
+    {
+      "title": "Vietnam's president upgrades Canada to strategic partner during state visit",
+      "visiting_leader": "",
+      "host_country": "United States",
+      "date": "2026-09-25",
+      "description": "Vietnamese President Tô Lâm has upgraded ties with Canada to a strategic partnership, building on Prime Minister Mark Carney's efforts to get middle powers working more closely together to confront American and Chinese coercion.",
+      "source_url": "https://www.cbc.ca/news/politics/to-lam-carney-strategic-partner-9.7357760"
     },
     {
       "title": "Trump greets Xi on tarmac as Chinese leader arrives for state visit",
@@ -59,39 +75,15 @@
       "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
     },
     {
-      "title": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "title": "Live: Pope heads to France on first state visit in 18 years",
       "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-24",
-      "description": "It’s their AI world and we’re just living in it. If that's the feeling of those who suffer from AI anxiety, it may worsen watching the Chinese president’s first state visit to Washington in nine years. If there's one issue where the planet's biggest superpowers agree on, it's now’s not the time for global regulation of artificial intelligence. As they sit down to a White House dinner hours after news that OpenAI had hacked the Australian government, we’ll ask who will call to task the US tech titans at the table.",
-      "source_url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight"
-    },
-    {
-      "title": "Taiwan: Home of semiconductor giants at the centre of AI race",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-24",
-      "description": "The topic of artificial intelligence looms large as Chinese President Xi Jinping begins his highly anticipated state visit to Washington. The fate of Taiwan – coveted by its larger neighbour, China – will also be on the table. It's the global leader in superconductor research and development. These powerful chips can be found in smartphones, computers, and above all in AI development. Our France 2 colleagues take a rare look inside one of Taiwan's state-of-the-art laboratories.",
-      "source_url": "https://www.france24.com/en/tv-shows/focus/20260924-taiwan-home-of-semiconductor-giants-at-the-centre-of-ai-race"
-    },
-    {
-      "title": "Why is Trump rolling out the red carpet for China's Xi?",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-24",
-      "description": "US President Donald Trump will host Chinese leader Xi Jinping at the White House on Thursday for a day full of pageantry. Trump personally greeted Xi on the tarmac after his arrival on Wednesday, the first time in more than six decades that a US president has welcomed a foreign political leader at Joint Base Andrews near Washington. But Trump's decision to roll out the red carpet has ruffled feathers among both Democrats and Republicans.",
-      "source_url": "https://www.france24.com/en/video/20260924-why-is-trump-rolling-out-the-red-carpet-for-china-s-xi"
+      "host_country": "Global",
+      "date": "2026-09-25",
+      "description": "Pope Leo XIV flies to France on Friday for the Vatican's first state visit to the European nation in 18 years, with artificial intelligence and young believers near the top of his agenda. President Emmanuel Macron and his wife Brigitte will be on the tarmac to greet the 71-year-old pope.",
+      "source_url": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years"
     }
   ],
   "elections": [
-    {
-      "title": "International watchdog calls for protection of journalists ahead of Serbia election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "An international media watchdog says that journalists in Serbia are increasingly under threat of violence and hostility ahead of a high-stakes early parliamentary election that will test populist President Aleksandar Vucic&rsquo;s rule",
-      "source_url": "https://abcnews.com/International/wireStory/international-media-watchdog-calls-protection-journalists-serbia-ahead-136681762"
-    },
     {
       "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
       "country": "Russia",
@@ -99,6 +91,14 @@
       "date": "2026-09-23",
       "description": "President Vladimir Putin says Russia&rsquo;s first wartime parliamentary election, which further strengthened the Kremlin&rsquo;s already-overwhelming legislative control, was a sign of public support for his policies",
       "source_url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040"
+    },
+    {
+      "title": "International watchdog calls for protection of journalists ahead of Serbia election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-23",
+      "description": "An international media watchdog says that journalists in Serbia are increasingly under threat of violence and hostility ahead of a high-stakes early parliamentary election that will test populist President Aleksandar Vucic&rsquo;s rule",
+      "source_url": "https://abcnews.com/International/wireStory/international-media-watchdog-calls-protection-journalists-serbia-ahead-136681762"
     },
     {
       "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
@@ -109,21 +109,21 @@
       "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
     },
     {
+      "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-25",
+      "description": "Luiz Inacio Lula da Silva is up two points, but that&#039;s still within the poll&#039;s margin of error.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss"
+    },
+    {
       "title": "Gaza watches Israel’s elections with fear and antipathy",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-24",
       "description": "Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.",
       "source_url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
-    },
-    {
-      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
-      "source_url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
     }
   ],
-  "last_updated": "2026-09-24T20:57:01.124587+00:00"
+  "last_updated": "2026-09-25T02:35:49.040723+00:00"
 }
