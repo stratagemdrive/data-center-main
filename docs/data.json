@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-25",
+      "description": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+      "source_url": "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington"
+    },
+    {
       "title": "Fanfare surrounds Trump-Xi summit at White House, but no breakthroughs expected",
       "visiting_leader": "",
       "host_country": "China",
@@ -67,20 +75,12 @@
       "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
     },
     {
-      "title": "France: Pope Leo XIV welcomed by Macron at the Élysée",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-25",
-      "description": "President Emmanuel Macron welcomed Pope Leo XIV to the Élysée Palace on Friday, 25 September, at the start of the pontiff's four-day visit to France. The Pope entered the courtyard to a ceremonial welcome, walked the red carpet, shook hands with President Macron and First Lady Brigitte Macron, before climbing the palace steps for a brief meeting at the Élysée.",
-      "source_url": "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-welcomed-by-macron-at-the-%C3%A9lys%C3%A9e"
-    },
-    {
-      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+      "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise",
       "visiting_leader": "",
       "host_country": "China",
       "date": "2026-09-25",
-      "description": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo"
+      "description": "U.S. President Donald Trump&rsquo;s elaborate reception of Chinese President Xi Jinping in Washington, D.C., has impressed the Chinese public",
+      "source_url": "https://abcnews.com/International/wireStory/china-xi-trump-summit-projecting-image-countrys-rise-136745988"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-25T10:51:24.143017+00:00"
+  "last_updated": "2026-09-25T16:10:33.003739+00:00"
 }
