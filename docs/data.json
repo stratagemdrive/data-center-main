@@ -9,6 +9,14 @@
       "source_url": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga"
     },
     {
+      "title": "Pope in Paris, Xi in DC, AI at a Crossroads",
+      "organization": "UN",
+      "date": "2026-09-25",
+      "location": "Global",
+      "description": "It’s been a week of walkouts, power plays and diplomatic theatre — from a battle over press freedom in Washington, to a United Nations General Assembly marked by protests and departures, as leaders clashed over Iran, Cuba and Venezuela. There was also a rare red-carpet meeting between Donald Trump and Xi Jinping, as the US and China extended their trade truce and turned their attention to the race for dominance in artificial intelligence. And from the geopolitical to the spiritual, Pope Leo brought his call for restraint and regulation of AI to France, as he sought to position the Vatican as a moral voice in a rapidly changing world.",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
+    },
+    {
       "title": "Actors Susan Sarandon, Hannah Einbinder among detained protesters outside Netanyahu's UN speech",
       "organization": "UN",
       "date": "2026-09-24",
@@ -31,14 +39,6 @@
       "location": "Global",
       "description": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
       "source_url": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Syrian leader lashes out at Israel in UN speech, says Golan is inseparable part of Syria",
-      "organization": "UN",
-      "date": "2026-09-24",
-      "location": "Global",
-      "description": "Syria's leader has lashed out at Israel in a speech to the United Nations General Assembly",
-      "source_url": "https://abcnews.com/International/wireStory/syrian-leader-lashes-israel-speech-golan-inseparable-part-136689962"
     }
   ],
   "diplomatic_visits": [
@@ -85,6 +85,22 @@
   ],
   "elections": [
     {
+      "title": "I'm not tempted to call an early election, Burnham says",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-25",
+      "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo"
+    },
+    {
+      "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-25",
+      "description": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flavio, who wants to bring Brazil closer to the US and away from China.",
+      "source_url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
       "country": "Global",
       "election_type": "National",
@@ -107,23 +123,7 @@
       "date": "2026-09-23",
       "description": "President Vladimir Putin says Russia&rsquo;s first wartime parliamentary election, which further strengthened the Kremlin&rsquo;s already-overwhelming legislative control, was a sign of public support for his policies",
       "source_url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040"
-    },
-    {
-      "title": "International watchdog calls for protection of journalists ahead of Serbia election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "An international media watchdog says that journalists in Serbia are increasingly under threat of violence and hostility ahead of a high-stakes early parliamentary election that will test populist President Aleksandar Vucic&rsquo;s rule",
-      "source_url": "https://abcnews.com/International/wireStory/international-media-watchdog-calls-protection-journalists-serbia-ahead-136681762"
-    },
-    {
-      "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-25",
-      "description": "Luiz Inacio Lula da Silva is up two points, but that&#039;s still within the poll&#039;s margin of error.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-25T16:10:33.003739+00:00"
+  "last_updated": "2026-09-25T20:52:55.254072+00:00"
 }
