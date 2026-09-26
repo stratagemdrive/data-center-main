@@ -67,20 +67,20 @@
       "source_url": "https://www.cbc.ca/news/world/trump-xi-summit-washington-9.7357449"
     },
     {
-      "title": "Vietnam's president upgrades Canada to strategic partner during state visit",
-      "visiting_leader": "",
-      "host_country": "United States",
-      "date": "2026-09-25",
-      "description": "Vietnamese President Tô Lâm has upgraded ties with Canada to a strategic partnership, building on Prime Minister Mark Carney's efforts to get middle powers working more closely together to confront American and Chinese coercion.",
-      "source_url": "https://www.cbc.ca/news/politics/to-lam-carney-strategic-partner-9.7357760"
-    },
-    {
       "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise",
       "visiting_leader": "",
       "host_country": "China",
       "date": "2026-09-25",
       "description": "U.S. President Donald Trump&rsquo;s elaborate reception of Chinese President Xi Jinping in Washington, D.C., has impressed the Chinese public",
       "source_url": "https://abcnews.com/International/wireStory/china-xi-trump-summit-projecting-image-countrys-rise-136745988"
+    },
+    {
+      "title": "Trump and Xi declare harmony, no confrontation, as US state visit ends",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-25",
+      "description": "Chinese president Xi Jinping’s state visit to Washington ends on a high note of pomp and less confrontation, as key details of his talks with US president Donald Trump are still to emerge",
+      "source_url": "https://www.euronews.com/2026/09/25/trump-and-xi-declare-harmony-no-confrontation-as-us-state-visit-ends"
     }
   ],
   "elections": [
@@ -109,12 +109,12 @@
       "source_url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Israel-Ireland match to go ahead in Nations League after player vote",
+      "title": "Ireland decide to play Israel in Nations League after squad vote",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-26",
-      "description": "Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.",
-      "source_url": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss"
+      "description": "Ireland&#039;s players have voted to proceed with their Nations League fixture against Israel on Sunday.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
     },
     {
       "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
@@ -125,5 +125,5 @@
       "source_url": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-26T15:24:19.994502+00:00"
+  "last_updated": "2026-09-26T20:23:38.685461+00:00"
 }
