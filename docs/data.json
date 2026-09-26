@@ -85,20 +85,12 @@
   ],
   "elections": [
     {
-      "title": "I'm not tempted to call an early election, Burnham says",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-25",
-      "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo"
-    },
-    {
-      "title": "Brazil's President Lula bans online betting ahead of presidential election",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-26",
-      "description": "Brazil&rsquo;s President Lula da Silva has signed an order to ban fixed-odds betting",
-      "source_url": "https://abcnews.com/International/wireStory/brazils-president-lula-bans-online-betting-ahead-presidential-136770762"
+      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "source_url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo"
     },
     {
       "title": "Morocco’s Authenticity and Modernity Party wins parliamentary election",
@@ -117,13 +109,21 @@
       "source_url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Morocco votes for new parliament amid hopes and concerns over cost of living",
+      "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-09-23",
-      "description": "Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.",
-      "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
+      "date": "2026-09-26",
+      "description": "A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss"
+    },
+    {
+      "title": "I'm not tempted to call an early election, Burnham says",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-25",
+      "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo"
     }
   ],
-  "last_updated": "2026-09-26T02:39:06.312830+00:00"
+  "last_updated": "2026-09-26T10:32:26.568726+00:00"
 }
