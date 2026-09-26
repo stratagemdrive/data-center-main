@@ -51,6 +51,14 @@
       "source_url": "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington"
     },
     {
+      "title": "Trump cozying up to Xi Jinping could spell trouble for Canada, says Michael Kovrig",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-25",
+      "description": "U.S. President Donald Trump's summit with his Chinese counterpart, Xi Jinping, was more about pageantry than policy, says analyst Michael Kovrig. Nevertheless, he says that in cozying up to Xi, Trump is undermining the U.S.'s own interests, and potentially those of Canada.",
+      "source_url": "https://www.cbc.ca/radio/asithappens/donald-trump-xi-jinping-michael-kovrig-9.7358957"
+    },
+    {
       "title": "Fanfare surrounds Trump-Xi summit at White House, but no breakthroughs expected",
       "visiting_leader": "",
       "host_country": "China",
@@ -65,14 +73,6 @@
       "date": "2026-09-25",
       "description": "Vietnamese President Tô Lâm has upgraded ties with Canada to a strategic partnership, building on Prime Minister Mark Carney's efforts to get middle powers working more closely together to confront American and Chinese coercion.",
       "source_url": "https://www.cbc.ca/news/politics/to-lam-carney-strategic-partner-9.7357760"
-    },
-    {
-      "title": "Trump greets Xi on tarmac as Chinese leader arrives for state visit",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-23",
-      "description": "Chinese President Xi Jinping arrived in Washington on Wednesday, where he was met with a rare planeside greeting from U.S. President Donald Trump after their top officials agreed to extend a trade truce until January.",
-      "source_url": "https://www.cbc.ca/news/world/trump-xi-washington-state-visit-9.7355956"
     },
     {
       "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise",
@@ -93,6 +93,22 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo"
     },
     {
+      "title": "Brazil's President Lula bans online betting ahead of presidential election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-26",
+      "description": "Brazil&rsquo;s President Lula da Silva has signed an order to ban fixed-odds betting",
+      "source_url": "https://abcnews.com/International/wireStory/brazils-president-lula-bans-online-betting-ahead-presidential-136770762"
+    },
+    {
+      "title": "Morocco’s Authenticity and Modernity Party wins parliamentary election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-25",
+      "description": "Morocco&rsquo;s Authenticity and Modernity Party has won the most seats in the country&rsquo;s parliamentary election",
+      "source_url": "https://abcnews.com/International/wireStory/moroccos-authenticity-modernity-party-wins-parliamentary-election-interior-136766268"
+    },
+    {
       "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
       "country": "Global",
       "election_type": "National",
@@ -107,23 +123,7 @@
       "date": "2026-09-23",
       "description": "Hopes and concerns over jobs, wages, public services and cost of living dominate Morocco’s parliamentary election as the country prepares for the 2030 World Cup.",
       "source_url": "https://www.euronews.com/2026/09/23/morocco-votes-for-new-parliament-amid-hopes-and-concerns-over-cost-of-living"
-    },
-    {
-      "title": "Switzerland’s neutrality vote is asking the wrong question",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-25",
-      "description": "The real question is what neutrality can still do for Switzerland.",
-      "source_url": "https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question?traffic_source=rss"
-    },
-    {
-      "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-09-23",
-      "description": "President Vladimir Putin says Russia&rsquo;s first wartime parliamentary election, which further strengthened the Kremlin&rsquo;s already-overwhelming legislative control, was a sign of public support for his policies",
-      "source_url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040"
     }
   ],
-  "last_updated": "2026-09-25T20:52:55.254072+00:00"
+  "last_updated": "2026-09-26T02:39:06.312830+00:00"
 }
