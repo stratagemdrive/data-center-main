@@ -59,14 +59,6 @@
       "source_url": "https://www.cbc.ca/news/world/china-united-states-tariff-cuts-9.7359852"
     },
     {
-      "title": "Trump cozying up to Xi Jinping could spell trouble for Canada, says Michael Kovrig",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-25",
-      "description": "U.S. President Donald Trump's summit with his Chinese counterpart, Xi Jinping, was more about pageantry than policy, says analyst Michael Kovrig. Nevertheless, he says that in cozying up to Xi, Trump is undermining the U.S.'s own interests, and potentially those of Canada.",
-      "source_url": "https://www.cbc.ca/radio/asithappens/donald-trump-xi-jinping-michael-kovrig-9.7358957"
-    },
-    {
       "title": "The week in pictures: Trump hosts Xi, the pope visits France and floods ravage Thailand",
       "visiting_leader": "",
       "host_country": "Global",
@@ -81,6 +73,14 @@
       "date": "2026-09-25",
       "description": "Chinese president Xi Jinping’s state visit to Washington ends on a high note of pomp and less confrontation, as key details of his talks with US president Donald Trump are still to emerge",
       "source_url": "https://www.euronews.com/2026/09/25/trump-and-xi-declare-harmony-no-confrontation-as-us-state-visit-ends"
+    },
+    {
+      "title": "Trump cozying up to Xi Jinping could spell trouble for Canada, says Michael Kovrig",
+      "visiting_leader": "",
+      "host_country": "China",
+      "date": "2026-09-25",
+      "description": "U.S. President Donald Trump's summit with his Chinese counterpart, Xi Jinping, was more about pageantry than policy, says analyst Michael Kovrig. Nevertheless, he says that in cozying up to Xi, Trump is undermining the U.S.'s own interests, and potentially those of Canada.",
+      "source_url": "https://www.cbc.ca/radio/asithappens/donald-trump-xi-jinping-michael-kovrig-9.7358957"
     }
   ],
   "elections": [
@@ -91,6 +91,14 @@
       "date": "2026-09-26",
       "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
       "source_url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo"
+    },
+    {
+      "title": "Vucic resigns as Serbia president, setting up election that could see him become PM",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-27",
+      "description": "Serbia's populist President Aleksandar Vucic resigned on Sunday to pursue a bid to become the prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country after nearly two years of protests.",
+      "source_url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341"
     },
     {
       "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
@@ -115,15 +123,7 @@
       "date": "2026-09-27",
       "description": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
       "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election"
-    },
-    {
-      "title": "'Broken social care will in the end break the NHS,' says Burnham",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-27",
-      "description": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
-      "source_url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no"
     }
   ],
-  "last_updated": "2026-09-27T16:03:49.987670+00:00"
+  "last_updated": "2026-09-27T20:37:39.771019+00:00"
 }
