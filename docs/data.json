@@ -93,14 +93,6 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo"
     },
     {
-      "title": "'Broken social care will in the end break the NHS,' says Burnham",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-27",
-      "description": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
-      "source_url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no"
-    },
-    {
       "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
       "country": "Global",
       "election_type": "National",
@@ -117,13 +109,21 @@
       "source_url": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
     },
     {
-      "title": "Morocco’s Authenticity and Modernity Party wins parliamentary election",
+      "title": "Serbia's politicians return to TV debates ahead of parliamentary election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-09-25",
-      "description": "Morocco&rsquo;s Authenticity and Modernity Party has won the most seats in the country&rsquo;s parliamentary election",
-      "source_url": "https://abcnews.com/International/wireStory/moroccos-authenticity-modernity-party-wins-parliamentary-election-interior-136766268"
+      "date": "2026-09-27",
+      "description": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
+      "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election"
+    },
+    {
+      "title": "'Broken social care will in the end break the NHS,' says Burnham",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-27",
+      "description": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
+      "source_url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no"
     }
   ],
-  "last_updated": "2026-09-27T11:03:44.544897+00:00"
+  "last_updated": "2026-09-27T16:03:49.987670+00:00"
 }
