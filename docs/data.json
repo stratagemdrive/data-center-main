@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "In UN address, Anand takes jab at 'great powers' disrupting global order",
+      "organization": "UN",
+      "date": "2026-09-26",
+      "location": "Canada",
+      "description": "Foreign Affairs Minister Anita Anand has put \"strategic autonomy\" at the forefront of Canada's address to the United Nations General Assembly today.",
+      "source_url": "https://www.cbc.ca/news/world/anand-un-assembly-9.7359897"
+    },
+    {
       "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
       "organization": "UN",
       "date": "2026-09-25",
@@ -31,17 +39,17 @@
       "location": "Ukraine",
       "description": "Russia pounded Kyiv with drone strikes on Wednesday, hitting railway infrastructure, warehouses and fuel stations, just hours before Ukrainian President Volodymyr Zelenskyy addressed the United Nations General Assembly in New York.",
       "source_url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849"
-    },
-    {
-      "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
-      "organization": "BRICS",
-      "date": "2026-09-24",
-      "location": "Global",
-      "description": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
-      "source_url": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-09-26",
+      "description": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
+      "source_url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish"
+    },
     {
       "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
       "visiting_leader": "",
@@ -59,20 +67,12 @@
       "source_url": "https://www.cbc.ca/radio/asithappens/donald-trump-xi-jinping-michael-kovrig-9.7358957"
     },
     {
-      "title": "Fanfare surrounds Trump-Xi summit at White House, but no breakthroughs expected",
+      "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
       "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-24",
-      "description": "U.S. President Donald Trump welcomed Chinese President Xi Jinping to the White House on Thursday for a lavish state summit that was heavy on symbolism but light on substance, with no sign that a closed-door meeting yielded breakthroughs on thorny issues such as AI, trade, Taiwan and the war with Iran.",
-      "source_url": "https://www.cbc.ca/news/world/trump-xi-summit-washington-9.7357449"
-    },
-    {
-      "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise",
-      "visiting_leader": "",
-      "host_country": "China",
+      "host_country": "Global",
       "date": "2026-09-25",
-      "description": "U.S. President Donald Trump&rsquo;s elaborate reception of Chinese President Xi Jinping in Washington, D.C., has impressed the Chinese public",
-      "source_url": "https://abcnews.com/International/wireStory/china-xi-trump-summit-projecting-image-countrys-rise-136745988"
+      "description": "The US president showcased White House construction projects and hosted a lavish dinner with tech CEOs, but the summit made little progress on key issues such as trade tensions and AI regulation.",
+      "source_url": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Trump and Xi declare harmony, no confrontation, as US state visit ends",
@@ -125,5 +125,5 @@
       "source_url": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-26T20:23:38.685461+00:00"
+  "last_updated": "2026-09-27T02:37:14.958902+00:00"
 }
