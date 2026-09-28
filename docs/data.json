@@ -43,20 +43,28 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "REPLAY: France's Macron speaks on European Union as pope visits Metz",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-09-28",
-      "description": "French President Emmanuel Macron said that Europe must rediscover the “courage of its founders” and not give in to the “resurgence of nationalism\" as he delivered an address alongside Pope Leo XIV in Metz on the last day of the pontiff's visit to France.",
-      "source_url": "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
-    },
-    {
       "title": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-09-28",
       "description": "The United States is required by law to supply Taiwan, which has a democratically elected president and legislature, with weapons for its defence under the 1979 Taiwan Relations Act.",
       "source_url": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news"
+    },
+    {
+      "title": "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-09-28",
+      "description": "The visit took place as the Israeli prime minister battles domestic turmoil ahead of October&#039;s Knesset elections.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss"
+    },
+    {
+      "title": "REPLAY: France's Macron speaks on European Union as pope visits Metz",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-09-28",
+      "description": "French President Emmanuel Macron said that Europe must rediscover the “courage of its founders” and not give in to the “resurgence of nationalism\" as he delivered an address alongside Pope Leo XIV in Metz on the last day of the pontiff's visit to France.",
+      "source_url": "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
     },
     {
       "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
@@ -73,14 +81,6 @@
       "date": "2026-09-27",
       "description": "From Pope Leo XIV's historic first visit to France to US President Donald Trump meeting China's President Xi Jinping to flooded streets in Bangkok, FRANCE 24 looks back at the week's most striking pictures.",
       "source_url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand"
-    },
-    {
-      "title": "Trump cozying up to Xi Jinping could spell trouble for Canada, says Michael Kovrig",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-25",
-      "description": "U.S. President Donald Trump's summit with his Chinese counterpart, Xi Jinping, was more about pageantry than policy, says analyst Michael Kovrig. Nevertheless, he says that in cozying up to Xi, Trump is undermining the U.S.'s own interests, and potentially those of Canada.",
-      "source_url": "https://www.cbc.ca/radio/asithappens/donald-trump-xi-jinping-michael-kovrig-9.7358957"
     }
   ],
   "elections": [
@@ -93,20 +93,28 @@
       "source_url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341"
     },
     {
-      "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-25",
-      "description": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flavio, who wants to bring Brazil closer to the US and away from China.",
-      "source_url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Le Pen hails 'victory' as French far right secures record 14 seats in Senate",
+      "title": "French far-right's Bardella denies alleged 2013 antisemitic comments as Le Pen sees boost in polls",
       "country": "France",
       "election_type": "National",
       "date": "2026-09-28",
-      "description": "France's far-right National Rally (RN) party and its allies emerged from polls with a record 14 seats in the right-wing dominated Senate on Sunday, effectively quadrupling its number in the 348-seat chamber just months before a presidential election.",
-      "source_url": "https://www.france24.com/en/video/20260928-le-pen-hails-victory-as-french-far-right-secures-record-14-seats-in-senate"
+      "description": "A French investigative website on Monday alleged that far-right National Rally leader Jordan Bardella made antisemitic comments in writing in 2013, but the close ally of presidential frontrunner Marine Le Pen dismissed the claims as fake. The allegations emerged as Le Pen's prospects for the 2027 elections appear stronger than at any point in her previous campaigns. FRANCE 24's Jennie Shin speaks with Dr Andrew Smith, Lecturer in History and Liberal Arts at Queen Mary University of London.",
+      "source_url": "https://www.france24.com/en/french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments-as-le-pen-sees-boost-in-polls"
+    },
+    {
+      "title": "Israel's opposition bloc, Netanyahu’s coalition in dead heat, election poll finds",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-28",
+      "description": "With a month to go until Israel goes to the polls on October 27th, a new opinion poll shows the opposition bloc led by Gadi Eisenkot's Yashar party in a dead heat with Prime Minister Benyamin Netanyahu's coalition. It comes as the leaders of the four main opposition parties pledged to work together.",
+      "source_url": "https://www.france24.com/en/video/20260928-israel-s-opposition-bloc-netanayhu-s-coalition-in-dead-heat-election-poll-finds"
+    },
+    {
+      "title": "As midterms approach, does GOP have a Trump problem?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-28",
+      "description": "The US midterm elections are just five weeks away - and while the US President is not on the ballot, his influence is top of mind for Republicans. Donald Trump's approval ratings have been hitting record lows in recent weeks, and in a sign of the party's concern it has started pouring campaign funding into many seats once considered safe, and some candidates have even changed their tune on one of the election's biggest issues: The US's war in Iran.",
+      "source_url": "https://www.france24.com/en/video/20260928-as-midterms-approach-does-gop-have-a-trump-problem"
     },
     {
       "title": "Serbia's politicians return to TV debates ahead of parliamentary election",
@@ -115,15 +123,7 @@
       "date": "2026-09-27",
       "description": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
       "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election"
-    },
-    {
-      "title": "France’s far-right National Rally gains ground in Senate vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-28",
-      "description": "The vote marks the first time the far-right party gained enough seats to form its own caucus.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/28/frances-far-right-national-rally-gains-ground-in-senate-vote?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-28T12:24:31.109865+00:00"
+  "last_updated": "2026-09-28T22:46:42.957527+00:00"
 }
