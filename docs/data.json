@@ -85,19 +85,11 @@
   ],
   "elections": [
     {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-26",
-      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-      "source_url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo"
-    },
-    {
-      "title": "Vucic resigns as Serbia president, setting up election that could see him become PM",
+      "title": "Vucic resigns as Serbia's president, setting up election that could see him become PM",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-27",
-      "description": "Serbia's populist President Aleksandar Vucic resigned on Sunday to pursue a bid to become the prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country after nearly two years of protests.",
+      "description": "Serbia's populist president, Aleksandar Vucic, resigned on Sunday to pursue a bid to become the prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country after nearly two years of protests.",
       "source_url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341"
     },
     {
@@ -109,21 +101,29 @@
       "source_url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Switzerland votes on country's neutrality",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-09-27",
-      "description": "As other neutral countries such as Austria and Ireland increase defence spending and strengthen ties with NATO, Swiss voters are taking part in a referendum on whether to enshrine a stricter definition of the country’s centuries-old neutrality in the constitution. Switzerland has not fought a military conflict since neutrality was established in 1815, but some argue that measures such as sanctions can undermine that principle. The vote also raises questions about how neutrality can be maintained amid Europe’s changing security landscape, with Russia at war with Ukraine and the US putting pressure on traditional alliances such as NATO. Josh Vardey reports.",
-      "source_url": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
-    },
-    {
       "title": "Serbia's politicians return to TV debates ahead of parliamentary election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-27",
       "description": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
       "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election"
+    },
+    {
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-26",
+      "description": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "source_url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo"
+    },
+    {
+      "title": "Switzerland votes on country's neutrality",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-09-27",
+      "description": "As other neutral countries such as Austria and Ireland increase defence spending and strengthen ties with NATO, Swiss voters are taking part in a referendum on whether to enshrine a stricter definition of the country’s centuries-old neutrality in the constitution. Switzerland has not fought a military conflict since neutrality was established in 1815, but some argue that measures such as sanctions can undermine that principle. The vote also raises questions about how neutrality can be maintained amid Europe’s changing security landscape, with Russia at war with Ukraine and the US putting pressure on traditional alliances such as NATO. Josh Vardey reports.",
+      "source_url": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
     }
   ],
-  "last_updated": "2026-09-27T20:37:39.771019+00:00"
+  "last_updated": "2026-09-28T02:40:29.774672+00:00"
 }
