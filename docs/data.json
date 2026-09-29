@@ -85,6 +85,14 @@
   ],
   "elections": [
     {
+      "title": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-09-29",
+      "description": "One of U.S. President Donald Trump's trade advisers is threatening repercussions for Canada if it \"interferes\" in the upcoming midterm elections — though it's not clear what he anticipates the country would do to impact the vote.",
+      "source_url": "https://www.cbc.ca/news/politics/peter-navarro-canada-interference-elections-lobbyists-9.7362810"
+    },
+    {
       "title": "A view from Brazil: The fight for the favela vote",
       "country": "Global",
       "election_type": "National",
@@ -115,15 +123,7 @@
       "date": "2026-09-29",
       "description": "Security is a central issue in Brazil’s presidential campaign, in a country where gangs and militias have tightened their grip in recent years. Lula is accused of losing ground amid rising insecurity and violence — an issue seized on by Flavio Bolsonaro and the far right. Rio de Janeiro is one of the country’s most violent cities and a showcase for public security policy. How are Rio residents experiencing this insecurity, and will it influence their vote? FRANCE 24's Fanny Lothaire and Jan Onoszko report.",
       "source_url": "https://www.france24.com/en/video/20260929-brazil-s-countdown-to-election-day-crime-and-security-high-on-voters-agenda"
-    },
-    {
-      "title": "French public service strike day puts pressure on govt ahead of budget vote",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-09-29",
-      "description": "French civil servants went on strike on Tuesday ​and high school students blocked the entrances to schools in a show of discontent with planned budget cuts ahead of next year's presidential election. Seven months before the election, and just two days before the government unveils its 2027 budget draft, opinion polls consistently show the deep unpopularity of France's centre-right government and of ​President Emmanuel Macron. FRANCE 24's Andrew Hilliar reports from Paris.",
-      "source_url": "https://www.france24.com/en/video/20260929-french-public-service-strike-day-puts-pressure-on-govt-ahead-of-budget-vote"
     }
   ],
-  "last_updated": "2026-09-29T17:19:03.181711+00:00"
+  "last_updated": "2026-09-29T21:40:23.926033+00:00"
 }
