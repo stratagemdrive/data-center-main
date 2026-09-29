@@ -93,6 +93,14 @@
       "source_url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341"
     },
     {
+      "title": "French student protests fuel political clash ahead of 2027 Presidential vote",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-09-28",
+      "description": "French Prime Minister Sébastien Lecornu and far-left leader Jean-Luc Mélenchon traded barbs on Monday over high school students blockading classes to demand more resources. The students cite teacher shortages, deteriorating schools and heavy schedules. The dispute comes ahead of next spring’s presidential election, amid mounting pressure over France’s finances.",
+      "source_url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote"
+    },
+    {
       "title": "French far-right's Bardella denies alleged 2013 antisemitic comments as Le Pen sees boost in polls",
       "country": "France",
       "election_type": "National",
@@ -115,15 +123,7 @@
       "date": "2026-09-28",
       "description": "The US midterm elections are just five weeks away - and while the US President is not on the ballot, his influence is top of mind for Republicans. Donald Trump's approval ratings have been hitting record lows in recent weeks, and in a sign of the party's concern it has started pouring campaign funding into many seats once considered safe, and some candidates have even changed their tune on one of the election's biggest issues: The US's war in Iran.",
       "source_url": "https://www.france24.com/en/video/20260928-as-midterms-approach-does-gop-have-a-trump-problem"
-    },
-    {
-      "title": "Serbia's politicians return to TV debates ahead of parliamentary election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-27",
-      "description": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
-      "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election"
     }
   ],
-  "last_updated": "2026-09-28T22:46:42.957527+00:00"
+  "last_updated": "2026-09-29T03:22:32.935232+00:00"
 }
