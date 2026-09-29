@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Spanish royals welcome French President Macron in official ceremony",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-09-29",
+      "description": "Spain's King Felipe VI and Queen Letizia welcomed French President Emmanuel Macron and his wife Brigitte Macron during an official ceremony upon their arrival at Madrid's Royal Palace. French President Macron is on a two-day official visit in Spain. This state visit will serve to highlight and strengthen the ties and bilateral relations between the two countries. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
+      "source_url": "https://www.france24.com/en/video/20260929-spanish-royals-welcome-french-president-macron-in-official-ceremony"
+    },
+    {
       "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,57 +81,49 @@
       "date": "2026-09-26",
       "description": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
       "source_url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish"
-    },
-    {
-      "title": "The week in pictures: Trump hosts Xi, the pope visits France and floods ravage Thailand",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-27",
-      "description": "From Pope Leo XIV's historic first visit to France to US President Donald Trump meeting China's President Xi Jinping to flooded streets in Bangkok, FRANCE 24 looks back at the week's most striking pictures.",
-      "source_url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand"
     }
   ],
   "elections": [
     {
-      "title": "French student protests fuel political clash ahead of 2027 presidential vote",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-09-28",
-      "description": "French Prime Minister Sébastien Lecornu and hard-left leader Jean-Luc Mélenchon traded barbs on Monday over high school students blockading classes to demand more resources. The students cite teacher shortages, deteriorating schools and heavy schedules. The dispute comes ahead of next spring’s presidential election and mounting pressure over France’s finances.",
-      "source_url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote"
-    },
-    {
-      "title": "Serbia's politicians return to TV debates ahead of parliamentary election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-27",
-      "description": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
-      "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election"
-    },
-    {
-      "title": "In FIFA-UEFA tussle, European body accused of ‘misinformation campaign’",
+      "title": "A view from Brazil: The fight for the favela vote",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-29",
-      "description": "FIFA accuses UEFA of attempting to influence its presidential election, in which Infantino is seeking a fourth term.",
-      "source_url": "https://www.aljazeera.com/sports/2026/9/29/in-fifa-uefa-tussle-european-body-accused-of-misinformation-campaign?traffic_source=rss"
+      "description": "In Brazil, more than 158 million voters are being called to the polls on Sunday to elect their next president, as well as new members of Congress and governors. In Rio de Janeiro, local candidates are fighting for one particularly sought-after electorate: the residents of favelas. FRANCE 24’s Jan Onoszko reports from Rocinha, Brazil’s largest favela.",
+      "source_url": "https://www.france24.com/en/video/20260929-a-view-from-brazil-the-fight-for-the-favela-vote"
     },
     {
-      "title": "Vucic resigns as Serbia's president, setting up election that could see him become PM",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-27",
-      "description": "Serbia's populist president, Aleksandar Vucic, resigned on Sunday to pursue a bid to become the prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country after nearly two years of protests.",
-      "source_url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341"
-    },
-    {
-      "title": "French far-right's Bardella denies alleged 2013 antisemitic comments as Le Pen sees boost in polls",
+      "title": "French far-right leader Bardella denies anti-Semitism accusations",
       "country": "France",
       "election_type": "National",
-      "date": "2026-09-28",
-      "description": "A French investigative website on Monday alleged that far-right National Rally leader Jordan Bardella made antisemitic comments in writing in 2013, but the close ally of presidential frontrunner Marine Le Pen dismissed the claims as fake. The allegations emerged as Le Pen's prospects for the 2027 elections appear stronger than at any point in her previous campaigns. FRANCE 24's Jennie Shin speaks with Dr Andrew Smith, Lecturer in History and Liberal Arts at Queen Mary University of London.",
-      "source_url": "https://www.france24.com/en/french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments-as-le-pen-sees-boost-in-polls"
+      "date": "2026-09-29",
+      "description": "🇫🇷 ✡️ Far-right #NationalRally (RN) party leader Jordan #Bardella has denied accusation by French investigative website #Mediapart that he made anti-Semitic comments on private chats in 2013. It comes as RN candidate Marine #LePen is polling well in the lead for the 2027 presidential election.",
+      "source_url": "https://www.france24.com/en/video/20260929-french-far-right-leader-bardella-denies-anti-semitism-accusations"
+    },
+    {
+      "title": "France's Le Pen defiant after top ally hit by antisemitism claims",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-09-29",
+      "description": "French far-right presidential candidate Marine Le Pen on Tuesday vowed to hit back at allegations of antisemitism targeting her de-facto number two Jordan Bardella, which have punctured her buoyant campaign at a time she is riding high in the polls. Le Pen, who is aiming to win the Elysee at her fourth attempt next year in a far-right breakthrough that would send a shockwave across Europe, lambasted the Mediapart website that published the claims and said Bardella has her \"total confidence\".",
+      "source_url": "https://www.france24.com/en/video/20260929-france-s-le-pen-defiant-after-top-ally-hit-by-antisemitism-claims"
+    },
+    {
+      "title": "Brazil's countdown to election day: Crime and security high on voters' agenda",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-29",
+      "description": "Security is a central issue in Brazil’s presidential campaign, in a country where gangs and militias have tightened their grip in recent years. Lula is accused of losing ground amid rising insecurity and violence — an issue seized on by Flavio Bolsonaro and the far right. Rio de Janeiro is one of the country’s most violent cities and a showcase for public security policy. How are Rio residents experiencing this insecurity, and will it influence their vote? FRANCE 24's Fanny Lothaire and Jan Onoszko report.",
+      "source_url": "https://www.france24.com/en/video/20260929-brazil-s-countdown-to-election-day-crime-and-security-high-on-voters-agenda"
+    },
+    {
+      "title": "French public service strike day puts pressure on govt ahead of budget vote",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-09-29",
+      "description": "French civil servants went on strike on Tuesday ​and high school students blocked the entrances to schools in a show of discontent with planned budget cuts ahead of next year's presidential election. Seven months before the election, and just two days before the government unveils its 2027 budget draft, opinion polls consistently show the deep unpopularity of France's centre-right government and of ​President Emmanuel Macron. FRANCE 24's Andrew Hilliar reports from Paris.",
+      "source_url": "https://www.france24.com/en/video/20260929-french-public-service-strike-day-puts-pressure-on-govt-ahead-of-budget-vote"
     }
   ],
-  "last_updated": "2026-09-29T11:50:02.953505+00:00"
+  "last_updated": "2026-09-29T17:19:03.181711+00:00"
 }
