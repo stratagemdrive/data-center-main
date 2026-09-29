@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "UNGA 81: Five key takeaways from general debate",
+      "organization": "UN",
+      "date": "2026-09-29",
+      "location": "Global",
+      "description": "The 81st United Nations General Assembly ends with AI, Palestine and wars dominating speeches.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/29/unga-81-five-key-takeaways-from-general-debate?traffic_source=rss"
+    },
+    {
       "title": "In UN address, Anand takes jab at 'great powers' disrupting global order",
       "organization": "UN",
       "date": "2026-09-26",
@@ -31,17 +39,17 @@
       "location": "Global",
       "description": "Actors Susan Sarandon and Hannah Einbinder were among the protestors detained in New York City on Thursday as Israel Prime Minister Benjamin Netanyahu delivered a speech to the United Nations General Assembly.",
       "source_url": "https://www.cbc.ca/news/entertainment/benjamin-netanyahu-un-speech-celebrities-detained-new-york-city-9.7357238"
-    },
-    {
-      "title": "Zelenskyy addresses UN as Rubio of U.S. says Ukraine, Russia have interest in limited ceasefire",
-      "organization": "UN",
-      "date": "2026-09-23",
-      "location": "Ukraine",
-      "description": "Russia pounded Kyiv with drone strikes on Wednesday, hitting railway infrastructure, warehouses and fuel stations, just hours before Ukrainian President Volodymyr Zelenskyy addressed the United Nations General Assembly in New York.",
-      "source_url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-09-29",
+      "description": "The visit came weeks after a bombshell Israeli media report that the Emirati president had warned Netanyahu ahead of the Hamas-led attack on Israel in 2023, which the Israeli premier did not pass on to the security services.",
+      "source_url": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday"
+    },
     {
       "title": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
       "visiting_leader": "",
@@ -49,14 +57,6 @@
       "date": "2026-09-28",
       "description": "The United States is required by law to supply Taiwan, which has a democratically elected president and legislature, with weapons for its defence under the 1979 Taiwan Relations Act.",
       "source_url": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news"
-    },
-    {
-      "title": "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-28",
-      "description": "The visit took place as the Israeli prime minister battles domestic turmoil ahead of October&#039;s Knesset elections.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss"
     },
     {
       "title": "REPLAY: France's Macron speaks on European Union as pope visits Metz",
@@ -85,6 +85,30 @@
   ],
   "elections": [
     {
+      "title": "French student protests fuel political clash ahead of 2027 presidential vote",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-09-28",
+      "description": "French Prime Minister Sébastien Lecornu and hard-left leader Jean-Luc Mélenchon traded barbs on Monday over high school students blockading classes to demand more resources. The students cite teacher shortages, deteriorating schools and heavy schedules. The dispute comes ahead of next spring’s presidential election and mounting pressure over France’s finances.",
+      "source_url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote"
+    },
+    {
+      "title": "Serbia's politicians return to TV debates ahead of parliamentary election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-27",
+      "description": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
+      "source_url": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election"
+    },
+    {
+      "title": "In FIFA-UEFA tussle, European body accused of ‘misinformation campaign’",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-29",
+      "description": "FIFA accuses UEFA of attempting to influence its presidential election, in which Infantino is seeking a fourth term.",
+      "source_url": "https://www.aljazeera.com/sports/2026/9/29/in-fifa-uefa-tussle-european-body-accused-of-misinformation-campaign?traffic_source=rss"
+    },
+    {
       "title": "Vucic resigns as Serbia's president, setting up election that could see him become PM",
       "country": "Global",
       "election_type": "National",
@@ -93,37 +117,13 @@
       "source_url": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341"
     },
     {
-      "title": "French student protests fuel political clash ahead of 2027 Presidential vote",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-09-28",
-      "description": "French Prime Minister Sébastien Lecornu and far-left leader Jean-Luc Mélenchon traded barbs on Monday over high school students blockading classes to demand more resources. The students cite teacher shortages, deteriorating schools and heavy schedules. The dispute comes ahead of next spring’s presidential election, amid mounting pressure over France’s finances.",
-      "source_url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote"
-    },
-    {
       "title": "French far-right's Bardella denies alleged 2013 antisemitic comments as Le Pen sees boost in polls",
       "country": "France",
       "election_type": "National",
       "date": "2026-09-28",
       "description": "A French investigative website on Monday alleged that far-right National Rally leader Jordan Bardella made antisemitic comments in writing in 2013, but the close ally of presidential frontrunner Marine Le Pen dismissed the claims as fake. The allegations emerged as Le Pen's prospects for the 2027 elections appear stronger than at any point in her previous campaigns. FRANCE 24's Jennie Shin speaks with Dr Andrew Smith, Lecturer in History and Liberal Arts at Queen Mary University of London.",
       "source_url": "https://www.france24.com/en/french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments-as-le-pen-sees-boost-in-polls"
-    },
-    {
-      "title": "Israel's opposition bloc, Netanyahu’s coalition in dead heat, election poll finds",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-28",
-      "description": "With a month to go until Israel goes to the polls on October 27th, a new opinion poll shows the opposition bloc led by Gadi Eisenkot's Yashar party in a dead heat with Prime Minister Benyamin Netanyahu's coalition. It comes as the leaders of the four main opposition parties pledged to work together.",
-      "source_url": "https://www.france24.com/en/video/20260928-israel-s-opposition-bloc-netanayhu-s-coalition-in-dead-heat-election-poll-finds"
-    },
-    {
-      "title": "As midterms approach, does GOP have a Trump problem?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-28",
-      "description": "The US midterm elections are just five weeks away - and while the US President is not on the ballot, his influence is top of mind for Republicans. Donald Trump's approval ratings have been hitting record lows in recent weeks, and in a sign of the party's concern it has started pouring campaign funding into many seats once considered safe, and some candidates have even changed their tune on one of the election's biggest issues: The US's war in Iran.",
-      "source_url": "https://www.france24.com/en/video/20260928-as-midterms-approach-does-gop-have-a-trump-problem"
     }
   ],
-  "last_updated": "2026-09-29T03:22:32.935232+00:00"
+  "last_updated": "2026-09-29T11:50:02.953505+00:00"
 }
