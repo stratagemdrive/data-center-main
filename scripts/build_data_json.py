@@ -12,7 +12,7 @@ import requests
 from dateutil import parser as dtparser
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-DOCS_DATA_PATH = REPO_ROOT / "docs" / "data.json"
+DOCS_DATA_PATH = REPO_ROOT / "public" / "data.json"
 
 HEADERS = {
     "User-Agent": (
