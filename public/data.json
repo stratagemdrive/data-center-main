@@ -1,6 +1,22 @@
 {
   "world_org_meetings": [
     {
+      "title": "G20 trade ministers are meeting in Wisconsin. Many will be discussing deals without their U.S. host",
+      "organization": "G20",
+      "date": "2026-09-30",
+      "location": "Global",
+      "description": "Most of the officials attending the G20 trade ministers' meeting in Milwaukee, Wisc., find themselves in challenging positions, largely because of U.S. President Donald Trump's global tariff agenda. It makes for a potentially unusual summit, with high-level meetings on the sidelines where different countries discuss plans to work around the host.",
+      "source_url": "https://www.cbc.ca/news/politics/g20-trade-ministers-meeting-summit-trump-tariffs-9.7363275"
+    },
+    {
+      "title": "Trump’s tariffs loom over talks as G20 meets in US",
+      "organization": "G20",
+      "date": "2026-09-30",
+      "location": "Global",
+      "description": "Trade ministers of the Group of 20 are meeting in Milwaukee for two days of talks on Wednesday, but US President Donald Trump’s tariffs are expected to hang heavy over the talks. \"Don't expect any breakthroughs,\" an analyst watching the event said.",
+      "source_url": "https://www.france24.com/en/americas/20260930-g20-meets-in-us-as-trump-s-tariffs-loom-over-talks"
+    },
+    {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "organization": "NATO",
       "date": "2026-09-19",
@@ -23,32 +39,16 @@
       "location": "Global",
       "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
       "source_url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
-    },
-    {
-      "title": "Head of European Investment Bank eyes Canada opportunities as Carney pushes EU ties",
-      "organization": "EU",
-      "date": "2026-09-20",
-      "location": "Ukraine",
-      "description": "<img alt=\"President of the European Investment Bank Nadia Calvino\" height=\"349\" src=\"https://i.cbc.ca/ais/99d8ab9c-0806-410b-af70-c37e8ce6e824,1789922324803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C225%2C8297%2C4667%29%3B\" title=\"President of the European Investment Bank Nadia Calvino speaks during the briefing with Ukrainian President Volodymyr Zelenskyy in Kyiv, Ukraine, Monday, Feb. 10, 2025. (AP Photo/Efrem Lukatsky)\" width=\"620\" /><p>The president of the European Union's investment bank says \"the time is ripe\" to deepen its co-operation with Canada by exploring how to finance Canadian projects — comments that come as Prime Minister Mark Carney pushes for more EU ties.</p>",
-      "source_url": "https://www.cbc.ca/news/politics/european-investment-bank-carney-eu-nadia-calvino-canadian-projects-9.7351408?cmp=rss"
-    },
-    {
-      "title": "North Korea fires two ballistic missiles off east coast in three hours",
-      "organization": "UN",
-      "date": "June 25",
-      "location": "Global",
-      "description": "<img alt=\"A rocket is launched from the back of a truck.\" height=\"349\" src=\"https://i.cbc.ca/ais/20354211-e697-41b9-a1ab-b1ef4b3961b7,1789910564657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6912%2C3888%29%3B\" title=\"A rocket launcher fires a munition during tests, involving an upgraded version of a 240-mm, 24-tube multiple rocket launcher system, tactical ballistic missiles, and a 155-mm self-propelled howitzer, overseen by North Korean leader Kim Jong Un in North Korea, June 25, 2026.\" width=\"620\" /><p>North Korea launched two missiles off its eastern coast on Sunday, its second set of tests in roughly a week and days after Pyongyang accused the U.S. of driving tensions on the Korean Peninsula through a series of military drills.</p>",
-      "source_url": "https://www.cbc.ca/news/world/north-korea-fires-ballistic-missiles-9.7351274?cmp=rss"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "title": "Attention turns to economy on final day of Macron’s visit to Spain",
       "visiting_leader": "",
-      "host_country": "Global",
+      "host_country": "France",
       "date": "2026-09-30",
-      "description": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko"
+      "description": "President Emmanuel Macron is in Spain for the final day of his two-day state visit, the first by a French president to the country since 2009. After being welcomed with a banquet at the Royal Palace by King Felipe VI on Tuesday, on today's agenda is the opening of the Franco-Spanish economic forum and a meeting with Spain's leftist Prime Minister Pedro Sanchez. Once economically ahead of Spain, France is now seeing Spain grow faster, as the Spanish economy has outpaced its French neighbour in recent years.",
+      "source_url": "https://www.france24.com/en/video/20260930-attention-turns-to-economy-on-final-day-of-macron-s-visit-to-spain"
     },
     {
       "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
@@ -57,6 +57,14 @@
       "date": "2026-09-29",
       "description": "The visit came weeks after a bombshell Israeli media report that the Emirati president had warned Netanyahu ahead of the Hamas-led attack on Israel in 2023, which the Israeli premier did not pass on to the security services.",
       "source_url": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday"
+    },
+    {
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-09-30",
+      "description": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko"
     },
     {
       "title": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
@@ -73,14 +81,6 @@
       "date": "2026-09-29",
       "description": "Spain's King Felipe VI and Queen Letizia welcomed French President Emmanuel Macron and his wife Brigitte Macron during an official ceremony upon their arrival at Madrid's Royal Palace. French President Macron is on a two-day official visit in Spain. This state visit will serve to highlight and strengthen the ties and bilateral relations between the two countries. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
       "source_url": "https://www.france24.com/en/video/20260929-spanish-royals-welcome-french-president-macron-in-official-ceremony"
-    },
-    {
-      "title": "Defining global leadership in AI at Trump-Xi summit",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-09-20",
-      "description": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
-      "source_url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit"
     }
   ],
   "elections": [
@@ -93,37 +93,37 @@
       "source_url": "https://www.cbc.ca/news/politics/peter-navarro-canada-interference-elections-lobbyists-9.7362810"
     },
     {
+      "title": "Romanian lawmakers to vote on new center-right Cabinet as political crisis drags on",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-30",
+      "description": "Romanian lawmakers are set to vote on a new center-right Cabinet proposed by Prime Minister-designate Siegfried Muresan",
+      "source_url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572"
+    },
+    {
+      "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-30",
+      "description": "Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss"
+    },
+    {
+      "title": "Democrats hope anger at Trump enough to get young people to vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-30",
+      "description": "Political strategist Celinda Lake says that young voters don’t usually cast their ballots in midterm elections.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss"
+    },
+    {
       "title": "Serbia's populist President Vucic resigns to run for prime minister at early vote",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-28",
       "description": "Serbia&rsquo;s populist President Aleksandar Vucic has resigned the post to pursue a bid to become the prime minister in an upcoming early parliamentary election",
       "source_url": "https://abcnews.com/International/wireStory/serbias-populist-president-vucic-resigns-run-prime-minister-136801094"
-    },
-    {
-      "title": "A view from Brazil: The fight for the favela vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-29",
-      "description": "In Brazil, more than 158 million voters are being called to the polls on Sunday to elect their next president, as well as new members of Congress and governors. In Rio de Janeiro, local candidates are fighting for one particularly sought-after electorate: the residents of favelas. FRANCE 24’s Jan Onoszko reports from Rocinha, Brazil’s largest favela.",
-      "source_url": "https://www.france24.com/en/video/20260929-a-view-from-brazil-the-fight-for-the-favela-vote"
-    },
-    {
-      "title": "French far-right leader Bardella denies anti-Semitism accusations",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-09-29",
-      "description": "🇫🇷 ✡️ Far-right #NationalRally (RN) party leader Jordan #Bardella has denied accusation by French investigative website #Mediapart that he made anti-Semitic comments on private chats in 2013. It comes as RN candidate Marine #LePen is polling well in the lead for the 2027 presidential election.",
-      "source_url": "https://www.france24.com/en/video/20260929-french-far-right-leader-bardella-denies-anti-semitism-accusations"
-    },
-    {
-      "title": "France's Le Pen defiant after top ally hit by antisemitism claims",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-09-29",
-      "description": "French far-right presidential candidate Marine Le Pen on Tuesday vowed to hit back at allegations of antisemitism targeting her de-facto number two Jordan Bardella, which have punctured her buoyant campaign at a time she is riding high in the polls. Le Pen, who is aiming to win the Elysee at her fourth attempt next year in a far-right breakthrough that would send a shockwave across Europe, lambasted the Mediapart website that published the claims and said Bardella has her \"total confidence\".",
-      "source_url": "https://www.france24.com/en/video/20260929-france-s-le-pen-defiant-after-top-ally-hit-by-antisemitism-claims"
     }
   ],
-  "last_updated": "2026-09-30T03:05:32.868765+00:00"
+  "last_updated": "2026-09-30T11:36:48.861937+00:00"
 }
