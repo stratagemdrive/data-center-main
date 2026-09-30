@@ -43,12 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Spanish royals welcome French President Macron in official ceremony",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-09-29",
-      "description": "Spain's King Felipe VI and Queen Letizia welcomed French President Emmanuel Macron and his wife Brigitte Macron during an official ceremony upon their arrival at Madrid's Royal Palace. French President Macron is on a two-day official visit in Spain. This state visit will serve to highlight and strengthen the ties and bilateral relations between the two countries. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
-      "source_url": "https://www.france24.com/en/video/20260929-spanish-royals-welcome-french-president-macron-in-official-ceremony"
+      "host_country": "Global",
+      "date": "2026-09-30",
+      "description": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko"
     },
     {
       "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
@@ -67,20 +67,20 @@
       "source_url": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news"
     },
     {
+      "title": "Spanish royals welcome French President Macron in official ceremony",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-09-29",
+      "description": "Spain's King Felipe VI and Queen Letizia welcomed French President Emmanuel Macron and his wife Brigitte Macron during an official ceremony upon their arrival at Madrid's Royal Palace. French President Macron is on a two-day official visit in Spain. This state visit will serve to highlight and strengthen the ties and bilateral relations between the two countries. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
+      "source_url": "https://www.france24.com/en/video/20260929-spanish-royals-welcome-french-president-macron-in-official-ceremony"
+    },
+    {
       "title": "Defining global leadership in AI at Trump-Xi summit",
       "visiting_leader": "",
       "host_country": "China",
       "date": "2026-09-20",
       "description": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
       "source_url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit"
-    },
-    {
-      "title": "Protection for women who defy the Mafia is changing in Italy. Does it go far enough?",
-      "visiting_leader": "",
-      "host_country": "Italy",
-      "date": "January 19",
-      "description": "<img alt=\"People stand outside near a tall metal fence.\" height=\"349\" src=\"https://i.cbc.ca/ais/22735337-1f93-476b-9ef8-279799ed7a88,1789751045551/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C427%2C8195%2C4609%29%3B\" title=\"Reporters wait on January 19, 2023 outside a special bunker court in Caltanissetta, Sicily, where mafia boss Matteo Messina Denaro is expected to appear via videolink, for the 1992 Via D&apos;Amelio bombing in Palermo, and the 1992 Capaci bombing. - Messina Denaro, 60, a convicted killer, was caught during a visit to the clinic on January 16, 2023 after 30 years on the run, after being forced to seek treatment for cancer. The 1992 Palermo bombing killed anti-mafia Italian magistrate Paolo Borsellino, as the Capaci bombing killed Italian magistrate Giovanni Falcone, his wife Francesca Morvillo, and three police escort agents.\" width=\"620\" /><p>For women speaking out against the Mafia, the protection offered can be both practically and emotionally challenging. A new Italian law extending protection from organized crime to children and the adults caring for them — often their mothers — is designed to address some of that gap.</p>",
-      "source_url": "https://www.cbc.ca/news/world/italy-mafia-women-protection-free-to-choose-law-9.7349744?cmp=rss"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.france24.com/en/video/20260929-france-s-le-pen-defiant-after-top-ally-hit-by-antisemitism-claims"
     }
   ],
-  "last_updated": "2026-09-30T02:13:57.392711+00:00"
+  "last_updated": "2026-09-30T03:05:32.868765+00:00"
 }
