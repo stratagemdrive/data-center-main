@@ -43,12 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Attention turns to economy on final day of Macron’s visit to Spain",
+      "title": "Macron says UK’s return to EU would be ‘excellent news’",
       "visiting_leader": "",
       "host_country": "France",
       "date": "2026-09-30",
-      "description": "President Emmanuel Macron is in Spain for the final day of his two-day state visit, the first by a French president to the country since 2009. After being welcomed with a banquet at the Royal Palace by King Felipe VI on Tuesday, on today's agenda is the opening of the Franco-Spanish economic forum and a meeting with Spain's leftist Prime Minister Pedro Sanchez. Once economically ahead of Spain, France is now seeing Spain grow faster, as the Spanish economy has outpaced its French neighbour in recent years.",
-      "source_url": "https://www.france24.com/en/video/20260930-attention-turns-to-economy-on-final-day-of-macron-s-visit-to-spain"
+      "description": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.",
+      "source_url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip"
     },
     {
       "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
@@ -57,6 +57,14 @@
       "date": "2026-09-29",
       "description": "The visit came weeks after a bombshell Israeli media report that the Emirati president had warned Netanyahu ahead of the Hamas-led attack on Israel in 2023, which the Israeli premier did not pass on to the security services.",
       "source_url": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday"
+    },
+    {
+      "title": "Attention turns to economy on final day of Macron’s visit to Spain",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-09-30",
+      "description": "President Emmanuel Macron is in Spain for the final day of his two-day state visit, the first by a French president to the country since 2009. After being welcomed with a banquet at the Royal Palace by King Felipe VI on Tuesday, on today's agenda is the opening of the Franco-Spanish economic forum and a meeting with Spain's leftist Prime Minister Pedro Sanchez. Once economically ahead of Spain, France is now seeing Spain grow faster, as the Spanish economy has outpaced its French neighbour in recent years.",
+      "source_url": "https://www.france24.com/en/video/20260930-attention-turns-to-economy-on-final-day-of-macron-s-visit-to-spain"
     },
     {
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -73,14 +81,6 @@
       "date": "2026-09-28",
       "description": "The United States is required by law to supply Taiwan, which has a democratically elected president and legislature, with weapons for its defence under the 1979 Taiwan Relations Act.",
       "source_url": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news"
-    },
-    {
-      "title": "Spanish royals welcome French President Macron in official ceremony",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-09-29",
-      "description": "Spain's King Felipe VI and Queen Letizia welcomed French President Emmanuel Macron and his wife Brigitte Macron during an official ceremony upon their arrival at Madrid's Royal Palace. French President Macron is on a two-day official visit in Spain. This state visit will serve to highlight and strengthen the ties and bilateral relations between the two countries. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
-      "source_url": "https://www.france24.com/en/video/20260929-spanish-royals-welcome-french-president-macron-in-official-ceremony"
     }
   ],
   "elections": [
@@ -101,6 +101,14 @@
       "source_url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572"
     },
     {
+      "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-09-30",
+      "description": "Bosnia goes to the polls on October 4 to elect several parliaments and presidents. While voters worry about the economy and emigration, the campaign is focused on ethnicity, exposing the country's political paralysis.",
+      "source_url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
       "country": "Global",
       "election_type": "National",
@@ -115,15 +123,7 @@
       "date": "2026-09-30",
       "description": "Political strategist Celinda Lake says that young voters don’t usually cast their ballots in midterm elections.",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss"
-    },
-    {
-      "title": "Serbia's populist President Vucic resigns to run for prime minister at early vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-28",
-      "description": "Serbia&rsquo;s populist President Aleksandar Vucic has resigned the post to pursue a bid to become the prime minister in an upcoming early parliamentary election",
-      "source_url": "https://abcnews.com/International/wireStory/serbias-populist-president-vucic-resigns-run-prime-minister-136801094"
     }
   ],
-  "last_updated": "2026-09-30T11:36:48.861937+00:00"
+  "last_updated": "2026-09-30T17:16:28.940959+00:00"
 }
