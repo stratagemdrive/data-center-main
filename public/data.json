@@ -85,45 +85,45 @@
   ],
   "elections": [
     {
-      "title": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "2026-09-29",
-      "description": "One of U.S. President Donald Trump's trade advisers is threatening repercussions for Canada if it \"interferes\" in the upcoming midterm elections — though it's not clear what he anticipates the country would do to impact the vote.",
-      "source_url": "https://www.cbc.ca/news/politics/peter-navarro-canada-interference-elections-lobbyists-9.7362810"
-    },
-    {
-      "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-30",
-      "description": "Bosnia goes to the polls on October 4 to elect several parliaments and presidents. While voters worry about the economy and emigration, the campaign is focused on ethnicity, exposing the country's political paralysis.",
-      "source_url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Brazil elections: Can Lula’s anti-poverty record win over voters?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-01",
-      "description": "In Brazil, incumbent President Luiz Inácio Lula da Silva is seeking a fourth and final term in the presidential election on October 4. In 2022, he made the fight against hunger and poverty a key campaign promise. Between 2023 and 2024, nearly nine million people were lifted out of poverty thanks to the government’s social and economic programs. The decline was particularly sharp in Brazil’s Northeast. A traditional stronghold for Lula, will the progress made in reducing poverty translate into stronger support for the current president? FRANCE 24's team on the ground reports.",
-      "source_url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters"
-    },
-    {
-      "title": "El Salvador sets date for 2027 presidential election as Bukele seeks third term",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-01",
-      "description": "El Salvador will hold presidential elections on February 28, 2027, the electoral tribunal said Wednesday, opening the way for President Nayib Bukele to seek a third term after constitutional changes removed presidential term limits. Bukele has drawn praise for sharply reducing gang violence but faced criticism over rights abuses during his crackdown.",
-      "source_url": "https://www.france24.com/en/americas/20261001-el-salvador-sets-2027-presidential-election-as-nayib-bukele-seeks-third-term"
-    },
-    {
       "title": "Romanian lawmakers to vote on new center-right Cabinet as political crisis drags on",
       "country": "Global",
       "election_type": "National",
       "date": "2026-09-30",
       "description": "Romanian lawmakers are set to vote on a new center-right Cabinet proposed by Prime Minister-designate Siegfried Muresan",
       "source_url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572"
+    },
+    {
+      "title": "France demands belt-tightening in 2027 budget as investors sour on its debt",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "France presented its ​2027 budget bill on Thursday, seeking to enact unpopular belt-tightening measures that can lower its deficit and appease increasingly twitchy bond investors ahead of next year's presidential election. The legislation faces a tough ride in a deeply divided parliament, as political clans position themselves for one of the country's most consequential elections in modern times.",
+      "source_url": "https://www.france24.com/en/video/20261001-france-demands-belt-tightening-in-2027-budget-as-investors-sour-on-its-debt"
+    },
+    {
+      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss"
+    },
+    {
+      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "Central Elections Committee voted last week to bar both main Arab lists and two candidates from parliamentary election.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss"
+    },
+    {
+      "title": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-09-29",
+      "description": "One of U.S. President Donald Trump's trade advisers is threatening repercussions for Canada if it \"interferes\" in the upcoming midterm elections — though it's not clear what he anticipates the country would do to impact the vote.",
+      "source_url": "https://www.cbc.ca/news/politics/peter-navarro-canada-interference-elections-lobbyists-9.7362810"
     }
   ],
-  "last_updated": "2026-10-01T12:05:28.253052+00:00"
+  "last_updated": "2026-10-01T22:08:38.923361+00:00"
 }
