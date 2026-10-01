@@ -43,20 +43,20 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Macron says UK’s return to EU would be ‘excellent news’",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-09-30",
-      "description": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.",
-      "source_url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip"
-    },
-    {
       "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-09-29",
       "description": "The visit came weeks after a bombshell Israeli media report that the Emirati president had warned Netanyahu ahead of the Hamas-led attack on Israel in 2023, which the Israeli premier did not pass on to the security services.",
       "source_url": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday"
+    },
+    {
+      "title": "Macron says UK’s return to EU would be ‘excellent news’",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-09-30",
+      "description": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.",
+      "source_url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip"
     },
     {
       "title": "Attention turns to economy on final day of Macron’s visit to Spain",
@@ -109,21 +109,21 @@
       "source_url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-world-4025-rdf"
     },
     {
+      "title": "El Salvador sets 2027 presidential election as Nayib Bukele seeks third term",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "El Salvador will hold presidential elections on February 28, 2027, the electoral tribunal said Wednesday, opening the way for President Nayib Bukele to seek a third term after constitutional changes removed presidential term limits. Bukele has drawn praise for sharply reducing gang violence but faced criticism over rights abuses during his crackdown.",
+      "source_url": "https://www.france24.com/en/americas/20261001-el-salvador-sets-2027-presidential-election-as-nayib-bukele-seeks-third-term"
+    },
+    {
       "title": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
       "country": "United Kingdom",
       "election_type": "National",
       "date": "2026-09-30",
       "description": "British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips.",
       "source_url": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
-    },
-    {
-      "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-30",
-      "description": "Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-09-30T21:41:04.487029+00:00"
+  "last_updated": "2026-10-01T03:11:52.880112+00:00"
 }
