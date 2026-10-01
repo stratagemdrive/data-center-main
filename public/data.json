@@ -93,14 +93,6 @@
       "source_url": "https://www.cbc.ca/news/politics/peter-navarro-canada-interference-elections-lobbyists-9.7362810"
     },
     {
-      "title": "Romanian lawmakers to vote on new center-right Cabinet as political crisis drags on",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-09-30",
-      "description": "Romanian lawmakers are set to vote on a new center-right Cabinet proposed by Prime Minister-designate Siegfried Muresan",
-      "source_url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572"
-    },
-    {
       "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
       "country": "Global",
       "election_type": "National",
@@ -109,7 +101,15 @@
       "source_url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "El Salvador sets 2027 presidential election as Nayib Bukele seeks third term",
+      "title": "Brazil elections: Can Lula’s anti-poverty record win over voters?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "In Brazil, incumbent President Luiz Inácio Lula da Silva is seeking a fourth and final term in the presidential election on October 4. In 2022, he made the fight against hunger and poverty a key campaign promise. Between 2023 and 2024, nearly nine million people were lifted out of poverty thanks to the government’s social and economic programs. The decline was particularly sharp in Brazil’s Northeast. A traditional stronghold for Lula, will the progress made in reducing poverty translate into stronger support for the current president? FRANCE 24's team on the ground reports.",
+      "source_url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters"
+    },
+    {
+      "title": "El Salvador sets date for 2027 presidential election as Bukele seeks third term",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-01",
@@ -117,13 +117,13 @@
       "source_url": "https://www.france24.com/en/americas/20261001-el-salvador-sets-2027-presidential-election-as-nayib-bukele-seeks-third-term"
     },
     {
-      "title": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
-      "country": "United Kingdom",
+      "title": "Romanian lawmakers to vote on new center-right Cabinet as political crisis drags on",
+      "country": "Global",
       "election_type": "National",
       "date": "2026-09-30",
-      "description": "British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips.",
-      "source_url": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
+      "description": "Romanian lawmakers are set to vote on a new center-right Cabinet proposed by Prime Minister-designate Siegfried Muresan",
+      "source_url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572"
     }
   ],
-  "last_updated": "2026-10-01T03:11:52.880112+00:00"
+  "last_updated": "2026-10-01T12:05:28.253052+00:00"
 }
