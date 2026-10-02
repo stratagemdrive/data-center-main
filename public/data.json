@@ -85,6 +85,22 @@
   ],
   "elections": [
     {
+      "title": "Czech Prime Minister Andrej Babiš’s government survives no-confidence vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "The Czech government led by populist billionaire Andrej Babi&scaron; survives a parliamentary no-confidence vote",
+      "source_url": "https://abcnews.com/International/wireStory/czech-prime-minister-andrej-babis-government-survives-confidence-136928617"
+    },
+    {
+      "title": "Haiti struggles with rise in kidnappings as general election looms",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "Kidnappings are on the rise across Haiti",
+      "source_url": "https://abcnews.com/International/wireStory/haiti-struggles-rise-kidnappings-general-election-looms-136923483"
+    },
+    {
       "title": "Romanian lawmakers to vote on new center-right Cabinet as political crisis drags on",
       "country": "Global",
       "election_type": "National",
@@ -93,37 +109,21 @@
       "source_url": "https://abcnews.com/International/wireStory/romanian-lawmakers-set-vote-new-center-cabinet-political-136879572"
     },
     {
+      "title": "French investigative site says antisemitic messages tied to Jordan Bardella, Le Pen's ally",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-10-01",
+      "description": "French investigative outlet Mediapart said on Thursday it had authenticated antisemitic messages allegedly sent by far-right politician Jordan Bardella in 2013. Bardella denied writing them and said he would sue for defamation and forgery. The allegations come seven months before France’s presidential election, with Marine Le Pen leading opinion polls.",
+      "source_url": "https://www.france24.com/en/france/20261001-jordan-bardella-antisemitic-messages-authenticated-french-outlet"
+    },
+    {
       "title": "France demands belt-tightening in 2027 budget as investors sour on its debt",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-01",
       "description": "France presented its ​2027 budget bill on Thursday, seeking to enact unpopular belt-tightening measures that can lower its deficit and appease increasingly twitchy bond investors ahead of next year's presidential election. The legislation faces a tough ride in a deeply divided parliament, as political clans position themselves for one of the country's most consequential elections in modern times.",
       "source_url": "https://www.france24.com/en/video/20261001-france-demands-belt-tightening-in-2027-budget-as-investors-sour-on-its-debt"
-    },
-    {
-      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-01",
-      "description": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss"
-    },
-    {
-      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-01",
-      "description": "Central Elections Committee voted last week to bar both main Arab lists and two candidates from parliamentary election.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss"
-    },
-    {
-      "title": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "2026-09-29",
-      "description": "One of U.S. President Donald Trump's trade advisers is threatening repercussions for Canada if it \"interferes\" in the upcoming midterm elections — though it's not clear what he anticipates the country would do to impact the vote.",
-      "source_url": "https://www.cbc.ca/news/politics/peter-navarro-canada-interference-elections-lobbyists-9.7362810"
     }
   ],
-  "last_updated": "2026-10-01T22:08:38.923361+00:00"
+  "last_updated": "2026-10-02T03:13:26.060571+00:00"
 }
