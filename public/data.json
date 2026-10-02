@@ -85,6 +85,22 @@
   ],
   "elections": [
     {
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "country": "Spain",
+      "election_type": "National",
+      "date": "2026-10-02",
+      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo"
+    },
+    {
+      "title": "Greens can move Labour in the right direction, says Polanski",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-02",
+      "description": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx239469krpo"
+    },
+    {
       "title": "Czech Prime Minister Andrej Babiš’s government survives no-confidence vote",
       "country": "Global",
       "election_type": "National",
@@ -107,23 +123,7 @@
       "date": "2026-10-01",
       "description": "On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow.",
       "source_url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Why Brazil's gun lobby is backing Bolsonaro as country heads to polls",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-02",
-      "description": "As Brazil heads to the polls, one issue that could influence votes particularly in the rural south is access to firearms. Under Jair Bolsonaro, Brazil became more heavily armed than ever before: the number of registered hunters, shooters and collectors – known by the acronym ‘CACs’ – increased sevenfold in four years. Luiz Inacio Lula da Silva promised to reverse this trend, much to the irritation of the powerful gun lobby. France 24’s team in Brazil sent this report.",
-      "source_url": "https://www.france24.com/en/video/20261002-why-brazil-s-gun-lobby-is-backing-bolsonaro-as-country-heads-to-polls"
-    },
-    {
-      "title": "French website publishes evidence for antisemitism claims against Bardella",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-10-02",
-      "description": "French investigative journalism website Mediapart said Thursday it had been able to authenticate antisemitic messages from 2013 attributed to far-right presidential candidate Marine Le Pen's de facto deputy Jordan Bardella. The allegations come just seven months out from the election where voters will choose a replacement for President Emmanuel Macron, with Le Pen leading opinion polls.",
-      "source_url": "https://www.france24.com/en/video/20261002-french-website-publishes-evidence-for-antisemitism-claims-against-bardella"
     }
   ],
-  "last_updated": "2026-10-02T11:36:27.103046+00:00"
+  "last_updated": "2026-10-02T17:04:22.578378+00:00"
 }
