@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
+      "organization": "G7",
+      "date": "2026-10-02",
+      "location": "Global",
+      "description": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.",
+      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months"
+    },
+    {
       "title": "G20 trade ministers are meeting in Wisconsin. Many will be discussing deals without their U.S. host",
       "organization": "G20",
       "date": "2026-09-30",
@@ -31,14 +39,6 @@
       "location": "Russia",
       "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
       "source_url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The new lines of southern Lebanon",
-      "organization": "UN",
-      "date": "2026-09-19",
-      "location": "Global",
-      "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
-      "source_url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon"
     }
   ],
   "diplomatic_visits": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-02T17:04:22.578378+00:00"
+  "last_updated": "2026-10-02T21:36:29.154680+00:00"
 }
