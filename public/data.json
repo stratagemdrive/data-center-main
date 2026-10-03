@@ -85,20 +85,28 @@
   ],
   "elections": [
     {
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "country": "Spain",
+      "title": "Why has Brazil accused the US of election interference?",
+      "country": "United States",
       "election_type": "National",
-      "date": "2026-10-02",
-      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo"
+      "date": "2026-10-03",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "source_url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo"
     },
     {
-      "title": "Brazil's big political rematch: What to know",
-      "country": "Global",
+      "title": "Brazil's big political rematch: What to know about the Brazilian election",
+      "country": "Brazil",
       "election_type": "National",
       "date": "2026-10-03",
       "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
       "source_url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy"
+    },
+    {
+      "title": "Brazilians will vote in a highly polarized presidential race on Sunday. Here’s what to know",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-03",
+      "description": "Millions of Brazilians are voting in an election featuring two main rivals: President Luiz In&aacute;cio Lula da Silva and Sen. Fl&aacute;vio Bolsonaro",
+      "source_url": "https://abcnews.com/International/wireStory/brazilians-vote-highly-polarized-presidential-race-sunday-heres-136970411"
     },
     {
       "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
@@ -109,14 +117,6 @@
       "source_url": "https://abcnews.com/International/wireStory/latvians-vote-new-parliament-fears-russian-hybrid-attacks-136968645"
     },
     {
-      "title": "Czech Prime Minister Andrej Babiš’s government survives no-confidence vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-01",
-      "description": "The Czech government led by populist billionaire Andrej Babi&scaron; survives a parliamentary no-confidence vote",
-      "source_url": "https://abcnews.com/International/wireStory/czech-prime-minister-andrej-babis-government-survives-confidence-136928617"
-    },
-    {
       "title": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
       "country": "Global",
       "election_type": "National",
@@ -125,5 +125,5 @@
       "source_url": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology"
     }
   ],
-  "last_updated": "2026-10-03T10:50:01.124401+00:00"
+  "last_updated": "2026-10-03T15:26:23.809005+00:00"
 }
