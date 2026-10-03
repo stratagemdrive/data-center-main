@@ -93,14 +93,6 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo"
     },
     {
-      "title": "Greens can move Labour in the right direction, says Polanski",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-02",
-      "description": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx239469krpo"
-    },
-    {
       "title": "Czech Prime Minister Andrej Babiš’s government survives no-confidence vote",
       "country": "Global",
       "election_type": "National",
@@ -123,7 +115,15 @@
       "date": "2026-10-01",
       "description": "On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow.",
       "source_url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-02",
+      "description": "President Luiz Inacio Lula da Silva will stand for re-election in Brazil on Sunday. At 80, the former steelworker hopes to capitalise on his popularity and economic successes to win a fourth term in office but is neck-and-neck in the polls with far-right rival Flavio Bolsonaro.",
+      "source_url": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term"
     }
   ],
-  "last_updated": "2026-10-02T21:36:29.154680+00:00"
+  "last_updated": "2026-10-03T02:59:47.261323+00:00"
 }
