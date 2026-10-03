@@ -93,6 +93,22 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo"
     },
     {
+      "title": "Brazil's big political rematch: What to know",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-03",
+      "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
+      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy"
+    },
+    {
+      "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-10-03",
+      "description": "Latvians are electing a new parliament as pro-Ukraine Prime Minister Andris Kulbergs seeks a full term",
+      "source_url": "https://abcnews.com/International/wireStory/latvians-vote-new-parliament-fears-russian-hybrid-attacks-136968645"
+    },
+    {
       "title": "Czech Prime Minister Andrej Babiš’s government survives no-confidence vote",
       "country": "Global",
       "election_type": "National",
@@ -101,29 +117,13 @@
       "source_url": "https://abcnews.com/International/wireStory/czech-prime-minister-andrej-babis-government-survives-confidence-136928617"
     },
     {
-      "title": "Haiti struggles with rise in kidnappings as general election looms",
+      "title": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-01",
-      "description": "Kidnappings are on the rise across Haiti",
-      "source_url": "https://abcnews.com/International/wireStory/haiti-struggles-rise-kidnappings-general-election-looms-136923483"
-    },
-    {
-      "title": "Latvians head to the polls with Russia on their minds",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-10-01",
-      "description": "On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow.",
-      "source_url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-02",
-      "description": "President Luiz Inacio Lula da Silva will stand for re-election in Brazil on Sunday. At 80, the former steelworker hopes to capitalise on his popularity and economic successes to win a fourth term in office but is neck-and-neck in the polls with far-right rival Flavio Bolsonaro.",
-      "source_url": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term"
+      "date": "2026-10-03",
+      "description": "The first round of Brazil’s presidential election on Sunday pits two well-known names in the political ring: Lula vs. Bolsonaro. But it’s not former president Jair Bolsonaro facing off against the incumbent head of state – it’s his eldest son, Flavio Bolsonaro. He’s less charismatic than his father but just as ideologically radical as the family patriarch.",
+      "source_url": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology"
     }
   ],
-  "last_updated": "2026-10-03T02:59:47.261323+00:00"
+  "last_updated": "2026-10-03T10:50:01.124401+00:00"
 }
