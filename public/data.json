@@ -59,6 +59,14 @@
       "source_url": "https://abcnews.com/International/wireStory/germanys-merz-visits-kyiv-russia-steps-attacks-ukrainian-136983124"
     },
     {
+      "title": "Live: US wants to hold trilateral Ukraine talks with Russia by end of October, Zelensky says",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-10-04",
+      "description": "Ukrainian President Volodymyr Zelensky said Sunday that the US wants to broker a new round of talks with Ukraine and Russia on ending the war and hold it by the end of October. Earlier, Kyiv Mayor Vitali Klitschko said the city's Northern Bridge over the Dnipro River was again hit in a Russian attack during a visit by German Chancellor Friedrich Merz. Follow our liveblog for all the latest developments.",
+      "source_url": "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky"
+    },
+    {
       "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,14 +81,6 @@
       "date": "2026-09-30",
       "description": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.",
       "source_url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip"
-    },
-    {
-      "title": "Attention turns to economy on final day of Macron’s visit to Spain",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-09-30",
-      "description": "President Emmanuel Macron is in Spain for the final day of his two-day state visit, the first by a French president to the country since 2009. After being welcomed with a banquet at the Royal Palace by King Felipe VI on Tuesday, on today's agenda is the opening of the Franco-Spanish economic forum and a meeting with Spain's leftist Prime Minister Pedro Sanchez. Once economically ahead of Spain, France is now seeing Spain grow faster, as the Spanish economy has outpaced its French neighbour in recent years.",
-      "source_url": "https://www.france24.com/en/video/20260930-attention-turns-to-economy-on-final-day-of-macron-s-visit-to-spain"
     }
   ],
   "elections": [
@@ -101,29 +101,29 @@
       "source_url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo"
     },
     {
+      "title": "Green Party members back 'Zionism is racism' motion",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-04",
+      "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go"
+    },
+    {
+      "title": "Are The Public Ready To Vote Tory Again?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-03",
+      "description": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
+      "source_url": "https://www.bbc.co.uk/sounds/play/p0pd1llg"
+    },
+    {
       "title": "For some Brazilians, this election is a vote on Trump",
       "country": "Brazil",
       "election_type": "National",
       "date": "2026-10-03",
       "description": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
       "source_url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump"
-    },
-    {
-      "title": "Brazilians will vote in a highly polarized presidential race on Sunday. Here’s what to know",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-03",
-      "description": "Millions of Brazilians are voting in an election featuring two main rivals: President Luiz In&aacute;cio Lula da Silva and Sen. Fl&aacute;vio Bolsonaro",
-      "source_url": "https://abcnews.com/International/wireStory/brazilians-vote-highly-polarized-presidential-race-sunday-heres-136970411"
-    },
-    {
-      "title": "Bosnia votes as pro-Russian politician looms large over the race and ethnic tensions simmer",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-10-04",
-      "description": "Bosnia is holding a general election with citizens of all ethnicities focused on everyday problems",
-      "source_url": "https://abcnews.com/International/wireStory/bosnia-votes-pro-russian-politician-looms-large-race-136981747"
     }
   ],
-  "last_updated": "2026-10-04T11:32:20.455303+00:00"
+  "last_updated": "2026-10-04T16:11:05.662100+00:00"
 }
