@@ -93,6 +93,14 @@
       "source_url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo"
     },
     {
+      "title": "For some Brazilians, this election is a vote on Trump",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "2026-10-03",
+      "description": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
+      "source_url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump"
+    },
+    {
       "title": "Brazil's big political rematch: What to know about the Brazilian election",
       "country": "Brazil",
       "election_type": "National",
@@ -115,15 +123,7 @@
       "date": "2026-10-03",
       "description": "Latvians are electing a new parliament as pro-Ukraine Prime Minister Andris Kulbergs seeks a full term",
       "source_url": "https://abcnews.com/International/wireStory/latvians-vote-new-parliament-fears-russian-hybrid-attacks-136968645"
-    },
-    {
-      "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-03",
-      "description": "Brazil's President Luiz Inacio Lula da Silva and his main challenger Flavio Bolsonaro wrapped up their campaigns on Saturday in the powerhouse state of Sao Paulo, where a fifth of the nation's vote is based, seeking to rally supporters and convince the undecided on the eve of Sunday's nail-biter election.",
-      "source_url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
     }
   ],
-  "last_updated": "2026-10-03T20:21:52.226470+00:00"
+  "last_updated": "2026-10-04T03:28:33.676395+00:00"
 }
