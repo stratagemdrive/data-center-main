@@ -43,6 +43,22 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-10-04",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
+    },
+    {
+      "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-10-04",
+      "description": "German Chancellor Friedrich Merz has arrived in Kyiv to show support as Russia intensifies attacks on Ukrainian cities",
+      "source_url": "https://abcnews.com/International/wireStory/germanys-merz-visits-kyiv-russia-steps-attacks-ukrainian-136983124"
+    },
+    {
       "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
       "visiting_leader": "",
       "host_country": "Global",
@@ -65,25 +81,17 @@
       "date": "2026-09-30",
       "description": "President Emmanuel Macron is in Spain for the final day of his two-day state visit, the first by a French president to the country since 2009. After being welcomed with a banquet at the Royal Palace by King Felipe VI on Tuesday, on today's agenda is the opening of the Franco-Spanish economic forum and a meeting with Spain's leftist Prime Minister Pedro Sanchez. Once economically ahead of Spain, France is now seeing Spain grow faster, as the Spanish economy has outpaced its French neighbour in recent years.",
       "source_url": "https://www.france24.com/en/video/20260930-attention-turns-to-economy-on-final-day-of-macron-s-visit-to-spain"
-    },
-    {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-30",
-      "description": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko"
-    },
-    {
-      "title": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-28",
-      "description": "The United States is required by law to supply Taiwan, which has a democratically elected president and legislature, with weapons for its defence under the 1979 Taiwan Relations Act.",
-      "source_url": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news"
     }
   ],
   "elections": [
+    {
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-04",
+      "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo"
+    },
     {
       "title": "Why has Brazil accused the US of election interference?",
       "country": "United States",
@@ -101,14 +109,6 @@
       "source_url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump"
     },
     {
-      "title": "Brazil's big political rematch: What to know about the Brazilian election",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "2026-10-03",
-      "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
-      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy"
-    },
-    {
       "title": "Brazilians will vote in a highly polarized presidential race on Sunday. Here’s what to know",
       "country": "Global",
       "election_type": "National",
@@ -117,13 +117,13 @@
       "source_url": "https://abcnews.com/International/wireStory/brazilians-vote-highly-polarized-presidential-race-sunday-heres-136970411"
     },
     {
-      "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
+      "title": "Bosnia votes as pro-Russian politician looms large over the race and ethnic tensions simmer",
       "country": "Russia",
       "election_type": "National",
-      "date": "2026-10-03",
-      "description": "Latvians are electing a new parliament as pro-Ukraine Prime Minister Andris Kulbergs seeks a full term",
-      "source_url": "https://abcnews.com/International/wireStory/latvians-vote-new-parliament-fears-russian-hybrid-attacks-136968645"
+      "date": "2026-10-04",
+      "description": "Bosnia is holding a general election with citizens of all ethnicities focused on everyday problems",
+      "source_url": "https://abcnews.com/International/wireStory/bosnia-votes-pro-russian-politician-looms-large-race-136981747"
     }
   ],
-  "last_updated": "2026-10-04T03:28:33.676395+00:00"
+  "last_updated": "2026-10-04T11:32:20.455303+00:00"
 }
