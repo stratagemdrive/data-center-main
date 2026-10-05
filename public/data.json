@@ -85,12 +85,12 @@
   ],
   "elections": [
     {
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-04",
-      "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo"
+      "date": "2026-10-05",
+      "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no"
     },
     {
       "title": "Why has Brazil accused the US of election interference?",
@@ -101,7 +101,7 @@
       "source_url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo"
     },
     {
-      "title": "Green Party members back 'Zionism is racism' motion",
+      "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-04",
@@ -117,13 +117,13 @@
       "source_url": "https://www.bbc.co.uk/sounds/play/p0pd1llg"
     },
     {
-      "title": "For some Brazilians, this election is a vote on Trump",
-      "country": "Brazil",
+      "title": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
+      "country": "Global",
       "election_type": "National",
-      "date": "2026-10-03",
-      "description": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
-      "source_url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump"
+      "date": "2026-10-04",
+      "description": "Brazil's environment is a global concern. But on the campaign trail, it's struggling to get voters' attention.",
+      "source_url": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it"
     }
   ],
-  "last_updated": "2026-10-04T20:40:02.122535+00:00"
+  "last_updated": "2026-10-05T03:07:37.055462+00:00"
 }
