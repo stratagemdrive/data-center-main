@@ -51,12 +51,12 @@
       "source_url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
     },
     {
-      "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+      "title": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
       "visiting_leader": "",
       "host_country": "Germany",
-      "date": "2026-10-04",
-      "description": "German Chancellor Friedrich Merz has arrived in Kyiv to show support as Russia intensifies attacks on Ukrainian cities",
-      "source_url": "https://abcnews.com/International/wireStory/germanys-merz-visits-kyiv-russia-steps-attacks-ukrainian-136983124"
+      "date": "2026-10-05",
+      "description": "German Chancellor Friedrich Merz's visit to Ukraine was met with Russian missiles as he pledged €1.3 billion to Kyiv. In Iran, the country's deputy foreign minister says Washington is reviewing Tehran’s proposal to end the war. And in Brazil, Bolsonaro wins Brazil's first round election.",
+      "source_url": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election"
     },
     {
       "title": "Live: US wants to hold trilateral Ukraine talks with Russia by end of October, Zelensky says",
@@ -85,7 +85,15 @@
   ],
   "elections": [
     {
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "country": "Spain",
+      "election_type": "National",
+      "date": "2026-10-05",
+      "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o"
+    },
+    {
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-05",
@@ -93,20 +101,12 @@
       "source_url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no"
     },
     {
-      "title": "Why has Brazil accused the US of election interference?",
-      "country": "United States",
-      "election_type": "National",
-      "date": "2026-10-03",
-      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "source_url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo"
-    },
-    {
-      "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-04",
-      "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go"
+      "date": "2026-10-05",
+      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+      "source_url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o"
     },
     {
       "title": "Are The Public Ready To Vote Tory Again?",
@@ -114,16 +114,16 @@
       "election_type": "National",
       "date": "2026-10-03",
       "description": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
-      "source_url": "https://www.bbc.co.uk/sounds/play/p0pd1llg"
+      "source_url": "https://www.bbc.co.uk/sounds/play/p0pd1llg?at_mid=GkoLu0UzhK&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Are_The_Public_Ready_To_Vote_Tory_Again_news_rail&at_bbc_team=BBC&at_creation=News"
     },
     {
-      "title": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
+      "title": "Lula and Bolsonaro head to run-off in Brazil's presidential election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-04",
-      "description": "Brazil's environment is a global concern. But on the campaign trail, it's struggling to get voters' attention.",
-      "source_url": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it"
+      "date": "2026-10-05",
+      "description": "Flávio Bolsonaro, an ally of U.S. President Donald Trump, and Luiz Inácio Lula da Silva, Brazil's veteran president, will face off on Oct. 25 in a run-off for the top job of Latin America's powerhouse economy.",
+      "source_url": "https://www.cbc.ca/news/world/lula-bolsonaro-brazil-election-9.7369047"
     }
   ],
-  "last_updated": "2026-10-05T03:07:37.055462+00:00"
+  "last_updated": "2026-10-05T13:04:37.038863+00:00"
 }
