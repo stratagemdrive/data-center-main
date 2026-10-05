@@ -43,12 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "title": "France, Germany seek new EU rapid response tool against trade threats",
       "visiting_leader": "",
       "host_country": "Germany",
-      "date": "2026-10-04",
-      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
+      "date": "2026-10-05",
+      "description": "French President Emmanuel Macron and German Chancellor Friedrich Merz on Monday announced they would develop a new legal tool to enable the EU to respond rapidly to trade wars or measures, such as dumping. While they did not say the proposal was a direct response to the actions of any particular country, it came days before EU Chief Ursula von der Leyen visits China to tackle trade frictions.",
+      "source_url": "https://www.france24.com/en/europe/20261005-france-germany-seek-new-eu-rapid-response-tool-against-trade-threats"
     },
     {
       "title": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
@@ -57,6 +57,14 @@
       "date": "2026-10-05",
       "description": "German Chancellor Friedrich Merz's visit to Ukraine was met with Russian missiles as he pledged €1.3 billion to Kyiv. In Iran, the country's deputy foreign minister says Washington is reviewing Tehran’s proposal to end the war. And in Brazil, Bolsonaro wins Brazil's first round election.",
       "source_url": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election"
+    },
+    {
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-10-04",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
     },
     {
       "title": "Live: US wants to hold trilateral Ukraine talks with Russia by end of October, Zelensky says",
@@ -73,25 +81,9 @@
       "date": "2026-09-29",
       "description": "The visit came weeks after a bombshell Israeli media report that the Emirati president had warned Netanyahu ahead of the Hamas-led attack on Israel in 2023, which the Israeli premier did not pass on to the security services.",
       "source_url": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday"
-    },
-    {
-      "title": "Macron says UK’s return to EU would be ‘excellent news’",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-09-30",
-      "description": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.",
-      "source_url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip"
     }
   ],
   "elections": [
-    {
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "country": "Spain",
-      "election_type": "National",
-      "date": "2026-10-05",
-      "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o"
-    },
     {
       "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "country": "Global",
@@ -107,6 +99,14 @@
       "date": "2026-10-05",
       "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
       "source_url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o"
+    },
+    {
+      "title": "Henry Zeffman: Tensions exposed among Greens by 'Zionism is racism' conference vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-05",
+      "description": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o"
     },
     {
       "title": "Are The Public Ready To Vote Tory Again?",
@@ -125,5 +125,5 @@
       "source_url": "https://www.cbc.ca/news/world/lula-bolsonaro-brazil-election-9.7369047"
     }
   ],
-  "last_updated": "2026-10-05T13:04:37.038863+00:00"
+  "last_updated": "2026-10-05T23:29:53.146801+00:00"
 }
