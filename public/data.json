@@ -43,12 +43,20 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+      "title": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
       "visiting_leader": "",
       "host_country": "Germany",
-      "date": "2026-10-04",
-      "description": "German Chancellor Friedrich Merz has arrived in Kyiv to show support as Russia intensifies attacks on Ukrainian cities",
-      "source_url": "https://abcnews.com/International/wireStory/germanys-merz-visits-kyiv-russia-steps-attacks-ukrainian-136983124"
+      "date": "2026-10-05",
+      "description": "German Chancellor Friedrich Merz's visit to Ukraine was met with Russian missiles as he pledged €1.3 billion to Kyiv. In Iran, the country's deputy foreign minister says Washington is reviewing Tehran’s proposal to end the war. And in Brazil, Bolsonaro wins Brazil's first round election.",
+      "source_url": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election"
+    },
+    {
+      "title": "Malaysia’s Anwar to host Myanmar leader as repatriations near 10,000",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-06",
+      "description": "Myanmar President Min Aung Hlaing to visit Kuala Lumpur &#039;in the next few days&#039;, Anwar Ibrahim says.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/malaysias-anwar-to-host-myanmar-leader-as-repatriations-surpass-10000?traffic_source=rss"
     },
     {
       "title": "France, Germany seek new EU rapid response tool against trade threats",
@@ -73,27 +81,11 @@
       "date": "2026-10-04",
       "description": "Ukrainian President Volodymyr Zelensky said Sunday that the US wants to broker a new round of talks with Ukraine and Russia on ending the war and hold it by the end of October. Earlier, Kyiv Mayor Vitali Klitschko said the city's Northern Bridge over the Dnipro River was again hit in a Russian attack during a visit by German Chancellor Friedrich Merz. Follow our liveblog for all the latest developments.",
       "source_url": "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky"
-    },
-    {
-      "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-09-29",
-      "description": "The visit came weeks after a bombshell Israeli media report that the Emirati president had warned Netanyahu ahead of the Hamas-led attack on Israel in 2023, which the Israeli premier did not pass on to the security services.",
-      "source_url": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday"
     }
   ],
   "elections": [
     {
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-05",
-      "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no"
-    },
-    {
-      "title": "A simple guide to the US midterms",
+      "title": "What are the US midterms? A simple guide",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-05",
@@ -109,21 +101,29 @@
       "source_url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o"
     },
     {
-      "title": "Are The Public Ready To Vote Tory Again?",
+      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-03",
-      "description": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
-      "source_url": "https://www.bbc.co.uk/sounds/play/p0pd1llg?at_mid=GkoLu0UzhK&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Are_The_Public_Ready_To_Vote_Tory_Again_news_rail&at_bbc_team=BBC&at_creation=News"
+      "date": "2026-10-06",
+      "description": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
+      "source_url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare"
     },
     {
-      "title": "Lula and Bolsonaro head to run-off in Brazil's presidential election",
+      "title": "Serbia ties overseas voting to local time, a move likely to spark backlash ahead of a key election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-05",
-      "description": "Flávio Bolsonaro, an ally of U.S. President Donald Trump, and Luiz Inácio Lula da Silva, Brazil's veteran president, will face off on Oct. 25 in a run-off for the top job of Latin America's powerhouse economy.",
-      "source_url": "https://www.cbc.ca/news/world/lula-bolsonaro-brazil-election-9.7369047"
+      "date": "2026-10-06",
+      "description": "Serbia's election commission has tied overseas voting hours to local time, affecting the Serbian diaspora's ability to vote in the upcoming election later this month",
+      "source_url": "https://abcnews.com/International/wireStory/serbia-ties-overseas-voting-local-time-move-spark-137026218"
+    },
+    {
+      "title": "Le Pen vows to save €140 billion by 2032 if elected to prevent French 'default'",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-10-06",
+      "description": "Far-right leader Marine Le Pen said she would make drastic savings to bring France's public deficit back in line if she wins next year's presidential election. The government forecasts the national debt will hit 5.4 percent this year despite the EU setting a 3 percent limit for member states.",
+      "source_url": "https://www.france24.com/en/france/20261006-le-pen-vows-%E2%82%AC140-billion-savings-if-elected-to-prevent-french-default"
     }
   ],
-  "last_updated": "2026-10-06T03:56:36.066176+00:00"
+  "last_updated": "2026-10-06T12:27:22.154718+00:00"
 }
