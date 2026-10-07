@@ -85,28 +85,12 @@
   ],
   "elections": [
     {
-      "title": "What are the US midterms? A simple guide",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-05",
-      "description": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po"
-    },
-    {
       "title": "Watch: How Spain's housing crisis has resulted in an early general election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-05",
       "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
       "source_url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o"
-    },
-    {
-      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-06",
-      "description": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
-      "source_url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare"
     },
     {
       "title": "Serbia ties overseas voting to local time, a move likely to spark backlash ahead of a key election",
@@ -117,13 +101,29 @@
       "source_url": "https://abcnews.com/International/wireStory/serbia-ties-overseas-voting-local-time-move-spark-137026218"
     },
     {
-      "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
+      "title": "Haiti postpones elections indefinitely amid gang violence",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-07",
-      "description": "Haiti has indefinitely postponed elections scheduled for December and February, the electoral council said Tuesday, citing technical and operational requirements as gang violence continues to disrupt preparations. The delay leaves Haitians without a vote as authorities struggle to register voters and secure areas needed for the poll.",
+      "description": "Haiti has indefinitely postponed elections scheduled for December and February, the electoral council said Tuesday, citing technical and operational requirements as gang violence continues to disrupt preparations. The delay leaves Haitians without a democratic process as authorities struggle to register voters and secure areas needed for the poll.",
       "source_url": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations"
+    },
+    {
+      "title": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-07",
+      "description": "Cemil Tugay, who won İzmir for the CHP with a 314,000-vote margin in 2024, received his AK Party badge from Erdoğan in Ankara on Wednesday, ending 27 years of centre-left rule in Turkey's third-largest city.",
+      "source_url": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition"
+    },
+    {
+      "title": "What are the US midterms? A simple guide",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-05",
+      "description": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po"
     }
   ],
-  "last_updated": "2026-10-07T03:24:25.597993+00:00"
+  "last_updated": "2026-10-07T12:20:29.776857+00:00"
 }
