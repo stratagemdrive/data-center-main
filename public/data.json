@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-10-07",
+      "description": "Former German Chancellor Gerhard Schröder visited a Moscow supermarket in his new role on the supervisory board. Schröder is no stranger to retirement stipends in Russia — or the scandal that accompanies them.",
+      "source_url": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
       "visiting_leader": "",
       "host_country": "Germany",
@@ -73,14 +81,6 @@
       "date": "2026-10-04",
       "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "source_url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
-    },
-    {
-      "title": "Live: US wants to hold trilateral Ukraine talks with Russia by end of October, Zelensky says",
-      "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-10-04",
-      "description": "Ukrainian President Volodymyr Zelensky said Sunday that the US wants to broker a new round of talks with Ukraine and Russia on ending the war and hold it by the end of October. Earlier, Kyiv Mayor Vitali Klitschko said the city's Northern Bridge over the Dnipro River was again hit in a Russian attack during a visit by German Chancellor Friedrich Merz. Follow our liveblog for all the latest developments.",
-      "source_url": "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky"
     }
   ],
   "elections": [
@@ -93,6 +93,22 @@
       "source_url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o"
     },
     {
+      "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-07",
+      "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo"
+    },
+    {
+      "title": "Ex-Spurs player Vega set to run for Fifa president",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-07",
+      "description": "Former Tottenham defender Ramon Vega says he intends to run in next year's Fifa presidential election - becoming the first person to confirm they want to challenge Gianni Infantino.",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o"
+    },
+    {
       "title": "Serbia ties overseas voting to local time, a move likely to spark backlash ahead of a key election",
       "country": "Global",
       "election_type": "National",
@@ -101,29 +117,13 @@
       "source_url": "https://abcnews.com/International/wireStory/serbia-ties-overseas-voting-local-time-move-spark-137026218"
     },
     {
-      "title": "Haiti postpones elections indefinitely amid gang violence",
+      "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-07",
-      "description": "Haiti has indefinitely postponed elections scheduled for December and February, the electoral council said Tuesday, citing technical and operational requirements as gang violence continues to disrupt preparations. The delay leaves Haitians without a democratic process as authorities struggle to register voters and secure areas needed for the poll.",
-      "source_url": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations"
-    },
-    {
-      "title": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-07",
-      "description": "Cemil Tugay, who won İzmir for the CHP with a 314,000-vote margin in 2024, received his AK Party badge from Erdoğan in Ankara on Wednesday, ending 27 years of centre-left rule in Turkey's third-largest city.",
-      "source_url": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition"
-    },
-    {
-      "title": "What are the US midterms? A simple guide",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-05",
-      "description": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po"
+      "description": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
+      "source_url": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-07T12:20:29.776857+00:00"
+  "last_updated": "2026-10-07T22:27:10.146687+00:00"
 }
