@@ -51,6 +51,14 @@
       "source_url": "https://abcnews.com/International/wireStory/rubio-visits-portugal-praising-great-ally-build-deeper-137089645"
     },
     {
+      "title": "Manny Pacquiao hosts Polish president Karol Nawrocki for Manila boxing workout",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-08",
+      "description": "Polish President Karol Nawrocki trains in Manila with boxing legend Manny Pacquiao, who now leads the Philippines’ National Anti-Poverty Commission.",
+      "source_url": "https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout"
+    },
+    {
       "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
       "visiting_leader": "",
       "host_country": "Germany",
@@ -73,17 +81,17 @@
       "date": "2026-10-08",
       "description": "Britain ⁠and Germany ​will launch a joint partnership to ​counter sabotage and cyberattacks as Prime Minister Andy Burnham and Chancellor Friedrich Merz meet ​in ‌Berlin on Thursday, shortly ⁠after both leaders warned of the hybrid threat ‌from Russia. France 24's Nick Holdsworth has the latest from Berlin.",
       "source_url": "https://www.france24.com/en/video/20261008-uk-germany-to-launch-partnership-to-counter-cyberattacks-as-burnham-visits-berlin"
-    },
-    {
-      "title": "Manny Pacquiao hosts Polish president Karol Nawrocki for Manila boxing workout",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-08",
-      "description": "Polish President Karol Nawrocki trains in Manila with boxing legend Manny Pacquiao, who now leads the Philippines’ National Anti-Poverty Commission.",
-      "source_url": "https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout"
     }
   ],
   "elections": [
+    {
+      "title": "Spanish pensioner Maricarmen, symbol of country's housing crisis, dead at 87",
+      "country": "Spain",
+      "election_type": "National",
+      "date": "2026-10-08",
+      "description": "María del Carmen Abascal, a Spanish pensioner known widely as Maricarmen, died suddenly on Wednesday, two weeks after she was evicted from her apartment. Her death is set to reinvigorate the protest movement and further polarize Spain ahead of a national election next month, in which housing will be a central issue.",
+      "source_url": "https://www.cbc.ca/news/world/spain-maricarmen-death-housing-crisis-9.7373813"
+    },
     {
       "title": "Neither Bolsonaro nor Lula: Brazil’s undecided and abstaining voters may determine the election",
       "country": "Brazil",
@@ -91,14 +99,6 @@
       "date": "2026-10-07",
       "description": "Brazilian President Lula da Silva and Sen. Fl&aacute;vio Bolsonaro are both focused on persuading the undecided voters ahead of the Oct. 25 presidential election",
       "source_url": "https://abcnews.com/International/wireStory/bolsonaro-lula-brazils-undecided-abstaining-voters-determine-election-137070911"
-    },
-    {
-      "title": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-08",
-      "description": "Kosovo's lawmakers have elected economist Justina Shiroka Pula as the new president, narrowly avoiding a snap election",
-      "source_url": "https://abcnews.com/International/wireStory/kosovo-lawmakers-elect-new-president-late-night-vote-137057654"
     },
     {
       "title": "South Sudan's road to elections remains uncertain",
@@ -109,12 +109,12 @@
       "source_url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
+      "title": "US midterms: Is Trump campaigning at taxpayers' expense?",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-07",
       "description": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
-      "source_url": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf"
+      "source_url": "https://www.dw.com/en/us-midterms-is-trump-campaigning-at-taxpayers-expense/a-79585673?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
@@ -125,5 +125,5 @@
       "source_url": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition"
     }
   ],
-  "last_updated": "2026-10-08T12:30:01.131096+00:00"
+  "last_updated": "2026-10-08T22:40:14.760724+00:00"
 }
