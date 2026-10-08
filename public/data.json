@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "UK and Germany will face threats together, says Burnham in Berlin",
+      "organization": "EU",
+      "date": "2026-10-08",
+      "location": "Germany",
+      "description": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\".",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo"
+    },
+    {
       "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
       "organization": "G7",
       "date": "2026-10-02",
@@ -31,24 +39,16 @@
       "location": "Global",
       "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "organization": "NATO",
-      "date": "2026-09-18",
-      "location": "Russia",
-      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Burnham to hold security talks with German chancellor in Berlin",
+      "title": "Rubio visits Portugal, praising a 'great ally' and looking to build deeper ties",
       "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-10-07",
-      "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo"
+      "host_country": "Global",
+      "date": "2026-10-08",
+      "description": "U.S. Secretary of State Marco Rubio is in Portugal, wrapping up a tour of NATO allies",
+      "source_url": "https://abcnews.com/International/wireStory/rubio-visits-portugal-praising-great-ally-build-deeper-137089645"
     },
     {
       "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
@@ -59,55 +59,31 @@
       "source_url": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
+      "title": "EU trade envoy eyes yawning goods deficit on first day of China visit",
       "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-10-05",
-      "description": "German Chancellor Friedrich Merz's visit to Ukraine was met with Russian missiles as he pledged €1.3 billion to Kyiv. In Iran, the country's deputy foreign minister says Washington is reviewing Tehran’s proposal to end the war. And in Brazil, Bolsonaro wins Brazil's first round election.",
-      "source_url": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election"
+      "host_country": "China",
+      "date": "2026-10-08",
+      "description": "The EU's trade commissioner, Maros Sefcovic, arrived in Beijing this Thursday for two days of talks with his Chinese counterpart Wang Wentao. Sefcovic stated his goal of \"rebalancing\" an \"unsustainable trade deficit\". One particular area of concern is the auto sector, where Chinese hybrid vehicles have increased their European market share to 25 percent. Also in this edition: Microsoft unveils its new AI-powered PCs in a bid to rival Apple.",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261008-eu-trade-envoy-eyes-yawning-goods-deficit-on-first-day-of-china-visit"
     },
     {
-      "title": "Malaysia’s Anwar to host Myanmar leader as repatriations near 10,000",
+      "title": "UK, Germany to launch partnership to counter cyberattacks as Burnham visits Berlin",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-10-08",
+      "description": "Britain ⁠and Germany ​will launch a joint partnership to ​counter sabotage and cyberattacks as Prime Minister Andy Burnham and Chancellor Friedrich Merz meet ​in ‌Berlin on Thursday, shortly ⁠after both leaders warned of the hybrid threat ‌from Russia. France 24's Nick Holdsworth has the latest from Berlin.",
+      "source_url": "https://www.france24.com/en/video/20261008-uk-germany-to-launch-partnership-to-counter-cyberattacks-as-burnham-visits-berlin"
+    },
+    {
+      "title": "Manny Pacquiao hosts Polish president Karol Nawrocki for Manila boxing workout",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-10-06",
-      "description": "Myanmar President Min Aung Hlaing to visit Kuala Lumpur &#039;in the next few days&#039;, Anwar Ibrahim says.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/malaysias-anwar-to-host-myanmar-leader-as-repatriations-surpass-10000?traffic_source=rss"
-    },
-    {
-      "title": "France, Germany seek new EU rapid response tool against trade threats",
-      "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-10-05",
-      "description": "French President Emmanuel Macron and German Chancellor Friedrich Merz on Monday announced they would develop a new legal tool to enable the EU to respond rapidly to trade wars or measures, such as dumping. While they did not say the proposal was a direct response to the actions of any particular country, it came days before EU Chief Ursula von der Leyen visits China to tackle trade frictions.",
-      "source_url": "https://www.france24.com/en/europe/20261005-france-germany-seek-new-eu-rapid-response-tool-against-trade-threats"
+      "date": "2026-10-08",
+      "description": "Polish President Karol Nawrocki trains in Manila with boxing legend Manny Pacquiao, who now leads the Philippines’ National Anti-Poverty Commission.",
+      "source_url": "https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout"
     }
   ],
   "elections": [
-    {
-      "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-07",
-      "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo"
-    },
-    {
-      "title": "Ex-Spurs player Vega set to run for Fifa president",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-07",
-      "description": "Former Tottenham defender Ramon Vega says he intends to run in next year's Fifa presidential election - becoming the first person to confirm they want to challenge Gianni Infantino.",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o"
-    },
-    {
-      "title": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-07",
-      "description": "Kosovo's lawmakers have elected economist Justina Shiroka Pula as the new president, narrowly avoiding a snap election",
-      "source_url": "https://abcnews.com/International/wireStory/kosovo-lawmakers-elect-new-president-late-night-vote-137057654"
-    },
     {
       "title": "Neither Bolsonaro nor Lula: Brazil’s undecided and abstaining voters may determine the election",
       "country": "Brazil",
@@ -117,13 +93,37 @@
       "source_url": "https://abcnews.com/International/wireStory/bolsonaro-lula-brazils-undecided-abstaining-voters-determine-election-137070911"
     },
     {
+      "title": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-08",
+      "description": "Kosovo's lawmakers have elected economist Justina Shiroka Pula as the new president, narrowly avoiding a snap election",
+      "source_url": "https://abcnews.com/International/wireStory/kosovo-lawmakers-elect-new-president-late-night-vote-137057654"
+    },
+    {
+      "title": "South Sudan's road to elections remains uncertain",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-08",
+      "description": "South Sudan's first general election is set for December 22. Insecurity, political tensions and the failure to begin voter registration have raised doubts over whether a credible poll can be held.",
+      "source_url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf"
+    },
+    {
       "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-07",
       "description": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
       "source_url": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-07",
+      "description": "Cemil Tugay, who won İzmir for the CHP with a 314,000-vote margin in 2024, received his AK Party badge from Erdoğan in Ankara on Wednesday, ending 27 years of centre-left rule in Turkey's third-largest city.",
+      "source_url": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition"
     }
   ],
-  "last_updated": "2026-10-08T03:39:40.941079+00:00"
+  "last_updated": "2026-10-08T12:30:01.131096+00:00"
 }
