@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Burnham to hold security talks with German chancellor in Berlin",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-10-07",
+      "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo"
+    },
+    {
       "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
       "visiting_leader": "",
       "host_country": "Germany",
@@ -73,25 +81,9 @@
       "date": "2026-10-05",
       "description": "French President Emmanuel Macron and German Chancellor Friedrich Merz on Monday announced they would develop a new legal tool to enable the EU to respond rapidly to trade wars or measures, such as dumping. While they did not say the proposal was a direct response to the actions of any particular country, it came days before EU Chief Ursula von der Leyen visits China to tackle trade frictions.",
       "source_url": "https://www.france24.com/en/europe/20261005-france-germany-seek-new-eu-rapid-response-tool-against-trade-threats"
-    },
-    {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-10-04",
-      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
     }
   ],
   "elections": [
-    {
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-05",
-      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-      "source_url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o"
-    },
     {
       "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
       "country": "Global",
@@ -109,12 +101,20 @@
       "source_url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o"
     },
     {
-      "title": "Serbia ties overseas voting to local time, a move likely to spark backlash ahead of a key election",
+      "title": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-06",
-      "description": "Serbia's election commission has tied overseas voting hours to local time, affecting the Serbian diaspora's ability to vote in the upcoming election later this month",
-      "source_url": "https://abcnews.com/International/wireStory/serbia-ties-overseas-voting-local-time-move-spark-137026218"
+      "date": "2026-10-07",
+      "description": "Kosovo's lawmakers have elected economist Justina Shiroka Pula as the new president, narrowly avoiding a snap election",
+      "source_url": "https://abcnews.com/International/wireStory/kosovo-lawmakers-elect-new-president-late-night-vote-137057654"
+    },
+    {
+      "title": "Neither Bolsonaro nor Lula: Brazil’s undecided and abstaining voters may determine the election",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "2026-10-07",
+      "description": "Brazilian President Lula da Silva and Sen. Fl&aacute;vio Bolsonaro are both focused on persuading the undecided voters ahead of the Oct. 25 presidential election",
+      "source_url": "https://abcnews.com/International/wireStory/bolsonaro-lula-brazils-undecided-abstaining-voters-determine-election-137070911"
     },
     {
       "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
@@ -125,5 +125,5 @@
       "source_url": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-07T22:27:10.146687+00:00"
+  "last_updated": "2026-10-08T03:39:40.941079+00:00"
 }
