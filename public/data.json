@@ -85,6 +85,14 @@
   ],
   "elections": [
     {
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-09",
+      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo"
+    },
+    {
       "title": "Spanish pensioner Maricarmen, symbol of country's housing crisis, dead at 87",
       "country": "Spain",
       "election_type": "National",
@@ -93,12 +101,12 @@
       "source_url": "https://www.cbc.ca/news/world/spain-maricarmen-death-housing-crisis-9.7373813"
     },
     {
-      "title": "South Sudan's road to elections remains uncertain",
-      "country": "Global",
+      "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
+      "country": "United States",
       "election_type": "National",
-      "date": "2026-10-08",
-      "description": "South Sudan's first general election is set for December 22. Insecurity, political tensions and the failure to begin voter registration have raised doubts over whether a credible poll can be held.",
-      "source_url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-10-09",
+      "description": "It’s been a week of vigils, protests and political upheaval – from Israel, where three years after the Hamas-led attacks, former hostages and mourners called for accountability over the failures of October 7th, as questions grow over the stalled path to peace in Gaza; to France, where mass demonstrations over chronic underfunding and poor conditions have drawn students, unions and hundreds of thousands of protesters into the streets, just months ahead of a presidential election. In Spain, Prime Minister Pedro Sánchez has made the housing crisis the centrepiece of a high-stakes electoral gamble, as protests intensify following the death of a pensioner whose eviction helped ignite the movement. And in the UK, questions remain over a suspected Iranian plot targeting US aircraft at RAF Fairford, after American B-1 bombers were hastily withdrawn amid warnings of a serious and immediate threat.",
+      "source_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine"
     },
     {
       "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
@@ -109,21 +117,13 @@
       "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
     },
     {
-      "title": "Is Trump signalling a return to war with Iran after the midterms?",
+      "title": "How will Spain’s housing crisis affect elections?",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-09",
-      "description": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss"
-    },
-    {
-      "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-09",
-      "description": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko"
+      "description": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-09T12:18:57.597573+00:00"
+  "last_updated": "2026-10-09T22:01:42.436085+00:00"
 }
