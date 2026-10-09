@@ -85,14 +85,6 @@
   ],
   "elections": [
     {
-      "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-09",
-      "description": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko"
-    },
-    {
       "title": "Spanish pensioner Maricarmen, symbol of country's housing crisis, dead at 87",
       "country": "Spain",
       "election_type": "National",
@@ -109,21 +101,29 @@
       "source_url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "US midterms: Is Trump campaigning at taxpayers' expense?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-07",
-      "description": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
-      "source_url": "https://www.dw.com/en/us-midterms-is-trump-campaigning-at-taxpayers-expense/a-79585673?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Brazil’s Flavio Bolsonaro wins third-place candidate’s support against Lula",
+      "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-09",
-      "description": "Brazil's right-wing presidential candidate Flavio Bolsonaro secured third-place finisher Augusto Cury's endorsement on Thursday, strengthening his position against incumbent Luiz Inacio Lula da Silva ahead of the runoff. Cury won nearly three percent in Sunday's first round. A Datafolha poll put Bolsonaro ahead with 52 percent against Lula's 48 percent.",
-      "source_url": "https://www.france24.com/en/americas/20261009-brazil-flavio-bolsonaro-third-place-candidate-lula"
+      "description": "Hitler Mussolini Simeón Flores won by 25 votes in Queropalca, a district of just over 730 people in the Huánuco department, running for the centre-left Ahora Nación party. He is not Peru’s first elected Hitler.",
+      "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
+    },
+    {
+      "title": "Is Trump signalling a return to war with Iran after the midterms?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-09",
+      "description": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss"
+    },
+    {
+      "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-09",
+      "description": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko"
     }
   ],
-  "last_updated": "2026-10-09T03:44:47.016950+00:00"
+  "last_updated": "2026-10-09T12:18:57.597573+00:00"
 }
