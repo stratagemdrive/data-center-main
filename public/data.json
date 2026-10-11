@@ -85,6 +85,14 @@
   ],
   "elections": [
     {
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-10-11",
+      "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko"
+    },
+    {
       "title": "Mahmoud Abbas postpones Palestinian legislative elections another year",
       "country": "Global",
       "election_type": "National",
@@ -93,37 +101,29 @@
       "source_url": "https://abcnews.com/International/wireStory/mahmoud-abbas-postpones-palestinian-legislative-elections-year-137157596"
     },
     {
+      "title": "A profile of Raphaël Glucksmann, the man who wants to be French President",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-10-11",
+      "description": "Raphaël Glucksmann has won the primary to represent the French centre-left in the upcoming presidential election, securing 66% of the vote.",
+      "source_url": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president"
+    },
+    {
+      "title": "🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-10-11",
+      "description": "🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote",
+      "source_url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote"
+    },
+    {
       "title": "France: Can the left unite behind a single candidate?",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-11",
       "description": "Five candidates are vying to lead France's social-democratic left in the 2027 presidential election, with a cyberattack disrupting the primary vote. Can the left unite behind one candidate? We discuss this with our guest Joseph Downing, Senior Lecturer in Politics and International Relations at Aston University.",
       "source_url": "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate"
-    },
-    {
-      "title": "Spain: Sánchez and Feijóo launch campaigns",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-11",
-      "description": "Although Spain's general election is set to take place on November 29, the battle has already begun. Over the weekend, Prime Minister Pedro Sánchez and his main conservative challenger, Alberto Núñez Feijóo, kicked off their pre-election rallies, targeting each other's key vulnerabilities.",
-      "source_url": "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns"
-    },
-    {
-      "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-09",
-      "description": "Hitler Mussolini Simeón Flores won by 25 votes in Queropalca, a district of just over 730 people in the Huánuco department, running for the centre-left Ahora Nación party. He is not Peru’s first elected Hitler.",
-      "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
-    },
-    {
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-09",
-      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo"
     }
   ],
-  "last_updated": "2026-10-11T17:03:16.536703+00:00"
+  "last_updated": "2026-10-11T21:15:40.486069+00:00"
 }
