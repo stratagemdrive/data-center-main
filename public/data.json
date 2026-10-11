@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Trump says Ukraine needs new president who will agree to end war",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-11",
+      "description": "US President Donald Trump on Saturday urged Ukraine to replace Volodymyr Zelensky with a new leader, criticising him over strikes on Russian oil refineries that have contributed to high diesel prices ahead of the US midterm elections. Trump told reporters at the White House that he had told Zelensky to \"do what you want\" against Russia, but \"don't hit refineries\". \"He better damn well stop,\" Trump said, adding that he believes \"it's time for Ukraine to get a new president\" who would agree to end the war. We discuss the latest developments with our guest, Pyotr Kurzin, host of The Global Gambit.",
+      "source_url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war"
+    },
+    {
       "title": "Manny Pacquiao hosts Polish president Karol Nawrocki for Manila boxing workout",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,14 +81,6 @@
       "date": "2026-10-08",
       "description": "The EU's trade commissioner, Maros Sefcovic, arrived in Beijing this Thursday for two days of talks with his Chinese counterpart Wang Wentao. Sefcovic stated his goal of \"rebalancing\" an \"unsustainable trade deficit\". One particular area of concern is the auto sector, where Chinese hybrid vehicles have increased their European market share to 25 percent. Also in this edition: Microsoft unveils its new AI-powered PCs in a bid to rival Apple.",
       "source_url": "https://www.france24.com/en/tv-shows/business/20261008-eu-trade-envoy-eyes-yawning-goods-deficit-on-first-day-of-china-visit"
-    },
-    {
-      "title": "UK, Germany to launch partnership to counter cyberattacks as Burnham visits Berlin",
-      "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-10-08",
-      "description": "Britain ⁠and Germany ​will launch a joint partnership to ​counter sabotage and cyberattacks as Prime Minister Andy Burnham and Chancellor Friedrich Merz meet ​in ‌Berlin on Thursday, shortly ⁠after both leaders warned of the hybrid threat ‌from Russia. France 24's Nick Holdsworth has the latest from Berlin.",
-      "source_url": "https://www.france24.com/en/video/20261008-uk-germany-to-launch-partnership-to-counter-cyberattacks-as-burnham-visits-berlin"
     }
   ],
   "elections": [
@@ -101,12 +101,20 @@
       "source_url": "https://abcnews.com/International/wireStory/mahmoud-abbas-postpones-palestinian-legislative-elections-year-137157596"
     },
     {
-      "title": "October 7 scars push Israel's first-time voters to right",
+      "title": "Spain: Sánchez and Feijóo launch campaigns",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-10",
-      "description": "Like hundreds of thousands of Israelis, Amihai will be of voting age for the first time since Hamas carried out its attack on October 7, 2023. When he casts his ballot this month, he has one priority above all -- security.",
-      "source_url": "https://www.france24.com/en/video/20261010-october-7-scars-push-israel-s-first-time-voters-to-right"
+      "date": "2026-10-11",
+      "description": "Although Spain's general election is set to take place on November 29, the battle has already begun. Over the weekend, Prime Minister Pedro Sánchez and his main conservative challenger, Alberto Núñez Feijóo, kicked off their pre-election rallies, targeting each other's key vulnerabilities.",
+      "source_url": "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns"
+    },
+    {
+      "title": "Spanish PM begins vote campaign overshadowed by housing protests",
+      "country": "Spain",
+      "election_type": "National",
+      "date": "2026-10-11",
+      "description": "Spain's Prime Minister Pedro Sanchez aimed to pull off another unlikely comeback as he began campaigning on Saturday for a snap vote dominated by housing protests that have shaken the country. Our correspondent Sarah Morris tells us more.",
+      "source_url": "https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests"
     },
     {
       "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
@@ -115,15 +123,7 @@
       "date": "2026-10-09",
       "description": "Hitler Mussolini Simeón Flores won by 25 votes in Queropalca, a district of just over 730 people in the Huánuco department, running for the centre-left Ahora Nación party. He is not Peru’s first elected Hitler.",
       "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
-    },
-    {
-      "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-10",
-      "description": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo"
     }
   ],
-  "last_updated": "2026-10-11T03:00:09.216255+00:00"
+  "last_updated": "2026-10-11T11:50:16.531544+00:00"
 }
