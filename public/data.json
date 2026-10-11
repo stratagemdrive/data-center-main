@@ -85,20 +85,20 @@
   ],
   "elections": [
     {
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-09",
-      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo"
-    },
-    {
       "title": "Mahmoud Abbas postpones Palestinian legislative elections another year",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-10",
       "description": "Palestinians won't head to the polls next month to vote on reviving a dissolved parliament",
       "source_url": "https://abcnews.com/International/wireStory/mahmoud-abbas-postpones-palestinian-legislative-elections-year-137157596"
+    },
+    {
+      "title": "France: Can the left unite behind a single candidate?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-11",
+      "description": "Five candidates are vying to lead France's social-democratic left in the 2027 presidential election, with a cyberattack disrupting the primary vote. Can the left unite behind one candidate? We discuss this with our guest Joseph Downing, Senior Lecturer in Politics and International Relations at Aston University.",
+      "source_url": "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate"
     },
     {
       "title": "Spain: Sánchez and Feijóo launch campaigns",
@@ -109,21 +109,21 @@
       "source_url": "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns"
     },
     {
-      "title": "Spanish PM begins vote campaign overshadowed by housing protests",
-      "country": "Spain",
-      "election_type": "National",
-      "date": "2026-10-11",
-      "description": "Spain's Prime Minister Pedro Sanchez aimed to pull off another unlikely comeback as he began campaigning on Saturday for a snap vote dominated by housing protests that have shaken the country. Our correspondent Sarah Morris tells us more.",
-      "source_url": "https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests"
-    },
-    {
       "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-09",
       "description": "Hitler Mussolini Simeón Flores won by 25 votes in Queropalca, a district of just over 730 people in the Huánuco department, running for the centre-left Ahora Nación party. He is not Peru’s first elected Hitler.",
       "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
+    },
+    {
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-09",
+      "description": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo"
     }
   ],
-  "last_updated": "2026-10-11T11:50:16.531544+00:00"
+  "last_updated": "2026-10-11T17:03:16.536703+00:00"
 }
