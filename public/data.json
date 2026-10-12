@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Burnham to push for new post-Brexit deals at EU summit",
+      "organization": "EU",
+      "date": "2026-10-12",
+      "location": "Global",
+      "description": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo"
+    },
+    {
       "title": "UK and Germany will face threats together, says Burnham in Berlin",
       "organization": "EU",
       "date": "2026-10-08",
@@ -31,14 +39,6 @@
       "location": "Global",
       "description": "Trade ministers of the Group of 20 are meeting in Milwaukee for two days of talks on Wednesday, but US President Donald Trump’s tariffs are expected to hang heavy over the talks. \"Don't expect any breakthroughs,\" an analyst watching the event said.",
       "source_url": "https://www.france24.com/en/americas/20260930-g20-meets-in-us-as-trump-s-tariffs-loom-over-talks"
-    },
-    {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "organization": "NATO",
-      "date": "2026-09-19",
-      "location": "Global",
-      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "diplomatic_visits": [
@@ -85,12 +85,12 @@
   ],
   "elections": [
     {
-      "title": "Sinn Féin ministers facing no-confidence vote after Drumcree dispute",
-      "country": "Global",
+      "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
+      "country": "Russia",
       "election_type": "National",
       "date": "2026-10-12",
-      "description": "The motion against Michelle O'Neill and three other Sinn Féin ministers will be debated after receiving the backing of unionist parties last week.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o"
+      "description": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo"
     },
     {
       "title": "How the ICE surge in Minnesota could impact the midterms",
@@ -101,12 +101,12 @@
       "source_url": "https://www.cbc.ca/news/world/minnesota-midterms-ice-surge-democracy-defender-9.7374926"
     },
     {
-      "title": "Who is Raphael Glucksmann, winner of the French left presidential primary?",
+      "title": "French presidential candidate Glucksmann says 'battle begins' to unite fragmented left",
       "country": "France",
       "election_type": "National",
       "date": "2026-10-12",
-      "description": "With just six months to go to presidential polls in France, a coalition of centre left parties have chosen their candidate… It's EU lawmaker, Raphael Glucksmann. The 46 year old tells voters he stands for a break with Macronism, a break with the far left of candidate Jean Luc Melenchon and that he's the candidate who can defeat the far right… though opinion polls suggest that in a second round run off he would not beat far right candidate Marine Le Pen.",
-      "source_url": "https://www.france24.com/en/who-is-raphael-glucksmann-winner-of-the-french-left-presidential-primary"
+      "description": "French presidential candidate Raphaël Glucksmann said Monday that the \"battle begins\" to revive the country's divided left ahead of the 2027 election. The EU lawmaker was elected Sunday as the centre-left candidate with more than 66 percent of the vote.",
+      "source_url": "https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left"
     },
     {
       "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
@@ -117,13 +117,13 @@
       "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
     },
     {
-      "title": "Far right surges as crises threaten Sanchez: Could Vox lead Spain?",
-      "country": "Global",
+      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+      "country": "Canada",
       "election_type": "National",
       "date": "2026-10-12",
-      "description": "Snap vote could bring PP, Vox to power as polls show falling support for Sanchez, one of Europe&#039;s last leftist leaders.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss"
+      "description": "Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-12T13:56:08.127016+00:00"
+  "last_updated": "2026-10-12T23:58:06.565339+00:00"
 }
