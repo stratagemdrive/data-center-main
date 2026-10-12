@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-12",
+      "description": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss"
+    },
+    {
       "title": "Trump says Ukraine needs new president who will agree to end war",
       "visiting_leader": "",
       "host_country": "Russia",
@@ -73,14 +81,6 @@
       "date": "2026-10-07",
       "description": "Former German Chancellor Gerhard Schröder visited a Moscow supermarket in his new role on the supervisory board. Schröder is no stranger to retirement stipends in Russia — or the scandal that accompanies them.",
       "source_url": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "EU trade envoy eyes yawning goods deficit on first day of China visit",
-      "visiting_leader": "",
-      "host_country": "China",
-      "date": "2026-10-08",
-      "description": "The EU's trade commissioner, Maros Sefcovic, arrived in Beijing this Thursday for two days of talks with his Chinese counterpart Wang Wentao. Sefcovic stated his goal of \"rebalancing\" an \"unsustainable trade deficit\". One particular area of concern is the auto sector, where Chinese hybrid vehicles have increased their European market share to 25 percent. Also in this edition: Microsoft unveils its new AI-powered PCs in a bid to rival Apple.",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261008-eu-trade-envoy-eyes-yawning-goods-deficit-on-first-day-of-china-visit"
     }
   ],
   "elections": [
@@ -93,12 +93,12 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko"
     },
     {
-      "title": "Mahmoud Abbas postpones Palestinian legislative elections another year",
+      "title": "Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-10",
-      "description": "Palestinians won't head to the polls next month to vote on reviving a dissolved parliament",
-      "source_url": "https://abcnews.com/International/wireStory/mahmoud-abbas-postpones-palestinian-legislative-elections-year-137157596"
+      "date": "2026-10-11",
+      "description": "Slovenians rejected a bill expanding parliamentary inquiry powers in a referendum Sunday, dealing a blow to nationalist Prime Minister Janez Jansa. With 99 percent of votes counted, 51 percent opposed the proposal and 49 percent backed it in the binding vote. The opposition had denounced his reform agenda as \"authoritarian\".",
+      "source_url": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform"
     },
     {
       "title": "A profile of Raphaël Glucksmann, the man who wants to be French President",
@@ -125,5 +125,5 @@
       "source_url": "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate"
     }
   ],
-  "last_updated": "2026-10-11T21:15:40.486069+00:00"
+  "last_updated": "2026-10-12T03:23:28.256839+00:00"
 }
