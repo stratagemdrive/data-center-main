@@ -47,16 +47,24 @@
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-10-13",
-      "description": "King Felipe VI and Queen Letizia are visiting Ceuta to show solidarity with residents facing a migration crisis",
+      "description": "Spain's King Felipe VI and Queen Letizia are visiting Ceuta to show solidarity with residents facing a migration crisis",
       "source_url": "https://abcnews.com/International/wireStory/spains-king-queen-visit-ceuta-territory-grapples-protracted-137218149"
     },
     {
-      "title": "Spain’s king visits Ceuta amid tensions with Morocco",
+      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-10-13",
-      "description": "King Felipe VI and Queen Letizia are visiting Ceuta months after more than 70,000 migrants arrived from Morocco. While most have returned, thousands remain. The visit has divided residents and risks reigniting diplomatic tensions with Morocco, which claims sovereignty over Ceuta and Melilla.",
-      "source_url": "https://www.france24.com/en/spain-s-king-visits-ceuta-amid-tensions-with-morocco"
+      "description": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. \"Ceuta and Melilla are an inalienable part of the political and national reality that is Spain. The sovereignty and territorial integrity of our country are not negotiable,\" Felipe said. FRANCE 24's Sarah Morris reports from Madrid.",
+      "source_url": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit"
+    },
+    {
+      "title": "Ceuta crowds affirm Spanish identity during royal visit",
+      "visiting_leader": "",
+      "host_country": "Spain",
+      "date": "2026-10-13",
+      "description": "King Felipe VI and Queen Letizia received a rapturous welcome in Ceuta on Tuesday, 13 October, as they began their first visit to the Spanish North African territory since 2007.",
+      "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-crowds-affirm-spanish-identity-during-royal-visit"
     },
     {
       "title": "Ceuta awaits King Felipe after summer migration crisis",
@@ -67,23 +75,23 @@
       "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis"
     },
     {
-      "title": "Citroën bets on nostalgia at Paris motor show amis struggling French sales",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-10-12",
-      "description": "French president Emmanuel Macron is paying his customary visit to the Paris Motor Show this morning. This year's show sees electric and hybrid vehicles in the spotlight as European carbuilders seek to roll back years of sliding sales. The sector has been given a boost by China's commitment to stem the flow of Chinese e-vehicles, and some builders, such as the multinational Stellantis are betting on small affordable electric cars to win back customers. And one of the models it has lined up is an electric reboot of a French classic: the Citroën 2CV. FRANCE 24’s Charles Pellegrin interviewed Citroen CEO Xavier Chardon.",
-      "source_url": "https://www.france24.com/en/video/20261012-citro%C3%ABn-bets-on-nostalgia-at-paris-motor-show-amis-struggling-french-sales"
-    },
-    {
-      "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+      "title": "Spain’s king visits Ceuta amid tensions with Morocco",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-10-12",
-      "description": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss"
+      "date": "2026-10-13",
+      "description": "King Felipe VI and Queen Letizia are visiting Ceuta months after more than 70,000 migrants arrived from Morocco. While most have returned, thousands remain. The visit has divided residents and risks reigniting diplomatic tensions with Morocco, which claims sovereignty over Ceuta and Melilla.",
+      "source_url": "https://www.france24.com/en/spain-s-king-visits-ceuta-amid-tensions-with-morocco"
     }
   ],
   "elections": [
+    {
+      "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-10-13",
+      "description": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o"
+    },
     {
       "title": "How the ICE surge in Minnesota could impact the midterms",
       "country": "Global",
@@ -101,29 +109,21 @@
       "source_url": "https://abcnews.com/International/wireStory/frances-high-school-student-protests-137218603"
     },
     {
+      "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-13",
+      "description": "Call comes amid polls casting doubts on political leaders&#039; ability to manage AI risks as US midterm elections near.",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss"
+    },
+    {
       "title": "French presidential candidate Glucksmann says 'battle begins' to unite fragmented left",
       "country": "France",
       "election_type": "National",
       "date": "2026-10-12",
       "description": "French presidential candidate Raphaël Glucksmann said Monday that the \"battle begins\" to revive the country's divided left ahead of the 2027 election. The EU lawmaker was elected Sunday as the centre-left candidate with more than 66 percent of the vote.",
       "source_url": "https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left"
-    },
-    {
-      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "2026-10-12",
-      "description": "Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss"
-    },
-    {
-      "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-10-12",
-      "description": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo"
     }
   ],
-  "last_updated": "2026-10-13T13:12:44.668094+00:00"
+  "last_updated": "2026-10-13T22:06:26.455250+00:00"
 }
