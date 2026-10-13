@@ -85,14 +85,6 @@
   ],
   "elections": [
     {
-      "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-10-12",
-      "description": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo"
-    },
-    {
       "title": "How the ICE surge in Minnesota could impact the midterms",
       "country": "Global",
       "election_type": "National",
@@ -109,21 +101,29 @@
       "source_url": "https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left"
     },
     {
-      "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-09",
-      "description": "Hitler Mussolini Simeón Flores won by 25 votes in Queropalca, a district of just over 730 people in the Huánuco department, running for the centre-left Ahora Nación party. He is not Peru’s first elected Hitler.",
-      "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
-    },
-    {
       "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
       "country": "Canada",
       "election_type": "National",
       "date": "2026-10-12",
       "description": "Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.",
       "source_url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss"
+    },
+    {
+      "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-10-12",
+      "description": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo"
+    },
+    {
+      "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-09",
+      "description": "Hitler Mussolini Simeón Flores won by 25 votes in Queropalca, a district of just over 730 people in the Huánuco department, running for the centre-left Ahora Nación party. He is not Peru’s first elected Hitler.",
+      "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
     }
   ],
-  "last_updated": "2026-10-12T23:58:06.565339+00:00"
+  "last_updated": "2026-10-13T05:34:37.576201+00:00"
 }
