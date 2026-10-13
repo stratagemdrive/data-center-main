@@ -43,6 +43,30 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Spain's royals to visit Ceuta as territory grapples with protracted migration crisis",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-13",
+      "description": "King Felipe VI and Queen Letizia are visiting Ceuta to show solidarity with residents facing a migration crisis",
+      "source_url": "https://abcnews.com/International/wireStory/spains-king-queen-visit-ceuta-territory-grapples-protracted-137218149"
+    },
+    {
+      "title": "Spain’s king visits Ceuta amid tensions with Morocco",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-13",
+      "description": "King Felipe VI and Queen Letizia are visiting Ceuta months after more than 70,000 migrants arrived from Morocco. While most have returned, thousands remain. The visit has divided residents and risks reigniting diplomatic tensions with Morocco, which claims sovereignty over Ceuta and Melilla.",
+      "source_url": "https://www.france24.com/en/spain-s-king-visits-ceuta-amid-tensions-with-morocco"
+    },
+    {
+      "title": "Ceuta awaits King Felipe after summer migration crisis",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-13",
+      "description": "Ceuta braces for a symbolic royal visit by King Felipe VI and Queen Letizia after a mass migration crisis strained the enclave’s social cohesion.",
+      "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis"
+    },
+    {
       "title": "Citroën bets on nostalgia at Paris motor show amis struggling French sales",
       "visiting_leader": "",
       "host_country": "France",
@@ -57,30 +81,6 @@
       "date": "2026-10-12",
       "description": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus.",
       "source_url": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss"
-    },
-    {
-      "title": "Trump says Ukraine needs new president who will agree to end war",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-11",
-      "description": "US President Donald Trump on Saturday urged Ukraine to replace Volodymyr Zelensky with a new leader, criticising him over strikes on Russian oil refineries that have contributed to high diesel prices ahead of the US midterm elections. Trump told reporters at the White House that he had told Zelensky to \"do what you want\" against Russia, but \"don't hit refineries\". \"He better damn well stop,\" Trump said, adding that he believes \"it's time for Ukraine to get a new president\" who would agree to end the war. We discuss the latest developments with our guest, Pyotr Kurzin, host of The Global Gambit.",
-      "source_url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war"
-    },
-    {
-      "title": "Manny Pacquiao hosts Polish president Karol Nawrocki for Manila boxing workout",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-08",
-      "description": "Polish President Karol Nawrocki trains in Manila with boxing legend Manny Pacquiao, who now leads the Philippines’ National Anti-Poverty Commission.",
-      "source_url": "https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout"
-    },
-    {
-      "title": "Rubio visits Portugal, praising a 'great ally' and looking to build deeper ties",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-08",
-      "description": "U.S. Secretary of State Marco Rubio is in Portugal, wrapping up a tour of NATO allies",
-      "source_url": "https://abcnews.com/International/wireStory/rubio-visits-portugal-praising-great-ally-build-deeper-137089645"
     }
   ],
   "elections": [
@@ -91,6 +91,14 @@
       "date": "2026-10-12",
       "description": "Operation Metro Surge is still a \"fresh wound\" in Minnesota, where a sweeping immigration crackdown saw thousands of arrested and two U.S. citizens killed. Minnesotans organized grassroots opposition against the federal officers. Now many of those same people have signed up for training to protect the polls in a Senate race that could be pivotal.",
       "source_url": "https://www.cbc.ca/news/world/minnesota-midterms-ice-surge-democracy-defender-9.7374926"
+    },
+    {
+      "title": "What to know about France's high school student protests",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-13",
+      "description": "France faces nationwide student protests that are destabilizing the government and influencing the presidential election campaign",
+      "source_url": "https://abcnews.com/International/wireStory/frances-high-school-student-protests-137218603"
     },
     {
       "title": "French presidential candidate Glucksmann says 'battle begins' to unite fragmented left",
@@ -115,15 +123,7 @@
       "date": "2026-10-12",
       "description": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs.",
       "source_url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo"
-    },
-    {
-      "title": "Left-wing candidate Hitler Mussolini wins local vote in Peru",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-09",
-      "description": "Hitler Mussolini Simeón Flores won by 25 votes in Queropalca, a district of just over 730 people in the Huánuco department, running for the centre-left Ahora Nación party. He is not Peru’s first elected Hitler.",
-      "source_url": "https://www.euronews.com/2026/10/09/left-wing-candidate-hitler-mussolini-wins-local-vote-in-peru"
     }
   ],
-  "last_updated": "2026-10-13T05:34:37.576201+00:00"
+  "last_updated": "2026-10-13T13:12:44.668094+00:00"
 }
