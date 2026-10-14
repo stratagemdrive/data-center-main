@@ -46,17 +46,17 @@
       "title": "Spain's royals to visit Ceuta as territory grapples with protracted migration crisis",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-10-13",
-      "description": "Spain's King Felipe VI and Queen Letizia are visiting Ceuta to show solidarity with residents facing a migration crisis",
+      "date": "2026-10-14",
+      "description": "Spain's King Felipe VI and Queen Letizia have visited Ceuta to show solidarity with residents facing a migration crisis",
       "source_url": "https://abcnews.com/International/wireStory/spains-king-queen-visit-ceuta-territory-grapples-protracted-137218149"
     },
     {
-      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
+      "title": "Spanish royals make sensitive official visit to sensitive Ceuta enclave",
       "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-13",
-      "description": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. \"Ceuta and Melilla are an inalienable part of the political and national reality that is Spain. The sovereignty and territorial integrity of our country are not negotiable,\" Felipe said. FRANCE 24's Sarah Morris reports from Madrid.",
-      "source_url": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit"
+      "host_country": "Spain",
+      "date": "2026-10-14",
+      "description": "Cheering crowds waving Spanish flags filled Ceuta on Tuesday as King Felipe VI and Queen Letizia made a diplomatically sensitive visit to the city following July's migrant influx from Morocco. Their trip is the first royal visit since 2007, when a diplomatic crisis erupted with neighbouring Morocco, which claims sovereignty over Ceuta and Spain's other North African territory of Melilla.",
+      "source_url": "https://www.france24.com/en/video/20261014-spanish-royals-make-sensitive-official-visit-to-sensitive-ceuta-enclave"
     },
     {
       "title": "Ceuta crowds affirm Spanish identity during royal visit",
@@ -75,31 +75,15 @@
       "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis"
     },
     {
-      "title": "Spain’s king visits Ceuta amid tensions with Morocco",
+      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-10-13",
-      "description": "King Felipe VI and Queen Letizia are visiting Ceuta months after more than 70,000 migrants arrived from Morocco. While most have returned, thousands remain. The visit has divided residents and risks reigniting diplomatic tensions with Morocco, which claims sovereignty over Ceuta and Melilla.",
-      "source_url": "https://www.france24.com/en/spain-s-king-visits-ceuta-amid-tensions-with-morocco"
+      "description": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. \"Ceuta and Melilla are an inalienable part of the political and national reality that is Spain. The sovereignty and territorial integrity of our country are not negotiable,\" Felipe said. FRANCE 24's Sarah Morris reports from Madrid.",
+      "source_url": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit"
     }
   ],
   "elections": [
-    {
-      "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
-      "country": "Russia",
-      "election_type": "National",
-      "date": "2026-10-13",
-      "description": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o"
-    },
-    {
-      "title": "How the ICE surge in Minnesota could impact the midterms",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-12",
-      "description": "Operation Metro Surge is still a \"fresh wound\" in Minnesota, where a sweeping immigration crackdown saw thousands of arrested and two U.S. citizens killed. Minnesotans organized grassroots opposition against the federal officers. Now many of those same people have signed up for training to protect the polls in a Senate race that could be pivotal.",
-      "source_url": "https://www.cbc.ca/news/world/minnesota-midterms-ice-surge-democracy-defender-9.7374926"
-    },
     {
       "title": "What to know about France's high school student protests",
       "country": "Global",
@@ -109,21 +93,37 @@
       "source_url": "https://abcnews.com/International/wireStory/frances-high-school-student-protests-137218603"
     },
     {
-      "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+      "title": "Africa records world's fastest gains in disaster resilience, new study shows",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-13",
-      "description": "Call comes amid polls casting doubts on political leaders&#039; ability to manage AI risks as US midterm elections near.",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss"
+      "date": "2026-10-14",
+      "description": "The World Risk Poll, which surveyed 143,000 people across 140 countries, found North Africa up five points and Southern Africa up four, driven by expanding internet access and household preparedness. Yet 220 million people affected by disasters in the past five years received no warning.",
+      "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows"
     },
     {
-      "title": "French presidential candidate Glucksmann says 'battle begins' to unite fragmented left",
-      "country": "France",
+      "title": "Palestinians say Israel’s democracy ‘is a joke’",
+      "country": "Global",
       "election_type": "National",
-      "date": "2026-10-12",
-      "description": "French presidential candidate Raphaël Glucksmann said Monday that the \"battle begins\" to revive the country's divided left ahead of the 2027 election. The EU lawmaker was elected Sunday as the centre-left candidate with more than 66 percent of the vote.",
-      "source_url": "https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left"
+      "date": "2026-10-14",
+      "description": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss"
+    },
+    {
+      "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-14",
+      "description": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation.",
+      "source_url": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss"
+    },
+    {
+      "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
+      "country": "Russia",
+      "election_type": "National",
+      "date": "2026-10-13",
+      "description": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o"
     }
   ],
-  "last_updated": "2026-10-14T02:47:29.604802+00:00"
+  "last_updated": "2026-10-14T10:52:39.673388+00:00"
 }
