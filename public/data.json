@@ -43,14 +43,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King Charles praises Welsh 'sense of belonging' as he opens Senedd",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-15",
-      "description": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld0lgw4x8o"
-    },
-    {
       "title": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
       "visiting_leader": "",
       "host_country": "Global",
@@ -65,6 +57,14 @@
       "date": "2026-10-13",
       "description": "King Felipe VI and Queen Letizia received a rapturous welcome in Ceuta on Tuesday, 13 October, as they began their first visit to the Spanish North African territory since 2007.",
       "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-crowds-affirm-spanish-identity-during-royal-visit"
+    },
+    {
+      "title": "King Charles praises Welsh 'sense of belonging' as he opens Senedd",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-15",
+      "description": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld0lgw4x8o"
     },
     {
       "title": "Ceuta awaits King Felipe after summer migration crisis",
@@ -117,13 +117,13 @@
       "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows"
     },
     {
-      "title": "EU leaders head for showdown over bloc long-term budget",
-      "country": "France",
+      "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
+      "country": "Brazil",
       "election_type": "National",
       "date": "2026-10-15",
-      "description": "EU leaders on Thursday head for their biggest clash yet over the bloc's next long-term budget, as they race to lock in a deal before next year's French presidential election. The 27-nation European Union wants an agreement by Christmas, worried that any future dealmaking will be derailed by potential eurosceptic wins in polls taking place across the bloc -- most crucially in key power France. FRANCE 24's Dave Keating reports from Brussels, Belgium.",
-      "source_url": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget"
+      "description": "Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-15T15:59:50.936040+00:00"
+  "last_updated": "2026-10-15T20:44:06.120352+00:00"
 }
