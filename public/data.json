@@ -1,6 +1,22 @@
 {
   "world_org_meetings": [
     {
+      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "organization": "EU",
+      "date": "2026-10-15",
+      "location": "Ukraine",
+      "description": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
+      "source_url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
+      "organization": "G20",
+      "date": "2026-10-15",
+      "location": "Global",
+      "description": "Officials meet in Thailand as conflict drives energy prices higher and casts uncertainty over global economy.",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss"
+    },
+    {
       "title": "Burnham to push for new post-Brexit deals at EU summit",
       "organization": "EU",
       "date": "2026-10-12",
@@ -23,32 +39,16 @@
       "location": "Global",
       "description": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.",
       "source_url": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months"
-    },
-    {
-      "title": "G20 trade ministers are meeting in Wisconsin. Many will be discussing deals without their U.S. host",
-      "organization": "G20",
-      "date": "2026-09-30",
-      "location": "Global",
-      "description": "Most of the officials attending the G20 trade ministers' meeting in Milwaukee, Wisc., find themselves in challenging positions, largely because of U.S. President Donald Trump's global tariff agenda. It makes for a potentially unusual summit, with high-level meetings on the sidelines where different countries discuss plans to work around the host.",
-      "source_url": "https://www.cbc.ca/news/politics/g20-trade-ministers-meeting-summit-trump-tariffs-9.7363275"
-    },
-    {
-      "title": "Trump’s tariffs loom over talks as G20 meets in US",
-      "organization": "G20",
-      "date": "2026-09-30",
-      "location": "Global",
-      "description": "Trade ministers of the Group of 20 are meeting in Milwaukee for two days of talks on Wednesday, but US President Donald Trump’s tariffs are expected to hang heavy over the talks. \"Don't expect any breakthroughs,\" an analyst watching the event said.",
-      "source_url": "https://www.france24.com/en/americas/20260930-g20-meets-in-us-as-trump-s-tariffs-loom-over-talks"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
+      "title": "EU leaders head into high-stakes budget battle as elections loom",
       "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-14",
-      "description": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. But the monarch, who rarely makes political interventions, emphasised Spain's need to \"maintain good neighbourly relations\" with Rabat after July's unprecedented migrant surge into Ceuta strained historically delicate ties. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
-      "source_url": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit"
+      "host_country": "Germany",
+      "date": "2026-10-15",
+      "description": "EU leaders on Thursday are holding talks seeking a deal on the bloc’s nearly €2 trillion budget for 2028-2034 by Christmas amid deep divisions over spending and fears that upcoming elections, particularly in France, could strengthen eurosceptic forces. German Chancellor Friedrich Merz warned that EU leaders were still \"very far apart\" as he arrived at the summit.",
+      "source_url": "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget"
     },
     {
       "title": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
@@ -75,22 +75,30 @@
       "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis"
     },
     {
-      "title": "Burnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed'",
+      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
       "visiting_leader": "",
-      "host_country": "Ukraine",
+      "host_country": "Global",
       "date": "2026-10-14",
-      "description": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo"
+      "description": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. But the monarch, who rarely makes political interventions, emphasised Spain's need to \"maintain good neighbourly relations\" with Rabat after July's unprecedented migrant surge into Ceuta strained historically delicate ties. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
+      "source_url": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit"
     }
   ],
   "elections": [
     {
-      "title": "In Phoenix, young ultra-conservatives look to carry on Charlie Kirk’s legacy",
+      "title": "How high inflation is hurting Trump's Republicans in U.S. midterm campaign",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-14",
-      "description": "More than a year after the assassination of far-right influencer Charlie Kirk in September 2025, young activists from the organisation he co-founded, Turning Point USA, are working tirelessly to honour his legacy by rallying the youth vote ahead of the US midterm elections.",
-      "source_url": "https://www.france24.com/en/americas/20261014-in-phoenix-young-ultra-conservatives-look-to-carry-on-charlie-kirk-s-legacy"
+      "date": "2026-10-15",
+      "description": "For nearly a year, U.S. President Donald Trump has been trying to persuade voters not to get riled up over rising prices, but polls suggest voters aren't buying his sales pitch, with respondents giving him low marks on the cost of living and disapproving of how he's handled inflation.",
+      "source_url": "https://www.cbc.ca/news/world/trump-midterms-inflation-cost-of-living-gas-prices-9.7380647"
+    },
+    {
+      "title": "EU leaders head for showdown over bloc long-term budget",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-10-15",
+      "description": "EU leaders on Thursday head for their biggest clash yet over the bloc's next long-term budget, as they race to lock in a deal before next year's French presidential election. The 27-nation European Union wants an agreement by Christmas, worried that any future dealmaking will be derailed by potential eurosceptic wins in polls taking place across the bloc -- most crucially in key power France. FRANCE 24's Dave Keating reports from Brussels, Belgium.",
+      "source_url": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget"
     },
     {
       "title": "Africa records world's fastest gains in disaster resilience, new study shows",
@@ -101,29 +109,21 @@
       "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows"
     },
     {
-      "title": "French student protesters are being 'exploited' by political forces, Macron says",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-10-14",
-      "description": "French President Emmanuel Macron said on Wednesday that France's student protesters are being \"exploited\" by political forces ahead of the country's presidential election in April 2027. Hard-left candidate Jean-Luc Melenchon participated in a Paris demonstration while hard-right frontrunner Marine Le Pen voiced support for the police deployed to protests.",
-      "source_url": "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces"
-    },
-    {
-      "title": "What to know about France's high school student protests",
+      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-13",
-      "description": "France faces nationwide student protests that are destabilizing the government and influencing the presidential election campaign",
-      "source_url": "https://abcnews.com/International/wireStory/frances-high-school-student-protests-137218603"
+      "date": "2026-10-15",
+      "description": "October 27 vote could test whether Israel&#039;s ties with African countries withstand the fallout from the war on Gaza.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss"
     },
     {
-      "title": "Palestinians say Israel’s democracy ‘is a joke’",
+      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-14",
-      "description": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss"
+      "date": "2026-10-15",
+      "description": "The US President&#039;s ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-15T02:26:39.440786+00:00"
+  "last_updated": "2026-10-15T10:35:18.907174+00:00"
 }
