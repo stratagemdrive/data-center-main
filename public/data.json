@@ -43,12 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "EU leaders head into high-stakes budget battle as elections loom",
+      "title": "King Charles praises Welsh 'sense of belonging' as he opens Senedd",
       "visiting_leader": "",
-      "host_country": "Germany",
+      "host_country": "Global",
       "date": "2026-10-15",
-      "description": "EU leaders on Thursday are holding talks seeking a deal on the bloc’s nearly €2 trillion budget for 2028-2034 by Christmas amid deep divisions over spending and fears that upcoming elections, particularly in France, could strengthen eurosceptic forces. German Chancellor Friedrich Merz warned that EU leaders were still \"very far apart\" as he arrived at the summit.",
-      "source_url": "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget"
+      "description": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld0lgw4x8o"
     },
     {
       "title": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
@@ -75,12 +75,12 @@
       "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis"
     },
     {
-      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
+      "title": "Delegates walk out as Israeli president addresses summit",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-10-14",
-      "description": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. But the monarch, who rarely makes political interventions, emphasised Spain's need to \"maintain good neighbourly relations\" with Rabat after July's unprecedented migrant surge into Ceuta strained historically delicate ties. FRANCE 24's Sarah Morris reports from Madrid, Spain.",
-      "source_url": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit"
+      "date": "2026-10-15",
+      "description": "Officials from more than 10 countries walked out during an address by Israeli President Isaac Herzog at a summit in Baku",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss"
     }
   ],
   "elections": [
@@ -93,12 +93,20 @@
       "source_url": "https://www.cbc.ca/news/world/trump-midterms-inflation-cost-of-living-gas-prices-9.7380647"
     },
     {
-      "title": "EU leaders head for showdown over bloc long-term budget",
-      "country": "France",
+      "title": "Brazil's elections matter for the planet. This is why",
+      "country": "Global",
       "election_type": "National",
       "date": "2026-10-15",
-      "description": "EU leaders on Thursday head for their biggest clash yet over the bloc's next long-term budget, as they race to lock in a deal before next year's French presidential election. The 27-nation European Union wants an agreement by Christmas, worried that any future dealmaking will be derailed by potential eurosceptic wins in polls taking place across the bloc -- most crucially in key power France. FRANCE 24's Dave Keating reports from Brussels, Belgium.",
-      "source_url": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget"
+      "description": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
+      "source_url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Israel ex-security chief sues Netanyahu over October 7 claims",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-15",
+      "description": "The former head of Israel's Shin Bet domestic security agency on Wednesday sued Prime Minister Benjamin Netanyahu for defamation weeks before elections in a row over responsibility for Hamas's October 7, 2023 attack. Netanyahu, who polls show in a tight race to stay in power in the October 27 election, has been hammered by the opposition for failing to prevent the attack, the deadliest day in Israeli history. FRANCE 24's Noga Tarnopolsky reports.",
+      "source_url": "https://www.france24.com/en/video/20261015-israel-ex-security-chief-sues-netanyahu-over-october-7-claims"
     },
     {
       "title": "Africa records world's fastest gains in disaster resilience, new study shows",
@@ -109,21 +117,13 @@
       "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows"
     },
     {
-      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
-      "country": "Global",
+      "title": "EU leaders head for showdown over bloc long-term budget",
+      "country": "France",
       "election_type": "National",
       "date": "2026-10-15",
-      "description": "October 27 vote could test whether Israel&#039;s ties with African countries withstand the fallout from the war on Gaza.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss"
-    },
-    {
-      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-15",
-      "description": "The US President&#039;s ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss"
+      "description": "EU leaders on Thursday head for their biggest clash yet over the bloc's next long-term budget, as they race to lock in a deal before next year's French presidential election. The 27-nation European Union wants an agreement by Christmas, worried that any future dealmaking will be derailed by potential eurosceptic wins in polls taking place across the bloc -- most crucially in key power France. FRANCE 24's Dave Keating reports from Brussels, Belgium.",
+      "source_url": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget"
     }
   ],
-  "last_updated": "2026-10-15T10:35:18.907174+00:00"
+  "last_updated": "2026-10-15T15:59:50.936040+00:00"
 }
