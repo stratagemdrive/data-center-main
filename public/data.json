@@ -85,6 +85,14 @@
   ],
   "elections": [
     {
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-15",
+      "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o"
+    },
+    {
       "title": "How high inflation is hurting Trump's Republicans in U.S. midterm campaign",
       "country": "Global",
       "election_type": "National",
@@ -101,14 +109,6 @@
       "source_url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Israel ex-security chief sues Netanyahu over October 7 claims",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-15",
-      "description": "The former head of Israel's Shin Bet domestic security agency on Wednesday sued Prime Minister Benjamin Netanyahu for defamation weeks before elections in a row over responsibility for Hamas's October 7, 2023 attack. Netanyahu, who polls show in a tight race to stay in power in the October 27 election, has been hammered by the opposition for failing to prevent the attack, the deadliest day in Israeli history. FRANCE 24's Noga Tarnopolsky reports.",
-      "source_url": "https://www.france24.com/en/video/20261015-israel-ex-security-chief-sues-netanyahu-over-october-7-claims"
-    },
-    {
       "title": "Africa records world's fastest gains in disaster resilience, new study shows",
       "country": "Global",
       "election_type": "National",
@@ -117,13 +117,13 @@
       "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows"
     },
     {
-      "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
-      "country": "Brazil",
+      "title": "ICE tactics spark debate before pivotal US midterm elections",
+      "country": "Global",
       "election_type": "National",
       "date": "2026-10-15",
-      "description": "Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss"
+      "description": "Polls have found that Trump&#039;s hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-15T20:44:06.120352+00:00"
+  "last_updated": "2026-10-16T02:20:24.820198+00:00"
 }
