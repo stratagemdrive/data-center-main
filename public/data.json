@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Zelensky hails \"real leaders\" in Europe, blasts Trump's diesel deal with Russia",
+      "organization": "EU",
+      "date": "2026-10-16",
+      "location": "Ukraine",
+      "description": "Ukrainian ​President Volodymyr Zelensky took aim on Friday at US President Donald Trump's diesel deal with Russia and welcomed the prospect of European allies stepping up their role in talks, calling Moscow's stance a \"parody\" of peace negotiations. At a European Union summit in Brussels, Zelenskiy said Russia did not want peace. He added that Ukraine was still experiencing disruptions to the SpaceX Starshield satellite system. FRANCE 24's Europe Editor Armen Georgian reports from Brussels.",
+      "source_url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia"
+    },
+    {
       "title": "EU summit to focus on China, Ukraine and bloc budget",
       "organization": "EU",
       "date": "2026-10-15",
@@ -31,17 +39,17 @@
       "location": "Germany",
       "description": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\".",
       "source_url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo"
-    },
-    {
-      "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
-      "organization": "G7",
-      "date": "2026-10-02",
-      "location": "Global",
-      "description": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.",
-      "source_url": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-16",
+      "description": "Ukrainian President Volodymyr Zelensky on Friday urged European leaders to maintain their support for Kyiv and warned against easing sanctions on Russia. Speaking to reporters at the European summit in Brussels, Zelensky said that ending the war remained Ukraine’s priority but accused Russian President Vladimir Putin of having no genuine interest in negotiations. He also criticised a US deal involving Russian diesel, arguing that easing restrictions could allow Moscow to reap financial benefits and pave the way for broader sanctions relief. Watch the replay.",
+      "source_url": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels"
+    },
     {
       "title": "Zelensky rallies European allies as Trump ties slump",
       "visiting_leader": "",
@@ -49,14 +57,6 @@
       "date": "2026-10-16",
       "description": "Ukraine's President Volodymyr Zelensky is seeking to rally European allies at a Brussels summit on Friday after saying Kyiv would no longer abide by US President Donald Trump's demands not to strike Russian oil refineries. Relations between Kyiv and Washington have soured since last week, when Trump eased sanctions on Russia in exchange for Moscow releasing large amounts of diesel onto global markets.",
       "source_url": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump"
-    },
-    {
-      "title": "Live: ‘This is no time to withdraw’ support for Ukraine, EU’s Costa says",
-      "visiting_leader": "",
-      "host_country": "Ukraine",
-      "date": "2026-10-16",
-      "description": "EU Council President Antonio Costa on Friday warned against withdrawing support from Ukraine, maintaining that it was time instead to step up the pressure on Russia. His remarks came ahead of a summit of EU leaders in Brussels joined by Ukrainian President Volodymyr Zelensky. Follow our liveblog for the latest updates.",
-      "source_url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
     },
     {
       "title": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
@@ -67,20 +67,20 @@
       "source_url": "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor"
     },
     {
+      "title": "Live: ‘This is no time to withdraw’ support for Ukraine, EU’s Costa says",
+      "visiting_leader": "",
+      "host_country": "Ukraine",
+      "date": "2026-10-16",
+      "description": "EU Council President Antonio Costa on Friday warned against withdrawing support from Ukraine, maintaining that it was time instead to step up the pressure on Russia. His remarks came ahead of a summit of EU leaders in Brussels joined by Ukrainian President Volodymyr Zelensky. Follow our liveblog for the latest updates.",
+      "source_url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
+    },
+    {
       "title": "Ceuta crowds affirm Spanish identity during royal visit",
       "visiting_leader": "",
       "host_country": "Spain",
       "date": "2026-10-13",
       "description": "King Felipe VI and Queen Letizia received a rapturous welcome in Ceuta on Tuesday, 13 October, as they began their first visit to the Spanish North African territory since 2007.",
       "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-crowds-affirm-spanish-identity-during-royal-visit"
-    },
-    {
-      "title": "King Charles praises Welsh 'sense of belonging' as he opens Senedd",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-15",
-      "description": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld0lgw4x8o"
     }
   ],
   "elections": [
@@ -109,21 +109,21 @@
       "source_url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440"
     },
     {
+      "title": "Ethiopia announces interim government in Tigray, aims for polls in six months",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-16",
+      "description": "Ethiopian Prime Minister Abiy Ahmed on Friday announced the appointment of an interim administration to prepare elections in the northern Tigray region previously controlled by the Tigray People's Liberation Front that has clashed with government forces since September. The recent conflict revived a war that killed hundreds of thousands between 2020 and 2022.",
+      "source_url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months"
+    },
+    {
       "title": "Brazil's elections matter for the planet. This is why",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-15",
       "description": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
       "source_url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Indian authorities heighten security, close park ahead of 'cockroach' movement rally",
-      "country": "India",
-      "election_type": "National",
-      "date": "2026-10-16",
-      "description": "Authorities have closed a central park in the Indian capital ahead of the latest protest by the youth-led \"Cockroach Janta Party\". The group has held near-daily demonstrations calling for the national election authority chief's resignation over the removal of more than 130 million people from voter lists.",
-      "source_url": "https://www.france24.com/en/asia-pacific/20261016-indian-authorities-heighten-security-close-park-ahead-cockroach-movement-rally"
     }
   ],
-  "last_updated": "2026-10-16T10:21:56.011472+00:00"
+  "last_updated": "2026-10-16T15:48:17.309707+00:00"
 }
