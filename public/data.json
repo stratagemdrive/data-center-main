@@ -43,6 +43,22 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Zelensky rallies European allies as Trump ties slump",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-16",
+      "description": "Ukraine's President Volodymyr Zelensky is seeking to rally European allies at a Brussels summit on Friday after saying Kyiv would no longer abide by US President Donald Trump's demands not to strike Russian oil refineries. Relations between Kyiv and Washington have soured since last week, when Trump eased sanctions on Russia in exchange for Moscow releasing large amounts of diesel onto global markets.",
+      "source_url": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump"
+    },
+    {
+      "title": "Live: ‘This is no time to withdraw’ support for Ukraine, EU’s Costa says",
+      "visiting_leader": "",
+      "host_country": "Ukraine",
+      "date": "2026-10-16",
+      "description": "EU Council President Antonio Costa on Friday warned against withdrawing support from Ukraine, maintaining that it was time instead to step up the pressure on Russia. His remarks came ahead of a summit of EU leaders in Brussels joined by Ukrainian President Volodymyr Zelensky. Follow our liveblog for the latest updates.",
+      "source_url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
+    },
+    {
       "title": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
       "visiting_leader": "",
       "host_country": "Global",
@@ -65,22 +81,6 @@
       "date": "2026-10-15",
       "description": "The monarch and Queen Camilla officially open the Senedd's seventh term on their visit to Cardiff.",
       "source_url": "https://www.bbc.co.uk/news/articles/cv0ld0lgw4x8o"
-    },
-    {
-      "title": "Ceuta awaits King Felipe after summer migration crisis",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-13",
-      "description": "Ceuta braces for a symbolic royal visit by King Felipe VI and Queen Letizia after a mass migration crisis strained the enclave’s social cohesion.",
-      "source_url": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis"
-    },
-    {
-      "title": "Delegates walk out as Israeli president addresses summit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-15",
-      "description": "Officials from more than 10 countries walked out during an address by Israeli President Isaac Herzog at a summit in Baku",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/delegates-walk-out-as-israeli-president-addresses-summit?traffic_source=rss"
     }
   ],
   "elections": [
@@ -101,6 +101,14 @@
       "source_url": "https://www.cbc.ca/news/world/trump-midterms-inflation-cost-of-living-gas-prices-9.7380647"
     },
     {
+      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-10-16",
+      "description": "Canadian Prime Minister Mark Carney has campaigned for national unity as advance voting is underway in oil-rich Alberta in a referendum that could set the province on a path toward a future vote on separation from Canada",
+      "source_url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440"
+    },
+    {
       "title": "Brazil's elections matter for the planet. This is why",
       "country": "Global",
       "election_type": "National",
@@ -109,21 +117,13 @@
       "source_url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Africa records world's fastest gains in disaster resilience, new study shows",
-      "country": "Global",
+      "title": "Indian authorities heighten security, close park ahead of 'cockroach' movement rally",
+      "country": "India",
       "election_type": "National",
-      "date": "2026-10-14",
-      "description": "The World Risk Poll, which surveyed 143,000 people across 140 countries, found North Africa up five points and Southern Africa up four, driven by expanding internet access and household preparedness. Yet 220 million people affected by disasters in the past five years received no warning.",
-      "source_url": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows"
-    },
-    {
-      "title": "ICE tactics spark debate before pivotal US midterm elections",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-15",
-      "description": "Polls have found that Trump&#039;s hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss"
+      "date": "2026-10-16",
+      "description": "Authorities have closed a central park in the Indian capital ahead of the latest protest by the youth-led \"Cockroach Janta Party\". The group has held near-daily demonstrations calling for the national election authority chief's resignation over the removal of more than 130 million people from voter lists.",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261016-indian-authorities-heighten-security-close-park-ahead-cockroach-movement-rally"
     }
   ],
-  "last_updated": "2026-10-16T02:20:24.820198+00:00"
+  "last_updated": "2026-10-16T10:21:56.011472+00:00"
 }
