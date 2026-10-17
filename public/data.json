@@ -85,6 +85,22 @@
   ],
   "elections": [
     {
+      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-17",
+      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament&rsquo;s upper house, the Senate, dealing a blow to Prime Minister Andrej Babi&scaron;'s ruling coalition",
+      "source_url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562"
+    },
+    {
+      "title": "Brazil: Amazon deforestation at 40-year low",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-17",
+      "description": "In Brazil, deforestation in the Amazon has reached its lowest level in 40 years. President Lula is bolstering his environmental record just over a week before the second round of the presidential election, in which he faces Flávio Bolsonaro.",
+      "source_url": "https://www.france24.com/en/video/20261017-brazil-amazon-deforestation-at-40-year-low"
+    },
+    {
       "title": "How high inflation is hurting Trump's Republicans in U.S. midterm campaign",
       "country": "Global",
       "election_type": "National",
@@ -107,23 +123,7 @@
       "date": "2026-10-16",
       "description": "Canadian Prime Minister Mark Carney has campaigned for national unity as advance voting is underway in oil-rich Alberta in a referendum that could set the province on a path toward a future vote on separation from Canada",
       "source_url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440"
-    },
-    {
-      "title": "Ethiopia announces interim government in Tigray, aims for polls in six months",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-16",
-      "description": "Ethiopian Prime Minister Abiy Ahmed on Friday announced the appointment of an interim administration to prepare elections in the northern Tigray region previously controlled by the Tigray People's Liberation Front that has clashed with government forces since September. The recent conflict revived a war that killed hundreds of thousands between 2020 and 2022.",
-      "source_url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months"
-    },
-    {
-      "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-16",
-      "description": "Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-17T14:41:00.129110+00:00"
+  "last_updated": "2026-10-17T19:52:37.845177+00:00"
 }
