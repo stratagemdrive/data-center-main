@@ -51,6 +51,14 @@
       "source_url": "https://abcnews.com/International/wireStory/chiles-president-makes-state-visit-bolivia-71-years-137322303"
     },
     {
+      "title": "Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month",
+      "visiting_leader": "",
+      "host_country": "Ukraine",
+      "date": "2026-10-17",
+      "description": "Zelenskyy's deputy chief of staff told Euronews earlier this week that the Ukrainian leader had been invited to Budapest on 23 October, to join events commemorating the 70th anniversary of the 1956 Hungarian Revolution.",
+      "source_url": "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month"
+    },
+    {
       "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
       "visiting_leader": "",
       "host_country": "Russia",
@@ -73,25 +81,9 @@
       "date": "2026-10-16",
       "description": "Ukraine's President Volodymyr Zelensky is seeking to rally European allies at a Brussels summit on Friday after saying Kyiv would no longer abide by US President Donald Trump's demands not to strike Russian oil refineries. Relations between Kyiv and Washington have soured since last week, when Trump eased sanctions on Russia in exchange for Moscow releasing large amounts of diesel onto global markets.",
       "source_url": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump"
-    },
-    {
-      "title": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-14",
-      "description": "Kazakhstan is seeking closer cooperation with Belgium on the Middle Corridor, including a potential partnership between the Port of Antwerp-Bruges and the Caspian ports of Aktau and Kuryk, as King Philippe and Queen Mathilde make their first state visit to the country.",
-      "source_url": "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor"
     }
   ],
   "elections": [
-    {
-      "title": "Are student protests being manipulated ahead of France's presidential election?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-15",
-      "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o"
-    },
     {
       "title": "How high inflation is hurting Trump's Republicans in U.S. midterm campaign",
       "country": "Global",
@@ -99,6 +91,14 @@
       "date": "2026-10-15",
       "description": "For nearly a year, U.S. President Donald Trump has been trying to persuade voters not to get riled up over rising prices, but polls suggest voters aren't buying his sales pitch, with respondents giving him low marks on the cost of living and disapproving of how he's handled inflation.",
       "source_url": "https://www.cbc.ca/news/world/trump-midterms-inflation-cost-of-living-gas-prices-9.7380647"
+    },
+    {
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-15",
+      "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o"
     },
     {
       "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
@@ -125,5 +125,5 @@
       "source_url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-17T09:55:06.514582+00:00"
+  "last_updated": "2026-10-17T14:41:00.129110+00:00"
 }
