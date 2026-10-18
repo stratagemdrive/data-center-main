@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Rubio arrives in Samarkand as Washington seeks closer ties with Central Asia",
+      "visiting_leader": "",
+      "host_country": "United States",
+      "date": "2026-10-18",
+      "description": "The US secretary of state will meet the foreign ministers of five Central Asian countries on Monday under the C5+1 format. Trade, investment, critical minerals and security are expected to feature in discussions, while more than 200 American business executives accompany the visit.",
+      "source_url": "https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia"
+    },
+    {
       "title": "Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month",
       "visiting_leader": "",
       "host_country": "Ukraine",
@@ -73,14 +81,6 @@
       "date": "2026-10-16",
       "description": "Ukrainian President Volodymyr Zelensky on Friday urged European leaders to maintain their support for Kyiv and warned against easing sanctions on Russia. Speaking to reporters at the European summit in Brussels, Zelensky said that ending the war remained Ukraine’s priority but accused Russian President Vladimir Putin of having no genuine interest in negotiations. He also criticised a US deal involving Russian diesel, arguing that easing restrictions could allow Moscow to reap financial benefits and pave the way for broader sanctions relief. Watch the replay.",
       "source_url": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels"
-    },
-    {
-      "title": "Ukraine president targets Trump, Putin at EU summit",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-16",
-      "description": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss"
     }
   ],
   "elections": [
@@ -101,6 +101,14 @@
       "source_url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562"
     },
     {
+      "title": "Atlanta’s iconic tavern marks Georgia’s past with an eye on future as midterms approach",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-18",
+      "description": "Since it was established in 1956, Manuel’s Tavern in Atlanta has hosted legendary Democratic leaders while its founder played a key role in the city’s move from a Republican to Democratic stronghold. With the state’s Democratic Senator Jon Ossoff leading the polls in the midterms amid rumours of a future presidential run, the tavern is once more at the heart of the political action.",
+      "source_url": "https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins"
+    },
+    {
       "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
       "country": "Global",
       "election_type": "National",
@@ -109,21 +117,13 @@
       "source_url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms"
     },
     {
-      "title": "Brazil: Amazon deforestation at 40-year low",
-      "country": "Global",
+      "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+      "country": "India",
       "election_type": "National",
-      "date": "2026-10-17",
-      "description": "In Brazil, deforestation in the Amazon has reached its lowest level in 40 years. President Lula is bolstering his environmental record just over a week before the second round of the presidential election, in which he faces Flávio Bolsonaro.",
-      "source_url": "https://www.france24.com/en/video/20261017-brazil-amazon-deforestation-at-40-year-low"
-    },
-    {
-      "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-17",
-      "description": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
-      "source_url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss"
+      "date": "2026-10-18",
+      "description": "Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi&#039;s government of electoral manipulation.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-10-18T10:07:04.952440+00:00"
+  "last_updated": "2026-10-18T15:07:32.244414+00:00"
 }
