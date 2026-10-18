@@ -43,20 +43,20 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Chile president makes first state visit to Bolivia in 71 years as region shifts right",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-16",
-      "description": "Chile&rsquo;s president is in Bolivia for the first state visit by a Chilean leader in more than seven decades",
-      "source_url": "https://abcnews.com/International/wireStory/chiles-president-makes-state-visit-bolivia-71-years-137322303"
-    },
-    {
       "title": "Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month",
       "visiting_leader": "",
       "host_country": "Ukraine",
       "date": "2026-10-17",
       "description": "Zelenskyy's deputy chief of staff told Euronews earlier this week that the Ukrainian leader had been invited to Budapest on 23 October, to join events commemorating the 70th anniversary of the 1956 Hungarian Revolution.",
       "source_url": "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month"
+    },
+    {
+      "title": "Chile president makes first state visit to Bolivia in 71 years as region shifts right",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-16",
+      "description": "Chile&rsquo;s president is in Bolivia for the first state visit by a Chilean leader in more than seven decades",
+      "source_url": "https://abcnews.com/International/wireStory/chiles-president-makes-state-visit-bolivia-71-years-137322303"
     },
     {
       "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
@@ -93,6 +93,14 @@
       "source_url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562"
     },
     {
+      "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-18",
+      "description": "“No Kings, Vote Now” was the theme of a rally in Atlanta, one of many organised across the US on Saturday. While many demonstrators denounced President Donald Trump’s policies, organisers said the rally was aimed at getting out the vote in the November 3 midterm elections and protecting democracy in America.",
+      "source_url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms"
+    },
+    {
       "title": "Brazil: Amazon deforestation at 40-year low",
       "country": "Global",
       "election_type": "National",
@@ -101,29 +109,21 @@
       "source_url": "https://www.france24.com/en/video/20261017-brazil-amazon-deforestation-at-40-year-low"
     },
     {
+      "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-17",
+      "description": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+      "source_url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss"
+    },
+    {
       "title": "How high inflation is hurting Trump's Republicans in U.S. midterm campaign",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-15",
       "description": "For nearly a year, U.S. President Donald Trump has been trying to persuade voters not to get riled up over rising prices, but polls suggest voters aren't buying his sales pitch, with respondents giving him low marks on the cost of living and disapproving of how he's handled inflation.",
       "source_url": "https://www.cbc.ca/news/world/trump-midterms-inflation-cost-of-living-gas-prices-9.7380647"
-    },
-    {
-      "title": "Are student protests being manipulated ahead of France's presidential election?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-15",
-      "description": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o"
-    },
-    {
-      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "2026-10-16",
-      "description": "Canadian Prime Minister Mark Carney has campaigned for national unity as advance voting is underway in oil-rich Alberta in a referendum that could set the province on a path toward a future vote on separation from Canada",
-      "source_url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440"
     }
   ],
-  "last_updated": "2026-10-17T19:52:37.845177+00:00"
+  "last_updated": "2026-10-18T02:12:57.237899+00:00"
 }
