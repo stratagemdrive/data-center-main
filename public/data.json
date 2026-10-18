@@ -51,6 +51,14 @@
       "source_url": "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month"
     },
     {
+      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-18",
+      "description": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss"
+    },
+    {
       "title": "Chile president makes first state visit to Bolivia in 71 years as region shifts right",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,17 +81,17 @@
       "date": "2026-10-16",
       "description": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss"
-    },
-    {
-      "title": "Zelensky rallies European allies as Trump ties slump",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-16",
-      "description": "Ukraine's President Volodymyr Zelensky is seeking to rally European allies at a Brussels summit on Friday after saying Kyiv would no longer abide by US President Donald Trump's demands not to strike Russian oil refineries. Relations between Kyiv and Washington have soured since last week, when Trump eased sanctions on Russia in exchange for Moscow releasing large amounts of diesel onto global markets.",
-      "source_url": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump"
     }
   ],
   "elections": [
+    {
+      "title": "Alberta separatists say they'll keep fighting after independence vote",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-10-18",
+      "description": "One of Alberta&rsquo;s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
+      "source_url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542"
+    },
     {
       "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
       "country": "Global",
@@ -97,7 +105,7 @@
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-18",
-      "description": "“No Kings, Vote Now” was the theme of a rally in Atlanta, one of many organised across the US on Saturday. While many demonstrators denounced President Donald Trump’s policies, organisers said the rally was aimed at getting out the vote in the November 3 midterm elections and protecting democracy in America.",
+      "description": "“No Kings, Vote Now” was the theme of a rally in Atlanta, one of many organised across the US on Saturday. While many demonstrators denounced US President Donald Trump’s policies, organisers said the rally was aimed at getting out the vote in the November 3 midterm elections and protecting democracy in America.",
       "source_url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms"
     },
     {
@@ -115,15 +123,7 @@
       "date": "2026-10-17",
       "description": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
       "source_url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss"
-    },
-    {
-      "title": "How high inflation is hurting Trump's Republicans in U.S. midterm campaign",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-15",
-      "description": "For nearly a year, U.S. President Donald Trump has been trying to persuade voters not to get riled up over rising prices, but polls suggest voters aren't buying his sales pitch, with respondents giving him low marks on the cost of living and disapproving of how he's handled inflation.",
-      "source_url": "https://www.cbc.ca/news/world/trump-midterms-inflation-cost-of-living-gas-prices-9.7380647"
     }
   ],
-  "last_updated": "2026-10-18T02:12:57.237899+00:00"
+  "last_updated": "2026-10-18T10:07:04.952440+00:00"
 }
