@@ -85,45 +85,45 @@
   ],
   "elections": [
     {
-      "title": "Alberta separatists say they'll keep fighting after independence vote",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
       "country": "Canada",
       "election_type": "National",
-      "date": "2026-10-18",
-      "description": "One of Alberta&rsquo;s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
-      "source_url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542"
+      "date": "2026-10-19",
+      "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo"
     },
     {
-      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
-      "country": "Global",
+      "title": "Watch: The father and son on opposite sides of Alberta’s separation vote",
+      "country": "Canada",
       "election_type": "National",
-      "date": "2026-10-17",
-      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament&rsquo;s upper house, the Senate, dealing a blow to Prime Minister Andrej Babi&scaron;'s ruling coalition",
-      "source_url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562"
+      "date": "2026-10-19",
+      "description": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.",
+      "source_url": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo"
     },
     {
-      "title": "Atlanta’s iconic tavern marks Georgia’s past with an eye on future as midterms approach",
-      "country": "Global",
+      "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
+      "country": "Canada",
       "election_type": "National",
-      "date": "2026-10-18",
-      "description": "Since it was established in 1956, Manuel’s Tavern in Atlanta has hosted legendary Democratic leaders while its founder played a key role in the city’s move from a Republican to Democratic stronghold. With the state’s Democratic Senator Jon Ossoff leading the polls in the midterms amid rumours of a future presidential run, the tavern is once more at the heart of the political action.",
-      "source_url": "https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins"
+      "date": "2026-10-19",
+      "description": "Voters in Canada&rsquo;s oil-rich Alberta province will decide Monday whether to begin a process that could lead to independence, testing national unity",
+      "source_url": "https://abcnews.com/International/wireStory/albertans-vote-path-independence-carney-fights-canada-united-137370162"
     },
     {
-      "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
-      "country": "Global",
+      "title": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
+      "country": "France",
       "election_type": "National",
-      "date": "2026-10-18",
-      "description": "“No Kings, Vote Now” was the theme of a rally in Atlanta, one of many organised across the US on Saturday. While many demonstrators denounced US President Donald Trump’s policies, organisers said the rally was aimed at getting out the vote in the November 3 midterm elections and protecting democracy in America.",
-      "source_url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms"
+      "date": "2026-10-19",
+      "description": "France’s escalating protest movement is exposing a widening disconnect between political leadership and public frustration, while raising questions about the country’s long tradition of social unrest. Chris Reynolds, Professor of French and European Studies at Nottingham Trent University, argues that President Emmanuel Macron’s latest address was characterised by a troubling “sense of detachment,” offering little to resolve the structural grievances driving the demonstrations. Drawing parallels with May 1968 and the Yellow Vest movement, Reynolds warns that violent unrest risks eclipsing the legitimate concerns of largely peaceful protesters, undermining public sympathy and reshaping political debate ahead of the presidential election.",
+      "source_url": "https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future"
     },
     {
-      "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
-      "country": "India",
+      "title": "Brazil's Lula, Bolsonaro clash in bitter debate ahead of election run-off",
+      "country": "Brazil",
       "election_type": "National",
-      "date": "2026-10-18",
-      "description": "Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi&#039;s government of electoral manipulation.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss"
+      "date": "2026-10-19",
+      "description": "Brazilian President Luiz Inacio Lula da Silva and right-wing senator Flavio Bolsonaro traded personal attacks in a heated presidential debate on Sunday, a week before a closely contested run-off. The rivals accused each other of lying and corruption while clashing over the economy, security and healthcare ahead of the October 25 vote.",
+      "source_url": "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
     }
   ],
-  "last_updated": "2026-10-19T02:29:02.921617+00:00"
+  "last_updated": "2026-10-19T11:36:55.969228+00:00"
 }
