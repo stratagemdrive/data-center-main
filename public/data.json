@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Search under way for four soldiers missing after gang attack in Haiti",
+      "organization": "UN",
+      "date": "2026-10-19",
+      "location": "Global",
+      "description": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss"
+    },
+    {
       "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
       "organization": "EU",
       "date": "2026-10-16",
@@ -31,14 +39,6 @@
       "location": "Global",
       "description": "Officials meet in Thailand as conflict drives energy prices higher and casts uncertainty over global economy.",
       "source_url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss"
-    },
-    {
-      "title": "Burnham to push for new post-Brexit deals at EU summit",
-      "organization": "EU",
-      "date": "2026-10-12",
-      "location": "Global",
-      "description": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo"
     }
   ],
   "diplomatic_visits": [
@@ -93,6 +93,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo"
     },
     {
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-19",
+      "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o"
+    },
+    {
       "title": "Watch: The father and son on opposite sides of Alberta’s separation vote",
       "country": "Canada",
       "election_type": "National",
@@ -109,21 +117,13 @@
       "source_url": "https://abcnews.com/International/wireStory/albertans-vote-path-independence-carney-fights-canada-united-137370162"
     },
     {
-      "title": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
-      "country": "France",
+      "title": "Canada: Alberta votes on holding independence referendum",
+      "country": "Canada",
       "election_type": "National",
       "date": "2026-10-19",
-      "description": "France’s escalating protest movement is exposing a widening disconnect between political leadership and public frustration, while raising questions about the country’s long tradition of social unrest. Chris Reynolds, Professor of French and European Studies at Nottingham Trent University, argues that President Emmanuel Macron’s latest address was characterised by a troubling “sense of detachment,” offering little to resolve the structural grievances driving the demonstrations. Drawing parallels with May 1968 and the Yellow Vest movement, Reynolds warns that violent unrest risks eclipsing the legitimate concerns of largely peaceful protesters, undermining public sympathy and reshaping political debate ahead of the presidential election.",
-      "source_url": "https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future"
-    },
-    {
-      "title": "Brazil's Lula, Bolsonaro clash in bitter debate ahead of election run-off",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "2026-10-19",
-      "description": "Brazilian President Luiz Inacio Lula da Silva and right-wing senator Flavio Bolsonaro traded personal attacks in a heated presidential debate on Sunday, a week before a closely contested run-off. The rivals accused each other of lying and corruption while clashing over the economy, security and healthcare ahead of the October 25 vote.",
-      "source_url": "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
+      "description": "Canada's oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney's government.",
+      "source_url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-19T11:36:55.969228+00:00"
+  "last_updated": "2026-10-19T17:59:17.405553+00:00"
 }
