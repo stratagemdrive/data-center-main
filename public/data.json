@@ -43,12 +43,20 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Russia-China-US summit would prolong the war, Kyiv says",
+      "title": "Macron secures diesel deals on Gulf visit as fuel prices stoke unrest in France",
       "visiting_leader": "",
-      "host_country": "Ukraine",
-      "date": "2026-10-19",
-      "description": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall Street Journal reported that Putin had proposed a ​summit next month ​with US ​President Donald Trump and Chinese President ​Xi Jinping to negotiate an end to the war on terms ⁠that would favour Moscow. FRANCE 24's Monte Francis reports.",
-      "source_url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says"
+      "host_country": "France",
+      "date": "2026-10-20",
+      "description": "French President Emmanuel Macron has obtained commitments to deliver an additional 200,000 tonnes of diesel per month from the United Arab Emirates and Bahrain during a tour of the Gulf, his office said Tuesday as the French government scrambles to address a cost-of-living crisis that has fuelled unrest in the country.",
+      "source_url": "https://www.france24.com/en/middle-east/20261020-macron-secures-diesel-deals-on-gulf-visit-as-fuel-prices-stoke-unrest-in-france"
+    },
+    {
+      "title": "Uzbekistan's $12bn business drive gathers pace during Rubio visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-20",
+      "description": "The package covers railways, critical minerals, finance and technology, with major US firms involved. Uzbek President Mirziyoyev outlined measures to attract investors, while business executives told Euronews that commercial activity is growing.",
+      "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit"
     },
     {
       "title": "Rubio arrives in Samarkand as Washington seeks closer ties with Central Asia",
@@ -59,31 +67,31 @@
       "source_url": "https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia"
     },
     {
+      "title": "Russia-China-US summit would prolong the war, Kyiv says",
+      "visiting_leader": "",
+      "host_country": "Ukraine",
+      "date": "2026-10-19",
+      "description": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall Street Journal reported that Putin had proposed a ​summit next month ​with US ​President Donald Trump and Chinese President ​Xi Jinping to negotiate an end to the war on terms ⁠that would favour Moscow. FRANCE 24's Monte Francis reports.",
+      "source_url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says"
+    },
+    {
       "title": "Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month",
       "visiting_leader": "",
       "host_country": "Ukraine",
       "date": "2026-10-17",
       "description": "Zelenskyy's deputy chief of staff told Euronews earlier this week that the Ukrainian leader had been invited to Budapest on 23 October, to join events commemorating the 70th anniversary of the 1956 Hungarian Revolution.",
       "source_url": "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month"
-    },
-    {
-      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-18",
-      "description": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss"
-    },
-    {
-      "title": "Chile president makes first state visit to Bolivia in 71 years as region shifts right",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-16",
-      "description": "Chile&rsquo;s president is in Bolivia for the first state visit by a Chilean leader in more than seven decades",
-      "source_url": "https://abcnews.com/International/wireStory/chiles-president-makes-state-visit-bolivia-71-years-137322303"
     }
   ],
   "elections": [
+    {
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-20",
+      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo"
+    },
     {
       "title": "Personal attacks fire up debate before Brazil's run-off vote",
       "country": "Global",
@@ -96,7 +104,7 @@
       "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
       "country": "Canada",
       "election_type": "National",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "description": "Voters in Canada&rsquo;s oil-rich Alberta province will decide Monday whether to begin a process that could lead to independence, testing national unity",
       "source_url": "https://abcnews.com/International/wireStory/albertans-vote-path-independence-carney-fights-canada-united-137370162"
     },
@@ -109,14 +117,6 @@
       "source_url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-10-19",
-      "description": "French Prime Minister Sebastien Lecornu on Monday accused the \"ultra-left movement\" of seeking to \"orchestrate deep unrest across the country\" in the runup to next year's presidential election. FRANCE 24 International Affairs Editor Angela Diffley looks back at Lecornu's remarks in the wake of the violent protests that shook the country over the weekend.",
-      "source_url": "https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election"
-    },
-    {
       "title": "Lula supporters spell out his name in Rio waters before Brazil runoff",
       "country": "Global",
       "election_type": "National",
@@ -125,5 +125,5 @@
       "source_url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
     }
   ],
-  "last_updated": "2026-10-20T02:42:00.410526+00:00"
+  "last_updated": "2026-10-20T10:40:58.085819+00:00"
 }
