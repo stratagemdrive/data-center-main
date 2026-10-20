@@ -43,12 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Macron secures diesel deals on Gulf visit as fuel prices stoke unrest in France",
+      "title": "King Charles welcomes Oman’s Sultan Haitham for state visit to UK",
       "visiting_leader": "",
-      "host_country": "France",
+      "host_country": "Global",
       "date": "2026-10-20",
-      "description": "French President Emmanuel Macron has obtained commitments to deliver an additional 200,000 tonnes of diesel per month from the United Arab Emirates and Bahrain during a tour of the Gulf, his office said Tuesday as the French government scrambles to address a cost-of-living crisis that has fuelled unrest in the country.",
-      "source_url": "https://www.france24.com/en/middle-east/20261020-macron-secures-diesel-deals-on-gulf-visit-as-fuel-prices-stoke-unrest-in-france"
+      "description": "King Charles III and Queen Camilla, joined by Prince William and Princess Catherine, have welcomed Oman’s Sultan Haitham bin Tarik to Windsor at the start of a three-day state visit.",
+      "source_url": "https://www.euronews.com/video/2026/10/20/king-charles-welcomes-omans-sultan-haitham-for-state-visit-to-uk"
     },
     {
       "title": "Uzbekistan's $12bn business drive gathers pace during Rubio visit",
@@ -67,23 +67,31 @@
       "source_url": "https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia"
     },
     {
+      "title": "Macron secures diesel deals on Gulf visit as fuel prices stoke unrest in France",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-10-20",
+      "description": "French President Emmanuel Macron has obtained commitments to deliver an additional 200,000 tonnes of diesel per month from the United Arab Emirates and Bahrain during a tour of the Gulf, his office said Tuesday as the French government scrambles to address a cost-of-living crisis that has fuelled unrest in the country.",
+      "source_url": "https://www.france24.com/en/middle-east/20261020-macron-secures-diesel-deals-on-gulf-visit-as-fuel-prices-stoke-unrest-in-france"
+    },
+    {
       "title": "Russia-China-US summit would prolong the war, Kyiv says",
       "visiting_leader": "",
       "host_country": "Ukraine",
       "date": "2026-10-19",
       "description": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall Street Journal reported that Putin had proposed a ​summit next month ​with US ​President Donald Trump and Chinese President ​Xi Jinping to negotiate an end to the war on terms ⁠that would favour Moscow. FRANCE 24's Monte Francis reports.",
       "source_url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says"
-    },
-    {
-      "title": "Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month",
-      "visiting_leader": "",
-      "host_country": "Ukraine",
-      "date": "2026-10-17",
-      "description": "Zelenskyy's deputy chief of staff told Euronews earlier this week that the Ukrainian leader had been invited to Budapest on 23 October, to join events commemorating the 70th anniversary of the 1956 Hungarian Revolution.",
-      "source_url": "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month"
     }
   ],
   "elections": [
+    {
+      "title": "Alberta votes overwhelmingly to remain part of Canada",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-10-20",
+      "description": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo"
+    },
     {
       "title": "Why Israeli Gen Z voters are drawn to the far right",
       "country": "Global",
@@ -115,15 +123,7 @@
       "date": "2026-10-19",
       "description": "Canada's oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney's government.",
       "source_url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Lula supporters spell out his name in Rio waters before Brazil runoff",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-19",
-      "description": "Brazil’s Lula and Flavio Bolsonaro clash in a tense debate over public spending, corruption and ties to the US, as polls show a tight 51–49 race.",
-      "source_url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff"
     }
   ],
-  "last_updated": "2026-10-20T10:40:58.085819+00:00"
+  "last_updated": "2026-10-20T16:03:33.851349+00:00"
 }
