@@ -46,7 +46,7 @@
       "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
       "source_url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o"
     },
@@ -85,15 +85,15 @@
   ],
   "elections": [
     {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "country": "Global",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "country": "Canada",
       "election_type": "National",
       "date": "2026-10-20",
-      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo"
+      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo"
     },
     {
-      "title": "Ex-student says embattled Cornell University head doubted her gang-rape allegation",
+      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-20",
@@ -101,12 +101,12 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro"
     },
     {
-      "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
-      "country": "Canada",
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "country": "Global",
       "election_type": "National",
       "date": "2026-10-20",
-      "description": "Voters in Canada&rsquo;s oil-rich Alberta province will decide Monday whether to begin a process that could lead to independence, testing national unity",
-      "source_url": "https://abcnews.com/International/wireStory/albertans-vote-path-independence-carney-fights-canada-united-137370162"
+      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo"
     },
     {
       "title": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote",
@@ -117,13 +117,13 @@
       "source_url": "https://abcnews.com/International/wireStory/meta-tells-brazils-electoral-court-treats-lula-flvio-137424225"
     },
     {
-      "title": "Canada: Alberta votes on holding independence referendum",
-      "country": "Canada",
+      "title": "Bosnian Serb authorities boost neighboring Serbia's populist leader ahead of a key election",
+      "country": "Global",
       "election_type": "National",
-      "date": "2026-10-19",
-      "description": "Canada's oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney's government.",
-      "source_url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-10-20",
+      "description": "Serbia's populist leader Aleksandar Vucic faces a key parliamentary election this weekend",
+      "source_url": "https://abcnews.com/International/wireStory/bosnian-serb-authorities-boost-neighboring-serbias-populist-leader-137408112"
     }
   ],
-  "last_updated": "2026-10-20T21:01:16.874544+00:00"
+  "last_updated": "2026-10-21T02:35:48.063205+00:00"
 }
