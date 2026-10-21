@@ -43,7 +43,7 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Carney’s Turkish balancing act must include business, defence and human rights",
+      "title": "Carney's Turkish balancing act must include business, defence and human rights",
       "visiting_leader": "",
       "host_country": "Canada",
       "date": "2026-10-21",
@@ -51,12 +51,20 @@
       "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
     },
     {
-      "title": "France's Macron begins state visit to Qatar as part of wider Gulf tour",
+      "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
       "visiting_leader": "",
       "host_country": "France",
-      "date": "2026-10-20",
-      "description": "Qatar welcomed the French president with full state honours on his arrival in Doha as the two countries are strengthening their strategic ties. Facing protests at home, Macron is seeking energy deals with Gulf partners to help ease fuel prices in France, but also contributing to regional stability.",
-      "source_url": "https://www.euronews.com/2026/10/20/frances-macron-begins-state-visit-to-qatar-as-part-of-wider-gulf-tour"
+      "date": "2026-10-21",
+      "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
+      "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
+    },
+    {
+      "title": "Russia frees detained American Stephen Hubbard during US envoy's visit",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-21",
+      "description": "Around two dozen Americans are still being held in Russian prisons for various reasons, according to the Foley Foundation, a hostage advocacy group.",
+      "source_url": "https://www.euronews.com/2026/10/21/russia-frees-detained-american-stephen-hubbard-during-us-envoys-visit"
     },
     {
       "title": "King Charles welcomes Oman’s Sultan Haitham for state visit to UK",
@@ -73,14 +81,6 @@
       "date": "2026-10-20",
       "description": "The package covers railways, critical minerals, finance and technology, with major US firms involved. Uzbek President Mirziyoyev outlined measures to attract investors, while business executives told Euronews that commercial activity is growing.",
       "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit"
-    },
-    {
-      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-21",
-      "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum"
     }
   ],
-  "last_updated": "2026-10-21T10:51:40.437262+00:00"
+  "last_updated": "2026-10-21T16:20:11.682823+00:00"
 }
