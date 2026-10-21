@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "World set to breach 1.5°C warming limit set by Paris Climate Agreement",
+      "organization": "UN",
+      "date": "2026-10-21",
+      "location": "Global",
+      "description": "The UN is warning that global commitments to cut planet-heating emissions are falling far short of the Paris climate goals of 1.5 degrees Celsius warming – and put the world on course for 2.6C warming this century. The report by the United Nations Environment Programme lays bare the chasm between rhetoric and action when it comes to tackling global warming, and the challenge before political leaders at November's COP31 climate summit - set to take place next month in Turkey. Story by Emerald Maxwell.",
+      "source_url": "https://www.france24.com/en/video/20261021-world-set-to-breach-1-5%C2%B0c-warming-limit-set-by-paris-climate-agreement"
+    },
+    {
       "title": "Search under way for four soldiers missing after gang attack in Haiti",
       "organization": "UN",
       "date": "2026-10-19",
@@ -31,14 +39,6 @@
       "location": "Ukraine",
       "description": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
       "source_url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
-      "organization": "G20",
-      "date": "2026-10-15",
-      "location": "Global",
-      "description": "Officials meet in Thailand as conflict drives energy prices higher and casts uncertainty over global economy.",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
@@ -51,6 +51,22 @@
       "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
     },
     {
+      "title": "Macron visits Riyadh to show solidarity amid Houthi attacks, ease tensions at home via fuel deal",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-10-21",
+      "description": "French President Emmanuel Macron on Wednesday paid an unannounced visit to Riyadh in a bid to underscore French support for the kingdom amid intensified attacks by Houthi rebels and an attempt to ease tensions at home by securing oil and diesel imports.",
+      "source_url": "https://www.france24.com/en/macron-visits-riyadh-show-solidarity-amid-houthi-attacks-ease-tensions-home-via-fuel-deal"
+    },
+    {
+      "title": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-10-21",
+      "description": "⁠French President Emmanuel ​Macron landed in Riyadh on Wednseday, ‌adding an ⁠unscheduled stop to his ‌ongoing tour of the Gulf ⁠region. The president's office said the visit aimed to demonstrate “France's solidarity” ​with Saudi Arabia in ‌the face of attacks launched by the ‌Houthis against its territory. Details by FRANCE 24 international affairs editor Douglas Herbert.",
+      "source_url": "https://www.france24.com/en/french-president-macron-lands-in-saudi-arabia-on-surprise-solidarity-visit"
+    },
+    {
       "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
       "visiting_leader": "",
       "host_country": "France",
@@ -59,28 +75,12 @@
       "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
     },
     {
-      "title": "Russia frees detained American Stephen Hubbard during US envoy's visit",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-21",
-      "description": "Around two dozen Americans are still being held in Russian prisons for various reasons, according to the Foley Foundation, a hostage advocacy group.",
-      "source_url": "https://www.euronews.com/2026/10/21/russia-frees-detained-american-stephen-hubbard-during-us-envoys-visit"
-    },
-    {
       "title": "King Charles welcomes Oman’s Sultan Haitham for state visit to UK",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-10-20",
       "description": "King Charles III and Queen Camilla, joined by Prince William and Princess Catherine, have welcomed Oman’s Sultan Haitham bin Tarik to Windsor at the start of a three-day state visit.",
       "source_url": "https://www.euronews.com/video/2026/10/20/king-charles-welcomes-omans-sultan-haitham-for-state-visit-to-uk"
-    },
-    {
-      "title": "Uzbekistan's $12bn business drive gathers pace during Rubio visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-20",
-      "description": "The package covers railways, critical minerals, finance and technology, with major US firms involved. Uzbek President Mirziyoyev outlined measures to attract investors, while business executives told Euronews that commercial activity is growing.",
-      "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit"
     }
   ],
   "elections": [
@@ -117,13 +117,13 @@
       "source_url": "https://abcnews.com/International/wireStory/bosnian-serb-authorities-boost-neighboring-serbias-populist-leader-137408112"
     },
     {
-      "title": "‘Albertans chose Canada’: Carney hails vote to reject referendum",
-      "country": "Canada",
+      "title": "Le Pen sees polls boost amid mass protests, riots",
+      "country": "Global",
       "election_type": "National",
-      "date": "2026-10-20",
-      "description": "Separatist leaders vow to fight on, warning the province’s governing party could split over the issue.",
-      "source_url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum"
+      "date": "2026-10-21",
+      "description": "Marine Le Pen is set to officially launch her presidential campaign this weekend at the National Rally two-day party congress in Orléans. The latest Ifop poll, carried out in the wake of the mass protests and riots in France, suggests the far right leader would win the first round of the presidential election by a wide margin, and far-left candidate Jean-Luc Melenchon emerged as her most likely opponent in the runoff. FRANCE 24's Emerald Maxwell reports.",
+      "source_url": "https://www.france24.com/en/le-pen-sees-polls-boost-amid-mass-protests-riots"
     }
   ],
-  "last_updated": "2026-10-21T16:20:11.682823+00:00"
+  "last_updated": "2026-10-21T21:02:57.553485+00:00"
 }
