@@ -43,20 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "title": "Carney’s Turkish balancing act must include business, defence and human rights",
       "visiting_leader": "",
-      "host_country": "Global",
+      "host_country": "Canada",
       "date": "2026-10-21",
-      "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o"
-    },
-    {
-      "title": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-10-20",
-      "description": "Genie Godula is pleased to welcome François Gouyette, former French ambassador to the UAE and Saudi Arabia. Against a backdrop of violent unrest at home and escalating conflict in the Middle East, French President Emmanuel Macron's Gulf diplomacy underscores the increasingly blurred boundaries between domestic economic security and international strategic commitments. Ambassador Gouyette argues that the visit serves a dual purpose: alleviating France's energy pressures while reaffirming its longstanding defense partnerships with Gulf monarchies. Insisting that \"France has to play its role as a key partner,\" Gouyette portrays French military assistance as an expression of strategic solidarity rather than direct participation in the war with Iran.",
-      "source_url": "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1"
+      "description": "Prime Minister Mark Carney heads to Turkey, seeking closer trade, energy and defence ties with a strategically important NATO ally. The historic visit marks a turnaround in relations once soured by a Canadian arms embargo. But Ankara’s crackdown on dissent tests Carney’s promise to balance economic pragmatism with Canadian values.",
+      "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
     },
     {
       "title": "France's Macron begins state visit to Qatar as part of wider Gulf tour",
@@ -81,6 +73,14 @@
       "date": "2026-10-20",
       "description": "The package covers railways, critical minerals, finance and technology, with major US firms involved. Uzbek President Mirziyoyev outlined measures to attract investors, while business executives told Euronews that commercial activity is growing.",
       "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit"
+    },
+    {
+      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-21",
+      "description": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o"
     }
   ],
   "elections": [
@@ -101,19 +101,11 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro"
     },
     {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-20",
-      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo"
-    },
-    {
       "title": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-20",
-      "description": "Tech giant Meta said on Tuesday it has complied with an order of Brazil&rsquo;s electoral court for it to give equal treatment in its platforms to President Luiz In&aacute;cio Lula da Silva and opposition candidate Fl&aacute;vio Bolsonaro ahead of the Oct. 25 runoff for t...",
+      "date": "2026-10-21",
+      "description": "Meta says it has complied with an order from Brazil&rsquo;s electoral court to treat Brazil's presidential candidates equally before Sunday's runoff",
       "source_url": "https://abcnews.com/International/wireStory/meta-tells-brazils-electoral-court-treats-lula-flvio-137424225"
     },
     {
@@ -123,7 +115,15 @@
       "date": "2026-10-20",
       "description": "Serbia's populist leader Aleksandar Vucic faces a key parliamentary election this weekend",
       "source_url": "https://abcnews.com/International/wireStory/bosnian-serb-authorities-boost-neighboring-serbias-populist-leader-137408112"
+    },
+    {
+      "title": "‘Albertans chose Canada’: Carney hails vote to reject referendum",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-10-20",
+      "description": "Separatist leaders vow to fight on, warning the province’s governing party could split over the issue.",
+      "source_url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum"
     }
   ],
-  "last_updated": "2026-10-21T02:35:48.063205+00:00"
+  "last_updated": "2026-10-21T10:51:40.437262+00:00"
 }
