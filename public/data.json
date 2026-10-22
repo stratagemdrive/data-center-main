@@ -109,21 +109,21 @@
       "source_url": "https://abcnews.com/International/wireStory/meta-tells-brazils-electoral-court-treats-lula-flvio-137424225"
     },
     {
-      "title": "Bosnian Serb authorities boost neighboring Serbia's populist leader ahead of a key election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-20",
-      "description": "Serbia's populist leader Aleksandar Vucic faces a key parliamentary election this weekend",
-      "source_url": "https://abcnews.com/International/wireStory/bosnian-serb-authorities-boost-neighboring-serbias-populist-leader-137408112"
-    },
-    {
       "title": "Le Pen sees polls boost amid mass protests, riots",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-21",
       "description": "Marine Le Pen is set to officially launch her presidential campaign this weekend at the National Rally two-day party congress in Orléans. The latest Ifop poll, carried out in the wake of the mass protests and riots in France, suggests the far right leader would win the first round of the presidential election by a wide margin, and far-left candidate Jean-Luc Melenchon emerged as her most likely opponent in the runoff. FRANCE 24's Emerald Maxwell reports.",
       "source_url": "https://www.france24.com/en/le-pen-sees-polls-boost-amid-mass-protests-riots"
+    },
+    {
+      "title": "‘Albertans chose Canada’: Carney hails vote to reject referendum",
+      "country": "Canada",
+      "election_type": "National",
+      "date": "2026-10-20",
+      "description": "Separatist leaders vow to fight on, warning the province’s governing party could split over the issue.",
+      "source_url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum"
     }
   ],
-  "last_updated": "2026-10-21T21:02:57.553485+00:00"
+  "last_updated": "2026-10-22T02:32:58.811460+00:00"
 }
