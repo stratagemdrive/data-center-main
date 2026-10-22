@@ -43,28 +43,20 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-22",
+      "description": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+      "source_url": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia"
+    },
+    {
       "title": "Carney's Turkish balancing act must include business, defence and human rights",
       "visiting_leader": "",
       "host_country": "Canada",
       "date": "2026-10-21",
       "description": "Prime Minister Mark Carney heads to Turkey, seeking closer trade, energy and defence ties with a strategically important NATO ally. The historic visit marks a turnaround in relations once soured by a Canadian arms embargo. But Ankara’s crackdown on dissent tests Carney’s promise to balance economic pragmatism with Canadian values.",
       "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
-    },
-    {
-      "title": "Macron visits Riyadh to show solidarity amid Houthi attacks, ease tensions at home via fuel deal",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-10-21",
-      "description": "French President Emmanuel Macron on Wednesday paid an unannounced visit to Riyadh in a bid to underscore French support for the kingdom amid intensified attacks by Houthi rebels and an attempt to ease tensions at home by securing oil and diesel imports.",
-      "source_url": "https://www.france24.com/en/macron-visits-riyadh-show-solidarity-amid-houthi-attacks-ease-tensions-home-via-fuel-deal"
-    },
-    {
-      "title": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-10-21",
-      "description": "⁠French President Emmanuel ​Macron landed in Riyadh on Wednseday, ‌adding an ⁠unscheduled stop to his ‌ongoing tour of the Gulf ⁠region. The president's office said the visit aimed to demonstrate “France's solidarity” ​with Saudi Arabia in ‌the face of attacks launched by the ‌Houthis against its territory. Details by FRANCE 24 international affairs editor Douglas Herbert.",
-      "source_url": "https://www.france24.com/en/french-president-macron-lands-in-saudi-arabia-on-surprise-solidarity-visit"
     },
     {
       "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
@@ -81,9 +73,41 @@
       "date": "2026-10-20",
       "description": "King Charles III and Queen Camilla, joined by Prince William and Princess Catherine, have welcomed Oman’s Sultan Haitham bin Tarik to Windsor at the start of a three-day state visit.",
       "source_url": "https://www.euronews.com/video/2026/10/20/king-charles-welcomes-omans-sultan-haitham-for-state-visit-to-uk"
+    },
+    {
+      "title": "Uzbekistan's $12bn business drive gathers pace during Rubio visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-20",
+      "description": "The package covers railways, critical minerals, finance and technology, with major US firms involved. Uzbek President Mirziyoyev outlined measures to attract investors, while business executives told Euronews that commercial activity is growing.",
+      "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit"
     }
   ],
   "elections": [
+    {
+      "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+      "country": "Ukraine",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "Bulgaria's presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government's reduced support for Ukraine, making foreign policy a key factor in the first round.",
+      "source_url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Meta's Zuckerberg pitches AI successes to investors with 26% rise in quarterly revenue",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "Meta Platforms CEO Mark Zuckerberg touted the company's progress on artificial intelligence during an earnings call on Wednesday and called for more investment. The tech giant's Muse AI agent has garnered 10 million users since its launch six weeks ago, while third-quarter revenue rose to $64.6 billion. Meanwhile, the company is accused of political interference in Brazil's presidential election. Also in this edition, we check in on France's rising borrowing costs.",
+      "source_url": "https://www.france24.com/en/tv-shows/business/20261022-meta-s-zuckerberg-pitches-ai-successes-to-investors-with-26-rise-in-quarterly-revenue"
+    },
+    {
+      "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss"
+    },
     {
       "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
       "country": "Canada",
@@ -99,31 +123,7 @@
       "date": "2026-10-20",
       "description": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
       "source_url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro"
-    },
-    {
-      "title": "Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-21",
-      "description": "Meta says it has complied with an order from Brazil&rsquo;s electoral court to treat Brazil's presidential candidates equally before Sunday's runoff",
-      "source_url": "https://abcnews.com/International/wireStory/meta-tells-brazils-electoral-court-treats-lula-flvio-137424225"
-    },
-    {
-      "title": "Le Pen sees polls boost amid mass protests, riots",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-21",
-      "description": "Marine Le Pen is set to officially launch her presidential campaign this weekend at the National Rally two-day party congress in Orléans. The latest Ifop poll, carried out in the wake of the mass protests and riots in France, suggests the far right leader would win the first round of the presidential election by a wide margin, and far-left candidate Jean-Luc Melenchon emerged as her most likely opponent in the runoff. FRANCE 24's Emerald Maxwell reports.",
-      "source_url": "https://www.france24.com/en/le-pen-sees-polls-boost-amid-mass-protests-riots"
-    },
-    {
-      "title": "‘Albertans chose Canada’: Carney hails vote to reject referendum",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "2026-10-20",
-      "description": "Separatist leaders vow to fight on, warning the province’s governing party could split over the issue.",
-      "source_url": "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum"
     }
   ],
-  "last_updated": "2026-10-22T02:32:58.811460+00:00"
+  "last_updated": "2026-10-22T10:52:53.089604+00:00"
 }
