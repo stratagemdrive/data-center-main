@@ -51,14 +51,6 @@
       "source_url": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia"
     },
     {
-      "title": "Carney's Turkish balancing act must include business, defence and human rights",
-      "visiting_leader": "",
-      "host_country": "Canada",
-      "date": "2026-10-21",
-      "description": "Prime Minister Mark Carney heads to Turkey, seeking closer trade, energy and defence ties with a strategically important NATO ally. The historic visit marks a turnaround in relations once soured by a Canadian arms embargo. But Ankara’s crackdown on dissent tests Carney’s promise to balance economic pragmatism with Canadian values.",
-      "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
-    },
-    {
       "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
       "visiting_leader": "",
       "host_country": "Russia",
@@ -81,9 +73,25 @@
       "date": "2026-10-21",
       "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
       "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
+    },
+    {
+      "title": "Carney's Turkish balancing act must include business, defence and human rights",
+      "visiting_leader": "",
+      "host_country": "Canada",
+      "date": "2026-10-21",
+      "description": "Prime Minister Mark Carney heads to Turkey, seeking closer trade, energy and defence ties with a strategically important NATO ally. The historic visit marks a turnaround in relations once soured by a Canadian arms embargo. But Ankara’s crackdown on dissent tests Carney’s promise to balance economic pragmatism with Canadian values.",
+      "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
     }
   ],
   "elections": [
+    {
+      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+      "country": "Brazil",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go"
+    },
     {
       "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
       "country": "Global",
@@ -91,6 +99,14 @@
       "date": "2026-10-22",
       "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o"
+    },
+    {
+      "title": "Meta board placates Zuckerberg after threat to leave California if voters approve wealth tax measure",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "Meta Platforms has struck a deal with Mark Zuckerberg, Reuters has reported, in a move spurred by a California ballot measure, part of the Nov. 3 midterm elections, that has sparked heated debate and hundreds of millions in campaign spending.",
+      "source_url": "https://www.cbc.ca/news/world/california-proposition-40-wealth-tax-debate-9.7391472"
     },
     {
       "title": "Serb voters abroad face long trips in tight election after officials move polling stations",
@@ -107,23 +123,7 @@
       "date": "2026-10-22",
       "description": "Bulgaria's presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government's reduced support for Ukraine, making foreign policy a key factor in the first round.",
       "source_url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-22",
-      "description": "President Donald Trump's push to redistrict congressional maps and a Georgia state election law disproportionately affecting African Americans are aimed at diluting the power of the Black vote. Six decades after Atlanta was at the heart of the civil rights movement that granted Blacks in the southern states the right to vote, the community is fighting back.",
-      "source_url": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling"
-    },
-    {
-      "title": "Brazil's sprawling favelas require long-term urban planning solutions",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "2026-10-22",
-      "description": "As Brazilians head to the polls on Sunday for the second round of presidential elections, our correspondents take us to the heart of the country's favelas, where residents live in unsanitary conditions. Over the past 40 years, the area occupied by Brazilian favelas has almost tripled in size. They now cover around 460,000 hectares, compared with 53,700 in 1985.",
-      "source_url": "https://www.france24.com/en/tv-shows/focus/20261022-brazil-s-sprawling-favelas-require-long-term-urban-planning-solutions"
     }
   ],
-  "last_updated": "2026-10-22T16:19:25.548494+00:00"
+  "last_updated": "2026-10-22T20:59:40.269677+00:00"
 }
