@@ -59,31 +59,47 @@
       "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
     },
     {
+      "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-22",
+      "description": "Ukraine and Russia exchanged drone and missile strikes on Thursday, killing seven people in Ukraine, according to authorities. Moscow said it had intercepted 630 Ukrainian drones targeting the Russian capital. The strikes came hours after US envoy Steve Witkoff met Vladimir Putin in St. Petersburg. Witkoff said Moscow was ready to resume trilateral talks with Kyiv and Washington.",
+      "source_url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+    },
+    {
+      "title": "French PM Sebastien Lecornu meets with leaders of political parties amid unrest",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-10-22",
+      "description": "French PM Sebastien Lecornu holds a meeting with the leaders of political parties after unrest this weekend across the country. The aim is to prevent potential violence during the next protests, including on Saturday as the \"Yellow vests\" movement called for a new mobilisation. Details by FRANCE 24's Luke Shrago.",
+      "source_url": "https://www.france24.com/en/video/20261022-french-pm-sebastien-lecornu-meets-with-leaders-of-political-parties-amid-unrest"
+    },
+    {
       "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
       "visiting_leader": "",
       "host_country": "France",
       "date": "2026-10-21",
       "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
       "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
-    },
-    {
-      "title": "King Charles welcomes Oman’s Sultan Haitham for state visit to UK",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-20",
-      "description": "King Charles III and Queen Camilla, joined by Prince William and Princess Catherine, have welcomed Oman’s Sultan Haitham bin Tarik to Windsor at the start of a three-day state visit.",
-      "source_url": "https://www.euronews.com/video/2026/10/20/king-charles-welcomes-omans-sultan-haitham-for-state-visit-to-uk"
-    },
-    {
-      "title": "Uzbekistan's $12bn business drive gathers pace during Rubio visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-20",
-      "description": "The package covers railways, critical minerals, finance and technology, with major US firms involved. Uzbek President Mirziyoyev outlined measures to attract investors, while business executives told Euronews that commercial activity is growing.",
-      "source_url": "https://www.euronews.com/2026/10/20/uzbekistans-12bn-business-drive-gathers-pace-during-rubio-visit"
     }
   ],
   "elections": [
+    {
+      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o"
+    },
+    {
+      "title": "Serb voters abroad face long trips in tight election after officials move polling stations",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "Serbian voters overseas are facing major hurdles in casting their ballots in a tight parliamentary election this weekend",
+      "source_url": "https://abcnews.com/International/wireStory/serb-voters-abroad-face-long-trips-tight-election-137470795"
+    },
     {
       "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
       "country": "Ukraine",
@@ -93,37 +109,21 @@
       "source_url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Meta's Zuckerberg pitches AI successes to investors with 26% rise in quarterly revenue",
+      "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-22",
-      "description": "Meta Platforms CEO Mark Zuckerberg touted the company's progress on artificial intelligence during an earnings call on Wednesday and called for more investment. The tech giant's Muse AI agent has garnered 10 million users since its launch six weeks ago, while third-quarter revenue rose to $64.6 billion. Meanwhile, the company is accused of political interference in Brazil's presidential election. Also in this edition, we check in on France's rising borrowing costs.",
-      "source_url": "https://www.france24.com/en/tv-shows/business/20261022-meta-s-zuckerberg-pitches-ai-successes-to-investors-with-26-rise-in-quarterly-revenue"
+      "description": "President Donald Trump's push to redistrict congressional maps and a Georgia state election law disproportionately affecting African Americans are aimed at diluting the power of the Black vote. Six decades after Atlanta was at the heart of the civil rights movement that granted Blacks in the southern states the right to vote, the community is fighting back.",
+      "source_url": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling"
     },
     {
-      "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
-      "country": "Global",
+      "title": "Brazil's sprawling favelas require long-term urban planning solutions",
+      "country": "Brazil",
       "election_type": "National",
       "date": "2026-10-22",
-      "description": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss"
-    },
-    {
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "country": "Canada",
-      "election_type": "National",
-      "date": "2026-10-20",
-      "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo"
-    },
-    {
-      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-20",
-      "description": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro"
+      "description": "As Brazilians head to the polls on Sunday for the second round of presidential elections, our correspondents take us to the heart of the country's favelas, where residents live in unsanitary conditions. Over the past 40 years, the area occupied by Brazilian favelas has almost tripled in size. They now cover around 460,000 hectares, compared with 53,700 in 1985.",
+      "source_url": "https://www.france24.com/en/tv-shows/focus/20261022-brazil-s-sprawling-favelas-require-long-term-urban-planning-solutions"
     }
   ],
-  "last_updated": "2026-10-22T10:52:53.089604+00:00"
+  "last_updated": "2026-10-22T16:19:25.548494+00:00"
 }
