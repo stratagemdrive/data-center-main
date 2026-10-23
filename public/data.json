@@ -93,22 +93,6 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o"
     },
     {
-      "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-23",
-      "description": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo"
-    },
-    {
-      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-23",
-      "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o"
-    },
-    {
       "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
       "country": "Global",
       "election_type": "National",
@@ -123,7 +107,23 @@
       "date": "2026-10-23",
       "description": "Frustrations around corruption and feelings of personal financial stagnation driving voting choices as Brazil heads to presidential run-off on Sunday, Oct. 25.",
       "source_url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417"
+    },
+    {
+      "title": "Meta board placates Zuckerberg after threat to leave California if voters approve wealth tax measure",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-22",
+      "description": "Meta Platforms has struck a deal with Mark Zuckerberg, Reuters has reported, in a move spurred by a California ballot measure, part of the Nov. 3 midterm elections, that has sparked heated debate and hundreds of millions in campaign spending.",
+      "source_url": "https://www.cbc.ca/news/world/california-proposition-40-wealth-tax-debate-9.7391472"
+    },
+    {
+      "title": "Brazil's Lula opens state toolbox to woo voters in runoff against Bolsonaro. Here's what is on offer",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-23",
+      "description": "After finishing behind Fl&aacute;vio Bolsonaro in the first round of Brazil&rsquo;s presidential election, President Luiz In&aacute;cio Lula da Silva has pushed for popular &mdash; and costly &mdash; measures to bolster his chances in the runoff",
+      "source_url": "https://abcnews.com/International/wireStory/brazils-lula-opens-state-toolbox-woo-voters-runoff-137510328"
     }
   ],
-  "last_updated": "2026-10-23T16:09:06.123628+00:00"
+  "last_updated": "2026-10-23T20:49:19.359261+00:00"
 }
