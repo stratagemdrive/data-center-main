@@ -43,6 +43,22 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-23",
+      "description": "This is President Peter Mutharika's fifth visit to South Africa this year.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo"
+    },
+    {
+      "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
+      "visiting_leader": "",
+      "host_country": "France",
+      "date": "2026-10-21",
+      "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
+      "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
+    },
+    {
       "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
       "visiting_leader": "",
       "host_country": "Global",
@@ -65,25 +81,17 @@
       "date": "2026-10-22",
       "description": "Ukraine and Russia exchanged drone and missile strikes on Thursday, killing seven people in Ukraine, according to authorities. Moscow said it had intercepted 630 Ukrainian drones targeting the Russian capital. The strikes came hours after US envoy Steve Witkoff met Vladimir Putin in St. Petersburg. Witkoff said Moscow was ready to resume trilateral talks with Kyiv and Washington.",
       "source_url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-    },
-    {
-      "title": "French PM Sebastien Lecornu meets with leaders of political parties amid unrest",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-10-22",
-      "description": "French PM Sebastien Lecornu holds a meeting with the leaders of political parties after unrest this weekend across the country. The aim is to prevent potential violence during the next protests, including on Saturday as the \"Yellow vests\" movement called for a new mobilisation. Details by FRANCE 24's Luke Shrago.",
-      "source_url": "https://www.france24.com/en/video/20261022-french-pm-sebastien-lecornu-meets-with-leaders-of-political-parties-amid-unrest"
-    },
-    {
-      "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-10-21",
-      "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
-      "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
     }
   ],
   "elections": [
+    {
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-23",
+      "description": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+    },
     {
       "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
       "country": "Brazil",
@@ -93,37 +101,29 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go"
     },
     {
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-23",
+      "description": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o"
+    },
+    {
       "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "description": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o"
     },
     {
-      "title": "Meta board placates Zuckerberg after threat to leave California if voters approve wealth tax measure",
+      "title": "A polarized Brazil heads to presidential vote Sunday with economy, corruption top of mind",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-22",
-      "description": "Meta Platforms has struck a deal with Mark Zuckerberg, Reuters has reported, in a move spurred by a California ballot measure, part of the Nov. 3 midterm elections, that has sparked heated debate and hundreds of millions in campaign spending.",
-      "source_url": "https://www.cbc.ca/news/world/california-proposition-40-wealth-tax-debate-9.7391472"
-    },
-    {
-      "title": "Serb voters abroad face long trips in tight election after officials move polling stations",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-22",
-      "description": "Serbian voters overseas are facing major hurdles in casting their ballots in a tight parliamentary election this weekend",
-      "source_url": "https://abcnews.com/International/wireStory/serb-voters-abroad-face-long-trips-tight-election-137470795"
-    },
-    {
-      "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
-      "country": "Ukraine",
-      "election_type": "National",
-      "date": "2026-10-22",
-      "description": "Bulgaria's presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government's reduced support for Ukraine, making foreign policy a key factor in the first round.",
-      "source_url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-10-23",
+      "description": "Frustrations around corruption and feelings of personal financial stagnation driving voting choices as Brazil heads to presidential run-off on Sunday, Oct. 25.",
+      "source_url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417"
     }
   ],
-  "last_updated": "2026-10-23T02:37:28.895069+00:00"
+  "last_updated": "2026-10-23T10:44:05.935579+00:00"
 }
