@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-22",
+      "description": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo"
+    },
+    {
       "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
       "visiting_leader": "",
       "host_country": "Russia",
@@ -73,14 +81,6 @@
       "date": "2026-10-21",
       "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
       "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
-    },
-    {
-      "title": "Carney's Turkish balancing act must include business, defence and human rights",
-      "visiting_leader": "",
-      "host_country": "Canada",
-      "date": "2026-10-21",
-      "description": "Prime Minister Mark Carney heads to Turkey, seeking closer trade, energy and defence ties with a strategically important NATO ally. The historic visit marks a turnaround in relations once soured by a Canadian arms embargo. But Ankara’s crackdown on dissent tests Carney’s promise to balance economic pragmatism with Canadian values.",
-      "source_url": "https://www.cbc.ca/news/politics/carney-trade-defence-turkey-human-rights-9.7389188"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-22T20:59:40.269677+00:00"
+  "last_updated": "2026-10-23T02:37:28.895069+00:00"
 }
