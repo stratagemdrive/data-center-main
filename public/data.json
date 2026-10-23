@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "EU member states wrangle over all-important budget: Is a deal this year feasible?",
+      "organization": "EU",
+      "date": "2026-10-23",
+      "location": "Global",
+      "description": "A marathon EU summit on October 15-16 failed to produce a breakthrough on the European Union's next long-term budget. Although EU leaders put on a brave face at the end of the talks by saying that \"the way forward is clearer\", EU capitals appear deadlocked on what that path is. At stake is the EU's ability to finance its strategic priorities from 2028 to 2034. The main dividing line is between the so-called \"frugal countries\", who want deep cuts to the proposed budget, and the \"friends of cohesion\", who say that cuts are not the answer.",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible"
+    },
+    {
       "title": "World set to breach 1.5°C warming limit set by Paris Climate Agreement",
       "organization": "UN",
       "date": "2026-10-21",
@@ -31,14 +39,6 @@
       "location": "Ukraine",
       "description": "Ukrainian ​President Volodymyr Zelensky took aim on Friday at US President Donald Trump's diesel deal with Russia and welcomed the prospect of European allies stepping up their role in talks, calling Moscow's stance a \"parody\" of peace negotiations. At a European Union summit in Brussels, Zelenskiy said Russia did not want peace. He added that Ukraine was still experiencing disruptions to the SpaceX Starshield satellite system. FRANCE 24's Europe Editor Armen Georgian reports from Brussels.",
       "source_url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia"
-    },
-    {
-      "title": "EU summit to focus on China, Ukraine and bloc budget",
-      "organization": "EU",
-      "date": "2026-10-15",
-      "location": "Ukraine",
-      "description": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
-      "source_url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "diplomatic_visits": [
@@ -49,6 +49,14 @@
       "date": "2026-10-23",
       "description": "This is President Peter Mutharika's fifth visit to South Africa this year.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo"
+    },
+    {
+      "title": "Carney defends doing business with countries that don’t share Canada’s values",
+      "visiting_leader": "",
+      "host_country": "Canada",
+      "date": "2026-10-23",
+      "description": "Prime Minister Mark Carney defended his government’s pursuit of trade with countries accused of human rights abuses, arguing few nations meet Canada’s standards. Wrapping up a visit to Turkey, Carney insisted engagement does not equal approval, but declined to say whether he personally challenged President Erdogan over his government’s crackdown.",
+      "source_url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771"
     },
     {
       "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
@@ -73,33 +81,9 @@
       "date": "2026-10-22",
       "description": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
       "source_url": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia"
-    },
-    {
-      "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-22",
-      "description": "Ukraine and Russia exchanged drone and missile strikes on Thursday, killing seven people in Ukraine, according to authorities. Moscow said it had intercepted 630 Ukrainian drones targeting the Russian capital. The strikes came hours after US envoy Steve Witkoff met Vladimir Putin in St. Petersburg. Witkoff said Moscow was ready to resume trilateral talks with Kyiv and Washington.",
-      "source_url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
     }
   ],
   "elections": [
-    {
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-23",
-      "description": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
-    },
-    {
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "country": "Brazil",
-      "election_type": "National",
-      "date": "2026-10-22",
-      "description": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go"
-    },
     {
       "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
       "country": "Global",
@@ -107,6 +91,14 @@
       "date": "2026-10-23",
       "description": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o"
+    },
+    {
+      "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-23",
+      "description": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo"
     },
     {
       "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
@@ -117,6 +109,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o"
     },
     {
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-23",
+      "description": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
+      "source_url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc"
+    },
+    {
       "title": "A polarized Brazil heads to presidential vote Sunday with economy, corruption top of mind",
       "country": "Global",
       "election_type": "National",
@@ -125,5 +125,5 @@
       "source_url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417"
     }
   ],
-  "last_updated": "2026-10-23T10:44:05.935579+00:00"
+  "last_updated": "2026-10-23T16:09:06.123628+00:00"
 }
