@@ -43,20 +43,20 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-23",
-      "description": "This is President Peter Mutharika's fifth visit to South Africa this year.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo"
-    },
-    {
       "title": "Carney defends doing business with countries that don’t share Canada’s values",
       "visiting_leader": "",
       "host_country": "Canada",
       "date": "2026-10-23",
       "description": "Prime Minister Mark Carney defended his government’s pursuit of trade with countries accused of human rights abuses, arguing few nations meet Canada’s standards. Wrapping up a visit to Turkey, Carney insisted engagement does not equal approval, but declined to say whether he personally challenged President Erdogan over his government’s crackdown.",
       "source_url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771"
+    },
+    {
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-23",
+      "description": "This is President Peter Mutharika's fifth visit to South Africa this year.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo"
     },
     {
       "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
@@ -125,5 +125,5 @@
       "source_url": "https://abcnews.com/International/wireStory/brazils-lula-opens-state-toolbox-woo-voters-runoff-137510328"
     }
   ],
-  "last_updated": "2026-10-23T20:49:19.359261+00:00"
+  "last_updated": "2026-10-24T02:35:33.955766+00:00"
 }
