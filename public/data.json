@@ -93,14 +93,6 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo"
     },
     {
-      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-23",
-      "description": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o"
-    },
-    {
       "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
       "country": "Global",
       "election_type": "National",
@@ -123,7 +115,15 @@
       "date": "2026-10-22",
       "description": "Meta Platforms has struck a deal with Mark Zuckerberg, Reuters has reported, in a move spurred by a California ballot measure, part of the Nov. 3 midterm elections, that has sparked heated debate and hundreds of millions in campaign spending.",
       "source_url": "https://www.cbc.ca/news/world/california-proposition-40-wealth-tax-debate-9.7391472"
+    },
+    {
+      "title": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-25",
+      "description": "Serbians are voting in a parliamentary election seen as a showdown between populist leader Aleksandar Vucic and a student-led movement",
+      "source_url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
     }
   ],
-  "last_updated": "2026-10-25T02:23:42.850693+00:00"
+  "last_updated": "2026-10-25T10:25:26.274462+00:00"
 }
