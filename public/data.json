@@ -85,6 +85,14 @@
   ],
   "elections": [
     {
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-25",
+      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o"
+    },
+    {
       "title": "Who are the candidates in Brazil's presidential election?",
       "country": "Global",
       "election_type": "National",
@@ -93,12 +101,20 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo"
     },
     {
-      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "title": "Early reports suggest record high turnout in Serbia elections",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-23",
-      "description": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
-      "source_url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc"
+      "date": "2026-10-25",
+      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o"
+    },
+    {
+      "title": "Netanyahu 'fighting for his political life' in 1st Israeli vote since Oct. 7. He might still survive",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-25",
+      "description": "There are few Israeli analysts willing to write off the country's longest-serving prime minister in Tuesday's election, despite the catastrophic impact of the Hamas-led attacks on Oct. 7, 2023.",
+      "source_url": "https://www.cbc.ca/news/world/netanyahu-israel-election-9.7394784"
     },
     {
       "title": "A polarized Brazil heads to presidential vote Sunday with economy, corruption top of mind",
@@ -107,23 +123,7 @@
       "date": "2026-10-23",
       "description": "Frustrations around corruption and feelings of personal financial stagnation driving voting choices as Brazil heads to presidential run-off on Sunday, Oct. 25.",
       "source_url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417"
-    },
-    {
-      "title": "Meta board placates Zuckerberg after threat to leave California if voters approve wealth tax measure",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-22",
-      "description": "Meta Platforms has struck a deal with Mark Zuckerberg, Reuters has reported, in a move spurred by a California ballot measure, part of the Nov. 3 midterm elections, that has sparked heated debate and hundreds of millions in campaign spending.",
-      "source_url": "https://www.cbc.ca/news/world/california-proposition-40-wealth-tax-debate-9.7391472"
-    },
-    {
-      "title": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-25",
-      "description": "Serbians are voting in a parliamentary election seen as a showdown between populist leader Aleksandar Vucic and a student-led movement",
-      "source_url": "https://abcnews.com/International/wireStory/serbia-holds-parliamentary-election-populist-vucic-faces-protesting-137548803"
     }
   ],
-  "last_updated": "2026-10-25T10:25:26.274462+00:00"
+  "last_updated": "2026-10-25T15:17:25.723979+00:00"
 }
