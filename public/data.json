@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Canada needs concrete results from EU summit this week, former envoy says",
+      "organization": "EU",
+      "date": "2026-10-25",
+      "location": "Canada",
+      "description": "Ahead of this week's Canada-European Union summit, Prime Minister Mark Carney said both parties are hammering out a \"new, ambitious alliance\" after pledging deeper ties with Europe last month.",
+      "source_url": "https://www.cbc.ca/news/politics/canada-eu-summit-concrete-results-9.7395409"
+    },
+    {
       "title": "EU member states wrangle over all-important budget: Is a deal this year feasible?",
       "organization": "EU",
       "date": "2026-10-23",
@@ -31,14 +39,6 @@
       "location": "Ukraine",
       "description": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
       "source_url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Zelensky hails \"real leaders\" in Europe, blasts Trump's diesel deal with Russia",
-      "organization": "EU",
-      "date": "2026-10-16",
-      "location": "Ukraine",
-      "description": "Ukrainian ​President Volodymyr Zelensky took aim on Friday at US President Donald Trump's diesel deal with Russia and welcomed the prospect of European allies stepping up their role in talks, calling Moscow's stance a \"parody\" of peace negotiations. At a European Union summit in Brussels, Zelenskiy said Russia did not want peace. He added that Ukraine was still experiencing disruptions to the SpaceX Starshield satellite system. FRANCE 24's Europe Editor Armen Georgian reports from Brussels.",
-      "source_url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia"
     }
   ],
   "diplomatic_visits": [
@@ -85,12 +85,12 @@
   ],
   "elections": [
     {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "title": "Early reports suggest record high turnout in Serbia elections",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-25",
-      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o"
+      "description": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o"
     },
     {
       "title": "Who are the candidates in Brazil's presidential election?",
@@ -101,12 +101,20 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo"
     },
     {
-      "title": "Early reports suggest record high turnout in Serbia elections",
+      "title": "Board of Deputies of British Jews declares Greens to be racist party",
+      "country": "United Kingdom",
+      "election_type": "National",
+      "date": "2026-10-25",
+      "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo"
+    },
+    {
+      "title": "Israelis have changed. Will they change their leadership?",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-25",
-      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o"
+      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "source_url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
     },
     {
       "title": "Netanyahu 'fighting for his political life' in 1st Israeli vote since Oct. 7. He might still survive",
@@ -115,15 +123,7 @@
       "date": "2026-10-25",
       "description": "There are few Israeli analysts willing to write off the country's longest-serving prime minister in Tuesday's election, despite the catastrophic impact of the Hamas-led attacks on Oct. 7, 2023.",
       "source_url": "https://www.cbc.ca/news/world/netanyahu-israel-election-9.7394784"
-    },
-    {
-      "title": "A polarized Brazil heads to presidential vote Sunday with economy, corruption top of mind",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-23",
-      "description": "Frustrations around corruption and feelings of personal financial stagnation driving voting choices as Brazil heads to presidential run-off on Sunday, Oct. 25.",
-      "source_url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417"
     }
   ],
-  "last_updated": "2026-10-25T15:17:25.723979+00:00"
+  "last_updated": "2026-10-25T20:09:54.510756+00:00"
 }
