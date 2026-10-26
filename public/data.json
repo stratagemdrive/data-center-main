@@ -85,12 +85,20 @@
   ],
   "elections": [
     {
-      "title": "Early reports suggest record high turnout in Serbia elections",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-26",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+    },
+    {
+      "title": "Why Israel's election is one of the most important in its history",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-25",
-      "description": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o"
+      "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "source_url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo"
     },
     {
       "title": "Who are the candidates in Brazil's presidential election?",
@@ -109,21 +117,13 @@
       "source_url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo"
     },
     {
-      "title": "Israelis have changed. Will they change their leadership?",
-      "country": "Global",
+      "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
+      "country": "Brazil",
       "election_type": "National",
       "date": "2026-10-25",
-      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
-      "source_url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
-    },
-    {
-      "title": "Netanyahu 'fighting for his political life' in 1st Israeli vote since Oct. 7. He might still survive",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-25",
-      "description": "There are few Israeli analysts willing to write off the country's longest-serving prime minister in Tuesday's election, despite the catastrophic impact of the Hamas-led attacks on Oct. 7, 2023.",
-      "source_url": "https://www.cbc.ca/news/world/netanyahu-israel-election-9.7394784"
+      "description": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.",
+      "source_url": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil"
     }
   ],
-  "last_updated": "2026-10-25T20:09:54.510756+00:00"
+  "last_updated": "2026-10-26T02:23:19.907211+00:00"
 }
