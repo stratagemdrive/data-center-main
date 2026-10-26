@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Caribbean seeks reparations and questions role of monarchy before King Charles visits",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-26",
+      "description": "The royals are coming, and the Caribbean wants to be heard",
+      "source_url": "https://abcnews.com/International/wireStory/caribbean-seeks-reparations-questions-role-monarchy-king-charles-137562594"
+    },
+    {
       "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,24 +81,24 @@
       "date": "2026-10-21",
       "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
       "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
-    },
-    {
-      "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-22",
-      "description": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo"
     }
   ],
   "elections": [
     {
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-26",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+    },
+    {
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-26",
+      "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo"
     },
     {
       "title": "Why Israel's election is one of the most important in its history",
@@ -101,29 +109,21 @@
       "source_url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo"
     },
     {
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-24",
-      "description": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo"
-    },
-    {
-      "title": "Board of Deputies of British Jews declares Greens to be racist party",
-      "country": "United Kingdom",
-      "election_type": "National",
-      "date": "2026-10-25",
-      "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo"
-    },
-    {
       "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
       "country": "Brazil",
       "election_type": "National",
       "date": "2026-10-25",
       "description": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.",
       "source_url": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil"
+    },
+    {
+      "title": "Israelis have changed. Will they change their leadership?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-25",
+      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "source_url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
     }
   ],
-  "last_updated": "2026-10-26T02:23:19.907211+00:00"
+  "last_updated": "2026-10-26T11:54:35.234043+00:00"
 }
