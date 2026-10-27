@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "U.S. and Cuban officials get into shouting match on floor of United Nations",
+      "organization": "UN",
+      "date": "2026-10-27",
+      "location": "Global",
+      "description": "U.S. and Cuban officials engaged in a stunning shouting match on the floor of the United Nations General Assembly on Tuesday, the latest in a series of public spats between the longtime adversaries over Washington's escalating economic campaign against Havana.",
+      "source_url": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413"
+    },
+    {
       "title": "Canada needs concrete results from EU summit this week, former envoy says",
       "organization": "EU",
       "date": "2026-10-25",
@@ -31,17 +39,17 @@
       "location": "Global",
       "description": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
       "source_url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss"
-    },
-    {
-      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-      "organization": "EU",
-      "date": "2026-10-16",
-      "location": "Ukraine",
-      "description": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
-      "source_url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Canada, U.A.E. sign defence, energy agreements during crown prince's visit",
+      "visiting_leader": "",
+      "host_country": "Canada",
+      "date": "2026-10-27",
+      "description": "Canada and the United Arab Emirates signed a handful of trade and infrastructure agreements during the crown prince of Abu Dhabi's visit to Ottawa.",
+      "source_url": "https://www.cbc.ca/news/politics/uae-canada-share-partnership-details-9.7397661"
+    },
     {
       "title": "Caribbean seeks reparations and questions role of monarchy before King Charles visits",
       "visiting_leader": "",
@@ -73,25 +81,9 @@
       "date": "2026-10-23",
       "description": "This is President Peter Mutharika's fifth visit to South Africa this year.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo"
-    },
-    {
-      "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-10-21",
-      "description": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
-      "source_url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france"
     }
   ],
   "elections": [
-    {
-      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-27",
-      "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o"
-    },
     {
       "title": "What does Israel's election mean for Gaza and the wider world?",
       "country": "Global",
@@ -99,14 +91,6 @@
       "date": "2026-10-27",
       "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
       "source_url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo"
-    },
-    {
-      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-26",
-      "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo"
     },
     {
       "title": "Israel and the US are both going to the polls - the consequences will be global",
@@ -117,6 +101,22 @@
       "source_url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo"
     },
     {
+      "title": "Trump vs Obama - which president has the star power to get out the vote?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-27",
+      "description": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o"
+    },
+    {
+      "title": "Israelis vote in their highest numbers in decades in pivotal elections",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-27",
+      "description": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change course.",
+      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+    },
+    {
       "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
       "country": "Global",
       "election_type": "National",
@@ -125,5 +125,5 @@
       "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
     }
   ],
-  "last_updated": "2026-10-27T17:03:39.269184+00:00"
+  "last_updated": "2026-10-27T21:37:28.086468+00:00"
 }
