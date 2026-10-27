@@ -85,20 +85,12 @@
   ],
   "elections": [
     {
-      "title": "Turnout highest since 1977 as Israelis vote in pivotal election",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-27",
-      "description": "The elections - the first since the Hamas-led attacks on Israel and the war which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
       "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o"
-    },
-    {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-26",
-      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
     },
     {
       "title": "What does Israel's election mean for Gaza and the wider world?",
@@ -123,7 +115,15 @@
       "date": "2026-10-26",
       "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
       "source_url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo"
+    },
+    {
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-27",
+      "description": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
     }
   ],
-  "last_updated": "2026-10-27T11:17:35.919819+00:00"
+  "last_updated": "2026-10-27T17:03:39.269184+00:00"
 }
