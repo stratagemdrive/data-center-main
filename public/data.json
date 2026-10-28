@@ -51,6 +51,22 @@
       "source_url": "https://www.cbc.ca/news/politics/uae-canada-share-partnership-details-9.7397661"
     },
     {
+      "title": "King Charles confronts calls for slavery apology during Caribbean tour",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-27",
+      "description": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch, undergoing cancer treatment, will also visit Guyana and Antigua and Barbuda, highlighting climate threats and attending a Commonwealth summit with Queen Camilla.",
+      "source_url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour"
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-27",
+      "description": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
+    },
+    {
       "title": "Caribbean seeks reparations and questions role of monarchy before King Charles visits",
       "visiting_leader": "",
       "host_country": "Global",
@@ -65,25 +81,17 @@
       "date": "2026-10-24",
       "description": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
       "source_url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo"
-    },
-    {
-      "title": "Carney defends doing business with countries that don’t share Canada’s values",
-      "visiting_leader": "",
-      "host_country": "Canada",
-      "date": "2026-10-23",
-      "description": "Prime Minister Mark Carney defended his government’s pursuit of trade with countries accused of human rights abuses, arguing few nations meet Canada’s standards. Wrapping up a visit to Turkey, Carney insisted engagement does not equal approval, but declined to say whether he personally challenged President Erdogan over his government’s crackdown.",
-      "source_url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771"
-    },
-    {
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-23",
-      "description": "This is President Peter Mutharika's fifth visit to South Africa this year.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo"
     }
   ],
   "elections": [
+    {
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-28",
+      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o"
+    },
     {
       "title": "What does Israel's election mean for Gaza and the wider world?",
       "country": "Global",
@@ -93,37 +101,29 @@
       "source_url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo"
     },
     {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-26",
-      "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "source_url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo"
-    },
-    {
-      "title": "Trump vs Obama - which president has the star power to get out the vote?",
+      "title": "Trump v Obama - which president has the star power to get out the vote?",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-27",
-      "description": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "description": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
       "source_url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o"
     },
     {
-      "title": "Israelis vote in their highest numbers in decades in pivotal elections",
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-27",
-      "description": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change course.",
-      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+      "date": "2026-10-28",
+      "description": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo"
     },
     {
-      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-27",
-      "description": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
-      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
+      "description": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
     }
   ],
-  "last_updated": "2026-10-27T21:37:28.086468+00:00"
+  "last_updated": "2026-10-28T03:09:03.538765+00:00"
 }
