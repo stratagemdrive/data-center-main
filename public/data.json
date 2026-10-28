@@ -1,12 +1,20 @@
 {
   "world_org_meetings": [
     {
-      "title": "U.S. and Cuban officials get into shouting match on floor of United Nations",
+      "title": "EU dropping associate membership title for its closer alliance with Canada",
+      "organization": "EU",
+      "date": "2026-10-28",
+      "location": "Canada",
+      "description": "A joint statement expected to be released at the 21st Canada-EU summit in Montreal on Friday will instead use softer language promising closer ties, according to the latest draft of the statement seen by CBC News.",
+      "source_url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
+    },
+    {
+      "title": "Most nations at UN vote to condemn U.S. embargo on Cuba",
       "organization": "UN",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "location": "Global",
-      "description": "U.S. and Cuban officials engaged in a stunning shouting match on the floor of the United Nations General Assembly on Tuesday, the latest in a series of public spats between the longtime adversaries over Washington's escalating economic campaign against Havana.",
-      "source_url": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413"
+      "description": "The United Nations General Assembly overwhelmingly urged an ‌end to the decades-long U.S. economic embargo on Cuba on Wednesday, but a U.S. lobbying push led several countries to oppose the resolution or abstain for the first time in years.",
+      "source_url": "https://www.cbc.ca/news/world/cuba-us-un-embargo-vote-9.7399998"
     },
     {
       "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
@@ -17,31 +25,31 @@
       "source_url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss"
     },
     {
+      "title": "U.S. and Cuban officials get into shouting match on floor of United Nations",
+      "organization": "UN",
+      "date": "2026-10-27",
+      "location": "Global",
+      "description": "U.S. and Cuban officials engaged in a stunning shouting match on the floor of the United Nations General Assembly on Tuesday, the latest in a series of public spats between the longtime adversaries over Washington's escalating economic campaign against Havana.",
+      "source_url": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413"
+    },
+    {
       "title": "Canada needs concrete results from EU summit this week, former envoy says",
       "organization": "EU",
       "date": "2026-10-25",
       "location": "Canada",
       "description": "Ahead of this week's Canada-European Union summit, Prime Minister Mark Carney said both parties are hammering out a \"new, ambitious alliance\" after pledging deeper ties with Europe last month.",
       "source_url": "https://www.cbc.ca/news/politics/canada-eu-summit-concrete-results-9.7395409"
-    },
-    {
-      "title": "EU member states wrangle over all-important budget: Is a deal this year feasible?",
-      "organization": "EU",
-      "date": "2026-10-23",
-      "location": "Global",
-      "description": "A marathon EU summit on October 15-16 failed to produce a breakthrough on the European Union's next long-term budget. Although EU leaders put on a brave face at the end of the talks by saying that \"the way forward is clearer\", EU capitals appear deadlocked on what that path is. At stake is the EU's ability to finance its strategic priorities from 2028 to 2034. The main dividing line is between the so-called \"frugal countries\", who want deep cuts to the proposed budget, and the \"friends of cohesion\", who say that cuts are not the answer.",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible"
-    },
-    {
-      "title": "World set to breach 1.5°C warming limit set by Paris Climate Agreement",
-      "organization": "UN",
-      "date": "2026-10-21",
-      "location": "Global",
-      "description": "The UN is warning that global commitments to cut planet-heating emissions are falling far short of the Paris climate goals of 1.5 degrees Celsius warming – and put the world on course for 2.6C warming this century. The report by the United Nations Environment Programme lays bare the chasm between rhetoric and action when it comes to tackling global warming, and the challenge before political leaders at November's COP31 climate summit - set to take place next month in Turkey. Story by Emerald Maxwell.",
-      "source_url": "https://www.france24.com/en/video/20261021-world-set-to-breach-1-5%C2%B0c-warming-limit-set-by-paris-climate-agreement"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-28",
+      "description": "Russian President Vladimir Putin sought to woo African leaders and government delegates on Wednesday as they gathered in Moscow for the third Russia-Africa Summit to discuss trade, security, arms deals and grain supplies as part of the Kremlin's strategic efforts to expand its footprint in Africa.",
+      "source_url": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa"
+    },
     {
       "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
       "visiting_leader": "",
@@ -73,17 +81,17 @@
       "date": "2026-10-27",
       "description": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch, who is undergoing cancer treatment, will also visit Guyana and Antigua and Barbuda, highlighting climate threats and attending a Commonwealth summit with Queen Camilla.",
       "source_url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour"
-    },
-    {
-      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-27",
-      "description": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
     }
   ],
   "elections": [
+    {
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-28",
+      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
+    },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "country": "Global",
@@ -91,22 +99,6 @@
       "date": "2026-10-28",
       "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
-    },
-    {
-      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-28",
-      "description": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
-      "source_url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o"
-    },
-    {
-      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-27",
-      "description": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
-      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
     },
     {
       "title": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote",
@@ -123,7 +115,15 @@
       "date": "2026-10-28",
       "description": "While millions of U.S. voters have become only more entrenched in their party loyalties in the era of Donald Trump, the large and growing Hispanic community has instead bucked that partisan trend.",
       "source_url": "https://www.cbc.ca/news/world/us-midterm-elections-latino-hispanic-voters-trump-9.7398181"
+    },
+    {
+      "title": "Will elections in Israel change its Iran approach?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-27",
+      "description": "As Israelis head to the polls, the country's conflict with Iran casts a long shadow over the ballot box. But any leadership changes in Israel may not be enough to shake up its grand strategy on Tehran.",
+      "source_url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-28T17:40:25.582486+00:00"
+  "last_updated": "2026-10-28T22:01:25.007955+00:00"
 }
