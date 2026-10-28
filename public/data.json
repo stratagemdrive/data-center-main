@@ -55,7 +55,7 @@
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-10-27",
-      "description": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch, undergoing cancer treatment, will also visit Guyana and Antigua and Barbuda, highlighting climate threats and attending a Commonwealth summit with Queen Camilla.",
+      "description": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch, who is undergoing cancer treatment, will also visit Guyana and Antigua and Barbuda, highlighting climate threats and attending a Commonwealth summit with Queen Camilla.",
       "source_url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour"
     },
     {
@@ -101,29 +101,29 @@
       "source_url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo"
     },
     {
-      "title": "Trump v Obama - which president has the star power to get out the vote?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-27",
-      "description": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o"
-    },
-    {
-      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-28",
-      "description": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo"
-    },
-    {
       "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-27",
       "description": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
       "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+    },
+    {
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-27",
+      "description": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
+    },
+    {
+      "title": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-28",
+      "description": "Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot offered competing claims to lead Israel after Tuesday's election, with Netanyahu calling for a right-wing government and Eisenkot saying voters had rejected the longtime Israeli leader, even as early counting showed no clear winner.",
+      "source_url": "https://www.cbc.ca/news/world/israel-vote-deadlock-9.7399140"
     }
   ],
-  "last_updated": "2026-10-28T03:09:03.538765+00:00"
+  "last_updated": "2026-10-28T11:52:06.767935+00:00"
 }
