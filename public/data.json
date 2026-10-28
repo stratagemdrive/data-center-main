@@ -9,6 +9,14 @@
       "source_url": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413"
     },
     {
+      "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
+      "organization": "EU",
+      "date": "2026-10-28",
+      "location": "Canada",
+      "description": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss"
+    },
+    {
       "title": "Canada needs concrete results from EU summit this week, former envoy says",
       "organization": "EU",
       "date": "2026-10-25",
@@ -31,17 +39,25 @@
       "location": "Global",
       "description": "The UN is warning that global commitments to cut planet-heating emissions are falling far short of the Paris climate goals of 1.5 degrees Celsius warming – and put the world on course for 2.6C warming this century. The report by the United Nations Environment Programme lays bare the chasm between rhetoric and action when it comes to tackling global warming, and the challenge before political leaders at November's COP31 climate summit - set to take place next month in Turkey. Story by Emerald Maxwell.",
       "source_url": "https://www.france24.com/en/video/20261021-world-set-to-breach-1-5%C2%B0c-warming-limit-set-by-paris-climate-agreement"
-    },
-    {
-      "title": "Search under way for four soldiers missing after gang attack in Haiti",
-      "organization": "UN",
-      "date": "2026-10-19",
-      "location": "Global",
-      "description": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-28",
+      "description": "PM Abiy Ahmed makes announcement during a Moscow summit as Ethiopia battles armed groups in Tigray and Amhara.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss"
+    },
+    {
+      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-28",
+      "description": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss"
+    },
     {
       "title": "Canada, U.A.E. sign defence, energy agreements during crown prince's visit",
       "visiting_leader": "",
@@ -65,48 +81,24 @@
       "date": "2026-10-27",
       "description": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
       "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
-    },
-    {
-      "title": "Caribbean seeks reparations and questions role of monarchy before King Charles visits",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-26",
-      "description": "The royals are coming, and the Caribbean wants to be heard",
-      "source_url": "https://abcnews.com/International/wireStory/caribbean-seeks-reparations-questions-role-monarchy-king-charles-137562594"
-    },
-    {
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-24",
-      "description": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo"
     }
   ],
   "elections": [
     {
-      "title": "Watch: What happens now after close vote in Israeli election?",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-28",
-      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o"
+      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
     },
     {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-27",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "source_url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo"
-    },
-    {
-      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-27",
-      "description": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-      "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+      "date": "2026-10-28",
+      "description": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
+      "source_url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o"
     },
     {
       "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
@@ -121,9 +113,17 @@
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-28",
-      "description": "Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot offered competing claims to lead Israel after Tuesday's election, with Netanyahu calling for a right-wing government and Eisenkot saying voters had rejected the longtime Israeli leader, even as early counting showed no clear winner.",
+      "description": "Emerging results indicated that neither Netanyahu's nor Eisenkot's coalition blocs would reach the 61 seats needed for a majority. Local media projected 53 seats for Likud and allied parties, 48 for Yashar and allied parties and 19 for Arab-led parties.",
       "source_url": "https://www.cbc.ca/news/world/israel-vote-deadlock-9.7399140"
+    },
+    {
+      "title": "Why the Hispanic vote could sway the outcome of the U.S. midterm elections",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-28",
+      "description": "While millions of U.S. voters have become only more entrenched in their party loyalties in the era of Donald Trump, the large and growing Hispanic community has instead bucked that partisan trend.",
+      "source_url": "https://www.cbc.ca/news/world/us-midterm-elections-latino-hispanic-voters-trump-9.7398181"
     }
   ],
-  "last_updated": "2026-10-28T11:52:06.767935+00:00"
+  "last_updated": "2026-10-28T17:40:25.582486+00:00"
 }
