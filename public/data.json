@@ -1,14 +1,6 @@
 {
   "world_org_meetings": [
     {
-      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-      "organization": "EU",
-      "date": "2026-10-29",
-      "location": "Canada",
-      "description": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo"
-    },
-    {
       "title": "EU dropping associate membership title for its closer alliance with Canada",
       "organization": "EU",
       "date": "2026-10-28",
@@ -23,6 +15,14 @@
       "location": "Global",
       "description": "The United Nations General Assembly overwhelmingly urged an ‌end to the decades-long U.S. economic embargo on Cuba on Wednesday, but a U.S. lobbying push led several countries to oppose the resolution or abstain for the first time in years.",
       "source_url": "https://www.cbc.ca/news/world/cuba-us-un-embargo-vote-9.7399998"
+    },
+    {
+      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "organization": "EU",
+      "date": "2026-10-29",
+      "location": "Canada",
+      "description": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo"
     },
     {
       "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
@@ -51,12 +51,20 @@
       "source_url": "https://abcnews.com/International/wireStory/carney-hosts-eu-leaders-trump-pushes-canada-europe-137664172"
     },
     {
-      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
+      "title": "Spain's King Felipe VI and Queen Letizia visit injured in train crash at Toledo hospital",
       "visiting_leader": "",
-      "host_country": "Canada",
+      "host_country": "Global",
       "date": "2026-10-29",
-      "description": "Canada and the European Union will pursue closer ties but have dropped a proposal for associate EU membership, according to a joint declaration ahead of Thursday’s summit in Montreal. Prime Minister Mark Carney is seeking to reduce Canada’s reliance on the US, despite warnings from Donald Trump.",
-      "source_url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
+      "description": "King Felipe VI and Queen Letizia arrived at Toledo University Hospital on Thursday to visit those injured in the train accident in Urda – in which at least 69 people died – who are being treated at this hospital, 15 of whom are in the ICU. The King and Queen will meet with the medical team and subsequently visit several of the injured, who will be accompanied by their families. FRANCE 24's Sarah Morris reports from oledo University Hospital.",
+      "source_url": "https://www.france24.com/en/video/20261029-spain-s-king-felipe-vi-and-queen-letizia-visit-injured-in-train-crash-at-toledo-hospital"
+    },
+    {
+      "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-29",
+      "description": "Russian President Vladimir Putin on Wednesday hosted dozens of African leaders at a Russia-Africa summit, part of Moscow’s efforts to expand its influence across the continent. The Russia-Africa summit marks a renewed Kremlin effort to bolster ties with a continent of nearly 1.6 billion people that is increasingly assertive on the global stage.",
+      "source_url": "https://www.france24.com/en/video/20261029-putin-seeks-to-expand-ties-with-african-countries-at-russia-africa-summit"
     },
     {
       "title": "Bahamas: King Charles III dances with locals during Caribbean visit",
@@ -67,20 +75,12 @@
       "source_url": "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit"
     },
     {
-      "title": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
+      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
       "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-28",
-      "description": "Russian President Vladimir Putin sought to woo African leaders and government delegates on Wednesday as they gathered in Moscow for the third Russia-Africa Summit to discuss trade, security, arms deals and grain supplies as part of the Kremlin's strategic efforts to expand its footprint in Africa.",
-      "source_url": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa"
-    },
-    {
-      "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-28",
-      "description": "PM Abiy Ahmed makes announcement during a Moscow summit as Ethiopia battles armed groups in Tigray and Amhara.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss"
+      "host_country": "Canada",
+      "date": "2026-10-29",
+      "description": "Canada and the European Union will pursue closer ties but have dropped a proposal for associate EU membership, according to a joint declaration ahead of Thursday’s summit in Montreal. Prime Minister Mark Carney is seeking to reduce Canada’s reliance on the US, despite warnings from Donald Trump.",
+      "source_url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
     }
   ],
   "elections": [
@@ -89,8 +89,16 @@
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-29",
-      "description": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "description": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
+    },
+    {
+      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-29",
+      "description": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o"
     },
     {
       "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
@@ -115,15 +123,7 @@
       "date": "2026-10-28",
       "description": "Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have fled to the US.",
       "source_url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "From election defeat to Miami: What to know about Brazil's Bolsonaro's dramatic departure to the US",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-29",
-      "description": "Flávio Bolsonaro fled to Miami with his family after his defeat by Luiz Inácio Lula da Silva in Brazil’s presidential election. The 45-year-old ally of US President Donald Trump arrived in Florida on Wednesday, despite Brazil’s Supreme Court reportedly deeming him a flight risk amid ongoing corruption investigations and ordering his passports seized. FRANCE 24 International Affairs Editor Philip Turle explains what you need to know about the election and Bolsonaro’s departure.",
-      "source_url": "https://www.france24.com/en/video/20261029-from-election-defeat-to-miami-what-to-know-about-brazil-s-bolsonaro-s-dramatic-departure-to-the-us"
     }
   ],
-  "last_updated": "2026-10-29T11:59:15.133361+00:00"
+  "last_updated": "2026-10-29T18:09:33.489326+00:00"
 }
