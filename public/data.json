@@ -5,7 +5,7 @@
       "organization": "EU",
       "date": "2026-10-28",
       "location": "Canada",
-      "description": "A joint statement expected to be released at the 21st Canada-EU summit in Montreal on Friday will instead use softer language promising closer ties, according to the latest draft of the statement seen by CBC News.",
+      "description": "The words \"associate membership\" were removed from a joint statement expected to be released at this week's Canada-EU summit, according to a draft seen by CBC News.",
       "source_url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
     },
     {
@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
+      "visiting_leader": "",
+      "host_country": "Canada",
+      "date": "2026-10-29",
+      "description": "Canada and the European Union will pursue closer ties but have dropped a proposal for associate EU membership, according to a joint declaration ahead of Thursday’s summit in Montreal. Prime Minister Mark Carney is seeking to reduce Canada’s reliance on the US, despite warnings from Donald Trump.",
+      "source_url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
+    },
+    {
       "title": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
       "visiting_leader": "",
       "host_country": "Russia",
@@ -73,25 +81,9 @@
       "date": "2026-10-27",
       "description": "Canada and the United Arab Emirates signed a handful of trade and infrastructure agreements during the crown prince of Abu Dhabi's visit to Ottawa.",
       "source_url": "https://www.cbc.ca/news/politics/uae-canada-share-partnership-details-9.7397661"
-    },
-    {
-      "title": "King Charles confronts calls for slavery apology during Caribbean tour",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-27",
-      "description": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch, who is undergoing cancer treatment, will also visit Guyana and Antigua and Barbuda, highlighting climate threats and attending a Commonwealth summit with Queen Camilla.",
-      "source_url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour"
     }
   ],
   "elections": [
-    {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-28",
-      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
-    },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "country": "Global",
@@ -117,13 +109,21 @@
       "source_url": "https://www.cbc.ca/news/world/us-midterm-elections-latino-hispanic-voters-trump-9.7398181"
     },
     {
-      "title": "Will elections in Israel change its Iran approach?",
-      "country": "Global",
+      "title": "Flávio Bolsonaro and family to receive U.S. visas after leaving Brazil, State Department says",
+      "country": "Brazil",
       "election_type": "National",
       "date": "2026-10-27",
-      "description": "As Israelis head to the polls, the country's conflict with Iran casts a long shadow over the ballot box. But any leadership changes in Israel may not be enough to shake up its grand strategy on Tehran.",
-      "source_url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-world-4025-rdf"
+      "description": "Brazilian Senator Flávio Bolsonaro has left the country for the United States after losing Sunday's presidential election, three sources said on Tuesday afternoon, with the U.S. State Department due to grant him and his family entry visas.",
+      "source_url": "https://www.cbc.ca/news/world/brazil-bolsonaro-us-election-loss-9.7398364"
+    },
+    {
+      "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-28",
+      "description": "Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have fled to the US.",
+      "source_url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-28T22:01:25.007955+00:00"
+  "last_updated": "2026-10-29T03:34:31.987223+00:00"
 }
