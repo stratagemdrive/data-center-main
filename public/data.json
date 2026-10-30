@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-29",
+      "description": "As the King left the Bahamas his spokesman said the islands had \"a special place in the King's heart\".",
+      "source_url": "https://www.bbc.co.uk/news/articles/c893zev54341o"
+    },
+    {
       "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
       "visiting_leader": "",
       "host_country": "Canada",
@@ -59,46 +67,30 @@
       "source_url": "https://www.france24.com/en/video/20261029-spain-s-king-felipe-vi-and-queen-letizia-visit-injured-in-train-crash-at-toledo-hospital"
     },
     {
+      "title": "Does Russia offer African countries an equal partnership?",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-10-29",
+      "description": "President Vladimir Putin hosts African leaders at a summit in Moscow.",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss"
+    },
+    {
       "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
       "visiting_leader": "",
       "host_country": "Russia",
       "date": "2026-10-29",
       "description": "Russian President Vladimir Putin on Wednesday hosted dozens of African leaders at a Russia-Africa summit, part of Moscow’s efforts to expand its influence across the continent. The Russia-Africa summit marks a renewed Kremlin effort to bolster ties with a continent of nearly 1.6 billion people that is increasingly assertive on the global stage.",
       "source_url": "https://www.france24.com/en/video/20261029-putin-seeks-to-expand-ties-with-african-countries-at-russia-africa-summit"
-    },
-    {
-      "title": "Bahamas: King Charles III dances with locals during Caribbean visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-29",
-      "description": "King Charles III showed off his dance moves during a colourful Junkanoo street parade in Nassau, the capital of the Bahamas, on Wednesday, 28 October, as part of his first Caribbean tour since becoming monarch.",
-      "source_url": "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit"
-    },
-    {
-      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
-      "visiting_leader": "",
-      "host_country": "Canada",
-      "date": "2026-10-29",
-      "description": "Canada and the European Union will pursue closer ties but have dropped a proposal for associate EU membership, according to a joint declaration ahead of Thursday’s summit in Montreal. Prime Minister Mark Carney is seeking to reduce Canada’s reliance on the US, despite warnings from Donald Trump.",
-      "source_url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
     }
   ],
   "elections": [
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-29",
-      "description": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
-    },
-    {
-      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-29",
-      "description": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o"
+      "date": "2026-10-30",
+      "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo"
     },
     {
       "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
@@ -107,6 +99,14 @@
       "date": "2026-10-29",
       "description": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
       "source_url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
+    },
+    {
+      "title": "Dirty tricks or much ado about nothing? Why Alaska, for once, is front and centre in midterms",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-29",
+      "description": "Could a manoeuvre reportedly plotted by officials connected to Democratic candidate Mary Peltola backfire and cost the party in its attempt to regain control of the Senate in next week's midterms? Here's a look at the controversy surrounding two candidates named Dan Sullivan on the Senate ballot.",
+      "source_url": "https://www.cbc.ca/news/world/us-alaska-dan-sullivan-midterms-controversy-9.7400742"
     },
     {
       "title": "Spanish rescue workers search for any survivors in high-speed rail crash, with 69 dead",
@@ -125,5 +125,5 @@
       "source_url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-10-29T18:09:33.489326+00:00"
+  "last_updated": "2026-10-30T03:38:02.797137+00:00"
 }
