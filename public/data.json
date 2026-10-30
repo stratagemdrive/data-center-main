@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "King visits Guyanan slave rebellion site on Caribbean tour",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-30",
+      "description": "Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo"
+    },
+    {
       "title": "Police probe into ex-Prince Andrew and Epstein's visit to king's estate",
       "visiting_leader": "",
       "host_country": "Global",
@@ -67,20 +75,12 @@
       "source_url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital"
     },
     {
-      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
       "visiting_leader": "",
-      "host_country": "Global",
+      "host_country": "Russia",
       "date": "2026-10-30",
-      "description": "Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss"
-    },
-    {
-      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
-      "visiting_leader": "",
-      "host_country": "Canada",
-      "date": "2026-10-29",
-      "description": "Canadian Prime Minister Mark Carney has called Canada &ldquo;the most European of non-European countries&rdquo; early in President Donald Trump&rsquo;s trade war",
-      "source_url": "https://abcnews.com/International/wireStory/carney-hosts-eu-leaders-trump-pushes-canada-europe-137664172"
+      "description": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo"
     }
   ],
-  "last_updated": "2026-10-30T17:29:05.266256+00:00"
+  "last_updated": "2026-10-30T21:48:18.917610+00:00"
 }
