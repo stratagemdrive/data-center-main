@@ -1,12 +1,28 @@
 {
   "world_org_meetings": [
     {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "organization": "G20",
+      "date": "2026-10-30",
+      "location": "Russia",
+      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
+    },
+    {
       "title": "EU dropping associate membership title for its closer alliance with Canada",
       "organization": "EU",
       "date": "2026-10-28",
       "location": "Canada",
       "description": "The words \"associate membership\" were removed from a joint statement expected to be released at this week's Canada-EU summit, according to a draft seen by CBC News.",
       "source_url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
+    },
+    {
+      "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+      "organization": "G20",
+      "date": "2026-10-30",
+      "location": "Global",
+      "description": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
+      "source_url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation"
     },
     {
       "title": "Most nations at UN vote to condemn U.S. embargo on Cuba",
@@ -23,33 +39,9 @@
       "location": "Canada",
       "description": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
       "source_url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo"
-    },
-    {
-      "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-      "organization": "EU",
-      "date": "2026-10-28",
-      "location": "Canada",
-      "description": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss"
-    },
-    {
-      "title": "U.S. and Cuban officials get into shouting match on floor of United Nations",
-      "organization": "UN",
-      "date": "2026-10-27",
-      "location": "Global",
-      "description": "U.S. and Cuban officials engaged in a stunning shouting match on the floor of the United Nations General Assembly on Tuesday, the latest in a series of public spats between the longtime adversaries over Washington's escalating economic campaign against Havana.",
-      "source_url": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413"
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
-      "visiting_leader": "",
-      "host_country": "United Kingdom",
-      "date": "2026-10-29",
-      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
-      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
-    },
     {
       "title": "Police probe into ex-Prince Andrew and Epstein's visit to king's estate",
       "visiting_leader": "",
@@ -57,6 +49,14 @@
       "date": "2026-10-30",
       "description": "Police in Scotland are investigating former Prince Andrew's time at the king's estate at Balmoral with Jeffrey Epstein and Ghislaine Maxwell",
       "source_url": "https://abcnews.com/International/wireStory/scottish-police-conduct-inquiries-prince-andrew-epsteins-visit-137699453"
+    },
+    {
+      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
+      "visiting_leader": "",
+      "host_country": "United Kingdom",
+      "date": "2026-10-29",
+      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
+      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
     },
     {
       "title": "Spain: minute of silence for train crash victims as king visits hospital",
@@ -67,23 +67,39 @@
       "source_url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital"
     },
     {
+      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-30",
+      "description": "Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss"
+    },
+    {
       "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
       "visiting_leader": "",
       "host_country": "Canada",
       "date": "2026-10-29",
       "description": "Canadian Prime Minister Mark Carney has called Canada &ldquo;the most European of non-European countries&rdquo; early in President Donald Trump&rsquo;s trade war",
       "source_url": "https://abcnews.com/International/wireStory/carney-hosts-eu-leaders-trump-pushes-canada-europe-137664172"
-    },
-    {
-      "title": "Does Russia offer African countries an equal partnership?",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-10-29",
-      "description": "President Vladimir Putin hosts African leaders at a summit in Moscow.",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss"
     }
   ],
   "elections": [
+    {
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-30",
+      "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo"
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-30",
+      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
+    },
     {
       "title": "More than 43 million ballots cast so far in midterms early voting surge",
       "country": "Global",
@@ -107,23 +123,7 @@
       "date": "2026-10-30",
       "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
       "source_url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo"
-    },
-    {
-      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-29",
-      "description": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o"
-    },
-    {
-      "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-29",
-      "description": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
-      "source_url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
     }
   ],
-  "last_updated": "2026-10-30T11:53:02.016310+00:00"
+  "last_updated": "2026-10-30T17:29:05.266256+00:00"
 }
