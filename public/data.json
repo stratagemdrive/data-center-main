@@ -9,6 +9,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
     },
     {
+      "title": "Russia's presence divides G20 ministers",
+      "organization": "G20",
+      "date": "2026-10-31",
+      "location": "Russia",
+      "description": "The G20 foreign ministers’ meeting in the US is wrapping up two days of talks without agreement on several key global security issues. On the sidelines, US Secretary of State Marco Rubio signed an Arctic cooperation deal with Japan and South Korea and confirmed Washington’s participation in Riyadh’s World Expo in 2030. Meanwhile, European ministers confronted Russia’s Sergei Lavrov over the war in Ukraine and refused to join him for the traditional group photo. Jack Pownall reports.",
+      "source_url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers"
+    },
+    {
       "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
       "organization": "G20",
       "date": "2026-10-30",
@@ -31,14 +39,6 @@
       "location": "Global",
       "description": "The United Nations General Assembly overwhelmingly urged an ‌end to the decades-long U.S. economic embargo on Cuba on Wednesday, but a U.S. lobbying push led several countries to oppose the resolution or abstain for the first time in years.",
       "source_url": "https://www.cbc.ca/news/world/cuba-us-un-embargo-vote-9.7399998"
-    },
-    {
-      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-      "organization": "EU",
-      "date": "2026-10-29",
-      "location": "Canada",
-      "description": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo"
     }
   ],
   "diplomatic_visits": [
@@ -85,6 +85,14 @@
   ],
   "elections": [
     {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "country": "Spain",
+      "election_type": "National",
+      "date": "2026-10-31",
+      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo"
+    },
+    {
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "country": "Global",
       "election_type": "National",
@@ -101,29 +109,21 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
     },
     {
+      "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-31",
+      "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
+    },
+    {
       "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-30",
       "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
       "source_url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo"
-    },
-    {
-      "title": "Why MPs keep talking about an early election despite Burnham's denials",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-31",
-      "description": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do"
-    },
-    {
-      "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-29",
-      "description": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
-      "source_url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
     }
   ],
-  "last_updated": "2026-10-31T03:22:27.383615+00:00"
+  "last_updated": "2026-10-31T11:26:52.074965+00:00"
 }
