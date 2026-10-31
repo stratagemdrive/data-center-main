@@ -51,14 +51,6 @@
       "source_url": "https://abcnews.com/International/wireStory/scottish-police-conduct-inquiries-prince-andrew-epsteins-visit-137699453"
     },
     {
-      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
-      "visiting_leader": "",
-      "host_country": "United Kingdom",
-      "date": "2026-10-29",
-      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
-      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
-    },
-    {
       "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
       "visiting_leader": "",
       "host_country": "United Kingdom",
@@ -75,12 +67,20 @@
       "source_url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital"
     },
     {
-      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "title": "Bahamas: King Charles III dances with locals during Caribbean visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-29",
+      "description": "King Charles III showed off his dance moves during a colourful Junkanoo street parade in Nassau, the capital of the Bahamas, on Wednesday, 28 October, as part of his first Caribbean tour since becoming monarch.",
+      "source_url": "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit"
+    },
+    {
+      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
       "visiting_leader": "",
       "host_country": "Russia",
-      "date": "2026-10-30",
-      "description": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss"
+      "date": "2026-10-31",
+      "description": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+      "source_url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
     }
   ],
   "elections": [
@@ -109,21 +109,21 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
     },
     {
-      "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-30",
-      "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo"
-    },
-    {
       "title": "Why MPs keep talking about an early election despite Burnham's denials",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-31",
       "description": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
       "source_url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do"
+    },
+    {
+      "title": "Pope Leo votes in U.S. midterms, Vatican confirms",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-30",
+      "description": "The Vatican confirmed Friday that Pope Leo XIV had submitted a mail-in ballot in Chicago ahead of the Nov. 3 midterm elections, citing his long-standing belief in civic participation.",
+      "source_url": "https://www.cbc.ca/news/world/pope-leo-illinois-ballot-9.7402738"
     }
   ],
-  "last_updated": "2026-10-31T16:33:01.670706+00:00"
+  "last_updated": "2026-10-31T20:48:44.893896+00:00"
 }
