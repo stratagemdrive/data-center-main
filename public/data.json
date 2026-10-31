@@ -59,6 +59,14 @@
       "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
     },
     {
+      "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+      "visiting_leader": "",
+      "host_country": "United Kingdom",
+      "date": "2026-10-31",
+      "description": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit.",
+      "source_url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations"
+    },
+    {
       "title": "Spain: minute of silence for train crash victims as king visits hospital",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,14 +81,6 @@
       "date": "2026-10-30",
       "description": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss"
-    },
-    {
-      "title": "King visits Guyanan slave rebellion site on Caribbean tour",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-30",
-      "description": "Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo"
     }
   ],
   "elections": [
@@ -101,15 +101,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo"
     },
     {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-31",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
-    },
-    {
-      "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
       "country": "Global",
       "election_type": "National",
       "date": "2026-10-31",
@@ -123,7 +115,15 @@
       "date": "2026-10-30",
       "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
       "source_url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo"
+    },
+    {
+      "title": "Why MPs keep talking about an early election despite Burnham's denials",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-31",
+      "description": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do"
     }
   ],
-  "last_updated": "2026-10-31T11:26:52.074965+00:00"
+  "last_updated": "2026-10-31T16:33:01.670706+00:00"
 }
