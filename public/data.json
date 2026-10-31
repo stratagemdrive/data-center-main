@@ -5,16 +5,8 @@
       "organization": "G20",
       "date": "2026-10-30",
       "location": "Russia",
-      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
-    },
-    {
-      "title": "EU dropping associate membership title for its closer alliance with Canada",
-      "organization": "EU",
-      "date": "2026-10-28",
-      "location": "Canada",
-      "description": "The words \"associate membership\" were removed from a joint statement expected to be released at this week's Canada-EU summit, according to a draft seen by CBC News.",
-      "source_url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
     },
     {
       "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
@@ -23,6 +15,14 @@
       "location": "Global",
       "description": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
       "source_url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation"
+    },
+    {
+      "title": "EU dropping associate membership title for its closer alliance with Canada",
+      "organization": "EU",
+      "date": "2026-10-28",
+      "location": "Canada",
+      "description": "The words \"associate membership\" were removed from a joint statement expected to be released at this week's Canada-EU summit, according to a draft seen by CBC News.",
+      "source_url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
     },
     {
       "title": "Most nations at UN vote to condemn U.S. embargo on Cuba",
@@ -42,14 +42,6 @@
     }
   ],
   "diplomatic_visits": [
-    {
-      "title": "King visits Guyanan slave rebellion site on Caribbean tour",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-30",
-      "description": "Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo"
-    },
     {
       "title": "Police probe into ex-Prince Andrew and Epstein's visit to king's estate",
       "visiting_leader": "",
@@ -81,6 +73,14 @@
       "date": "2026-10-30",
       "description": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss"
+    },
+    {
+      "title": "King visits Guyanan slave rebellion site on Caribbean tour",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-30",
+      "description": "Hundreds of slaves were killed by colonial leaders in the Demerera rebellion of 1823, with many survivors executed.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c693zxw11x1wo"
     }
   ],
   "elections": [
@@ -96,25 +96,9 @@
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-30",
-      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "date": "2026-10-31",
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
-    },
-    {
-      "title": "More than 43 million ballots cast so far in midterms early voting surge",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-30",
-      "description": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko"
-    },
-    {
-      "title": "Voter voices: Which issues matter most to Americans?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-29",
-      "description": "As part of our Voter Voices series, the BBC asked Americans across the country what issue will influence how they vote.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo"
     },
     {
       "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
@@ -123,7 +107,23 @@
       "date": "2026-10-30",
       "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
       "source_url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo"
+    },
+    {
+      "title": "Why MPs keep talking about an early election despite Burnham's denials",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-31",
+      "description": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do"
+    },
+    {
+      "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-10-29",
+      "description": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
+      "source_url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
     }
   ],
-  "last_updated": "2026-10-30T21:48:18.917610+00:00"
+  "last_updated": "2026-10-31T03:22:27.383615+00:00"
 }
