@@ -17,20 +17,20 @@
       "source_url": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page"
     },
     {
-      "title": "Russia's presence divides G20 ministers",
-      "organization": "G20",
-      "date": "2026-10-31",
-      "location": "Russia",
-      "description": "The G20 foreign ministers’ meeting in the US is wrapping up two days of talks without agreement on several key global security issues. On the sidelines, US Secretary of State Marco Rubio signed an Arctic cooperation deal with Japan and South Korea and confirmed Washington’s participation in Riyadh’s World Expo in 2030. Meanwhile, European ministers confronted Russia’s Sergei Lavrov over the war in Ukraine and refused to join him for the traditional group photo. Jack Pownall reports.",
-      "source_url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers"
-    },
-    {
       "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
       "organization": "G20",
       "date": "2026-10-30",
       "location": "Global",
       "description": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
       "source_url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation"
+    },
+    {
+      "title": "Russia's presence divides G20 ministers",
+      "organization": "G20",
+      "date": "2026-10-31",
+      "location": "Russia",
+      "description": "The G20 foreign ministers’ meeting in the US is wrapping up two days of talks without agreement on several key global security issues. On the sidelines, US Secretary of State Marco Rubio signed an Arctic cooperation deal with Japan and South Korea and confirmed Washington’s participation in Riyadh’s World Expo in 2030. Meanwhile, European ministers confronted Russia’s Sergei Lavrov over the war in Ukraine and refused to join him for the traditional group photo. Jack Pownall reports.",
+      "source_url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers"
     },
     {
       "title": "EU dropping associate membership title for its closer alliance with Canada",
@@ -49,6 +49,14 @@
       "date": "2026-10-29",
       "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
       "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
+    },
+    {
+      "title": "Senegal hosts first Olympic event on African continent",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-01",
+      "description": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers.",
+      "source_url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent"
     },
     {
       "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
@@ -73,14 +81,6 @@
       "date": "2026-10-31",
       "description": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
       "source_url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
-    },
-    {
-      "title": "Police probe into ex-Prince Andrew and Epstein's visit to king's estate",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-30",
-      "description": "Police in Scotland are investigating former Prince Andrew's time at the king's estate at Balmoral with Jeffrey Epstein and Ghislaine Maxwell",
-      "source_url": "https://abcnews.com/International/wireStory/scottish-police-conduct-inquiries-prince-andrew-epsteins-visit-137699453"
     }
   ],
   "elections": [
@@ -91,6 +91,22 @@
       "date": "2026-11-01",
       "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
       "source_url": "https://www.bbc.co.uk/news/articles/c893z699q401o"
+    },
+    {
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-01",
+      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o"
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-01",
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
     },
     {
       "title": "Spain train disaster clouds Sánchez chances of re-election",
@@ -107,23 +123,7 @@
       "date": "2026-10-31",
       "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
       "source_url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
-    },
-    {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-01",
-      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o"
-    },
-    {
-      "title": "Pope Leo votes in U.S. midterms, Vatican confirms",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-30",
-      "description": "The Vatican confirmed Friday that Pope Leo XIV had submitted a mail-in ballot in Chicago ahead of the Nov. 3 midterm elections, citing his long-standing belief in civic participation.",
-      "source_url": "https://www.cbc.ca/news/world/pope-leo-illinois-ballot-9.7402738"
     }
   ],
-  "last_updated": "2026-11-01T03:22:10.560495+00:00"
+  "last_updated": "2026-11-01T12:21:08.822438+00:00"
 }
