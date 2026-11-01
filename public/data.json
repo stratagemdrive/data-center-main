@@ -43,14 +43,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
-      "visiting_leader": "",
-      "host_country": "United Kingdom",
-      "date": "2026-10-29",
-      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
-      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
-    },
-    {
       "title": "Senegal hosts first Olympic event on African continent",
       "visiting_leader": "",
       "host_country": "Global",
@@ -59,12 +51,12 @@
       "source_url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent"
     },
     {
-      "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+      "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
       "visiting_leader": "",
-      "host_country": "United Kingdom",
-      "date": "2026-10-31",
-      "description": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit.",
-      "source_url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations"
+      "host_country": "Global",
+      "date": "2026-11-01",
+      "description": "Switzerland is renewing direct talks with North Korea as tensions rise on the peninsula. Seoul hopes the Swiss office will help it engage with Pyongyang.",
+      "source_url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope"
     },
     {
       "title": "Spain: minute of silence for train crash victims as king visits hospital",
@@ -75,22 +67,30 @@
       "source_url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital"
     },
     {
-      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
       "visiting_leader": "",
-      "host_country": "Russia",
+      "host_country": "United Kingdom",
+      "date": "2026-10-29",
+      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
+      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
+    },
+    {
+      "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+      "visiting_leader": "",
+      "host_country": "United Kingdom",
       "date": "2026-10-31",
-      "description": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
-      "source_url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
+      "description": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit.",
+      "source_url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations"
     }
   ],
   "elections": [
     {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-01",
-      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c893z699q401o"
+      "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o"
     },
     {
       "title": "Judge orders Trump administration to stop threatening US election officials",
@@ -125,5 +125,5 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
     }
   ],
-  "last_updated": "2026-11-01T12:21:08.822438+00:00"
+  "last_updated": "2026-11-01T21:30:07.552569+00:00"
 }
