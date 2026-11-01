@@ -9,6 +9,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
     },
     {
+      "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+      "organization": "G20",
+      "date": "2026-10-31",
+      "location": "Global",
+      "description": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
+      "source_url": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page"
+    },
+    {
       "title": "Russia's presence divides G20 ministers",
       "organization": "G20",
       "date": "2026-10-31",
@@ -31,24 +39,16 @@
       "location": "Canada",
       "description": "The words \"associate membership\" were removed from a joint statement expected to be released at this week's Canada-EU summit, according to a draft seen by CBC News.",
       "source_url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
-    },
-    {
-      "title": "Most nations at UN vote to condemn U.S. embargo on Cuba",
-      "organization": "UN",
-      "date": "2026-10-28",
-      "location": "Global",
-      "description": "The United Nations General Assembly overwhelmingly urged an ‌end to the decades-long U.S. economic embargo on Cuba on Wednesday, but a U.S. lobbying push led several countries to oppose the resolution or abstain for the first time in years.",
-      "source_url": "https://www.cbc.ca/news/world/cuba-us-un-embargo-vote-9.7399998"
     }
   ],
   "diplomatic_visits": [
     {
-      "title": "Police probe into ex-Prince Andrew and Epstein's visit to king's estate",
+      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
       "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-30",
-      "description": "Police in Scotland are investigating former Prince Andrew's time at the king's estate at Balmoral with Jeffrey Epstein and Ghislaine Maxwell",
-      "source_url": "https://abcnews.com/International/wireStory/scottish-police-conduct-inquiries-prince-andrew-epsteins-visit-137699453"
+      "host_country": "United Kingdom",
+      "date": "2026-10-29",
+      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
+      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
     },
     {
       "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
@@ -67,23 +67,31 @@
       "source_url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital"
     },
     {
-      "title": "Bahamas: King Charles III dances with locals during Caribbean visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-29",
-      "description": "King Charles III showed off his dance moves during a colourful Junkanoo street parade in Nassau, the capital of the Bahamas, on Wednesday, 28 October, as part of his first Caribbean tour since becoming monarch.",
-      "source_url": "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit"
-    },
-    {
       "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
       "visiting_leader": "",
       "host_country": "Russia",
       "date": "2026-10-31",
       "description": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
       "source_url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
+    },
+    {
+      "title": "Police probe into ex-Prince Andrew and Epstein's visit to king's estate",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-10-30",
+      "description": "Police in Scotland are investigating former Prince Andrew's time at the king's estate at Balmoral with Jeffrey Epstein and Ghislaine Maxwell",
+      "source_url": "https://abcnews.com/International/wireStory/scottish-police-conduct-inquiries-prince-andrew-epsteins-visit-137699453"
     }
   ],
   "elections": [
+    {
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-01",
+      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c893z699q401o"
+    },
     {
       "title": "Spain train disaster clouds Sánchez chances of re-election",
       "country": "Spain",
@@ -91,14 +99,6 @@
       "date": "2026-10-31",
       "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo"
-    },
-    {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-30",
-      "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo"
     },
     {
       "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
@@ -109,12 +109,12 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
     },
     {
-      "title": "Why MPs keep talking about an early election despite Burnham's denials",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-10-31",
-      "description": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do"
+      "date": "2026-11-01",
+      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o"
     },
     {
       "title": "Pope Leo votes in U.S. midterms, Vatican confirms",
@@ -125,5 +125,5 @@
       "source_url": "https://www.cbc.ca/news/world/pope-leo-illinois-ballot-9.7402738"
     }
   ],
-  "last_updated": "2026-10-31T20:48:44.893896+00:00"
+  "last_updated": "2026-11-01T03:22:10.560495+00:00"
 }
