@@ -1,14 +1,6 @@
 {
   "world_org_meetings": [
     {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "organization": "G20",
-      "date": "2026-10-30",
-      "location": "Russia",
-      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
-    },
-    {
       "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
       "organization": "G20",
       "date": "2026-10-31",
@@ -23,6 +15,14 @@
       "location": "Global",
       "description": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
       "source_url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "organization": "G20",
+      "date": "2026-10-30",
+      "location": "Russia",
+      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
     },
     {
       "title": "Russia's presence divides G20 ministers",
@@ -85,14 +85,6 @@
   ],
   "elections": [
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-01",
-      "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o"
-    },
-    {
       "title": "Judge orders Trump administration to stop threatening US election officials",
       "country": "Global",
       "election_type": "National",
@@ -123,7 +115,15 @@
       "date": "2026-10-31",
       "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
       "source_url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
+    },
+    {
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-02",
+      "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do"
     }
   ],
-  "last_updated": "2026-11-01T21:30:07.552569+00:00"
+  "last_updated": "2026-11-02T03:31:46.564854+00:00"
 }
