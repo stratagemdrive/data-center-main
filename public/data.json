@@ -43,20 +43,20 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Senegal hosts first Olympic event on African continent",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-01",
-      "description": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers.",
-      "source_url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent"
-    },
-    {
       "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-11-01",
       "description": "Switzerland is renewing direct talks with North Korea as tensions rise on the peninsula. Seoul hopes the Swiss office will help it engage with Pyongyang.",
       "source_url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope"
+    },
+    {
+      "title": "Senegal hosts first Olympic event on African continent",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-01",
+      "description": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers.",
+      "source_url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent"
     },
     {
       "title": "Spain: minute of silence for train crash victims as king visits hospital",
@@ -101,29 +101,29 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
     },
     {
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "country": "Spain",
-      "election_type": "National",
-      "date": "2026-10-31",
-      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo"
-    },
-    {
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-10-31",
-      "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
-    },
-    {
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "title": "Democrats have high hopes for midterms - but are the polls right?",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-02",
       "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do"
+    },
+    {
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-01",
+      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c893z699q401o"
+    },
+    {
+      "title": "What Americans are voting for in this election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-02",
+      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo"
     }
   ],
-  "last_updated": "2026-11-02T03:31:46.564854+00:00"
+  "last_updated": "2026-11-02T14:16:10.385752+00:00"
 }
