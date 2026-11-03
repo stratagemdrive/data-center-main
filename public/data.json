@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "organization": "EU",
+      "date": "2026-11-03",
+      "location": "Global",
+      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
+    },
+    {
       "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
       "organization": "G20",
       "date": "2026-10-31",
@@ -31,14 +39,6 @@
       "location": "Russia",
       "description": "The G20 foreign ministers’ meeting in the US is wrapping up two days of talks without agreement on several key global security issues. On the sidelines, US Secretary of State Marco Rubio signed an Arctic cooperation deal with Japan and South Korea and confirmed Washington’s participation in Riyadh’s World Expo in 2030. Meanwhile, European ministers confronted Russia’s Sergei Lavrov over the war in Ukraine and refused to join him for the traditional group photo. Jack Pownall reports.",
       "source_url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers"
-    },
-    {
-      "title": "EU dropping associate membership title for its closer alliance with Canada",
-      "organization": "EU",
-      "date": "2026-10-28",
-      "location": "Canada",
-      "description": "The words \"associate membership\" were removed from a joint statement expected to be released at this week's Canada-EU summit, according to a draft seen by CBC News.",
-      "source_url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578"
     }
   ],
   "diplomatic_visits": [
@@ -51,20 +51,20 @@
       "source_url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Israeli 'unity government': Efrat Shapira expects Herzog will urge rival camps to form a 'coalition'",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-02",
-      "description": "Erin Ogunkeye is pleased to welcome Efrat Shapira Rosenberg, Israeli Radio/TV Host, Columnist, Podcaster and Educator. Following a deadlocked Israeli election, “everyone is saying who they’re not going to sit with, but no one is actually saying who they will sit with.” As President Isaac Herzog prepares to consult parliamentary factions over the formation of a new coalition, the impasse reveals tensions that extend beyond the familiar confrontation between Benjamin Netanyahu and his political opponents. According to Shapira, co-host of the highly popular Israeli politics podcast Miflaget Hamakshavot, the divisions are equally pronounced within the opposition bloc supporting Gadi Eisenkot.",
-      "source_url": "https://www.france24.com/en/israeli-unity-government-efrat-shapira-expects-herzog-will-urge-rival-camps-to-form-a-coalition"
-    },
-    {
       "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-11-01",
       "description": "Switzerland is renewing direct talks with North Korea as tensions rise on the peninsula. Seoul hopes the Swiss office will help it engage with Pyongyang.",
       "source_url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope"
+    },
+    {
+      "title": "Israeli 'unity government': Efrat Shapira expects Herzog will urge rival camps to form a 'coalition'",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-02",
+      "description": "Erin Ogunkeye is pleased to welcome Efrat Shapira Rosenberg, Israeli Radio/TV Host, Columnist, Podcaster and Educator. Following a deadlocked Israeli election, “everyone is saying who they’re not going to sit with, but no one is actually saying who they will sit with.” As President Isaac Herzog prepares to consult parliamentary factions over the formation of a new coalition, the impasse reveals tensions that extend beyond the familiar confrontation between Benjamin Netanyahu and his political opponents. According to Shapira, co-host of the highly popular Israeli politics podcast Miflaget Hamakshavot, the divisions are equally pronounced within the opposition bloc supporting Gadi Eisenkot.",
+      "source_url": "https://www.france24.com/en/israeli-unity-government-efrat-shapira-expects-herzog-will-urge-rival-camps-to-form-a-coalition"
     },
     {
       "title": "Senegal hosts first Olympic event on African continent",
@@ -85,20 +85,12 @@
   ],
   "elections": [
     {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-01",
-      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o"
-    },
-    {
-      "title": "What are Americans voting for in this election?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-02",
-      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo"
+      "date": "2026-11-03",
+      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko"
     },
     {
       "title": "Democrats have high hopes for midterms - but are the polls right?",
@@ -109,21 +101,29 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do"
     },
     {
+      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-03",
+      "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o"
+    },
+    {
       "title": "A simple guide to the midterms",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "description": "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.",
       "source_url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po"
     },
     {
-      "title": "U.S. Supreme Court rejects Trump administration's bid to set aside California mail ballots",
+      "title": "When will we know the results?",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-02",
-      "description": "The U.S. Supreme Court on Monday rejected a push for California to set aside thousands of mail ballots from people U.S. President Donald Trump's administration claims are non-citizens, a decision that comes on the eve of the final day of voting in the pivotal midterm elections.",
-      "source_url": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838"
+      "date": "2026-11-03",
+      "description": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo"
     }
   ],
-  "last_updated": "2026-11-03T00:13:02.846619+00:00"
+  "last_updated": "2026-11-03T13:16:56.641980+00:00"
 }
