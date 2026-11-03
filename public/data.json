@@ -43,20 +43,20 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
-      "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-11-02",
-      "description": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
-      "source_url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-world-4025-rdf"
-    },
-    {
       "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-11-01",
       "description": "Switzerland is renewing direct talks with North Korea as tensions rise on the peninsula. Seoul hopes the Swiss office will help it engage with Pyongyang.",
       "source_url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope"
+    },
+    {
+      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-11-02",
+      "description": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
+      "source_url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Israeli 'unity government': Efrat Shapira expects Herzog will urge rival camps to form a 'coalition'",
@@ -125,5 +125,5 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo"
     }
   ],
-  "last_updated": "2026-11-03T13:16:56.641980+00:00"
+  "last_updated": "2026-11-03T22:42:49.130626+00:00"
 }
