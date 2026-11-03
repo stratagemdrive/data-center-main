@@ -43,6 +43,22 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
+      "visiting_leader": "",
+      "host_country": "Germany",
+      "date": "2026-11-02",
+      "description": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
+      "source_url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Israeli 'unity government': Efrat Shapira expects Herzog will urge rival camps to form a 'coalition'",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-02",
+      "description": "Erin Ogunkeye is pleased to welcome Efrat Shapira Rosenberg, Israeli Radio/TV Host, Columnist, Podcaster and Educator. Following a deadlocked Israeli election, “everyone is saying who they’re not going to sit with, but no one is actually saying who they will sit with.” As President Isaac Herzog prepares to consult parliamentary factions over the formation of a new coalition, the impasse reveals tensions that extend beyond the familiar confrontation between Benjamin Netanyahu and his political opponents. According to Shapira, co-host of the highly popular Israeli politics podcast Miflaget Hamakshavot, the divisions are equally pronounced within the opposition bloc supporting Gadi Eisenkot.",
+      "source_url": "https://www.france24.com/en/israeli-unity-government-efrat-shapira-expects-herzog-will-urge-rival-camps-to-form-a-coalition"
+    },
+    {
       "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
       "visiting_leader": "",
       "host_country": "Global",
@@ -65,22 +81,6 @@
       "date": "2026-10-29",
       "description": "Spain is mourning 69 people killed in a high-speed train collision near Toledo. As King Felipe VI visits a hospital treating the injured, rescuers continue searching the wreckage and a minute of silence is held at the crash site.",
       "source_url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital"
-    },
-    {
-      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
-      "visiting_leader": "",
-      "host_country": "United Kingdom",
-      "date": "2026-10-29",
-      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
-      "source_url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812"
-    },
-    {
-      "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
-      "visiting_leader": "",
-      "host_country": "United Kingdom",
-      "date": "2026-10-31",
-      "description": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit.",
-      "source_url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations"
     }
   ],
   "elections": [
@@ -93,12 +93,12 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o"
     },
     {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "title": "What are Americans voting for in this election?",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-01",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
+      "date": "2026-11-02",
+      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo"
     },
     {
       "title": "Democrats have high hopes for midterms - but are the polls right?",
@@ -109,21 +109,21 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do"
     },
     {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-01",
-      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c893z699q401o"
-    },
-    {
-      "title": "What Americans are voting for in this election",
+      "title": "A simple guide to the midterms",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-02",
-      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo"
+      "description": "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po"
+    },
+    {
+      "title": "U.S. Supreme Court rejects Trump administration's bid to set aside California mail ballots",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-02",
+      "description": "The U.S. Supreme Court on Monday rejected a push for California to set aside thousands of mail ballots from people U.S. President Donald Trump's administration claims are non-citizens, a decision that comes on the eve of the final day of voting in the pivotal midterm elections.",
+      "source_url": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838"
     }
   ],
-  "last_updated": "2026-11-02T14:16:10.385752+00:00"
+  "last_updated": "2026-11-03T00:13:02.846619+00:00"
 }
