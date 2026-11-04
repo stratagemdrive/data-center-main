@@ -43,6 +43,14 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Jimmy Kimmel roasts Trump in late night monologue amid 'blue tsunami' midterms",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-04",
+      "description": "Late night host Jimmy Kimmel had some choice words for U.S. President Donald Trump last night as a “blue tsunami” stormed the country during the U.S. elections, quipping in the monologue of ABC's Jimmy Kimmel Live! that Trump was \"already running out of dipping sauce containers to throw at the television set.\"",
+      "source_url": "https://www.cbc.ca/news/entertainment/jimmy-kimmel-monologue-slams-donald-trump-9.7409167"
+    },
+    {
       "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,25 +81,9 @@
       "date": "2026-11-01",
       "description": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers.",
       "source_url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent"
-    },
-    {
-      "title": "Spain: minute of silence for train crash victims as king visits hospital",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-10-29",
-      "description": "Spain is mourning 69 people killed in a high-speed train collision near Toledo. As King Felipe VI visits a hospital treating the injured, rescuers continue searching the wreckage and a minute of silence is held at the crash site.",
-      "source_url": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital"
     }
   ],
   "elections": [
-    {
-      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-04",
-      "description": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo"
-    },
     {
       "title": "ANC under pressure to reverse South Africa decline",
       "country": "Global",
@@ -99,6 +91,14 @@
       "date": "2026-11-04",
       "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
       "source_url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo"
+    },
+    {
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-04",
+      "description": "Democrats can vote legislation through. But Trump still has veto power.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo"
     },
     {
       "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
@@ -109,12 +109,12 @@
       "source_url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
     },
     {
-      "title": "U.S. Supreme Court rejects Trump administration's bid to set aside California mail ballots",
+      "title": "Elon Musk gets little bang for his buck in U.S. midterms, with possible Democratic investigations to come",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-02",
-      "description": "The U.S. Supreme Court on Monday rejected a push for California to set aside thousands of mail ballots from people U.S. President Donald Trump's administration claims are non-citizens, a decision that comes on the eve of the final day of voting in the pivotal midterm elections.",
-      "source_url": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838"
+      "date": "2026-11-04",
+      "description": "As Republicans suffered a landslide defeat and Texas elected its first Democratic governor in more than three decades, one of the biggest losers of the U.S. midterms was not on the ballot: billionaire Elon Musk.",
+      "source_url": "https://www.cbc.ca/news/world/us-midterms-elon-musk-9.7409000"
     },
     {
       "title": "South Africans vote in local elections that could continue decline of ANC",
@@ -125,5 +125,5 @@
       "source_url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623"
     }
   ],
-  "last_updated": "2026-11-04T13:29:52.272771+00:00"
+  "last_updated": "2026-11-04T23:00:13.363817+00:00"
 }
