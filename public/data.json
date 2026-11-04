@@ -85,12 +85,12 @@
   ],
   "elections": [
     {
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-03",
-      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko"
+      "date": "2026-11-04",
+      "description": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo"
     },
     {
       "title": "ANC under pressure to reverse South Africa decline",
@@ -101,14 +101,6 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo"
     },
     {
-      "title": "When will we know who wins control of Congress?",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-04",
-      "description": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo"
-    },
-    {
       "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
       "country": "Global",
       "election_type": "National",
@@ -117,13 +109,21 @@
       "source_url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
     },
     {
-      "title": "Why South Africa's local elections matter",
+      "title": "U.S. Supreme Court rejects Trump administration's bid to set aside California mail ballots",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-03",
-      "description": "South Africans head to the polls on Wednesday amid water shortages, frustration with local services and questions over whether the ANC's support will keep falling.",
-      "source_url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-11-02",
+      "description": "The U.S. Supreme Court on Monday rejected a push for California to set aside thousands of mail ballots from people U.S. President Donald Trump's administration claims are non-citizens, a decision that comes on the eve of the final day of voting in the pivotal midterm elections.",
+      "source_url": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838"
+    },
+    {
+      "title": "South Africans vote in local elections that could continue decline of ANC",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-04",
+      "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
+      "source_url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623"
     }
   ],
-  "last_updated": "2026-11-04T03:58:53.633246+00:00"
+  "last_updated": "2026-11-04T13:29:52.272771+00:00"
 }
