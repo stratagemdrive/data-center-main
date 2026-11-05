@@ -43,7 +43,7 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Melania Trump is preparing to host officials from Russia and Ukraine. Just what's behind her peace push?",
+      "title": "Melania Trump hosted officials from Russia and Ukraine. Just what's behind her peace push?",
       "visiting_leader": "",
       "host_country": "Russia",
       "date": "2026-11-05",
@@ -51,20 +51,12 @@
       "source_url": "https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316"
     },
     {
-      "title": "Jimmy Kimmel roasts Trump in late night monologue amid 'blue tsunami' midterms",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-04",
-      "description": "Late night host Jimmy Kimmel had some choice words for U.S. President Donald Trump last night as a “blue tsunami” stormed the country during the U.S. elections, quipping in the monologue of ABC's Jimmy Kimmel Live! that Trump was \"already running out of dipping sauce containers to throw at the television set.\"",
-      "source_url": "https://www.cbc.ca/news/entertainment/jimmy-kimmel-monologue-slams-donald-trump-9.7409167"
-    },
-    {
-      "title": "Zelensky in Spain for talks with world leaders as Kyiv seeks to strengthen air defences",
+      "title": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
       "visiting_leader": "",
       "host_country": "Ukraine",
       "date": "2026-11-05",
-      "description": "Ukrainian President Volodymyr Zelensky made a surprise visit to Madrid on Wednesday to drum up fresh military support against Russia during a summit of Latin American leaders in Spain. Madrid is hosting a two-day summit of the Ibero-American Community, a 22-nation group of Spanish and Portuguese-speaking countries where support for Ukraine since Russia's 2022 invasion has divided opinion. FRANCE 24's Kyiv correspondent, Emmanuelle Chaze reports.",
-      "source_url": "https://www.france24.com/en/video/20261105-zelensky-in-spain-for-talks-with-world-leaders-as-kyiv-seeks-to-strengthen-air-defences"
+      "description": "Ukrainian President Volodymyr Zelensky has appealed to Spain and Latin American countries for urgent help repairing Ukraine's damaged energy infrastructure. He also met King Felipe VI during the Ibero-American Summit in Madrid.",
+      "source_url": "https://www.euronews.com/video/2026/11/05/spain-zelensky-urges-latin-america-to-help-repair-ukraines-power-grid"
     },
     {
       "title": "Milei and Sánchez exchange a cold greeting at Ibero-American Summit",
@@ -75,23 +67,23 @@
       "source_url": "https://www.euronews.com/2026/11/05/milei-and-sanchez-exchange-a-cold-greeting-at-ibero-american-summit"
     },
     {
-      "title": "Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder",
+      "title": "US First Lady Melania Trump to host Ukrainian and Russian officials at White House",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-11-05",
+      "description": "On Wednesday, Ukraine's President Volodymyr Zelenskyy awarded the first lady a national honour for her role in brokering a partial ceasefire that allowed the evacuation of civilians from a Russian-occupied town.",
+      "source_url": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
+    },
+    {
+      "title": "Jimmy Kimmel roasts Trump in late night monologue amid 'blue tsunami' midterms",
       "visiting_leader": "",
       "host_country": "Global",
       "date": "2026-11-04",
-      "description": "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro"
+      "description": "Late night host Jimmy Kimmel had some choice words for U.S. President Donald Trump last night as a “blue tsunami” stormed the country during the U.S. elections, quipping in the monologue of ABC's Jimmy Kimmel Live! that Trump was \"already running out of dipping sauce containers to throw at the television set.\"",
+      "source_url": "https://www.cbc.ca/news/entertainment/jimmy-kimmel-monologue-slams-donald-trump-9.7409167"
     }
   ],
   "elections": [
-    {
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-04",
-      "description": "Democrats can vote legislation through. But Trump still has veto power.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo"
-    },
     {
       "title": "ANC under pressure to reverse South Africa decline",
       "country": "Global",
@@ -101,15 +93,7 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo"
     },
     {
-      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-03",
-      "description": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
-      "source_url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
-    },
-    {
-      "title": "Ohio and Texas went from red to blue in the midterms, but may not stay that way in 2028",
+      "title": "Ohio and Texas went from red to blue in the midterms but may not stay that way in 2028",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-05",
@@ -117,13 +101,29 @@
       "source_url": "https://www.cbc.ca/news/world/texas-ohio-midterm-results-9.7409481"
     },
     {
-      "title": "Elon Musk gets little bang for his buck in U.S. midterms, with possible Democratic investigations to come",
+      "title": "Small eastern Caribbean archipelago seeking slavery reparations holds general election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-04",
-      "description": "As Republicans suffered a landslide defeat and Texas elected its first Democratic governor in more than three decades, one of the biggest losers of the U.S. midterms was not on the ballot: billionaire Elon Musk.",
-      "source_url": "https://www.cbc.ca/news/world/us-midterms-elon-musk-9.7409000"
+      "date": "2026-11-05",
+      "description": "Grenada and other eastern Caribbean islands are voting in general elections",
+      "source_url": "https://abcnews.com/International/wireStory/small-eastern-caribbean-archipelago-seeking-slavery-reparations-holds-137879620"
+    },
+    {
+      "title": "Arrests and investigations as Serbia begins post-election clean-up",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-05",
+      "description": "The landslide victory of the Students' List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward.",
+      "source_url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+      "title": "Iran signals satisfaction, skepticism after US midterm vote",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-05",
+      "description": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
+      "source_url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-05T13:44:21.573232+00:00"
+  "last_updated": "2026-11-05T23:02:45.743849+00:00"
 }
