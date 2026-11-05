@@ -43,12 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder",
+      "title": "Melania Trump is preparing to host officials from Russia and Ukraine. Just what's behind her peace push?",
       "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-04",
-      "description": "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro"
+      "host_country": "Russia",
+      "date": "2026-11-05",
+      "description": "As President Donald Trump and his fellow Republicans take stock after a devastating midterm election that saw the Democrats seize control of Congress, his wife Melania is preparing to host representatives who will almost certainly praise Washington's actions.",
+      "source_url": "https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316"
     },
     {
       "title": "Jimmy Kimmel roasts Trump in late night monologue amid 'blue tsunami' midterms",
@@ -59,28 +59,28 @@
       "source_url": "https://www.cbc.ca/news/entertainment/jimmy-kimmel-monologue-slams-donald-trump-9.7409167"
     },
     {
-      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+      "title": "Zelensky in Spain for talks with world leaders as Kyiv seeks to strengthen air defences",
       "visiting_leader": "",
-      "host_country": "Global",
+      "host_country": "Ukraine",
       "date": "2026-11-05",
-      "description": "Defence cooperation deal signed as Syria&#039;s President al-Sharaa visits Riyadh for the second time in less than a month.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss"
+      "description": "Ukrainian President Volodymyr Zelensky made a surprise visit to Madrid on Wednesday to drum up fresh military support against Russia during a summit of Latin American leaders in Spain. Madrid is hosting a two-day summit of the Ibero-American Community, a 22-nation group of Spanish and Portuguese-speaking countries where support for Ukraine since Russia's 2022 invasion has divided opinion. FRANCE 24's Kyiv correspondent, Emmanuelle Chaze reports.",
+      "source_url": "https://www.france24.com/en/video/20261105-zelensky-in-spain-for-talks-with-world-leaders-as-kyiv-seeks-to-strengthen-air-defences"
     },
     {
-      "title": "Swiss foreign minister makes first North Korea visit since 2003 as diplomatic office reopens",
+      "title": "Milei and Sánchez exchange a cold greeting at Ibero-American Summit",
+      "visiting_leader": "",
+      "host_country": "United States",
+      "date": "2026-11-05",
+      "description": "Argentine President Javier Milei and Spanish Prime Minister Pedro Sánchez exchanged a brief and frosty greeting at the Ibero-American Summit in Madrid on Wednesday. Their encounter comes two weeks after Milei called Sánchez an “unpresentable dictator”.",
+      "source_url": "https://www.euronews.com/2026/11/05/milei-and-sanchez-exchange-a-cold-greeting-at-ibero-american-summit"
+    },
+    {
+      "title": "Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-11-01",
-      "description": "Switzerland is renewing direct talks with North Korea as tensions rise on the peninsula. Seoul hopes the Swiss office will help it engage with Pyongyang.",
-      "source_url": "https://www.euronews.com/2026/11/01/swiss-foreign-minister-makes-first-north-korea-visit-since-2003-as-diplomatic-office-reope"
-    },
-    {
-      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
-      "visiting_leader": "",
-      "host_country": "Germany",
-      "date": "2026-11-02",
-      "description": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
-      "source_url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-11-04",
+      "description": "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro"
     }
   ],
   "elections": [
@@ -93,6 +93,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo"
     },
     {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-04",
+      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo"
+    },
+    {
       "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
       "country": "Global",
       "election_type": "National",
@@ -101,29 +109,21 @@
       "source_url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
     },
     {
+      "title": "Ohio and Texas went from red to blue in the midterms, but may not stay that way in 2028",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-05",
+      "description": "The Democrats flipping governorships and Senate seats in Texas and Ohio turned the states dramatically blue on election night. Some political observers say these wins don't necessarily mean the states will stay that colour, but they do reveal a new political reality — that they'll be electoral battlegrounds in the 2028 presidential election.",
+      "source_url": "https://www.cbc.ca/news/world/texas-ohio-midterm-results-9.7409481"
+    },
+    {
       "title": "Elon Musk gets little bang for his buck in U.S. midterms, with possible Democratic investigations to come",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-04",
       "description": "As Republicans suffered a landslide defeat and Texas elected its first Democratic governor in more than three decades, one of the biggest losers of the U.S. midterms was not on the ballot: billionaire Elon Musk.",
       "source_url": "https://www.cbc.ca/news/world/us-midterms-elon-musk-9.7409000"
-    },
-    {
-      "title": "South Africans vote in local elections that could continue decline of ANC",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-04",
-      "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
-      "source_url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623"
-    },
-    {
-      "title": "Why South Africa's local elections matter",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-03",
-      "description": "South Africans head to the polls on Wednesday amid water shortages, frustration with local services and questions over whether the ANC's support will keep falling.",
-      "source_url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-05T04:20:46.595016+00:00"
+  "last_updated": "2026-11-05T13:44:21.573232+00:00"
 }
