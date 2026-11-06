@@ -85,12 +85,20 @@
   ],
   "elections": [
     {
-      "title": "ANC under pressure to reverse South Africa decline",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-04",
-      "description": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo"
+      "date": "2026-11-06",
+      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o"
+    },
+    {
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-05",
+      "description": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "source_url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o"
     },
     {
       "title": "Ohio and Texas went from red to blue in the midterms but may not stay that way in 2028",
@@ -115,15 +123,7 @@
       "date": "2026-11-05",
       "description": "The landslide victory of the Students' List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward.",
       "source_url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Iran signals satisfaction, skepticism after US midterm vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-05",
-      "description": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
-      "source_url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-05T23:02:45.743849+00:00"
+  "last_updated": "2026-11-06T04:18:36.370587+00:00"
 }
