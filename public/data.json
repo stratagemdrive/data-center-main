@@ -85,20 +85,12 @@
   ],
   "elections": [
     {
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "title": "Four midterms takeaways for 2028 White House race",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-06",
-      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o"
-    },
-    {
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-05",
-      "description": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "source_url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o"
+      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
     },
     {
       "title": "Ohio and Texas went from red to blue in the midterms but may not stay that way in 2028",
@@ -109,21 +101,29 @@
       "source_url": "https://www.cbc.ca/news/world/texas-ohio-midterm-results-9.7409481"
     },
     {
-      "title": "Small eastern Caribbean archipelago seeking slavery reparations holds general election",
+      "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
+      "country": "United States",
+      "election_type": "National",
+      "date": "2026-11-06",
+      "description": "Pope Leo XIV says that he was &ldquo;proud to be an American and to exercise the right&rdquo; to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies",
+      "source_url": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797"
+    },
+    {
+      "title": "Arrests and investigations as Serbia begins postelection cleanup",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-05",
-      "description": "Grenada and other eastern Caribbean islands are voting in general elections",
-      "source_url": "https://abcnews.com/International/wireStory/small-eastern-caribbean-archipelago-seeking-slavery-reparations-holds-137879620"
+      "description": "The landslide victory of the Student List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward.",
+      "source_url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652?maca=en-rss-en-world-4025-rdf"
     },
     {
-      "title": "Myanmar to hold by-elections in April, including in areas where fighting persists",
+      "title": "Iran signals satisfaction, skepticism after US midterm vote",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-06",
-      "description": "Myanmar will hold special elections next April in its first vote since this year's general election that critics said was designed to cement military rule",
-      "source_url": "https://abcnews.com/International/wireStory/myanmar-hold-elections-april-including-areas-fighting-persists-137903196"
+      "date": "2026-11-05",
+      "description": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
+      "source_url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-06T13:28:39.800192+00:00"
+  "last_updated": "2026-11-06T22:32:40.693928+00:00"
 }
