@@ -43,14 +43,6 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "Melania Trump hosted officials from Russia and Ukraine. Just what's behind her peace push?",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-11-05",
-      "description": "As President Donald Trump and his fellow Republicans take stock after a devastating midterm election that saw the Democrats seize control of Congress, his wife Melania is preparing to host representatives who will almost certainly praise Washington's actions.",
-      "source_url": "https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316"
-    },
-    {
       "title": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
       "visiting_leader": "",
       "host_country": "Ukraine",
@@ -75,6 +67,14 @@
       "source_url": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
     },
     {
+      "title": "Melania Trump hosted officials from Russia and Ukraine. Just what's behind her peace push?",
+      "visiting_leader": "",
+      "host_country": "Russia",
+      "date": "2026-11-05",
+      "description": "As President Donald Trump and his fellow Republicans take stock after a devastating midterm election that saw the Democrats seize control of Congress, his wife Melania is preparing to host representatives who will almost certainly praise Washington's actions.",
+      "source_url": "https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316"
+    },
+    {
       "title": "Jimmy Kimmel roasts Trump in late night monologue amid 'blue tsunami' midterms",
       "visiting_leader": "",
       "host_country": "Global",
@@ -93,12 +93,12 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
     },
     {
-      "title": "Ohio and Texas went from red to blue in the midterms but may not stay that way in 2028",
+      "title": "Cornell faculty vote no confidence in university's leadership",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-05",
-      "description": "The Democrats flipping governorships and Senate seats in Texas and Ohio turned the states dramatically blue on election night. Some political observers say these wins don't necessarily mean the states will stay that colour, but they do reveal a new political reality — that they'll be electoral battlegrounds in the 2028 presidential election.",
-      "source_url": "https://www.cbc.ca/news/world/texas-ohio-midterm-results-9.7409481"
+      "date": "2026-11-07",
+      "description": "The faculty senate of Cornell University approved a resolution Friday declaring no confidence in the school's top leaders, a symbolic gesture reflecting deep discontent on campus in the wake of a former student's lawsuit saying she was gang raped at a fraternity party in 2024.",
+      "source_url": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319"
     },
     {
       "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
@@ -109,21 +109,21 @@
       "source_url": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797"
     },
     {
+      "title": "Myanmar to hold by-elections in April, including in areas where fighting persists",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-06",
+      "description": "Myanmar will hold special elections next April in its first vote since this year's general election that critics said was designed to cement military rule",
+      "source_url": "https://abcnews.com/International/wireStory/myanmar-hold-elections-april-including-areas-fighting-persists-137903196"
+    },
+    {
       "title": "Arrests and investigations as Serbia begins postelection cleanup",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-05",
       "description": "The landslide victory of the Student List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward.",
       "source_url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "Iran signals satisfaction, skepticism after US midterm vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-05",
-      "description": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
-      "source_url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-06T22:32:40.693928+00:00"
+  "last_updated": "2026-11-07T03:48:55.926366+00:00"
 }
