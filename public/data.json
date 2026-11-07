@@ -85,20 +85,28 @@
   ],
   "elections": [
     {
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "title": "No clear winner after tight New Zealand general election",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-06",
-      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "source_url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go"
+      "date": "2026-11-07",
+      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
     },
     {
-      "title": "Four midterms takeaways for 2028 White House race",
+      "title": "Four things we learned this week about 2028 White House race",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-06",
-      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "date": "2026-11-07",
+      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
       "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
+    },
+    {
+      "title": "Cornell faculty vote no confidence in university's leadership",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-07",
+      "description": "The faculty senate of Cornell University approved a resolution Friday declaring no confidence in the school's top leaders, a symbolic gesture reflecting deep discontent on campus in the wake of a former student's lawsuit saying she was gang raped at a fraternity party in 2024.",
+      "source_url": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319"
     },
     {
       "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
@@ -115,15 +123,7 @@
       "date": "2026-11-06",
       "description": "Myanmar will hold special elections next April in its first vote since this year's general election that critics said was designed to cement military rule",
       "source_url": "https://abcnews.com/International/wireStory/myanmar-hold-elections-april-including-areas-fighting-persists-137903196"
-    },
-    {
-      "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-11-07",
-      "description": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless beloved among France's youth, who are drawn to his progressive policy proposals and say he empowers them to get more involved in politics.",
-      "source_url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite"
     }
   ],
-  "last_updated": "2026-11-07T12:08:06.315353+00:00"
+  "last_updated": "2026-11-07T21:14:35.959628+00:00"
 }
