@@ -101,6 +101,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
     },
     {
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-07",
+      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo"
+    },
+    {
       "title": "Cornell faculty vote no confidence in university's leadership",
       "country": "Global",
       "election_type": "National",
@@ -109,21 +117,13 @@
       "source_url": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319"
     },
     {
-      "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
-      "country": "United States",
-      "election_type": "National",
-      "date": "2026-11-06",
-      "description": "Pope Leo XIV says that he was &ldquo;proud to be an American and to exercise the right&rdquo; to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies",
-      "source_url": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797"
-    },
-    {
-      "title": "Myanmar to hold by-elections in April, including in areas where fighting persists",
+      "title": "South Africa's ANC facing worst-ever performance in local elections",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-06",
-      "description": "Myanmar will hold special elections next April in its first vote since this year's general election that critics said was designed to cement military rule",
-      "source_url": "https://abcnews.com/International/wireStory/myanmar-hold-elections-april-including-areas-fighting-persists-137903196"
+      "date": "2026-11-07",
+      "description": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
+      "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-07T21:14:35.959628+00:00"
+  "last_updated": "2026-11-08T03:29:14.006334+00:00"
 }
