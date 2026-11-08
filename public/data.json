@@ -43,12 +43,12 @@
   ],
   "diplomatic_visits": [
     {
-      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
       "visiting_leader": "",
-      "host_country": "Global",
+      "host_country": "France",
       "date": "2026-11-08",
-      "description": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo"
+      "description": "France will participate in the upcoming Abu Dhabi peace talks on ending the Ukraine war, Foreign Minister Jean-Noël Barrot said Sunday, adding that Europeans will be represented at the summit. The talks will take place under US mediation on Tuesday and Wednesday.",
+      "source_url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
     },
     {
       "title": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
@@ -57,6 +57,14 @@
       "date": "2026-11-05",
       "description": "Ukrainian President Volodymyr Zelensky has appealed to Spain and Latin American countries for urgent help repairing Ukraine's damaged energy infrastructure. He also met King Felipe VI during the Ibero-American Summit in Madrid.",
       "source_url": "https://www.euronews.com/video/2026/11/05/spain-zelensky-urges-latin-america-to-help-repair-ukraines-power-grid"
+    },
+    {
+      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-08",
+      "description": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo"
     },
     {
       "title": "Milei and Sánchez exchange a cold greeting at Ibero-American Summit",
@@ -73,14 +81,6 @@
       "date": "2026-11-05",
       "description": "On Wednesday, Ukraine's President Volodymyr Zelenskyy awarded the first lady a national honour for her role in brokering a partial ceasefire that allowed the evacuation of civilians from a Russian-occupied town.",
       "source_url": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
-    },
-    {
-      "title": "Melania Trump hosted officials from Russia and Ukraine. Just what's behind her peace push?",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-11-05",
-      "description": "As President Donald Trump and his fellow Republicans take stock after a devastating midterm election that saw the Democrats seize control of Congress, his wife Melania is preparing to host representatives who will almost certainly praise Washington's actions.",
-      "source_url": "https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316"
     }
   ],
   "elections": [
@@ -93,6 +93,14 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo"
     },
     {
+      "title": "How the Democrats' midterm wave shows a path back to the presidency",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-08",
+      "description": "Democrats remain cautious about jumping to conclusions of what their midterm wins could mean for the next presidential election campaign. Still, the dramatic scale of the victory has some seeing a potential path back to the White House in 2028.",
+      "source_url": "https://www.cbc.ca/news/world/us-midterms-trump-democrats-2028-9.7411206"
+    },
+    {
       "title": "Cornell faculty vote no confidence in university's leadership",
       "country": "Global",
       "election_type": "National",
@@ -101,29 +109,21 @@
       "source_url": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319"
     },
     {
-      "title": "South Africa's ANC facing worst-ever performance in local elections",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-07",
-      "description": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
-      "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-      "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-11-07",
-      "description": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left wing's strongest contender against far-right candidate Marine Le Pen.",
-      "source_url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme"
-    },
-    {
       "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-07",
       "description": "In New Zealand, people cast a party vote as well as an electorate vote in a general election. With their electorate vote, New Zealanders vote for a candidate to represent their local electorate in parliament. They also vote for the party they want to be in government.",
       "source_url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living"
+    },
+    {
+      "title": "South Africa's ANC facing worst-ever performance in local elections",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-07",
+      "description": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
+      "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-08T12:29:14.581379+00:00"
+  "last_updated": "2026-11-08T21:29:08.437997+00:00"
 }
