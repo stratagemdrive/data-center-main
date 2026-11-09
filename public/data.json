@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
+      "organization": "G7",
+      "date": "2026-11-09",
+      "location": "Russia",
+      "description": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open since Republicans lost the midterm elections. Rubio is due to attend both days, compared with one in March.",
+      "source_url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers"
+    },
+    {
       "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
       "organization": "EU",
       "date": "2026-11-03",
@@ -31,17 +39,17 @@
       "location": "Russia",
       "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
-    },
-    {
-      "title": "Russia's presence divides G20 ministers",
-      "organization": "G20",
-      "date": "2026-10-31",
-      "location": "Russia",
-      "description": "The G20 foreign ministers’ meeting in the US is wrapping up two days of talks without agreement on several key global security issues. On the sidelines, US Secretary of State Marco Rubio signed an Arctic cooperation deal with Japan and South Korea and confirmed Washington’s participation in Riyadh’s World Expo in 2030. Meanwhile, European ministers confronted Russia’s Sergei Lavrov over the war in Ukraine and refused to join him for the traditional group photo. Jack Pownall reports.",
-      "source_url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-08",
+      "description": "Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’ homeland in nearly four decades.",
+      "source_url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei"
+    },
     {
       "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
       "visiting_leader": "",
@@ -73,14 +81,6 @@
       "date": "2026-11-05",
       "description": "Argentine President Javier Milei and Spanish Prime Minister Pedro Sánchez exchanged a brief and frosty greeting at the Ibero-American Summit in Madrid on Wednesday. Their encounter comes two weeks after Milei called Sánchez an “unpresentable dictator”.",
       "source_url": "https://www.euronews.com/2026/11/05/milei-and-sanchez-exchange-a-cold-greeting-at-ibero-american-summit"
-    },
-    {
-      "title": "US First Lady Melania Trump to host Ukrainian and Russian officials at White House",
-      "visiting_leader": "",
-      "host_country": "Russia",
-      "date": "2026-11-05",
-      "description": "On Wednesday, Ukraine's President Volodymyr Zelenskyy awarded the first lady a national honour for her role in brokering a partial ceasefire that allowed the evacuation of civilians from a Russian-occupied town.",
-      "source_url": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
     }
   ],
   "elections": [
@@ -117,13 +117,13 @@
       "source_url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living"
     },
     {
-      "title": "South Africa's ANC facing worst-ever performance in local elections",
+      "title": "South Africa’s ANC suffers worst-ever local elections result",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-07",
-      "description": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
-      "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-11-09",
+      "description": "South Africa&#039;s ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-11-08T21:29:08.437997+00:00"
+  "last_updated": "2026-11-09T03:45:12.601161+00:00"
 }
