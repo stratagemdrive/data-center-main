@@ -51,6 +51,14 @@
       "source_url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit"
     },
     {
+      "title": "UFC CEO Dana White takes the White House podium during Washington visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-10",
+      "description": "During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss"
+    },
+    {
       "title": "Qatar PM meets with Trump for talks on ending war on Iran",
       "visiting_leader": "",
       "host_country": "Global",
@@ -73,57 +81,49 @@
       "date": "2026-11-09",
       "description": "Pope Leo XIV has delivered a diplomatic but subtly strong critique of Argentine President Javier Milei&rsquo;s austerity measures and libertarian agenda",
       "source_url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348"
-    },
-    {
-      "title": "'A tricky day' ahead for French PM as he meets with unions amid social unrest",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-11-09",
-      "description": "French Prime Minister Sébastien Lecornu is to meet unions and employer federation representatives on Monday to discuss salaries and purchasing power following a wave of social unrest across France in recent weeks. But, says France 24's Rochelle Ferguson, he faces a tricky task if his is to meet unions' wage demands and take steps towards placating widespread public anger.",
-      "source_url": "https://www.france24.com/en/video/20261109-a-tricky-day-ahead-for-french-pm-as-he-meets-with-unions-amid-social-unrest"
     }
   ],
   "elections": [
     {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-10",
+      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo"
+    },
+    {
+      "title": "Wenger considers standing against Infantino",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-10",
+      "description": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo"
+    },
+    {
+      "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-10",
+      "description": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
+      "source_url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
+    },
+    {
+      "title": "U.S. House Republican moves to force vote on impeaching Pete Hegseth",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-09",
-      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+      "description": "Republican Rep. Thomas Massie moved Monday to force a vote to impeach Secretary of War Pete Hegseth, putting pressure on his fellow Republicans to decide whether to remove one of the Trump administration's most prominent figures following sweeping election losses.",
+      "source_url": "https://www.cbc.ca/news/world/hegseth-impeachment-motion-thomas-massie-9.7415356"
     },
     {
-      "title": "South Africa’s ANC suffers a historic setback in local elections as coalition talks begin",
+      "title": "California voters reject measure to tax the wealth of billionaires",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-09",
-      "description": "South Africa’s ruling ANC suffers its worst-ever local election results, securing just 30% of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence officer Herbert Matanda Mabonga accuses the army of secretly detaining and torturing opponents, following the release of videos that sparked national outrage. Finally, in Senegal, more than 200,000 free tickets are giving young people the chance to experience the games live on home soil, in a bid to inspire a new generation of athletes.",
-      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin"
-    },
-    {
-      "title": "French Judo superstar Teddy Riner says will run for president",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-11-09",
-      "description": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right\". \"My name is Teddy Riner and today, I am telling you face to face: I am a candidate in the 2027 presidential election,\" the 37-year-old said in a surprise announcement on social media. Riner, one of the greatest judokas in history, said in the two-minute-37-second video that he feared France could soon become deeply divided, appearing to cast himself as a candidate for voters unwilling to choose between two political extremes -- the far right and the hard left. FRANCE 24's Mark Owen speaks with Yves Sintomer, Professor of Political Science at Université Paris VIII.",
-      "source_url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president"
-    },
-    {
-      "title": "Social unrest ahead of French elections: Protesters 'don't believe politics can achieve anything'",
-      "country": "France",
-      "election_type": "National",
-      "date": "2026-11-09",
-      "description": "Annette Young is pleased to welcome Renaud Foucart, Senior Lecturer at the Department of Economics ECARES at Lancaster University. France's 1.6% minimum-wage increase, in response to the countrywide protests, may offer a temporary reprieve from social unrest, but it does little to resolve the deeper political and institutional crisis confronting the country. According to Foucart, the central problem extends beyond declining purchasing power, fiscal constraints and the limitations of a minority government. It concerns a growing loss of faith in politics itself. “They are in the street because they don't believe politics can achieve anything,” Foucart argues, suggesting that the persistence of mass demonstrations ahead of the presidential election reflects profound disillusionment with the political system's capacity to deliver meaningful change.",
-      "source_url": "https://www.france24.com/en/social-unrest-ahead-of-french-elections-protesters-don-t-believe-politics-can-achieve-anything"
-    },
-    {
-      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-09",
-      "description": "Democratic Senate leader Schumer criticises Trump&#039;s poll denialism, calling it an avoidable return to baseless claims.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss"
+      "date": "2026-11-10",
+      "description": "California voters have rejected a first-in-the-nation tax on the net worth of billionaires following a contentious ballot fight that generated huge spending by some prominent tech leaders eager to stop their taxes from going up. The measure would have imposed a one-time 5% tax on the wealth of Californians whose net worth exceeds $1 billion. FRANCE 24's correspondent in Los Angeles Loic Pialat has more.",
+      "source_url": "https://www.france24.com/en/video/20261110-california-voters-reject-measure-to-tax-the-wealth-of-billionaires"
     }
   ],
-  "last_updated": "2026-11-10T00:59:19.603771+00:00"
+  "last_updated": "2026-11-10T13:58:43.675797+00:00"
 }
