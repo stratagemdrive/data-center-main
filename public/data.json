@@ -1,6 +1,22 @@
 {
   "world_org_meetings": [
     {
+      "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
+      "organization": "UN",
+      "date": "2026-11-09",
+      "location": "Global",
+      "description": "The United Nations COP31 climate summit has opened in Antalya after a year marked by deadly heatwaves and devastating floods. Delegates face fresh challenges as the war in Iran disrupts global energy supplies.",
+      "source_url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin"
+    },
+    {
+      "title": "Philippines: 'Trump out!' Women rally ahead of ASEAN summit",
+      "organization": "ASEAN",
+      "date": "2026-11-09",
+      "location": "Global",
+      "description": "Women protesters took to the streets of Manila on Monday 9 November ahead of Donald Trump's visit for the 49th ASEAN summit. Carrying \"Trump Out\" placards, they also denounced a US-led initiative on semiconductors and critical minerals.",
+      "source_url": "https://www.euronews.com/video/2026/11/09/philippines-trump-out-women-rally-ahead-of-asean-summit"
+    },
+    {
       "title": "All eyes on Rubio as Iran, Ukraine set to dominate G7 meeting in Paris",
       "organization": "G7",
       "date": "2026-11-09",
@@ -17,31 +33,31 @@
       "source_url": "https://www.france24.com/en/video/20261109-cop31-a-focus-on-electrification-as-extreme-weather-events-shake-the-world"
     },
     {
-      "title": "Philippines: 'Trump out!' Women rally ahead of ASEAN summit",
-      "organization": "ASEAN",
-      "date": "2026-11-09",
-      "location": "Global",
-      "description": "Women protesters took to the streets of Manila on Monday 9 November ahead of Donald Trump's visit for the 49th ASEAN summit. Carrying \"Trump Out\" placards, they also denounced a US-led initiative on semiconductors and critical minerals.",
-      "source_url": "https://www.euronews.com/video/2026/11/09/philippines-trump-out-women-rally-ahead-of-asean-summit"
-    },
-    {
       "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
       "organization": "EU",
       "date": "2026-11-03",
       "location": "Global",
       "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
-    },
-    {
-      "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
-      "organization": "G20",
-      "date": "2026-10-31",
-      "location": "Global",
-      "description": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
-      "source_url": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Argentina: Pope Leo XIV welcomed by Javier Milei for historic visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-09",
+      "description": "Pope Leo XIV has arrived in Argentina, on Sunday 8 November, for the first papal visit to the country in nearly 40 years. President Javier Milei welcomed him at Buenos Aires airport, while the city's iconic obelisk was illuminated in his honour.",
+      "source_url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit"
+    },
+    {
+      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-09",
+      "description": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss"
+    },
     {
       "title": "Pope visits struggling Argentine home for people with disabilities to press message",
       "visiting_leader": "",
@@ -65,65 +81,49 @@
       "date": "2026-11-09",
       "description": "French Prime Minister Sébastien Lecornu is to meet unions and employer federation representatives on Monday to discuss salaries and purchasing power following a wave of social unrest across France in recent weeks. But, says France 24's Rochelle Ferguson, he faces a tricky task if his is to meet unions' wage demands and take steps towards placating widespread public anger.",
       "source_url": "https://www.france24.com/en/video/20261109-a-tricky-day-ahead-for-french-pm-as-he-meets-with-unions-amid-social-unrest"
-    },
-    {
-      "title": "French PM Lecornu holds talks over protesters' cost-of-living concerns",
-      "visiting_leader": "",
-      "host_country": "France",
-      "date": "2026-11-09",
-      "description": "French Prime ⁠Minister Sebastien Lecornu is set to meet ​representatives of employers' organisations and private-sector unions on Monday, November 9, to try ​to address cost-of-living concerns that have sparked some of France's worst civil unrest in years.",
-      "source_url": "https://www.france24.com/en/video/20261109-french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns"
-    },
-    {
-      "title": "Argentina: Pope Leo XIV welcomed by Javier Milei for historic visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-09",
-      "description": "Pope Leo XIV has arrived in Argentina, on Sunday 8 November, for the first papal visit to the country in nearly 40 years. President Javier Milei welcomed him at Buenos Aires airport, while the city's iconic obelisk was illuminated in his honour.",
-      "source_url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit"
     }
   ],
   "elections": [
     {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-07",
-      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo"
-    },
-    {
-      "title": "How the Democrats' midterm wave shows a path back to the presidency",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-08",
-      "description": "Democrats remain cautious about jumping to conclusions of what their midterm wins could mean for the next presidential election campaign. Still, the dramatic scale of the victory has some seeing a potential path back to the White House in 2028.",
-      "source_url": "https://www.cbc.ca/news/world/us-midterms-trump-democrats-2028-9.7411206"
-    },
-    {
-      "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-07",
-      "description": "In New Zealand, people cast a party vote as well as an electorate vote in a general election. With their electorate vote, New Zealanders vote for a candidate to represent their local electorate in parliament. They also vote for the party they want to be in government.",
-      "source_url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living"
-    },
-    {
-      "title": "Cornell faculty vote no confidence in university's leadership",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-07",
-      "description": "The faculty senate of Cornell University approved a resolution Friday declaring no confidence in the school's top leaders, a symbolic gesture reflecting deep discontent on campus in the wake of a former student's lawsuit saying she was gang raped at a fraternity party in 2024.",
-      "source_url": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319"
-    },
-    {
-      "title": "South Africa’s ANC suffers worst-ever local elections result",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-09",
-      "description": "South Africa&#039;s ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss"
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+    },
+    {
+      "title": "South Africa’s ANC suffers a historic setback in local elections as coalition talks begin",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-09",
+      "description": "South Africa’s ruling ANC suffers its worst-ever local election results, securing just 30% of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence officer Herbert Matanda Mabonga accuses the army of secretly detaining and torturing opponents, following the release of videos that sparked national outrage. Finally, in Senegal, more than 200,000 free tickets are giving young people the chance to experience the games live on home soil, in a bid to inspire a new generation of athletes.",
+      "source_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin"
+    },
+    {
+      "title": "French Judo superstar Teddy Riner says will run for president",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-11-09",
+      "description": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right\". \"My name is Teddy Riner and today, I am telling you face to face: I am a candidate in the 2027 presidential election,\" the 37-year-old said in a surprise announcement on social media. Riner, one of the greatest judokas in history, said in the two-minute-37-second video that he feared France could soon become deeply divided, appearing to cast himself as a candidate for voters unwilling to choose between two political extremes -- the far right and the hard left. FRANCE 24's Mark Owen speaks with Yves Sintomer, Professor of Political Science at Université Paris VIII.",
+      "source_url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president"
+    },
+    {
+      "title": "Social unrest ahead of French elections: Protesters 'don't believe politics can achieve anything'",
+      "country": "France",
+      "election_type": "National",
+      "date": "2026-11-09",
+      "description": "Annette Young is pleased to welcome Renaud Foucart, Senior Lecturer at the Department of Economics ECARES at Lancaster University. France's 1.6% minimum-wage increase, in response to the countrywide protests, may offer a temporary reprieve from social unrest, but it does little to resolve the deeper political and institutional crisis confronting the country. According to Foucart, the central problem extends beyond declining purchasing power, fiscal constraints and the limitations of a minority government. It concerns a growing loss of faith in politics itself. “They are in the street because they don't believe politics can achieve anything,” Foucart argues, suggesting that the persistence of mass demonstrations ahead of the presidential election reflects profound disillusionment with the political system's capacity to deliver meaningful change.",
+      "source_url": "https://www.france24.com/en/social-unrest-ahead-of-french-elections-protesters-don-t-believe-politics-can-achieve-anything"
+    },
+    {
+      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-09",
+      "description": "Democratic Senate leader Schumer criticises Trump&#039;s poll denialism, calling it an avoidable return to baseless claims.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-11-09T14:44:29.946509+00:00"
+  "last_updated": "2026-11-10T00:59:19.603771+00:00"
 }
