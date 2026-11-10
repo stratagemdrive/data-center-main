@@ -1,6 +1,22 @@
 {
   "world_org_meetings": [
     {
+      "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+      "organization": "G7",
+      "date": "2026-11-10",
+      "location": "Ukraine",
+      "description": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivocal assessment, Townsend, taking place alongside trilateral negotiations in Abu Dhabi. While the latter may command international attention, Townsend argues that the Paris meeting carries a message of its own: European support for Ukraine is intended to remain durable, and Moscow should not mistake diplomatic negotiations for an erosion of Western resolve. The G7 meeting therefore emerges as more than a forum for diplomatic declarations. It represents a test of Western cohesion, the credibility of future military and financial assistance, and Washington's willingness to endorse a common position on Ukraine. As Townsend emphasizes, the final communiqué will also be \"a test as far as what Marco Rubio is going to agree to put his name to.\"",
+      "source_url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine"
+    },
+    {
+      "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
+      "organization": "G7",
+      "date": "2026-11-10",
+      "location": "Russia",
+      "description": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restrictions were working so effectively. He also hailed US-mediated talks between Russia and Ukraine in Abu Dhabi as \"very productive\" and said the discussions should be expanded to include Europeans at the table.",
+      "source_url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting"
+    },
+    {
       "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
       "organization": "UN",
       "date": "2026-11-09",
@@ -23,25 +39,17 @@
       "location": "Ukraine",
       "description": "G7 foreign ministers began two days of talks in Paris on Monday as they grapple with multiple unresolved global crises. US Secretary of State Marco Rubio is likely to face questions about whether the Trump administration will shift its positions on the conflicts in Ukraine and Iran in particular following the Democrats sweeping victory in the midterms. France 24’s Clovis Casali has more.",
       "source_url": "https://www.france24.com/en/video/20261109-all-eyes-on-rubio-as-iran-ukraine-set-to-dominate-g7-meeting-in-paris"
-    },
-    {
-      "title": "COP31: A focus on electrification as extreme weather events shake the world",
-      "organization": "UN",
-      "date": "2026-11-09",
-      "location": "Global",
-      "description": "Most of the world’s countries are gathering this week for COP31 in Antalya, Turkey. This United Nations Climate Change Conference opens amid deep concern following extreme weather events such as the deadly floods in Nepal and a supersized El Niño. Experts say that in uncertain times, it is even more important to accelerate global efforts.",
-      "source_url": "https://www.france24.com/en/video/20261109-cop31-a-focus-on-electrification-as-extreme-weather-events-shake-the-world"
-    },
-    {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "organization": "EU",
-      "date": "2026-11-03",
-      "location": "Global",
-      "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Arrests made after visit from former US President Biden",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-10",
+      "description": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck78p827y642o"
+    },
     {
       "title": "Argentina: Pope Leo XIV welcomed by Javier Milei for historic visit",
       "visiting_leader": "",
@@ -49,6 +57,14 @@
       "date": "2026-11-09",
       "description": "Pope Leo XIV has arrived in Argentina, on Sunday 8 November, for the first papal visit to the country in nearly 40 years. President Javier Milei welcomed him at Buenos Aires airport, while the city's iconic obelisk was illuminated in his honour.",
       "source_url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit"
+    },
+    {
+      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-10",
+      "description": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss"
     },
     {
       "title": "UFC CEO Dana White takes the White House podium during Washington visit",
@@ -65,41 +81,9 @@
       "date": "2026-11-09",
       "description": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss"
-    },
-    {
-      "title": "Pope visits struggling Argentine home for people with disabilities to press message",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-09",
-      "description": "Pope Leo XIV has renewed his call for Argentina to protect its most vulnerable people, visiting a home for people with disabilities in a symbolically powerful rebuke of President Javier Milei&rsquo;s austerity measures",
-      "source_url": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019"
-    },
-    {
-      "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-09",
-      "description": "Pope Leo XIV has delivered a diplomatic but subtly strong critique of Argentine President Javier Milei&rsquo;s austerity measures and libertarian agenda",
-      "source_url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348"
     }
   ],
   "elections": [
-    {
-      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-10",
-      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo"
-    },
-    {
-      "title": "Wenger considers standing against Infantino",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-10",
-      "description": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo"
-    },
     {
       "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
       "country": "Global",
@@ -117,13 +101,29 @@
       "source_url": "https://www.cbc.ca/news/world/hegseth-impeachment-motion-thomas-massie-9.7415356"
     },
     {
-      "title": "California voters reject measure to tax the wealth of billionaires",
+      "title": "US poll shows death penalty lost majority support for first time since 1971",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-10",
-      "description": "California voters have rejected a first-in-the-nation tax on the net worth of billionaires following a contentious ballot fight that generated huge spending by some prominent tech leaders eager to stop their taxes from going up. The measure would have imposed a one-time 5% tax on the wealth of Californians whose net worth exceeds $1 billion. FRANCE 24's correspondent in Los Angeles Loic Pialat has more.",
-      "source_url": "https://www.france24.com/en/video/20261110-california-voters-reject-measure-to-tax-the-wealth-of-billionaires"
+      "description": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss"
+    },
+    {
+      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-10",
+      "description": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss"
+    },
+    {
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-10",
+      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo"
     }
   ],
-  "last_updated": "2026-11-10T13:58:43.675797+00:00"
+  "last_updated": "2026-11-10T22:39:53.752233+00:00"
 }
