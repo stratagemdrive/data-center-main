@@ -1,22 +1,6 @@
 {
   "world_org_meetings": [
     {
-      "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
-      "organization": "G7",
-      "date": "2026-11-10",
-      "location": "Ukraine",
-      "description": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivocal assessment, Townsend, taking place alongside trilateral negotiations in Abu Dhabi. While the latter may command international attention, Townsend argues that the Paris meeting carries a message of its own: European support for Ukraine is intended to remain durable, and Moscow should not mistake diplomatic negotiations for an erosion of Western resolve. The G7 meeting therefore emerges as more than a forum for diplomatic declarations. It represents a test of Western cohesion, the credibility of future military and financial assistance, and Washington's willingness to endorse a common position on Ukraine. As Townsend emphasizes, the final communiqué will also be \"a test as far as what Marco Rubio is going to agree to put his name to.\"",
-      "source_url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine"
-    },
-    {
-      "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
-      "organization": "G7",
-      "date": "2026-11-10",
-      "location": "Russia",
-      "description": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restrictions were working so effectively. He also hailed US-mediated talks between Russia and Ukraine in Abu Dhabi as \"very productive\" and said the discussions should be expanded to include Europeans at the table.",
-      "source_url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting"
-    },
-    {
       "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
       "organization": "UN",
       "date": "2026-11-09",
@@ -33,6 +17,22 @@
       "source_url": "https://www.euronews.com/video/2026/11/09/philippines-trump-out-women-rally-ahead-of-asean-summit"
     },
     {
+      "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+      "organization": "G7",
+      "date": "2026-11-10",
+      "location": "Ukraine",
+      "description": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivocal assessment, Townsend, taking place alongside trilateral negotiations in Abu Dhabi. While the latter may command international attention, Townsend argues that the Paris meeting carries a message of its own: European support for Ukraine is intended to remain durable, and Moscow should not mistake diplomatic negotiations for an erosion of Western resolve. The G7 meeting therefore emerges as more than a forum for diplomatic declarations. It represents a test of Western cohesion, the credibility of future military and financial assistance, and Washington's willingness to endorse a common position on Ukraine. As Townsend emphasizes, the final communiqué will also be \"a test as far as what Marco Rubio is going to agree to put his name to.\"",
+      "source_url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine"
+    },
+    {
+      "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
+      "organization": "G7",
+      "date": "2026-11-10",
+      "location": "Russia",
+      "description": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restrictions were working so effectively. He also hailed US-mediated talks between Russia and Ukraine in Abu Dhabi as \"very productive\" and said the discussions should be expanded to include Europeans at the table.",
+      "source_url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting"
+    },
+    {
       "title": "All eyes on Rubio as Iran, Ukraine set to dominate G7 meeting in Paris",
       "organization": "G7",
       "date": "2026-11-09",
@@ -42,6 +42,22 @@
     }
   ],
   "diplomatic_visits": [
+    {
+      "title": "Pope Leo to end Argentina tour with outdoor mass before Peru 'homecoming'",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-11",
+      "description": "Pope Leo will conclude his three-day visit to Argentina Wednesday with an outdoor mass expected to draw millions before continuing his tour of South America by travelling to Peru, where he once served as a missionary. The pontiff plans to deliver a speech in front of Peruvian President Keiko Fujimori, whose election earlier this year was marred ‌by fraud accusations and vote-counting delays.",
+      "source_url": "https://www.france24.com/en/americas/20261111-pope-leo-to-end-argentina-tour-with-large-outdoor-mass-before-emotional-peru-homecoming"
+    },
+    {
+      "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-11",
+      "description": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss"
+    },
     {
       "title": "Arrests made after visit from former US President Biden",
       "visiting_leader": "",
@@ -65,25 +81,17 @@
       "date": "2026-11-10",
       "description": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
       "source_url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss"
-    },
-    {
-      "title": "UFC CEO Dana White takes the White House podium during Washington visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-10",
-      "description": "During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss"
-    },
-    {
-      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-09",
-      "description": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss"
     }
   ],
   "elections": [
+    {
+      "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-11",
+      "description": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
+      "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
+    },
     {
       "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
       "country": "Global",
@@ -101,29 +109,21 @@
       "source_url": "https://www.cbc.ca/news/world/hegseth-impeachment-motion-thomas-massie-9.7415356"
     },
     {
+      "title": "Did Democrats save Pete Hegseth from impeachment?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-11",
+      "description": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss"
+    },
+    {
       "title": "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-10",
       "description": "Jim Jordan, a hardline ally of President Donald Trump, was elected US House Republican leader on Tuesday, defeating Steve Scalise 106-73 in a secret ballot, US media reported. He replaces Mike Johnson after Republicans lost both chambers of Congress in last week’s midterm elections and will lead the party’s opposition.",
       "source_url": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat"
-    },
-    {
-      "title": "US poll shows death penalty lost majority support for first time since 1971",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-10",
-      "description": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss"
-    },
-    {
-      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-10",
-      "description": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss"
     }
   ],
-  "last_updated": "2026-11-11T03:50:41.453499+00:00"
+  "last_updated": "2026-11-11T13:14:33.163880+00:00"
 }
