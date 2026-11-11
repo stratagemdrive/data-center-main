@@ -85,11 +85,11 @@
   ],
   "elections": [
     {
-      "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
-      "country": "Global",
+      "title": "Spain's workers hold a general strike over housing costs before national election",
+      "country": "Spain",
       "election_type": "National",
       "date": "2026-11-11",
-      "description": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
+      "description": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Madrid, along with gatherings in other cities.",
       "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
     },
     {
@@ -101,29 +101,29 @@
       "source_url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
     },
     {
-      "title": "U.S. House Republican moves to force vote on impeaching Pete Hegseth",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-09",
-      "description": "Republican Rep. Thomas Massie moved Monday to force a vote to impeach Secretary of War Pete Hegseth, putting pressure on his fellow Republicans to decide whether to remove one of the Trump administration's most prominent figures following sweeping election losses.",
-      "source_url": "https://www.cbc.ca/news/world/hegseth-impeachment-motion-thomas-massie-9.7415356"
-    },
-    {
-      "title": "Did Democrats save Pete Hegseth from impeachment?",
+      "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-11",
-      "description": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss"
+      "description": "Brazil&rsquo;s top electoral court fines Meta&rsquo;s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign",
+      "source_url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841"
     },
     {
-      "title": "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
+      "title": "Armistice Day in France: Macron honors the End of World War I",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-11",
+      "description": "With less than six months to go before the presidential election, the 11 November commemorations have taken on a political hue. On Wednesday, Emmanuel Macron presided over his final ceremony in Paris.",
+      "source_url": "https://www.france24.com/en/video/20261111-armistice-day-in-france-commemorating-the-end-of-world-war-i"
+    },
+    {
+      "title": "Trump vows to back Pete Hegseth as Republican lawmaker pushes impeachment vote",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-10",
-      "description": "Jim Jordan, a hardline ally of President Donald Trump, was elected US House Republican leader on Tuesday, defeating Steve Scalise 106-73 in a secret ballot, US media reported. He replaces Mike Johnson after Republicans lost both chambers of Congress in last week’s midterm elections and will lead the party’s opposition.",
-      "source_url": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat"
+      "description": "Republican Congressman Thomas Massie is seeking to impeach US Defence Secretary Pete Hegseth, accusing him of waging military action against Iran for more than 90 days without congressional authorisation.",
+      "source_url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote"
     }
   ],
-  "last_updated": "2026-11-11T13:14:33.163880+00:00"
+  "last_updated": "2026-11-11T23:52:11.634763+00:00"
 }
