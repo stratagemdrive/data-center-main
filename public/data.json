@@ -43,6 +43,30 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Will U.S. travel pick up after midterm 'blue wave'? Not so fast, say these Canadians",
+      "visiting_leader": "",
+      "host_country": "Canada",
+      "date": "2026-11-12",
+      "description": "Travel from Canada to the U.S. dropped amid President Donald Trump's threats and trade war. While many Canadians view the Democratic Party's midterm election victory as an 'encouraging' sign, they say it's too soon to visit the U.S. again amid continued distrust.",
+      "source_url": "https://www.cbc.ca/news/world/us-travel-midterms-9.7417876"
+    },
+    {
+      "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-12",
+      "description": "Pope Leo XIV received a rapturous welcome in Peru, on 11 November, where he spent more than two decades as a missionary and bishop. Greeted by President Keiko Fujimori, he described his return as a homecoming.",
+      "source_url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit"
+    },
+    {
+      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+      "visiting_leader": "",
+      "host_country": "Ukraine",
+      "date": "2026-11-12",
+      "description": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
+    },
+    {
       "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
       "visiting_leader": "",
       "host_country": "Global",
@@ -57,30 +81,6 @@
       "date": "2026-11-12",
       "description": "Leaders from more than 40 European countries gathered in Dublin on Thursday, November 12, for a summit focused on the continent’s fragile security, amid a new US-backed effort to revive talks on ending the Russia-Ukraine war. The meeting of the European Political Community brought together heads of state and government from European countries and the UK, as well as Ukrainian President Volodymyr Zelensky, Canadian Prime Minister Mark Carney and NATO Secretary-General Mark Rutte.",
       "source_url": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own"
-    },
-    {
-      "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-12",
-      "description": "Pope Leo XIV received a rapturous welcome in Peru, on 11 November, where he spent more than two decades as a missionary and bishop. Greeted by President Keiko Fujimori, he described his return as a homecoming.",
-      "source_url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit"
-    },
-    {
-      "title": "Pope Leo to end Argentina tour with outdoor mass before Peru 'homecoming'",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-11",
-      "description": "Pope Leo will conclude his three-day visit to Argentina Wednesday with an outdoor mass expected to draw millions before continuing his tour of South America by travelling to Peru, where he once served as a missionary. The pontiff plans to deliver a speech in front of Peruvian President Keiko Fujimori, whose election earlier this year was marred ‌by fraud accusations and vote-counting delays.",
-      "source_url": "https://www.france24.com/en/americas/20261111-pope-leo-to-end-argentina-tour-with-large-outdoor-mass-before-emotional-peru-homecoming"
-    },
-    {
-      "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-11",
-      "description": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss"
     }
   ],
   "elections": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
     }
   ],
-  "last_updated": "2026-11-12T14:17:59.344028+00:00"
+  "last_updated": "2026-11-12T22:59:18.485878+00:00"
 }
