@@ -109,21 +109,21 @@
       "source_url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841"
     },
     {
-      "title": "Armistice Day in France: Macron honors the End of World War I",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-11",
-      "description": "With less than six months to go before the presidential election, the 11 November commemorations have taken on a political hue. On Wednesday, Emmanuel Macron presided over his final ceremony in Paris.",
-      "source_url": "https://www.france24.com/en/video/20261111-armistice-day-in-france-commemorating-the-end-of-world-war-i"
-    },
-    {
       "title": "Trump vows to back Pete Hegseth as Republican lawmaker pushes impeachment vote",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-10",
       "description": "Republican Congressman Thomas Massie is seeking to impeach US Defence Secretary Pete Hegseth, accusing him of waging military action against Iran for more than 90 days without congressional authorisation.",
       "source_url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote"
+    },
+    {
+      "title": "Armistice Day in France: Macron honors the End of World War I",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-11",
+      "description": "With less than six months to go before the presidential election, the 11 November commemorations have taken on a political hue. On Wednesday, Emmanuel Macron presided over his final ceremony in Paris.",
+      "source_url": "https://www.france24.com/en/video/20261111-armistice-day-in-france-commemorating-the-end-of-world-war-i"
     }
   ],
-  "last_updated": "2026-11-11T23:52:11.634763+00:00"
+  "last_updated": "2026-11-12T04:58:21.716078+00:00"
 }
