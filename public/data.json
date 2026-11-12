@@ -43,6 +43,30 @@
   ],
   "diplomatic_visits": [
     {
+      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-12",
+      "description": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o"
+    },
+    {
+      "title": "European leaders gather in Dublin to discuss Ukraine's security, and their own",
+      "visiting_leader": "",
+      "host_country": "Ukraine",
+      "date": "2026-11-12",
+      "description": "Leaders from more than 40 European countries gathered in Dublin on Thursday, November 12, for a summit focused on the continent’s fragile security, amid a new US-backed effort to revive talks on ending the Russia-Ukraine war. The meeting of the European Political Community brought together heads of state and government from European countries and the UK, as well as Ukrainian President Volodymyr Zelensky, Canadian Prime Minister Mark Carney and NATO Secretary-General Mark Rutte.",
+      "source_url": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own"
+    },
+    {
+      "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-12",
+      "description": "Pope Leo XIV received a rapturous welcome in Peru, on 11 November, where he spent more than two decades as a missionary and bishop. Greeted by President Keiko Fujimori, he described his return as a homecoming.",
+      "source_url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit"
+    },
+    {
       "title": "Pope Leo to end Argentina tour with outdoor mass before Peru 'homecoming'",
       "visiting_leader": "",
       "host_country": "Global",
@@ -57,48 +81,16 @@
       "date": "2026-11-11",
       "description": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
       "source_url": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss"
-    },
-    {
-      "title": "Arrests made after visit from former US President Biden",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-10",
-      "description": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck78p827y642o"
-    },
-    {
-      "title": "Argentina: Pope Leo XIV welcomed by Javier Milei for historic visit",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-09",
-      "description": "Pope Leo XIV has arrived in Argentina, on Sunday 8 November, for the first papal visit to the country in nearly 40 years. President Javier Milei welcomed him at Buenos Aires airport, while the city's iconic obelisk was illuminated in his honour.",
-      "source_url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit"
-    },
-    {
-      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
-      "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-10",
-      "description": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss"
     }
   ],
   "elections": [
     {
-      "title": "Spain's workers hold a general strike over housing costs before national election",
-      "country": "Spain",
-      "election_type": "National",
-      "date": "2026-11-11",
-      "description": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Madrid, along with gatherings in other cities.",
-      "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
-    },
-    {
-      "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+      "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-10",
-      "description": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
-      "source_url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
+      "date": "2026-11-12",
+      "description": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
+      "source_url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
     },
     {
       "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
@@ -117,13 +109,21 @@
       "source_url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote"
     },
     {
-      "title": "Armistice Day in France: Macron honors the End of World War I",
-      "country": "Global",
+      "title": "Spain's workers hold a general strike over housing costs before national election",
+      "country": "Spain",
       "election_type": "National",
       "date": "2026-11-11",
-      "description": "With less than six months to go before the presidential election, the 11 November commemorations have taken on a political hue. On Wednesday, Emmanuel Macron presided over his final ceremony in Paris.",
-      "source_url": "https://www.france24.com/en/video/20261111-armistice-day-in-france-commemorating-the-end-of-world-war-i"
+      "description": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Madrid, along with gatherings in other cities.",
+      "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
+    },
+    {
+      "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-10",
+      "description": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
+      "source_url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
     }
   ],
-  "last_updated": "2026-11-12T04:58:21.716078+00:00"
+  "last_updated": "2026-11-12T14:17:59.344028+00:00"
 }
