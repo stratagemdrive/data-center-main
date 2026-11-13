@@ -85,12 +85,28 @@
   ],
   "elections": [
     {
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-13",
+      "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo"
+    },
+    {
       "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-12",
       "description": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
       "source_url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+    },
+    {
+      "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-13",
+      "description": "A crushing local election result across the country has left South Africa's ruling ANC searching for answers. Experts say the vote reflects public frustration with service delivery failures — signaling a political shift.",
+      "source_url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
@@ -107,23 +123,7 @@
       "date": "2026-11-10",
       "description": "Republican Congressman Thomas Massie is seeking to impeach US Defence Secretary Pete Hegseth, accusing him of waging military action against Iran for more than 90 days without congressional authorisation.",
       "source_url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote"
-    },
-    {
-      "title": "Spain's workers hold a general strike over housing costs before national election",
-      "country": "Spain",
-      "election_type": "National",
-      "date": "2026-11-11",
-      "description": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Madrid, along with gatherings in other cities.",
-      "source_url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
-    },
-    {
-      "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-10",
-      "description": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
-      "source_url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
     }
   ],
-  "last_updated": "2026-11-13T04:12:29.571835+00:00"
+  "last_updated": "2026-11-13T13:39:41.289349+00:00"
 }
