@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+      "organization": "NATO",
+      "date": "2026-11-13",
+      "location": "Global",
+      "description": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss"
+    },
+    {
       "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
       "organization": "UN",
       "date": "2026-11-09",
@@ -31,14 +39,6 @@
       "location": "Russia",
       "description": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restrictions were working so effectively. He also hailed US-mediated talks between Russia and Ukraine in Abu Dhabi as \"very productive\" and said the discussions should be expanded to include Europeans at the table.",
       "source_url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting"
-    },
-    {
-      "title": "All eyes on Rubio as Iran, Ukraine set to dominate G7 meeting in Paris",
-      "organization": "G7",
-      "date": "2026-11-09",
-      "location": "Ukraine",
-      "description": "G7 foreign ministers began two days of talks in Paris on Monday as they grapple with multiple unresolved global crises. US Secretary of State Marco Rubio is likely to face questions about whether the Trump administration will shift its positions on the conflicts in Ukraine and Iran in particular following the Democrats sweeping victory in the midterms. France 24’s Clovis Casali has more.",
-      "source_url": "https://www.france24.com/en/video/20261109-all-eyes-on-rubio-as-iran-ukraine-set-to-dominate-g7-meeting-in-paris"
     }
   ],
   "diplomatic_visits": [
@@ -125,5 +125,5 @@
       "source_url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
     }
   ],
-  "last_updated": "2026-11-12T22:59:18.485878+00:00"
+  "last_updated": "2026-11-13T04:12:29.571835+00:00"
 }
