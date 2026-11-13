@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "New campaign against EU membership launches ahead of UK-EU summit",
+      "organization": "EU",
+      "date": "2026-11-13",
+      "location": "Global",
+      "description": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo"
+    },
+    {
       "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
       "organization": "NATO",
       "date": "2026-11-13",
@@ -31,14 +39,6 @@
       "location": "Ukraine",
       "description": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivocal assessment, Townsend, taking place alongside trilateral negotiations in Abu Dhabi. While the latter may command international attention, Townsend argues that the Paris meeting carries a message of its own: European support for Ukraine is intended to remain durable, and Moscow should not mistake diplomatic negotiations for an erosion of Western resolve. The G7 meeting therefore emerges as more than a forum for diplomatic declarations. It represents a test of Western cohesion, the credibility of future military and financial assistance, and Washington's willingness to endorse a common position on Ukraine. As Townsend emphasizes, the final communiqué will also be \"a test as far as what Marco Rubio is going to agree to put his name to.\"",
       "source_url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine"
-    },
-    {
-      "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
-      "organization": "G7",
-      "date": "2026-11-10",
-      "location": "Russia",
-      "description": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restrictions were working so effectively. He also hailed US-mediated talks between Russia and Ukraine in Abu Dhabi as \"very productive\" and said the discussions should be expanded to include Europeans at the table.",
-      "source_url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting"
     }
   ],
   "diplomatic_visits": [
@@ -49,6 +49,14 @@
       "date": "2026-11-12",
       "description": "Travel from Canada to the U.S. dropped amid President Donald Trump's threats and trade war. While many Canadians view the Democratic Party's midterm election victory as an 'encouraging' sign, they say it's too soon to visit the U.S. again amid continued distrust.",
       "source_url": "https://www.cbc.ca/news/world/us-travel-midterms-9.7417876"
+    },
+    {
+      "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
+      "visiting_leader": "",
+      "host_country": "Global",
+      "date": "2026-11-13",
+      "description": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But four years after applying to join the EU, Kosovo has still not received candidate status. We explore Kosovo's path towards the EU, and the broader European and regional dynamics surrounding that.",
+      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti"
     },
     {
       "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
@@ -73,14 +81,6 @@
       "date": "2026-11-12",
       "description": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
       "source_url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o"
-    },
-    {
-      "title": "European leaders gather in Dublin to discuss Ukraine's security, and their own",
-      "visiting_leader": "",
-      "host_country": "Ukraine",
-      "date": "2026-11-12",
-      "description": "Leaders from more than 40 European countries gathered in Dublin on Thursday, November 12, for a summit focused on the continent’s fragile security, amid a new US-backed effort to revive talks on ending the Russia-Ukraine war. The meeting of the European Political Community brought together heads of state and government from European countries and the UK, as well as Ukrainian President Volodymyr Zelensky, Canadian Prime Minister Mark Carney and NATO Secretary-General Mark Rutte.",
-      "source_url": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own"
     }
   ],
   "elections": [
@@ -109,21 +109,21 @@
       "source_url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-world-4025-rdf"
     },
     {
+      "title": "Gambia's Adama Barrow seeks third term",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-13",
+      "description": "In tonight's programme, Gambia's electoral commission has announced the five official candidates for the country's upcoming presidential election. President Adama Barrow is seeking a third term. Tensions continue to rise in Ethiopia following the federal government's appointment of a new head of the Western Tigray region. And the Dakar Youth Olympic Games come to a close after two weeks of intense competition.",
+      "source_url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term"
+    },
+    {
       "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-11",
       "description": "Brazil&rsquo;s top electoral court fines Meta&rsquo;s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign",
       "source_url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841"
-    },
-    {
-      "title": "Trump vows to back Pete Hegseth as Republican lawmaker pushes impeachment vote",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-10",
-      "description": "Republican Congressman Thomas Massie is seeking to impeach US Defence Secretary Pete Hegseth, accusing him of waging military action against Iran for more than 90 days without congressional authorisation.",
-      "source_url": "https://www.euronews.com/2026/11/10/trump-vows-to-back-pete-hegseth-as-republican-lawmaker-pushes-impeachment-vote"
     }
   ],
-  "last_updated": "2026-11-13T13:39:41.289349+00:00"
+  "last_updated": "2026-11-13T23:01:52.801930+00:00"
 }
