@@ -1,6 +1,14 @@
 {
   "world_org_meetings": [
     {
+      "title": "Southeast Asian leaders will call for peaceful resolutions of conflicts. Trump will join final talks",
+      "organization": "ASEAN",
+      "date": "2026-11-14",
+      "location": "Global",
+      "description": "Southeast Asian leaders will gather in the Philippine capital this weekend for the annual ASEAN summit that will focus on global conflicts",
+      "source_url": "https://abcnews.com/International/wireStory/southeast-asian-leaders-call-peaceful-resolutions-conflicts-trump-138136538"
+    },
+    {
       "title": "New campaign against EU membership launches ahead of UK-EU summit",
       "organization": "EU",
       "date": "2026-11-13",
@@ -31,14 +39,6 @@
       "location": "Global",
       "description": "Women protesters took to the streets of Manila on Monday 9 November ahead of Donald Trump's visit for the 49th ASEAN summit. Carrying \"Trump Out\" placards, they also denounced a US-led initiative on semiconductors and critical minerals.",
       "source_url": "https://www.euronews.com/video/2026/11/09/philippines-trump-out-women-rally-ahead-of-asean-summit"
-    },
-    {
-      "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
-      "organization": "G7",
-      "date": "2026-11-10",
-      "location": "Ukraine",
-      "description": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivocal assessment, Townsend, taking place alongside trilateral negotiations in Abu Dhabi. While the latter may command international attention, Townsend argues that the Paris meeting carries a message of its own: European support for Ukraine is intended to remain durable, and Moscow should not mistake diplomatic negotiations for an erosion of Western resolve. The G7 meeting therefore emerges as more than a forum for diplomatic declarations. It represents a test of Western cohesion, the credibility of future military and financial assistance, and Washington's willingness to endorse a common position on Ukraine. As Townsend emphasizes, the final communiqué will also be \"a test as far as what Marco Rubio is going to agree to put his name to.\"",
-      "source_url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine"
     }
   ],
   "diplomatic_visits": [
@@ -51,12 +51,20 @@
       "source_url": "https://www.cbc.ca/news/world/us-travel-midterms-9.7417876"
     },
     {
-      "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
+      "title": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift",
       "visiting_leader": "",
-      "host_country": "Global",
-      "date": "2026-11-13",
-      "description": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But four years after applying to join the EU, Kosovo has still not received candidate status. We explore Kosovo's path towards the EU, and the broader European and regional dynamics surrounding that.",
-      "source_url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti"
+      "host_country": "France",
+      "date": "2026-11-14",
+      "description": "France's President Emmanuel Macron and other leaders are attending a biennial meeting of French-speaking countries and territories in Cambodia",
+      "source_url": "https://abcnews.com/International/wireStory/french-speaking-nations-hold-summit-cambodia-african-conflict-138135244"
+    },
+    {
+      "title": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
+      "visiting_leader": "",
+      "host_country": "Ukraine",
+      "date": "2026-11-14",
+      "description": "The three leaders are scheduled to meet on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen on Thursday, the White House confirmed. US officials said discussions will include nuclear weapons and the war in Iran, but that the war in Ukraine is unlikely to be on the agenda. Ukrainian President Volodymyr Zelensky warned the talks could prove a Yalta-like \"redistribution of spheres of influence\".",
+      "source_url": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says"
     },
     {
       "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
@@ -67,20 +75,12 @@
       "source_url": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit"
     },
     {
-      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-      "visiting_leader": "",
-      "host_country": "Ukraine",
-      "date": "2026-11-12",
-      "description": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-      "source_url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
-    },
-    {
-      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
+      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
       "visiting_leader": "",
       "host_country": "Global",
-      "date": "2026-11-12",
-      "description": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o"
+      "date": "2026-11-14",
+      "description": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China&#039;s Xi.",
+      "source_url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss"
     }
   ],
   "elections": [
@@ -93,12 +93,12 @@
       "source_url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
     },
     {
-      "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
+      "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
       "country": "Global",
       "election_type": "National",
-      "date": "2026-11-13",
-      "description": "A crushing local election result across the country has left South Africa's ruling ANC searching for answers. Experts say the vote reflects public frustration with service delivery failures — signaling a political shift.",
-      "source_url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-world-4025-rdf"
+      "date": "2026-11-14",
+      "description": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
+      "source_url": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-rdf"
     },
     {
       "title": "Gambia's Adama Barrow seeks third term",
@@ -109,21 +109,21 @@
       "source_url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term"
     },
     {
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "title": "South Sudan postpones first-ever national elections until February",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-14",
+      "description": "The vote, first expected in 2022, will now be held on February 11, according to the country&#039;s election commission.",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss"
+    },
+    {
+      "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
       "country": "Global",
       "election_type": "National",
       "date": "2026-11-13",
-      "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo"
-    },
-    {
-      "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-11",
-      "description": "Brazil&rsquo;s top electoral court fines Meta&rsquo;s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign",
-      "source_url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841"
+      "description": "A crushing local election result across the country has left South Africa's ruling ANC searching for answers. Experts say the vote reflects public frustration with service delivery failures — signaling a political shift.",
+      "source_url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-world-4025-rdf"
     }
   ],
-  "last_updated": "2026-11-14T04:08:20.281795+00:00"
+  "last_updated": "2026-11-14T12:43:54.991867+00:00"
 }
