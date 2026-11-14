@@ -85,14 +85,6 @@
   ],
   "elections": [
     {
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
-      "country": "Global",
-      "election_type": "National",
-      "date": "2026-11-13",
-      "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo"
-    },
-    {
       "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
       "country": "Global",
       "election_type": "National",
@@ -117,6 +109,14 @@
       "source_url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term"
     },
     {
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "country": "Global",
+      "election_type": "National",
+      "date": "2026-11-13",
+      "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo"
+    },
+    {
       "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
       "country": "Global",
       "election_type": "National",
@@ -125,5 +125,5 @@
       "source_url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841"
     }
   ],
-  "last_updated": "2026-11-13T23:01:52.801930+00:00"
+  "last_updated": "2026-11-14T04:08:20.281795+00:00"
 }
